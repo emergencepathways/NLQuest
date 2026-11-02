@@ -1,0 +1,1593 @@
+{
+ "quests": {
+  "237": {
+   "t": "Ter verdediging van het land van de koning",
+   "d": "Mountaineer Cobbleflint zei alleen maar goede dingen over jou, $r. Daarom geef ik je een opdracht die heel erg belangrijk is. We moeten de troggs die ons land binnenvallen onder druk houden. Dat moet zo blijven tot onze dwergse broeders terugkomen van het front van de Alliance.$b$bGa naar de heuvels in het zuiden en dood 10 Stonesplinter Skullthumpers en 10 Stonesplinter Seers. Met jouw aanvallen winnen we wat tijd. Kom terug als je opdracht klaar is.",
+   "o": "Mountaineer Gravelgaw in de zuidelijke wachttoren wil dat je 10 Stonesplinter Skullthumpers en 10 Stonesplinter Seers doodt en daarna bij hem terugkomt.",
+   "p": "We hebben meer tijd nodig, $r. Je opdracht is: dood 10 Stonesplinter Skullthumpers en 10 Stonesplinter Seers. Houd de vijand onder druk tot we versterking krijgen. Dit is geen tijd om niets te doen.",
+   "c": "Je hebt je opdracht goed uitgevoerd, $R. De koning zelf zou trots zijn.$B$BMaar de versterking die ons beloofd was, is nooit gekomen. Het front van de Alliance is blijkbaar een zee van donkerrood, van het bloed van onze gevallen broeders. Het nieuws over de verliezen laat een bittere smaak in je mond achter. Maar hun dood mag niet voor niets zijn. In deze sombere tijden moeten we ons verzamelen en de Alliance weer glorie brengen.$B$BPraat met Mountaineer Wallbang voor een nieuwe opdracht. We hebben je nu harder nodig dan ooit.",
+   "g": [
+    [
+     "binnenvallen",
+     "invade"
+    ],
+    [
+     "broeders",
+     "brethren (broeder)"
+    ],
+    [
+     "front",
+     "front (of a war)"
+    ],
+    [
+     "versterking",
+     "reinforcements"
+    ],
+    [
+     "uitgevoerd",
+     "carried out (uitvoeren)"
+    ],
+    [
+     "beloofd",
+     "promised (beloven)"
+    ],
+    [
+     "blijkbaar",
+     "apparently"
+    ],
+    [
+     "gevallen",
+     "fallen (in battle)"
+    ],
+    [
+     "verliezen",
+     "losses (verlies)"
+    ],
+    [
+     "bittere",
+     "bitter (bitter)"
+    ],
+    [
+     "sombere",
+     "grim, gloomy (somber)"
+    ],
+    [
+     "ons verzamelen",
+     "to rally, gather together (zich verzamelen)"
+    ],
+    [
+     "glorie",
+     "glory"
+    ]
+   ]
+  },
+  "263": {
+   "t": "Ter verdediging van het land van de koning",
+   "d": "De Mountaineers zeggen dat je heel dapper en bekwaam bent, $N. We hebben hier een $r zoals jij nodig. Het probleem met de troggs wordt niet beter. De reserves zijn naar het front geroepen en we staan hier helemaal alleen. Maar nu er een ervaren $c bij ons is, kunnen we zien wat je kunt.$b$bGa erop uit en dood 10 Stonesplinter Shaman en 10 Stonesplinter Bonesnappers. Laat maar zien of je je reputatie waarmaakt, Troggdoder.",
+   "o": "Mountaineer Wallbang in de zuidelijke wachttoren wil dat je 10 Stonesplinter Shaman en 10 Stonesplinter Bonesnappers doodt.",
+   "p": "Ben je nu al terug? Voor het geval ik niet duidelijk was: je moet 10 Stonesplinter Shaman en 10 Stonesplinter Bonesnappers doden, $N. Pak ze nu maar aan, Troggdoder!",
+   "c": "Ik wist het meteen toen ik je zag, $N: jij zou Ironforge trots maken. Je hebt koning Magni goed gediend. Je hebt laten zien dat je het koninkrijk trouw helpt. Misschien moet je nu met de kapitein praten. Misschien geeft hij je een belangrijkere taak.$B$BIk groet je, $N.",
+   "g": [
+    [
+     "bekwaam",
+     "capable, skilled"
+    ],
+    [
+     "reserves",
+     "reserves (troops)"
+    ],
+    [
+     "geroepen",
+     "called (roepen)"
+    ],
+    [
+     "ervaren",
+     "experienced"
+    ],
+    [
+     "reputatie",
+     "reputation"
+    ],
+    [
+     "waarmaakt",
+     "live up to (waarmaken)"
+    ],
+    [
+     "Troggdoder",
+     "Trogg-Slayer"
+    ],
+    [
+     "voor het geval",
+     "in case"
+    ],
+    [
+     "gediend",
+     "served (dienen)"
+    ],
+    [
+     "koninkrijk",
+     "kingdom"
+    ],
+    [
+     "trouw",
+     "loyal, loyally"
+    ],
+    [
+     "groet",
+     "salute, greet (groeten)"
+    ]
+   ]
+  },
+  "273": {
+   "t": "Nieuwe voorraden voor de opgraving",
+   "d": "Maar het is nog niet te laat. Je mag gerust Huldar gaan zoeken. Hij kan nog niet erg ver zijn. Miran en Saean zijn sterk, maar ze zijn zwaar beladen met die vaten. Daardoor kunnen ze maar langzaam vooruit.$b$bZe nemen de gewone weg naar de opgraving: de stad uit naar het zuiden en dan langs de bocht van het meer.$b$bJe vindt ze vast zonder problemen, tenzij ze er al zijn.",
+   "o": "Praat met Huldar.",
+   "c": "Hmf, er is meer nodig dan een hinderlaag van de Dark Irons om de leveringen te stoppen!$b$bMaar Saean... Ik had nooit gedacht dat hij een van hun medestanders was. We werken nu al bijna een jaar met hem samen... Misschien heb ik de tekens gemist.$b$bNou ja, daar denk ik later wel over na.",
+   "e": "Zoek Huldar, Miran en Saean",
+   "g": [
+    [
+     "voorraden",
+     "supplies (voorraad)"
+    ],
+    [
+     "opgraving",
+     "excavation, dig"
+    ],
+    [
+     "gerust",
+     "feel free to, by all means"
+    ],
+    [
+     "beladen",
+     "loaded, laden"
+    ],
+    [
+     "vaten",
+     "barrels (vat)"
+    ],
+    [
+     "bocht",
+     "bend, curve"
+    ],
+    [
+     "tenzij",
+     "unless"
+    ],
+    [
+     "hinderlaag",
+     "ambush"
+    ],
+    [
+     "leveringen",
+     "deliveries (levering)"
+    ],
+    [
+     "medestanders",
+     "sympathizers, supporters (medestander)"
+    ],
+    [
+     "tekens",
+     "signs (teken)"
+    ]
+   ]
+  },
+  "298": {
+   "t": "Voortgangsverslag van de opgraving",
+   "d": "Er moet een verslag over de voortgang naar Thelsamar. Een verslag, en nog een keer mijn verzoek om meer springpoeder! Hier is het verslag. Breng het naar Jern Hornhelm. Hij is onze contactpersoon in Thelsamar.$B$BHet is geen moeilijke taak, maar het moet gebeuren.",
+   "o": "Breng Ironband's Progress Report naar Jern Hornhelm in Thelsamar.",
+   "p": "O, een verslag van de opgraving? Heel goed!",
+   "c": "Bah! Ironband heeft problemen met de troggs. Wil hij dat springpoeder om te graven, of om tegen die beesten van troggs te vechten...$b$bNou ja, hoe dan ook: dat poeder is goed besteed!$b$bMaar het vreemde is: ik heb hem weken geleden al genoeg springpoeder gestuurd. Waar zou dat gebleven zijn...",
+   "g": [
+    [
+     "voortgang",
+     "progress"
+    ],
+    [
+     "verslag",
+     "report"
+    ],
+    [
+     "verzoek",
+     "request"
+    ],
+    [
+     "springpoeder",
+     "blastpowder, explosive powder"
+    ],
+    [
+     "contactpersoon",
+     "contact (person)"
+    ],
+    [
+     "gebeuren",
+     "happen, be done"
+    ],
+    [
+     "hoe dan ook",
+     "either way, anyway"
+    ],
+    [
+     "besteed",
+     "spent (besteden)"
+    ],
+    [
+     "gebleven",
+     "gone, ended up (blijven)"
+    ]
+   ]
+  },
+  "301": {
+   "t": "Een verslag voor Ironforge",
+   "d": "We hebben toestemming nodig om Ironband meer springpoeder te geven. Je moet zijn verslag naar het hoofdkwartier van de Explorers' League in Ironforge brengen.$B$BHier is het verslag. Geef het aan Prospector Stormpike, en vergeet niet te bukken als je het hebt gegeven. Stormpike wordt snel boos, en hij zal niet blij zijn als hij hoort dat het werk van Ironband zo langzaam gaat.$B$BJe vindt Stormpike in de Assembly of Explorers.",
+   "o": "Breng Ironband's Progress Report naar Prospector Stormpike.",
+   "p": "Wij Stormpikes houden er niet van als we gestoord worden voor kleine dingen, $C. Ik hoop dat je nieuws hebt dat mijn kostbare aandacht waard is.",
+   "c": "Die vervloekte Ironband! Ik heb hem weken geleden een lading springpoeder gestuurd, maar daar zegt hij niets over in dit verslag.$b$bDus... waar is dat springpoeder gebleven?!?",
+   "g": [
+    [
+     "toestemming",
+     "permission, approval"
+    ],
+    [
+     "hoofdkwartier",
+     "headquarters"
+    ],
+    [
+     "bukken",
+     "to duck"
+    ],
+    [
+     "gestoord",
+     "bothered, disturbed (storen)"
+    ],
+    [
+     "kostbare",
+     "valuable (kostbaar)"
+    ],
+    [
+     "aandacht",
+     "attention"
+    ],
+    [
+     "waard",
+     "worth"
+    ],
+    [
+     "vervloekte",
+     "cursed (vervloekt)"
+    ],
+    [
+     "lading",
+     "load, shipment"
+    ]
+   ]
+  },
+  "302": {
+   "t": "Poeder voor Ironband",
+   "d": "Als Ironband nog steeds springpoeder nodig heeft, dan krijgt hij het, bij Magni! Ik heb de toestemming al vooruit gestuurd met een boodschapper naar Jern Hornhelm in Thelsamar. Hij maakt het poeder en de andere voorraden klaar om naar Ironband te brengen.$B$BEn nog één ding: ik wil dat jij er zelf voor zorgt dat de lading poeder aankomt. De vorige lading is niet aangekomen. Dus blijf scherp en houd je ogen open.",
+   "o": "Praat met Jern Hornhelm in Thelsamar.",
+   "c": "Wat? Wil Stormpike dat jij zelf de lading naar Ironband begeleidt?$b$bIk... denk dat dat goed is. Het enige probleem is: ik heb Huldar al gestuurd, met de dragers Miran en Saean. Je hebt ze net gemist. Ze zijn kort geleden vertrokken.",
+   "g": [
+    [
+     "vooruit",
+     "ahead"
+    ],
+    [
+     "boodschapper",
+     "messenger"
+    ],
+    [
+     "zelf",
+     "yourself, personally"
+    ],
+    [
+     "aankomt",
+     "arrives (aankomen)"
+    ],
+    [
+     "vorige",
+     "previous"
+    ],
+    [
+     "scherp",
+     "sharp"
+    ],
+    [
+     "begeleidt",
+     "escorts, accompanies (begeleiden)"
+    ],
+    [
+     "dragers",
+     "porters (drager)"
+    ],
+    [
+     "gemist",
+     "missed (missen)"
+    ],
+    [
+     "vertrokken",
+     "left (vertrekken)"
+    ]
+   ]
+  },
+  "307": {
+   "t": "Vieze poten",
+   "d": "De Silver Stream Mine in het oosten is al lang geleden leeg geraakt. De Miners' League heeft er een opslagplaats van gemaakt. Maar nu zijn er kobolds ingetrokken, en ze zitten met hun vieze poten aan goed dwergengereedschap!$B$BWe jagen dat ongedierte er snel genoeg uit. Maar de League wil dat iemand hun spullen uit de mijn haalt, voordat wij krijgers daar naar binnen stampen en dingen kapotmaken. Het wordt een zware tocht onder de grond. Misschien wil je kameraden aan je zijde.$B$BDe spullen liggen in Miners' League Crates, overal in de mijn. Succes.",
+   "o": "Ga naar de Silver Stream Mine en verzamel 4 ladingen Miners' Gear.$B$BGa terug naar Mountaineer Stormpike.",
+   "p": "Heb je die Miners' Gear, $N?",
+   "c": "Heb je daar veel kobolds gezien? Ik kan niet wachten op het bevel om ze uit de mijn te verjagen. Als ik denk aan hun smerige handen die in onze mijn rondgraaien, gaat mijn maag ervan rommelen!",
+   "g": [
+    [
+     "vieze",
+     "filthy, dirty (vies)"
+    ],
+    [
+     "poten",
+     "paws (poot)"
+    ],
+    [
+     "opslagplaats",
+     "storage depot"
+    ],
+    [
+     "ingetrokken",
+     "moved in (intrekken)"
+    ],
+    [
+     "gereedschap",
+     "tools"
+    ],
+    [
+     "ongedierte",
+     "vermin"
+    ],
+    [
+     "stampen",
+     "stomp, tromp"
+    ],
+    [
+     "kameraden",
+     "comrades (kameraad)"
+    ],
+    [
+     "aan je zijde",
+     "at your side"
+    ],
+    [
+     "bevel",
+     "order, command"
+    ],
+    [
+     "verjagen",
+     "drive away, chase out"
+    ],
+    [
+     "smerige",
+     "grimy, filthy (smerig)"
+    ],
+    [
+     "rondgraaien",
+     "grab around, claw around"
+    ],
+    [
+     "rommelen",
+     "rumble"
+    ]
+   ]
+  },
+  "309": {
+   "t": "De lading beschermen",
+   "d": "Ben je klaar om te gaan, $n?$b$bEerst moeten we dit poeder naar Ironband brengen. Het is veel om te dragen, en het kan hier in de buurt gevaarlijk zijn. En wie weet wat de Dark Irons nog meer voor me van plan zijn.$b$bIk voel me een stuk beter als jij meegaat.",
+   "o": "Zorg dat Miran en de lading bij de opgraving aankomen. Vertel het daarna aan Prospector Ironband.",
+   "c": "O, het Licht zij dank, het poeder is er! Maar je brengt ook zorgwekkend nieuws. Stel je voor: de Dark Irons hebben medestanders die zulk materiaal voor hun gemene plannen kunnen krijgen.$b$bDaar moet iemand anders maar over nadenken, een andere keer. Ik moet dit poeder goed gebruiken.",
+   "e": "Begeleid Miran naar de opgraving",
+   "g": [
+    [
+     "dragen",
+     "carry"
+    ],
+    [
+     "in de buurt",
+     "around here, nearby"
+    ],
+    [
+     "van plan",
+     "planning, intending"
+    ],
+    [
+     "een stuk beter",
+     "a lot better"
+    ],
+    [
+     "het Licht zij dank",
+     "thank the Light"
+    ],
+    [
+     "zorgwekkend",
+     "troubling, worrying"
+    ],
+    [
+     "stel je voor",
+     "just imagine, to think that"
+    ],
+    [
+     "medestanders",
+     "sympathizers (medestander)"
+    ],
+    [
+     "gemene",
+     "nasty, dastardly (gemeen)"
+    ],
+    [
+     "nadenken",
+     "think about, consider"
+    ]
+   ]
+  },
+  "385": {
+   "t": "Jagen op krokolisken",
+   "d": "Veel jagers komen naar Loch Modan om op onze beroemde krokolisken te jagen. Er zijn altijd handelaars die krokoliskhuiden zoeken voor kleding of pantser. En er zijn ook mensen die hun vlees lekker vinden.$b$bWe handelen er een beetje in, maar niet veel. De krokolisken zijn namelijk woest, en ze hebben zich stevig vastgezet op de eilanden in het meer. Maar laat je daardoor niet tegenhouden. Het is echt een belevenis om te worstelen met de kaken van die beesten.$b$bNou, die ene keer...",
+   "o": "Haal 5 stukken Crocolisk Meat en 6 Crocolisk Skins voor Marek Ironheart in de Farstrider Lodge.",
+   "p": "Heb ik je al verteld over die keer dat ik bijna mijn hand verloor aan een van de krokolisken? Het was een gemeen rotbeest, met tanden als messen. Maar ik had geluk... Ik klemde de kaak van dat beest dicht met mijn mes. Dat mes ligt hier nog ergens...",
+   "c": "Nou, dit zijn prachtige exemplaren die je hebt verzameld, $N. Goed geld voor materiaal van hoge kwaliteit, dat is zeker.",
+   "g": [
+    [
+     "beroemde",
+     "famous (beroemd)"
+    ],
+    [
+     "handelaars",
+     "merchants (handelaar)"
+    ],
+    [
+     "krokoliskhuiden",
+     "crocolisk skins (huid)"
+    ],
+    [
+     "pantser",
+     "armor"
+    ],
+    [
+     "woest",
+     "ferocious, wild"
+    ],
+    [
+     "vastgezet",
+     "settled in, entrenched (zich vastzetten)"
+    ],
+    [
+     "tegenhouden",
+     "stop, hold back"
+    ],
+    [
+     "belevenis",
+     "experience"
+    ],
+    [
+     "worstelen",
+     "wrestle"
+    ],
+    [
+     "kaken",
+     "jaws (kaak)"
+    ],
+    [
+     "rotbeest",
+     "nasty beast"
+    ],
+    [
+     "klemde",
+     "jammed, clamped (klemmen)"
+    ],
+    [
+     "exemplaren",
+     "specimens (exemplaar)"
+    ],
+    [
+     "kwaliteit",
+     "quality"
+    ]
+   ]
+  },
+  "454": {
+   "t": "Na de hinderlaag",
+   "d": "Voor deze... zaak brachten we de vaten met poeder in een paar tochten heen en weer. Nu moeten we het werk verdelen. Miran neemt de vaten mee en ik pas op de andere.$b$bIk vind het niet veilig als Miran de rest van de lading alleen vervoert. Als hij klaar is om te gaan, kun jij hem misschien begeleiden op zijn volgende tocht?",
+   "o": "Praat met Miran.",
+   "c": "Hallo, $C.$b$bGa jij mij begeleiden naar de opgraving? Dat is goed om te horen... Na Saean en zijn handlangers: wie weet wat de Dark Irons nog meer van plan zijn?$b$bHoe dan ook, ik doe nog een paar laatste controles. Praat nog een keer met me als je klaar bent om te gaan.",
+   "g": [
+    [
+     "hinderlaag",
+     "ambush"
+    ],
+    [
+     "zaak",
+     "business, matter"
+    ],
+    [
+     "tochten",
+     "trips (tocht)"
+    ],
+    [
+     "heen en weer",
+     "back and forth"
+    ],
+    [
+     "verdelen",
+     "split up, divide"
+    ],
+    [
+     "pas op",
+     "watch over (oppassen)"
+    ],
+    [
+     "vervoert",
+     "transports, hauls (vervoeren)"
+    ],
+    [
+     "begeleiden",
+     "escort"
+    ],
+    [
+     "handlangers",
+     "cronies, henchmen (handlanger)"
+    ],
+    [
+     "controles",
+     "checks (controle)"
+    ]
+   ]
+  },
+  "1339": {
+   "t": "De taak van Mountaineer Stormpike",
+   "d": "Ik hoor dat Mountaineer Stormpike een boodschapper zoekt. Iemand die een stukje voor hem reist. Wat denk je ervan? Ben jij de $r voor deze klus?$B$BZo ja, dan vind je Stormpike boven in de noordelijke wachttoren.",
+   "o": "Praat met Mountaineer Stormpike.",
+   "c": "Dat klopt. Ik heb een taak die ik niet kan doen, omdat ik de wacht moet houden. Je moet er zelfs ver voor weg uit Loch Modan.$b$bDe perfecte kans op avontuur voor jou!",
+   "g": [
+    [
+     "boodschapper",
+     "messenger, runner"
+    ],
+    [
+     "een stukje",
+     "a little way"
+    ],
+    [
+     "klus",
+     "job"
+    ],
+    [
+     "zo ja",
+     "if so"
+    ],
+    [
+     "noordelijke",
+     "northern (noordelijk)"
+    ],
+    [
+     "wachttoren",
+     "guard tower"
+    ],
+    [
+     "de wacht houden",
+     "keep guard"
+    ],
+    [
+     "zelfs",
+     "even, in fact"
+    ],
+    [
+     "avontuur",
+     "adventure"
+    ]
+   ]
+  },
+  "2038": {
+   "t": "De verloren spullen van Bingles",
+   "d": "Eerst stortte ik al neer in het meer. En toen vielen troggs van het eiland hier vlakbij me ook nog aan! Ze stalen mijn gereedschap en mijn speciale Blastenheimer Blastencapper-explosieven. Zonder gyrocopter en zonder explosieven maakt de beweging geen enkele kans!$B$BHaal mijn gereedschap terug en zoek mijn Blastencapper-explosieven, $N. Voor Gnomeregan!",
+   "o": "Zoek de spullen van Bingles en breng ze terug:$B$BBingles' Wrench, Bingles' Screwdriver, Bingles' Hammer en Bingles' Blastencapper.",
+   "p": "$N! Waar zijn mijn spullen?!",
+   "c": "Je hebt de beweging een grote dienst bewezen, $N. De troggs en lepragnomen die Gnomeregan overspoelen, zullen snel de volle klap van een gnomische luchtaanval voelen!",
+   "g": [
+    [
+     "stortte neer",
+     "crashed (neerstorten)"
+    ],
+    [
+     "vlakbij",
+     "nearby"
+    ],
+    [
+     "stalen",
+     "stole (stelen)"
+    ],
+    [
+     "gereedschap",
+     "tools"
+    ],
+    [
+     "explosieven",
+     "explosives (explosief)"
+    ],
+    [
+     "beweging",
+     "movement"
+    ],
+    [
+     "geen enkele",
+     "not a single, no"
+    ],
+    [
+     "een dienst bewezen",
+     "did a service (bewijzen)"
+    ],
+    [
+     "lepragnomen",
+     "leper gnomes"
+    ],
+    [
+     "overspoelen",
+     "infest, overrun"
+    ],
+    [
+     "klap",
+     "blow, brunt"
+    ],
+    [
+     "luchtaanval",
+     "air assault"
+    ]
+   ]
+  },
+  "257": {
+   "t": "De opschepperij van een jager",
+   "d": "Denk je dat je net zo slim bent als Daryl the Bold? Dat dacht ik niet! Maar je mag het natuurlijk proberen. Hier is een uitdaging die vast te moeilijk voor je is. Voel je dus niet te slecht als je het niet aankunt.$b$bEen zwerm gieren heeft hier in Loch Modan een nest gemaakt. Probeer eens een paar van die beesten neer te halen. Weet je wat? Als je binnen vijftien minuten mijn uitdaging haalt, geef ik je mijn boog of mijn geweer.$b$b<Hij bekijkt je met minachting.>$b$bJe hebt toch al niet veel te verliezen, zo te zien.",
+   "o": "Dood 6 Mountain Buzzards en ga binnen 15 minuten terug naar Daryl the Youngling in de Farstrider Lodge.",
+   "p": "Geen geluk? Voel je niet te slecht, $N...$B$BNiet iedereen kan mij zijn.",
+   "c": "Wat? Gelukt?$B$BLuister naar mij, $Nama: laat het je niet naar je hoofd stijgen. Ik bedoel, elke ongeschoren jongen met een boog had zulke... kleine exemplaren kunnen doden. En ik hoop dat je het niet te leuk vindt om de gieren te doden, hè? We willen niet dat ze uitsterven.$B$BNou, eh... Niemand zal ooit kunnen zeggen dat Daryl the Bold zich niet aan zijn woord houdt.",
+   "g": [
+    [
+     "opschepperij",
+     "boasting, bragging"
+    ],
+    [
+     "uitdaging",
+     "challenge"
+    ],
+    [
+     "aankunt",
+     "can handle (aankunnen)"
+    ],
+    [
+     "zwerm",
+     "flock"
+    ],
+    [
+     "gieren",
+     "buzzards, vultures (gier)"
+    ],
+    [
+     "geweer",
+     "gun, rifle"
+    ],
+    [
+     "minachting",
+     "contempt, dismissiveness"
+    ],
+    [
+     "verliezen",
+     "lose"
+    ],
+    [
+     "naar je hoofd stijgen",
+     "go to your head (stijgen)"
+    ],
+    [
+     "ongeschoren",
+     "unshaven"
+    ],
+    [
+     "exemplaren",
+     "specimens (exemplaar)"
+    ],
+    [
+     "uitsterven",
+     "become extinct"
+    ],
+    [
+     "zich aan zijn woord houdt",
+     "keeps his word (houden)"
+    ]
+   ]
+  },
+  "217": {
+   "t": "Ter verdediging van het land van de koning",
+   "d": "$N, onze verkenners weten nu wie de leider is van deze nieuwe inval van de troggs. Het lijkt erop dat de beesten in Loch Modan een stamhoofd volgen dat Grawmug heet. Maar Grawmug wordt zwaar bewaakt. Zijn twee beste wachters, Gnasher en Brawler, gaan nooit bij hem weg.$b$bAls je denkt dat je het waard bent, $N, wil ik dat jij de aanslag op Grawmug en zijn twee boeven leidt. Als de leiders van de troggs dood zijn, hebben we misschien een kans om die beesten terug de grond in te duwen.",
+   "o": "Dood de leider van de troggs, Grawmug, en zijn twee wachters, Gnasher en Brawler. Ga daarna terug naar Captain Rugelfuss in de zuidelijke wachttoren.",
+   "p": "Grawmug en zijn twee wachters, Gnasher en Brawler, leven nog. Je opdracht is pas klaar als ze alle 3 dood zijn. Het rijk van de dwergen rekent op je, $N.",
+   "c": "Uitstekend, $N! Je hebt Loch Modan hoop gegeven. Nu Grawmug dood is, hebben we een betere kans om de troggs uit het land te verdrijven.",
+   "g": [
+    [
+     "verkenners",
+     "scouts (verkenner)"
+    ],
+    [
+     "inval",
+     "incursion, raid"
+    ],
+    [
+     "stamhoofd",
+     "chieftain"
+    ],
+    [
+     "bewaakt",
+     "guarded (bewaken)"
+    ],
+    [
+     "wachters",
+     "guards (wachter)"
+    ],
+    [
+     "waard",
+     "worthy"
+    ],
+    [
+     "aanslag",
+     "assassination, attack"
+    ],
+    [
+     "boeven",
+     "thugs (boef)"
+    ],
+    [
+     "rijk",
+     "empire, realm"
+    ],
+    [
+     "rekent op",
+     "counts on (rekenen op)"
+    ],
+    [
+     "uitstekend",
+     "excellent"
+    ],
+    [
+     "verdrijven",
+     "drive out, eliminate"
+    ]
+   ]
+  },
+  "258": {
+   "t": "De uitdaging van een jager",
+   "d": "$nath, toch? Ik zie dat je barst van trots omdat je de eerste test hebt gehaald, hè? Zoals ik al zei: het is geen grote prestatie.$b$bJe moet het eens proberen met de jacht op zwijnen. Geloof me, dit is geen zwijnenjacht zoals in Coldridge Valley, dus pas goed op met ze. Deze keer geef ik je maar twaalf minuten.$b$bVoel je niet slecht als het mislukt. Als het je lukt, geef ik je het shirt dat ik aanheb!$b$bHeb ik je ooit het verhaal verteld van hoe ik mijn beroemde litteken kreeg? Nee? Het was twee jaar geleden...",
+   "o": "Dood 5 Elder Mountain Boars en ga binnen 12 minuten terug naar Daryl the Youngling in de Farstrider Lodge.",
+   "p": "Het is heel normaal dat je medelijden met jezelf hebt als iemand die zo nieuw is in deze wereld beter is dan jij. Je moet je niet slecht voelen, $N.$B$BHm? Heb ik je naam verkeerd gezegd?",
+   "c": "Je ziet er wat gehavend uit. De zwijnen hebben je vast wat problemen gegeven, hè? Geen zorgen, ik zal niemand iets vertellen over je moeite. Ik kan me voorstellen hoe moeilijk het voor je moet zijn, ook zonder de beschuldigingen van roddelende tongen.$B$BO! Heb je de zwijnen echt gedood? Ik... nou, dat wil zeggen... dat wil zeggen, het verbaast me niets! Elk kind had -- een weddenschap?$B$BWelke weddenschap?",
+   "g": [
+    [
+     "barst van trots",
+     "bursting with pride (barsten)"
+    ],
+    [
+     "prestatie",
+     "feat, achievement"
+    ],
+    [
+     "zwijnen",
+     "boars (zwijn)"
+    ],
+    [
+     "mislukt",
+     "fails (mislukken)"
+    ],
+    [
+     "aanheb",
+     "have on, wear (aanhebben)"
+    ],
+    [
+     "litteken",
+     "scar"
+    ],
+    [
+     "medelijden",
+     "pity"
+    ],
+    [
+     "gehavend",
+     "battered, worse for wear"
+    ],
+    [
+     "moeite",
+     "struggle, trouble"
+    ],
+    [
+     "voorstellen",
+     "imagine (zich voorstellen)"
+    ],
+    [
+     "beschuldigingen",
+     "accusations (beschuldiging)"
+    ],
+    [
+     "roddelende",
+     "gossiping (roddelen)"
+    ],
+    [
+     "verbaast",
+     "surprises (verbazen)"
+    ],
+    [
+     "weddenschap",
+     "bet"
+    ]
+   ]
+  },
+  "161": {
+   "t": "Een duistere dreiging",
+   "d": "Als mijn vermoeden klopt, is dit een soort explosief poeder. Een explosievenexpert moet het onderzoeken, zodat we weten waar we mee te maken hebben. Ashlan Stonesmirk werd ingedeeld bij het regiment dat Dun Modr en de Thandol Span bewaakt. Ik wil dat je een zware en gevaarlijke reis maakt, $N.$b$bReis door de Algaz Gate, volg de weg door de Wetlands en zoek Stonesmirk in Dun Modr. Luister naar mijn raad: blijf op de wegen en stop voor niets!",
+   "o": "Chief Engineer Hinderweir wil dat je het vreemd ruikende poeder naar Ashlan Stonesmirk brengt, de explosievenexpert in Dun Modr.",
+   "p": "Zei je iets, jongen? Ik hoor verdorie niks, alleen het piepen in mijn oren. Zeg, wat heb je daar?",
+   "c": "Ah, de oude Hinderweir doet er verstandig aan om zich zorgen te maken.",
+   "g": [
+    [
+     "duistere",
+     "dark (duister)"
+    ],
+    [
+     "dreiging",
+     "threat"
+    ],
+    [
+     "vermoeden",
+     "suspicion"
+    ],
+    [
+     "explosief",
+     "explosive"
+    ],
+    [
+     "explosievenexpert",
+     "explosives expert"
+    ],
+    [
+     "onderzoeken",
+     "analyze, examine"
+    ],
+    [
+     "te maken hebben met",
+     "be dealing with"
+    ],
+    [
+     "ingedeeld",
+     "assigned (indelen)"
+    ],
+    [
+     "regiment",
+     "regiment"
+    ],
+    [
+     "raad",
+     "advice"
+    ],
+    [
+     "ruikende",
+     "smelling (ruiken)"
+    ],
+    [
+     "verdorie",
+     "blast it, bloody"
+    ],
+    [
+     "piepen",
+     "ringing, beeping"
+    ],
+    [
+     "verstandig",
+     "wise, sensible"
+    ]
+   ]
+  },
+  "199": {
+   "t": "Een duistere dreiging",
+   "d": "Je neemt een monster van het vreemd ruikende poeder.",
+   "o": "Ga terug naar Chief Engineer Hinderweir en laat hem de aanwijzing zien die je hebt gevonden.",
+   "p": "Heb je toevallig aanwijzingen gevonden, $N?",
+   "c": "Dit is een zorgwekkende ontdekking, zacht gezegd!",
+   "g": [
+    [
+     "monster",
+     "sample"
+    ],
+    [
+     "ruikende",
+     "smelling (ruiken)"
+    ],
+    [
+     "aanwijzing",
+     "clue"
+    ],
+    [
+     "toevallig",
+     "by any chance"
+    ],
+    [
+     "zorgwekkende",
+     "alarming (zorgwekkend)"
+    ],
+    [
+     "ontdekking",
+     "discovery"
+    ],
+    [
+     "zacht gezegd",
+     "to say the least"
+    ]
+   ]
+  },
+  "250": {
+   "t": "Een duistere dreiging",
+   "d": "De sterren zij dank, er is iemand die zich zorgen maakt over de veiligheid van de dam. Eerst werd de Thandol Span vernietigd en daarna werd Dun Modr geplunderd! Ik twijfel er niet aan dat de dam het volgende doelwit van de Dark Irons wordt. De meeste bewakers van hier zijn naar het front van de Alliance gestuurd, ook mijn beste inspecteur.$b$bDaarom heb ik jou nodig, $N. Ik zag een paar Dark Iron Sappers rondhangen bij de oostelijke helling van de dam. Onderzoek het gebied en breng een aanwijzing mee.",
+   "o": "Onderzoek het gebied bij de oostelijke helling van de dam. Breng Chief Engineer Hinderweir een aanwijzing die kan laten zien wat de Dark Iron Dwarves van plan zijn.",
+   "c": "In het verdacht uitziende vat zit een vreemd ruikend poeder.",
+   "g": [
+    [
+     "de sterren zij dank",
+     "thank the stars"
+    ],
+    [
+     "veiligheid",
+     "well-being, safety"
+    ],
+    [
+     "vernietigd",
+     "destroyed (vernietigen)"
+    ],
+    [
+     "geplunderd",
+     "pillaged (plunderen)"
+    ],
+    [
+     "twijfel",
+     "doubt (twijfelen)"
+    ],
+    [
+     "doelwit",
+     "target"
+    ],
+    [
+     "bewakers",
+     "guards, security (bewaker)"
+    ],
+    [
+     "rondhangen",
+     "mill about, hang around"
+    ],
+    [
+     "oostelijke",
+     "eastern (oostelijk)"
+    ],
+    [
+     "helling",
+     "ramp, slope"
+    ],
+    [
+     "onderzoek",
+     "investigate (onderzoeken)"
+    ],
+    [
+     "verdacht",
+     "suspicious"
+    ]
+   ]
+  },
+  "274": {
+   "t": "Een duistere dreiging",
+   "d": "Dit is geen gewoon springpoeder. Kijk naar die kleine zilveren kristallen. En die aparte geur! Het is zo klaar als een klontje: dit is Seaforium Powder. Seaforium is op zich vrij onschuldig. Maar als het nat wordt, kan het Ironforge uit de berg blazen.$b$bJe kunt de chemische reactie onschadelijk maken door vier dingen te mengen: lurkergif, gemalen Mo'Grosh-kristal, een krokolisktraan en dit ontmantelingscolloïde. Vertel het nu aan Hinderweir, voordat het te laat is!",
+   "o": "Ashlan Stonesmirk wil dat je teruggaat naar Chief Engineer Hinderweir en hem over de nieuwe ontdekking vertelt.",
+   "p": "Wat breng je mee van Ashlan?",
+   "c": "Een ontmantelingscolloïde? Voor Seaforium? O hemel!",
+   "g": [
+    [
+     "kristallen",
+     "crystals (kristal)"
+    ],
+    [
+     "aparte",
+     "distinct (apart)"
+    ],
+    [
+     "zo klaar als een klontje",
+     "clear as daylight"
+    ],
+    [
+     "op zich",
+     "in itself"
+    ],
+    [
+     "onschuldig",
+     "harmless"
+    ],
+    [
+     "chemische",
+     "chemical (chemisch)"
+    ],
+    [
+     "onschadelijk maken",
+     "defuse, make harmless"
+    ],
+    [
+     "mengen",
+     "mix"
+    ],
+    [
+     "gemalen",
+     "crushed, ground (malen)"
+    ],
+    [
+     "krokolisktraan",
+     "crocolisk tear"
+    ],
+    [
+     "ontmantelingscolloïde",
+     "disarming colloid"
+    ],
+    [
+     "o hemel",
+     "oh heavens"
+    ]
+   ]
+  },
+  "278": {
+   "t": "Een duistere dreiging",
+   "d": "Begin meteen met het verzamelen van de ontmantelende spullen, $N. Lurkergif vind je bij de spinnen die van nature in Loch Modan leven. Krokolisktranen vind je hier ook in het meer. Maar een Mo'Grosh-kristal is heel moeilijk te krijgen. De ogers in het noordoosten halen ze uit hun mijn, maar de kristallen zijn heel zeldzaam.$b$bWe moeten klaar zijn om een aanval van de Dark Irons onschadelijk te maken! Kom terug als je de nodige spullen hebt verzameld, dan maak ik het mengsel klaar.",
+   "o": "Chief Engineer Hinderweir wil dat je Lurker Venom, een Mo'grosh Crystal en een Crocolisk Tear verzamelt.",
+   "p": "Heb je de spullen die we nodig hebben? Er is geen tijd te verliezen!!",
+   "c": "Net op tijd, $N!",
+   "g": [
+    [
+     "meteen",
+     "immediately"
+    ],
+    [
+     "ontmantelende",
+     "disarming (ontmantelen)"
+    ],
+    [
+     "lurkergif",
+     "lurker venom"
+    ],
+    [
+     "van nature",
+     "naturally, native"
+    ],
+    [
+     "krokolisktranen",
+     "crocolisk tears (krokolisktraan)"
+    ],
+    [
+     "ogers",
+     "ogres (oger)"
+    ],
+    [
+     "zeldzaam",
+     "rare"
+    ],
+    [
+     "onschadelijk maken",
+     "defuse"
+    ],
+    [
+     "nodige",
+     "needed (nodig)"
+    ],
+    [
+     "mengsel",
+     "mixture"
+    ],
+    [
+     "geen tijd te verliezen",
+     "no time to lose"
+    ]
+   ]
+  },
+  "280": {
+   "t": "Een duistere dreiging",
+   "d": "Eerder vandaag zag ik een paar Dark Iron Insurgents met een groot vat naar de dam zwemmen. Er waren geen Mountaineers om ze tegen te houden! Ik ben bang dat ze het Seaforium onder aan de dam hebben gezet. Het kan elk moment ontploffen! Laat me al deze ingrediënten mengen tot de Disarming Mixture. Zo.$b$bNeem nu dit mengsel en roer het door het vat, voordat het te laat is! Snel!",
+   "o": "Chief Engineer Hinderweir wil dat je naar de onderkant van de dam zwemt. Zoek het vat met poeder en roer de Disarming Mixture erdoor, zodat er geen ontploffing komt.",
+   "p": "Het deksel van het vat draait langzaam los.",
+   "c": "Het vat bruist een beetje terwijl de Disarming Mixture erin zakt.",
+   "g": [
+    [
+     "eerder",
+     "earlier"
+    ],
+    [
+     "tegen te houden",
+     "to stop (tegenhouden)"
+    ],
+    [
+     "onder aan",
+     "at the base of"
+    ],
+    [
+     "ontploffen",
+     "explode"
+    ],
+    [
+     "ingrediënten",
+     "ingredients (ingrediënt)"
+    ],
+    [
+     "roer",
+     "stir (roeren)"
+    ],
+    [
+     "onderkant",
+     "bottom, base"
+    ],
+    [
+     "ontploffing",
+     "explosion"
+    ],
+    [
+     "deksel",
+     "lid, top"
+    ],
+    [
+     "draait los",
+     "twists off (losdraaien)"
+    ],
+    [
+     "bruist",
+     "fizzles (bruisen)"
+    ],
+    [
+     "zakt",
+     "settles, sinks (zakken)"
+    ]
+   ]
+  },
+  "297": {
+   "t": "Afgodsbeelden verzamelen",
+   "d": "Kort geleden, vlak voordat de troggs op de opgraving opdoken, hadden we een groot aantal vreemde, gehouwen afgodsbeelden gevonden. Maar we hadden geen kans om ze te bestuderen, want vlak daarna joegen de troggs ons weg uit de ruïnes! En die beelden hebben een vreemd effect op de troggs. Ze worden er razend van!$B$BBreng me 8 beelden. Ik wil ze bestuderen, en ik wil dat de troggs ze niet meer hebben! Je vindt de beelden bij de troggs die de opgraving overspoelen.",
+   "o": "Breng Magmar Fellhew 8 Carved Stone Idols.",
+   "p": "Heb je die beelden? We moeten ze bestuderen en ons onderzoek aan Ironforge melden!",
+   "c": "Je hebt ze! Goed gedaan, $N!$B$BEn je ziet er niet al te gehavend uit, ook al lopen die razende troggs hier rond. Ik ga je in de gaten houden... je bent veelbelovend.",
+   "g": [
+    [
+     "afgodsbeelden",
+     "idols (afgodsbeeld)"
+    ],
+    [
+     "opdoken",
+     "surfaced, appeared (opduiken)"
+    ],
+    [
+     "gehouwen",
+     "carved (in stone) (houwen)"
+    ],
+    [
+     "bestuderen",
+     "study"
+    ],
+    [
+     "joegen",
+     "chased (jagen)"
+    ],
+    [
+     "ruïnes",
+     "ruins (ruïne)"
+    ],
+    [
+     "razend",
+     "berserk, furious"
+    ],
+    [
+     "overspoelen",
+     "infest, overrun"
+    ],
+    [
+     "onderzoek",
+     "findings, research"
+    ],
+    [
+     "gehavend",
+     "worse for wear"
+    ],
+    [
+     "in de gaten houden",
+     "keep an eye on"
+    ],
+    [
+     "veelbelovend",
+     "promising"
+    ]
+   ]
+  },
+  "436": {
+   "t": "De opgraving van Ironband",
+   "d": "Prospector Ironband leidt een opgraving van oude ruïnes ten oosten van het meer. De laatste tijd gaat het werk langzaam, vooral als je kijkt naar alle voorraden die we hem hebben gestuurd.$B$BIronband is een stevige, eerlijke dwerg die resultaten belangrijk vindt. Daarom ben ik bang dat er krachten tegen hem werken.$B$BGa naar Ironband's Excavation en praat met Magmar Fellhew. Hij regelt de details van de opgraving en weet vast waarom het werk zo traag gaat.$B$BOm bij de opgraving te komen, ga je om de zuidpunt van het meer heen en dan naar het oosten.",
+   "o": "Praat met Explorer Fellhew.",
+   "c": "Jern wil weten waarom het zo traag gaat, hè?$b$bIronband maakt zijn nieuwste verslag klaar, met alle details. Maar dit kan ik je wel vertellen:$b$bHet komt door de troggs!!",
+   "g": [
+    [
+     "leidt",
+     "heads, leads (leiden)"
+    ],
+    [
+     "ten oosten van",
+     "east of"
+    ],
+    [
+     "vooral",
+     "especially"
+    ],
+    [
+     "stevige",
+     "stout, sturdy (stevig)"
+    ],
+    [
+     "resultaten",
+     "results (resultaat)"
+    ],
+    [
+     "krachten",
+     "forces (kracht)"
+    ],
+    [
+     "regelt",
+     "manages (regelen)"
+    ],
+    [
+     "traag",
+     "slow"
+    ],
+    [
+     "zuidpunt",
+     "southern tip"
+    ],
+    [
+     "nieuwste",
+     "latest (nieuw)"
+    ]
+   ]
+  },
+  "255": {
+   "t": "Huurlingen",
+   "d": "Twee maanden wachten we, alleen om uit Ironforge te horen dat we een handjevol soldaten krijgen voor onze eigen verdediging. En dan nog eens twee maanden tot ze er zijn! Het is al erg genoeg dat onze stad niet beschermd wordt. Maar de opgraving en de dam -- de dam! -- kunnen ook aangevallen worden.$b$bIk heb dus geen keus, zo te zien. Ik heb huurlingen nodig.$b$bWat dacht je van jou? Je lijkt me geschikt, $c. Een groep ogers heeft een kamp opgezet in het noordoosten van het meer. Misschien kun je wat anderen zoeken en helpen om dat gevaar voor onze stad weg te halen?",
+   "o": "Magistrate Bluntnose van Thelsamar heeft je ingehuurd om 4 Mo'grosh Ogres, 4 Mo'grosh Brutes en 4 Mo'grosh Enforcers te doden.",
+   "p": "Heb je al geluk gehad?",
+   "c": "Ah, dit is uitstekend nieuws! Ik en de mensen van Thelsamar zijn heel dankbaar voor je werk. En nog beter: als we het probleem met de ogers kunnen oplossen, kunnen we ons richten op die vervloekte troggs.",
+   "g": [
+    [
+     "huurlingen",
+     "mercenaries (huurling)"
+    ],
+    [
+     "handjevol",
+     "handful"
+    ],
+    [
+     "verdediging",
+     "defense"
+    ],
+    [
+     "erg genoeg",
+     "bad enough"
+    ],
+    [
+     "beschermd",
+     "protected (beschermen)"
+    ],
+    [
+     "keus",
+     "choice"
+    ],
+    [
+     "geschikt",
+     "suitable, a likely sort"
+    ],
+    [
+     "opgezet",
+     "set up (opzetten)"
+    ],
+    [
+     "ingehuurd",
+     "hired (inhuren)"
+    ],
+    [
+     "dankbaar",
+     "grateful"
+    ],
+    [
+     "ons richten op",
+     "shift our focus to (zich richten op)"
+    ]
+   ]
+  },
+  "271": {
+   "t": "De wraak van Vyrin",
+   "d": "Je hebt zeker geen zin in een beetje wraak op Zijne Dapperheid? Daryl heeft wel wat talent, al doet het me pijn om dat te zeggen.$b$bEen jaar geleden jaagden de jagers van de Farstrider Lodge op een grote beer, maar niemand had geluk. Dus dacht Daryl dat hij het zelf eens zou proberen. Het enige wat hij eraan overhield, was dat lelijke litteken boven zijn oog.$b$bDood de beer. Dan is zelfs Daryl voor één keer sprakeloos, dat weet ik zeker.$b$bDe beer, Ol' Sooty, vind je bij zijn hol in de heuvels boven Thelsamar.",
+   "o": "Dood Ol' Sooty en laat je werk daarna zien aan Daryl the Youngling in de Farstrider Lodge.",
+   "p": "Ah, $N! Ben je nu al terug? Je bent vast weer aan het jagen geweest? Maak je geen zorgen als het soms tegenzit. Op de lange duur word je er beter van!$B$B... Veel slechter kun je toch niet worden...",
+   "c": "Eh... wat is dit? Het hoofd van een beer, zo te zien.$B$B<Zonder het te merken gaat hij met een vinger langs zijn litteken.>$B$BNou, dat is een interessante vangst die je daar hebt. Het kan toch niet die beer van toen zijn...$B$B<Hij maakt zijn zin niet af en begint zichtbaar te trillen.>$B$BO, haal dat weg, haal het weg! Haal dat griezelige ding hier weg!",
+   "g": [
+    [
+     "wraak",
+     "revenge, payback"
+    ],
+    [
+     "zin",
+     "desire, wish (zin hebben in)"
+    ],
+    [
+     "Zijne Dapperheid",
+     "His Boldness"
+    ],
+    [
+     "overhield",
+     "was left with (overhouden)"
+    ],
+    [
+     "litteken",
+     "scar"
+    ],
+    [
+     "sprakeloos",
+     "speechless"
+    ],
+    [
+     "hol",
+     "lair, den"
+    ],
+    [
+     "tegenzit",
+     "goes badly (tegenzitten)"
+    ],
+    [
+     "op de lange duur",
+     "in the long run"
+    ],
+    [
+     "merken",
+     "notice"
+    ],
+    [
+     "vangst",
+     "catch, kill"
+    ],
+    [
+     "zichtbaar",
+     "visibly"
+    ],
+    [
+     "trillen",
+     "shake, tremble"
+    ],
+    [
+     "griezelige",
+     "grisly, creepy (griezelig)"
+    ]
+   ]
+  },
+  "283": {
+   "t": "Een duistere dreiging",
+   "d": "Het vat bruist een beetje.",
+   "o": "Het lijkt erop dat de Disarming Mixture werkt. Ga terug naar Chief Engineer Hinderweir om het goede nieuws te melden.",
+   "c": "Heel erg bedankt, $N!! Je hebt de Stonewrought Dam gered! Zonder jouw hulp hadden de terroristen van de Dark Irons dit machtige monument zeker vernietigd. Je hebt het koninkrijk en de Alliance trots gemaakt, dappere $C.$b$bDe dam is weer veilig. . . in elk geval voorlopig. . . .",
+   "g": [
+    [
+     "bruist",
+     "fizzles (bruisen)"
+    ],
+    [
+     "het lijkt erop",
+     "it seems"
+    ],
+    [
+     "melden",
+     "report"
+    ],
+    [
+     "gered",
+     "saved (redden)"
+    ],
+    [
+     "terroristen",
+     "terrorists (terrorist)"
+    ],
+    [
+     "machtige",
+     "mighty (machtig)"
+    ],
+    [
+     "monument",
+     "landmark, monument"
+    ],
+    [
+     "vernietigd",
+     "destroyed (vernietigen)"
+    ],
+    [
+     "in elk geval",
+     "at least"
+    ],
+    [
+     "voorlopig",
+     "for the time being"
+    ]
+   ]
+  },
+  "531": {
+   "t": "De wraak van Vyrin",
+   "d": "Licht! Breng zulke dingen niet in de Lodge... het is onhygiënisch, onuitsprekelijk, on... on... onhygiënisch!$b$bHaal het hier gewoon weg, wil je? Echt niemand wil je bloederige kleine trofee zien!",
+   "o": "Breng Ol' Sooty's head naar Vyrin Swiftwind in de Farstrider Lodge.",
+   "p": "Goed gedaan, $N! We hebben het hem echt laten zien! Geef me het hoofd maar, dan zorg ik ervoor.",
+   "c": "Bedankt dat je me hebt geholpen met mijn kleine plan, $N. Ik wilde al maanden wraak nemen op die verwaande, arrogante jongen, en volgens mij is het ons aardig gelukt! Hier, neem dit. Je hebt het verdiend.",
+   "g": [
+    [
+     "onhygiënisch",
+     "unsanitary"
+    ],
+    [
+     "onuitsprekelijk",
+     "unspeakable"
+    ],
+    [
+     "bloederige",
+     "bloody (bloederig)"
+    ],
+    [
+     "trofee",
+     "trophy"
+    ],
+    [
+     "laten zien",
+     "shown (laten zien)"
+    ],
+    [
+     "zorg ervoor",
+     "take care of it (zorgen voor)"
+    ],
+    [
+     "wraak nemen op",
+     "get back at"
+    ],
+    [
+     "verwaande",
+     "snooty (verwaand)"
+    ],
+    [
+     "arrogante",
+     "stuck-up, arrogant (arrogant)"
+    ],
+    [
+     "aardig",
+     "pretty, quite"
+    ],
+    [
+     "verdiend",
+     "earned (verdienen)"
+    ]
+   ]
+  },
+  "256": {
+   "t": "GEZOCHT: Chok'sul",
+   "d": "In opdracht van de magistraat van Thelsamar:$b$bChok'sul is de oger die waarschijnlijk de aanvallen op de stad Thelsamar, de Stonewrought Dam en de opgraving leidt en organiseert. Hij wordt dood gezocht, op elke manier die nodig is.$b$bWie de magistraat bewijs brengt van de dood van Chok'sul, krijgt een beloning in geld.$b$bChok'sul is het laatst gezien bij het kamp van de ogers in het noordoosten van Loch Modan.",
+   "o": "Dood Chok'sul en breng zijn hoofd naar Magistrate Bluntnose van Thelsamar.",
+   "p": "Ja? Kan ik iets voor je doen?",
+   "c": "Gadver! Wat is dat ding? En waarom zou je het...$b$bVerdorie--! Is het...? Nou, het Licht mag me verbranden, is dat het hoofd van die vervloekte oger? Dan is dit echt een mooie vangst! Hier, je beloning, en de dank van mij en de mensen van Thelsamar.",
+   "g": [
+    [
+     "gezocht",
+     "wanted (zoeken)"
+    ],
+    [
+     "in opdracht van",
+     "by order of"
+    ],
+    [
+     "magistraat",
+     "magistrate"
+    ],
+    [
+     "waarschijnlijk",
+     "presumably, probably"
+    ],
+    [
+     "organiseert",
+     "coordinates, organizes (organiseren)"
+    ],
+    [
+     "bewijs",
+     "proof"
+    ],
+    [
+     "beloning",
+     "reward, compensation"
+    ],
+    [
+     "het laatst gezien",
+     "last seen"
+    ],
+    [
+     "gadver",
+     "yuck"
+    ],
+    [
+     "verdorie",
+     "blast, bloody"
+    ],
+    [
+     "verbranden",
+     "burn"
+    ],
+    [
+     "vangst",
+     "catch"
+    ]
+   ]
+  }
+ },
+ "words": {
+  "ama": "(part of $Nama: Daryl gets your name wrong)",
+  "ath": "(part of $nath: Daryl gets your name wrong)",
+  "barst": "bursts (barsten)",
+  "beelden": "statues, idols (beeld)",
+  "blastencapper-explosieven": "Blastencapper explosives (explosief)",
+  "brachten": "brought, hauled (brengen)",
+  "details": "details (detail)",
+  "donkerrood": "dark red, crimson",
+  "duwen": "push",
+  "dwergengereedschap": "dwarven tools",
+  "effect": "effect",
+  "eilanden": "islands (eiland)",
+  "ene": "one (die ene keer: that one time)",
+  "gemeen": "nasty, mean",
+  "geur": "smell",
+  "gewone": "normal, ordinary (gewoon)",
+  "gnomische": "gnomish (gnomisch)",
+  "gyrocopter": "gyrocopter",
+  "handelen": "trade",
+  "hmf": "hmph",
+  "inspecteur": "inspector",
+  "interessante": "interesting (interessant)",
+  "jaagden": "hunted (jagen)",
+  "kapotmaken": "break, wreck",
+  "klontje": "sugar lump (zo klaar als een klontje: clear as daylight)",
+  "lelijke": "ugly (lelijk)",
+  "maanden": "months (maand)",
+  "materiaal": "material",
+  "messen": "knives (mes)",
+  "mo'grosh-kristal": "Mo'Grosh crystal",
+  "mond": "mouth",
+  "namelijk": "you see, namely",
+  "nature": "(van nature: naturally, native)",
+  "oger": "ogre",
+  "on": "un- (Daryl stumbles over the word)",
+  "onschadelijk": "harmless (onschadelijk maken: defuse)",
+  "razende": "raging, berserk (razend)",
+  "reactie": "reaction",
+  "rekent": "counts (rekenen op: count on)",
+  "ruikend": "smelling (ruiken)",
+  "shirt": "shirt",
+  "slechter": "worse (slecht)",
+  "slim": "clever, smart",
+  "stijgen": "rise, go up",
+  "teruggaat": "goes back (teruggaan)",
+  "tongen": "tongues (tong)",
+  "twaalf": "twelve",
+  "uitziende": "looking (eruitzien)",
+  "verloor": "lost (verliezen)",
+  "vijftien": "fifteen",
+  "vinger": "finger",
+  "voortgangsverslag": "progress report",
+  "woord": "word",
+  "zijne": "his (formal title: Zijne Dapperheid)",
+  "zwemmen": "swim",
+  "zwemt": "swim (zwemmen)",
+  "zwijnenjacht": "boar hunt"
+ },
+ "terms": {
+  "krokolisken": "crocolisks: big crocodile-like animals from the Warcraft world",
+  "lurkergif": "lurker venom: poison from lurkers, the spiders of Loch Modan"
+ }
+}
