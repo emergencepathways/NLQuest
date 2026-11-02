@@ -46,6 +46,7 @@ Data\Batch_27_Arathi_Highlands.lua
 Data\Batch_28_Thousand_Needles.lua
 Data\Batch_29_Desolace.lua
 Data\Batch_30_Desolace.lua
+Data\Batch_31_Stranglethorn_Vale.lua
 
 Display.lua
 Reader.lua
