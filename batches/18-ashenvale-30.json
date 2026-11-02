@@ -1,0 +1,1657 @@
+{
+  "quests": {
+    "1011": {
+      "t": "Ziektes van de Forsaken",
+      "d": "De Forsaken, het ondode deel van de Horde, zijn Ashenvale binnengeslopen. Ze houden zich schuil bij onze ruïnes en onze grafheuvels. We denken dat ze ziektes willen verspreiden in de landen van de nachtelfen. Dat moeten we zeker weten!$B$BDe Forsaken hebben een kamp ten zuiden van hier, bij de Dor'Danil Barrow Den. Daar maken ze gif en ziektes, en die doen ze in flessen. Vecht je een weg naar dat kamp en steel een fles met ziekte. Kom terug met zo'n fles. Ik ga hem testen en ontdekken waarvoor hij dient.",
+      "o": "Breng een Bottle of Disease naar Kayneth Stillwind in Forest Song.",
+      "p": "Heb je het kamp gevonden, $N? Heb je een fles met ziekte?",
+      "c": "Heel goed, $N. Nu... als ik de inhoud van deze fles test, worden de doelen van de Forsaken duidelijk!",
+      "g": [
+        [
+          "ondode",
+          "undead"
+        ],
+        [
+          "binnengeslopen",
+          "crept in (binnensluipen)"
+        ],
+        [
+          "houden zich schuil",
+          "are hiding (zich schuilhouden)"
+        ],
+        [
+          "grafheuvels",
+          "barrows, burial mounds (grafheuvel)"
+        ],
+        [
+          "verspreiden",
+          "to spread"
+        ],
+        [
+          "gif",
+          "poison"
+        ],
+        [
+          "steel",
+          "steal (stelen)"
+        ],
+        [
+          "inhoud",
+          "contents"
+        ],
+        [
+          "ontdekken",
+          "to discover, find out"
+        ],
+        [
+          "waarvoor hij dient",
+          "what it is for (dienen)"
+        ]
+      ]
+    },
+    "4581": {
+      "t": "Kayneth Stillwind",
+      "d": "De druïde Kayneth Stillwind heeft mij een bericht gestuurd. Hij wil een verslag van wat er gebeurt langs onze kust en in de bossen rond Astranaar. Hij is bang dat er een verderf door Ashenvale trekt... en misschien heeft hij gelijk.$B$BHier, breng mijn verslag naar hem. Je vindt hem in het heiligdom van Forest Song, in de Nightsong Woods in het oosten.",
+      "o": "Breng Shindrell's Note naar Kayneth Stillwind in Forest Song.",
+      "p": "Heb je iets voor mij?",
+      "c": "Ah, het verslag van Shindrell! Heel erg bedankt, $N. Shindrell is een goede schildwacht, dapper en scherp. Ik moet dit lezen. Misschien vind ik aanwijzingen over een kwaad dat volgens mij door Ashenvale trekt.",
+      "g": [
+        [
+          "druïde",
+          "druid"
+        ],
+        [
+          "bericht",
+          "message"
+        ],
+        [
+          "verslag",
+          "report"
+        ],
+        [
+          "kust",
+          "coast"
+        ],
+        [
+          "verderf",
+          "corruption, ruin"
+        ],
+        [
+          "heiligdom",
+          "shrine, sanctuary"
+        ],
+        [
+          "schildwacht",
+          "sentinel"
+        ],
+        [
+          "dapper",
+          "brave"
+        ],
+        [
+          "scherp",
+          "keen, sharp"
+        ],
+        [
+          "aanwijzingen",
+          "clues (aanwijzing)"
+        ],
+        [
+          "kwaad",
+          "evil, wickedness"
+        ]
+      ]
+    },
+    "1022": {
+      "t": "The Howling Vale",
+      "d": "We hebben veel middelen en veel moeite gestoken in het verdrijven van de laatste demonen uit Felwood in het noorden. Toch hebben we maar weinig succes gehad. Wel hebben we de meeste demonen uit Ashenvale kunnen houden.$b$bIn het noorden, bij de grens met Felwood, ligt het verwoeste heiligdom van Mel'Thandris. Het is ingenomen door geheimzinnige wolfmannen. Door hun griezelige kreten heet het gebied nu de Howling Vale. In het heiligdom ligt de Tome of Mel'Thandris. Misschien kan dat boek ons laten zien waarom deze wolfmannen gekomen zijn.",
+      "o": "Ga naar de Howling Vale en bestudeer de Tome of Mel'Thandris. Keer daarna terug naar Sentinel Melyria Frostshadow bij de Shrine of Aessina.",
+      "p": "Het boek van het heiligdom is een geheimzinnig voorwerp. Het is geen boek in de gewone zin. De bladzijden van het boek zijn gezegend door Mel'Thandris zelf, en het schrijft belangrijke gebeurtenissen op in zijn bladzijden.$B$BHet is moeilijk voor mij om uit te leggen. Als je naar het heiligdom gaat, zul je het begrijpen.",
+      "c": "De Tome of Mel'Thandris werkt op vreemde manieren. De gebeurtenissen die het opschrijft, de gebeurtenissen die het laat zien... Niemand begrijpt echt waarom het doet wat het doet.$B$BToch is één ding duidelijk: wat Priestess Starsong heeft gekregen, deze Scythe of Elune, moet verder onderzocht worden.",
+      "o1": "Bekijk de Tome of Mel'Thandris",
+      "g": [
+        [
+          "middelen",
+          "resources (middel)"
+        ],
+        [
+          "moeite",
+          "effort"
+        ],
+        [
+          "verdrijven",
+          "to drive out"
+        ],
+        [
+          "verwoeste",
+          "ruined (verwoest)"
+        ],
+        [
+          "ingenomen",
+          "taken over (innemen)"
+        ],
+        [
+          "geheimzinnige",
+          "mysterious"
+        ],
+        [
+          "griezelige",
+          "creepy, chilling"
+        ],
+        [
+          "kreten",
+          "cries, calls (kreet)"
+        ],
+        [
+          "bestudeer",
+          "study (bestuderen)"
+        ],
+        [
+          "in de gewone zin",
+          "in the usual sense"
+        ],
+        [
+          "gezegend",
+          "blessed (zegenen)"
+        ],
+        [
+          "gebeurtenissen",
+          "events (gebeurtenis)"
+        ],
+        [
+          "onderzocht",
+          "investigated (onderzoeken)"
+        ]
+      ]
+    },
+    "1035": {
+      "t": "Fallen Sky Lake",
+      "d": "De koorts van Relara is voorbij, maar ze is nog heel zwak. Ik denk niet dat tijd alleen haar de kracht teruggeeft die ze kwijt is. Ik denk dat er een maansteen voor nodig is.$B$BVroeger verzamelden we maanstenen bij Fallen Sky Lake in het zuidoosten... tot de Shadethickets kwamen.$B$BHun leider, een Shadethicket Oracle, heeft alle gevallen maanstenen verzameld en houdt ze voor zichzelf. Nu moet jij een maansteen van de Oracle terughalen.$B$BEn ik ben bang dat je hem daarvoor moet doden.",
+      "o": "Haal een Fallen Moonstone bij de Shadethicket Oracle en breng hem naar Pelturas in Astranaar.",
+      "p": "Heb je tegenover de Shadethicket Oracle gestaan, $N? Zo ja, geef me dan alsjeblieft de gevallen maansteen. Relara heeft nog maar kracht voor een paar ademhalingen!",
+      "c": "O, $N, je hebt mijn dochter gered! Ik weet dat de kracht van de maansteen mijn dochter haar kracht teruggeeft!$B$BIk kan je nooit helemaal terugbetalen voor je hulp, maar... neem dit alsjeblieft. Na Relara is dit mijn dierbaarste bezit.",
+      "g": [
+        [
+          "koorts",
+          "fever"
+        ],
+        [
+          "zwak",
+          "weak"
+        ],
+        [
+          "kwijt is",
+          "has lost (kwijt zijn)"
+        ],
+        [
+          "maansteen",
+          "moonstone"
+        ],
+        [
+          "verzamelden",
+          "gathered (verzamelen)"
+        ],
+        [
+          "houdt ze voor zichzelf",
+          "keeps them for himself, hoards them"
+        ],
+        [
+          "terughalen",
+          "to get back, retrieve"
+        ],
+        [
+          "tegenover",
+          "facing, opposite"
+        ],
+        [
+          "ademhalingen",
+          "breaths (ademhaling)"
+        ],
+        [
+          "gered",
+          "saved (redden)"
+        ],
+        [
+          "terugbetalen",
+          "to repay"
+        ],
+        [
+          "dierbaarste",
+          "most dear (dierbaar)"
+        ],
+        [
+          "bezit",
+          "possession"
+        ]
+      ]
+    },
+    "1037": {
+      "t": "Velinde Starsong",
+      "d": "Velinde Starsong was hier in Ashenvale Forest mijn voorgangster. Eerst leek het alsof ze de situatie in Felwood onder controle had. Maar beetje bij beetje lukte het haar steeds minder. Op een dag was ze gewoon verdwenen.$b$bIk ben hierheen gestuurd om haar werk voort te zetten. Maar ik ben bang dat ik niets over de priesteres weet. Misschien weet Thyn'tel Bladeweaver, een van de commandanten van de Sentinels, meer over haar verdwijning. Zij weet misschien dingen waar ik niet bij was.$b$bZe zal vast begrijpen hoe belangrijk deze informatie is.",
+      "o": "Spreek met Thyn'tel Bladeweaver bij de Warrior's Terrace in Darnassus.",
+      "c": "Velinde Starsong? Dat de priesteres een tijd geleden verdwenen is, weet bijna iedereen. Maar meer over wat er gebeurde toen ze vertrok... daar zou ik een goede reden voor nodig hebben voordat ik je dat vertel.",
+      "g": [
+        [
+          "voorgangster",
+          "predecessor (f.)"
+        ],
+        [
+          "onder controle",
+          "under control"
+        ],
+        [
+          "beetje bij beetje",
+          "little by little"
+        ],
+        [
+          "lukte",
+          "succeeded (lukken)"
+        ],
+        [
+          "verdwenen",
+          "disappeared (verdwijnen)"
+        ],
+        [
+          "voort te zetten",
+          "to continue (voortzetten)"
+        ],
+        [
+          "priesteres",
+          "priestess"
+        ],
+        [
+          "commandanten",
+          "commanders (commandant)"
+        ],
+        [
+          "verdwijning",
+          "disappearance"
+        ],
+        [
+          "waar ik niet bij was",
+          "that I wasn't part of"
+        ],
+        [
+          "vertrok",
+          "left (vertrekken)"
+        ]
+      ]
+    },
+    "1038": {
+      "t": "De spullen van Velinde",
+      "d": "Heeft de Tome of Mel'Thandris je dit laten zien? Dan kan het weinig kwaad als je haar spullen bekijkt. Met deze sleutel kun je de kist openen waarin we haar spullen bewaren, in het slaaphuis van de Sentinels. Ze hield een dagboek bij over haar taken. Als er iets te leren valt, dan staat het daarin.$b$bIk moet je wel zeggen: de Sentinels denken dat ze haar eigen redenen had om te vertrekken. Ze verwachten dat ze op elk moment terug kan komen. De priesteres heeft in het verleden veel gedaan om ons vertrouwen te verdienen.",
+      "o": "Zoek in de kist van Velinde naar haar dagboek. Breng het daarna samen met de sleutel terug naar Thyn'tel Bladeweaver in Darnassus.",
+      "p": "Wat heb je ontdekt?",
+      "c": "Het lijkt erop dat de verdwijning van Velinde zorgwekkender is dan het eerst leek. Toch kan ik niet geloven dat het slecht met haar is afgelopen. Misschien is het goed als we contact met haar zoeken.$B$B$N, je hebt laten zien dat deze zaak je echt bezighoudt. Daarom wil ik je om hulp vragen.",
+      "g": [
+        [
+          "spullen",
+          "things, belongings"
+        ],
+        [
+          "kan het weinig kwaad",
+          "there is little harm in it"
+        ],
+        [
+          "kist",
+          "chest"
+        ],
+        [
+          "bewaren",
+          "to keep, store"
+        ],
+        [
+          "slaaphuis",
+          "bunkhouse"
+        ],
+        [
+          "hield een dagboek bij",
+          "kept a journal (bijhouden)"
+        ],
+        [
+          "taken",
+          "duties, tasks (taak)"
+        ],
+        [
+          "verwachten",
+          "to expect"
+        ],
+        [
+          "vertrouwen",
+          "trust"
+        ],
+        [
+          "verdienen",
+          "to earn, deserve"
+        ],
+        [
+          "zorgwekkender",
+          "more worrying (zorgwekkend)"
+        ],
+        [
+          "afgelopen",
+          "ended (aflopen)"
+        ],
+        [
+          "bezighoudt",
+          "occupies, concerns (bezighouden)"
+        ]
+      ]
+    },
+    "1039": {
+      "t": "De haven van de Barrens",
+      "d": "Ratchet is de enige haven in de Barrens. Waarschijnlijk heeft Velinde in Ratchet een handelsschip gevonden dat haar naar Blackwater Cove in Azeroth bracht. We hebben weinig contact gehad met de goblins die de haven leiden, maar de havenmeester weet vast iets over de passagiers die aankomen en vertrekken.$b$bVolg de weg naar het zuidoosten door Ashenvale, dan kom je in de Barrens. Pas goed op, $n, want krijgers van de Horde patrouilleren daar. In de haven ben je wel veilig.",
+      "o": "Spreek met Wharfmaster Dizzywig in Ratchet.",
+      "c": "Een $r, hè? Ik moet toegeven, jouw soort zien we hier niet vaak. Je zoekt iemand, hè? Geef me even, ik weet zeker dat ik het in een van mijn registers heb opgeschreven.$B$BEr reizen hier wel veel mensen langs, dus geef me even de tijd.",
+      "g": [
+        [
+          "haven",
+          "port, harbour"
+        ],
+        [
+          "waarschijnlijk",
+          "probably"
+        ],
+        [
+          "handelsschip",
+          "trading vessel"
+        ],
+        [
+          "leiden",
+          "to run, lead"
+        ],
+        [
+          "havenmeester",
+          "harbour master"
+        ],
+        [
+          "passagiers",
+          "passengers (passagier)"
+        ],
+        [
+          "patrouilleren",
+          "to patrol"
+        ],
+        [
+          "veilig",
+          "safe"
+        ],
+        [
+          "toegeven",
+          "to admit"
+        ],
+        [
+          "jouw soort",
+          "your type, your kind"
+        ],
+        [
+          "registers",
+          "ledgers, records (register)"
+        ]
+      ]
+    },
+    "1040": {
+      "t": "Overtocht naar Booty Bay",
+      "d": "Ah ja, eindelijk gevonden. Je had me moeten zeggen dat ze hier al zo lang geleden langskwam. Even kijken.$b$bVelinde. Ze boekte een overtocht naar Booty Bay op de Black Osprey. Hier staat niets dat iets anders zegt, dus ik neem aan dat het schip veilig in de haven is aangekomen.$b$bVeel meer kan ik niet voor je doen. Maar ze vroeg naar reizen over land aan die kant van de wereld. Ik noemde Ruzzgot, een karavaanleider die vanuit Booty Bay werkt. Misschien is die Velinde met hem meegereisd.$b$bLoop nu maar door. Ik heb niet de hele dag tijd voor je.",
+      "o": "Neem een boot naar Booty Bay en spreek met Caravaneer Ruzzgot.",
+      "c": "Ja? Nou, je ziet er niet uit als iemand met goederen die verscheept moeten worden. Dus of je zoekt werk bij mijn karavaan (en er is nu geen werk), of je praat waarschijnlijk met de verkeerde goblin.$B$BDus wat is het?",
+      "g": [
+        [
+          "overtocht",
+          "passage, crossing"
+        ],
+        [
+          "langskwam",
+          "came by, passed through (langskomen)"
+        ],
+        [
+          "boekte",
+          "booked (boeken)"
+        ],
+        [
+          "neem aan",
+          "assume (aannemen)"
+        ],
+        [
+          "over land",
+          "overland"
+        ],
+        [
+          "noemde",
+          "mentioned (noemen)"
+        ],
+        [
+          "karavaanleider",
+          "caravan driver"
+        ],
+        [
+          "meegereisd",
+          "travelled along (meereizen)"
+        ],
+        [
+          "loop nu maar door",
+          "move along now (doorlopen)"
+        ],
+        [
+          "goederen",
+          "goods"
+        ],
+        [
+          "verscheept",
+          "shipped (verschepen)"
+        ],
+        [
+          "karavaan",
+          "caravan"
+        ]
+      ]
+    },
+    "1041": {
+      "t": "De karavaanweg",
+      "d": "Ik had het dus mis over jou, en dat gebeurt niet elke dag.$b$bToevallig herinner ik me die Velinde die je zoekt. Het is niet elke dag dat een priesteres van de nachtelfen wil reizen met een vuile oude karavaan zoals de mijne (maar wel geweldig voor al je vervoer!).$b$bOnderweg naar het noorden gingen we uit elkaar. Zij ging naar Darkshire. De klerk daar houdt allerlei gegevens bij. Misschien weet hij iets nuttigs.$b$bWees voorzichtig in de jungle. Het is een dodelijke plek, zelfs op de beste momenten.",
+      "o": "Spreek met Clerk Daltry in Darkshire.",
+      "c": "Na alle vreemde dingen van de laatste jaren houd ik zo goed mogelijk bij welke vreemdelingen hier komen. Je weet nooit wanneer dat van pas komt... al is het meestal geen prettige zaak als dat gebeurt. Niet dat ik iets wil zeggen over die Velinde die jij zoekt.",
+      "g": [
+        [
+          "had het mis",
+          "was wrong (het mis hebben)"
+        ],
+        [
+          "toevallig",
+          "as it happens, by chance"
+        ],
+        [
+          "herinner me",
+          "remember (zich herinneren)"
+        ],
+        [
+          "vervoer",
+          "transport, shipping"
+        ],
+        [
+          "onderweg",
+          "on the way"
+        ],
+        [
+          "gingen uit elkaar",
+          "split up (uit elkaar gaan)"
+        ],
+        [
+          "klerk",
+          "clerk"
+        ],
+        [
+          "gegevens",
+          "records, data"
+        ],
+        [
+          "nuttigs",
+          "useful (iets nuttigs)"
+        ],
+        [
+          "dodelijke",
+          "deadly"
+        ],
+        [
+          "vreemdelingen",
+          "strangers (vreemdeling)"
+        ],
+        [
+          "van pas komt",
+          "comes in handy (van pas komen)"
+        ],
+        [
+          "prettige",
+          "pleasant"
+        ]
+      ]
+    },
+    "1042": {
+      "t": "De familie Carevin",
+      "d": "Nee, ik heb geen gegevens van een Velinde Starsong die in Darkshire heeft gelogeerd... Al kan ik me, als je het niet erg vindt dat ik het zeg, moeilijk voorstellen dat een priesteres van de nachtelfen een kamer neemt in de herberg, als je begrijpt wat ik bedoel.$b$bMaar over die wolfmannen die je noemde heb ik wel iets gehoord. Laatst kwam Calor de stad binnen met een rij van hun hoofden. Hij werkt met de familie Carevin. Dat zijn jagers op demonen, ondoden en andere monsters. Spreek met Jonathan, hij is het hoofd van het huis.",
+      "o": "Spreek met Jonathan Carevin in Darkshire.",
+      "c": "Dit zijn duistere tijden. Slecht nieuws wordt gefluisterd vanaf elke zwaaiende tak, en onder elke steen vind je kwaad.$B$BEn in zulke tijden komt een onbekende vreemdeling mijn huis binnen en vraagt naar worgen... Ik vraag geen vergeving voor mijn wantrouwen, alleen antwoorden.$B$BEn antwoorden zal ik krijgen.",
+      "g": [
+        [
+          "gelogeerd",
+          "stayed (as a guest) (logeren)"
+        ],
+        [
+          "voorstellen",
+          "to imagine (zich voorstellen)"
+        ],
+        [
+          "herberg",
+          "inn"
+        ],
+        [
+          "bedoel",
+          "mean (bedoelen)"
+        ],
+        [
+          "laatst",
+          "the other day, recently"
+        ],
+        [
+          "rij",
+          "row, string"
+        ],
+        [
+          "hoofd van het huis",
+          "head of the household"
+        ],
+        [
+          "duistere",
+          "dark (duister)"
+        ],
+        [
+          "gefluisterd",
+          "whispered (fluisteren)"
+        ],
+        [
+          "zwaaiende",
+          "swaying (zwaaien)"
+        ],
+        [
+          "tak",
+          "branch"
+        ],
+        [
+          "vergeving",
+          "forgiveness"
+        ],
+        [
+          "wantrouwen",
+          "suspicion, distrust"
+        ]
+      ]
+    },
+    "1043": {
+      "t": "The Scythe of Elune",
+      "d": "Je verhaal klinkt eerlijk... Ik begrijp je redenen niet helemaal. Maar als je hier in Duskwood de worgen uit het bos wilt verdrijven, hoeveel het er ook zijn, dan heb ik liever resultaten dan begrip.$b$bIn het zuiden is een mijn die vol worgen zit... Ze verschenen uit het niets, maar voor zover we weten, zijn ze daar het eerst gevonden.$b$bDoe wat je moet doen. Maar als je iets belangrijks vindt, vraag ik je om het met mij te delen. We nemen alle hulp aan in onze oorlog tegen het kwaad.",
+      "o": "Zoek naar sporen van de Scythe of Elune en keer daarna terug naar Jonathan Carevin in Darkshire.",
+      "p": "De bossen zijn gevaarlijk voor wie niet voorbereid is. Houd je wapens dichtbij en je verstand nog dichterbij, anders is je volgende tocht door het spookbos misschien je laatste.",
+      "c": "Je vertelt een interessant verhaal, $N. De familie Carevin heeft niet genoeg invloed om de oorzaak van deze problemen te vinden en ze voor altijd op te lossen. Maar we doen wat we kunnen om het aantal worgen in Duskwood klein te houden.$B$BIk heb Calor al gezegd dat dit nu zijn belangrijkste taak is.",
+      "o1": "Vind bewijs van de Scythe of Elune",
+      "g": [
+        [
+          "redenen",
+          "reasons, motives (reden)"
+        ],
+        [
+          "verdrijven",
+          "to drive out, rid"
+        ],
+        [
+          "begrip",
+          "understanding"
+        ],
+        [
+          "mijn",
+          "mine"
+        ],
+        [
+          "verschenen",
+          "appeared (verschijnen)"
+        ],
+        [
+          "voor zover",
+          "as far as"
+        ],
+        [
+          "delen",
+          "to share"
+        ],
+        [
+          "sporen",
+          "signs, traces (spoor)"
+        ],
+        [
+          "voorbereid",
+          "prepared"
+        ],
+        [
+          "verstand",
+          "wits, mind"
+        ],
+        [
+          "spookbos",
+          "haunted forest"
+        ],
+        [
+          "invloed",
+          "influence"
+        ],
+        [
+          "oorzaak",
+          "root, cause"
+        ],
+        [
+          "bewijs",
+          "evidence, proof"
+        ]
+      ]
+    },
+    "1044": {
+      "t": "Beantwoorde vragen",
+      "d": "We krijgen het worgenprobleem onder controle, maak je daar geen zorgen over. Het kwaad dat je vriendin naar onze bossen heeft gebracht, zal worden tegengehouden. Ik neem het haar niet kwalijk wat ze gedaan heeft. Er gebeuren vreemde dingen in deze tijd, $n, en de duisternis kent geen rust.$b$bIk houd je niet langer op. Ik denk dat er anderen zijn die moeten horen wat jij in de mijnen van Duskwood hebt gevonden.",
+      "o": "Keer terug naar Thyn'tel Bladeweaver in Darnassus.",
+      "c": "Dus dit is wat er met Velinde gebeurd is? De hogepriesteres zal teleurgesteld zijn als ze dit hoort. Ze waren goede vriendinnen voordat Velinde verdween. Toch heeft onze godin haar de Scythe of Elune vast als geschenk gegeven, en het maakt me onrustig dat hij niet meer in handen is van haar dienaren.$B$BMaar dat is iets voor een andere keer. Ik ben je veel dank verschuldigd voor wat je hebt gedaan.",
+      "g": [
+        [
+          "worgenprobleem",
+          "worgen problem"
+        ],
+        [
+          "tegengehouden",
+          "contained, stopped (tegenhouden)"
+        ],
+        [
+          "neem het haar niet kwalijk",
+          "don't hold it against her (kwalijk nemen)"
+        ],
+        [
+          "duisternis",
+          "darkness"
+        ],
+        [
+          "rust",
+          "rest, respite"
+        ],
+        [
+          "houd je niet langer op",
+          "won't keep you any longer (ophouden)"
+        ],
+        [
+          "hogepriesteres",
+          "high priestess"
+        ],
+        [
+          "teleurgesteld",
+          "disappointed"
+        ],
+        [
+          "godin",
+          "goddess"
+        ],
+        [
+          "geschenk",
+          "gift, boon"
+        ],
+        [
+          "onrustig",
+          "uneasy, unsettled"
+        ],
+        [
+          "dienaren",
+          "servants (dienaar)"
+        ],
+        [
+          "dank verschuldigd",
+          "owe thanks (verschuldigd zijn)"
+        ]
+      ]
+    },
+    "1045": {
+      "t": "De zuivering van Raene",
+      "d": "De nachtelfen zijn zo oud als de tijd, maar hun hoogmoed vernietigt hun eigen wereld. En nu vernietigt hij ook ons leven. Maar dat kan niet langer onder controle gehouden worden...$B$BIk geef de elfen de schuld van veel dingen, maar wij zijn nog steeds verantwoordelijk voor wat we doen. Zelfs los van het verderf kunnen wij groot kwaad doen.$B$BRan Bloodtooth is zo'n kwaad. Hij wil macht, hij is vol begeerte... het verderf heeft hem alleen maar sterker gemaakt. Mijn haat voor de elfen brandt, maar ik wens hun kinderen geen kwaad toe. Dus moeten we zelf orde houden onder ons eigen volk.",
+      "o": "Dood Ran Bloodtooth en 4 Bloodtooth Guards en keer terug naar Krolg bij Lake Mystral.",
+      "p": "Heb je Ran al gedood, mijn $gvriend:vriendin;?$B$BZelfs de nachtelfen verdienen zijn woede niet echt. Zijn haat brandt nog feller dan de mijne, maar zijn geest is niet meer van hemzelf. Hij is een gevaar voor alle natuurlijke wezens in dit bos.",
+      "c": "Je hebt het goed gedaan, mijn $gvriend:vriendin;.$B$BHet bos is nog steeds besmet, maar we weten tenminste dat we een klein deel hebben gedaan om het zijn oude glorie terug te geven. Als je nog eens bij mij terugkomt, zou ik het gezelschap van mijn eigen soort fijn vinden.$B$BHet ga je goed. Misschien ontmoeten onze stammen elkaar weer in minder gewelddadige tijden.",
+      "g": [
+        [
+          "zuivering",
+          "cleansing"
+        ],
+        [
+          "hoogmoed",
+          "arrogance, pride"
+        ],
+        [
+          "vernietigt",
+          "destroys (vernietigen)"
+        ],
+        [
+          "geef de schuld",
+          "blame (de schuld geven)"
+        ],
+        [
+          "verantwoordelijk",
+          "responsible"
+        ],
+        [
+          "begeerte",
+          "lust, greed"
+        ],
+        [
+          "haat",
+          "hatred"
+        ],
+        [
+          "orde houden",
+          "keep order, police"
+        ],
+        [
+          "woede",
+          "wrath, anger"
+        ],
+        [
+          "feller",
+          "fiercer, brighter (fel)"
+        ],
+        [
+          "wezens",
+          "creatures (wezen)"
+        ],
+        [
+          "besmet",
+          "tainted, infected"
+        ],
+        [
+          "gezelschap",
+          "company"
+        ],
+        [
+          "stammen",
+          "tribes (stam)"
+        ],
+        [
+          "gewelddadige",
+          "violent"
+        ]
+      ]
+    },
+    "1046": {
+      "t": "De zuivering van Raene",
+      "d": "Ga terug naar je eigen stam en vertel hun over je overwinning hier.$B$BLaat hun je trofee zien en geniet van de glorie...",
+      "o": "Breng Ran Bloodtooth's Skull en Dartol's Rod of Transformation naar Raene Wolfrunner in Astranaar.",
+      "p": "De Sentinels doen hier in Ashenvale wat ze kunnen, maar het is dankzij een $r zoals jij dat we terrein hebben gewonnen.",
+      "c": "Dus dit is de schedel van de woeste furbolg die de grootste bedreiging was in Ashenvale?$B$BIk ben meer dan tevreden over wat je kunt, $N. De Sentinels kunnen je niet genoeg bedanken. Ik hoop dat we in de toekomst weer op je kunnen rekenen om ons volk te helpen.$B$BIk zal deze schedel en Dartol's Rod op een eervolle plek leggen, zodat anderen ze kunnen zien.$B$BTeronis zou trots zijn. Nogmaals bedankt.",
+      "g": [
+        [
+          "stam",
+          "tribe"
+        ],
+        [
+          "overwinning",
+          "victory"
+        ],
+        [
+          "trofee",
+          "trophy"
+        ],
+        [
+          "geniet",
+          "enjoy, bask (genieten)"
+        ],
+        [
+          "dankzij",
+          "thanks to"
+        ],
+        [
+          "terrein hebben gewonnen",
+          "have gained ground"
+        ],
+        [
+          "schedel",
+          "skull"
+        ],
+        [
+          "woeste",
+          "fierce, wild (woest)"
+        ],
+        [
+          "bedreiging",
+          "threat"
+        ],
+        [
+          "tevreden",
+          "pleased, satisfied"
+        ],
+        [
+          "rekenen",
+          "to rely, count (rekenen op)"
+        ],
+        [
+          "eervolle",
+          "honourable, of reverence"
+        ],
+        [
+          "trots",
+          "proud"
+        ],
+        [
+          "nogmaals",
+          "once again"
+        ]
+      ]
+    },
+    "5": {
+      "t": "De knorrende maag van Jitters",
+      "d": "Ik zit al weken verstopt in dit spookdorp. Ik heb alleen maar larven en onkruid gegeten! Ik heb echt goed eten nodig, en ik wil er goed voor betalen.$B$BBreng me een feestmaal en ik betaal je royaal.$B$BIk heb gehoord dat Chef Grual in de Scarlet Raven Tavern in Darkshire heel goede Dusky Crab Cakes maakt...",
+      "o": "Spreek met Chef Grual.",
+      "p": "O, een zending van mijn broer? Geweldig! Ik heb vandaag echt veel geluk!",
+      "c": "Dus je hebt Crab Cakes nodig? Nou, misschien kan ik er een paar voor je maken...",
+      "g": [
+        [
+          "knorrende",
+          "growling (knorren)"
+        ],
+        [
+          "maag",
+          "stomach, gut"
+        ],
+        [
+          "verstopt",
+          "hidden (verstoppen)"
+        ],
+        [
+          "spookdorp",
+          "ghost town"
+        ],
+        [
+          "larven",
+          "grubs, larvae (larve)"
+        ],
+        [
+          "onkruid",
+          "weeds"
+        ],
+        [
+          "feestmaal",
+          "feast"
+        ],
+        [
+          "royaal",
+          "generously, handsomely"
+        ],
+        [
+          "zending",
+          "shipment"
+        ]
+      ]
+    },
+    "93": {
+      "t": "Dusky Crab Cakes",
+      "d": "Ik vertel je een klein geheim: Dusky ‘Crab’ Cakes zijn eigenlijk gemaakt van spinnenpoten! Ik weet dat het een beetje vies is. Maar de koekjes hebben een lekkere, pittige smaak en het zijn heerlijke hapjes! Breng me Gooey Spider Legs, dan maak ik er snel een paar voor je.$B$BIk hoor dat je ze goed kunt halen bij Venom Web Spiders. Ze hebben hun nesten in het noorden, tussen de heuvels en de rivier.",
+      "o": "Verzamel 6 Gooey Spider Legs en breng ze naar Chef Grual in Darkshire.",
+      "p": "Hallo, $N. Heb je die Gooey Spider Legs al?",
+      "c": "Ah ja, dat is een mooi stel poten! Ik doe er even mijn geheime kruiden op (niet kijken!) en dan laat ik ze een tijdje in de pan rondkruipen...$B$BDusky Crab Cakes zijn mijn specialiteit en ik geef het recept niet weg. Maar hier is het recept voor een gerecht dat bijna net zo goed is.",
+      "g": [
+        [
+          "geheim",
+          "secret"
+        ],
+        [
+          "eigenlijk",
+          "actually, really"
+        ],
+        [
+          "spinnenpoten",
+          "spider legs (spinnenpoot)"
+        ],
+        [
+          "vies",
+          "disgusting, dirty"
+        ],
+        [
+          "pittige",
+          "tangy, spicy (pittig)"
+        ],
+        [
+          "hapjes",
+          "snacks (hapje)"
+        ],
+        [
+          "nesten",
+          "nests (nest)"
+        ],
+        [
+          "heuvels",
+          "hills, foothills (heuvel)"
+        ],
+        [
+          "stel",
+          "bunch, set"
+        ],
+        [
+          "kruiden",
+          "spices, herbs"
+        ],
+        [
+          "rondkruipen",
+          "to crawl around, skitter"
+        ],
+        [
+          "specialiteit",
+          "speciality"
+        ],
+        [
+          "recept",
+          "recipe"
+        ],
+        [
+          "gerecht",
+          "dish"
+        ]
+      ]
+    },
+    "163": {
+      "t": "Raven Hill",
+      "d": "Er is iets mis bij Raven Hill, $n. Calor zweert dat iemand, of iets, in de gebouwen daar spookt. Twee nachten achter elkaar zag hij de schaduwen bewegen. En de nacht daarvoor zag hij licht in een van de ramen, zegt hij.$b$bJe zegt dat je om de veiligheid van Duskwood geeft. Zoek dan uit welk monster er in Raven Hill spookt.",
+      "o": "Zoek uit wat er in Raven Hill spookt.",
+      "p": "Ah, $N! Ben je nu al terug? Je bent vast weer op jacht geweest. Maak je geen zorgen als het soms tegenzit. Op de lange duur word je er beter van!$B$B...Veel slechter kun je toch niet worden...",
+      "c": "Nee! Alsjeblieft, dood me niet! Ik ben het maar... Jitters!! Ze zijn overal... Ik kan niet aan ze ontsnappen! Monsters in Raven Hill? N-n-n-ee... dat kan niet. Alleen onschuldige Jitters.",
+      "g": [
+        [
+          "er is iets mis",
+          "something's amiss, wrong"
+        ],
+        [
+          "zweert",
+          "swears (zweren)"
+        ],
+        [
+          "spookt",
+          "haunts (spoken)"
+        ],
+        [
+          "achter elkaar",
+          "in a row, running"
+        ],
+        [
+          "schaduwen",
+          "shadows (schaduw)"
+        ],
+        [
+          "geeft om",
+          "care about (geven om)"
+        ],
+        [
+          "veiligheid",
+          "safety"
+        ],
+        [
+          "tegenzit",
+          "goes badly (tegenzitten)"
+        ],
+        [
+          "op de lange duur",
+          "in the long run"
+        ],
+        [
+          "ontsnappen",
+          "to escape"
+        ],
+        [
+          "onschuldige",
+          "harmless, innocent"
+        ]
+      ]
+    },
+    "240": {
+      "t": "Terug naar Jitters",
+      "d": "En hier zijn ze: ‘Crab’ Cakes à la Grual!",
+      "o": "Ga terug naar Jitters met de Dusky Crab Cakes.",
+      "p": "$N, je bent er! Heb je mijn eten?!?",
+      "c": "Aha! Bedankt, $N. Die smaakten precies goed!$B$BEn hier, laat me je alsjeblieft hiervoor betalen!",
+      "g": [
+        [
+          "à la",
+          "in the style of"
+        ],
+        [
+          "smaakten",
+          "tasted (smaken)"
+        ],
+        [
+          "precies goed",
+          "just right, hit the spot"
+        ],
+        [
+          "hiervoor",
+          "for this, for these"
+        ],
+        [
+          "betalen",
+          "to pay"
+        ]
+      ]
+    },
+    "226": {
+      "t": "Wolven op onze hielen",
+      "d": "Sven en ik gaan gevaarlijke dagen tegemoet, met de Necromancer in het oosten en zo. En we zitten hier helemaal alleen, dus we moeten zelf op ons eten jagen. Elke keer als ik met wat vlees terugga naar het kamp, komen er hongerige of hondsdolle reuzenwolven uit het bos. Ze willen een hap. Het spreekt vanzelf: hier wonen is gevaarlijk werk!$B$BMaar als jij ons van een paar van die wolven afhelpt, hebben we het een stuk makkelijker. Ze sluipen vooral rond ten noorden en oosten van hier, bij de rivier.",
+      "o": "Dood 12 Starving Dire Wolves en 8 Rabid Dire Wolves. Keer daarna terug naar Lars in Sven's Camp aan de westgrens van Duskwood.",
+      "p": "Jaag je nog steeds op wolven...?",
+      "c": "O, goed. Je hebt die roedel flink kleiner gemaakt. Nu die wolven niet meer naar onze hielen happen, kunnen we onze gedachten richten op Morbent Fel.$B$BHier, neem een paar van deze Flash Bundles. Ze maken ze in de stad, en veel ervan zijn aan Sven gegeven om hem te helpen met zijn zaak.",
+      "g": [
+        [
+          "hielen",
+          "heels (hiel)"
+        ],
+        [
+          "tegemoet",
+          "towards, ahead (tegemoet gaan)"
+        ],
+        [
+          "hondsdolle",
+          "rabid (hondsdol)"
+        ],
+        [
+          "reuzenwolven",
+          "dire wolves (reuzenwolf)"
+        ],
+        [
+          "hap",
+          "bite"
+        ],
+        [
+          "het spreekt vanzelf",
+          "it goes without saying"
+        ],
+        [
+          "afhelpt",
+          "rid of (afhelpen van)"
+        ],
+        [
+          "sluipen rond",
+          "prowl, sneak around (rondsluipen)"
+        ],
+        [
+          "roedel",
+          "pack (of wolves)"
+        ],
+        [
+          "happen",
+          "snap, nip (happen)"
+        ],
+        [
+          "richten",
+          "to direct, focus"
+        ],
+        [
+          "zaak",
+          "cause, matter"
+        ]
+      ]
+    },
+    "236": {
+      "t": "Wachten op nieuws",
+      "d": "Een paar weken geleden heb ik Watcher Callahan en een paar anderen naar de noordgrens van Duskwood gestuurd. Ze moesten iets doen aan de wolvenplaag. Ik heb al een hele tijd niets van hem gehoord. Als hij mijn instructies heeft gevolgd, heeft hij zijn kamp opgezet aan de weg naar het noorden vanuit Darkshire.$B$BAls het op je route ligt, ga dan alsjeblieft even bij hem kijken. Zeg hem dat ik op een verslag van hem wacht over hoe het gaat.",
+      "o": "Spreek met Watcher Callahan.",
+      "g": [
+        [
+          "noordgrens",
+          "northern border"
+        ],
+        [
+          "wolvenplaag",
+          "wolf infestation"
+        ],
+        [
+          "instructies",
+          "instructions (instructie)"
+        ],
+        [
+          "gevolgd",
+          "followed (volgen)"
+        ],
+        [
+          "opgezet",
+          "set up (opzetten)"
+        ],
+        [
+          "op je route",
+          "on your way"
+        ],
+        [
+          "verslag",
+          "report"
+        ]
+      ]
+    },
+    "245": {
+      "t": "Achtpotige plagen",
+      "d": "Gegroet, $c. Misschien heb je die spinnen gezien die de westgrens hebben overgenomen? Die achtpotige plagen zijn te veel voor ons. En de Commander heeft niet genoeg mensen om er zo ver van Darkshire heen te sturen.$b$bIk vraag het niet graag, maar je ziet eruit alsof je ze aankunt. Ik kan je niets van grote waarde beloven, maar ik kan je belonen als je helpt om die vieze beesten uit te roeien.$b$bO, en een goede raad: probeer hun gif te ontwijken als het kan.",
+      "o": "Dood 15 Pygmy Venom Web Spiders en meld je daarna bij Watcher Dodds in Duskwood.",
+      "p": "Je kunt maar beter voorzichtig zijn met de spinnen. Ik ben er een paar van mijn mannen aan kwijtgeraakt. En geloof me, het is geen fijn gezicht: een man die ondersteboven in hun webben hangt nadat het gif hem zacht begint te maken.$B$BIk zou niet willen zien dat een van die beesten jou als lunch opeet.",
+      "c": "Ah! Je bent terug. En je ziet er niet veel slechter uit, zo te zien. Natuurlijk is de Night Watch je dankbaar voor je werk, $N. En ik heb je een beloning beloofd, dus hier.",
+      "g": [
+        [
+          "achtpotige",
+          "eight-legged"
+        ],
+        [
+          "plagen",
+          "menaces, plagues (plaag)"
+        ],
+        [
+          "gegroet",
+          "greetings, hail"
+        ],
+        [
+          "overgenomen",
+          "taken over (overnemen)"
+        ],
+        [
+          "aankunt",
+          "can handle (aankunnen)"
+        ],
+        [
+          "waarde",
+          "value"
+        ],
+        [
+          "belonen",
+          "to reward"
+        ],
+        [
+          "uit te roeien",
+          "to root out (uitroeien)"
+        ],
+        [
+          "raad",
+          "advice"
+        ],
+        [
+          "ontwijken",
+          "to avoid, dodge"
+        ],
+        [
+          "meld je",
+          "report (zich melden)"
+        ],
+        [
+          "kwijtgeraakt",
+          "lost (kwijtraken)"
+        ],
+        [
+          "ondersteboven",
+          "upside down"
+        ],
+        [
+          "webben",
+          "webs (web)"
+        ]
+      ]
+    },
+    "164": {
+      "t": "Leveringen voor Sven",
+      "d": "Ken je Sven? Dat is nou een man die het werk van het Licht doet! Hij en zijn volgelingen hebben een kamp aan de noordwestrand van Duskwood.$b$bHelaas zijn ze met zo weinig dat ze niet eens één man kunnen missen om spullen uit de stad te halen. Wil jij deze spullen naar hem brengen?",
+      "o": "Breng de spullen naar Sven.",
+      "p": "Je ziet er sterk uit, $C. Kom je meedoen met onze strijd?",
+      "c": "Deze spullen zijn heel nuttig. We zijn altijd blij met de hulp van de familie Carevin. Hier is iets kleins voor de moeite.",
+      "g": [
+        [
+          "leveringen",
+          "deliveries (levering)"
+        ],
+        [
+          "volgelingen",
+          "followers (volgeling)"
+        ],
+        [
+          "noordwestrand",
+          "northwestern edge"
+        ],
+        [
+          "helaas",
+          "unfortunately"
+        ],
+        [
+          "missen",
+          "to spare, miss"
+        ],
+        [
+          "spullen",
+          "supplies, things"
+        ],
+        [
+          "strijd",
+          "fight, struggle"
+        ],
+        [
+          "nuttig",
+          "useful"
+        ],
+        [
+          "voor de moeite",
+          "for your trouble"
+        ]
+      ]
+    },
+    "56": {
+      "t": "The Night Watch",
+      "d": "Als Commander van The Night Watch heb ik gezworen de burgers van Darkshire te beschermen. Stormwind heeft zijn wachters hier teruggetrokken. Nu staan we er alleen voor.$b$bAls je denkt dat je deze taak aankunt: we hebben je hulp nodig! Help The Night Watch. Ga naar Tranquil Gardens, net ten zuiden van Darkshire, en dood 8 Skeletal Warriors en 6 Skeletal Mages. We moeten de dreiging van de ondoden stoppen!",
+      "o": "Commander Althea Ebonlocke van Darkshire wil dat je 8 Skeletal Warriors en 6 Skeletal Mages doodt.",
+      "p": "Heb je die krijgers en magiërs gedood?",
+      "c": "Prachtig, $N. Voor je dienst aan de mensen van Darkshire krijg je een beloning.",
+      "g": [
+        [
+          "gezworen",
+          "sworn (zweren)"
+        ],
+        [
+          "burgers",
+          "citizens (burger)"
+        ],
+        [
+          "beschermen",
+          "to protect"
+        ],
+        [
+          "wachters",
+          "guards (wachter)"
+        ],
+        [
+          "teruggetrokken",
+          "withdrawn (terugtrekken)"
+        ],
+        [
+          "staan we er alleen voor",
+          "we're on our own (er alleen voor staan)"
+        ],
+        [
+          "aankunt",
+          "can handle (aankunnen)"
+        ],
+        [
+          "dreiging",
+          "threat"
+        ],
+        [
+          "magiërs",
+          "mages (magiër)"
+        ],
+        [
+          "dienst",
+          "service"
+        ]
+      ]
+    },
+    "148": {
+      "t": "Spullen uit Darkshire",
+      "d": "O, wat moet een arme oude man nou doen? Ik heb wat spullen uit Darkshire nodig, maar het dorp is zo ver weg. En ik ben zo oud en zwak... ik zou de reis nooit halen.$B$BKun jij naar Darkshire gaan en wat Ghost Hair Thread voor me halen? Je kunt het krijgen bij Madame Eva, in haar huis aan het plein van Darkshire.",
+      "o": "Spreek met Madame Eva.",
+      "c": "Ah, je hebt dus Ghost Hair Thread nodig? Ik ben bang dat ik niets meer op voorraad heb. Maar ik kan het voor je maken... als jij me het spookhaar brengt.",
+      "g": [
+        [
+          "arme",
+          "poor (arm)"
+        ],
+        [
+          "zwak",
+          "feeble, weak"
+        ],
+        [
+          "de reis halen",
+          "make the trip"
+        ],
+        [
+          "plein",
+          "square"
+        ],
+        [
+          "op voorraad",
+          "in stock"
+        ],
+        [
+          "spookhaar",
+          "ghost hair"
+        ],
+        [
+          "ik ben bang",
+          "I'm afraid"
+        ]
+      ]
+    },
+    "149": {
+      "t": "Ghost Hair Thread",
+      "d": "Er is een arme, treurige geest, Blind Mary. Ze spookt in een oud boerenhuis in de heuvels ten zuiden van Darkshire.$B$BHier, neem deze Spectral Comb en vraag Blind Mary om haar haar te kammen. Breng de kam daarna terug. Dan haal ik er het spookhaar uit dat ik nodig heb voor de draad.$B$BEn pas op, want er sluipen nu duistere dingen rond dat huis...",
+      "o": "Breng de Spectral Comb naar Blind Mary.",
+      "p": "O alsjeblieft, kijk niet naar me! Ik heb deze ogen met mijn eigen handen uitgerukt, maar ik voel je blik nog steeds!$B$BIk ben afschuwelijk! Afschuwelijk! Alsjeblieft, kijk weg!!",
+      "c": "Wat is dit? Een kam? Hij is prachtig! En hij glijdt door mijn haar alsof het niet de stijve, slierterige gruwel is die het is.$B$BO, had ik maar een spiegel...",
+      "g": [
+        [
+          "treurige",
+          "sad (treurig)"
+        ],
+        [
+          "geest",
+          "spirit, ghost"
+        ],
+        [
+          "boerenhuis",
+          "farm house"
+        ],
+        [
+          "kammen",
+          "to comb"
+        ],
+        [
+          "draad",
+          "thread"
+        ],
+        [
+          "sluipen",
+          "lurk, sneak"
+        ],
+        [
+          "uitgerukt",
+          "torn out (uitrukken)"
+        ],
+        [
+          "blik",
+          "gaze, look"
+        ],
+        [
+          "afschuwelijk",
+          "hideous"
+        ],
+        [
+          "glijdt",
+          "glides (glijden)"
+        ],
+        [
+          "stijve",
+          "stiff (stijf)"
+        ],
+        [
+          "slierterige",
+          "stringy (slierterig)"
+        ],
+        [
+          "gruwel",
+          "horror"
+        ],
+        [
+          "had ik maar",
+          "if only I had"
+        ],
+        [
+          "spiegel",
+          "mirror"
+        ]
+      ]
+    },
+    "154": {
+      "t": "Breng de kam terug",
+      "d": "NEE!!!!!$B$BNeem hem, neem deze kam van me weg!$B$BIk ben een monster, en niemand zal me ooit nog mooi vinden!",
+      "o": "Breng de Ghost Hair Comb terug naar Madame Eva in Darkshire.",
+      "p": "Ik voel dat je Blind Mary hebt gezien. Heb je mijn kam...?",
+      "c": "Hiermee kan ik een klos Ghost Hair Thread maken, en ik heb nog een paar haren over. Hier zijn wat munten voor die extra haren.",
+      "g": [
+        [
+          "kam",
+          "comb"
+        ],
+        [
+          "neem weg",
+          "take away (wegnemen)"
+        ],
+        [
+          "ooit nog",
+          "ever again"
+        ],
+        [
+          "voel",
+          "sense, feel (voelen)"
+        ],
+        [
+          "hiermee",
+          "with this"
+        ],
+        [
+          "klos",
+          "spool"
+        ],
+        [
+          "over",
+          "left over, to spare"
+        ],
+        [
+          "munten",
+          "coins (munt)"
+        ]
+      ]
+    },
+    "156": {
+      "t": "Verzamel Rot Blossoms",
+      "d": "Als je me wat rot blossoms brengt, kan ik een portie Zombie Juice voor je brouwen.$B$BRot blossoms groeien op vreemde plekken. Ik hoor dat je ze vooral kunt vinden in de schedels van Skeletal Horrors en Skeletal Fiends... niet dat ik er ooit dichtbij genoeg ben geweest om te kijken!$B$BOp de Raven Hill Cemetery en in de Tranquil Gardens wemelt het van die skeletten. Je kunt ze net zo goed opruimen terwijl je naar rot blossoms zoekt. Het dorp Darkshire zou je dankbaar zijn.",
+      "o": "Verzamel 8 Rot Blossoms en breng ze naar Tavernkeep Smitts in Darkshire.",
+      "p": "Hoi, $N. Heb je die rot blossoms al voor me?",
+      "c": "Goed, je hebt de rot blossoms. En ik zal Althea Ebonlocke van de Night Watch vertellen dat je skeletten hebt gedood.$B$BDe mensen van Darkshire veilig houden is een zware last voor de Night Watch. Het nieuws dat anderen helpen om de stroom monsters in Duskwood tegen te houden, is echt welkom nieuws.",
+      "g": [
+        [
+          "portie",
+          "batch, portion"
+        ],
+        [
+          "brouwen",
+          "to brew"
+        ],
+        [
+          "plekken",
+          "places (plek)"
+        ],
+        [
+          "schedels",
+          "skulls (schedel)"
+        ],
+        [
+          "wemelt het van",
+          "is crawling with, lousy with (wemelen)"
+        ],
+        [
+          "net zo goed",
+          "may as well"
+        ],
+        [
+          "opruimen",
+          "to get rid of, clear away"
+        ],
+        [
+          "dankbaar",
+          "grateful"
+        ],
+        [
+          "zware last",
+          "heavy burden"
+        ],
+        [
+          "stroom",
+          "tide, flow"
+        ],
+        [
+          "tegen te houden",
+          "to stem, stop (tegenhouden)"
+        ],
+        [
+          "welkom",
+          "welcome"
+        ]
+      ]
+    },
+    "157": {
+      "t": "Breng de draad",
+      "d": "Hier is je draad, $N. Je kunt er duizend dingen mee doen: van boze geesten vastbinden tot leven in levenloze voorwerpen naaien.",
+      "o": "Breng de Ghost Hair Thread naar Abercrombie, in zijn hutje ten noorden van de Raven Hill Cemetery.",
+      "p": "Ik moet de Ghost Hair Thread langs mijn deur en mijn ramen spannen om ongewenste geesten buiten te houden. Heb je hem voor me gehaald?",
+      "c": "Heerlijk! Dit is perfect...$b$bHier, beste $N, neem dit als betaling voor je eervolle daad.",
+      "g": [
+        [
+          "boze",
+          "evil (boos)"
+        ],
+        [
+          "vastbinden",
+          "to bind, tie up"
+        ],
+        [
+          "levenloze",
+          "inanimate, lifeless"
+        ],
+        [
+          "voorwerpen",
+          "objects (voorwerp)"
+        ],
+        [
+          "naaien",
+          "to sew"
+        ],
+        [
+          "hutje",
+          "shack, little hut"
+        ],
+        [
+          "spannen",
+          "to string, stretch"
+        ],
+        [
+          "ongewenste",
+          "unwanted"
+        ],
+        [
+          "betaling",
+          "payment"
+        ],
+        [
+          "eervolle",
+          "honourable"
+        ],
+        [
+          "daad",
+          "deed"
+        ]
+      ]
+    },
+    "158": {
+      "t": "Zombie Juice",
+      "d": "Ik heb een fles van een bepaalde drank nodig: Zombie Juice. Tavernkeep Smitts in de Scarlet Raven Tavern in Darkshire heeft vast wat.$B$BEn schiet alsjeblieft op, $N. Het wordt koud in deze nachten, en ik heb die drank nodig om weer vuur in mijn aderen te krijgen!",
+      "o": "Spreek met Tavernkeep Smitts.",
+      "c": "Heb je Zombie Juice nodig? Hmm... dat is sterk spul. Daar vragen mensen meestal niet om.",
+      "g": [
+        [
+          "bepaalde",
+          "certain (bepaald)"
+        ],
+        [
+          "drank",
+          "liquor, drink"
+        ],
+        [
+          "schiet op",
+          "hurry (opschieten)"
+        ],
+        [
+          "aderen",
+          "veins (ader)"
+        ],
+        [
+          "spul",
+          "stuff"
+        ],
+        [
+          "meestal",
+          "usually"
+        ]
+      ]
+    },
+    "159": {
+      "t": "Sap bezorgen",
+      "d": "Hier is je Zombie Juice...$B$B...en wees voorzichtig met dit spul. Het is sterk genoeg om de doden op te wekken!",
+      "o": "Breng de Zombie Juice naar Abercrombie in zijn hutje.",
+      "p": "Ik heb die Zombie Juice nodig om me warm te houden in deze koude, donkere nachten. Heb je het voor me gehaald?",
+      "c": "Duizendmaal dank, $N. Je verwarmt het hart van een oude man met je dwaas-... ik bedoel... met je vriendelijkheid!$b$bAlsjeblieft, vriend. Neem dit als teken van mijn dankbaarheid.",
+      "g": [
+        [
+          "sap",
+          "juice"
+        ],
+        [
+          "bezorgen",
+          "to deliver"
+        ],
+        [
+          "spul",
+          "stuff"
+        ],
+        [
+          "doden",
+          "the dead"
+        ],
+        [
+          "op te wekken",
+          "to raise, wake (opwekken)"
+        ],
+        [
+          "duizendmaal",
+          "a thousand times"
+        ],
+        [
+          "verwarmt",
+          "warms (verwarmen)"
+        ],
+        [
+          "dwaas",
+          "foolish, fool"
+        ],
+        [
+          "vriendelijkheid",
+          "kindness"
+        ],
+        [
+          "teken",
+          "token, sign"
+        ],
+        [
+          "dankbaarheid",
+          "gratitude"
+        ]
+      ]
+    }
+  },
+  "words": {
+    "beantwoorde": "answered (beantwoorden)",
+    "beloven": "to promise",
+    "bewegen": "to move",
+    "bladzijden": "pages (bladzijde)",
+    "gebouwen": "buildings (gebouw)",
+    "geheimzinnig": "mysterious",
+    "gestaan": "stood (staan)",
+    "haren": "hairs, strands (haar)",
+    "hemzelf": "himself",
+    "hield": "kept, held (houden)",
+    "hongerige": "starving, hungry (hongerig)",
+    "hoofden": "heads (hoofd)",
+    "jungle": "jungle",
+    "karavaanweg": "caravan road",
+    "koekjes": "cakes, biscuits (koekje)",
+    "la": "(à la) in the style of",
+    "maanstenen": "moonstones (maansteen)",
+    "meedoen": "to join in, take part",
+    "momenten": "moments, times (moment)",
+    "n-n-n-ee": "n-n-no (nee, stammered)",
+    "opeet": "eats up (opeten)",
+    "opgeschreven": "written down (opschrijven)",
+    "opschrijft": "writes down, records (opschrijven)",
+    "ramen": "windows (raam)",
+    "roeien": "(uitroeien) to root out",
+    "schrijft": "writes (schrijven)",
+    "schuil": "(zich schuilhouden) to hide",
+    "skeletten": "skeletons (skelet)",
+    "terrein": "ground, terrain",
+    "terugga": "go back (teruggaan)",
+    "teruggeeft": "gives back (teruggeven)",
+    "voort": "(voortzetten) to continue",
+    "vreemdeling": "stranger",
+    "vriendinnen": "(female) friends (vriendin)",
+    "wemelt": "swarms, teems (wemelen)",
+    "westgrens": "western border",
+    "wolfmannen": "wolf-men (wolfman)",
+    "à": "(à la) in the style of"
+  },
+  "terms": {
+    "worgen": "worgen: wolf-men from the Warcraft world"
+  }
+}
