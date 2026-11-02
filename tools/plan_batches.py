@@ -39,12 +39,18 @@ def slug(s):
 
 def parse_route(path):
     max_level, entries = 60, []
+    faction = "alliance"
     for raw in open(path, encoding="utf-8"):
         line = raw.split("#", 1)[0].strip()
         if not line:
             continue
         if line.startswith("max-level:"):
             max_level = int(line.split(":", 1)[1])
+            entries.append(("set-level", None, max_level, False))
+            continue
+        if line.startswith("faction:"):
+            faction = line.split(":", 1)[1].strip().lower()
+            entries.append(("set-faction", faction, None, False))
             continue
         pre = line.endswith("+pre")
         if pre:
@@ -79,15 +85,19 @@ def main():
         limit = int(sys.argv[sys.argv.index("--words") + 1])
     catalog = json.load(open(CATALOG, encoding="utf-8"))
     done = translated_ids()
-    max_level, route = parse_route(os.path.join(ROOT, "route.txt"))
+    _, route = parse_route(os.path.join(ROOT, "route.txt"))
+    max_level = max([e[2] for e in route if e[0] == "set-level"] or [60])
     old = json.load(open(OUT, encoding="utf-8")) if os.path.exists(OUT) else {"batches": []}
     finished = [b for b in old["batches"] if all(q in done for q in b["quests"])]
 
     planned = set(done)
     for b in finished:
         planned |= set(b["quests"])
-    pool = {int(k): v for k, v in catalog.items()
-            if v["side"] != "horde" and v["level"] <= max_level and int(k) not in planned}
+    pool = {int(k): v for k, v in catalog.items() if int(k) not in planned}
+    level_cap, faction = 60, "alliance"
+
+    def for_faction(q):
+        return q["side"] in (faction, "both", "neutral")
 
     batches, cur, cur_words, cur_names = [], [], 0, []
 
@@ -116,14 +126,25 @@ def main():
 
     capture_only = []
     for kind, name, cap, pre in route:
+        if kind == "set-level":
+            level_cap = cap
+            continue
+        if kind == "set-faction":
+            faction = name
+            continue
         if kind == "forever":
             capture_only.append(name)
             continue
         if name == "*":
-            picked = sorted(pool)
-            label = "Overige"
+            picked = [i for i, q in pool.items() if for_faction(q) and q["level"] <= level_cap]
+            zone_start = {}
+            for i in picked:
+                zone_start[pool[i]["zone"]] = min(zone_start.get(pool[i]["zone"], 99), pool[i]["level"])
+            picked.sort(key=lambda i: (zone_start[pool[i]["zone"]], pool[i]["zone"], pool[i]["level"], i))
+            label = None
         else:
-            picked = [i for i, q in pool.items() if matches(q, kind, name) and (cap is None or q["level"] <= cap)]
+            picked = [i for i, q in pool.items() if matches(q, kind, name) and for_faction(q)
+                      and q["level"] <= level_cap and (cap is None or q["level"] <= cap)]
             label = name if kind in ("zone", "dungeon") else "%s %s" % (kind, name)
             if cap:
                 label += " ≤%d" % cap
@@ -131,7 +152,7 @@ def main():
             extra = prerequisites(set(picked))
             label += " (+%d voorquests)" % len(extra) if extra else ""
             picked = sorted(extra, key=lambda i: (pool[i]["level"], i)) + sorted(picked, key=lambda i: (pool[i]["level"], i))
-        else:
+        elif name != "*":
             picked.sort(key=lambda i: (pool[i]["level"], i))
         for i in picked:
             w = pool[i]["words"]
@@ -139,7 +160,7 @@ def main():
                 flush()
             cur.append(i)
             cur_words += w
-            cur_names.append(label)
+            cur_names.append(label or pool[i]["zone"])
             del pool[i]
         # start each zone with a fresh batch when the current one is already well filled
         if cur_words > limit * 0.6:

@@ -11,4 +11,5 @@ ignore:
   - route.txt
   - ROADMAP.md
   - CHANGELOG.md
+  - CLAUDE.md
   - .github

@@ -1,6 +1,9 @@
 # Changelog
 
 ## Unreleased
+- Batch 3: rest of Teldrassil (18 quests): Wellspring Lake, Oracle Glade, Ursal the Mauler, Mist, Denalan's timberling chain (96 quests in total).
+- Plan covers all of Classic: Alliance 1-45 in the Forever leveling order, Alliance 46-60, then Horde (153 batches).
+- CLAUDE.md: instructions so any new Claude session can run the next batch.
 - **Melden** button in the reader and `/speur report`: builds a link to a pre-filled GitHub report. Missing quests include the English text (any faction, Horde too); translation fixes include the current Dutch.
 - GitHub issue forms: *Missing quest* and *Translation fix*; link to Discussions for questions.
 - Route follows the Forever dungeon leveling plan, with dungeon prequest chains (`+pre`) and Forever-only content marked for capture (`forever:`).
