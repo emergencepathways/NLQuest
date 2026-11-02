@@ -1,0 +1,938 @@
+{
+ "quests": {
+  "1778": {
+   "t": "Het boek van goddelijkheid",
+   "d": "Ik ga kijken of ik plannen kan maken om snel naar huis te gaan. Hopelijk gaat het goed met Stephanie, thuis in Stormwind. Ik kan niet wachten om haar weer te zien. Tot de volgende keer, $c.",
+   "o": "Praat met Tiza Battleforge in Ironforge.",
+   "c": "Zo, je bent al zo snel terug, hè? En wat heb je, vertel eens, bereikt in de tijd dat je weg was?$B$BHeb je een edel doel kunnen helpen? Misschien heb je geleerd hoe waardevol liefdadigheid is. Of misschien heb je meer geleerd over je plichten tegenover de burgers van Azeroth. Vertel me: wie heb je geholpen, en hoe? .... Indrukwekkend, $N. Dat zijn zeker de daden van iemand die het Licht volgt.$B$BZo'n offer wordt na verloop van tijd altijd beloond.",
+   "g": [
+    [
+     "hopelijk",
+     "hopefully"
+    ],
+    [
+     "vertel eens",
+     "pray tell, do tell"
+    ],
+    [
+     "bereikt",
+     "achieved (bereiken)"
+    ],
+    [
+     "edel",
+     "noble"
+    ],
+    [
+     "doel",
+     "cause, goal"
+    ],
+    [
+     "waardevol",
+     "valuable"
+    ],
+    [
+     "liefdadigheid",
+     "charity"
+    ],
+    [
+     "plichten",
+     "duties, obligations (plicht)"
+    ],
+    [
+     "burgers",
+     "citizens (burger)"
+    ],
+    [
+     "indrukwekkend",
+     "impressive"
+    ],
+    [
+     "daden",
+     "deeds, actions (daad)"
+    ],
+    [
+     "offer",
+     "sacrifice"
+    ],
+    [
+     "na verloop van tijd",
+     "in time, eventually"
+    ],
+    [
+     "beloond",
+     "rewarded (belonen)"
+    ]
+   ]
+  },
+  "1779": {
+   "t": "Het boek van goddelijkheid",
+   "d": "Ik wil dat je dit aanneemt, $N. Het heet de Symbol of Life.$B$BJe hebt laten zien dat je vrijgevig en geduldig bent. Nu wil ik dat je bewijst hoe bekwaam je bent geworden, in de strijd en in kracht.$B$BMijn man Muiredon is pas terug van een gevecht met een paar dwergen van Dark Iron. Hij is maar net levend ontsnapt. Hij is daar, en een van onze priesters geneest zijn wonden.$B$BNeem de Symbol mee en praat met hem. Als je hem kunt helpen, praten we snel weer. Moge het Licht op je schijnen.",
+   "o": "Neem de Symbol of Life mee en praat met Muiredon Battleforge in Ironforge.",
+   "c": "*hoest*$B$BGoeiedag, $C. Let maar niet op mijn wonden. De goede priester hier zorgt na verloop van tijd wel voor de oude Muiredon. Ik heb de kracht van die Symbol of Life die je daar hebt nog niet nodig.$B$BZo, mijn vrouw heeft je naar mij gestuurd, hè? Goed dan. Ik neem de tijd om met je te praten. Ik vertel je precies wat er gebeurd is met Muiredon en zijn beste vriend Narm, een $C net als jij.",
+   "g": [
+    [
+     "aanneemt",
+     "accept, take (aannemen)"
+    ],
+    [
+     "vrijgevig",
+     "generous, charitable"
+    ],
+    [
+     "geduldig",
+     "patient"
+    ],
+    [
+     "bewijst",
+     "prove (bewijzen)"
+    ],
+    [
+     "bekwaam",
+     "skilled, adept"
+    ],
+    [
+     "strijd",
+     "combat, battle"
+    ],
+    [
+     "maar net",
+     "only just, barely"
+    ],
+    [
+     "ontsnapt",
+     "escaped (ontsnappen)"
+    ],
+    [
+     "geneest",
+     "heals (genezen)"
+    ],
+    [
+     "wonden",
+     "wounds (wond)"
+    ],
+    [
+     "moge",
+     "may (wish)"
+    ],
+    [
+     "hoest",
+     "cough (hoesten)"
+    ],
+    [
+     "let maar niet op",
+     "don't mind"
+    ]
+   ]
+  },
+  "1780": {
+   "t": "Het boek van goddelijkheid",
+   "d": "Ik breng deze vandaag nog naar de kinderen. Wees alsjeblieft voorzichtig, goede $c. Het gebeurt niet vaak dat $gmannen:vrouwen; met jouw karakter zich in de stad laten zien. Maar jij hebt bewezen dat de paladijnen hier in Stormwind nooit hun rug toekeren naar mensen in nood.$B$BVaarwel.",
+   "o": "Praat met Duthorian Rall in Stormwind.",
+   "c": "Je bent al zo snel terug, $N. En wat heb je bereikt in de tijd dat je weg was uit de Cathedral?$B$BHeb je een edel doel geholpen? Misschien heb je geleerd hoe waardevol liefdadigheid is. Of misschien heb je meer geleerd over je plichten tegenover de burgers van Azeroth. Vertel me: wie heb je geholpen, en hoe? ... Nou, ik ben onder de indruk, $N. Dat zijn zeker de daden van iemand die het Licht volgt, en die anderen belangrijker vindt dan zichzelf.$B$BZo'n offer wordt na verloop van tijd altijd beloond.",
+   "g": [
+    [
+     "karakter",
+     "character"
+    ],
+    [
+     "bewezen",
+     "proven (bewijzen)"
+    ],
+    [
+     "hun rug toekeren",
+     "turn their backs (de rug toekeren)"
+    ],
+    [
+     "in nood",
+     "in need"
+    ],
+    [
+     "vaarwel",
+     "farewell"
+    ],
+    [
+     "bereikt",
+     "achieved (bereiken)"
+    ],
+    [
+     "edel",
+     "noble"
+    ],
+    [
+     "liefdadigheid",
+     "charity"
+    ],
+    [
+     "plichten",
+     "duties, obligations (plicht)"
+    ],
+    [
+     "onder de indruk",
+     "impressed"
+    ],
+    [
+     "daden",
+     "deeds, actions (daad)"
+    ],
+    [
+     "offer",
+     "sacrifice"
+    ],
+    [
+     "beloond",
+     "rewarded (belonen)"
+    ]
+   ]
+  },
+  "1781": {
+   "t": "Het boek van goddelijkheid",
+   "d": "Neem dit aan, $N. Het heet de Symbol of Life.$B$BJe hebt laten zien dat je vrijgevig en geduldig bent. Nu is het tijd om te zien of je sterk genoeg bent om een van de grootste gaven van het Licht te richten.$B$BMijn vriend Gazin is pas terug van een gevecht met een paar Defias in Elwynn, bij Heroes' Vigil. Hij is maar net levend ontsnapt. Hij is bij het altaar, en onze priesters genezen zijn wonden.$B$BNeem de Symbol mee en praat met hem. Als je hem kunt helpen, praten we snel weer. Moge je baden in de glorie van het Licht.",
+   "o": "Breng de Symbol of Life naar Gazin Tenorm in Stormwind.",
+   "c": "*hoest*$B$BAangenaam, $R. Let maar niet op mijn wonden. De goede priester hier kan deze keer wel voor de oude Gazin zorgen. Ik heb de kracht van die Symbol of Life die je daar hebt niet nodig... nog niet, in elk geval.$B$BZo, Duthorian heeft je naar mij gestuurd, hè? Goed dan. Ik vertel je precies wat er met mij en mijn vriend Henze gebeurd is. En met wat geluk, en wat vaardigheid van jouw kant, kun je ons misschien nog allemaal helpen.",
+   "g": [
+    [
+     "vrijgevig",
+     "generous, charitable"
+    ],
+    [
+     "geduldig",
+     "patient"
+    ],
+    [
+     "gaven",
+     "gifts (gave)"
+    ],
+    [
+     "richten",
+     "to focus, to direct"
+    ],
+    [
+     "maar net",
+     "only just, barely"
+    ],
+    [
+     "ontsnapt",
+     "escaped (ontsnappen)"
+    ],
+    [
+     "altaar",
+     "altar"
+    ],
+    [
+     "genezen",
+     "heal"
+    ],
+    [
+     "baden",
+     "bask, bathe"
+    ],
+    [
+     "glorie",
+     "glory"
+    ],
+    [
+     "aangenaam",
+     "pleased to meet you"
+    ],
+    [
+     "in elk geval",
+     "anyway, in any case"
+    ],
+    [
+     "vaardigheid",
+     "skill"
+    ]
+   ]
+  },
+  "1783": {
+   "t": "Het boek van goddelijkheid",
+   "d": "We waren een paar dwergen van Dark Iron aan het bespioneren. Ze hebben zich verschanst ten zuiden van Helm's Bed Lake. We wisten dat ze iets slechts van plan waren. Dus Narm en ik wilden eens beter gaan kijken. We zagen hun leider bevelen geven aan een paar van zijn mannen.$B$BNarm en ik grepen de kans om er een paar te doden. Maar ze waren sterker dan we dachten, en er kwamen er meer die ons verrasten. Narm zei dat ik moest wegrennen en hulp moest halen. Dus hier ben ik.$B$BNarm heeft hulp nodig, en ik rust niet tot hij die krijgt.$B$BKun je helpen, $N?",
+   "o": "Neem de Symbol of Life mee en breng Narm Faulk in Dun Morogh weer tot leven.",
+   "c": "Ik kan je niet genoeg bedanken, $gbroeder:zuster;.$B$BJe hebt de Symbol of Life bij je. Dus ik denk dat Tiza en Muiredon je hierheen hebben gestuurd om me te helpen.$B$BHet klopt: ik viel tegen de Dark Iron toen ik een van de geschriften probeerde te pakken. Ik hield lang genoeg vol, zodat Muiredon kon ontsnappen. Maar het Licht had me al bijna helemaal omarmd toen jij langskwam. Dat je sterk genoeg was om de Symbol te gebruiken, betekent grote dingen voor jou. Maar daar praten we later over.",
+   "g": [
+    [
+     "bespioneren",
+     "to spy on"
+    ],
+    [
+     "verschanst",
+     "dug in, bunkered down (zich verschansen)"
+    ],
+    [
+     "van plan",
+     "planning, up to"
+    ],
+    [
+     "bevelen",
+     "orders (bevel)"
+    ],
+    [
+     "grepen de kans",
+     "seized the chance (grijpen)"
+    ],
+    [
+     "verrasten",
+     "took by surprise (verrassen)"
+    ],
+    [
+     "weer tot leven",
+     "back to life"
+    ],
+    [
+     "broeder",
+     "brother"
+    ],
+    [
+     "zuster",
+     "sister"
+    ],
+    [
+     "het klopt",
+     "it's true"
+    ],
+    [
+     "geschriften",
+     "scripts, writings (geschrift)"
+    ],
+    [
+     "hield vol",
+     "held on (volhouden)"
+    ],
+    [
+     "omarmd",
+     "embraced (omarmen)"
+    ]
+   ]
+  },
+  "1784": {
+   "t": "Het boek van goddelijkheid",
+   "d": "Voordat ik in de strijd viel, hadden Muiredon en ik bijna een van de spionnen van Dark Iron verslagen, bij dat kleine huis. We zagen hoe hun kapitein bevelen aan hen doorgaf. We wilden hem doden en de bevelen afpakken.$B$BSommige leden van de raad in Ironforge geloven nog niet dat er dwergen van Dark Iron in Dun Morogh zijn. Als we een van die geschriften krijgen, hebben we bewijs van hun bewegingen. En misschien ook een idee van wat ze van plan zijn.$B$BPak een van die geschriften en breng het terug naar Muiredon, $N.",
+   "o": "Haal een Dark Iron Script bij de dwergen van Dark Iron bij Helm's Bed, en ga terug naar Muiredon Battleforge in Ironforge.",
+   "p": "Je bent terug! Wat fijn om je te zien, $N. Mijn wonden zijn genezen. Ik ben bijna klaar om terug te gaan naar Helm's Bed Lake, zodra ik mijn vrouw kan overtuigen dat het goed met me komt.",
+   "c": "Haha! Het is je gelukt! Je hebt Narm gered, en je hebt het bewijs gevonden dat mijn vrouw naar de raad moet brengen. Jij bent een zegen van het Licht, als ik er ooit een gezien heb... mijn vrouw niet meegerekend, natuurlijk.$B$BNogmaals bedankt, $N.",
+   "g": [
+    [
+     "strijd",
+     "battle"
+    ],
+    [
+     "spionnen",
+     "spies (spion)"
+    ],
+    [
+     "verslagen",
+     "defeated (verslaan)"
+    ],
+    [
+     "doorgaf",
+     "passed on (doorgeven)"
+    ],
+    [
+     "afpakken",
+     "to take away"
+    ],
+    [
+     "raad",
+     "council"
+    ],
+    [
+     "bewijs",
+     "proof"
+    ],
+    [
+     "bewegingen",
+     "movements (beweging)"
+    ],
+    [
+     "overtuigen",
+     "to convince"
+    ],
+    [
+     "gered",
+     "saved (redden)"
+    ],
+    [
+     "zegen",
+     "blessing"
+    ],
+    [
+     "niet meegerekend",
+     "not counting"
+    ]
+   ]
+  },
+  "1785": {
+   "t": "Het boek van goddelijkheid",
+   "d": "Ik zie mijn vrouw daar al stralen van trots. Ga maar snel met je achterwerk naar haar toe. Ik denk dat ze je iets te zeggen heeft.$B$BHet Licht zij met je, machtige $c. Ik kijk naar je uit op het slagveld tegen de Scourge en die Dark Irons, als het zover is.",
+   "o": "Praat met Tiza Battleforge in Ironforge.",
+   "c": "Je hebt heel Ironforge vandaag een grote dienst bewezen, $N. Ik ben trots dat je bij ons hoort. Als je denkt dat je er klaar voor bent, wil ik je zegenen met deze boekrol. De Symbol of Life werkte alleen voor een $C die klaar was voor een van de grootste zegens van het Licht: de kracht om de doden weer tot leven te brengen.$B$BIk leer je hoe je je metgezellen weer tot leven kunt brengen. Gebruik het verstandig, $N. En dank je, namens mezelf, mijn man en Ironforge.",
+   "g": [
+    [
+     "stralen van trots",
+     "beaming with pride"
+    ],
+    [
+     "achterwerk",
+     "backside, behind"
+    ],
+    [
+     "zij met je",
+     "be with you"
+    ],
+    [
+     "machtige",
+     "mighty (machtig)"
+    ],
+    [
+     "slagveld",
+     "battlefield"
+    ],
+    [
+     "als het zover is",
+     "when the time comes"
+    ],
+    [
+     "een dienst bewezen",
+     "done a favor (een dienst bewijzen)"
+    ],
+    [
+     "zegenen",
+     "to bless"
+    ],
+    [
+     "boekrol",
+     "scroll"
+    ],
+    [
+     "zegens",
+     "blessings (zegen)"
+    ],
+    [
+     "metgezellen",
+     "companions (metgezel)"
+    ],
+    [
+     "verstandig",
+     "wisely"
+    ],
+    [
+     "namens",
+     "on behalf of"
+    ]
+   ]
+  },
+  "1786": {
+   "t": "Het boek van goddelijkheid",
+   "d": "Henze en ik waren bij Heroes' Vigil gekomen. Dat is een eiland in het midden van Stone Cairn Lake, in het noordoosten van Elwynn. We hadden gehoord dat de Defias over onze grenzen waren binnengedrongen. We wilden bewijs om naar de adviseurs van de koning te brengen.$B$BWe zagen een paar van dat tuig documenten bekijken, en we vielen aan. Helaas kwamen er al snel meer van de magiërs, en dat waren er te veel voor ons.$B$BHenze hield ze tegen terwijl ik ontsnapte... die domme dwaas, die zo nodig dapper moest zijn.$B$BHij is daar nu, Henze. Kun je ons helpen, $N?",
+   "o": "Neem de Symbol of Life mee en breng Henze Faulk in Elwynn weer tot leven.",
+   "c": "Dank je, $gbroeder:zuster;.$B$BJe hebt de Symbol of Life in je hand. Mag ik aannemen dat Duthorian of Gazin je heeft gestuurd?$B$BIk viel tegen de magiërs van de Defias, toen Gazin en ik hun plannen probeerden af te pakken. Ik hield lang genoeg vol, zodat Gazin kon ontsnappen. Maar uiteindelijk was hun magie te sterk voor mij.$B$BMaar jij kon me terugbrengen. Niet zomaar iedereen kan de Symbol gebruiken, $N. Het is een goed teken voor jou dat je hem kracht kon geven met je eigen geloof.",
+   "g": [
+    [
+     "eiland",
+     "island"
+    ],
+    [
+     "grenzen",
+     "borders (grens)"
+    ],
+    [
+     "binnengedrongen",
+     "infiltrated (binnendringen)"
+    ],
+    [
+     "adviseurs",
+     "advisors (adviseur)"
+    ],
+    [
+     "tuig",
+     "scum"
+    ],
+    [
+     "magiërs",
+     "mages (magiër)"
+    ],
+    [
+     "hield tegen",
+     "held off (tegenhouden)"
+    ],
+    [
+     "dwaas",
+     "fool"
+    ],
+    [
+     "zo nodig",
+     "just had to"
+    ],
+    [
+     "aannemen",
+     "to assume"
+    ],
+    [
+     "uiteindelijk",
+     "in the end"
+    ],
+    [
+     "teken",
+     "sign"
+    ],
+    [
+     "geloof",
+     "faith"
+    ]
+   ]
+  },
+  "1787": {
+   "t": "Het boek van goddelijkheid",
+   "d": "We hebben later nog tijd om over de Symbol te praten. Nu is het belangrijk om de papieren te pakken die de Defias aan het bekijken waren. Als we die in handen krijgen, kunnen we bewijzen dat de Defias Elwynn zijn binnengedrongen. En hopelijk komen we iets te weten over hun plannen.$B$BIk ben nu niet in vorm om te vechten, $N. Denk je dat je sterk genoeg bent om die papieren af te pakken van de Defias hier op het eiland?$B$BAls het je lukt, breng ze dan terug naar Gazin. En laat hem weten dat het goed met me gaat.",
+   "o": "Haal een Defias Script bij de Defias Rogue Wizards in Elwynn, en ga terug naar Gazin Tenorm in Stormwind.",
+   "p": "Is Henze veilig, $N? Is het je gelukt?$B$BMet jouw vaardigheid met een wapen en de kracht van het Licht, denk ik dat Heroes' Vigil veilig is voor elke dreiging van de Defias. Maar dat moeten de koning en zijn adviseurs zeggen.",
+   "c": "Geweldig! Het is je gelukt, en je hebt Henze gered. Het Licht is zeker met je, $N!",
+   "g": [
+    [
+     "papieren",
+     "papers (papier)"
+    ],
+    [
+     "in handen krijgen",
+     "get our hands on"
+    ],
+    [
+     "binnengedrongen",
+     "infiltrated (binnendringen)"
+    ],
+    [
+     "iets te weten komen",
+     "find something out"
+    ],
+    [
+     "in vorm",
+     "in shape"
+    ],
+    [
+     "af te pakken",
+     "to take away (afpakken)"
+    ],
+    [
+     "eiland",
+     "island"
+    ],
+    [
+     "vaardigheid",
+     "skill"
+    ],
+    [
+     "dreiging",
+     "threat"
+    ],
+    [
+     "adviseurs",
+     "advisors (adviseur)"
+    ],
+    [
+     "gered",
+     "saved (redden)"
+    ]
+   ]
+  },
+  "1788": {
+   "t": "Het boek van goddelijkheid",
+   "d": "Ik breng het geschrift naar de adviseurs van de koning, als Duthorian ernaar heeft gekeken. Maar ga ondertussen nu met Duthorian praten. Hij wil je vast een schouderklopje geven!$B$BNogmaals bedankt, $N. Ik hoop dat we elkaar weer zien. Jij bent zeker een bondgenoot die ik met trots een vriend noem.",
+   "o": "Praat met Duthorian Rall in Stormwind.",
+   "c": "Je hebt het goed gedaan vandaag, $N. Je mag best trots zijn op wat je hebt bereikt.$B$BEn je moet nog trotser zijn op wat je kunt. Niet iedereen kan de kracht van de Symbol of Life gebruiken. Je riep het Licht aan om de doden terug te brengen. Dat betekent dat je klaar bent voor een van de grootste eerbewijzen van een $C: de kracht van de wederopstanding.$B$BJe krijgt de kracht om gevallen metgezellen terug te brengen, net zoals je bij Henze hebt gedaan.$B$BHet ga je goed, $N. Het Licht schijnt op je, en je moet het helemaal verwelkomen.",
+   "g": [
+    [
+     "geschrift",
+     "script, writing"
+    ],
+    [
+     "ondertussen",
+     "in the meantime"
+    ],
+    [
+     "schouderklopje",
+     "pat on the back"
+    ],
+    [
+     "bondgenoot",
+     "ally"
+    ],
+    [
+     "met trots",
+     "proudly"
+    ],
+    [
+     "bereikt",
+     "achieved (bereiken)"
+    ],
+    [
+     "riep aan",
+     "called upon (aanroepen)"
+    ],
+    [
+     "eerbewijzen",
+     "honors (eerbewijs)"
+    ],
+    [
+     "wederopstanding",
+     "resurrection"
+    ],
+    [
+     "gevallen",
+     "fallen"
+    ],
+    [
+     "metgezellen",
+     "companions (metgezel)"
+    ],
+    [
+     "het ga je goed",
+     "be well, farewell"
+    ],
+    [
+     "verwelkomen",
+     "to welcome"
+    ]
+   ]
+  },
+  "1793": {
+   "t": "Het boek van moed",
+   "c": "Het is bewezen dat het Licht met je is, $N. Maar de tijden worden gevaarlijker. Daarom is het belangrijk om te weten welke kracht er onder het vlees zit. Als demonen, draken of ander kwaad voet in jouw land zetten, wordt je innerlijke kracht op de proef gesteld. Ben je dan sterk genoeg?$B$BMoed hoort bij het paladijn zijn, wat er ook gebeurt. Net zo goed als het Licht, je wapenrusting en je wapen. De zwakken beschermen en je geloof niet verliezen: dat zijn nog twee lessen die je onder de knie moet krijgen, terwijl je studeert in de Cathedral of Light.",
+   "g": [
+    [
+     "bewezen",
+     "proven (bewijzen)"
+    ],
+    [
+     "gevaarlijker",
+     "more dangerous (gevaarlijk)"
+    ],
+    [
+     "vlees",
+     "flesh"
+    ],
+    [
+     "demonen",
+     "demons (demon)"
+    ],
+    [
+     "kwaad",
+     "evil"
+    ],
+    [
+     "voet zetten",
+     "set foot"
+    ],
+    [
+     "innerlijke",
+     "inner (innerlijk)"
+    ],
+    [
+     "op de proef gesteld",
+     "put to the test (op de proef stellen)"
+    ],
+    [
+     "moed",
+     "bravery, courage"
+    ],
+    [
+     "wapenrusting",
+     "armor"
+    ],
+    [
+     "zwakken",
+     "the weak (zwak)"
+    ],
+    [
+     "geloof",
+     "faith"
+    ],
+    [
+     "onder de knie krijgen",
+     "to master"
+    ]
+   ]
+  },
+  "1794": {
+   "t": "Het boek van moed",
+   "c": "Het is bewezen dat het Licht met je is, $n. Maar de tijden worden gevaarlijker. Daarom is het belangrijk om te weten welke kracht er onder het vlees zit. Als demonen, draken of ander kwaad voet in jouw land zetten, wordt je innerlijke kracht op de proef gesteld. Ben je dan sterk genoeg?$b$bMoed hoort bij het paladijn zijn, wat er ook gebeurt. Net zo goed als het Licht, je wapenrusting en je wapen. De zwakken beschermen en je geloof niet verliezen: dat zijn nog twee lessen die je onder de knie moet krijgen, terwijl je studeert in de Cathedral of Light.",
+   "g": [
+    [
+     "bewezen",
+     "proven (bewijzen)"
+    ],
+    [
+     "gevaarlijker",
+     "more dangerous (gevaarlijk)"
+    ],
+    [
+     "vlees",
+     "flesh"
+    ],
+    [
+     "demonen",
+     "demons (demon)"
+    ],
+    [
+     "kwaad",
+     "evil"
+    ],
+    [
+     "voet zetten",
+     "set foot"
+    ],
+    [
+     "innerlijke",
+     "inner (innerlijk)"
+    ],
+    [
+     "op de proef gesteld",
+     "put to the test (op de proef stellen)"
+    ],
+    [
+     "moed",
+     "bravery, courage"
+    ],
+    [
+     "wapenrusting",
+     "armor"
+    ],
+    [
+     "zwakken",
+     "the weak (zwak)"
+    ],
+    [
+     "geloof",
+     "faith"
+    ],
+    [
+     "onder de knie krijgen",
+     "to master"
+    ]
+   ]
+  },
+  "1442": {
+   "t": "Op zoek naar de Kor Gem",
+   "d": "Gegroet, $N. Wat kan ik doen voor iemand die een heilig pad volgt?$B$BAh ja, Stilwell, de smid... van lang geleden. Ik herinner me hem goed, al heb ik zijn naam al een tijd niet gehoord.$B$BHij leek me nooit een brutale man. Dus ik kan alleen maar aannemen dat hij om een edele reden een Kor-edelsteen wil.$B$BAls je echt een van de edelstenen wilt hebben, moet je naar het noordwesten van Ashenvale gaan. Daar vind je Blackfathom Deeps, in oude ruïnes. De naga die de edelstenen nog gebruiken, zijn daar beneden. Ga niet alleen, $c.",
+   "o": "Breng een Kor Gem naar Thundris Windweaver in Darkshore.",
+   "p": "Ik zou minder vertrouwen hebben in iemand die geen heilig pad volgt, als die naar een Kor-edelsteen kwam vragen. Maar ik vertrouw jouw soort meer dan sommigen van mijn eigen volk. Ik oordeel niet over je hele orde op basis van de daden van maar één gevallene van jullie soort.",
+   "c": "Dit is inderdaad de edelsteen die Stilwell wil. Maar voordat ik je hem naar hem laat brengen, moet hij gezuiverd worden van corruptie. Die naga-vrouwen geven de edelstenen kracht, dat is waar. Maar het is hun eigen, kwade soort kracht.$B$BLaat Stilwell weten dat de kracht nog helemaal heel is. Dan moet hij goed werken voor het ritueel waar hij hem voor wil gebruiken.$B$BIk hoop dat je weet wat je doet, $C. Dit is geen eenvoudig voorwerp dat je bij je hebt.",
+   "g": [
+    [
+     "gegroet",
+     "greetings"
+    ],
+    [
+     "heilig",
+     "holy"
+    ],
+    [
+     "smid",
+     "blacksmith"
+    ],
+    [
+     "brutale",
+     "impudent (brutaal)"
+    ],
+    [
+     "aannemen",
+     "to assume"
+    ],
+    [
+     "edelsteen",
+     "gem"
+    ],
+    [
+     "ruïnes",
+     "ruins (ruïne)"
+    ],
+    [
+     "vertrouwen",
+     "trust"
+    ],
+    [
+     "volk",
+     "people, kin"
+    ],
+    [
+     "oordeel",
+     "judge (oordelen)"
+    ],
+    [
+     "op basis van",
+     "based on"
+    ],
+    [
+     "gevallene",
+     "fallen one"
+    ],
+    [
+     "gezuiverd",
+     "purified (zuiveren)"
+    ],
+    [
+     "kwade",
+     "evil (kwaad)"
+    ],
+    [
+     "voorwerp",
+     "item, object"
+    ]
+   ]
+  },
+  "1655": {
+   "t": "De ertslading van Bailor",
+   "d": "Ach, je liet me schrikken, $gman:vrouw;! Zie je niet dat ik diep in gedachten was?$B$BWat zeg je? De lading van Jordan... voor Ironforge. Ahhh ja, ik weet waar je het over hebt. Mo'grosh-ogers... die hebben de ertslading van mijn oude vriend gepakt. De karavaan was op weg hierheen vanuit de Wetlands en werd overvallen. De bewaker die hun aanval overleefde, is een paar dagen geleden gestorven. De genezer kon niet snel genoeg bij hem komen.$B$BAls je de lading wilt, moet je naar het noordoosten, over het Loch. Daar moet hij ergens zijn.",
+   "o": "Breng Jordan's Ore Shipment naar Bailor Stonehand in Loch Modan.",
+   "p": "En, al geluk gehad? Haha, die ogers hebben je nog niet te pakken gekregen, hè?",
+   "c": "Jazeker, dit is hem. Ha! Als ik had geweten dat je echt daarheen zou gaan om tegen die ogers te vechten, had ik je een lijst gegeven met dingen om te halen, in plaats van alleen dit ene ding. Maar je bent hier niet om zaken voor mij te doen, hè?$B$BAfspraak is afspraak. Jordan wilde een lading van mijn legering, en die krijgt hij.$B$BDoe hem de groeten van mij, en wees voorzichtig, $C.",
+   "g": [
+    [
+     "ertslading",
+     "ore shipment"
+    ],
+    [
+     "liet schrikken",
+     "startled (laten schrikken)"
+    ],
+    [
+     "in gedachten",
+     "lost in thought"
+    ],
+    [
+     "lading",
+     "shipment, load"
+    ],
+    [
+     "ogers",
+     "ogres (oger)"
+    ],
+    [
+     "karavaan",
+     "caravan"
+    ],
+    [
+     "overvallen",
+     "ambushed, attacked"
+    ],
+    [
+     "bewaker",
+     "guard"
+    ],
+    [
+     "overleefde",
+     "survived (overleven)"
+    ],
+    [
+     "genezer",
+     "healer"
+    ],
+    [
+     "te pakken gekregen",
+     "got the best of (te pakken krijgen)"
+    ],
+    [
+     "zaken doen",
+     "do business"
+    ],
+    [
+     "afspraak is afspraak",
+     "a deal's a deal"
+    ],
+    [
+     "legering",
+     "alloy"
+    ],
+    [
+     "doe de groeten",
+     "say hello"
+    ]
+   ]
+  },
+  "1806": {
+   "t": "De proef van rechtvaardigheid",
+   "d": "Zullen we naar de smidse gaan en hieraan beginnen? Ik bereid me al een tijd voor op je komst, dus het duurt vast niet lang.$B$BAls we klaar zijn, ben je veel beter voorbereid om het Licht te verdedigen dan eerst. Dat beloof ik je.$B$BIk zal een beetje eerlijk zijn, $N. Als ik zie wat je allemaal hebt gedaan, ben ik een beetje jaloers. Maar ik weet dat ik op mijn eigen belangrijke manier kan bijdragen aan je avonturen. En dat geeft me wel wat vreugde.",
+   "o": "Wacht tot Jordan Stilwell klaar is met het smeden van een wapen voor jou.",
+   "c": "Hier is het, $N. Een wapen dat een kampioen van het Licht zoals jij waardig is. Ik heb het genoemd naar een grote paladijn van de dwergen, die een vriend van me was. Zijn naam was Verigan... Bosch Verigan.$B$BNeem het alsjeblieft aan, namens mij en mijn vrouw. We staan diep bij je in het krijt. En de wereld wordt veiliger als iemand met jouw vaardigheid door het land reist.",
+   "g": [
+    [
+     "proef",
+     "test, trial"
+    ],
+    [
+     "rechtvaardigheid",
+     "righteousness"
+    ],
+    [
+     "smidse",
+     "forge"
+    ],
+    [
+     "komst",
+     "arrival"
+    ],
+    [
+     "voorbereid",
+     "prepared (voorbereiden)"
+    ],
+    [
+     "verdedigen",
+     "to defend"
+    ],
+    [
+     "jaloers",
+     "envious, jealous"
+    ],
+    [
+     "bijdragen",
+     "to contribute"
+    ],
+    [
+     "vreugde",
+     "joy"
+    ],
+    [
+     "smeden",
+     "forging"
+    ],
+    [
+     "kampioen",
+     "champion"
+    ],
+    [
+     "waardig",
+     "worthy"
+    ],
+    [
+     "in het krijt staan",
+     "to owe, be in debt"
+    ],
+    [
+     "vaardigheid",
+     "skill"
+    ]
+   ]
+  }
+ },
+ "words": {
+  "domme": "stupid, daft (dom)",
+  "genoemd": "named (noemen)",
+  "goeiedag": "good day (greeting)",
+  "grepen": "seized, grabbed (grijpen)",
+  "hieraan": "on this, to this",
+  "knie": "knee",
+  "meegerekend": "counted, included (meerekenen)",
+  "mezelf": "myself",
+  "mo'grosh-ogers": "Mo'grosh ogres",
+  "naga-vrouwen": "naga women",
+  "probeerde": "tried (proberen)",
+  "probeerden": "tried (proberen)",
+  "riep": "called (roepen)",
+  "schrikken": "to be startled, to get a fright",
+  "stralen": "to beam, to shine",
+  "studeert": "study (studeren)",
+  "toekeren": "to turn towards (de rug toekeren: turn one's back)",
+  "trotser": "prouder (trots)",
+  "wilden": "wanted (willen)"
+ },
+ "terms": {}
+}
