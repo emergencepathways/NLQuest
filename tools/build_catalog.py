@@ -180,6 +180,8 @@ def main(sql_path, out_path):
             "level": q["QuestLevel"], "min": q["MinLevel"], "zone": name, "side": side,
             "category": category, "dungeon": dungeon,
             "giver": givers[0]["name"] if givers else None,
+            "prev": abs(q["PrevQuestId"] or 0) or None,
+            "next": q["NextQuestInChain"] or None,
             "words": sum(len(str(v).split()) for v in en.values()),
             "en": en,
         }

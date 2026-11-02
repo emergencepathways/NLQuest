@@ -46,15 +46,18 @@ def parse_route(path):
         if line.startswith("max-level:"):
             max_level = int(line.split(":", 1)[1])
             continue
+        pre = line.endswith("+pre")
+        if pre:
+            line = line[:-4].strip()
         cap = None
         if "@" in line:
             line, cap = [x.strip() for x in line.split("@", 1)]
             cap = int(cap)
         kind, name = "zone", line
-        m = re.match(r"(class|profession|dungeon|other):\s*(.+)", line)
+        m = re.match(r"(class|profession|dungeon|other|forever):\s*(.+)", line)
         if m:
             kind, name = m.group(1), m.group(2).strip()
-        entries.append((kind, name, cap))
+        entries.append((kind, name, cap, pre))
     return max_level, entries
 
 
@@ -94,7 +97,28 @@ def main():
             batches.append({"quests": cur, "words": cur_words, "name": " + ".join(dict.fromkeys(cur_names))})
         cur, cur_words, cur_names = [], 0, []
 
-    for kind, name, cap in route:
+    # quest -> quests that must be done before it (PrevQuestId, or another quest's NextQuestInChain)
+    before = {}
+    for k, v in catalog.items():
+        if v.get("prev"):
+            before.setdefault(int(k), set()).add(v["prev"])
+        if v.get("next"):
+            before.setdefault(v["next"], set()).add(int(k))
+
+    def prerequisites(ids):
+        found, todo = set(), list(ids)
+        while todo:
+            for p in before.get(todo.pop(), ()):
+                if p in pool and p not in found and p not in ids:
+                    found.add(p)
+                    todo.append(p)
+        return found
+
+    capture_only = []
+    for kind, name, cap, pre in route:
+        if kind == "forever":
+            capture_only.append(name)
+            continue
         if name == "*":
             picked = sorted(pool)
             label = "Overige"
@@ -103,7 +127,12 @@ def main():
             label = name if kind in ("zone", "dungeon") else "%s %s" % (kind, name)
             if cap:
                 label += " ≤%d" % cap
-        picked.sort(key=lambda i: (pool[i]["level"], i))
+        if pre:
+            extra = prerequisites(set(picked))
+            label += " (+%d voorquests)" % len(extra) if extra else ""
+            picked = sorted(extra, key=lambda i: (pool[i]["level"], i)) + sorted(picked, key=lambda i: (pool[i]["level"], i))
+        else:
+            picked.sort(key=lambda i: (pool[i]["level"], i))
         for i in picked:
             w = pool[i]["words"]
             if cur and cur_words + w > limit:
@@ -121,7 +150,7 @@ def main():
     for n, b in enumerate(batches, start):
         b["n"] = n
         b["slug"] = "%02d-%s" % (n, slug(b["name"].split(" + ")[0]))[:40]
-    plan = {"limit": limit, "max_level": max_level, "batches": finished + batches}
+    plan = {"limit": limit, "max_level": max_level, "batches": finished + batches, "capture_only": capture_only}
     json.dump(plan, open(OUT, "w", encoding="utf-8"), ensure_ascii=False, indent=1)
 
     total_q = sum(len(b["quests"]) for b in batches)
@@ -130,6 +159,8 @@ def main():
         len(done), len(finished), total_q, total_w, len(batches), os.path.relpath(OUT, ROOT)))
     for b in batches[:400]:
         print("  %3d  %4d quests %6d words  %s" % (b["n"], len(b["quests"]), b["words"], b["name"]))
+    if capture_only:
+        print("Forever-only, translated after in-game capture: " + ", ".join(capture_only))
 
 
 if __name__ == "__main__":

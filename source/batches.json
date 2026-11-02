@@ -180,6 +180,186 @@
     224,
     267,
     1338,
+    960,
+    961,
+    983,
+    6341,
+    6342,
+    6343,
+    953,
+    954,
+    955,
+    958,
+    1001,
+    956,
+    957,
+    3524,
+    4722
+   ],
+   "words": 3930,
+   "name": "class Paladin ≤10 + Loch Modan ≤14 + Darkshore ≤14",
+   "n": 7,
+   "slug": "07-class-paladin-10"
+  },
+  {
+   "quests": [
+    4723,
+    984,
+    985,
+    1002,
+    1141,
+    2118,
+    4681,
+    4728,
+    4811,
+    4812,
+    4813,
+    6721,
+    184,
+    36,
+    6181,
+    6261,
+    6281,
+    6285,
+    12,
+    22,
+    64,
+    38,
+    13,
+    102,
+    151
+   ],
+   "words": 3918,
+   "name": "Darkshore ≤14 + Ironforge ≤14 + Westfall ≤20",
+   "n": 8,
+   "slug": "08-darkshore-14"
+  },
+  {
+   "quests": [
+    9,
+    117,
+    153,
+    103,
+    136,
+    138,
+    139,
+    140,
+    14,
+    65,
+    132,
+    135,
+    141,
+    142,
+    155,
+    152,
+    104,
+    865,
+    1486,
+    959,
+    1491,
+    1487,
+    3366,
+    6981
+   ],
+   "words": 3060,
+   "name": "Westfall ≤20 + Wailing Caverns (+1 voorquests)",
+   "n": 9,
+   "slug": "09-westfall-20"
+  },
+  {
+   "quests": [
+    2041,
+    1649,
+    1653,
+    1650,
+    1651,
+    1652,
+    214,
+    168,
+    167,
+    2040,
+    166,
+    373,
+    1654,
+    1132,
+    276,
+    455,
+    463,
+    468,
+    469,
+    279,
+    484,
+    277,
+    294,
+    305,
+    306,
+    470,
+    281,
+    284,
+    285
+   ],
+   "words": 3940,
+   "name": "The Deadmines (+6 voorquests) + Wetlands",
+   "n": 10,
+   "slug": "10-the-deadmines-6-voorquests"
+  },
+  {
+   "quests": [
+    286,
+    472,
+    275,
+    471,
+    288,
+    295,
+    299,
+    464,
+    473,
+    289,
+    296,
+    290,
+    292,
+    293,
+    303,
+    647,
+    465,
+    631,
+    632,
+    633,
+    634,
+    474,
+    304,
+    1302
+   ],
+   "words": 3211,
+   "name": "Wetlands",
+   "n": 11,
+   "slug": "11-wetlands"
+  },
+  {
+   "quests": [
+    6661,
+    6662,
+    3765,
+    971,
+    1198,
+    1275,
+    1199,
+    1200,
+    389,
+    386,
+    377,
+    387,
+    388,
+    378,
+    391
+   ],
+   "words": 2567,
+   "name": "Deeprun Tram + Blackfathom Deeps (+1 voorquests) + The Stockade (+1 voorquests)",
+   "n": 12,
+   "slug": "12-deeprun-tram"
+  },
+  {
+   "quests": [
     237,
     263,
     273,
@@ -197,15 +377,7 @@
     258,
     161,
     199,
-    250
-   ],
-   "words": 3977,
-   "name": "class Paladin ≤10 + Loch Modan ≤20",
-   "n": 7,
-   "slug": "07-class-paladin-10"
-  },
-  {
-   "quests": [
+    250,
     274,
     278,
     280,
@@ -215,64 +387,20 @@
     271,
     283,
     531,
-    6721,
-    2039,
-    2041,
-    637,
-    683,
-    686,
-    689,
-    700,
-    1453,
-    2948,
-    707,
-    960,
-    961,
-    983,
-    6341,
-    6342,
-    6343,
-    953,
-    954,
-    955,
-    958
+    256
    ],
-   "words": 3848,
-   "name": "Loch Modan ≤20 + Ironforge + Darkshore ≤20",
-   "n": 8,
-   "slug": "08-loch-modan-20"
+   "words": 3720,
+   "name": "Loch Modan ≤30",
+   "n": 13,
+   "slug": "13-loch-modan-30"
   },
   {
    "quests": [
-    1001,
-    956,
-    957,
-    3524,
-    4722,
-    4723,
-    984,
-    985,
-    1002,
-    1141,
-    2118,
-    4681,
-    4728,
-    4811,
-    4812,
-    4813,
     4725,
     4727,
     4761,
     4762,
-    5713
-   ],
-   "words": 3865,
-   "name": "Darkshore ≤20",
-   "n": 9,
-   "slug": "09-darkshore-20"
-  },
-  {
-   "quests": [
+    5713,
     963,
     1003,
     2138,
@@ -290,22 +418,22 @@
     967,
     2139,
     4740,
-    4763,
+    4763
+   ],
+   "words": 3804,
+   "name": "Darkshore ≤30",
+   "n": 14,
+   "slug": "14-darkshore-30"
+  },
+  {
+   "quests": [
     4731,
     4732,
     4733,
     729,
     731,
     741,
-    942
-   ],
-   "words": 3921,
-   "name": "Darkshore ≤20",
-   "n": 10,
-   "slug": "10-darkshore-20"
-  },
-  {
-   "quests": [
+    942,
     951,
     968,
     986,
@@ -314,46 +442,20 @@
     2078,
     2098,
     5321,
-    6661,
-    6662,
-    184,
-    36,
-    6181,
-    6261,
-    6281,
-    6285,
-    12,
-    22,
-    64,
-    38,
-    13,
-    102,
-    151,
-    9,
-    117,
-    153,
-    103,
-    136,
-    138
+    970,
+    994,
+    943,
+    973,
+    1140,
+    1167
    ],
-   "words": 3949,
-   "name": "Darkshore ≤20 + Deeprun Tram + Westfall ≤20",
-   "n": 11,
-   "slug": "11-darkshore-20"
+   "words": 3013,
+   "name": "Darkshore ≤30",
+   "n": 15,
+   "slug": "15-darkshore-30"
   },
   {
    "quests": [
-    139,
-    140,
-    14,
-    65,
-    132,
-    135,
-    141,
-    142,
-    155,
-    152,
-    104,
     120,
     121,
     143,
@@ -373,119 +475,31 @@
     145,
     146,
     89,
-    124
-   ],
-   "words": 3919,
-   "name": "Westfall ≤20 + Redridge Mountains ≤22",
-   "n": 12,
-   "slug": "12-westfall-20"
-  },
-  {
-   "quests": [
+    124,
     150,
     20,
     94,
     127,
     248,
-    214,
-    168,
-    167,
-    2040,
-    166,
-    373,
-    1654,
-    1486,
-    959,
-    1491,
-    1487,
-    3366,
-    6981
+    91,
+    115,
+    178,
+    34,
+    19,
+    126,
+    128
    ],
-   "words": 2503,
-   "name": "Redridge Mountains ≤22 + The Deadmines + Wailing Caverns",
-   "n": 13,
-   "slug": "13-redridge-mountains-22"
+   "words": 3989,
+   "name": "Redridge Mountains ≤30",
+   "n": 16,
+   "slug": "16-redridge-mountains-30"
   },
   {
    "quests": [
-    6121,
-    6122,
-    6123,
-    6124,
-    6125,
-    26,
-    29,
-    272,
-    5061,
-    1678,
-    1680,
-    1681,
-    1698
-   ],
-   "words": 2444,
-   "name": "class Druid ≤20 + class Warrior ≤20",
-   "n": 14,
-   "slug": "14-class-druid-20"
-  },
-  {
-   "quests": [
-    1641,
-    1642,
-    1643,
-    1645,
-    1646,
-    1647,
-    1789,
-    1790,
-    2997,
-    2998,
-    2999,
-    3000,
-    3681,
-    1644,
-    1648,
-    1778,
-    1779,
-    1780,
-    1781,
-    1783,
-    1784,
-    1785,
-    1786,
-    1787,
-    1788,
-    1649,
-    1793,
-    1794
-   ],
-   "words": 3947,
-   "name": "class Paladin ≤20",
-   "n": 15,
-   "slug": "15-class-paladin-20"
-  },
-  {
-   "quests": [
-    2259,
-    2260,
-    2281,
-    2298,
-    2299,
-    2300,
-    2282,
-    2360,
-    2607,
-    2608,
-    2609,
-    5641,
-    5645,
-    5647,
-    5672,
-    5673,
-    5674,
-    5675,
-    5676,
-    5677,
-    5678,
+    219,
+    169,
+    180,
+    249,
     1056,
     990,
     991,
@@ -499,15 +513,7 @@
     1085,
     1134,
     1033,
-    1034
-   ],
-   "words": 3989,
-   "name": "class Rogue ≤20 + class Priest ≤20 + Ashenvale ≤30",
-   "n": 16,
-   "slug": "16-class-rogue-20"
-  },
-  {
-   "quests": [
+    1034,
     976,
     1016,
     1025,
@@ -519,7 +525,15 @@
     1028,
     1029,
     1030,
-    1055,
+    1055
+   ],
+   "words": 3956,
+   "name": "Redridge Mountains ≤30 + Ashenvale ≤30",
+   "n": 17,
+   "slug": "17-redridge-mountains-30"
+  },
+  {
+   "quests": [
     1011,
     4581,
     1022,
@@ -533,124 +547,7 @@
     1043,
     1044,
     1045,
-    1046
-   ],
-   "words": 3804,
-   "name": "Ashenvale ≤30",
-   "n": 17,
-   "slug": "17-ashenvale-30"
-  },
-  {
-   "quests": [
-    1132,
-    276,
-    455,
-    463,
-    468,
-    469,
-    279,
-    484,
-    277,
-    294,
-    305,
-    306,
-    470,
-    281,
-    284,
-    285,
-    286,
-    472,
-    275,
-    471,
-    288,
-    295,
-    299,
-    464,
-    473,
-    289,
-    296,
-    290,
-    292,
-    293
-   ],
-   "words": 3914,
-   "name": "Wetlands",
-   "n": 18,
-   "slug": "18-wetlands"
-  },
-  {
-   "quests": [
-    303,
-    647,
-    465,
-    631,
-    632,
-    633,
-    634,
-    474,
-    304,
-    1302,
-    970,
-    994,
-    943,
-    973,
-    1140,
-    1167,
-    981,
-    1143,
-    256,
-    2500,
-    2501
-   ],
-   "words": 2838,
-   "name": "Wetlands + Darkshore + Loch Modan",
-   "n": 19,
-   "slug": "19-wetlands"
-  },
-  {
-   "quests": [
-    1071,
-    1072,
-    1073,
-    1074,
-    1075,
-    1076,
-    1077,
-    1093,
-    1094,
-    1079,
-    1080,
-    1082,
-    1090,
-    1091,
-    1092,
-    1078,
-    1083,
-    1057,
-    1059,
-    1095,
-    1096,
-    1081,
-    1084
-   ],
-   "words": 3084,
-   "name": "Stonetalon Mountains",
-   "n": 20,
-   "slug": "20-stonetalon-mountains"
-  },
-  {
-   "quests": [
-    91,
-    115,
-    178,
-    34,
-    19,
-    126,
-    128,
-    219,
-    169,
-    180,
-    249,
+    1046,
     5,
     93,
     163,
@@ -666,7 +563,15 @@
     156,
     157,
     158,
-    159,
+    159
+   ],
+   "words": 3925,
+   "name": "Ashenvale ≤30 + Duskwood ≤30",
+   "n": 18,
+   "slug": "18-ashenvale-30"
+  },
+  {
+   "quests": [
     90,
     95,
     101,
@@ -674,15 +579,7 @@
     174,
     175,
     177,
-    230
-   ],
-   "words": 3991,
-   "name": "Redridge Mountains + Duskwood ≤32",
-   "n": 21,
-   "slug": "21-redridge-mountains"
-  },
-  {
-   "quests": [
+    230,
     262,
     265,
     266,
@@ -708,7 +605,15 @@
     221,
     269,
     270,
-    321,
+    321
+   ],
+   "words": 3980,
+   "name": "Duskwood ≤30",
+   "n": 19,
+   "slug": "19-duskwood-30"
+  },
+  {
+   "quests": [
     322,
     324,
     325,
@@ -717,62 +622,46 @@
     134,
     160,
     181,
-    251
-   ],
-   "words": 3970,
-   "name": "Duskwood ≤32",
-   "n": 22,
-   "slug": "22-duskwood-32"
-  },
-  {
-   "quests": [
+    251,
     252,
     253,
     401,
-    222,
-    223,
-    55,
-    48,
-    49,
-    50,
-    51,
-    53,
-    887,
-    890,
-    892,
-    894,
-    900,
-    901,
-    888,
-    895,
-    902,
-    858,
-    863,
-    865,
-    896,
-    1069,
-    1483,
-    3370
+    1071,
+    1072,
+    1073,
+    1074,
+    1075,
+    1076,
+    1077,
+    1093,
+    1094,
+    1079,
+    1080,
+    1082,
+    1090,
+    1091,
+    1092,
+    1078,
+    1083,
+    1057,
+    1059,
+    1095
    ],
-   "words": 3395,
-   "name": "Duskwood ≤32 + Westfall + The Barrens",
-   "n": 23,
-   "slug": "23-duskwood-32"
+   "words": 3815,
+   "name": "Duskwood ≤30 + Stonetalon Mountains ≤30",
+   "n": 20,
+   "slug": "20-duskwood-30"
   },
   {
    "quests": [
-    971,
-    1198,
-    1275,
-    1199,
-    1200,
-    386,
-    377,
-    387,
-    388,
-    378,
-    391,
-    1740,
+    1096,
+    1081,
+    1084,
+    1100,
+    1221,
+    1142,
+    1144,
+    1101,
     2922,
     2923,
     2926,
@@ -785,15 +674,7 @@
     2930,
     2951,
     2952,
-    2953
-   ],
-   "words": 3892,
-   "name": "Blackfathom Deeps + The Stockade + Shadowfang Keep + Gnomeregan",
-   "n": 24,
-   "slug": "24-blackfathom-deeps"
-  },
-  {
-   "quests": [
+    2953,
     2962,
     4601,
     4602,
@@ -801,14 +682,132 @@
     4604,
     4605,
     4606,
-    2945,
+    2945
+   ],
+   "words": 3842,
+   "name": "Stonetalon Mountains ≤30 + Razorfen Kraul (+1 voorquests) + Gnomeregan",
+   "n": 21,
+   "slug": "21-stonetalon-mountains-30"
+  },
+  {
+   "quests": [
     2947,
     2843,
     2929,
-    1221,
-    1142,
-    1144,
-    1101,
+    6121,
+    6122,
+    6123,
+    6124,
+    6125,
+    26,
+    29,
+    272,
+    5061
+   ],
+   "words": 2506,
+   "name": "Gnomeregan + class Druid ≤30",
+   "n": 22,
+   "slug": "22-gnomeregan"
+  },
+  {
+   "quests": [
+    1678,
+    1680,
+    1681,
+    1698,
+    1699,
+    1702,
+    1700,
+    1701,
+    1703,
+    1704,
+    1705,
+    1708,
+    1706,
+    1709,
+    1710,
+    1711,
+    1718,
+    1719,
+    1791,
+    1641,
+    1642,
+    1643,
+    1645,
+    1646,
+    1647,
+    1789,
+    1790,
+    2997,
+    2998,
+    2999,
+    3000,
+    3681,
+    1644,
+    1648
+   ],
+   "words": 3983,
+   "name": "class Warrior ≤30 + class Paladin ≤30",
+   "n": 23,
+   "slug": "23-class-warrior-30"
+  },
+  {
+   "quests": [
+    1778,
+    1779,
+    1780,
+    1781,
+    1783,
+    1784,
+    1785,
+    1786,
+    1787,
+    1788,
+    1793,
+    1794,
+    1442,
+    1655,
+    1806
+   ],
+   "words": 2428,
+   "name": "class Paladin ≤30",
+   "n": 24,
+   "slug": "24-class-paladin-30"
+  },
+  {
+   "quests": [
+    2259,
+    2260,
+    2281,
+    2298,
+    2299,
+    2300,
+    2282,
+    2360,
+    2607,
+    2608,
+    2609,
+    2358,
+    2359,
+    6681,
+    5641,
+    5645,
+    5647,
+    5672,
+    5673,
+    5674,
+    5675,
+    5676,
+    5677,
+    5678
+   ],
+   "words": 2677,
+   "name": "class Rogue ≤30 + class Priest ≤30",
+   "n": 25,
+   "slug": "25-class-rogue-30"
+  },
+  {
+   "quests": [
     536,
     555,
     559,
@@ -821,15 +820,7 @@
     565,
     657,
     658,
-    660
-   ],
-   "words": 3893,
-   "name": "Gnomeregan + Razorfen Kraul + Hillsbrad Foothills",
-   "n": 25,
-   "slug": "25-gnomeregan"
-  },
-  {
-   "quests": [
+    660,
     661,
     508,
     8384,
@@ -845,7 +836,15 @@
     693,
     694,
     695,
-    696,
+    696
+   ],
+   "words": 3888,
+   "name": "Hillsbrad Foothills + Arathi Highlands",
+   "n": 26,
+   "slug": "26-hillsbrad-foothills"
+  },
+  {
+   "quests": [
     697,
     653,
     662,
@@ -859,15 +858,7 @@
     687,
     646,
     652,
-    667
-   ],
-   "words": 3980,
-   "name": "Hillsbrad Foothills + Arathi Highlands",
-   "n": 26,
-   "slug": "26-hillsbrad-foothills"
-  },
-  {
-   "quests": [
+    667,
     1104,
     1105,
     1176,
@@ -875,7 +866,6 @@
     1110,
     5762,
     1175,
-    1100,
     1106,
     1107,
     1111,
@@ -883,7 +873,15 @@
     1114,
     1115,
     1116,
-    1117,
+    1117
+   ],
+   "words": 3974,
+   "name": "Arathi Highlands + Thousand Needles",
+   "n": 27,
+   "slug": "27-arathi-highlands"
+  },
+  {
+   "quests": [
     1178,
     1180,
     1181,
@@ -897,15 +895,7 @@
     1189,
     1190,
     1191,
-    1194
-   ],
-   "words": 3947,
-   "name": "Thousand Needles",
-   "n": 27,
-   "slug": "27-thousand-needles"
-  },
-  {
-   "quests": [
+    1194,
     1118,
     1119,
     1120,
@@ -916,7 +906,15 @@
     1031,
     1032,
     7863,
-    7864,
+    7864
+   ],
+   "words": 2890,
+   "name": "Thousand Needles + Ashenvale",
+   "n": 28,
+   "slug": "28-thousand-needles"
+  },
+  {
+   "quests": [
     1387,
     1384,
     1386,
@@ -933,15 +931,7 @@
     1371,
     1382,
     1385,
-    1459
-   ],
-   "words": 3859,
-   "name": "Thousand Needles + Ashenvale + Desolace",
-   "n": 28,
-   "slug": "28-thousand-needles"
-  },
-  {
-   "quests": [
+    1459,
     5821,
     6161,
     1373,
@@ -950,7 +940,15 @@
     5943,
     6027,
     261,
-    1454,
+    1454
+   ],
+   "words": 3926,
+   "name": "Desolace",
+   "n": 29,
+   "slug": "29-desolace"
+  },
+  {
+   "quests": [
     1455,
     1456,
     1457,
@@ -962,15 +960,7 @@
     1466,
     1467,
     1380,
-    1381
-   ],
-   "words": 3081,
-   "name": "Desolace",
-   "n": 29,
-   "slug": "29-desolace"
-  },
-  {
-   "quests": [
+    1381,
     583,
     185,
     190,
@@ -986,7 +976,15 @@
     187,
     189,
     200,
-    349,
+    349
+   ],
+   "words": 3908,
+   "name": "Desolace + Stranglethorn Vale",
+   "n": 30,
+   "slug": "30-desolace"
+  },
+  {
+   "quests": [
     605,
     195,
     213,
@@ -999,15 +997,7 @@
     331,
     578,
     601,
-    602
-   ],
-   "words": 3857,
-   "name": "Stranglethorn Vale",
-   "n": 30,
-   "slug": "30-stranglethorn-vale"
-  },
-  {
-   "quests": [
+    602,
     603,
     616,
     622,
@@ -1024,7 +1014,15 @@
     339,
     340,
     341,
-    342,
+    342
+   ],
+   "words": 3977,
+   "name": "Stranglethorn Vale",
+   "n": 31,
+   "slug": "31-stranglethorn-vale"
+  },
+  {
+   "quests": [
     611,
     196,
     587,
@@ -1037,15 +1035,7 @@
     209,
     576,
     197,
-    208
-   ],
-   "words": 3958,
-   "name": "Stranglethorn Vale",
-   "n": 31,
-   "slug": "31-stranglethorn-vale"
-  },
-  {
-   "quests": [
+    208,
     604,
     617,
     623,
@@ -1057,7 +1047,18 @@
     1127,
     348,
     594,
-    608,
+    608
+   ],
+   "words": 3099,
+   "name": "Stranglethorn Vale",
+   "n": 32,
+   "slug": "32-stranglethorn-vale"
+  },
+  {
+   "quests": [
+    222,
+    223,
+    55,
     98,
     225,
     227,
@@ -1080,10 +1081,10 @@
     551,
     554
    ],
-   "words": 3770,
-   "name": "Stranglethorn Vale + Duskwood + Alterac Mountains",
-   "n": 32,
-   "slug": "32-stranglethorn-vale"
+   "words": 2878,
+   "name": "Duskwood + Alterac Mountains",
+   "n": 33,
+   "slug": "33-duskwood"
   },
   {
    "quests": [
@@ -1116,8 +1117,8 @@
    ],
    "words": 2719,
    "name": "Dustwallow Marsh",
-   "n": 33,
-   "slug": "33-dustwallow-marsh"
+   "n": 34,
+   "slug": "34-dustwallow-marsh"
   },
   {
    "quests": [
@@ -1157,8 +1158,8 @@
    ],
    "words": 3980,
    "name": "Swamp of Sorrows + Badlands",
-   "n": 34,
-   "slug": "34-swamp-of-sorrows"
+   "n": 35,
+   "slug": "35-swamp-of-sorrows"
   },
   {
    "quests": [
@@ -1187,8 +1188,8 @@
    ],
    "words": 3844,
    "name": "Badlands + Feralas",
-   "n": 35,
-   "slug": "35-badlands"
+   "n": 36,
+   "slug": "36-badlands"
   },
   {
    "quests": [
@@ -1214,18 +1215,23 @@
    ],
    "words": 2953,
    "name": "Tanaris + The Hinterlands",
-   "n": 36,
-   "slug": "36-tanaris"
+   "n": 37,
+   "slug": "37-tanaris"
   },
   {
    "quests": [
     4449,
+    1740,
     1050,
     1053,
     6626,
     3523,
     3525,
     3636,
+    2500,
+    1953,
+    1954,
+    1955,
     721,
     2418,
     704,
@@ -1235,20 +1241,20 @@
     2240,
     2398,
     2198,
-    2199,
+    2199
+   ],
+   "words": 3822,
+   "name": "Searing Gorge + Shadowfang Keep + Scarlet Monastery + Razorfen Downs + Uldaman (+4 voorquests)",
+   "n": 38,
+   "slug": "38-searing-gorge"
+  },
+  {
+   "quests": [
     17,
     1192,
     2200,
     2318,
-    3375
-   ],
-   "words": 3859,
-   "name": "Searing Gorge + Scarlet Monastery + Razorfen Downs + Uldaman",
-   "n": 37,
-   "slug": "37-searing-gorge"
-  },
-  {
-   "quests": [
+    3375,
     1360,
     2201,
     2204,
@@ -1265,25 +1271,23 @@
     353,
     399,
     1097,
-    389,
     343,
     344,
     345,
     346,
-    347,
-    3765,
-    1241,
-    1242,
-    1243,
-    1274
+    347
    ],
-   "words": 3922,
-   "name": "Uldaman + Zul'Farrak + Maraudon + Stormwind City",
-   "n": 38,
-   "slug": "38-uldaman"
+   "words": 3834,
+   "name": "Uldaman (+4 voorquests) + Zul'Farrak + Maraudon + Stormwind City",
+   "n": 39,
+   "slug": "39-uldaman-4-voorquests"
   },
   {
    "quests": [
+    1241,
+    1242,
+    1243,
+    1274,
     392,
     393,
     335,
@@ -1303,19 +1307,19 @@
     2746,
     690,
     1248,
-    1249,
-    1250,
-    1264,
-    1265,
-    1301
+    1249
    ],
-   "words": 3921,
+   "words": 3919,
    "name": "Stormwind City",
-   "n": 39,
-   "slug": "39-stormwind-city"
+   "n": 40,
+   "slug": "40-stormwind-city"
   },
   {
    "quests": [
+    1250,
+    1264,
+    1265,
+    1301,
     1266,
     538,
     540,
@@ -1328,7 +1332,15 @@
     1364,
     1448,
     1449,
-    1477,
+    1477
+   ],
+   "words": 2532,
+   "name": "Stormwind City",
+   "n": 41,
+   "slug": "41-stormwind-city"
+  },
+  {
+   "quests": [
     783,
     7,
     33,
@@ -1340,15 +1352,7 @@
     3905,
     6,
     21,
-    54
-   ],
-   "words": 3209,
-   "name": "Stormwind City + Northshire",
-   "n": 40,
-   "slug": "40-stormwind-city"
-  },
-  {
-   "quests": [
+    54,
     16,
     7677,
     7678,
@@ -1376,7 +1380,15 @@
     40,
     45,
     46,
-    52,
+    52
+   ],
+   "words": 3976,
+   "name": "Northshire + Elwynn Forest",
+   "n": 42,
+   "slug": "42-northshire"
+  },
+  {
+   "quests": [
     59,
     71,
     76,
@@ -1384,55 +1396,54 @@
     123,
     147,
     239,
-    176
+    176,
+    2501,
+    981,
+    1143,
+    48,
+    49,
+    50,
+    51,
+    53,
+    887,
+    890,
+    892,
+    894,
+    900,
+    901,
+    888,
+    895,
+    902,
+    858,
+    863,
+    896,
+    1069,
+    1483,
+    3370
    ],
-   "words": 3607,
-   "name": "Elwynn Forest",
-   "n": 41,
-   "slug": "41-elwynn-forest"
+   "words": 3913,
+   "name": "Elwynn Forest + Loch Modan + Darkshore + Westfall + The Barrens",
+   "n": 43,
+   "slug": "43-elwynn-forest"
   },
   {
    "quests": [
-    1699,
-    1702,
-    1700,
-    1701,
-    1703,
-    1704,
-    1705,
-    1708,
-    1706,
-    1709,
-    1710,
-    1711,
-    1718,
-    1719,
-    1791,
+    2039,
+    637,
+    683,
+    686,
+    689,
+    700,
+    1453,
+    2948,
+    707,
     1714,
     1712,
     1713,
     1792,
-    1653,
-    1442,
-    1655,
-    1806,
-    1650,
-    1651,
-    1652,
     1661,
     4485,
-    4486
-   ],
-   "words": 3493,
-   "name": "class Warrior + class Paladin",
-   "n": 42,
-   "slug": "42-class-warrior"
-  },
-  {
-   "quests": [
-    2358,
-    2359,
-    6681,
+    4486,
     3104,
     3111,
     3114,
@@ -1450,23 +1461,20 @@
     1938,
     1950,
     1947,
-    1949,
-    1948,
-    1951,
-    1952,
-    1953,
-    1954,
-    1955,
-    1957,
-    1958
+    1949
    ],
-   "words": 3595,
-   "name": "class Rogue + class Mage",
-   "n": 43,
-   "slug": "43-class-rogue"
+   "words": 3910,
+   "name": "Ironforge + class Warrior + class Paladin + class Mage",
+   "n": 44,
+   "slug": "44-ironforge"
   },
   {
    "quests": [
+    1948,
+    1951,
+    1952,
+    1957,
+    1958,
     3105,
     3115,
     1598,
@@ -1486,19 +1494,19 @@
     1804,
     1796,
     4738,
-    4781,
-    4782,
-    4965,
-    4968,
-    4783
+    4781
    ],
-   "words": 3925,
-   "name": "class Warlock",
-   "n": 44,
-   "slug": "44-class-warlock"
+   "words": 3860,
+   "name": "class Mage + class Warlock",
+   "n": 45,
+   "slug": "45-class-mage"
   },
   {
    "quests": [
+    4782,
+    4965,
+    4968,
+    4783,
     4784,
     4785,
     4786,
@@ -1511,20 +1519,20 @@
     4963,
     4964,
     4975,
-    4976,
+    4976
+   ],
+   "words": 2445,
+   "name": "class Warlock",
+   "n": 46,
+   "slug": "46-class-warlock"
+  },
+  {
+   "quests": [
     384,
     4161,
     2178,
     6610,
-    6612
-   ],
-   "words": 2577,
-   "name": "class Warlock + profession Cooking",
-   "n": 45,
-   "slug": "45-class-warlock"
-  },
-  {
-   "quests": [
+    6612,
     6624,
     6625,
     1579,
@@ -1547,10 +1555,10 @@
     2772,
     2773
    ],
-   "words": 2747,
-   "name": "profession First Aid + profession Fishing + profession Blacksmithing",
-   "n": 46,
-   "slug": "46-profession-first-aid"
+   "words": 3435,
+   "name": "profession Cooking + profession First Aid + profession Fishing + profession Blacksmithing",
+   "n": 47,
+   "slug": "47-profession-cooking"
   },
   {
    "quests": [
@@ -1583,8 +1591,8 @@
    ],
    "words": 3232,
    "name": "profession Leatherworking + profession Herbalism + profession Alchemy + profession Engineering + Warsong Gulch",
-   "n": 47,
-   "slug": "47-profession-leatherworking"
+   "n": 48,
+   "slug": "48-profession-leatherworking"
   },
   {
    "quests": [
@@ -1613,8 +1621,8 @@
    ],
    "words": 2470,
    "name": "Arathi Basin + Silithus + other Seasonal",
-   "n": 48,
-   "slug": "48-arathi-basin"
+   "n": 49,
+   "slug": "49-arathi-basin"
   },
   {
    "quests": [
@@ -1642,8 +1650,8 @@
    ],
    "words": 2521,
    "name": "other Invasion + other Ahn'Qiraj War + other Darkmoon Faire + other Special + other Treasure Map + Miscellaneous + Northshire Abbey + Kharanos + Durotar",
-   "n": 49,
-   "slug": "49-other-invasion"
+   "n": 50,
+   "slug": "50-other-invasion"
   },
   {
    "quests": [
@@ -1663,8 +1671,16 @@
    ],
    "words": 1262,
    "name": "Mulgore + Tirisfal Glades + Silverpine Forest + Overige",
-   "n": 50,
-   "slug": "50-mulgore"
+   "n": 51,
+   "slug": "51-mulgore"
   }
+ ],
+ "capture_only": [
+  "Hall of Thanes (Ironforge, 5 quests + 1 prequest in Dun Morogh)",
+  "Cozy Sleeping Bag, step 1",
+  "Cozy Sleeping Bag, steps 2-5",
+  "Ruins of Lordaeron (Undercity, 4 quests)",
+  "Excavation Site (Wetlands, 6 quests + 3 prequests)",
+  "City of Dalaran (Alterac Mountains, 4 quests)"
  ]
 }

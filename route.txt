@@ -11,14 +11,18 @@
 #   class: Druid @ 20         class quests
 #   profession: Cooking       profession quests
 #   dungeon: Gnomeregan       dungeon quests (grouped by dungeon, wherever Blizzard filed them)
+#   dungeon: Gnomeregan +pre  ...plus every quest that leads into them (prequest chains)
 #   other: Seasonal           event / misc categories
+#   forever: Name             new WoW Forever content: not in any database yet, so it is
+#                             translated after the addon has captured it in game
 #
-# Default cap for this phase: quest level 45 (see "max-level" below).
+# Order follows the leveling plan for Forever (Dwarf + Night Elf):
+# starting areas to 14, then dungeon runs at ~18 and ~25-32 with their prequests.
 max-level: 45
 
-# --- Phase 1: starting zones (Dwarf done in 0.1–0.2) -------------------------
+# --- Level 1-14: starting areas (Dun Morogh / Teldrassil) ---------------------
 Coldridge Valley
-Dun Morogh
+Dun Morogh @ 14
 Shadowglen
 Teldrassil
 Darnassus
@@ -28,40 +32,51 @@ class: Warrior @ 10
 class: Rogue @ 10
 class: Priest @ 10
 class: Paladin @ 10
+Loch Modan @ 14
+Darkshore @ 14
+Ironforge @ 14
+forever: Hall of Thanes (Ironforge, 5 quests + 1 prequest in Dun Morogh)
 
-# --- Phase 2: levels 10-20 ----------------------------------------------------
-Loch Modan @ 20
-Ironforge
-Darkshore @ 20
-Deeprun Tram
+# --- ~14-18: Westfall (Deadmines prequests) and Sleeping Bag step 1 -----------
 Westfall @ 20
-Redridge Mountains @ 22
-dungeon: The Deadmines
-dungeon: Wailing Caverns
-class: Druid @ 20
-class: Warrior @ 20
-class: Paladin @ 20
-class: Hunter @ 20
-class: Rogue @ 20
-class: Priest @ 20
+forever: Cozy Sleeping Bag, step 1
 
-# --- Phase 3: levels 20-30 ----------------------------------------------------
-Ashenvale @ 30
+# --- ~18: dungeon run (Wailing Caverns, Sleeping Bag, Ruins of Lordaeron, Deadmines)
+dungeon: Wailing Caverns +pre
+forever: Cozy Sleeping Bag, steps 2-5
+forever: Ruins of Lordaeron (Undercity, 4 quests)
+dungeon: The Deadmines +pre
+
+# --- ~20-25: Wetlands (prequests for Excavation Site and the Stockade) ---------
 Wetlands
-Darkshore
-Loch Modan
-Stonetalon Mountains
-Redridge Mountains
-Duskwood @ 32
-Westfall
-The Barrens
-dungeon: Blackfathom Deeps
-dungeon: The Stockade
-dungeon: Shadowfang Keep
-dungeon: Gnomeregan
-dungeon: Razorfen Kraul
+Deeprun Tram
 
-# --- Phase 4: levels 30-45 ----------------------------------------------------
+# --- ~25-32: dungeon run ------------------------------------------------------
+dungeon: Blackfathom Deeps +pre
+dungeon: The Stockade +pre
+forever: Excavation Site (Wetlands, 6 quests + 3 prequests)
+
+# Fill-in questing between the dungeons (likely close to level 29 by now)
+Loch Modan @ 30
+Darkshore @ 30
+Redridge Mountains @ 30
+Ashenvale @ 30
+Duskwood @ 30
+Stonetalon Mountains @ 30
+
+dungeon: Razorfen Kraul +pre
+forever: City of Dalaran (Alterac Mountains, 4 quests)
+dungeon: Gnomeregan +pre
+
+# --- Class quests up to 30 -----------------------------------------------------
+class: Druid @ 30
+class: Warrior @ 30
+class: Paladin @ 30
+class: Hunter @ 30
+class: Rogue @ 30
+class: Priest @ 30
+
+# --- Levels 30-45 ---------------------------------------------------------------
 Hillsbrad Foothills
 Arathi Highlands
 Thousand Needles
@@ -77,16 +92,25 @@ Feralas
 Tanaris
 The Hinterlands
 Searing Gorge
-dungeon: Scarlet Monastery
-dungeon: Razorfen Downs
-dungeon: Uldaman
-dungeon: Zul'Farrak
-dungeon: Maraudon
+dungeon: Shadowfang Keep +pre
+dungeon: Scarlet Monastery +pre
+dungeon: Razorfen Downs +pre
+dungeon: Uldaman +pre
+dungeon: Zul'Farrak +pre
+dungeon: Maraudon +pre
 
-# --- Cities, class quests to 45, the rest of the starting zones --------------
+# --- Rest of levels 1-45: cities, other starting zones, class quests -----------
 Stormwind City
 Northshire
 Elwynn Forest
+Dun Morogh
+Loch Modan
+Darkshore
+Westfall
+Redridge Mountains
+Stonetalon Mountains
+The Barrens
+Ironforge
 class: Druid
 class: Warrior
 class: Paladin
@@ -96,7 +120,7 @@ class: Priest
 class: Mage
 class: Warlock
 
-# --- Professions, battlegrounds and misc (still level <= 45) -----------------
+# --- Professions, battlegrounds and misc (still level <= 45) -------------------
 profession: Cooking
 profession: First Aid
 profession: Fishing
