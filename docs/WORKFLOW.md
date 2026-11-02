@@ -77,7 +77,8 @@ After importing it rebuilds `Data/Namen.lua` and lists every Dutch word without 
 ## Rules for the Dutch
 
 Follow [STYLE.md](STYLE.md). In short:
-- **Difficulty by quest level:** tier 1 (A1–A2) up to level 12, tier 2 (A2) to 25, tier 3 (A2–B1) to 42, tier 4 (B1, literary) above.
+- **Difficulty by quest level, the same for both factions:** tier 1 (A1–A2) up to level 20, tier 2 (A2–A2+) to 35, tier 3 (A2–B1) to 45, tier 4 (B1–B2, literary) above. Never above B2.
+- **Add nothing** that isn't in the English text.
 - **Names stay English:** people, places, enemies, items.
 - Keep the placeholders.
 - Address the player as *je/jij*.

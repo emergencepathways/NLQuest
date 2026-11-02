@@ -5,7 +5,7 @@
     Quest data entries (see Data\*.lua):
         [questID] = {
             en   = "English title",        -- used to match by title and detect changed text
-            tier = 1..4,                    -- difficulty: 1 A1-A2, 2 A2, 3 A2-B1, 4 B1
+            tier = 1..4,                    -- difficulty: 1 A1-A2, 2 A2-A2+, 3 A2-B1, 4 B1-B2
             t = "Titel", d = "Beschrijving", o = "Doelen",
             p = "Voortgang (progress)", c = "Voltooiing (completion)",
             g = { {"woord", "meaning"}, ... }  -- optional per-quest glossary
@@ -22,7 +22,7 @@ NQ.dict = {}        -- shared dictionary: lowercase Dutch word -> English meanin
 NQ.names = {}       -- lowercase names that stay English (only when capitalised in the text)
 NQ.terms = {}       -- lowercase Warcraft fantasy terms -> explanation
 
-NQ.TIER_LABEL = { "A1–A2", "A2", "A2–B1", "B1" }
+NQ.TIER_LABEL = { "A1–A2", "A2–A2+", "A2–B1", "B1–B2" }
 
 NQ.defaults = {
     enabled        = true,

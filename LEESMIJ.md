@@ -4,7 +4,7 @@
 
 Speurtocht.NL laat de teksten van quests in het Nederlands zien. De rest van het spel blijft Engels. De addon is gemaakt om Nederlands te leren terwijl je speelt:
 
-- **Nederlands op jouw niveau.** Het begint op A1–A2 en groeit naar B1 als je personage een hoger level krijgt.
+- **Nederlands op jouw niveau.** Het begint op A1–A2 en groeit naar B1–B2 als je personage een hoger level krijgt.
 - **Het Engelse origineel** als je het nodig hebt: houd Alt ingedrukt, of wijs de EN-knop aan.
 - **Een lezer naast het questvenster**, met Nederlands en Engels naast elkaar. Je kunt op elk Nederlands woord klikken.
 - **Een woordenlijst** met de woorden waarop je klikt, klaar om in Anki te zetten.
@@ -59,10 +59,12 @@ De lezer laat naast de titel zien op welk niveau een quest is geschreven.
 
 | Questlevel | Niveau | Hoe het leest |
 |---|---|---|
-| 1–12 | A1–A2 | Korte zinnen, woorden van elke dag |
-| 13–25 | A2 | Twee ideeën per zin, veelgebruikte scheidbare werkwoorden |
-| 26–42 | A2–B1 | Langere zinnen, bijzinnen met *die/dat/waar*, wat uitdrukkingen |
-| 43–60 | B1 | De dramatische toon van de grote verhalen blijft, moeilijke woorden worden uitgelegd |
+| 1–20 | A1–A2 | Korte zinnen, woorden van elke dag |
+| 21–35 | A2–A2+ | Twee ideeën per zin, veelgebruikte scheidbare werkwoorden |
+| 36–45 | A2–B1 | Langere zinnen, bijzinnen met *die/dat/waar*, wat uitdrukkingen |
+| 46–60 | B1–B2 | De dramatische toon van de grote verhalen blijft, moeilijke woorden worden uitgelegd; nooit boven B2 |
+
+De niveaus zijn hetzelfde voor Alliance- en Horde-quests.
 
 Namen van personen, plaatsen, vijanden en voorwerpen blijven Engels. Zo passen ze bij de kaart, de tooltips en de questtracker.
 

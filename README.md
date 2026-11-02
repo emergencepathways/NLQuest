@@ -4,7 +4,7 @@
 
 Speurtocht.NL shows quest text in Dutch and leaves the rest of the game in English. It's built for learning Dutch while you play:
 
-- **Graded Dutch** that starts at A1–A2 and grows to B1 as your character levels up.
+- **Graded Dutch** that starts at A1–A2 and grows to B1–B2 as your character levels up.
 - **The English original** whenever you need it: hold Alt, or hover the EN button.
 - **A side-by-side reader** with Dutch next to English, where every Dutch word can be clicked.
 - **A vocabulary list** of the words you click, ready to import into Anki.
@@ -59,10 +59,12 @@ The reader shows each quest's level next to the title.
 
 | Quest level | Dutch level | What it's like |
 |---|---|---|
-| 1–12 | A1–A2 | Short sentences, everyday words |
-| 13–25 | A2 | Two ideas per sentence, common separable verbs |
-| 26–42 | A2–B1 | Longer sentences, relative clauses, some idioms |
-| 43–60 | B1 | Keeps the dramatic tone of endgame stories, with harder words explained |
+| 1–20 | A1–A2 | Short sentences, everyday words |
+| 21–35 | A2–A2+ | Two ideas per sentence, common separable verbs |
+| 36–45 | A2–B1 | Longer sentences, relative clauses, some idioms |
+| 46–60 | B1–B2 | Keeps the dramatic tone of endgame stories, with harder words explained; never above B2 |
+
+The levels are the same for Alliance and Horde quests.
 
 Names of people, places, enemies and items stay English. That way they match the map, the tooltips and the quest tracker.
 
