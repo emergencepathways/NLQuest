@@ -9,19 +9,52 @@ All Alliance quests up to level 45 add up to about 1,300 quests and 177,000 Engl
 ## One batch, step by step
 
 ```
-python3 tools/next_batch.py              # 1. English source -> work/batch_NN.txt
-#                                          2. translate -> batches/NN-<slug>.json
-python3 tools/import_batch.py NN         # 3. validate, build Data/Batch_NN_*.lua, update .toc
-#                                          4. fix errors / add missing word meanings, re-run 3
-lua5.1 tools/test_harness.lua            # 5. offline test in a mock WoW client
-git switch -c batch-NN                   # 6. one branch per batch
-git add -A && git commit                 #    commit message: see below
-git push -u origin batch-NN              # 7. open a pull request, review, merge
+python3 tools/next_batch.py --lane alliance   # 1. English source -> work/batch_NN.txt (or --lane horde)
+git switch -c batch-NN                        #    one branch per batch
+#                                               2. translate -> batches/NN-<slug>.json
+python3 tools/import_batch.py NN              # 3. validate, build Data/Batch_NN_*.lua, update .toc
+#                                               4. fix errors / add missing word meanings, re-run 3
+lua5.1 tools/test_harness.lua                 # 5. offline test in a mock WoW client
+#                                               6. changes/NN.md: the CHANGELOG line (see changes/README.md)
+git add -A && git commit                      #    commit message: see below
+git push -u origin batch-NN                   # 7. GitHub opens the pull request and merges it
 ```
+
+### Two lanes in parallel
+
+The plan has two parts that never share a quest: the Alliance route (batches with Alliance quests) and,
+at the end, the Horde route (batches with only Horde and both-faction quests, 107 onward). Two chats can
+work at the same time, one per lane:
+
+| Lane | Picks | When its own batches run out |
+|---|---|---|
+| `--lane alliance` | the first free Alliance batch, front to back | takes the first free Horde batch |
+| `--lane horde` | the first free Horde batch, front to back | takes the **last** free Alliance batch, back to front |
+
+A batch is "free" when it isn't on main yet and has no `batch-NN` branch on GitHub. A pushed branch is
+"in flight" and skipped, so the lanes never pick the same batch.
+
+### The auto-merge
+
+`.github/workflows/batch-automerge.yml` runs on every push to a `batch-*` branch, one run at a time:
+
+1. opens the pull request, with the commit message as title and notes;
+2. merges main into the branch and takes main's copy of the three files every batch touches
+   (`SpeurtochtNL.toc`, `Data/Namen.lua`, `CHANGELOG.md`), then rebuilds them for this batch with
+   `tools/sync_batch.py NN` (re-import, names list, CHANGELOG line from `changes/NN.md` with the counts);
+3. runs the importer checks and the test harness;
+4. merges the pull request, and comments with a link to the run.
+
+If a step fails, the pull request stays open with a comment explaining why and GitHub emails the owner.
+Pushing a fix to the branch retries; so does *Actions → Batch auto-merge → Run workflow* with the branch name.
+Every batch keeps its pull request page with the notes and the full diff, so nothing is lost by skipping
+manual review: it can be read at any time under *Pull requests → Closed*.
+
+Don't run `tools/plan_batches.py` while batches are in flight: it renumbers the unfinished part of the plan.
 
 ### Commit messages and pull requests
 
-Every batch is a branch and a pull request, so GitHub keeps a page for it with the full diff and the notes. The commit message and the pull request use the same three headings (the template in `.github/` fills them in):
+Every batch is a branch and a pull request, so GitHub keeps a page for it with the full diff and the notes. The auto-merge copies the commit message into the pull request, so the commit body carries the three headings:
 
 ```
 Batch 3: Teldrassil (18 quests)
