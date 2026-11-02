@@ -1,5 +1,10 @@
 # Changelog
 
+## Unreleased
+- **Melden** button in the reader and `/speur report`: builds a link to a pre-filled GitHub report. Missing quests include the English text (any faction, Horde too); translation fixes include the current Dutch.
+- GitHub issue forms: *Missing quest* and *Translation fix*; link to Discussions for questions.
+- Route follows the Forever dungeon leveling plan, with dungeon prequest chains (`+pre`) and Forever-only content marked for capture (`forever:`).
+
 ## 0.2.1 — 2026-11-02
 - Batch 2: Shadowglen and Teldrassil up to Lake Al'Ameth and the Ban'ethil Barrow Den (29 quests, 78 in total).
 - A word explained in any quest's word list now shows its meaning in every quest.

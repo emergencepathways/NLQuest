@@ -81,6 +81,8 @@ function UnitSex() return 3 end -- female
 function UnitClass() return "Warrior", "WARRIOR" end
 function UnitRace() return "Dwarf", "Dwarf" end
 function UnitExists() return true end
+function UnitFactionGroup() return "Alliance" end
+function UnitLevel() return 5 end
 function GetRealZoneText() return "Coldridge Valley" end
 
 -- current quest dialog state
@@ -291,6 +293,18 @@ check(QuestInfoDescriptionText:GetText() ~= "", "untranslated quest leaves Engli
 check(NQ.capture.quests[88888] and NQ.capture.quests[88888].desc == "Find a warm place to rest.", "untranslated quest captured")
 check(NQ.capture.quests[88888].npc ~= nil and NQ.capture.quests[88888].toc == 11509, "capture metadata")
 check(NQ.reader.nl:GetText():find("nog niet vertaald", 1, true), "reader explains missing translation")
+-- report link for a missing quest
+local url = NQ:ReportURL(NQ.current)
+check(url:find("^https://github.com/emergencepathways/NLQuest/issues/new%?"), "report link base: " .. url:sub(1, 60))
+check(url:find("template=missing%-quest.yml"), "missing-quest form")
+check(url:find("quest%-id=88888"), "quest id filled in")
+check(url:find("english=", 1, true) and url:find("Find%%20a%%20warm%%20place"), "English text filled in, encoded")
+check(url:find("player=Alliance%%2C%%20Dwarf"), "faction and race filled in")
+check(not url:find("[ \n|]"), "link has no raw spaces or line breaks")
+NQ:ShowReport()
+-- very long text is shortened to keep the link safe
+local longcur = { id = 1, en = { title = "Long", desc = string.rep("word ", 3000) } }
+check(#NQ:ReportURL(longcur) <= 7000, "long report link kept under 7000 chars: " .. #NQ:ReportURL(longcur))
 QuestFrame:Hide()
 
 -- Changed English text (Forever) -> flagged
@@ -299,6 +313,8 @@ QuestFrame:Show(); QuestFrameDetailPanel:Show()
 check(NQ.current.mismatch, "title mismatch detected")
 check(NQ.capture.changed[179] ~= nil, "changed quest captured")
 check(QuestInfoTitleHeader:GetText() == "Kleding voor dwergen", "still translated by ID")
+local churl = NQ:ReportURL(NQ.current)
+check(churl:find("template=missing%-quest.yml") and churl:find("Changed"), "changed text reported as [Changed]")
 QuestFrame:Hide()
 
 -- ID unknown, title known -> fallback by title
@@ -306,6 +322,8 @@ Q.id, Q.title = 123456, "The Boar Hunter"
 QuestFrame:Show(); QuestFrameDetailPanel:Show()
 check(NQ.current.q and NQ.current.matchedBy == "title", "title fallback")
 check(QuestInfoTitleHeader:GetText() == "De zwijnenjager", "title fallback applies Dutch")
+local fixurl = NQ:ReportURL(NQ.current)
+check(fixurl:find("template=translation%-fix.yml") and fixurl:find("current="), "translated quest -> translation-fix form with Dutch text")
 QuestFrame:Hide()
 
 ------------------------------------------------------------------------
@@ -334,7 +352,7 @@ NQ.db.translateLog = true
 NQ:Refresh()
 
 -- Slash commands don't error
-for _, c in ipairs({ "save", "", "reader", "vocab", "export", "capture", "status", "help", "debug", "debug" }) do
+for _, c in ipairs({ "report", "save", "", "reader", "vocab", "export", "capture", "status", "help", "debug", "debug" }) do
     local ok, err = pcall(SlashCmdList.SPEURTOCHTNL, c)
     check(ok, "slash /speur " .. c .. ": " .. tostring(err))
 end

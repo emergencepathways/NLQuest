@@ -62,7 +62,7 @@ local function Build()
 
     local title = f:CreateFontString(nil, "OVERLAY", "GameFontNormalLarge")
     title:SetPoint("TOPLEFT", PAD + 4, -PAD - 2)
-    title:SetPoint("RIGHT", f, "RIGHT", -150, 0)
+    title:SetPoint("RIGHT", f, "RIGHT", -214, 0)
     title:SetJustifyH("LEFT")
     title:SetWordWrap(false)
     R.title = title
@@ -98,6 +98,20 @@ local function Build()
     vocabBtn:SetText("Woorden")
     vocabBtn:SetScript("OnClick", function() NQ:ToggleVocab() end)
     R.vocabBtn = vocabBtn
+
+    local reportBtn = CreateFrame("Button", nil, f, "UIPanelButtonTemplate")
+    reportBtn:SetSize(60, 20)
+    reportBtn:SetPoint("RIGHT", vocabBtn, "LEFT", -4, 0)
+    reportBtn:SetText("Melden")
+    reportBtn:SetScript("OnClick", function() NQ:ShowReport() end)
+    reportBtn:SetScript("OnEnter", function(self)
+        GameTooltip:SetOwner(self, "ANCHOR_TOP")
+        GameTooltip:AddLine("Melden · Report", 1, 0.82, 0)
+        GameTooltip:AddLine("Missing quest or a translation mistake? Makes a ready-to-send GitHub report for this quest.", 1, 1, 1, true)
+        GameTooltip:Show()
+    end)
+    reportBtn:SetScript("OnLeave", function() GameTooltip:Hide() end)
+    R.reportBtn = reportBtn
 
     local scroll = CreateFrame("ScrollFrame", "SpeurtochtNLReaderScroll", f, "UIPanelScrollFrameTemplate")
     scroll:SetPoint("TOPLEFT", PAD, -54)
@@ -243,7 +257,7 @@ function NQ:UpdateReader()
     end
 
     if #linked == 0 then
-        local msg = "Deze quest is nog niet vertaald. De Engelse tekst is bewaard, zodat hij in een volgende versie vertaald kan worden.\n\nThis quest has no Dutch translation yet. Its English text has been saved for the next batch (/speur capture)."
+        local msg = "Deze quest is nog niet vertaald. Klik op Melden om hem op GitHub te melden; dan komt hij in een volgende versie.\n\nThis quest has no Dutch translation yet. Click Melden (Report) to send it in for the next batch."
         linked, plain = { msg }, { msg }
     end
 

@@ -6,6 +6,7 @@
     /speur export     Anki export
     /speur save w     save a word by typing it (/speur save woord = meaning)
     /speur check      diagnose the reader / clickable words
+    /speur report     report the open quest (missing or translation fix) on GitHub
     /speur capture    how many untranslated quests have been recorded
     /speur status     version, build and coverage
 ]]
@@ -246,6 +247,8 @@ SlashCmdList.SPEURTOCHTNL = function(msg)
         if NQ:SaveWord(word, meaning, sentence, title, cur and cur.id) then
             NQ:Print("'%s' opgeslagen%s", word, meaning and (" — " .. meaning) or "")
         end
+    elseif cmd == "report" or cmd == "melden" then
+        NQ:ShowReport()
     elseif cmd == "check" then
         local R = NQ.reader
         local shown = R.frame and R.frame:IsShown()
@@ -259,7 +262,7 @@ SlashCmdList.SPEURTOCHTNL = function(msg)
         NQ.db.debug = not NQ.db.debug
         NQ:Print("debug %s", NQ.db.debug and "aan" or "uit")
     elseif cmd == "help" then
-        NQ:Print("/speur of /nlquest · /speur reader · /speur vocab · /speur save woord · /speur export · /speur capture · /speur status · /speur check")
+        NQ:Print("/speur of /nlquest · /speur reader · /speur vocab · /speur save woord · /speur report · /speur export · /speur capture · /speur status · /speur check")
     else
         NQ:ToggleOptions()
     end

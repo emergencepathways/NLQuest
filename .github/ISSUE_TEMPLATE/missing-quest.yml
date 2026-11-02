@@ -1,0 +1,45 @@
+name: Missing quest / Ontbrekende quest
+description: A quest without Dutch text. Easiest from the game - open the quest and click "Melden" in the reader.
+title: "[Missing] "
+labels: ["missing-quest"]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Thanks! Quests reported here go into the next translation batch.
+        **Tip:** in game, open the quest and click **Melden** in the Speurtocht.NL reader (or type `/speur report`). It fills in this form for you.
+  - type: input
+    id: quest-id
+    attributes:
+      label: Quest ID
+      description: Shown by /speur status
+    validations:
+      required: true
+  - type: input
+    id: quest-title
+    attributes:
+      label: Quest title (English)
+    validations:
+      required: true
+  - type: input
+    id: where
+    attributes:
+      label: Zone / quest giver
+  - type: input
+    id: player
+    attributes:
+      label: Faction, race, class, level
+  - type: input
+    id: client
+    attributes:
+      label: Game version
+      description: e.g. Forever 1.60.1, Classic Era 1.15
+  - type: textarea
+    id: english
+    attributes:
+      label: English quest text
+      description: Description, objectives, progress and completion text, as far as you've seen them.
+  - type: textarea
+    id: notes
+    attributes:
+      label: Anything else?

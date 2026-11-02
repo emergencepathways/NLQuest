@@ -1,0 +1,33 @@
+name: Translation fix / Vertaling verbeteren
+description: A wrong or unclear word, a typo, or a missing meaning. Click "Melden" in the reader to fill this in from the game.
+title: "[Fix] "
+labels: ["translation"]
+body:
+  - type: input
+    id: quest-id
+    attributes:
+      label: Quest ID
+    validations:
+      required: true
+  - type: input
+    id: quest-title
+    attributes:
+      label: Quest title (Dutch / English)
+  - type: textarea
+    id: current
+    attributes:
+      label: What it says now
+  - type: textarea
+    id: problem
+    attributes:
+      label: What's wrong, or what it should say
+    validations:
+      required: true
+  - type: input
+    id: client
+    attributes:
+      label: Game version
+  - type: textarea
+    id: notes
+    attributes:
+      label: Screenshot or anything else

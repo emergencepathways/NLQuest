@@ -110,19 +110,24 @@ If you'd rather not install anything:
 
 ---
 
-## 4. Quests that aren't translated yet
+## 4. Reporting a missing quest or a mistake
 
-When you open a quest that has no translation, Speurtocht.NL leaves the English as it is and quietly saves a copy of the text. `/speur capture` shows how many it has saved.
+Open the quest and click **Melden** in the reader, or type `/speur report`. A small window shows a link with everything filled in: quest ID, title, zone, your faction, race, class and level, the game version, and the quest text.
 
-To get them translated, log out (or `/reload`) and run:
+1. Press **Ctrl+C** (the link is already selected).
+2. Paste it into your browser and press Enter.
+3. Click **Submit new issue** on GitHub (you need a free GitHub account).
+
+- **Untranslated quest:** the report goes to the *Missing quest* list with the English text included, so it can go straight into the next batch. This works for every faction, Horde included.
+- **Translated quest:** it opens a *Translation fix* report with the current Dutch filled in. Just add what's wrong.
+
+The addon also quietly saves the English text of every untranslated quest you open. To send a whole play session at once, log out (or `/reload`) and run:
 
 ```
 python3 tools/capture_to_json.py "<game folder>/WTF/Account/<ACCOUNT>/SavedVariables/SpeurtochtNL.lua" captured.json
 ```
 
-Send `captured.json` and those quests go into the next batch. This is also how Forever's new quests get translated, including the Cozy Sleeping Bag chain: play through them once, then send the file.
-
-If Forever changes the English text of a quest that's already translated, the reader marks it *tekst gewijzigd* and the new text is saved separately, so the translation can be updated.
+Then attach `captured.json` to a *Missing quest* report. If Forever changes the English text of a quest that's already translated, the reader shows *tekst gewijzigd*, and **Melden** reports it as changed.
 
 ---
 
@@ -156,6 +161,7 @@ If Forever changes the English text of a quest that's already translated, the re
 | `/speur save woord = meaning` | Save a word with your own meaning |
 | `/speur check` | Check whether the reader's words are clickable |
 | `/speur export` | Copy-and-paste export window (all words) |
+| `/speur report` | Report the open quest on GitHub (missing quest or translation fix) |
 | `/speur capture` | How many untranslated quests have been saved |
 | `/speur status` | Version, game build, and whether the current quest is translated |
 | `/speur help` | List the commands |

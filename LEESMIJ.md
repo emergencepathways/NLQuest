@@ -110,19 +110,24 @@ Wil je niets installeren?
 
 ---
 
-## 4. Quests die nog niet vertaald zijn
+## 4. Een ontbrekende quest of een fout melden
 
-Open je een quest zonder vertaling? Dan laat Speurtocht.NL het Engels staan en bewaart de addon stil een kopie van de tekst. Met `/speur capture` zie je hoeveel quests er bewaard zijn.
+Open de quest en klik op **Melden** in de lezer, of typ `/speur report`. Er verschijnt een klein venster met een link waarin alles al is ingevuld: quest-ID, titel, gebied, je factie, volk, klasse en level, de versie van het spel, en de tekst van de quest.
 
-Wil je ze laten vertalen? Log uit (of typ `/reload`) en voer dit uit:
+1. Druk op **Ctrl+C** (de link is al geselecteerd).
+2. Plak hem in je browser en druk op Enter.
+3. Klik op GitHub op **Submit new issue** (je hebt een gratis GitHub-account nodig).
+
+- **Onvertaalde quest:** de melding komt in de lijst *Missing quest*, met de Engelse tekst erbij. Zo kan hij direct in de volgende ronde. Dit werkt voor elke factie, ook voor de Horde.
+- **Vertaalde quest:** je opent een melding *Translation fix* waarin de huidige Nederlandse tekst al staat. Je hoeft alleen te schrijven wat er niet klopt.
+
+De addon bewaart ook stil de Engelse tekst van elke onvertaalde quest die je opent. Wil je een hele speelsessie in één keer sturen? Log uit (of typ `/reload`) en voer dit uit:
 
 ```
 python3 tools/capture_to_json.py "<spelmap>/WTF/Account/<ACCOUNT>/SavedVariables/SpeurtochtNL.lua" captured.json
 ```
 
-Stuur `captured.json` op, dan komen die quests in de volgende ronde. Zo worden ook de nieuwe quests van Forever vertaald, zoals de Cozy Sleeping Bag-reeks: speel ze één keer en stuur dan het bestand.
-
-Verandert Forever de Engelse tekst van een quest die al vertaald is? Dan zie je in de lezer *tekst gewijzigd*, en wordt de nieuwe tekst apart bewaard. Zo kan de vertaling worden bijgewerkt.
+Voeg `captured.json` dan toe aan een melding *Missing quest*. Verandert Forever de Engelse tekst van een quest die al vertaald is? Dan zie je in de lezer *tekst gewijzigd*, en meldt **Melden** hem als gewijzigd.
 
 ---
 
@@ -156,6 +161,7 @@ In `tools/roadmap_v1.json` staat elk quest-ID per ronde.
 | `/speur save woord = betekenis` | Slaat een woord op met je eigen betekenis |
 | `/speur check` | Controleert of je op de woorden in de lezer kunt klikken |
 | `/speur export` | Opent het venster om te kopiëren en plakken (alle woorden) |
+| `/speur report` | Meldt de open quest op GitHub (ontbrekende quest of fout in de vertaling) |
 | `/speur capture` | Laat zien hoeveel onvertaalde quests er bewaard zijn |
 | `/speur status` | Versie, versie van het spel, en of de huidige quest vertaald is |
 | `/speur help` | Laat de commando's zien |

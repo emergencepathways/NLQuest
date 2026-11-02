@@ -41,7 +41,8 @@ NQ.showingEnglish = false
 local function Track(source, id, en)
     local q, foundId, matchedBy, mismatch = NQ:Lookup(id, en.title)
     NQ.current = { source = source, id = foundId or id, q = q, en = en,
-                   matchedBy = matchedBy, mismatch = mismatch }
+                   matchedBy = matchedBy, mismatch = mismatch,
+                   npc = UnitExists("npc") and UnitName("npc") or nil }
     NQ:Fire("QuestShown", NQ.current)
     return q
 end

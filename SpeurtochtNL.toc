@@ -22,5 +22,6 @@ Data\Batch_02_Shadowglen.lua
 Display.lua
 Reader.lua
 Vocab.lua
+Report.lua
 Capture.lua
 Options.lua
