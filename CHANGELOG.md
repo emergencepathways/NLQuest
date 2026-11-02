@@ -1,6 +1,7 @@
 # Changelog
 
 ## Unreleased
+- Batch 9: Westfall up to level 20 (The Killing Fields, Thunderbrew, Red Leather Bandanas, the Westfall Lighthouse quests with Captain Grayson, Captain Sanders' Hidden Treasure, The People's Militia 3, the Defias Brotherhood chain up to the traitor escort) and the Wailing Caverns quests with their Ratchet prequests (Raptor Horns, Smart Drinks, Trouble at the Docks, Deviate Hides, Deviate Eradication, The Glowing Shard) (24 quests, 249 in total).
 - Batch 8: Darkshore up to level 14 (Beached Sea Creature x2, How Big a Threat?, Buzzbox 323, Gubber Blump's fishing pole, Plagued Lands, Washed Ashore, the red crystal chain), The Hunter's Path (Ironforge) and Westfall up to level 14 (Furlbrow's Deed, Westfall Stew, the gryphon delivery to Osric Strang and back, The People's Militia 1–2, Goretusk Liver Pie, The Forgotten Heirloom, Patrolling Westfall, Poor Old Blanchy) (25 quests, 225 in total).
 - Batch 7: the Consecrated Letter for paladins, Loch Modan up to level 14 (Brock's honor students and the gryphon flights, Rat Catching, blood sausages, the trogg quests, Stormpike's Order) and Darkshore up to level 14 (Buzzbox 827 and 411, Nessa's fish samples by hippogryph, Ameth'Aran, Asterion and the Bashal'Aran chain, Washed Ashore) (25 quests, 200 in total).
 - Difficulty levels now follow quest level the same way for Alliance and Horde: A1–A2 up to level 20, A2–A2+ to 35, A2–B1 to 45, B1–B2 from 46, never above B2. The reader shows the new labels.
