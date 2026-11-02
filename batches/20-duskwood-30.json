@@ -1,0 +1,1738 @@
+{
+  "quests": {
+    "322": {
+      "t": "Gezegend wapen",
+      "d": "In het Dwarven District van Stormwind woont een dwergensmid die met lightforge iron kan werken. Hij heet Grimand Elmore.$B$BIk heb het ijzer dat je vond in een krat gedaan. Breng het naar Grimand en vertel hem je verhaal. Ik weet zeker dat hij iemand met een taak zoals de jouwe graag helpt, en een wapen voor je maakt: een wapen waar zelfs Morbent Fel zich zorgen over maakt!",
+      "o": "Breng de Crate of Lightforge Ingots naar Grimand Elmore in Stormwind.",
+      "p": "Wat kan ik met mijn vak voor je doen, $C?",
+      "c": "Dat is een flink verhaal dat je hebt. En lightforge iron! Ik heb al jaren niet met zo'n metaal gewerkt. Het is een eer om er weer mee te werken. En je moet later bij me terugkomen met het verhaal van je gevecht tegen de dodenbezweerder.$b$bMaar we lopen op de zaken vooruit. Eerst je wapen tegen Morbent Fel...",
+      "g": [
+        [
+          "gezegend",
+          "blessed (zegenen)"
+        ],
+        [
+          "dwergensmid",
+          "dwarven weaponsmith"
+        ],
+        [
+          "krat",
+          "crate"
+        ],
+        [
+          "de jouwe",
+          "yours"
+        ],
+        [
+          "zich zorgen maakt",
+          "worries (zich zorgen maken)"
+        ],
+        [
+          "vak",
+          "craft, trade"
+        ],
+        [
+          "flink",
+          "quite, considerable"
+        ],
+        [
+          "eer",
+          "honour"
+        ],
+        [
+          "gevecht",
+          "battle, fight"
+        ],
+        [
+          "dodenbezweerder",
+          "necromancer"
+        ],
+        [
+          "we lopen op de zaken vooruit",
+          "we get ahead of ourselves"
+        ]
+      ]
+    },
+    "324": {
+      "t": "De verloren staven",
+      "d": "Je hebt de enige lightforge ingot uit de doorweekte kist gepakt. Het is duidelijk dat murlocs de rest hebben gestolen. Jaag op de murlocrovers bij het wrak van de Flying Osprey om het verloren lightforge iron terug te vinden.",
+      "o": "Verzamel 5 Lightforge Ingots en keer daarna terug naar Glorin Steelbrow in de Wetlands.",
+      "p": "Heb je het lightforge iron gevonden dat je nodig hebt?",
+      "c": "Ah, je hebt ze gevonden! Laten we dit lightforge iron nu tot iets nuttigs smeden, hè?",
+      "g": [
+        [
+          "verloren",
+          "lost"
+        ],
+        [
+          "staven",
+          "ingots, bars (staaf)"
+        ],
+        [
+          "enige",
+          "single, only"
+        ],
+        [
+          "doorweekte",
+          "waterlogged (doorweekt)"
+        ],
+        [
+          "gestolen",
+          "stolen (stelen)"
+        ],
+        [
+          "murlocrovers",
+          "murloc raiders"
+        ],
+        [
+          "wrak",
+          "wreckage, wreck"
+        ],
+        [
+          "smeden",
+          "to forge, hammer"
+        ],
+        [
+          "nuttigs",
+          "useful (iets nuttigs)"
+        ]
+      ]
+    },
+    "325": {
+      "t": "Gewapend en klaar",
+      "d": "Hier is het wapen tegen de schurk waar je het over had. Je bent er helemaal klaar voor, $N. Veel succes, en ik kijk uit naar je verhaal vol glorie!",
+      "o": "Breng Morbent's Bane naar Sven in Duskwood.",
+      "p": "Hallo, $N. Je bent nog niet zo lang weg geweest, maar ik zie een vuur in je ogen dat ik eerder niet zag.",
+      "c": "Ah, tegen dit wapen is de schurk Morbent Fel niet bestand! Goed gedaan!$b$bJe bent er klaar voor. Morbent Fel zal vallen.",
+      "g": [
+        [
+          "gewapend",
+          "armed"
+        ],
+        [
+          "schurk",
+          "fiend, villain"
+        ],
+        [
+          "waar je het over had",
+          "that you spoke of"
+        ],
+        [
+          "kijk uit naar",
+          "look forward to (uitkijken naar)"
+        ],
+        [
+          "glorie",
+          "glory"
+        ],
+        [
+          "bestand",
+          "proof against (bestand tegen)"
+        ],
+        [
+          "vallen",
+          "to fall"
+        ]
+      ]
+    },
+    "526": {
+      "t": "Lightforge Ingots",
+      "d": "Je hebt misschien één lightforge ingot in die kist gevonden, maar dat is niet genoeg om iets fatsoenlijks te maken!$B$BJe moet teruggaan en meer zoeken. Misschien hebben de murlocs rond dat wrak lightforge ingots bij zich.",
+      "o": "Verzamel 5 Lightforge Ingots en keer daarna terug naar Glorin Steelbrow in de Wetlands.",
+      "p": "Heb je het lightforge iron gevonden dat je nodig hebt?",
+      "c": "Ah, je hebt ze gevonden! Laten we dit lightforge iron nu tot iets nuttigs smeden, hè?",
+      "g": [
+        [
+          "fatsoenlijks",
+          "decent (iets fatsoenlijks)"
+        ],
+        [
+          "teruggaan",
+          "to go back"
+        ],
+        [
+          "wrak",
+          "wreck"
+        ],
+        [
+          "bij zich",
+          "on them (bij zich hebben)"
+        ],
+        [
+          "smeden",
+          "to forge, hammer"
+        ],
+        [
+          "nuttigs",
+          "useful (iets nuttigs)"
+        ]
+      ]
+    },
+    "58": {
+      "t": "The Night Watch",
+      "d": "De situatie in Raven Hill is nog steeds somber. De veiligheid van Darkshire ligt in jouw handen, $N. Ik heb niet genoeg Watchers om de stad veilig te houden. We hebben je nodig: ga nog een keer naar Raven Hill en bevrijd het oostelijke mausoleum van 20 Plague Spreaders!",
+      "o": "Commander Althea Ebonlocke van Darkshire wil dat je 20 Plague Spreaders doodt in het oostelijke mausoleum van Raven Hill.",
+      "p": "Ik heb je hulp nodig, $N. Reis naar de begraafplaats in het noordwesten en bevrijd het oostelijke mausoleum van 20 Plague Spreaders.$B$BKom terug als je taak klaar is.",
+      "c": "Namens de mensen van Darkshire, en als leider van de Night Watch, bedank ik je, $N, voor je moed en je toewijding. Moge het Licht op je wegen schijnen.",
+      "g": [
+        [
+          "somber",
+          "grim, gloomy"
+        ],
+        [
+          "veiligheid",
+          "safety"
+        ],
+        [
+          "bevrijd",
+          "rid, free (bevrijden)"
+        ],
+        [
+          "oostelijke",
+          "eastern (oostelijk)"
+        ],
+        [
+          "mausoleum",
+          "mausoleum, tomb building"
+        ],
+        [
+          "begraafplaats",
+          "cemetery"
+        ],
+        [
+          "namens",
+          "on behalf of"
+        ],
+        [
+          "moed",
+          "bravery, courage"
+        ],
+        [
+          "toewijding",
+          "dedication"
+        ],
+        [
+          "moge",
+          "may (mogen)"
+        ],
+        [
+          "schijnen",
+          "to shine"
+        ]
+      ]
+    },
+    "134": {
+      "t": "Ogerdieven",
+      "d": "Een paar weken geleden was ik ver van mijn huis kruiden aan het plukken, en toen viel een groep ogers me aan! Ik rende weg, en ik moest een krat met kostbaar gereedschap en kruiden achterlaten.$B$BNadat ze me hadden weggejaagd, liepen de ogers stoer terug naar de ogerheuvel in het zuiden van Duskwood. Ik weet zeker dat mijn krat ergens bij die heuvel staat.$B$BAlsjeblieft, $N, haal deze krat voor me terug, want ik mis hem heel erg.",
+      "o": "Breng Abercrombie's Crate terug naar Abercrombie.",
+      "p": "Heb je mijn krat? Zo ja, geef hem me dan alsjeblieft... snel!",
+      "c": "Dank aan de Nec-... ik bedoel, dank aan JOU, $N! Je hebt je beloning meer dan verdiend.$B$BAha! Blij! Blije nachten komen eraan!!",
+      "g": [
+        [
+          "ogerdieven",
+          "ogre thieves"
+        ],
+        [
+          "plukken",
+          "to pick"
+        ],
+        [
+          "ogers",
+          "ogres (oger)"
+        ],
+        [
+          "kostbaar",
+          "precious"
+        ],
+        [
+          "gereedschap",
+          "tools"
+        ],
+        [
+          "achterlaten",
+          "to leave behind"
+        ],
+        [
+          "weggejaagd",
+          "chased off (wegjagen)"
+        ],
+        [
+          "stoer",
+          "swaggering, tough"
+        ],
+        [
+          "ogerheuvel",
+          "ogre mound"
+        ],
+        [
+          "mis",
+          "miss (missen)"
+        ],
+        [
+          "verdiend",
+          "earned (verdienen)"
+        ]
+      ]
+    },
+    "160": {
+      "t": "Briefje voor de burgemeester",
+      "d": "Breng dit briefje naar Ello Ebonlocke, de burgemeester van Darkshire.$B$BHij en ik zijn oude vrienden... en als hij het leest en ontdekt wat je voor mij hebt gedaan... dan weet ik zeker dat hij net zo blij is als ik! Hahahaha!",
+      "o": "Breng Abercrombie's Letter naar Ello Ebonlocke, de burgemeester van Darkshire.",
+      "p": "Abercrombie...? Ik ken niemand met die naam. Zeg je dat je een brief voor me hebt van die Abercrombie?$B$BNou, geef maar hier...",
+      "c": "<Ello kijkt naar de brief...>$B$BWelke taal is dit? Het lijkt heel oud... Ik kan het niet lezen.",
+      "g": [
+        [
+          "briefje",
+          "note"
+        ],
+        [
+          "burgemeester",
+          "mayor"
+        ],
+        [
+          "ontdekt",
+          "discovers (ontdekken)"
+        ],
+        [
+          "net zo blij",
+          "just as happy"
+        ],
+        [
+          "geef maar hier",
+          "let's have it"
+        ],
+        [
+          "taal",
+          "language"
+        ],
+        [
+          "lijkt",
+          "looks, seems (lijken)"
+        ]
+      ]
+    },
+    "181": {
+      "t": "Kijk naar de sterren",
+      "d": "Nu is er nog maar één ding nodig om dit apparaat af te maken. Volgens de bouwtekening van Cog hebben we een soort lens nodig. De enige lens die ik ken die groot genoeg is, zal heel moeilijk te krijgen zijn.$b$bEr is een oger die Zzarc'Vul heet. Hij woont in de heuvel in het zuiden van Duskwood. Als het lukt, breng me dan zijn monocle, dan gebruik ik die als onze lens!",
+      "o": "Zoek Zzarc'Vul in de ogerheuvel in het zuiden van Duskwood en breng zijn monocle naar Viktori in Darkshire.",
+      "p": "Heb je Zzarc'Vul kunnen overtuigen om ons zijn monocle te lenen voor ons experiment?",
+      "c": "Eindelijk! Het sterrenkijkapparaat is klaar! Bedankt, $N. Nu kan ik verder met mijn onderzoek...",
+      "g": [
+        [
+          "apparaat",
+          "device"
+        ],
+        [
+          "af te maken",
+          "to complete (afmaken)"
+        ],
+        [
+          "bouwtekening",
+          "blueprint"
+        ],
+        [
+          "lens",
+          "lens"
+        ],
+        [
+          "monocle",
+          "monocle"
+        ],
+        [
+          "overtuigen",
+          "to convince"
+        ],
+        [
+          "lenen",
+          "to lend"
+        ],
+        [
+          "experiment",
+          "experiment"
+        ],
+        [
+          "sterrenkijkapparaat",
+          "stargazing device"
+        ],
+        [
+          "onderzoek",
+          "research"
+        ]
+      ]
+    },
+    "251": {
+      "t": "Vertaal het briefje van Abercrombie",
+      "d": "Breng het briefje dat je me gaf naar Sirra Von'Indi. Hij weet veel van talen en oude kunsten. Als iemand hier dit bericht kan vertalen, dan is hij het.",
+      "o": "Breng de Letter to Ello naar Sirra Von'Indi.",
+      "p": "Een briefje van Abercrombie de kluizenaar, hè? Ik ken hem niet. Maar als hij bij de begraafplaats woont, dan weet ik wel dat zijn hersens zijn weggerot!",
+      "c": "<Sirra begint het briefje te vertalen...>",
+      "g": [
+        [
+          "vertaal",
+          "translate (vertalen)"
+        ],
+        [
+          "talen",
+          "languages (taal)"
+        ],
+        [
+          "kunsten",
+          "arts (kunst)"
+        ],
+        [
+          "bericht",
+          "message"
+        ],
+        [
+          "kluizenaar",
+          "hermit"
+        ],
+        [
+          "hersens",
+          "brains"
+        ],
+        [
+          "weggerot",
+          "rotted out (wegrotten)"
+        ]
+      ]
+    },
+    "252": {
+      "t": "Vertaling voor Ello",
+      "d": "O jee! Als waar is wat er op dit briefje staat, dan heeft Abercrombie iets... onuitsprekelijks gedaan.$B$BJe kunt het vertaalde briefje maar beter terugbrengen naar Ello.$B$BEn doe het snel, want ik ben bang dat er al een onheil naar onze stad toe sjokt...",
+      "o": "Breng de Translated Letter naar Lord Ello Ebonlocke",
+      "p": "Ah, is het briefje vertaald? Alsjeblieft, laat het me zien...",
+      "c": "<Ello leest de brief... en zijn gezicht wordt wit. Dan kijkt hij naar jou...>$b$bMisschien hielp je Abercrombie uit vriendelijkheid, maar door wat je deed is onze stad gedoemd.$b$b<Ello raakt verzonken in zijn gedachten...>",
+      "g": [
+        [
+          "vertaling",
+          "translation"
+        ],
+        [
+          "onuitsprekelijks",
+          "unspeakable (iets onuitsprekelijks)"
+        ],
+        [
+          "vertaalde",
+          "translated (vertalen)"
+        ],
+        [
+          "maar beter",
+          "had better"
+        ],
+        [
+          "onheil",
+          "doom, disaster"
+        ],
+        [
+          "sjokt",
+          "lumbers, trudges (sjokken)"
+        ],
+        [
+          "vriendelijkheid",
+          "kindness"
+        ],
+        [
+          "gedoemd",
+          "doomed"
+        ],
+        [
+          "verzonken",
+          "lost, sunk (in thought)"
+        ]
+      ]
+    },
+    "253": {
+      "t": "De bruid van de Embalmer",
+      "d": "De Embalmer is een naam uit een van onze kinderverhalen. Hij was een vriendelijke alchemist die gek werd door de dood van zijn vrouw, Eliza. Om haar terug te brengen, gebruikte hij duistere magie. Hij legde zijn eigen hart in de borst van zijn dode echtgenote.$B$BDaardoor kwam Eliza weer tot leven... maar ze werd vervloekt met een honger naar mensenvlees. Daarom moest de Embalmer haar begraven houden.$B$BZijn hart is zijn kracht. Zoek het graf van zijn vrouw, haal zijn hart terug en breng het naar mij terwijl het nog klopt. Doe dit, en zijn kracht wordt gebroken.",
+      "o": "Zoek het graf van Eliza. Haal het Embalmer's Heart bij haar en keer daarna terug naar Ello Ebonlocke.",
+      "p": "Heb je het graf van Eliza al gevonden? Heb je het hart van de Embalmer?",
+      "c": "Het is je gelukt! De magie in zijn hart zal bescherming bieden tegen het kwaad van de Embalmer, en een machtig schild zijn over de stad Darkshire.$B$BJe hebt iets groots gedaan voor ons volk, $N. Je naam blijft voor altijd in onze kronieken staan.",
+      "g": [
+        [
+          "bruid",
+          "bride"
+        ],
+        [
+          "kinderverhalen",
+          "children's stories (kinderverhaal)"
+        ],
+        [
+          "alchemist",
+          "alchemist"
+        ],
+        [
+          "gek",
+          "mad, crazy"
+        ],
+        [
+          "borst",
+          "chest, bosom"
+        ],
+        [
+          "echtgenote",
+          "wife, spouse"
+        ],
+        [
+          "tot leven",
+          "to life"
+        ],
+        [
+          "vervloekt",
+          "cursed (vervloeken)"
+        ],
+        [
+          "mensenvlees",
+          "human flesh"
+        ],
+        [
+          "graf",
+          "grave"
+        ],
+        [
+          "klopt",
+          "beats (kloppen)"
+        ],
+        [
+          "bescherming bieden",
+          "to offer protection"
+        ],
+        [
+          "schild",
+          "shield, aegis"
+        ],
+        [
+          "kronieken",
+          "annals, chronicles (kroniek)"
+        ]
+      ]
+    },
+    "401": {
+      "t": "Wacht tot Sirra klaar is",
+      "d": "Ik ben bijna klaar met het vertalen van dat briefje. Als je over een paar momentjes terugkomt, ben ik wel klaar.",
+      "o": "Wacht even en spreek dan opnieuw met Sirra Von'Indi.",
+      "c": "Zo. Het is vertaald...$B$B<De lucht wordt zwaar, alsof er een dik, zwart gordijn over het land wordt getrokken...>",
+      "g": [
+        [
+          "vertalen",
+          "translating, to translate"
+        ],
+        [
+          "momentjes",
+          "moments (momentje)"
+        ],
+        [
+          "opnieuw",
+          "again"
+        ],
+        [
+          "vertaald",
+          "translated (vertalen)"
+        ],
+        [
+          "lucht",
+          "air"
+        ],
+        [
+          "gordijn",
+          "curtain"
+        ],
+        [
+          "getrokken",
+          "drawn, pulled (trekken)"
+        ]
+      ]
+    },
+    "1071": {
+      "t": "Rust voor een gnoom",
+      "d": "Kijk, $N, ik ben lid van de Enlightened Assembly of Arcanology, Alchemy and Engineering Sciences. Mijn doel... nee, mijn PLICHT! is de nachtelfen laten zien dat een mix van magie, mengsels en machines hun bossen kan helpen redden.$B$BMaar het is een zware oorlog, en de goblins krijgen jongen als konijnen, lijkt het. Ik heb niet eens tijd gehad om mijn nieuwste uitvindingen te bouwen!$B$BIk heb tijd nodig om te plannen en te organiseren. Maar daarvoor heb ik jouw hulp nodig. Je moet de goblins op afstand houden in Windshear Crag in het oosten...",
+      "o": "Dood 10 Venture Co. Loggers en 10 Venture Co. Deforesters en keer terug naar Gaxim Rustfizzle in Stonetalon.",
+      "p": "Hoe gaat het gevecht aan jouw kant, $N?",
+      "c": "Heel erg bedankt voor je hulp, $N. Je bent precies op tijd terug.$B$BIk denk dat ik het perfecte plan heb. Explosieven. Nee, dat is niet het plan, maar het is een deel van het plan.$B$BKijk, ik gebruik sterke explosieven (maak je geen zorgen, ze zijn niet zo gevaarlijk als iedereen denkt) om de goblins een beetje terug te jagen. Met een paar goed geplaatste ontploffingen langs de randen van de bergen kan ik ze aardig de goede kant op drijven. Maar ik heb al een paar dagen bijna geen spullen meer.",
+      "g": [
+        [
+          "rust",
+          "rest, respite"
+        ],
+        [
+          "lid",
+          "member"
+        ],
+        [
+          "plicht",
+          "duty"
+        ],
+        [
+          "mengsels",
+          "mixtures (mengsel)"
+        ],
+        [
+          "jongen krijgen",
+          "to breed, have young"
+        ],
+        [
+          "konijnen",
+          "rabbits (konijn)"
+        ],
+        [
+          "uitvindingen",
+          "inventions (uitvinding)"
+        ],
+        [
+          "op afstand houden",
+          "keep at bay"
+        ],
+        [
+          "explosieven",
+          "explosives (explosief)"
+        ],
+        [
+          "terug te jagen",
+          "to scare back (terugjagen)"
+        ],
+        [
+          "geplaatste",
+          "placed (plaatsen)"
+        ],
+        [
+          "ontploffingen",
+          "detonations (ontploffing)"
+        ],
+        [
+          "randen",
+          "edges (rand)"
+        ],
+        [
+          "drijven",
+          "to herd, drive"
+        ]
+      ]
+    },
+    "1072": {
+      "t": "Een oude collega",
+      "d": "Het apparaat waar ik aan denk, is mijn meest geavanceerde versie tot nu toe. Maar we hebben een speciaal drankje nodig om het te laten werken. We kunnen net zo goed het goede spul halen, want deze missie kan je laatste zijn.$B$BEn daarvoor hebben we een paar sterke explosieven nodig: Nitromirglyceronium.$B$BDe enige die NG-5 kan maken, is een oude vriend van me: Lomac Gearstrip. Zoek hem in Tinker Town.$B$BAls jij hem overhaalt om wat NG-5 voor ons te maken, ga ik aan het werk om mijn apparaten te plaatsen.",
+      "o": "Spreek met Lomac Gearstrip in Ironforge.",
+      "c": "Ahhh. Dus Gaxim heeft je gestuurd? Hoe weet ik dat je niet tegen me liegt?! Hm? Hm?",
+      "g": [
+        [
+          "collega",
+          "colleague"
+        ],
+        [
+          "geavanceerde",
+          "advanced (geavanceerd)"
+        ],
+        [
+          "tot nu toe",
+          "to date, so far"
+        ],
+        [
+          "drankje",
+          "potion"
+        ],
+        [
+          "net zo goed",
+          "might as well"
+        ],
+        [
+          "spul",
+          "stuff"
+        ],
+        [
+          "missie",
+          "mission"
+        ],
+        [
+          "overhaalt",
+          "talk into, persuade (overhalen)"
+        ],
+        [
+          "plaatsen",
+          "to place"
+        ],
+        [
+          "liegt",
+          "lie (liegen)"
+        ]
+      ]
+    },
+    "1073": {
+      "t": "Onhandigheid + chemicaliën = plezier",
+      "d": "Hahaha... heb jij Nitromirglyceronium nodig om goblins tegen te houden die een bos vernielen?!$B$BHet kan me niet schelen of je Gaxim kent of niet... Ik geef je het spul al, alleen om te zien hoe jij of zij in piepkleine stukjes ontploffen.$B$BMaar er is een probleem: ik heb niets meer.$B$BMaar weet je wat? Als jij me de juiste drankjes brengt, maak ik er meteen wat voor je.$B$BJe kunt op zijn minst laten zien dat je een beetje kunt als alchemist, voordat ik je zomaar een proefje geef van mijn grootste uitvinding.",
+      "o": "Breng 4 Minor Mana Potions en 2 Elixirs of Fortitude naar Lomac Gearstrip in Ironforge.",
+      "p": "Ik kan geen Nitromirglyceronium maken als ik de drankjes niet heb... ze zijn heel belangrijk om het te maken.",
+      "c": "Dit is prima.$B$BAls ik niet beter wist, vreemdeling, zou ik zeggen dat je iets van alchemie wist. Goed, goed... de wereld draait niet alleen om zwaarden en tovenarij, weet je?",
+      "g": [
+        [
+          "onhandigheid",
+          "ineptitude, clumsiness"
+        ],
+        [
+          "chemicaliën",
+          "chemicals (chemicalie)"
+        ],
+        [
+          "vernielen",
+          "to destroy, wreck"
+        ],
+        [
+          "het kan me niet schelen",
+          "I don't care"
+        ],
+        [
+          "piepkleine",
+          "itty-bitty, tiny (piepklein)"
+        ],
+        [
+          "ontploffen",
+          "to explode"
+        ],
+        [
+          "op zijn minst",
+          "at least"
+        ],
+        [
+          "alchemist",
+          "alchemist"
+        ],
+        [
+          "zomaar",
+          "just like that"
+        ],
+        [
+          "proefje",
+          "sample, taste"
+        ],
+        [
+          "uitvinding",
+          "invention, creation"
+        ],
+        [
+          "vreemdeling",
+          "stranger"
+        ],
+        [
+          "draait om",
+          "is about (draaien om)"
+        ],
+        [
+          "tovenarij",
+          "sorcery"
+        ]
+      ]
+    },
+    "1074": {
+      "t": "Onhandigheid + chemicaliën = plezier",
+      "d": "Alsjeblieft, vreemdeling. Maar wees er voorzichtig mee... het is onstabiel spul.$B$BAls je echt een vriend van Gaxim bent, doe hem dan de groeten van me. Als je dat niet bent, veel plezier met jezelf opblazen.",
+      "o": "Breng het Nitromirglyceronium terug naar Gaxim Rustfizzle in Stonetalon.",
+      "p": "Ah, fijn fijn, je bent terug.",
+      "c": "Je hebt je taak perfect uitgevoerd, $N.$B$BNG-5 is het onmisbare onderdeel in het recept om de wagens met dynamiet te laten ontbranden.$B$BWat? Ja, dynamiet... hele wagens vol. Het is de perfecte afleiding, zeg ik je... wacht maar af.",
+      "g": [
+        [
+          "vreemdeling",
+          "stranger"
+        ],
+        [
+          "onstabiel",
+          "volatile, unstable"
+        ],
+        [
+          "doe hem de groeten",
+          "say hello to him (de groeten doen)"
+        ],
+        [
+          "opblazen",
+          "to blow up"
+        ],
+        [
+          "uitgevoerd",
+          "carried out (uitvoeren)"
+        ],
+        [
+          "onmisbare",
+          "essential, indispensable (onmisbaar)"
+        ],
+        [
+          "onderdeel",
+          "component"
+        ],
+        [
+          "wagens",
+          "wagons (wagen)"
+        ],
+        [
+          "dynamiet",
+          "dynamite"
+        ],
+        [
+          "ontbranden",
+          "to ignite"
+        ],
+        [
+          "afleiding",
+          "distraction"
+        ],
+        [
+          "wacht maar af",
+          "just wait and see (afwachten)"
+        ]
+      ]
+    },
+    "1075": {
+      "t": "Een rol van Mauren",
+      "d": "Oké, nu het deel van mijn plan met de ontsteking op afstand... o, dat heb ik nog niet uitgelegd, hè?$B$BOké, in het kort komt het hierop neer: met een beetje magie kan ik ervoor zorgen dat de explosieven afgaan als jij er niet bij bent. Ik bouw een apparaat waarmee je maar op één knop hoeft te drukken. Dan ontploft de NG-5 wanneer jij klaar bent.$B$BMaar ik heb een spreuk nodig van een vriend in Stormwind. Hij heet Collin Mauren. Je vindt hem daar in de magiërswijk. Hij is een mens, dus hij is niet moeilijk te vinden.",
+      "o": "Zoek Collin Mauren in Stormwind.",
+      "c": "Nu, die spreuk die je nodig hebt: één waarmee je explosieven van een afstand kunt laten ontploffen... hmmm.",
+      "g": [
+        [
+          "rol",
+          "scroll"
+        ],
+        [
+          "ontsteking",
+          "detonation, ignition"
+        ],
+        [
+          "op afstand",
+          "remote, at a distance"
+        ],
+        [
+          "in het kort",
+          "in short"
+        ],
+        [
+          "komt hierop neer",
+          "comes down to this (neerkomen op)"
+        ],
+        [
+          "afgaan",
+          "to go off"
+        ],
+        [
+          "er niet bij bent",
+          "aren't around (erbij zijn)"
+        ],
+        [
+          "knop",
+          "button"
+        ],
+        [
+          "drukken",
+          "to push, press"
+        ],
+        [
+          "spreuk",
+          "spell"
+        ],
+        [
+          "magiërswijk",
+          "mage quarter"
+        ],
+        [
+          "ontploffen",
+          "to explode, detonate"
+        ]
+      ]
+    },
+    "1076": {
+      "t": "Duivels in Westfall",
+      "d": "Ah, ik denk dat ik het heb. Een berichtenspreuk... ik geloof dat hij dat effect zoekt.$B$BIk moet een rol maken waar de spreuk in is gedrukt. Daarvoor heb ik puin van een Dust Devil nodig.$B$BTerwijl ik de rest van de onderdelen verzamel, kun jij misschien naar Westfall gaan en een van die smerige wezens zoeken. Ze zijn gevaarlijk, maar je kunt het vast aan als je bereid bent mee te doen aan een van Gaxim's experimenten.$B$BIk ben hier als je terugkomt.",
+      "o": "Breng Dust Devil Debris naar Collin Mauren in Stormwind.",
+      "p": "Hallo, $N. Heb je het onderdeel gevonden dat ik nodig heb?",
+      "c": "Geef me een paar momentjes, dan heb ik je rol klaar.",
+      "g": [
+        [
+          "duivels",
+          "devils (duivel)"
+        ],
+        [
+          "berichtenspreuk",
+          "messaging spell"
+        ],
+        [
+          "effect",
+          "effect"
+        ],
+        [
+          "gedrukt",
+          "impressed, pressed (drukken)"
+        ],
+        [
+          "puin",
+          "debris"
+        ],
+        [
+          "onderdelen",
+          "components (onderdeel)"
+        ],
+        [
+          "smerige",
+          "foul (smerig)"
+        ],
+        [
+          "wezens",
+          "creatures (wezen)"
+        ],
+        [
+          "kunt het aan",
+          "can handle it (aankunnen)"
+        ],
+        [
+          "bereid",
+          "willing"
+        ],
+        [
+          "experimenten",
+          "experiments (experiment)"
+        ]
+      ]
+    },
+    "1077": {
+      "t": "Speciale levering voor Gaxim",
+      "d": "Alsjeblieft, $N. Dit zou goed moeten werken.$B$BDoe Gaxim de groeten van me als je hem weer ziet. Ik ben benieuwd naar dit avontuur als het klaar is.$B$BHet ga je goed.",
+      "o": "Breng de Scroll of Messaging naar Gaxim Rustfizzle in Stonetalon.",
+      "p": "Haha! Je bent terug! Heb je het? Heb je de spreuk?",
+      "c": "Dit is perfect, $N! Goed gedaan.$B$BDeze spreuk, gemengd met de NG-5, wordt het perfecte explosief op afstand.$B$BDan kunnen we de perfecte afleiding voor je maken, zodat je naar binnen kunt sluipen en de brieven en technische plannen van de Venture Co. kunt stelen.$B$BDat remt hun ontbossing vast af.",
+      "g": [
+        [
+          "levering",
+          "delivery"
+        ],
+        [
+          "doe de groeten",
+          "give my regards (de groeten doen)"
+        ],
+        [
+          "benieuwd",
+          "curious, looking forward"
+        ],
+        [
+          "avontuur",
+          "adventure"
+        ],
+        [
+          "het ga je goed",
+          "fare well"
+        ],
+        [
+          "gemengd",
+          "mixed (mengen)"
+        ],
+        [
+          "explosief",
+          "explosive"
+        ],
+        [
+          "afleiding",
+          "distraction"
+        ],
+        [
+          "sluipen",
+          "to sneak"
+        ],
+        [
+          "technische",
+          "engineering, technical (technisch)"
+        ],
+        [
+          "remt af",
+          "slows down (afremmen)"
+        ],
+        [
+          "ontbossing",
+          "deforestation"
+        ]
+      ]
+    },
+    "1093": {
+      "t": "Super Reaper 6000",
+      "d": "Vreselijk wat de Venture Company hier heeft gedaan, hè? Wat dachten ze wel? Een goblinbedrijf dat een gnoom aanneemt!$b$bGelukkig voor mij herkent Sputtervalve een genie als hij er een ziet. Hij nam me aan net nadat ik eruit was geschopt!$b$bHij vertelt me dat ze een enorme houthakmachine hebben gebouwd, en Sput' wil dat ik de plannen voor hem steel. Helaas wil Gerenzo (die vervloekte gnoom) me meteen dood hebben zodra hij me ziet... misschien kun jij de plannen voor me stelen? Je vindt ze waarschijnlijk bij een van hun bestuurders.",
+      "o": "Haal de Super Reaper 6000 Blueprints voor Ziz Fizziks in de Stonetalon Mountains.",
+      "p": "Heb je die plannen gevonden? Ik wil graag indruk maken op de nieuwe baas. Hopelijk voelt hij zich op zijn gemak om mijn nogal indrukwekkende genie te gebruiken, als hij eenmaal overtuigd is van mijn trouw (nou ja, voor zover hij overtuigd kan worden... goblinerewoord, weet je wel?).",
+      "c": "Hé, is dat wat ik denk dat het is? Geweldig!$b$bEens kijken. Bah... hoe moet ik dit spul nou begrijpen... ik snap niet hoe gnomen denken. Ik zeg je, het verbaast me dat ze het wiel konden bouwen, laat staan die vliegmachines waar ze zo dol op zijn.",
+      "g": [
+        [
+          "goblinbedrijf",
+          "goblin company"
+        ],
+        [
+          "aanneemt",
+          "hires (aannemen)"
+        ],
+        [
+          "genie",
+          "genius"
+        ],
+        [
+          "eruit was geschopt",
+          "had been kicked out (eruit schoppen)"
+        ],
+        [
+          "houthakmachine",
+          "woodcutting machine"
+        ],
+        [
+          "vervloekte",
+          "bloody, cursed"
+        ],
+        [
+          "bestuurders",
+          "operators (bestuurder)"
+        ],
+        [
+          "indruk maken op",
+          "to impress"
+        ],
+        [
+          "op zijn gemak",
+          "comfortable, at ease"
+        ],
+        [
+          "trouw",
+          "loyalty"
+        ],
+        [
+          "goblinerewoord",
+          "goblin's honour"
+        ],
+        [
+          "snap",
+          "understand (snappen)"
+        ],
+        [
+          "verbaast",
+          "surprises (verbazen)"
+        ],
+        [
+          "laat staan",
+          "let alone"
+        ],
+        [
+          "dol op",
+          "fond of, crazy about"
+        ]
+      ]
+    },
+    "1094": {
+      "t": "Verdere instructies",
+      "d": "In deze envelop zit alle informatie die ik kon pakken terwijl ze me de deur uit schopten... Interne documenten van de Venture Company, wat handleidingen, technische dingen... O, en natuurlijk de blauwdrukken van de Super Reaper 6000.$b$bSputtervalve woont nu in Ratchet in de Barrens. Je vindt hem vast makkelijk, het is een klein groen kereltje.",
+      "o": "Breng de Sealed Envelope naar Sputtervalve in de Barrens.",
+      "p": "Hallo daar! Waarmee kan ik je helpen?",
+      "c": "Fizziks, hè? Ik vertrouw hem niet echt, maar deze informatie lijkt goed genoeg. Wat zou ik er niet voor geven om van de Venture Company af te zijn.$b$bMaar ze bedenken wel goede machines... Ik kan niet ontkennen dat we voordeel hebben gehad van een paar verbeteringen die zij hebben bedacht.",
+      "g": [
+        [
+          "verdere",
+          "further (verder)"
+        ],
+        [
+          "envelop",
+          "envelope"
+        ],
+        [
+          "schopten",
+          "booted, kicked (schoppen)"
+        ],
+        [
+          "interne",
+          "internal (intern)"
+        ],
+        [
+          "handleidingen",
+          "manuals (handleiding)"
+        ],
+        [
+          "blauwdrukken",
+          "blueprints (blauwdruk)"
+        ],
+        [
+          "kereltje",
+          "little fellow"
+        ],
+        [
+          "vertrouw",
+          "trust (vertrouwen)"
+        ],
+        [
+          "af te zijn van",
+          "to be rid of (af zijn van)"
+        ],
+        [
+          "bedenken",
+          "come up with, devise"
+        ],
+        [
+          "ontkennen",
+          "to deny"
+        ],
+        [
+          "voordeel",
+          "benefit, advantage"
+        ],
+        [
+          "verbeteringen",
+          "improvements (verbetering)"
+        ]
+      ]
+    },
+    "1079": {
+      "t": "Geheime missie - Alpha",
+      "d": "Dit is het, $N. Let goed op. De apparaten zijn klaar en kunnen gebruikt worden.$B$BNeem deze bladzijden mee. Ze leggen meer uit over de ontstekers en de explosieven, en waar je ze moet plaatsen.$B$BOnthoud: het succes van je missie hangt niet af van hoeveel je vernielt. Plan Alpha is geslaagd als je de technische plannen van de Venture Co. terugbrengt uit de houtzagerij ten zuiden van Cragpool Lake.",
+      "o": "Haal de Venture Co.'s Engineering Plans uit de houtzagerij in Windshear Crag.",
+      "p": "Heb je de plannen, $N?",
+      "c": "Echt geweldig! Dit is een zware klap voor de Venture Co.$B$BWe kunnen zwakke plekken in hun machines vinden, en hun ontwerpen ook in onze eigen uitvindingen gebruiken. Dit is echt een prachtige dag.",
+      "g": [
+        [
+          "geheime",
+          "secret, covert (geheim)"
+        ],
+        [
+          "let op",
+          "pay attention (opletten)"
+        ],
+        [
+          "ontstekers",
+          "detonators (ontsteker)"
+        ],
+        [
+          "plaatsen",
+          "to place"
+        ],
+        [
+          "onthoud",
+          "remember (onthouden)"
+        ],
+        [
+          "hangt af van",
+          "depends on (afhangen van)"
+        ],
+        [
+          "vernielt",
+          "destroy (vernielen)"
+        ],
+        [
+          "geslaagd",
+          "successful (slagen)"
+        ],
+        [
+          "houtzagerij",
+          "lumber mill"
+        ],
+        [
+          "klap",
+          "blow"
+        ],
+        [
+          "zwakke plekken",
+          "weaknesses, weak spots"
+        ],
+        [
+          "ontwerpen",
+          "designs (ontwerp)"
+        ],
+        [
+          "uitvindingen",
+          "inventions, creations (uitvinding)"
+        ]
+      ]
+    },
+    "1080": {
+      "t": "Geheime missie - Beta",
+      "d": "Plan Beta is net als Plan Alpha, $N.$B$BWe zorgen voor afleiding en dan stelen we hun kostbare brieven.$B$BHet belangrijkste is dat je hun brieven krijgt... onthoud dat.$B$BIn de bladzijden die ik je al gaf, staat waar je de explosieven moet neerleggen. Kom gewoon levend terug, en met die brieven...",
+      "o": "Haal de Venture Co. Letters uit Windshear Mine aan de oostkant van Windshear Crag.",
+      "p": "Hoe ging het, $N?",
+      "c": "Ongelooflijk, $N! Kaela en de Sentinels zullen zo blij zijn. Met jouw vaardigheid en mijn uitvindingen zijn we onstuitbaar.",
+      "g": [
+        [
+          "afleiding",
+          "distraction"
+        ],
+        [
+          "kostbare",
+          "precious (kostbaar)"
+        ],
+        [
+          "het belangrijkste",
+          "the key thing"
+        ],
+        [
+          "onthoud",
+          "remember (onthouden)"
+        ],
+        [
+          "neerleggen",
+          "to plant, put down"
+        ],
+        [
+          "levend",
+          "alive"
+        ],
+        [
+          "oostkant",
+          "east end, east side"
+        ],
+        [
+          "ongelooflijk",
+          "incredible"
+        ],
+        [
+          "vaardigheid",
+          "skill"
+        ],
+        [
+          "onstuitbaar",
+          "unstoppable"
+        ]
+      ]
+    },
+    "1082": {
+      "t": "Nieuws voor Sentinel Thenysil",
+      "d": "$N, je hebt iets groots gedaan door hier te helpen.$B$BDe Sentinels van Ashenvale zullen je goed belonen als je ze laat weten dat Gaxim en ik nog leven. Vertel ze dat we goed op weg zijn om de Venture Co. te stoppen en het land te genezen.$B$BZoek Tara Thenysil in Astranaar. Ze zal blij zijn dat je terugkomt met goed nieuws.",
+      "o": "Keer terug naar Sentinel Thenysil in Ashenvale.",
+      "c": "Bedankt, $N. Je hebt de Sentinels een dienst bewezen.$B$BIk ben blij dat het goed gaat met Kaela... en zelfs met Gaxim.$B$BJe hebt onze waardering verdiend.",
+      "g": [
+        [
+          "iets groots",
+          "a great deed, something great"
+        ],
+        [
+          "belonen",
+          "to reward"
+        ],
+        [
+          "laat weten",
+          "inform, let know (laten weten)"
+        ],
+        [
+          "goed op weg",
+          "well on our way"
+        ],
+        [
+          "genezen",
+          "to heal"
+        ],
+        [
+          "een dienst bewezen",
+          "done a service (een dienst bewijzen)"
+        ],
+        [
+          "waardering",
+          "appreciation"
+        ],
+        [
+          "verdiend",
+          "earned (verdienen)"
+        ]
+      ]
+    },
+    "1090": {
+      "t": "De bevelen van Gerenzo",
+      "d": "Weet je, ik was vroeger de op één na belangrijkste persoon hier op deze plek. Dat veranderde allemaal toen Gerenzo de leiding overnam. Hij ontsloeg mijn baas, Ziz Fizziks, en stuurde mij naar beneden om in de mijnen te werken. Maar Ziz zei dat ik hier moest blijven om informatie te verzamelen. Zijn nieuwe baas betaalt ons goed als we kunnen ontdekken wat de plannen van Gerenzo zijn.$b$bHoe dan ook, wat ik wel weet, is dat Gerenzo heeft bevolen om grote hoeveelheden van dit goudgroene erts te delven. Ik kan een monster voor je halen om naar Ziz te brengen, maar je moet op patrouilles letten terwijl ik het haal.",
+      "o": "Haal het geheimzinnige erts bij Piznik als hij klaar is met delven.",
+      "c": "Bedankt, $N. Het zag er even nogal riskant uit, en we hebben waarschijnlijk veel te veel aandacht getrokken.$b$bMaar het belangrijkste is dat we het monster van het erts hebben. We moeten het zo snel mogelijk naar Ziz brengen.",
+      "e": "Houd Piznik veilig terwijl hij het geheimzinnige erts delft",
+      "g": [
+        [
+          "bevelen",
+          "orders (bevel)"
+        ],
+        [
+          "op één na belangrijkste",
+          "second most important"
+        ],
+        [
+          "de leiding overnam",
+          "took over (de leiding overnemen)"
+        ],
+        [
+          "ontsloeg",
+          "fired (ontslaan)"
+        ],
+        [
+          "mijnen",
+          "mines (mijn)"
+        ],
+        [
+          "bevolen",
+          "ordered (bevelen)"
+        ],
+        [
+          "hoeveelheden",
+          "amounts (hoeveelheid)"
+        ],
+        [
+          "goudgroene",
+          "gold-green"
+        ],
+        [
+          "erts",
+          "ore"
+        ],
+        [
+          "delven",
+          "to mine, dig"
+        ],
+        [
+          "monster",
+          "sample"
+        ],
+        [
+          "patrouilles",
+          "patrols (patrouille)"
+        ],
+        [
+          "riskant",
+          "risky, dicey"
+        ],
+        [
+          "aandacht getrokken",
+          "drawn attention (aandacht trekken)"
+        ],
+        [
+          "delft",
+          "mines (delven)"
+        ]
+      ]
+    },
+    "1091": {
+      "t": "Nieuws voor Kaela",
+      "d": "$N, breng deze brieven naar Kaela. Ik weet zeker dat ze dit wil weten. Of in elk geval de Sentinels.$B$BZorg dat je haar vertelt hoe goed het ging, en dat we het niet hadden kunnen doen zonder een klein beetje magie.",
+      "o": "Breng de Venture Co. Letters naar Kaela Shadowspear.",
+      "p": "Ja, $N? Wat kan ik voor je doen?",
+      "c": "Dit is echt interessant.$B$BJij en Gaxim hebben het heel goed gedaan, $N. Bedankt.",
+      "g": [
+        [
+          "in elk geval",
+          "at least, in any case"
+        ],
+        [
+          "zorg dat",
+          "make sure (zorgen dat)"
+        ],
+        [
+          "hadden kunnen",
+          "could have"
+        ],
+        [
+          "een klein beetje",
+          "a little bit"
+        ],
+        [
+          "interessant",
+          "interesting"
+        ]
+      ]
+    },
+    "1092": {
+      "t": "De bevelen van Gerenzo",
+      "d": "Ik denk dat ik er ook over na moet denken om hier weg te gaan. Het duurt niet lang voordat het nieuws over wat hier gebeurd is de hogere bazen bereikt. En ik weet zeker dat ze het niet leuk zouden vinden om mij weer te zien.$b$bIk sluip naar buiten en ga naar Ziz. Hopelijk kan hij een nieuwe baan voor me vinden!$b$bIk probeer deze rommel een beetje op te ruimen, maar jij moet het monster van het erts meteen naar Ziz brengen. Hij zei dat hij ergens aan de westkant van Windshear Crag een kamp zou opzetten. Succes.",
+      "o": "Breng het Unidentified Ore naar Ziz Fizziks in de Stonetalon Mountains.",
+      "p": "Kan ik je ergens mee helpen?",
+      "c": "Ahhh, ik wist dat ik het goed deed door Piznik te laten blijven. Ik weet zeker dat de ingenieurs in Undermine dit heel graag willen bekijken...$b$bNatuurlijk wil ik zelf een stukje houden, maar wat ze niet weten, doet ze geen pijn, toch?",
+      "g": [
+        [
+          "na moet denken",
+          "must think about (nadenken)"
+        ],
+        [
+          "hogere bazen",
+          "higher-ups"
+        ],
+        [
+          "bereikt",
+          "reaches (bereiken)"
+        ],
+        [
+          "sluip",
+          "sneak (sluipen)"
+        ],
+        [
+          "hopelijk",
+          "hopefully"
+        ],
+        [
+          "baan",
+          "job"
+        ],
+        [
+          "rommel",
+          "mess"
+        ],
+        [
+          "op te ruimen",
+          "to clean up (opruimen)"
+        ],
+        [
+          "monster",
+          "sample"
+        ],
+        [
+          "westkant",
+          "western side"
+        ],
+        [
+          "opzetten",
+          "to set up"
+        ],
+        [
+          "ingenieurs",
+          "engineers (ingenieur)"
+        ],
+        [
+          "stukje",
+          "little piece"
+        ]
+      ]
+    },
+    "1078": {
+      "t": "Ophalen voor Mauren",
+      "d": "Reizigers vragen me steeds naar de Stonetalon Mountains. Het lijkt een populaire plek voor avontuur. Het maakt niet uit of je op zoek bent naar wyverns of elementalen, of dat je zaken hebt met de Venture Co.$B$BIn de Charred Vale, diep in Stonetalon, leefde vroeger een soort basilisken. Als je hun schubben tot stof maalde, waren ze een prachtig ingrediënt voor een paar spreuken die ik heb gemaakt.$B$BAls die basilisken nog leven, zou ik graag een paar van hun schubben hebben.$B$BNeem je tijd, er is geen haast, maar ik kan goed betalen.",
+      "o": "Breng 8 Crystalized Scales naar Collin Mauren in Stormwind.",
+      "p": "Hallo weer, $N.$B$BBen je nu al terug uit de Vale in Stonetalon met die schubben?",
+      "c": "Dit is perfect, $N. Heel erg bedankt.$B$BMisschien kan ik je ooit helpen zoals jij mij hebt geholpen.",
+      "g": [
+        [
+          "ophalen",
+          "retrieval, to fetch"
+        ],
+        [
+          "reizigers",
+          "travellers (reiziger)"
+        ],
+        [
+          "populaire",
+          "popular (populair)"
+        ],
+        [
+          "wyverns",
+          "wyverns (wyvern)"
+        ],
+        [
+          "elementalen",
+          "elementals (elementaal)"
+        ],
+        [
+          "zaken",
+          "business (zaak)"
+        ],
+        [
+          "basilisken",
+          "basilisks (basilisk)"
+        ],
+        [
+          "schubben",
+          "scales (schub)"
+        ],
+        [
+          "stof",
+          "dust"
+        ],
+        [
+          "maalde",
+          "ground (malen)"
+        ],
+        [
+          "ingrediënt",
+          "ingredient, reagent"
+        ],
+        [
+          "spreuken",
+          "spells (spreuk)"
+        ],
+        [
+          "haast",
+          "rush, hurry"
+        ]
+      ]
+    },
+    "1083": {
+      "t": "Woedende geesten",
+      "d": "Ik weet niet precies wat de Venture Co. met de Vale heeft gedaan, maar het is duidelijk dat de wezens daar te sterk voor hen waren.$B$BZe staken het bos in brand en gebruikten hun vernielende uitvindingen om zoveel mogelijk van de Vale te verwoesten.$B$BMaar door hun onwetendheid hebben ze ook iets anders losgelaten: brandende geesten, elementalen van vuur, steen en woede.$B$BHet land heeft geen kans om de glimlach van Elune te zien zolang deze wezens vrij rondlopen.$B$BBreng me hun smeulende sintels om te laten zien dat je hun aantal kleiner hebt gemaakt.",
+      "o": "Breng 8 Smoldering Embers van de vuurelementalen in de Charred Vale naar Kaela Shadowspear in Stonetalon.",
+      "p": "De eerste keer dat ik de Charred Vale zag, huilde ik bijna, $N.",
+      "c": "De resten van onze vijand... je kracht helpt ons goed, $N. Bedankt.",
+      "g": [
+        [
+          "woedende",
+          "enraged (woedend)"
+        ],
+        [
+          "staken in brand",
+          "set aflame (in brand steken)"
+        ],
+        [
+          "vernielende",
+          "destructive (vernielen)"
+        ],
+        [
+          "verwoesten",
+          "to devastate, decimate"
+        ],
+        [
+          "onwetendheid",
+          "ignorance"
+        ],
+        [
+          "losgelaten",
+          "released (loslaten)"
+        ],
+        [
+          "woede",
+          "rage"
+        ],
+        [
+          "glimlach",
+          "smile"
+        ],
+        [
+          "zolang",
+          "as long as"
+        ],
+        [
+          "smeulende",
+          "smouldering (smeulen)"
+        ],
+        [
+          "sintels",
+          "embers (sintel)"
+        ],
+        [
+          "vuurelementalen",
+          "fire elementals"
+        ],
+        [
+          "huilde",
+          "wept (huilen)"
+        ],
+        [
+          "resten",
+          "remains (rest)"
+        ]
+      ]
+    },
+    "1057": {
+      "t": "De Charred Vale terugwinnen",
+      "d": "Als beschermer van de bosgeesten kun je vast wel raden waarom ik ongerust ben.$b$bJe bent door deze bergen gereisd om deze top te bereiken. Je hebt vast gezien welke schande het land is aangedaan. Hebzucht heeft deze heilige heuvels vernietigd.$b$bDe Charred Vale in het zuiden is in brand gestoken door het hebzuchtige machineleger van industriëlen. Nog erger: de Bloodfuries die het land zijn binnengedrongen, laten ons er niet door om met de nieuwe groei te beginnen.$b$bVerdrijf die ellendige harpijen, $n!",
+      "o": "Keeper Albagorm op Stonetalon Peak wil dat je 7 Bloodfury Harpies, 7 Bloodfury Ambushers, 7 Bloodfury Slayers en 7 Bloodfury Roguefeathers doodt.",
+      "p": "Er is veel werk te doen voordat de Charred Vale weer het weelderige bos kan worden dat het vroeger was.$B$BMaak het gebied vrij van die smerige plagen, $N! Pas dan kunnen we beginnen terug te nemen wat van de natuur is.",
+      "c": "Nu de Bloodfuries zo'n groot verlies hebben geleden, kan het echte werk van het herstellen van het land misschien beginnen...",
+      "g": [
+        [
+          "terugwinnen",
+          "to reclaim"
+        ],
+        [
+          "beschermer",
+          "protector"
+        ],
+        [
+          "raden",
+          "to guess"
+        ],
+        [
+          "ongerust",
+          "alarmed, worried"
+        ],
+        [
+          "schande",
+          "travesty, disgrace"
+        ],
+        [
+          "aangedaan",
+          "done to (aandoen)"
+        ],
+        [
+          "hebzucht",
+          "greed"
+        ],
+        [
+          "heilige",
+          "sacred (heilig)"
+        ],
+        [
+          "machineleger",
+          "mechanized army"
+        ],
+        [
+          "industriëlen",
+          "industrialists (industrieel)"
+        ],
+        [
+          "binnengedrongen",
+          "encroached on (binnendringen)"
+        ],
+        [
+          "ellendige",
+          "wretched (ellendig)"
+        ],
+        [
+          "harpijen",
+          "harpies (harpij)"
+        ],
+        [
+          "weelderige",
+          "lush (weelderig)"
+        ],
+        [
+          "verlies",
+          "loss"
+        ]
+      ]
+    },
+    "1059": {
+      "t": "De Charred Vale terugwinnen",
+      "d": "De Bloodfuries zijn onderworpen. Maar ze verzamelen zich snel weer als er niets gebeurt.$b$bVer ten zuiden van de Barrens ligt een land dat Thousand Needles heet. Als je in Thousand Needles naar het westen reist tot je bij de rand van het weelderige bos van Feralas komt, vind je een druïde die Falfindel Waywarder heet.$b$bDeze grote en wijze druïde kan grote bosgeesten oproepen die kunnen helpen om de Charred Vale terug te winnen.$b$bLaat hem weten dat we hulp nodig hebben! Zoek hem meteen op!",
+      "o": "Reis naar Falfindel Waywarder op de grens van Thousand Needles en Feralas.",
+      "c": "Keeper Albagorm deed er verstandig aan om je zo dringend te sturen.$B$BLaten we kijken of we hulp uit het grote woud kunnen oproepen om naar de Charred Vale te gaan, voordat het te laat is.",
+      "g": [
+        [
+          "onderworpen",
+          "subdued (onderwerpen)"
+        ],
+        [
+          "verzamelen zich",
+          "regroup, gather (zich verzamelen)"
+        ],
+        [
+          "rand",
+          "edge"
+        ],
+        [
+          "weelderige",
+          "lush (weelderig)"
+        ],
+        [
+          "wijze",
+          "wise (wijs)"
+        ],
+        [
+          "bosgeesten",
+          "forest spirits (bosgeest)"
+        ],
+        [
+          "oproepen",
+          "to call forth, summon"
+        ],
+        [
+          "terug te winnen",
+          "to reclaim (terugwinnen)"
+        ],
+        [
+          "verstandig",
+          "wise, sensible"
+        ],
+        [
+          "dringend",
+          "urgently"
+        ],
+        [
+          "woud",
+          "forest"
+        ]
+      ]
+    },
+    "1095": {
+      "t": "Verdere instructies",
+      "d": "De zaak van die gnoom die door de Venture Company is aangenomen, heeft in Undermine nogal wat ophef veroorzaakt. De handelsprinsen keuren het niet goed dat Razdunk met die Gerenzo omgaat.$b$bRiddlevox heeft me gevraagd om het probleem op te lossen. Ik weet zeker dat een of meer van de handelsprinsen hem dat hebben opgedragen. Natuurlijk heeft de Director me dat niet verteld. Laten we zeggen dat ik een vermoeden heb.$b$bHoe dan ook, Gerenzo moet weg, en het zou een goede test zijn om Fizziks hem te laten opruimen.",
+      "o": "Breng de nieuwe bevelen naar Ziz Fizziks in de Stonetalon Mountains.",
+      "c": "Gerenzo uitschakelen? Daar heb ik geen bezwaar tegen.$b$bGnomen zijn al erg genoeg, maar wat ik over Gerenzo te weten kwam, maakt het alleen maar erger. Blijkbaar was hij een van de hoofdingenieurs in Gnomeregan. Daar werkte hij aan hun geheime project. We konden nooit goed genoeg in Dun Morogh binnendringen om de details te weten te komen. Het was een mislukking. Volgens onze verslagen is het, wat het ook was, letterlijk in hun gezicht ontploft.",
+      "g": [
+        [
+          "ophef",
+          "a stir, fuss"
+        ],
+        [
+          "veroorzaakt",
+          "caused (veroorzaken)"
+        ],
+        [
+          "handelsprinsen",
+          "trade princes (handelsprins)"
+        ],
+        [
+          "keuren niet goed",
+          "don't approve (goedkeuren)"
+        ],
+        [
+          "omgaat",
+          "consorts, deals (omgaan met)"
+        ],
+        [
+          "opgedragen",
+          "instructed (opdragen)"
+        ],
+        [
+          "vermoeden",
+          "hunch, suspicion"
+        ],
+        [
+          "opruimen",
+          "to take care of, get rid of"
+        ],
+        [
+          "uitschakelen",
+          "to eliminate"
+        ],
+        [
+          "bezwaar",
+          "objection"
+        ],
+        [
+          "blijkbaar",
+          "apparently"
+        ],
+        [
+          "hoofdingenieurs",
+          "head engineers (hoofdingenieur)"
+        ],
+        [
+          "binnendringen",
+          "to infiltrate"
+        ],
+        [
+          "mislukking",
+          "failure"
+        ],
+        [
+          "letterlijk",
+          "literally"
+        ]
+      ]
+    }
+  },
+  "words": {
+    "aangenomen": "hired (aannemen)",
+    "apparaten": "devices (apparaat)",
+    "bouw": "build (bouwen)",
+    "brandende": "burning (branden)",
+    "documenten": "documents (document)",
+    "eenmaal": "once (als ... eenmaal)",
+    "gemak": "ease, comfort (op je gemak)",
+    "geschopt": "kicked (schoppen)",
+    "hebzuchtige": "greedy (hebzuchtig)",
+    "herkent": "recognizes (herkennen)",
+    "hmmm": "hmm",
+    "hogere": "higher (hoog)",
+    "indrukwekkende": "impressive (indrukwekkend)",
+    "keuren": "(goedkeuren) to approve",
+    "legde": "laid, put (leggen)",
+    "minst": "(op zijn minst) at least",
+    "mix": "mix, blend",
+    "ontploft": "explodes (ontploffen)",
+    "organiseren": "to organize",
+    "overnam": "took over (overnemen)",
+    "overtuigd": "convinced (overtuigen)",
+    "remt": "(afremmen) to slow down",
+    "riddlevox": "Riddlevox: a goblin's name",
+    "rondlopen": "to roam, walk around",
+    "ruimen": "(opruimen) to clean up",
+    "schelen": "(het kan me niet schelen) I don't care",
+    "uitgelegd": "explained (uitleggen)",
+    "veranderde": "changed (veranderen)",
+    "verdrijf": "drive out (verdrijven)",
+    "vliegmachines": "flying machines (vliegmachine)",
+    "wiel": "wheel",
+    "wit": "white",
+    "zwakke": "weak (zwak)"
+  },
+  "terms": {}
+}
