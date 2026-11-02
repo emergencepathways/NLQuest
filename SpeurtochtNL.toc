@@ -41,6 +41,7 @@ Data\Batch_22_Gnomeregan_2_Voorquests.lua
 Data\Batch_23_Class_Warrior_30.lua
 Data\Batch_24_Class_Paladin_30.lua
 Data\Batch_25_Class_Rogue_30.lua
+Data\Batch_26_Hillsbrad_Foothills.lua
 
 Display.lua
 Reader.lua
