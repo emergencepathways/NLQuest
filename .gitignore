@@ -1,0 +1,6 @@
+# local work files
+work/
+*.zip
+__pycache__/
+*.pyc
+.DS_Store

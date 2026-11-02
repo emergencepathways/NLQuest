@@ -1,0 +1,25 @@
+## Interface: 11509, 11508, 16001
+## Title: Speurtocht.NL |cffff7f00(0.2.0)|r
+## Notes: Dutch quest text for language learners. Everything else stays English.
+## Notes-nlNL: Nederlandse questteksten voor taalleerders. De rest van het spel blijft Engels.
+## Author: Emergence Pathways
+## Version: 0.2.0
+## SavedVariables: SpeurtochtNLDB, SpeurtochtNLVocab, SpeurtochtNLCapture
+## IconTexture: Interface\Icons\INV_Misc_Book_09
+
+Core.lua
+Text.lua
+
+Data\Woordenboek.lua
+Data\Woordenboek_Batch1.lua
+Data\Namen.lua
+Data\Termen.lua
+Data\Start_Coldridge.lua
+Data\Start_DunMorogh.lua
+Data\Start_ClassRunes.lua
+
+Display.lua
+Reader.lua
+Vocab.lua
+Capture.lua
+Options.lua

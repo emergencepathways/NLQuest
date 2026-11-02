@@ -1,0 +1,65 @@
+-- SpeurtochtNL data: dwarf class-trainer runes in Coldridge Valley (level 1)
+-- Only the classes a dwarf can be in this era: warrior, paladin, hunter, rogue, priest.
+local _, NQ = ...
+
+NQ:AddQuests({
+
+[3106] = { en = "Simple Rune", tier = 1,
+  t = "Eenvoudige rune",
+  d = "Terwijl je me hielp, kreeg ik deze rune om aan jou te geven. Lees hem maar als je even tijd hebt. Volgens mij komt hij van Thran, de trainer van de krijgers. Kijk er even naar en zoek hem op in Anvilmar als je tijd hebt.",
+  o = "Lees de Simple Rune en praat met Thran Khorman in Coldridge Valley.",
+  c = "Nog een paar dingen die je waarschijnlijk gaat zien, zodat je het weet: dwergen die in een gevecht magie gebruiken in plaats van een geweer. Sommigen van ons die het Heilige Licht aanbidden, net als sommige mensen. En als laatste: troggs. Over hen leer je later meer, maar wat je nu moet weten, is dat ik hier ben om je te helpen.$b$bIk ben hier om je te leren hoe je een echte $c wordt. Als je denkt dat je meer training nodig hebt, kom dan terug, dan kijk ik wat ik kan doen.",
+  p = "Verdraaid, wat is het koud vandaag, hè? Het lijkt wel of de sneeuw nooit weggaat, $n.$b$bJe hebt het vast al gemerkt: er wonen nu gnomen in onze stad. Dat komt doordat ze hun eigen huis hebben opgeblazen. Vertel het niet verder, maar ik kan het ze bijna niet kwalijk nemen. Ik had ook explosieven gebruikt als Ironforge vol zat met Dark Irons of zoiets.",
+  g = { {"eenvoudige", "simple"}, {"rune", "rune"}, {"gevecht", "fight, battle"}, {"in plaats van", "instead of"},
+        {"aanbidden", "to worship"}, {"leren", "to teach / to learn"}, {"gemerkt", "noticed"},
+        {"opgeblazen", "blown up"}, {"kwalijk nemen", "to blame"}, {"explosieven", "explosives"} },
+},
+
+[3107] = { en = "Consecrated Rune", tier = 1,
+  t = "Gewijde rune",
+  d = "Terwijl je me hielp, kreeg ik deze rune om aan jou te geven. Lees hem maar als je even tijd hebt. Volgens mij komt hij van Bromos, de trainer van de paladijnen. Kijk er even naar en zoek hem op in Anvilmar als je tijd hebt.",
+  o = "Lees de Consecrated Rune en praat met Bromos Grummner in Coldridge Valley.",
+  c = "De mensen hebben ons veel geleerd over het Heilige Licht, en over hoe belangrijk hun orde voor hen is... en voor de bescherming van heel Azeroth. We hebben veel respect voor hun oude tradities. En voor hoe één persoon, één offer, het verschil kan maken tussen pijn en redding.$B$BWij gaan een tijdje samenwerken. Als je denkt dat je klaar bent, kom dan terug, dan kijken we of je training kunt krijgen. We kunnen je niet onvoorbereid de wereld in sturen, toch?",
+  p = "Zo, je bent er! En geen seconde te vroeg. Er is veel te doen in Coldridge Valley en daarbuiten. Ik heb jouw hulp net zo hard nodig als jij de mijne!$B$BJe bent nu een Ridder van de Silver Hand. Gedraag je ook zo.",
+  g = { {"gewijde", "consecrated"}, {"orde", "order (of knights)"}, {"bescherming", "protection"},
+        {"tradities", "traditions"}, {"offer", "sacrifice"}, {"verschil", "difference"}, {"redding", "salvation, rescue"},
+        {"samenwerken", "to work together"}, {"onvoorbereid", "unprepared"}, {"daarbuiten", "beyond (that)"},
+        {"ridder", "knight"}, {"gedraag je", "behave, act the part"} },
+},
+
+[3108] = { en = "Etched Rune", tier = 1,
+  t = "Gegraveerde rune",
+  d = "Terwijl je me hielp, kreeg ik deze rune om aan jou te geven. Lees hem maar als je even tijd hebt. Volgens mij komt hij van Thorgas, de trainer van de jagers. Kijk er even naar en zoek hem op in Anvilmar als je tijd hebt.",
+  o = "Lees de Etched Rune en praat met Thorgas Grimson in Coldridge Valley.",
+  c = "Eén ding moet je altijd onthouden: je moet respect hebben voor de wereld waarin je leeft. De dieren die naast jou willen vechten; de glans van je wapen; het gewicht van je munitie; de beet van een ijskoude wind. Al die dingen moet je heel goed kennen.$B$BIk help je zo goed als ik kan, maar het meeste werk moet je zelf doen. Als je denkt dat je klaar bent, kom dan terug en praat met me. Ik train je wanneer ik kan.",
+  p = "Je bent er! Fijn! Ik wed dat je me niet eens hoefde te volgen om de plek te vinden. Haha!$B$BOns beroep heeft veel oude tradities, $n. Het land leren kennen. Leren hoe je een beer volgt door de bergen. Zelfs alleen overleven met je verstand vraagt veel moed en slimheid. Denk je dat je dat kunt?",
+  g = { {"gegraveerde", "etched, engraved"}, {"onthouden", "to remember"}, {"glans", "shine, gleam"},
+        {"wapen", "weapon"}, {"gewicht", "weight"}, {"beet", "bite"}, {"ijskoude", "ice-cold, bitter"},
+        {"kennen", "to know (well)"}, {"beroep", "profession"}, {"volgen", "to follow, track"},
+        {"overleven", "to survive"}, {"verstand", "wits, mind"}, {"slimheid", "cleverness, cunning"} },
+},
+
+[3109] = { en = "Encrypted Rune", tier = 1,
+  t = "Versleutelde rune",
+  d = "Terwijl je me hielp, kreeg ik deze rune om aan jou te geven. Lees hem maar als je even tijd hebt. Volgens mij komt hij van Solm, de trainer van de schurken. Kijk er even naar en zoek hem op in Anvilmar als je tijd hebt.",
+  o = "Lees de Encrypted Rune en praat met Solm Hargrin in Coldridge Valley.",
+  c = "Hoe dan ook, als je rond gaat kijken in Coldridge heb je vast een keer training nodig. Kom gewoon terug als je denkt dat het nodig is, dan leer ik je wat ik weet: hier een trucje, daar een beweging. Je weet wel, de dingen die je in leven houden en je wat extra geld opleveren.$B$BEn let ook een beetje op onze vrienden de gnomen... Ze hebben het zwaar gehad, nu Gnomeregan... vernietigd is. Ze hebben onze hulp nodig om zich welkom te voelen.",
+  p = "Je bent er! Mooi!$B$BHet is de laatste tijd heel druk, dus ik ben blij dat er weer iemand van de Ironforge-clan bij ons komt. Te veel van ons kiezen voor magie en het goddelijke, naar mijn smaak. Niks tegen hen en wat ze geloven, maar er gaat niets boven een koud mes in je hand en een schaduw die je uit het licht houdt, snap je?",
+  g = { {"versleutelde", "encrypted"}, {"beweging", "move, maneuver"}, {"in leven houden", "keep alive"},
+        {"opleveren", "to yield, bring in"}, {"let op", "keep an eye on"}, {"vernietigd", "destroyed"},
+        {"goddelijke", "divine"}, {"naar mijn smaak", "for my taste"}, {"geloven", "to believe"},
+        {"mes", "knife, blade"}, {"schaduw", "shadow"} },
+},
+
+[3110] = { en = "Hallowed Rune", tier = 1,
+  t = "Heilige rune",
+  d = "Terwijl je me hielp, kreeg ik deze rune om aan jou te geven. Lees hem maar als je even tijd hebt. Volgens mij komt hij van Branstock, de trainer van de priesters. Kijk er even naar en zoek hem op in Anvilmar als je tijd hebt.",
+  o = "Lees de Hallowed Rune en praat met Branstock Khalder in Anvilmar.",
+  c = "Ik ben degene die je kan trainen terwijl je je weg leert vinden in Coldridge Valley. Als je denkt dat je klaar bent, kom dan terug. Dan kijken we of ik je een of twee nieuwe spreuken kan leren, om die vervloekte troggs uit de vallei te houden.$B$BJe hebt het Licht aan je kant, samen met heel Ironforge, $n... dus geen druk om iets bijzonders te worden, hoor.",
+  p = "Ach! Je bent er, $n! Prachtig!$B$BIk wilde net zeggen: ik begon het geloof te verliezen dat je nog zou komen... snap je, het geloof verliezen? Dat is een grapje, $gjongen:meid;... ach, laat maar. Je bent hier niet voor mijn slechte grappen.",
+  g = { {"heilige", "holy, hallowed"}, {"degene", "the one (who)"}, {"spreuken", "spells"}, {"vallei", "valley"},
+        {"kant", "side"}, {"druk", "pressure"}, {"geloof", "faith, belief"}, {"verliezen", "to lose"},
+        {"grapje", "little joke"}, {"laat maar", "never mind"}, {"grappen", "jokes"} },
+},
+
+})

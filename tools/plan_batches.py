@@ -1,0 +1,136 @@
+#!/usr/bin/env python3
+"""
+Speurtocht.NL - turn route.txt into numbered translation batches.
+
+Usage (from the repo root):
+    python3 tools/plan_batches.py            write source/batches.json and print the plan
+    python3 tools/plan_batches.py --words 4000
+
+Rules
+- Only quests an Alliance character can get (catalog side alliance/both).
+- Quests already in Data/*.lua are marked done and never planned again.
+- A batch holds up to ~4,000 English words (one work session, safe for one
+  Claude turn). Big zones are split by quest level; chains stay in order.
+- A line ending in "*" collects everything not yet planned (catch-all).
+- Batch numbers are stable: finished batches keep their number; only the
+  unfinished part of the plan is renumbered.
+"""
+import glob
+import json
+import os
+import re
+import sys
+
+ROOT = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
+CATALOG = os.path.join(ROOT, "source", "catalog.json")
+OUT = os.path.join(ROOT, "source", "batches.json")
+
+
+def translated_ids():
+    ids = set()
+    for path in glob.glob(os.path.join(ROOT, "Data", "*.lua")):
+        ids |= {int(x) for x in re.findall(r"^\[(\d+)\]\s*=\s*\{", open(path, encoding="utf-8").read(), re.M)}
+    return ids
+
+
+def slug(s):
+    return re.sub(r"[^a-z0-9]+", "-", s.lower()).strip("-")
+
+
+def parse_route(path):
+    max_level, entries = 60, []
+    for raw in open(path, encoding="utf-8"):
+        line = raw.split("#", 1)[0].strip()
+        if not line:
+            continue
+        if line.startswith("max-level:"):
+            max_level = int(line.split(":", 1)[1])
+            continue
+        cap = None
+        if "@" in line:
+            line, cap = [x.strip() for x in line.split("@", 1)]
+            cap = int(cap)
+        kind, name = "zone", line
+        m = re.match(r"(class|profession|dungeon|other):\s*(.+)", line)
+        if m:
+            kind, name = m.group(1), m.group(2).strip()
+        entries.append((kind, name, cap))
+    return max_level, entries
+
+
+def matches(q, kind, name):
+    if kind == "dungeon":
+        return q["dungeon"] == name and q["category"] in ("dungeon", "attunement")
+    if kind == "zone":
+        return q["zone"] == name and q["category"] == "zone"
+    if kind == "class":
+        return q["category"] == "class" and q["zone"] == name
+    if kind == "profession":
+        return q["category"] == "profession" and q["zone"] == name
+    return q["category"] in ("other",) and q["zone"] == name
+
+
+def main():
+    limit = 4000
+    if "--words" in sys.argv:
+        limit = int(sys.argv[sys.argv.index("--words") + 1])
+    catalog = json.load(open(CATALOG, encoding="utf-8"))
+    done = translated_ids()
+    max_level, route = parse_route(os.path.join(ROOT, "route.txt"))
+    old = json.load(open(OUT, encoding="utf-8")) if os.path.exists(OUT) else {"batches": []}
+    finished = [b for b in old["batches"] if all(q in done for q in b["quests"])]
+
+    planned = set(done)
+    for b in finished:
+        planned |= set(b["quests"])
+    pool = {int(k): v for k, v in catalog.items()
+            if v["side"] != "horde" and v["level"] <= max_level and int(k) not in planned}
+
+    batches, cur, cur_words, cur_names = [], [], 0, []
+
+    def flush():
+        nonlocal cur, cur_words, cur_names
+        if cur:
+            batches.append({"quests": cur, "words": cur_words, "name": " + ".join(dict.fromkeys(cur_names))})
+        cur, cur_words, cur_names = [], 0, []
+
+    for kind, name, cap in route:
+        if name == "*":
+            picked = sorted(pool)
+            label = "Overige"
+        else:
+            picked = [i for i, q in pool.items() if matches(q, kind, name) and (cap is None or q["level"] <= cap)]
+            label = name if kind in ("zone", "dungeon") else "%s %s" % (kind, name)
+            if cap:
+                label += " ≤%d" % cap
+        picked.sort(key=lambda i: (pool[i]["level"], i))
+        for i in picked:
+            w = pool[i]["words"]
+            if cur and cur_words + w > limit:
+                flush()
+            cur.append(i)
+            cur_words += w
+            cur_names.append(label)
+            del pool[i]
+        # start each zone with a fresh batch when the current one is already well filled
+        if cur_words > limit * 0.6:
+            flush()
+    flush()
+
+    start = (max(b["n"] for b in finished) + 1) if finished else 2
+    for n, b in enumerate(batches, start):
+        b["n"] = n
+        b["slug"] = "%02d-%s" % (n, slug(b["name"].split(" + ")[0]))[:40]
+    plan = {"limit": limit, "max_level": max_level, "batches": finished + batches}
+    json.dump(plan, open(OUT, "w", encoding="utf-8"), ensure_ascii=False, indent=1)
+
+    total_q = sum(len(b["quests"]) for b in batches)
+    total_w = sum(b["words"] for b in batches)
+    print("%d translated, %d finished batches; %d quests (%d words) left in %d batches -> %s" % (
+        len(done), len(finished), total_q, total_w, len(batches), os.path.relpath(OUT, ROOT)))
+    for b in batches[:400]:
+        print("  %3d  %4d quests %6d words  %s" % (b["n"], len(b["quests"]), b["words"], b["name"]))
+
+
+if __name__ == "__main__":
+    main()

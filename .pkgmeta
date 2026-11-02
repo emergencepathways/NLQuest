@@ -1,0 +1,14 @@
+# Packaging for CurseForge / WowUp releases (BigWigs packager).
+# Only the addon itself goes into the zip players download.
+package-as: SpeurtochtNL
+
+ignore:
+  - tools
+  - source
+  - batches
+  - docs
+  - work
+  - route.txt
+  - ROADMAP.md
+  - CHANGELOG.md
+  - .github

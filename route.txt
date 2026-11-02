@@ -1,0 +1,124 @@
+# Speurtocht.NL translation route
+#
+# One entry per line, in the order quests should be translated.
+# tools/plan_batches.py turns this into batches of about 4,000 English words
+# (one batch = one work session). Reorder lines to change priorities; already
+# translated quests are skipped automatically.
+#
+# Entry forms:
+#   Zone Name                 every Alliance-available quest in that zone
+#   Zone Name @ 20            ...up to quest level 20 only (rest comes later in the list)
+#   class: Druid @ 20         class quests
+#   profession: Cooking       profession quests
+#   dungeon: Gnomeregan       dungeon quests (grouped by dungeon, wherever Blizzard filed them)
+#   other: Seasonal           event / misc categories
+#
+# Default cap for this phase: quest level 45 (see "max-level" below).
+max-level: 45
+
+# --- Phase 1: starting zones (Dwarf done in 0.1–0.2) -------------------------
+Coldridge Valley
+Dun Morogh
+Shadowglen
+Teldrassil
+Darnassus
+class: Druid @ 10
+class: Hunter @ 10
+class: Warrior @ 10
+class: Rogue @ 10
+class: Priest @ 10
+class: Paladin @ 10
+
+# --- Phase 2: levels 10-20 ----------------------------------------------------
+Loch Modan @ 20
+Ironforge
+Darkshore @ 20
+Deeprun Tram
+Westfall @ 20
+Redridge Mountains @ 22
+dungeon: The Deadmines
+dungeon: Wailing Caverns
+class: Druid @ 20
+class: Warrior @ 20
+class: Paladin @ 20
+class: Hunter @ 20
+class: Rogue @ 20
+class: Priest @ 20
+
+# --- Phase 3: levels 20-30 ----------------------------------------------------
+Ashenvale @ 30
+Wetlands
+Darkshore
+Loch Modan
+Stonetalon Mountains
+Redridge Mountains
+Duskwood @ 32
+Westfall
+The Barrens
+dungeon: Blackfathom Deeps
+dungeon: The Stockade
+dungeon: Shadowfang Keep
+dungeon: Gnomeregan
+dungeon: Razorfen Kraul
+
+# --- Phase 4: levels 30-45 ----------------------------------------------------
+Hillsbrad Foothills
+Arathi Highlands
+Thousand Needles
+Ashenvale
+Desolace
+Stranglethorn Vale
+Duskwood
+Alterac Mountains
+Dustwallow Marsh
+Swamp of Sorrows
+Badlands
+Feralas
+Tanaris
+The Hinterlands
+Searing Gorge
+dungeon: Scarlet Monastery
+dungeon: Razorfen Downs
+dungeon: Uldaman
+dungeon: Zul'Farrak
+dungeon: Maraudon
+
+# --- Cities, class quests to 45, the rest of the starting zones --------------
+Stormwind City
+Northshire
+Elwynn Forest
+class: Druid
+class: Warrior
+class: Paladin
+class: Hunter
+class: Rogue
+class: Priest
+class: Mage
+class: Warlock
+
+# --- Professions, battlegrounds and misc (still level <= 45) -----------------
+profession: Cooking
+profession: First Aid
+profession: Fishing
+profession: Blacksmithing
+profession: Leatherworking
+profession: Herbalism
+profession: Alchemy
+profession: Engineering
+Warsong Gulch
+Arathi Basin
+Silithus
+other: Seasonal
+other: Invasion
+other: Ahn'Qiraj War
+other: Darkmoon Faire
+other: Special
+other: Treasure Map
+Miscellaneous
+Northshire Abbey
+Kharanos
+Durotar
+Mulgore
+Tirisfal Glades
+Silverpine Forest
+*
