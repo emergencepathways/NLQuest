@@ -23,6 +23,7 @@ Data\Batch_04_Darnassus.lua
 Data\Batch_05_Class_Hunter_10.lua
 Data\Batch_06_Class_Priest_10.lua
 Data\Batch_07_Class_Paladin_10.lua
+Data\Batch_08_Darkshore_14.lua
 
 Display.lua
 Reader.lua
