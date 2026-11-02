@@ -1,0 +1,1572 @@
+{
+  "quests": {
+    "120": {
+      "t": "Boodschapper naar Stormwind",
+      "d": "Dit zijn zware tijden, $c. Het dorp wordt steeds aangevallen. Zonder versterking verliezen we zeker. Ik geef je nu een bericht, en het is heel belangrijk. Breng dit rapport meteen naar General Marcus Jonathan in Stormwind. Kom daarna direct terug naar mij. Vertel me dan het nieuws, goed of slecht. $b$bSchiet nu op!",
+      "o": "Magistrate Solomon heeft je een rapport gegeven. Je moet het naar General Marcus Jonathan in Stormwind brengen. De rechter wil dat je terugkomt zodra je het hebt afgeleverd.",
+      "p": "Wat heb je daar?",
+      "c": "Op de plaats rust, $C.$b$bMagistrate Solomon is een edele leider. Zijn woorden zijn heel belangrijk voor mij. Ik ga de koning om raad vragen. Ik leg hem de situatie duidelijk uit. Zeg tegen de goede rechter dat het leger van Stormwind hem steunt. We sturen versterking zodra Zijne Majesteit het bevel geeft.",
+      "g": [
+        [
+          "zware tijden",
+          "hard times, trying times"
+        ],
+        [
+          "aangevallen",
+          "attacked (aanvallen)"
+        ],
+        [
+          "versterking",
+          "reinforcements"
+        ],
+        [
+          "rapport",
+          "report"
+        ],
+        [
+          "afgeleverd",
+          "delivered (afleveren)"
+        ],
+        [
+          "rechter",
+          "judge"
+        ],
+        [
+          "Op de plaats rust",
+          "At ease (military command)"
+        ],
+        [
+          "edele",
+          "noble (edel)"
+        ],
+        [
+          "om raad vragen",
+          "to ask for advice, to seek counsel"
+        ],
+        [
+          "steunt",
+          "supports (steunen)"
+        ],
+        [
+          "Zijne Majesteit",
+          "His Majesty"
+        ],
+        [
+          "bevel",
+          "order, command"
+        ]
+      ]
+    },
+    "121": {
+      "t": "Boodschapper naar Stormwind",
+      "d": "Ik wacht op een antwoord van de koning. Breng intussen deze brief naar Magistrate Solomon. $b$bJe mag gaan, $c!",
+      "o": "Breng de antwoordbrief van General Marcus Jonathan naar Magistrate Solomon in Lakeshire.",
+      "p": "Heeft de generaal nieuws gestuurd? Komt er versterking?",
+      "c": "Bedankt voor je tijd, $C. Je hebt Lakeshire en Stormwind goed gediend. Daarom geef ik je deze munten.$b$bExcuseer me nu. Deze brieven zijn een beetje een raadsel voor me. Er is iets mis in ons koninkrijk. Ik ben bang dat dit het begin van een conflict is, niet het einde.",
+      "g": [
+        [
+          "intussen",
+          "meanwhile"
+        ],
+        [
+          "Je mag gaan",
+          "Dismissed, you may go"
+        ],
+        [
+          "antwoordbrief",
+          "letter of response"
+        ],
+        [
+          "gediend",
+          "served (dienen)"
+        ],
+        [
+          "munten",
+          "coins (munt)"
+        ],
+        [
+          "Excuseer me",
+          "Excuse me"
+        ],
+        [
+          "raadsel",
+          "mystery, riddle"
+        ],
+        [
+          "koninkrijk",
+          "kingdom"
+        ],
+        [
+          "conflict",
+          "conflict"
+        ]
+      ]
+    },
+    "143": {
+      "t": "Boodschapper naar Westfall",
+      "d": "Er is iets vreemds aan de hand met het leger van Stormwind. Ze hadden hier allang met veel soldaten moeten zijn. Maar we hebben geen tijd te verliezen. Ik ga niet stil toekijken terwijl de mensen van Lakeshire hun leven geven. Ik moet proberen meer hulp te vinden. Ik heb gehoord dat er in Westfall een militie van gewone mensen ontstaat.$b$bBreng dit verzoek om hulp naar hun leider, Gryan Stoutmantle. Misschien kunnen de mannen van Stoutmantle ons hier helpen, tot de koning extra troepen stuurt.",
+      "o": "Magistrate Solomon wil dat je zijn verzoek om hulp naar Gryan Stoutmantle in Westfall brengt.",
+      "p": "Gegroet, $C. Wat kom je doen bij The People's Militia?",
+      "c": "Goede boodschapper, je hebt je meester goed gediend.",
+      "g": [
+        [
+          "aan de hand",
+          "going on"
+        ],
+        [
+          "leger",
+          "army"
+        ],
+        [
+          "allang",
+          "long ago, long since"
+        ],
+        [
+          "toekijken",
+          "to watch, to stand by"
+        ],
+        [
+          "militie",
+          "militia"
+        ],
+        [
+          "ontstaat",
+          "is forming (ontstaan)"
+        ],
+        [
+          "verzoek om hulp",
+          "plea, request for help"
+        ],
+        [
+          "troepen",
+          "troops (troep)"
+        ],
+        [
+          "Gegroet",
+          "Hail, greetings"
+        ],
+        [
+          "boodschapper",
+          "messenger"
+        ]
+      ]
+    },
+    "144": {
+      "t": "Boodschapper naar Westfall",
+      "d": "De brief van Magistrate Solomon doet me pijn. Hij kent de oorlog in Westfall duidelijk niet. Anders zou hij geen hulp van de Militia verwachten. Ook ons heeft Stormwind in de steek gelaten. Anders hadden we de Militia niet nodig gehad.$b$bBreng dit antwoord naar je meester in Redridge, $c. En vertel hem dat mijn hart zwaar is. We hebben goede mannen verloren.",
+      "o": "Ga terug naar Magistrate Solomon met het antwoord van Gryan Stoutmantle.",
+      "p": "Komt The People's Militia snel? Is het nieuws van Lord Stoutmantle goed?",
+      "c": "Nou, dit is helemaal niet goed. Ik wist niet dat het bij Stoutmantle net zo slecht ging als hier in Lakeshire. Wat is er zo belangrijk dat het leger van Stormwind zijn eigen volk alleen laat? Bah, ik moet niet hardop nadenken.$b$bHier, boodschapper. Neem deze munten als dank voor je dienst aan het dorp. Misschien vraag ik je later weer om hulp.",
+      "g": [
+        [
+          "doet me pijn",
+          "pains me, hurts me"
+        ],
+        [
+          "verwachten",
+          "to expect"
+        ],
+        [
+          "in de steek gelaten",
+          "deserted, abandoned (in de steek laten)"
+        ],
+        [
+          "zwaar",
+          "heavy"
+        ],
+        [
+          "verloren",
+          "lost (verliezen)"
+        ],
+        [
+          "volk",
+          "people"
+        ],
+        [
+          "hardop",
+          "aloud, out loud"
+        ],
+        [
+          "dienst",
+          "service"
+        ]
+      ]
+    },
+    "116": {
+      "t": "Droge tijden",
+      "d": "Ik zit hier echt in de problemen, $N. De flessen zijn bijna leeg. De laatste levering drank is al lang te laat. De invasie van de orks is een hel geweest.$b$bMisschien wil je voor mij werken?$b$bHaal een vat Thunderbrew Lager bij Grimbooze Thunderbrew in de heuvels van Westfall. Haal ook een vat Merlot uit Stormwind, een fles Moonshine uit Darkshire en een leren zak Sweet Rum uit Goldshire. Breng ze naar mij terug, dan zorg ik voor een beloning.",
+      "o": "Barkeep Daniels in Lakeshire wil een vat Thunderbrew Lager, een vat Merlot, een fles Moonshine en een leren zak Sweet Rum.",
+      "p": "Haal een vat Thunderbrew Lager bij Grimbooze Thunderbrew in de heuvels van Westfall, een vat Merlot uit Stormwind, een fles Moonshine uit Darkshire en een leren zak Sweet Rum uit Goldshire. Breng ze naar mij terug, dan zorg ik voor een beloning.",
+      "c": "Goed gedaan, $N! Ik weet dat je ver hebt moeten reizen voor al deze mooie drank. Maar nu worden mijn klanten weer blij! $b$bMijn vrouw is een goede naaister. Neem deze mantel als dank voor je hulp. Zij heeft hem gemaakt.",
+      "g": [
+        [
+          "in de problemen",
+          "in a pinch, in trouble"
+        ],
+        [
+          "levering",
+          "delivery, shipment"
+        ],
+        [
+          "drank",
+          "drink, liquor, booze"
+        ],
+        [
+          "invasie",
+          "invasion"
+        ],
+        [
+          "een hel",
+          "hell"
+        ],
+        [
+          "vat",
+          "keg, cask, barrel"
+        ],
+        [
+          "leren zak",
+          "leather skin (bag)"
+        ],
+        [
+          "klanten",
+          "customers, patrons (klant)"
+        ],
+        [
+          "naaister",
+          "seamstress"
+        ],
+        [
+          "mantel",
+          "cloak"
+        ]
+      ]
+    },
+    "129": {
+      "t": "Een gratis lunch",
+      "d": "Wil je iets voor me doen? Ik heb een lunch gemaakt voor Guard Parker, maar hij is op patrouille... Hij is een grote, sterke wachter van Stormwind. Hij kan zichzelf verdedigen. Maar daarbuiten is het veel te gevaarlijk voor een gewone dorpeling zoals ik.$B$BBreng jij zijn lunch? Kom daarna hier terug, dan krijg jij een gratis lunch! Parker patrouilleert op het stuk weg naar Duskwood.",
+      "o": "Breng Parker's Lunch naar Guard Parker. Hij patrouilleert op de weg naar Darkshire.",
+      "p": "Heeft Darcy me een lunch gestuurd? Wat heeft ze toch een goed hart. Nou... geef maar!",
+      "c": "Bedankt, ik kan die maaltijd goed gebruiken. Lakeshire bewaken tegen de orks en de gnolls is zwaar werk!",
+      "g": [
+        [
+          "op patrouille",
+          "on patrol"
+        ],
+        [
+          "wachter",
+          "guard"
+        ],
+        [
+          "verdedigen",
+          "to defend"
+        ],
+        [
+          "gevaarlijk",
+          "dangerous"
+        ],
+        [
+          "dorpeling",
+          "villager, townsperson"
+        ],
+        [
+          "patrouilleert",
+          "patrols (patrouilleren)"
+        ],
+        [
+          "maaltijd",
+          "meal"
+        ],
+        [
+          "bewaken",
+          "to guard"
+        ]
+      ]
+    },
+    "130": {
+      "t": "Naar de kruidenvrouw",
+      "d": "Wil je wat bloemen voor Darcy halen, voor je teruggaat? Doe het voor mij. Je kunt ze krijgen in de kruidenwinkel in Lakeshire, aan de westkant van het dorp.$B$BMaar als je de bloemen haalt... vertel de kruidenvrouw, Martie, niet van wie ze zijn, of voor wie ze zijn...",
+      "o": "Praat met de kruidenvrouw van Redridge, Martie Jainrose.",
+      "c": "Wil je een bos bloemen? Je bent nog niet lang in het dorp... Heb je hier al een liefje gevonden?$B$BIk weet dat ik niet nieuwsgierig moet zijn. Maar het is fijn om te zien dat er liefde in de lucht hangt... vooral in gevaarlijke tijden als deze.",
+      "g": [
+        [
+          "kruidenvrouw",
+          "herbalist (woman)"
+        ],
+        [
+          "kruidenwinkel",
+          "herbalist shop"
+        ],
+        [
+          "westkant",
+          "west end, west side"
+        ],
+        [
+          "bos bloemen",
+          "bouquet of flowers"
+        ],
+        [
+          "liefje",
+          "sweetheart"
+        ],
+        [
+          "nieuwsgierig",
+          "curious, nosy"
+        ],
+        [
+          "liefde in de lucht",
+          "love in the air"
+        ]
+      ]
+    },
+    "131": {
+      "t": "Narcissen bezorgen",
+      "d": "Hier is je bos bloemen. Ik heb narcissen voor je gekozen. Dat zijn mijn lievelingsbloemen!",
+      "o": "Geef Darcy het Daffodil Bouquet.",
+      "p": "Hallo weer, $N. Vond Parker de lunch lekker?",
+      "c": "Oh, wat mooi! Ik wil ze meteen in het water zetten!$b$bMaar... dit zijn de lievelingsbloemen van Martie. Parker heeft je toch niet naar die jaloerse feeks gestuurd voor deze bloemen? Je hebt haar toch niet verteld voor wie ze waren? Als je dat wel deed, zou het me niet verbazen als ze ze vergiftigd heeft.$b$bMaar het is niet jouw schuld. Dank je, en hier is je maaltijd.",
+      "g": [
+        [
+          "narcissen",
+          "daffodils (narcis)"
+        ],
+        [
+          "bezorgen",
+          "to deliver"
+        ],
+        [
+          "lievelingsbloemen",
+          "favourite flowers"
+        ],
+        [
+          "jaloerse",
+          "jealous (jaloers)"
+        ],
+        [
+          "feeks",
+          "vixen, shrew"
+        ],
+        [
+          "verbazen",
+          "to surprise"
+        ],
+        [
+          "vergiftigd",
+          "poisoned (vergiftigen)"
+        ],
+        [
+          "schuld",
+          "fault"
+        ]
+      ]
+    },
+    "3741": {
+      "t": "De ketting van Hilary",
+      "d": "Mijn vriendin Hilary is haar ketting kwijt, en we kunnen hem niet vinden. We hebben de hele dag hier gevist, en we hebben hier al overal gezocht. Ik denk dat hij in het meer is gevallen. Onze ouders willen niet dat we in het meer zwemmen... Mijn mama zegt dat er gemene dingen onder water zijn. Maar jij lijkt niet bang voor gemene dingen.$B$BWil je hem voor haar zoeken, alsjeblieft?",
+      "o": "Zoek Hilary's Necklace en breng hem terug naar Hilary in Lakeshire.",
+      "p": "Hoi. Ik mis mijn ketting. Mijn papa heeft hem voor me gekocht. Papa zegt dat er monsters in het meer zijn. Heb je monsters in elkaar geslagen?",
+      "c": "Dank je dat je mijn ketting hebt gevonden, meneer $C... je bent heel lief! Mijn poesje bedankt je ook - toch, Effsee?",
+      "g": [
+        [
+          "ketting",
+          "necklace"
+        ],
+        [
+          "kwijt",
+          "lost"
+        ],
+        [
+          "gevist",
+          "fished (vissen)"
+        ],
+        [
+          "gezocht",
+          "searched (zoeken)"
+        ],
+        [
+          "gemene",
+          "mean, nasty (gemeen)"
+        ],
+        [
+          "in elkaar geslagen",
+          "beaten up (in elkaar slaan)"
+        ],
+        [
+          "poesje",
+          "kitty"
+        ]
+      ]
+    },
+    "125": {
+      "t": "Het verloren gereedschap",
+      "d": "Ik kan hier echt wat hulp gebruiken, $N. Het dorp wordt aangevallen, dus het is moeilijk om spullen te krijgen. Mijn gereedschap zou met een wagen uit Goldshire komen. Maar de brug was opgeblazen. Toen hebben we het gereedschap in een boot gezet. Maar de orks raakten de boot met een katapult. Echt pech: mijn gereedschapskist zonk meteen naar de bodem van het meer.$b$bHaal mijn gereedschapskist terug, $N. Dan zorg ik dat het de moeite waard is.",
+      "o": "Foreman Oslow in Lakeshire wil dat je zijn gereedschapskist van de bodem van Lake Everstill haalt.",
+      "p": "Heb je mijn gereedschap gevonden?",
+      "c": "Uitstekend teruggehaald, $N! Ik dacht niet dat ik dit gereedschap ooit terug zou zien.",
+      "g": [
+        [
+          "gereedschap",
+          "tools"
+        ],
+        [
+          "spullen",
+          "supplies, stuff"
+        ],
+        [
+          "wagen",
+          "wagon"
+        ],
+        [
+          "opgeblazen",
+          "blown up (opblazen)"
+        ],
+        [
+          "katapult",
+          "catapult"
+        ],
+        [
+          "gereedschapskist",
+          "toolbox"
+        ],
+        [
+          "zonk",
+          "sank (zinken)"
+        ],
+        [
+          "bodem",
+          "bottom"
+        ],
+        [
+          "de moeite waard",
+          "worth your while"
+        ]
+      ]
+    },
+    "244": {
+      "t": "Gnolls komen dichterbij",
+      "d": "Gegroet, $c. Ik moet dit stuk weg bewaken. De weg is nu nog veilig. Maar ik heb kampen van gnolls gezien, ten noorden en ten oosten van hier.$B$BLakeshire moet weten dat de gnolls zich verzamelen! Ga naar Deputy Feldon in Lakeshire en vertel hem over de gnolls. Doe dat, en Feldon geeft je vast het loon van een verkenner.$B$BFeldon controleert meestal het gebied ten zuiden van de brug naar Lakeshire.",
+      "o": "Meld je bij Deputy Feldon.",
+      "c": "Zijn er Redridge gnolls zo dicht bij Elwynn?? Misschien zijn ze klaar om ons thuisland binnen te vallen. Binnenkort worden misschien niet alleen de mensen van Lakeshire aangevallen!$b$bHier is je loon, al breng je heel slecht nieuws. En het komt op een slecht moment, want we zijn er niet goed op voorbereid.",
+      "g": [
+        [
+          "dichterbij",
+          "closer"
+        ],
+        [
+          "kampen",
+          "camps (kamp)"
+        ],
+        [
+          "zich verzamelen",
+          "to gather"
+        ],
+        [
+          "loon",
+          "wage, pay"
+        ],
+        [
+          "verkenner",
+          "scout"
+        ],
+        [
+          "controleert",
+          "inspects, checks (controleren)"
+        ],
+        [
+          "Meld je",
+          "Report (zich melden)"
+        ],
+        [
+          "thuisland",
+          "homeland"
+        ],
+        [
+          "binnen te vallen",
+          "to invade (binnenvallen)"
+        ],
+        [
+          "voorbereid",
+          "prepared (voorbereiden)"
+        ]
+      ]
+    },
+    "246": {
+      "t": "De dreiging inschatten",
+      "d": "We hebben geen mannen over. Maar we moeten iets doen aan de gnolls die je hebt gemeld.$B$BZoek in het zuiden van Redridge naar gnolls. Val ze lastig en dood er zo veel als je kunt. Kom dan terug en vertel me hoeveel het er zijn, en hoe groot het gevaar is. Je vindt die gnolls in kampen langs de hele zuidelijke weg van Redridge.$B$BDoe dit voor het leger van Stormwind, $N, en je krijgt een beloning.",
+      "o": "Dood 10 Redridge Mongrels en 6 Redridge Poachers. Meld je daarna weer bij Deputy Feldon in Lakeshire.",
+      "p": "Sorry, $N, maar we hebben hier onze handen vol. Als je niets te melden hebt, moet ik aan andere dingen denken.",
+      "c": "<Deputy Feldon luistert naar je verslag...>$b$bDaar zit een flinke groep gnolls in een kamp. En volgens jou zijn ze sterk. Het was vast niet makkelijk om dit uit te zoeken.$b$bAlsjeblieft, $N. We zijn dankbaar voor je hulp.$b$bEn praat met Marshal Marris en Magistrate Solomon in Lakeshire, als je dat nog niet hebt gedaan. Onze situatie wordt steeds wanhopiger. Die twee hebben je vast nodig.",
+      "g": [
+        [
+          "dreiging",
+          "threat"
+        ],
+        [
+          "inschatten",
+          "to assess"
+        ],
+        [
+          "gemeld",
+          "reported (melden)"
+        ],
+        [
+          "Val ze lastig",
+          "Harry them (lastigvallen)"
+        ],
+        [
+          "zuidelijke",
+          "southern (zuidelijk)"
+        ],
+        [
+          "onze handen vol",
+          "our hands full"
+        ],
+        [
+          "verslag",
+          "report"
+        ],
+        [
+          "flinke",
+          "sizable, considerable (flink)"
+        ],
+        [
+          "uit te zoeken",
+          "to find out (uitzoeken)"
+        ],
+        [
+          "wanhopiger",
+          "more desperate (wanhopig)"
+        ]
+      ]
+    },
+    "92": {
+      "t": "Goulash uit Redridge",
+      "d": "Ik maak heel graag Redridge Goulash voor je. Maar er is een klein probleem. Tijdens de laatste opstand van de orks heb ik de hele brigade soldaten van Stormwind eten gegeven. Nu is mijn kast leeg. Maar als jij me de ingrediënten brengt, help ik je graag.$b$bBreng me vijf stukken Tough Condor Meat, vijf Great Goretusk Snouts en vijf porties Crisp Spider Meat.",
+      "o": "Chef Breanna in Lakeshire wil vijf stukken Tough Condor Meat, vijf Great Goretusk Snouts en vijf porties Crisp Spider Meat.",
+      "p": "Ik heb nog steeds vijf stukken Tough Condor Meat, vijf Great Goretusk Snouts en vijf porties Crisp Spider Meat nodig.",
+      "c": "Goed gedaan, $N. En wat een mooie stukken! Hier is je heerlijke lekkernij: Redridge Goulash!",
+      "g": [
+        [
+          "goulash",
+          "goulash (stew)"
+        ],
+        [
+          "opstand",
+          "uprising"
+        ],
+        [
+          "brigade",
+          "brigade"
+        ],
+        [
+          "kast",
+          "cupboard"
+        ],
+        [
+          "ingrediënten",
+          "ingredients (ingrediënt)"
+        ],
+        [
+          "porties",
+          "helpings, portions (portie)"
+        ],
+        [
+          "heerlijke",
+          "delicious (heerlijk)"
+        ],
+        [
+          "lekkernij",
+          "delicacy, treat"
+        ]
+      ]
+    },
+    "118": {
+      "t": "De prijs van hoefijzers",
+      "d": "Ik heb zo veel ijzer gebruikt voor de uitrusting van de wachters van Stormwind. Nu heb ik niet genoeg om de paarden in de stal hoefijzers te geven!$B$BBreng dit briefje naar Blacksmith Argus in Goldshire. Het briefje legt hem mijn probleem uit en vraagt om een levering hoefijzers.",
+      "o": "Breng Verner's Note naar Smith Argus in Goldshire.",
+      "p": "Wat is dat? Heeft Verner je gestuurd, zeg je? Geef me dan zijn briefje maar. En PRAAT HARDER!",
+      "c": "Heh, dus de oude Verner heeft hoefijzers nodig, hè!?!",
+      "g": [
+        [
+          "hoefijzers",
+          "horseshoes (hoefijzer)"
+        ],
+        [
+          "ijzer",
+          "iron"
+        ],
+        [
+          "uitrusting",
+          "equipment, outfitting"
+        ],
+        [
+          "stal",
+          "stable"
+        ],
+        [
+          "briefje",
+          "note"
+        ],
+        [
+          "legt",
+          "explains (uitleggen: legt ... uit)"
+        ],
+        [
+          "levering",
+          "shipment, delivery"
+        ],
+        [
+          "PRAAT HARDER",
+          "SPEAK UP"
+        ]
+      ]
+    },
+    "119": {
+      "t": "Terug naar Verner",
+      "d": "Goed, ik geef hem zijn 50 hoefijzers...$B$BHier zijn ze, ingepakt en klaar om te gaan! Zeg tegen Verner dat het fijn was om zaken met hem te doen. En zorg dat hij het briefje leest dat aan de kist vastzit!",
+      "o": "Ga terug naar Verner Osgood in Redridge. Geef hem de Crate of Horseshoes.",
+      "p": "Mooi, je bent terug! Heb je de hoefijzers?",
+      "c": "Dank je, hier heb ik echt wat aan.$b$bMaar wat is dit? Argus heeft een briefje bij de kist gedaan... Wat?? Wil Argus dat ik hem BETAAL? Bah!$b$bNou, $N, bedankt voor je hulp.",
+      "g": [
+        [
+          "hoefijzers",
+          "horseshoes (hoefijzer)"
+        ],
+        [
+          "ingepakt",
+          "packed up, boxed up (inpakken)"
+        ],
+        [
+          "zaken met hem te doen",
+          "doing business with him"
+        ],
+        [
+          "zorg dat",
+          "make sure that (zorgen)"
+        ],
+        [
+          "kist",
+          "crate, chest"
+        ],
+        [
+          "vastzit",
+          "is attached (vastzitten)"
+        ],
+        [
+          "BETAAL",
+          "PAY (betalen)"
+        ]
+      ]
+    },
+    "122": {
+      "t": "Buikschubben",
+      "d": "Ik heb buikschubben van zwarte drakenjongen nodig. Daarmee betaal ik de hoefijzers die Argus me uit Goldshire stuurde. Breng me er 6. Dan kan ik Argus een deel geven... en heb ik genoeg over om iets voor jou te maken.$B$BZwarte drakenjongen vliegen vaak rond ten zuiden van Lakeshire. Maar ze zwerven graag. Misschien moet je gewoon goed opletten en op ze jagen als je ze ziet.",
+      "o": "Verzamel 6 Underbelly Whelp Scales van Black Dragon Whelps en breng ze naar Verner Osgood in Redridge.",
+      "p": "Ik weet dat die hebberige Argus iemand stuurt om zijn schubben op te halen als ik ze niet snel geef. Heb je die schubben al gevonden?",
+      "c": "Bedankt! Hiermee kan ik mijn schuld bij Argus afbetalen...",
+      "g": [
+        [
+          "buikschubben",
+          "underbelly scales (buikschub)"
+        ],
+        [
+          "drakenjongen",
+          "dragon whelps (drakenjong)"
+        ],
+        [
+          "een deel",
+          "a part, some"
+        ],
+        [
+          "zwerven",
+          "to wander"
+        ],
+        [
+          "opletten",
+          "to keep an eye out, to pay attention"
+        ],
+        [
+          "hebberige",
+          "greedy (hebberig)"
+        ],
+        [
+          "schubben",
+          "scales (schub)"
+        ],
+        [
+          "schuld",
+          "debt"
+        ],
+        [
+          "afbetalen",
+          "to pay off"
+        ]
+      ]
+    },
+    "145": {
+      "t": "Boodschapper naar Darkshire",
+      "d": "Ik heb je hulp weer nodig. Ik heb een brief geschreven aan Lord Ebonlocke. Ik vraag hem om zijn getrainde wachters te sturen, de Night Watch. Zij moeten Lakeshire helpen verdedigen. Dit bericht moet heel snel bij hem komen. Wees heel voorzichtig. Ebonlocke is de burgemeester van Darkshire, in het hart van Duskwood. Blijf op de wegen.",
+      "o": "Magistrate Solomon wil dat je een brief naar Lord Ebonlocke in Darkshire brengt.",
+      "p": "Je ziet eruit alsof je van ver komt, $C. Wat kom je hier in Darkshire doen?",
+      "c": "Bedankt dat je de lange reis hierheen hebt gemaakt. Dit is echt belangrijk nieuws.",
+      "g": [
+        [
+          "getrainde",
+          "trained (getraind)"
+        ],
+        [
+          "wachters",
+          "guards (wachter)"
+        ],
+        [
+          "verdedigen",
+          "to defend"
+        ],
+        [
+          "voorzichtig",
+          "careful"
+        ],
+        [
+          "burgemeester",
+          "mayor"
+        ],
+        [
+          "in het hart van",
+          "in the heart of"
+        ],
+        [
+          "van ver",
+          "from afar"
+        ],
+        [
+          "reis",
+          "journey"
+        ]
+      ]
+    },
+    "146": {
+      "t": "Boodschapper naar Darkshire",
+      "d": "Als ik Magistrate Solomon niet persoonlijk kende, zou ik zeggen dat hij gek geworden is. De Night Watch naar Lakeshire sturen, omdat Stormwind niet wil helpen? De Night Watch is juist opgericht omdat Stormwind ons in de steek liet, toen deze vieze magie het land in kwam. Als ik mijn Night Watch stuur, wordt dit dorp door het kwaad overspoeld. Nog voordat de wachters de rand van het bos bereiken.$b$bBreng deze antwoordbrief naar je meester in Lakeshire.",
+      "o": "Ga terug naar Magistrate Solomon met de antwoordbrief van Lord Ebonlocke.",
+      "p": "Ah, fijn dat je terug bent, boodschapper. Kan ik de Marshal vertellen dat de Night Watch onderweg is uit Darkshire?",
+      "c": "Bij het Licht! Het leger van Stormwind is uit Westfall vertrokken. En de wacht beschermt Darkshire ook niet meer? Hier is verraad in het spel. Hoe kan dit? $b$bOh, ik vergat je te belonen, $C. Hier zijn wat munten. Excuseer me nu. Er is iets mis in Stormwind, en ik moet uitzoeken wat het is.",
+      "g": [
+        [
+          "persoonlijk",
+          "personally"
+        ],
+        [
+          "gek geworden",
+          "gone mad (gek worden)"
+        ],
+        [
+          "opgericht",
+          "founded, formed (oprichten)"
+        ],
+        [
+          "in de steek liet",
+          "deserted, abandoned (in de steek laten)"
+        ],
+        [
+          "het kwaad",
+          "evil"
+        ],
+        [
+          "overspoeld",
+          "overrun, flooded (overspoelen)"
+        ],
+        [
+          "rand",
+          "edge"
+        ],
+        [
+          "onderweg",
+          "on the way"
+        ],
+        [
+          "vertrokken",
+          "left, departed (vertrekken)"
+        ],
+        [
+          "verraad",
+          "treachery, betrayal"
+        ],
+        [
+          "in het spel",
+          "at play, going on"
+        ],
+        [
+          "uitzoeken",
+          "to find out, to get to the bottom of"
+        ]
+      ]
+    },
+    "89": {
+      "t": "De Everstill-brug",
+      "d": "Tijdens de laatste invasie van de orks moesten we ons ijzer omsmelten. Daar maakten we kogels, zwaarden en harnassen van. We vroegen Stormwind om een nieuwe levering materiaal. Maar een groep Redridge gnolls heeft de karavaan overvallen. Ze zijn ermee de heuvels achter Lakeshire in gevlucht.$b$bNu hebben we niet genoeg materiaal om deze brug weer op te bouwen. Breng me 5 ijzeren pinnen en 5 ijzeren klinknagels, $N. Dan zorg ik voor een beloning. $b$bEn nu aan het werk!",
+      "o": "Breng 5 Iron Pikes en 5 Iron Rivets naar Foreman Oslow in Lakeshire.",
+      "p": "Deze brug bouwt zichzelf niet! Waar zijn die ijzeren pinnen en ijzeren klinknagels?",
+      "c": "Goed werk, $N. Met dit materiaal komt het werk aan de brug enorm vooruit. We maken deze schoonheid in een mum van tijd weer stevig.",
+      "g": [
+        [
+          "omsmelten",
+          "to melt down, to smelt down"
+        ],
+        [
+          "kogels",
+          "bullets (kogel)"
+        ],
+        [
+          "harnassen",
+          "armour (harnas)"
+        ],
+        [
+          "karavaan",
+          "caravan"
+        ],
+        [
+          "overvallen",
+          "hijacked, raided (overvallen)"
+        ],
+        [
+          "gevlucht",
+          "fled (vluchten)"
+        ],
+        [
+          "ijzeren",
+          "iron (made of iron)"
+        ],
+        [
+          "pinnen",
+          "pikes, pins (pin)"
+        ],
+        [
+          "klinknagels",
+          "rivets (klinknagel)"
+        ],
+        [
+          "schoonheid",
+          "beauty"
+        ],
+        [
+          "in een mum van tijd",
+          "in no time"
+        ],
+        [
+          "stevig",
+          "sturdy, solid"
+        ]
+      ]
+    },
+    "124": {
+      "t": "Een troep blaffende gnolls",
+      "d": "Alsof de aanvallende orks nog niet genoeg waren! Nu sluipen gnoll-bruten en gnoll-mystici over de heuvelrug ten noorden van mijn stal. Ze nemen mijn paarden mee als die wegdwalen...$B$BAls jij die gnolls kunt wegjagen, zijn mijn paarden en ik je heel dankbaar.",
+      "o": "Dood 10 Redridge Brutes en 8 Redridge Mystics en ga dan terug naar Verner Osgood.",
+      "p": "Ja? Kan ik iets voor je doen?",
+      "c": "Dank je voor al je hulp, $N.",
+      "g": [
+        [
+          "troep",
+          "pack, band"
+        ],
+        [
+          "blaffende",
+          "baying, barking (blaffen)"
+        ],
+        [
+          "aanvallende",
+          "attacking (aanvallen)"
+        ],
+        [
+          "sluipen",
+          "prowl, sneak"
+        ],
+        [
+          "bruten",
+          "brutes (bruut)"
+        ],
+        [
+          "mystici",
+          "mystics (mysticus)"
+        ],
+        [
+          "heuvelrug",
+          "ridge"
+        ],
+        [
+          "wegdwalen",
+          "to stray, to wander off"
+        ],
+        [
+          "wegjagen",
+          "to drive away, to get rid of"
+        ]
+      ]
+    },
+    "150": {
+      "t": "Stropende murlocs",
+      "d": "De murlocs worden een probleem. Grotere groepen van die vismensen gooien het anker uit langs de oevers van Lake Everstill. Ze vissen als gekken! Ze moeten weg voordat ze alle vis in het meer opeten!$B$BJaag op murlocs! Breng me acht van hun vinnen, dan heb ik misschien iets voor je...",
+      "o": "Breng 8 Murloc Fins naar Dockmaster Baren in Lakeshire.",
+      "p": "Heb je die vinnen? Schiet op, we moeten die murlocs uit het meer verjagen!",
+      "c": "Goed gedaan, $N. Ik hoop dat je niet te veel last had van die murlocs.$B$BHet is vreemd om ze zo ver van de zee te zien. Ik vraag me af of ze hier zijn omdat ze ergens voor vluchten...",
+      "g": [
+        [
+          "Stropende",
+          "poaching (stropen)"
+        ],
+        [
+          "vismensen",
+          "fishmen (vismens)"
+        ],
+        [
+          "gooien het anker uit",
+          "drop anchor (het anker uitgooien)"
+        ],
+        [
+          "oevers",
+          "shores, banks (oever)"
+        ],
+        [
+          "als gekken",
+          "like crazy, up a storm"
+        ],
+        [
+          "vinnen",
+          "fins (vin)"
+        ],
+        [
+          "verjagen",
+          "to drive away"
+        ],
+        [
+          "last",
+          "trouble"
+        ],
+        [
+          "vluchten",
+          "to flee, to run from"
+        ]
+      ]
+    },
+    "20": {
+      "t": "De dreiging van Blackrock",
+      "d": "De Blackrock orks zijn uit de Burning Steppes gekomen. Ze hebben Stonewatch Keep in het noorden ingenomen. Van daaruit plunderen ze de gebieden ten noorden van Lakeshire. Zo houden ze de inwoners in het dorp, opgesloten als vee.$B$BHelp Lakeshire om van deze dreiging af te komen. Dood deze Blackrock orks en breng me tien van hun Battleworn Axes als bewijs.$B$BDe Blackrocks bedreigen ons vanuit het noorden. Maar we hebben ook berichten gekregen over meer van hen in het zuidoosten van Redridge. Vind je daar ook orks, jaag dan ook op hen.",
+      "o": "Breng 10 Battleworn Axes naar Marshal Marris in Lakeshire.",
+      "p": "Heb je orks gedood, $N? Laat het me dan zien...",
+      "c": "Nu hoeven we ons over veel minder orks zorgen te maken. Bedankt.",
+      "g": [
+        [
+          "dreiging",
+          "menace, threat"
+        ],
+        [
+          "ingenomen",
+          "taken, claimed (innemen)"
+        ],
+        [
+          "plunderen",
+          "to maraud, to plunder"
+        ],
+        [
+          "inwoners",
+          "citizens, inhabitants (inwoner)"
+        ],
+        [
+          "opgesloten",
+          "penned up, locked up (opsluiten)"
+        ],
+        [
+          "vee",
+          "cattle"
+        ],
+        [
+          "af te komen",
+          "to get rid of (afkomen van)"
+        ],
+        [
+          "bewijs",
+          "proof"
+        ],
+        [
+          "bedreigen",
+          "to threaten"
+        ],
+        [
+          "zuidoosten",
+          "southeast"
+        ]
+      ]
+    },
+    "94": {
+      "t": "Een waakzaam oog",
+      "d": "Mijn rivaal, Morganth, is een wrede magiër met grote macht. Hij woont in de Tower of Ilgalar in Redridge. Ik heb een manier gevonden om hem te bespioneren: het Eye of Azora. Daarmee kan ik hem nu van ver zien.$B$BMaar om zijn gedachten te bestuderen... heb ik meer hulp nodig.$B$BWil je helpen? Breng dan mijn Glyph of Azora naar de Tower of Ilgalar. Leg hem op het Lion Statue bij de toren.$B$BAls dat gedaan is, geeft de kracht van Azora me visioenen van de plannen van Morganth.",
+      "o": "Breng de Glyph of Azora naar het Lion Statue bij de Tower of Ilgalar in Redridge.",
+      "p": "Dit Lion Statue staat hier al tientallen jaren. Het houdt eenzaam de wacht over de beruchte Tower of Ilgalar.$B$BOnderaan het beeld zit een kuiltje. Daar zou een edelsteen of een teken in kunnen passen...",
+      "c": "Je legt de Glyph of Azora op de steen. Hij blijft eraan vastzitten... en je hoort de stem van Theocritus eruit komen, zonder lichaam:$B$BIk ben je dankbaar, jonge $N. Je kunt nu met mij praten via deze Glyph. Misschien heb ik later nog taken voor je... nadat ik de gedachten van mijn rivaal heb onderzocht.",
+      "g": [
+        [
+          "waakzaam",
+          "watchful"
+        ],
+        [
+          "rivaal",
+          "rival"
+        ],
+        [
+          "wrede",
+          "vicious, cruel (wreed)"
+        ],
+        [
+          "bespioneren",
+          "to spy on"
+        ],
+        [
+          "bestuderen",
+          "to study"
+        ],
+        [
+          "visioenen",
+          "visions (visioen)"
+        ],
+        [
+          "tientallen jaren",
+          "decades"
+        ],
+        [
+          "eenzaam",
+          "lonely"
+        ],
+        [
+          "beruchte",
+          "infamous (berucht)"
+        ],
+        [
+          "kuiltje",
+          "small hollow, depression"
+        ],
+        [
+          "edelsteen",
+          "gem"
+        ],
+        [
+          "onderzocht",
+          "probed, examined (onderzoeken)"
+        ]
+      ]
+    },
+    "127": {
+      "t": "Vis verkopen",
+      "d": "Lake Everstill is beroemd om zijn gevlekte zonnevissen. Er is altijd vraag naar... en mijn voorraad raakt op!$B$BBreng me er 10, dan doe ik je een goed bod. Kun je zelf niet vissen? Dan... kun je ze misschien van de murlocs afpakken!",
+      "o": "Breng 10 Spotted Sunfish naar Dockmaster Baren in Lakeshire.",
+      "p": "Heb je wat zonnevissen voor me, hè?",
+      "c": "Fijn om zaken met je te doen, maat!",
+      "g": [
+        [
+          "beroemd",
+          "famous"
+        ],
+        [
+          "gevlekte",
+          "spotted (gevlekt)"
+        ],
+        [
+          "zonnevissen",
+          "sunfish (zonnevis)"
+        ],
+        [
+          "vraag naar",
+          "demand for"
+        ],
+        [
+          "voorraad",
+          "stock, supply"
+        ],
+        [
+          "raakt op",
+          "is running low (opraken)"
+        ],
+        [
+          "bod",
+          "offer, bid"
+        ],
+        [
+          "afpakken",
+          "to take away from"
+        ],
+        [
+          "maat",
+          "mate, matey"
+        ]
+      ]
+    },
+    "248": {
+      "t": "Verder kijken",
+      "d": "Ik heb de Tower of Ilgalar in de gaten gehouden. Ik merk dat Morganth in conflict is met de orks in Stonewatch Keep. Ik weet niet waarom ze ruzie hebben. Maar jij kunt me helpen om dit raadsel op te lossen.$B$BNeem nog een Glyph of Azora mee. Ga dan naar de top van de wachttoren naast Stonewatch Keep die nog heel is.$B$BZoek een geschikt voorwerp om de Glyph op te leggen. Een kist of een pot -- een plek waar niemand de Glyph opmerkt -- is goed voor mijn plan.",
+      "o": "Klim op de wachttoren naast Stonewatch Keep die nog heel is.$B$BZoek een geschikte bak voor de Glyph of Azora.",
+      "p": "In deze pot zat vroeger sterke drank die vies rook. Nu staat hij leeg en vergeten op twee vaten.",
+      "c": "Het is een geschikte houder voor de Glyph of Azora. Zo kan Theocritus de gedachten binnen Stonewatch Keep onderzoeken.",
+      "g": [
+        [
+          "in de gaten gehouden",
+          "kept an eye on (in de gaten houden)"
+        ],
+        [
+          "merk",
+          "notice, detect (merken)"
+        ],
+        [
+          "ruzie",
+          "quarrel, dispute"
+        ],
+        [
+          "raadsel",
+          "mystery, riddle"
+        ],
+        [
+          "op te lossen",
+          "to solve, to unravel (oplossen)"
+        ],
+        [
+          "wachttoren",
+          "watch tower"
+        ],
+        [
+          "nog heel",
+          "still intact"
+        ],
+        [
+          "geschikt",
+          "suitable"
+        ],
+        [
+          "voorwerp",
+          "object"
+        ],
+        [
+          "opmerkt",
+          "notices (opmerken)"
+        ],
+        [
+          "bak",
+          "container, tub"
+        ],
+        [
+          "vaten",
+          "barrels (vat)"
+        ],
+        [
+          "houder",
+          "holder, vessel"
+        ]
+      ]
+    },
+    "91": {
+      "t": "De wet van Solomon",
+      "d": "Een vijand van Stormwind woont nu in de oostelijke heuvels van Redridge. Deze slechte schurk gebruikt arcane magie om angst en ellende te brengen over ons dorp en ons volk. Hij doet zijn kwade zaken onder de naam Morganth.$b$bMorganth laat nu de Shadowhide Gnoll Clan voor hem werken. De wet van Lakeshire zegt: wie een misdadiger van het koninkrijk helpt, krijgt de doodstraf.$b$bDeze gemene gnolls moeten gedood worden!$b$bLever 10 Shadowhide Pendants bij mij in, dan krijg je een beloning.",
+      "o": "Breng 10 Shadowhide Pendants naar Bailiff Conacher in de Lakeshire Town Hall.",
+      "p": "Lever 10 Shadowhide Pendants bij mij in, dan krijg je een beloning.",
+      "c": "Het hof van Lakeshire ziet hoe toegewijd je bent aan het recht, $N. Je hebt de wetten van het koninkrijk gehandhaafd. Zo heb je geholpen om het recht in het land te bewaren.",
+      "g": [
+        [
+          "oostelijke",
+          "eastern (oostelijk)"
+        ],
+        [
+          "schurk",
+          "villain"
+        ],
+        [
+          "arcane magie",
+          "arcane magic"
+        ],
+        [
+          "ellende",
+          "misery"
+        ],
+        [
+          "kwade zaken",
+          "evil business"
+        ],
+        [
+          "misdadiger",
+          "criminal"
+        ],
+        [
+          "doodstraf",
+          "death penalty"
+        ],
+        [
+          "Lever",
+          "turn in (inleveren: lever ... in)"
+        ],
+        [
+          "hof",
+          "court"
+        ],
+        [
+          "toegewijd",
+          "committed, devoted"
+        ],
+        [
+          "het recht",
+          "justice"
+        ],
+        [
+          "gehandhaafd",
+          "enforced (handhaven)"
+        ],
+        [
+          "bewaren",
+          "to uphold, to keep"
+        ]
+      ]
+    },
+    "115": {
+      "t": "Schaduwmagie",
+      "d": "De Blackrock orks hebben schaduwmagiërs gevraagd om te helpen bij hun aanvallen in Redridge. Die hebben duistere voorwerpen meegebracht: Midnight Orbs. Deze bollen hebben de verdedigers van Redridge zware klappen gegeven. Het is heel belangrijk dat we deze voorwerpen uit de strijd halen. Ze zijn besmet door demonen.$B$BZoek Midnight Orbs bij gedode Blackrock Shadowcasters en breng ze naar mij. Ik laat ze dan vernietigen, want de wereld is beter zonder ze!",
+      "o": "Breng 3 Midnight Orbs naar Marshal Marris in Lakeshire.",
+      "p": "Hoe gaat je strijd tegen de schaduwmagiërs? Heb je de Midnight Orbs gevonden?",
+      "c": "Dank je, $N. Ik laat deze meteen vernietigen.",
+      "g": [
+        [
+          "schaduwmagiërs",
+          "shadowcasters (schaduwmagiër)"
+        ],
+        [
+          "duistere",
+          "dark (duister)"
+        ],
+        [
+          "meegebracht",
+          "brought along (meebrengen)"
+        ],
+        [
+          "bollen",
+          "orbs, spheres (bol)"
+        ],
+        [
+          "verdedigers",
+          "defenders (verdediger)"
+        ],
+        [
+          "zware klappen",
+          "heavy blows"
+        ],
+        [
+          "besmet",
+          "tainted, infected"
+        ],
+        [
+          "gedode",
+          "slain (doden)"
+        ],
+        [
+          "vernietigen",
+          "to destroy"
+        ]
+      ]
+    },
+    "178": {
+      "t": "Ophalen voor Theocritus",
+      "d": "<Je hoort een stem zonder lichaam...>$B$BSchrik niet. Ik ben Theocritus, hoge magiër van Tower Azora in Elwynn Forest. Met de hanger in je hand praten de Shadowhide Gnolls met hun meester, Morganth.$B$BIk heb maanden onderzoek gedaan. Ik denk dat ik ook via deze hangers kan praten. Als je dit bericht hoort, is mijn spreuk gelukt.$B$BBreng me deze hanger, dan beloon ik je voor die dienst.",
+      "o": "Breng de Faded Shadowhide Pendant naar Theocritus the Mage.",
+      "p": "Heb ik via een hanger met je gepraat, zeg je? Hmm... geef hem aan mij, dan kan ik hem bestuderen.",
+      "c": "Ik ben je dankbaar, $N. Ik heb dat bericht weken geleden naar de Shadowhide Pendants gestuurd. Ik dacht dat het mislukt was. Maar de spreuk heeft blijkbaar toch een paar hangers bereikt, met een flinke vertraging.$B$BIk hoop op den duur te leren hoe ik via de hangers kan aanvallen. Dan kan ik de Shadowhide Gnolls die ze dragen verlammen.$B$BMaar daarvoor is nog veel meer onderzoek nodig, vrees ik.",
+      "g": [
+        [
+          "Ophalen",
+          "Retrieval (ophalen)"
+        ],
+        [
+          "Schrik niet",
+          "Do not be alarmed (schrikken)"
+        ],
+        [
+          "hoge magiër",
+          "high mage"
+        ],
+        [
+          "hanger",
+          "pendant"
+        ],
+        [
+          "onderzoek",
+          "research"
+        ],
+        [
+          "spreuk",
+          "spell"
+        ],
+        [
+          "gelukt",
+          "succeeded (lukken)"
+        ],
+        [
+          "mislukt",
+          "failed (mislukken)"
+        ],
+        [
+          "blijkbaar",
+          "apparently"
+        ],
+        [
+          "vertraging",
+          "delay"
+        ],
+        [
+          "op den duur",
+          "in time, eventually"
+        ],
+        [
+          "verlammen",
+          "to paralyse, to immobilize"
+        ],
+        [
+          "vrees",
+          "fear (vrezen)"
+        ]
+      ]
+    },
+    "34": {
+      "t": "Een ongewenste gast",
+      "d": "Weer is mijn tuin vertrapt en geplunderd. En ik weet welke bruut het doet. Het is dat vervloekte zwijn dat Marshal Marris Bellygrub is gaan noemen.$b$bNu kan ik de narcissen pas volgend seizoen opnieuw planten. Verpest! Alles verpest door dat ene gemene zwijn. Maak een einde aan die plaag! Laat me zijn slagtand zien, dan beloon ik je graag. Hij zoekt meestal eten in het veld ten zuidwesten van Lakeshire. Maar soms zwerft hij hierheen, mijn tuin in.",
+      "o": "Martie Jainrose in Lakeshire wil dat je Bellygrub doodt. Breng haar zijn slagtand als bewijs.",
+      "p": "Is Bellygrub nog steeds bezig, of heb je Lakeshire voorgoed van die plaag bevrijd?",
+      "c": "Eindelijk is die plaag dood! Dank je, $N, je hebt me heel goed geholpen. Dit seizoen staat de tuin helemaal in bloei!",
+      "g": [
+        [
+          "ongewenste",
+          "unwelcome (ongewenst)"
+        ],
+        [
+          "vertrapt",
+          "trampled (vertrappen)"
+        ],
+        [
+          "geplunderd",
+          "pillaged (plunderen)"
+        ],
+        [
+          "vervloekte",
+          "forsaken, cursed (vervloekt)"
+        ],
+        [
+          "zwijn",
+          "boar"
+        ],
+        [
+          "seizoen",
+          "season"
+        ],
+        [
+          "Verpest",
+          "Ruined (verpesten)"
+        ],
+        [
+          "plaag",
+          "pest, plague"
+        ],
+        [
+          "slagtand",
+          "tusk"
+        ],
+        [
+          "voorgoed",
+          "once and for all, for good"
+        ],
+        [
+          "bevrijd",
+          "rid, freed (bevrijden)"
+        ],
+        [
+          "in bloei",
+          "in bloom"
+        ]
+      ]
+    },
+    "19": {
+      "t": "Tharil'zun",
+      "d": "Blackrock Outrunners en Renegades leggen hinderlagen tussen hier en Stonewatch Keep. De leider van de Outrunners is een ork met de naam Tharil'zun. Die ork willen we hebben. Breng me het hoofd van Tharil'zun!",
+      "o": "Breng Tharil'zun's Head naar Marshal Marris in Redridge.",
+      "p": "De druk van de orks van Blackrock is nog steeds groot. Maar heb je ons tenminste van Tharil'zun bevrijd?",
+      "c": "Tharil'zun was een wrede, sluwe ork. Goed gedaan. Hij ging vast niet makkelijk neer. Hier is je beloning, $N.",
+      "g": [
+        [
+          "hinderlagen",
+          "ambushes (hinderlaag)"
+        ],
+        [
+          "met de naam",
+          "named, by the name of"
+        ],
+        [
+          "hoofd",
+          "head"
+        ],
+        [
+          "druk",
+          "pressure"
+        ],
+        [
+          "tenminste",
+          "at least"
+        ],
+        [
+          "wrede",
+          "vicious, cruel (wreed)"
+        ],
+        [
+          "sluwe",
+          "crafty, cunning (sluw)"
+        ],
+        [
+          "ging",
+          "went (gaan; ging ... neer = went down)"
+        ]
+      ]
+    },
+    "126": {
+      "t": "Gehuil in de heuvels",
+      "d": "$N, de gnolls zijn er nog steeds. Ik hoor ze blaffen als ze jagen in de heuvels boven Lakeshire. En één kreet is luider dan de rest: Yowler, hun leider.$B$BDood Yowler en jaag zijn roedel uit elkaar! Breng me zijn poot als bewijs.$B$BEn wees voorzichtig. Deze gnoll is niet voor niets hun leider. Hij is geen Mongrel...",
+      "o": "Breng Yowler's Paw naar Verner Osgood in Lakeshire.",
+      "p": "Yowler is een gevaarlijk wezen, $N. Als je nog niet klaar bent voor hem, begrijp ik dat.",
+      "c": "Nogmaals bedankt voor je hulp. Het leger van Stormwind heeft het zo druk met de orks. Ze hebben geen troepen om Redridge te beschermen tegen dreigingen hier, zoals de gnolls.",
+      "g": [
+        [
+          "Gehuil",
+          "howling"
+        ],
+        [
+          "blaffen",
+          "baying, barking"
+        ],
+        [
+          "kreet",
+          "cry"
+        ],
+        [
+          "luider",
+          "louder (luid)"
+        ],
+        [
+          "roedel",
+          "pack"
+        ],
+        [
+          "uit elkaar",
+          "apart, scattering"
+        ],
+        [
+          "poot",
+          "paw"
+        ],
+        [
+          "niet voor niets",
+          "for a reason"
+        ],
+        [
+          "Nogmaals",
+          "Again, once more"
+        ],
+        [
+          "dreigingen",
+          "threats (dreiging)"
+        ]
+      ]
+    },
+    "128": {
+      "t": "Premie op de Blackrock Clan",
+      "d": "De Blackrock Clan moet vernietigd worden. De vijand is ons land binnengevallen. Deze bergen vallen onder het gezag van de koning van Stormwind. Onze bronnen zeggen dat de leiders van elke groep in de Clan Champions heten. Je vindt ze in hun kamp in het noorden, net ten westen van de weg naar de Burning Steppes.$b$bMagistrate Solomon wil deze smerige bruten dood hebben. Dood 15 Blackrock Champions en kom dan terug naar mij.",
+      "o": "Dood 15 Blackrock Champions. Dan beloont Guard Howe in Lakeshire je.",
+      "p": "Kom terug als je 15 Blackrock Champions hebt gedood.",
+      "c": "Ik zie dat je dapper hebt gevochten tegen de Blackrock Clan, $C. Je hebt ons dorp echt goed gediend.",
+      "g": [
+        [
+          "Premie",
+          "bounty"
+        ],
+        [
+          "vernietigd",
+          "destroyed (vernietigen)"
+        ],
+        [
+          "binnengevallen",
+          "invaded (binnenvallen)"
+        ],
+        [
+          "vallen onder het gezag",
+          "fall under the authority"
+        ],
+        [
+          "bronnen",
+          "sources (bron)"
+        ],
+        [
+          "smerige",
+          "foul, filthy (smerig)"
+        ],
+        [
+          "bruten",
+          "brutes (bruut)"
+        ],
+        [
+          "dapper",
+          "valiantly, brave"
+        ],
+        [
+          "gediend",
+          "served (dienen)"
+        ]
+      ]
+    }
+  },
+  "words": {
+    "arcane": "arcane (arcaan)",
+    "bloei": "bloom",
+    "bouwt": "builds (bouwen)",
+    "bruut": "brute",
+    "daaruit": "from there, out of it",
+    "droge": "dry (droog)",
+    "excuseer": "excuse (excuseren)",
+    "gast": "guest",
+    "gekken": "madmen, crazies (gek)",
+    "gekocht": "bought (kopen)",
+    "generaal": "general",
+    "geschikte": "suitable (geschikt)",
+    "geslagen": "beaten, hit (slaan)",
+    "gezag": "authority",
+    "hangers": "pendants (hanger)",
+    "hel": "hell",
+    "heten": "are called (heten)",
+    "hoi": "hi",
+    "juist": "precisely, just; right",
+    "klim": "climb (klimmen)",
+    "luistert": "listens (luisteren)",
+    "magiër": "mage, magician",
+    "majesteit": "majesty",
+    "mama": "mum, mommy",
+    "mum": "(in een mum van tijd) in no time",
+    "paarden": "horses (paard)",
+    "papa": "dad, daddy",
+    "pech": "bad luck",
+    "pot": "jar, pot",
+    "raakt": "touches; (raakt op) runs out (raken)",
+    "raakten": "hit (raken)",
+    "schaduwmagie": "shadow magic",
+    "schrik": "be startled (schrikken)",
+    "top": "top",
+    "vastzitten": "to be stuck, to be attached",
+    "volgend": "next (volgende)",
+    "vroegen": "asked (vragen)",
+    "wet": "law",
+    "wetten": "laws (wet)",
+    "zak": "bag, sack; skin (for drink)",
+    "zwaarden": "swords (zwaard)",
+    "zwarte": "black (zwart)"
+  },
+  "terms": {
+    "shadowcasters": "Shadowcasters: orc spellcasters of the Blackrock clan who use shadow magic (Warcraft enemy name)",
+    "everstill-brug": "the Everstill bridge: the bridge over Lake Everstill at Lakeshire (Warcraft place)",
+    "gnoll-bruten": "gnoll brutes: big, strong gnoll fighters (gnoll: hyena-like creature from the Warcraft world)",
+    "gnoll-mystici": "gnoll mystics: gnoll spellcasters (gnoll: hyena-like creature from the Warcraft world)"
+  }
+}
