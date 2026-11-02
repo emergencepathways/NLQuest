@@ -1,0 +1,1645 @@
+{
+  "quests": {
+    "1387": {
+      "t": "Premie op centauren",
+      "d": "Het volk van de centauren bestaat uit veel clans. Elke clan heeft een eigen leider en eigen plannen. Maar alle clans hebben één ding gemeen: wreedheid.$B$BAls we ooit vrede willen hebben, moeten de centauren verdwijnen. Daarom geef ik jou die taak.$B$BAls je door Desolace trekt, jaag dan op centauren en neem hun oren mee. Breng me veel, heel veel oren.$B$BDoe dit in dienst van de Alliance, $N, dan komen we een stap dichter bij het einde van de oorlog.",
+      "o": "Breng 15 Centaur Ears naar Corporal Melkins in Nijel's Point in Desolace.",
+      "p": "Heb je iets te melden, $N?",
+      "c": "Ah, de oren. Goed gedaan.$B$BAan je dienst voor de Alliance twijfelt niemand, $N. Het bloed dat je in Desolace hebt vergoten, zal zonder twijfel ontelbare levens redden.",
+      "g": [
+        [
+          "Premie",
+          "bounty"
+        ],
+        [
+          "centauren",
+          "centaurs (centaur)"
+        ],
+        [
+          "bestaat uit",
+          "is made up of (bestaan uit)"
+        ],
+        [
+          "gemeen",
+          "in common"
+        ],
+        [
+          "wreedheid",
+          "cruelty"
+        ],
+        [
+          "vrede",
+          "peace"
+        ],
+        [
+          "verdwijnen",
+          "to disappear, be removed"
+        ],
+        [
+          "trekt",
+          "travel, wander (trekken)"
+        ],
+        [
+          "jaag",
+          "hunt (jagen)"
+        ],
+        [
+          "in dienst van",
+          "in service of"
+        ],
+        [
+          "melden",
+          "to report"
+        ],
+        [
+          "twijfelt",
+          "doubts (twijfelen)"
+        ],
+        [
+          "vergoten",
+          "spilled (vergieten)"
+        ],
+        [
+          "ontelbare",
+          "countless (ontelbaar)"
+        ]
+      ]
+    },
+    "1384": {
+      "t": "Overval op de Kolkar",
+      "d": "De Kolkar-centauren denken dat hun magie sterk is. Ze weten niets van magie! Ze zouden magie niet eens herkennen als het hen beet!$B$BJij laat hun zien dat hun magie zwak is. Ga naar de Kolkar in het noordoosten en dood ze. Neem hun amuletten. Breng me de amuletten, dan gooi ik ze in het vuur en lach ik!",
+      "o": "Behoud je reputatie bij de Gelkis en breng 10 Crude Charms naar Uthek the Wise in Gelkis Village in Desolace.",
+      "p": "Heb je de amuletten? Heb je de Kolkar laten zien dat ze zwak zijn?",
+      "c": "Je doet iets goeds voor de Gelkis. De Kolkar zijn zwak en zullen sterven. Hun magie is zielig en zal hen niet redden. Dat heb jij hun laten zien, en door hun angst worden ze nog zwakker!$B$BEn in ons land gaan de zwakken snel dood.",
+      "g": [
+        [
+          "Overval",
+          "raid"
+        ],
+        [
+          "herkennen",
+          "to recognize"
+        ],
+        [
+          "beet",
+          "bit (bijten)"
+        ],
+        [
+          "amuletten",
+          "charms, amulets (amulet)"
+        ],
+        [
+          "gooi",
+          "throw (gooien)"
+        ],
+        [
+          "Behoud",
+          "maintain, keep (behouden)"
+        ],
+        [
+          "reputatie",
+          "reputation"
+        ],
+        [
+          "sterven",
+          "to die"
+        ],
+        [
+          "zielig",
+          "pathetic"
+        ],
+        [
+          "redden",
+          "to save"
+        ],
+        [
+          "angst",
+          "fear"
+        ],
+        [
+          "zwakker",
+          "weaker, more feeble (zwak)"
+        ]
+      ]
+    },
+    "1386": {
+      "t": "Aanval op de Kolkar",
+      "d": "De Kolkar denken dat ze sterk zijn, maar wij lachen om ze! We lachen en we doden ze! Jij doodt ze ook. Laat me zien dat jij Kolkar kunt doden zoals wij. Ga naar het noorden en dood ze allemaal!",
+      "o": "Behoud je reputatie bij de Magram. Dood 12 Kolkar Centaurs, 12 Kolkar Scouts en 6 Kolkar Maulers en ga dan terug naar Warug in Magram Village in Desolace.",
+      "p": "Ben je bang voor de Kolkar? Waarom dood je ze niet? Misschien ben je vergeten hoe je moet doden. Schiet op en dood Kolkar voordat ze dood zijn!",
+      "c": "De Kolkar zijn nu bang voor jou! Ik hoop dat je lachte toen je ze doodde. Het is beter om te lachen als je doodt. Dan ziet de vijand dat hij zwak is.",
+      "g": [
+        [
+          "Aanval",
+          "assault, attack"
+        ],
+        [
+          "lachen om",
+          "laugh at"
+        ],
+        [
+          "Behoud",
+          "maintain, keep (behouden)"
+        ],
+        [
+          "reputatie",
+          "reputation"
+        ],
+        [
+          "vergeten",
+          "forgotten"
+        ],
+        [
+          "Schiet op",
+          "hurry up (opschieten)"
+        ],
+        [
+          "lachte",
+          "laughed (lachen)"
+        ],
+        [
+          "doodde",
+          "killed (doden)"
+        ],
+        [
+          "vijand",
+          "enemy"
+        ]
+      ]
+    },
+    "1369": {
+      "t": "Gebroken tranen",
+      "d": "De Gelkis denken dat onze centaurenmoeder, Theradras, ons beschermt. Ze zijn dom. Niemand beschermt de centauren. De Magram hebben geen bescherming nodig! Wij zijn het sterkst!$B$BLaat de Gelkis zien dat ze dom zijn. Ga naar de grot in hun dorp. In die grot bewaren ze een voorraad kristallen: de tranen van Theradras. Vernietig de tranen en breng me de gebroken stukken!",
+      "o": "Behoud je reputatie bij de Magram en breng 3 Broken Tears naar Warug in Magram Village.",
+      "p": "Als je niet onze vijand bent, dan doe je wat ik vraag!",
+      "c": "Je hebt de tranen! Nu weten de Gelkis dat Theradras hen niet zal helpen. Ze zal niet huilen als wij hen verpletteren! De Magram zullen heersen!$B$BJe bent slim dat je ons helpt, $N. Wij zijn het sterkst.",
+      "o1": "Tranen vernietigd",
+      "g": [
+        [
+          "tranen",
+          "tears (traan)"
+        ],
+        [
+          "centaurenmoeder",
+          "centaur mother"
+        ],
+        [
+          "beschermt",
+          "protects (beschermen)"
+        ],
+        [
+          "bescherming",
+          "protection"
+        ],
+        [
+          "grot",
+          "cave"
+        ],
+        [
+          "voorraad",
+          "store, stock"
+        ],
+        [
+          "kristallen",
+          "crystals (kristal)"
+        ],
+        [
+          "Vernietig",
+          "destroy (vernietigen)"
+        ],
+        [
+          "huilen",
+          "to cry"
+        ],
+        [
+          "verpletteren",
+          "to crush"
+        ],
+        [
+          "heersen",
+          "to rule"
+        ],
+        [
+          "slim",
+          "smart"
+        ]
+      ]
+    },
+    "1437": {
+      "t": "De zoektocht van Vahlarriel",
+      "d": "Ik ben Vahlarriel, $N. Ik ben hier om uit te zoeken waar twee vermiste edelen zijn. Ze komen uit een familie van kooplieden uit Darnassus: House Malem. De vader van de familie vreest het ergste, en ik moet alles doen wat ik kan om zijn vermiste kinderen te vinden. Ik ben nog niet begonnen met mijn zoektocht naar Tyranis en Dalinda, maar ik hoop dat ik hier niet lang hoef te blijven.$B$BVolgens het laatste bericht reisden ze een paar weken geleden door de Stonetalon Mountains.$B$BAls je hun wagen vindt, kom me dan alsjeblieft meteen zoeken.",
+      "o": "Vind en doorzoek de wagen van Tyranis en Dalinda Malem in Desolace.",
+      "c": "Terwijl je in de resten van de wagen rondzoekt, wordt het duidelijk dat hij is aangevallen met spreuken én wapens. Het gevecht was blijkbaar snel en eenzijdig: er is geen bloed te vinden, en er zijn geen lichamen.$B$BWie de wagen ook heeft aangevallen, deed het snel en efficiënt.",
+      "g": [
+        [
+          "zoektocht",
+          "search"
+        ],
+        [
+          "uit te zoeken",
+          "to find out (uitzoeken)"
+        ],
+        [
+          "vermiste",
+          "missing (vermist)"
+        ],
+        [
+          "edelen",
+          "nobles (edele)"
+        ],
+        [
+          "kooplieden",
+          "merchants (koopman)"
+        ],
+        [
+          "vreest het ergste",
+          "fears the worst (vrezen)"
+        ],
+        [
+          "bericht",
+          "message, word"
+        ],
+        [
+          "doorzoek",
+          "search (doorzoeken)"
+        ],
+        [
+          "resten",
+          "remains (rest)"
+        ],
+        [
+          "rondzoekt",
+          "rummage around (rondzoeken)"
+        ],
+        [
+          "spreuken",
+          "spells (spreuk)"
+        ],
+        [
+          "eenzijdig",
+          "one-sided"
+        ],
+        [
+          "efficiënt",
+          "efficient"
+        ]
+      ]
+    },
+    "1438": {
+      "t": "De zoektocht van Vahlarriel",
+      "d": "Vind zowel Dalinda als Tyranis als het lukt, en kom terug om me te vertellen wat je hebt gevonden. Begin je zoektocht bij dit fort. Ik neem meteen contact op met mijn meerderen in Darnassus en vertel hun hoe het ervoor staat.$B$B$N, er is nog iets wat ik je duidelijk wil maken. Mijn meerderen maken zich wat zorgen over Tyranis en over de reden waarom hij hierheen kwam. Voor hen is het belangrijker dat Dalinda wordt gevonden en veilig wordt teruggebracht. Tyranis moet eerst... beoordeeld worden, voordat hij naar huis wordt gebracht.",
+      "o": "Vind Dalinda Malem in Desolace.",
+      "c": "Elune zij dank, eindelijk komt er iemand helpen. Alsjeblieft, $C, ik heb je hulp nodig. Mijn broer Tyranis en ik zijn gevangengenomen en hierheen gebracht door de Burning Blade. Ik denk dat ze me willen offeren aan hun demonische meesters!$B$BIk wist dat het een fout was om naar Desolace te komen. Maar Tyranis verlangt sinds kort naar kennis over alles wat met arcane magie te maken heeft, zelfs tegen de wensen van ons volk in. Hij besloot deze tocht te maken, ook al had hij verhalen gehoord dat dit land vol demonen zit.$B$BIk vrees het ergste voor hem.",
+      "g": [
+        [
+          "zowel ... als",
+          "both ... and"
+        ],
+        [
+          "neem ... contact op",
+          "contact (contact opnemen)"
+        ],
+        [
+          "meerderen",
+          "superiors (meerdere)"
+        ],
+        [
+          "hoe het ervoor staat",
+          "what the situation is"
+        ],
+        [
+          "duidelijk maken",
+          "to impress upon, make clear"
+        ],
+        [
+          "maken zich zorgen",
+          "are concerned (zich zorgen maken)"
+        ],
+        [
+          "beoordeeld",
+          "judged, gauged (beoordelen)"
+        ],
+        [
+          "zij dank",
+          "thank (in: Elune zij dank)"
+        ],
+        [
+          "gevangengenomen",
+          "captured (gevangennemen)"
+        ],
+        [
+          "offeren",
+          "to sacrifice"
+        ],
+        [
+          "demonische",
+          "demonic, demon (demonisch)"
+        ],
+        [
+          "verlangt",
+          "craves, longs (verlangen)"
+        ],
+        [
+          "kennis",
+          "knowledge"
+        ],
+        [
+          "wensen",
+          "wishes (wens)"
+        ],
+        [
+          "tocht",
+          "trek, journey"
+        ]
+      ]
+    },
+    "1439": {
+      "t": "Zoektocht naar Tyranis",
+      "d": "We werden hierheen gebracht nadat de orks al onze bewakers en bedienden hadden afgeslacht. O, de vreselijke dingen die ze met hen deden! Ik dacht dat ze ons zeker ter plekke zouden doden. Maar al snel werd duidelijk dat ze andere plannen hadden.$B$BTyranis probeerde met hen te praten. Ik denk dat hij indruk op hen wilde maken met zijn kennis van arcane magie... Ik weet niet waarom.$B$BAlsjeblieft, ik kan hier niet weg voordat ik weet wat er met mijn broer is gebeurd. Vind hem, en kom me dan halen als je weet wat zijn lot is.",
+      "o": "Vind Tyranis Malem in Desolace.",
+      "p": "Ik ben bang dat Tyranis de geheimen van de Burning Blade wil leren, en zichzelf tot hun soort wil rekenen als zij dat toestaan. Hij heeft altijd gehouden van de macht die magie geeft aan wie erdoor verleid wordt.$B$BIk weet niet of ik het zou kunnen verdragen om thuis bij mijn familie te komen met het nieuws dat de geest van Tyranis met zulke gevaren speelt. Onder mijn volk is het al een vreselijke misdaad om zulke dingen na te streven. Maar te worden waartegen we ons juist proberen te beschermen... dat is verwerpelijk.",
+      "c": "Dit is vreselijk! Maar het was waarschijnlijk nodig. Als het niet door jouw hand was gebeurd, dan zeker door die van mijn volk. Ik zou je eigenlijk moeten bedanken... Vergeef me als het niet gemeend klinkt. Ik bedoel het niet beledigend.$B$BNu ik weet wat er met mijn broer is gebeurd, is het tijd voor mijn ontsnapping. Als je nog steeds wilt, neem ik je hulp graag aan om van deze vreselijke plek te ontsnappen.$B$BAls je klaar bent, kunnen we samen naar een veilige plek gaan.",
+      "g": [
+        [
+          "bewakers",
+          "guards (bewaker)"
+        ],
+        [
+          "bedienden",
+          "servants (bediende)"
+        ],
+        [
+          "afgeslacht",
+          "slaughtered (afslachten)"
+        ],
+        [
+          "ter plekke",
+          "right there and then"
+        ],
+        [
+          "indruk ... maken",
+          "to impress"
+        ],
+        [
+          "lot",
+          "fate"
+        ],
+        [
+          "tot hun soort ... rekenen",
+          "count himself among their kind"
+        ],
+        [
+          "toestaan",
+          "allow"
+        ],
+        [
+          "verleid",
+          "seduced (verleiden)"
+        ],
+        [
+          "verdragen",
+          "to endure"
+        ],
+        [
+          "misdaad",
+          "crime"
+        ],
+        [
+          "na te streven",
+          "to pursue (nastreven)"
+        ],
+        [
+          "verwerpelijk",
+          "reprehensible"
+        ],
+        [
+          "gemeend",
+          "sincere"
+        ],
+        [
+          "beledigend",
+          "offensive"
+        ],
+        [
+          "ontsnapping",
+          "escape"
+        ]
+      ]
+    },
+    "1440": {
+      "t": "Terug naar Vahlarriel",
+      "d": "Dus het is nu zover? Ik waardeer je moeite. En als er straks geen gelegenheid voor is, laat me je dan nu bedanken voor alles wat je voor mij en mijn familie hebt gedaan. Als je klaar bent: er is hier niets meer voor mij. We kunnen gaan wanneer jij vindt dat het tijd is.",
+      "o": "Begeleid Dalinda Malem uit Thunder Axe Fortress en ga dan terug naar Vahlarriel Demonslayer in Desolace.",
+      "c": "Dank je, $N. Dalinda is veilig hier in Nijel's Point aangekomen, en in een veel betere toestand dan ik had durven vragen. Dat ze hier op eigen kracht aankwam, was een goed teken. Ik hoop dat het met jou ook goed gaat?$B$BHet doet me pijn dat Tyranis en Dalinda niet allebei zijn teruggekomen. Maar de schaamte over de keuzes van Tyranis moet zij dragen. Daar zal ze mee om moeten gaan als ze terug is in Darnassus.",
+      "e": "Red Dalinda Malem",
+      "g": [
+        [
+          "zover",
+          "time (het is zover: the time has come)"
+        ],
+        [
+          "waardeer",
+          "appreciate (waarderen)"
+        ],
+        [
+          "gelegenheid",
+          "opportunity"
+        ],
+        [
+          "Begeleid",
+          "escort (begeleiden)"
+        ],
+        [
+          "toestand",
+          "condition"
+        ],
+        [
+          "op eigen kracht",
+          "under her own power"
+        ],
+        [
+          "teken",
+          "sign"
+        ],
+        [
+          "Het doet me pijn",
+          "it pains me"
+        ],
+        [
+          "schaamte",
+          "embarrassment, shame"
+        ],
+        [
+          "keuzes",
+          "decisions, choices (keuze)"
+        ],
+        [
+          "dragen",
+          "to bear, endure"
+        ],
+        [
+          "om moeten gaan",
+          "will have to deal (omgaan met)"
+        ],
+        [
+          "Red",
+          "rescue (redden)"
+        ]
+      ]
+    },
+    "1458": {
+      "t": "Reagentia voor Reclaimers Inc.",
+      "d": "Een van mijn taken hier is het ophalen van wat reagentia voor Leftwitch, een gnomenmagiër in Kharanos. Roetten denkt dat het makkelijk geld verdienen is, omdat we hier toch al zijn. Het kan hem niet echt schelen dat we nu al te weinig mensen hebben.$B$BDe eerste paar dingen op zijn lijst moeten makkelijk genoeg te krijgen zijn. En er is een flinke zak geld te verdienen voor iedereen die me helpt.$B$BIk heb hoorns en klauwen nodig van de Hatefury-saters ten oosten van hier. Breng ze naar mij, dan beginnen we aan de rest van de lijst.",
+      "o": "Breng 10 Hatefury Claws en 10 Hatefury Horns naar Kreldig Ungor in Desolace.",
+      "p": "Walgelijke wezens, die saters. Volgens de verhalen hebben ze op de een of andere manier iets met de nachtelfen te maken, maar ik weet niet zeker of ik dat geloof.$B$BIk denk dat ze dat verhaal hebben door die ene elf die ze een paar jaar geleden in de oorlog heeft gebracht. Sindsdien is de wereld nooit meer hetzelfde geweest. Veel gevaarlijker, en veel enger.",
+      "c": "Goed, goed, $N. Ik weet niet of deze van goede kwaliteit zijn. Maar als Leftwitch een bepaalde soort wilde, had hij dat moeten zeggen voordat hij de Reclaimers hierheen stuurde.$B$BWat zeg je ervan: zullen we doorgaan met het volgende ding op zijn lijst?",
+      "g": [
+        [
+          "Reagentia",
+          "reagents (reagens)"
+        ],
+        [
+          "ophalen",
+          "picking up"
+        ],
+        [
+          "gnomenmagiër",
+          "gnome mage"
+        ],
+        [
+          "Het kan hem niet schelen",
+          "he doesn't care"
+        ],
+        [
+          "te weinig mensen",
+          "short-handed"
+        ],
+        [
+          "flinke",
+          "good, sizeable (flink)"
+        ],
+        [
+          "klauwen",
+          "claws (klauw)"
+        ],
+        [
+          "saters",
+          "satyrs (sater)"
+        ],
+        [
+          "ten oosten van",
+          "to the east of"
+        ],
+        [
+          "Walgelijke",
+          "despicable (walgelijk)"
+        ],
+        [
+          "wezens",
+          "creatures (wezen)"
+        ],
+        [
+          "Sindsdien",
+          "since then"
+        ],
+        [
+          "enger",
+          "scarier (eng)"
+        ],
+        [
+          "bepaalde",
+          "specific (bepaald)"
+        ]
+      ]
+    },
+    "1465": {
+      "t": "De zoektocht van Vahlarriel",
+      "d": "Je zoekt verder in de wagen. Je vindt niet alleen een hanger, maar ook voetsporen die naar het zuiden gaan. In de verte zie je rook opstijgen uit een groot fort. De rook komt van een vuur dat brandend wordt gehouden, niet van brandende gebouwen. Je gevoel zegt dat de Malems daarheen zijn gebracht, als ze nog leven.$B$BJe vindt dat Vahlarriel in Nijel's Point niet alleen de hanger moet zien die je hebt gevonden, maar ook moet horen over de tekenen van leven in het zuiden.",
+      "o": "Breng de Malem Pendant terug naar Vahlarriel Demonslayer in Desolace.",
+      "c": "Om woedend van te worden! Dit hele fiasco!$B$BDie twee waren gewaarschuwd hoe gevaarlijk het zou zijn om hierheen te komen. Nu zijn ze allebei vermist... of erger.$B$BZei je dat je sporen zag die naar een fort in de buurt gingen? Dat is misschien onze beste kans.$B$BVolgens de mensen hier zit dat fort vol leden van de Burning Blade: orks die zich aan de zaak van de demonen hebben gewijd. Misschien denken de meeste leden van de Horde er anders over, maar ze zijn slecht. Ze doden je meteen als je betrapt wordt op spioneren.",
+      "g": [
+        [
+          "hanger",
+          "pendant"
+        ],
+        [
+          "voetsporen",
+          "footprints (voetspoor)"
+        ],
+        [
+          "In de verte",
+          "in the distance"
+        ],
+        [
+          "opstijgen",
+          "rising"
+        ],
+        [
+          "brandend wordt gehouden",
+          "is kept burning"
+        ],
+        [
+          "gevoel",
+          "instinct, feeling"
+        ],
+        [
+          "tekenen",
+          "signs (teken)"
+        ],
+        [
+          "Om woedend van te worden",
+          "infuriating"
+        ],
+        [
+          "gewaarschuwd",
+          "warned (waarschuwen)"
+        ],
+        [
+          "sporen",
+          "tracks (spoor)"
+        ],
+        [
+          "leden",
+          "members (lid)"
+        ],
+        [
+          "zaak",
+          "cause"
+        ],
+        [
+          "gewijd",
+          "dedicated (wijden)"
+        ],
+        [
+          "betrapt",
+          "caught (betrappen)"
+        ],
+        [
+          "spioneren",
+          "spying"
+        ]
+      ]
+    },
+    "5741": {
+      "t": "De Sceptre of Light",
+      "d": "Volgens de geruchten heeft de Burning Blade in Thunder Axe Fortress, ten oosten van hier, de Sceptre of Light van de naga gekregen. De legende vertelt dat de scepter hele steden onder de grote zeeën kan laten zinken. De Burning Blade mag zulke macht niet hebben.$B$BDaarom moet jij de scepter zelf terughalen! Een ziener van de Burning Blade heeft hem. Hij bestudeert de scepter boven op een van de wachttorens van Thunder Axe.$b",
+      "o": "Haal de Sceptre of Light en breng hem terug naar Azore Aldamort bij de toren in Ethel Rethor.$b",
+      "p": "Heb je de Sceptre of Light?$b",
+      "c": "De ongrijpbare Sceptre of Light! Nu jij hem hebt, is een ernstige bedreiging voor de wereld verdwenen. Goed gedaan, $c, goed gedaan.$b",
+      "g": [
+        [
+          "Volgens de geruchten",
+          "it is rumored"
+        ],
+        [
+          "legende",
+          "legend"
+        ],
+        [
+          "scepter",
+          "sceptre"
+        ],
+        [
+          "zinken",
+          "sink"
+        ],
+        [
+          "macht",
+          "power"
+        ],
+        [
+          "terughalen",
+          "to retrieve"
+        ],
+        [
+          "ziener",
+          "seer"
+        ],
+        [
+          "bestudeert",
+          "studies (bestuderen)"
+        ],
+        [
+          "wachttorens",
+          "watchtowers (wachttoren)"
+        ],
+        [
+          "ongrijpbare",
+          "elusive (ongrijpbaar)"
+        ],
+        [
+          "ernstige",
+          "grave, serious (ernstig)"
+        ],
+        [
+          "bedreiging",
+          "threat"
+        ]
+      ]
+    },
+    "5561": {
+      "t": "Kodo's bijeendrijven",
+      "d": "Bibbly denkt dat hij de enige goblin in Desolace is die weet hoe je geld verdient. Nou, de enige karavaan die dapper genoeg is om door deze streek te reizen, rekent op mij. Sinds ik heb geleerd hoe ik oude en stervende kodo's kan verjongen en besturen met mijn kodo-kombobulator, werken de karavaaneigenaar Cork, Rigger en ik samen.$B$BNeem de kombobulator en gebruik hem op zeer oude, oude of stervende kodo's. Hij geeft het beest een schok, maakt er een tamme kodo van en dwingt hem om jou te volgen. Zodra je een kodo hebt getemd, breng hem dan naar mij.",
+      "o": "Breng vijf Tamed Kodos en de Kodo Kombobulator terug naar Smeed Scrabblescrew in Scrabblescrew's Camp.",
+      "p": "De karavaan is er zo; heb je de vijf nieuwe tamme kodo's waar ik om vroeg?",
+      "c": "<Smeed Scrabblescrew begint te tellen.>$B$BDrie, vier en vijf... prachtig. Ik vraag om vijf tamme kodo's en ik krijg vijf tamme kodo's... Ik word rijk... ja, heel rijk! Ik hoop de blik op het groene gezicht van Bibbly te zien als hij hoort hoe goed het me gaat!",
+      "o1": "Kodo's getemd",
+      "g": [
+        [
+          "bijeendrijven",
+          "to round up"
+        ],
+        [
+          "karavaan",
+          "caravan"
+        ],
+        [
+          "dapper",
+          "brave"
+        ],
+        [
+          "streek",
+          "region, parts"
+        ],
+        [
+          "rekent op",
+          "relies on (rekenen op)"
+        ],
+        [
+          "stervende",
+          "dying (sterven)"
+        ],
+        [
+          "verjongen",
+          "to rejuvenate"
+        ],
+        [
+          "besturen",
+          "to control"
+        ],
+        [
+          "schok",
+          "jolt, shock"
+        ],
+        [
+          "tamme",
+          "tame, tamed (tam)"
+        ],
+        [
+          "dwingt",
+          "forces (dwingen)"
+        ],
+        [
+          "getemd",
+          "tamed (temmen)"
+        ],
+        [
+          "tellen",
+          "to count"
+        ],
+        [
+          "prachtig",
+          "excellent, splendid"
+        ]
+      ]
+    },
+    "1370": {
+      "t": "Voorraden stelen",
+      "d": "Als we geen oorlog voeren, jagen we op vlees. Vlees geeft ons kracht, en volle buiken vechten harder dan lege.$B$BBij de Magram is het net zo. Zij bewaren extra vlees, zodat ze tussen de jachten door langer kunnen vechten. Als je hun dorp in het oosten overvalt en hun voorraad vlees meeneemt, dan verliezen ze hun kracht.",
+      "o": "Breng 6 zakken Crudely Dried Meat naar Uthek the Wise in Gelkis Village.",
+      "p": "Kom terug als je verder hebt bewezen wat je waard bent voor de Gelkis!",
+      "c": "Goed. Ik kan de luide buiken van de Magram horen rommelen, helemaal vanuit hun dorp ver weg!$B$BIk geef dit vlees aan de Gelkis. En we zullen vele dagen vechten zonder rust.$B$BWat je hebt gedaan is goed voor de Gelkis, $N.",
+      "g": [
+        [
+          "Voorraden",
+          "supplies (voorraad)"
+        ],
+        [
+          "oorlog voeren",
+          "to be at war"
+        ],
+        [
+          "buiken",
+          "bellies (buik)"
+        ],
+        [
+          "net zo",
+          "just the same"
+        ],
+        [
+          "jachten",
+          "hunts (jacht)"
+        ],
+        [
+          "overvalt",
+          "raid (overvallen)"
+        ],
+        [
+          "voorraad",
+          "store, stock"
+        ],
+        [
+          "bewezen",
+          "proven (bewijzen)"
+        ],
+        [
+          "wat je waard bent",
+          "your worth"
+        ],
+        [
+          "luide",
+          "loud (luid)"
+        ],
+        [
+          "rommelen",
+          "to grumble, rumble"
+        ],
+        [
+          "rust",
+          "rest"
+        ]
+      ]
+    },
+    "1371": {
+      "t": "Een apparaatje voor Warug",
+      "d": "Lang geleden kwam er een kleine gnoom naar Desolace. Hij had paarden en een kar, en in de kar lagen vreemde dingen. Grappige dingen. Dingen die in andere kleuren brandden. Dingen die bewogen en niet leefden. Ik heb de kleine gnoom gedood, maar daarvoor... liet hij me lachen.$B$BIk heb mijn lievelingsding uit zijn kar gehouden. Het was een mens van hout, en het zwaaide naar me tot ik erop sloeg en het brak.$B$BIk wil een nieuwe. Haal een nieuwe voor me!",
+      "o": "Behoud je reputatie bij de Magram en breng een Advanced Target Dummy naar Warug in Magram Village in Desolace.",
+      "p": "Als je niet onze vijand bent, dan doe je wat ik vraag!",
+      "c": "Ja, dit is wat ik had! Ik ga het weer laten bewegen. Het laat me lachen!",
+      "g": [
+        [
+          "apparaatje",
+          "gizmo, little device"
+        ],
+        [
+          "kar",
+          "cart"
+        ],
+        [
+          "Grappige",
+          "funny (grappig)"
+        ],
+        [
+          "brandden",
+          "burned (branden)"
+        ],
+        [
+          "bewogen",
+          "moved (bewegen)"
+        ],
+        [
+          "lievelingsding",
+          "favourite thing"
+        ],
+        [
+          "gehouden",
+          "kept (houden)"
+        ],
+        [
+          "zwaaide",
+          "waved (zwaaien)"
+        ],
+        [
+          "sloeg",
+          "hit (slaan)"
+        ],
+        [
+          "Behoud",
+          "maintain, keep (behouden)"
+        ]
+      ]
+    },
+    "1382": {
+      "t": "Een vreemd bondgenootschap",
+      "d": "We hebben geluk dat de centaurenclans onderling vechten. Als ze één groot leger vormden, zou niemand ze kunnen tegenhouden. Ja, we hebben geluk, en we moeten ons voordeel benutten.$B$BEen van de clans, de Gelkis, voert een wrede oorlog tegen de Magram. Als wij de Magram aanvallen, kunnen we misschien een bondgenootschap sluiten met de Gelkis.$B$BSpreek met Uthek the Wise, aan de rand van de kampen van de Gelkis in het zuidwesten van Desolace. Via haar kunnen we misschien een bondgenootschap sluiten met de Gelkis.",
+      "o": "Bereik de reputatie Friendly bij de Gelkis en spreek dan met Uthek the Wise.",
+      "p": "Ga weg! De Gelkis willen je hier niet. Ga nu weg!!$B$BKom terug als je veel Magram hebt gedood, dan zal ik met je praten.",
+      "c": "Je naam wordt gefluisterd onder de Gelkis. Er zit veel bloed van de Magram aan je handen. Dat is goed.$B$BMisschien is het ook goed als we praten. Praten over wat jij voor de Gelkis kunt doen, en wat wij voor jou kunnen doen.",
+      "g": [
+        [
+          "bondgenootschap",
+          "alliance"
+        ],
+        [
+          "centaurenclans",
+          "centaur clans"
+        ],
+        [
+          "onderling",
+          "among themselves"
+        ],
+        [
+          "vormden",
+          "formed (vormen)"
+        ],
+        [
+          "tegenhouden",
+          "to stop"
+        ],
+        [
+          "ons voordeel benutten",
+          "press our advantage"
+        ],
+        [
+          "wrede",
+          "brutal, cruel (wreed)"
+        ],
+        [
+          "sluiten",
+          "to strike, conclude (an alliance)"
+        ],
+        [
+          "aan de rand van",
+          "on the outskirts of"
+        ],
+        [
+          "kampen",
+          "camps (kamp)"
+        ],
+        [
+          "Via",
+          "through, via"
+        ],
+        [
+          "Bereik",
+          "reach, gain (bereiken)"
+        ],
+        [
+          "gefluisterd",
+          "whispered (fluisteren)"
+        ]
+      ]
+    },
+    "1385": {
+      "t": "Wrede politiek",
+      "d": "Desolace is een land in oorlog. De centauren voeren oorlog met elkaar. Wij denken dat de winnaar daarna zal uitbreken en onze vestingen zal bedreigen. Dat kunnen we niet toestaan.$B$BWe moeten leren hoe we de centauren kunnen verslaan, en daarvoor... moeten we een bondgenootschap sluiten met een van de clans. De Magram-centauren vechten tegen de Gelkis. Als jij tegen de Gelkis vecht, overwegen de Magram misschien een bondgenootschap.$B$BWin de gunst van de Magram en spreek dan met Warug, in het dorp van de Magram in het zuidoosten van Desolace.",
+      "o": "Bereik de reputatie Friendly bij de Magram en spreek dan met Warug.",
+      "p": "Je gaat nu weg, of de Magram verpletteren je! Om onze vriend te zijn, moet je Gelkis doden.",
+      "c": "Veel Gelkis vallen door jou. Dat vind ik goed. Misschien kun je meer dingen doen die ik goed vind. Misschien kunnen jij en de Magram vrienden worden.",
+      "g": [
+        [
+          "Wrede",
+          "brutal (wreed)"
+        ],
+        [
+          "politiek",
+          "politics"
+        ],
+        [
+          "voeren oorlog",
+          "wage war (oorlog voeren)"
+        ],
+        [
+          "winnaar",
+          "victor, winner"
+        ],
+        [
+          "uitbreken",
+          "to break out, spill out"
+        ],
+        [
+          "vestingen",
+          "strongholds (vesting)"
+        ],
+        [
+          "bedreigen",
+          "to threaten"
+        ],
+        [
+          "toestaan",
+          "to allow"
+        ],
+        [
+          "verslaan",
+          "to beat, defeat"
+        ],
+        [
+          "bondgenootschap",
+          "alliance"
+        ],
+        [
+          "overwegen",
+          "consider"
+        ],
+        [
+          "gunst",
+          "favour"
+        ],
+        [
+          "Bereik",
+          "reach, gain (bereiken)"
+        ],
+        [
+          "verpletteren",
+          "crush (verpletteren)"
+        ]
+      ]
+    },
+    "1459": {
+      "t": "Reagentia voor Reclaimers Inc.",
+      "d": "Het volgende op de lijst van Leftwitch is... even kijken... hm. O, hier staat het.$B$BEenvoudig genoeg, maar zijn instructies zijn heel precies. Hij heeft gif nodig van de scorpashi, en huid van een paar kodo's. In de kleine lettertjes staat dat ze allebei van bepaalde dieren moeten komen: het gif mag van elke scorpashi komen, maar de huid moet van een oude kodo komen, niet van de stervende of de zeer oude.$B$BMagiërs, zeg ik je, sommige dingen die ze willen... het is gewoon raar.",
+      "o": "Breng 7 flesjes Scorpashi Venom en 3 Aged Kodo Hides naar Kreldig Ungor in Desolace.",
+      "p": "Sorry dat ik je niet kon vertellen waar je de kodo's of de scorpashi kunt vinden. Ik ken de omgeving niet zo goed, en ik heb nog geen tijd gehad om rond te kijken.",
+      "c": "Je hulp hier is een zegen, $N. Door jou ben ik minstens twee keer zo snel klaar in Desolace. Met jouw hulp zit ik in een mum van tijd weer in Ironforge mijn voeten te warmen.$B$BAls deze lijst klaar is en ik weer thuis ben, kom dan eens langs. Dan trakteer ik je zeker op een biertje.$B$BMaar tot die tijd: laten we de rest van deze reagentia verzamelen.",
+      "g": [
+        [
+          "Eenvoudig",
+          "simple"
+        ],
+        [
+          "instructies",
+          "directions, instructions"
+        ],
+        [
+          "precies",
+          "exact, explicit"
+        ],
+        [
+          "gif",
+          "venom, poison"
+        ],
+        [
+          "huid",
+          "hide, skin"
+        ],
+        [
+          "kleine lettertjes",
+          "fine print"
+        ],
+        [
+          "bepaalde",
+          "specific (bepaald)"
+        ],
+        [
+          "flesjes",
+          "vials (flesje)"
+        ],
+        [
+          "omgeving",
+          "area, surroundings"
+        ],
+        [
+          "rond te kijken",
+          "to explore, look around (rondkijken)"
+        ],
+        [
+          "zegen",
+          "blessing, boon"
+        ],
+        [
+          "minstens",
+          "at least"
+        ],
+        [
+          "in een mum van tijd",
+          "in no time"
+        ],
+        [
+          "kom ... eens langs",
+          "look me up (langskomen)"
+        ],
+        [
+          "trakteer",
+          "treat (trakteren)"
+        ]
+      ]
+    },
+    "5821": {
+      "t": "Lijfwacht gezocht",
+      "d": "Normaal gesproken leiden Rigger en ik onze kodo's langs de Kolkar-centauren. Af en toe horen we de oorlogstrommels van de centauren, en als we die horen, stoppen we. Het is niet goed voor de zaken om dood te zijn!$B$BWeet je wat, $c? Als je ons beschermt tot voorbij het dorp van de Kolkar, zorgen we dat het de moeite waard is.$B$BHet is maar een kort stukje. Je hoeft alleen de karavaan heel te houden, dan kun je je beloning ophalen bij Smeed Scrabblescrew. Hij zit een stukje verderop aan de weg. We doen een beetje zaken samen.",
+      "o": "Begeleid de Gizelton Caravan langs het dorp van de Kolkar Centaur. Praat met Smeed in Scrabblescrew's Camp voor je beloning.",
+      "p": "Waarom sta ik toch steeds op die vervloekte karavaan te wachten?$b$b<Smeed lijkt het ineens te snappen.>$b$bO ja, zij betalen de rekeningen. Heb je ze gezien?",
+      "c": "Weet je, het lijkt me niet erg winstgevend om types zoals jij te betalen om de Gizelton Caravan te bewaken. $C, als ik iets langer was, zou ik er een tweede baan bij kunnen nemen. Dan zou ik zijdelings op een kodo zitten met het grootste geweer dat ik kon dragen... en ik zou die vervloekte centauren laten zien wie hier de baas is.",
+      "e": "Begeleid de Gizelton Caravan langs Kolkar Centaur Village",
+      "g": [
+        [
+          "Lijfwacht",
+          "bodyguard"
+        ],
+        [
+          "Normaal gesproken",
+          "under normal circumstances"
+        ],
+        [
+          "Af en toe",
+          "every now and then"
+        ],
+        [
+          "oorlogstrommels",
+          "war drums (oorlogstrommel)"
+        ],
+        [
+          "de moeite waard",
+          "worth your while"
+        ],
+        [
+          "stukje",
+          "short distance, bit"
+        ],
+        [
+          "heel te houden",
+          "to keep intact (heel houden)"
+        ],
+        [
+          "beloning",
+          "reward"
+        ],
+        [
+          "verderop",
+          "further along"
+        ],
+        [
+          "vervloekte",
+          "blasted, cursed (vervloekt)"
+        ],
+        [
+          "rekeningen",
+          "bills (rekening)"
+        ],
+        [
+          "winstgevend",
+          "profitable, prosperous"
+        ],
+        [
+          "bewaken",
+          "to guard"
+        ],
+        [
+          "zijdelings",
+          "sideways, side-saddle"
+        ],
+        [
+          "geweer",
+          "gun"
+        ],
+        [
+          "de baas",
+          "the boss"
+        ]
+      ]
+    },
+    "6161": {
+      "t": "Eis de schat van Rackmore op!",
+      "d": "Het logboek van Rackmore vertelt hoe zijn schip op weg was naar Feathermoon Stronghold, toen het werd aangevallen door wezens uit de zee. Om te voorkomen dat zijn schat in handen van de vijand viel, verstopte hij zijn kist op Ranazjar Isle.$B$BOm de kist te openen heb je twee sleutels nodig: een zilveren en een gouden. Deze sleutels zijn verloren gegaan, maar als de sleutels en de kist worden gevonden, wacht er een schat!",
+      "o": "Vind Rackmore's Silver Key. Vind Rackmore's Golden Key. Vind en open Rackmore's Chest.",
+      "p": "Deze kist zit stevig op slot.",
+      "c": "De kist gaat open, en de schat van Rackmore komt tevoorschijn!",
+      "g": [
+        [
+          "Eis ... op",
+          "claim (opeisen)"
+        ],
+        [
+          "schat",
+          "treasure"
+        ],
+        [
+          "logboek",
+          "log"
+        ],
+        [
+          "op weg",
+          "on the way"
+        ],
+        [
+          "wezens",
+          "creatures (wezen)"
+        ],
+        [
+          "voorkomen",
+          "to prevent"
+        ],
+        [
+          "in handen van",
+          "into the hands of"
+        ],
+        [
+          "verstopte",
+          "hid (verstoppen)"
+        ],
+        [
+          "kist",
+          "chest"
+        ],
+        [
+          "zilveren",
+          "silver"
+        ],
+        [
+          "verloren gegaan",
+          "lost (verloren gaan)"
+        ],
+        [
+          "stevig op slot",
+          "securely locked"
+        ],
+        [
+          "tevoorschijn",
+          "into view (tevoorschijn komen: appear)"
+        ]
+      ]
+    },
+    "1373": {
+      "t": "Ongeku",
+      "d": "Je moet nog meer bewijzen, en je volgende taak brengt je ver weg. Dus voorlopig vechten de Gelkis zonder jou tegen de Magram.$B$BDe aarde fluistert veel geheimen tegen wie luistert. Een van die geheimen gaat over een rood kristal. Het heet draenethyst, en het is nieuw op onze aarde. Het komt van een plek waar bergen vliegen en waar demonen heersen.$B$BBreng me een scherf draenethyst, dan wordt mijn magie sterk! De scherf is in een plek die de Swamp of Sorrows heet. Ongeku, de verlorene, heeft hem.",
+      "o": "Behoud je reputatie bij de Gelkis en breng een Draenethyst Shard naar Uthek the Wise in Gelkis Village in Desolace.",
+      "p": "Laat me zien dat je een vriend van de Gelkis bent, $N.",
+      "c": "Ja, dit is de scherf waarover de aarde fluisterde. Ik voel sterke magie erin! Ik zal deze magie gebruiken tegen de vijanden van de Gelkis.$B$BJe hebt weer een taak voor ons gedaan, $N. Misschien noemen we je binnenkort een vriend.",
+      "g": [
+        [
+          "bewijzen",
+          "to prove"
+        ],
+        [
+          "voorlopig",
+          "for now"
+        ],
+        [
+          "aarde",
+          "earth"
+        ],
+        [
+          "fluistert",
+          "whispers (fluisteren)"
+        ],
+        [
+          "geheimen",
+          "secrets (geheim)"
+        ],
+        [
+          "kristal",
+          "crystal"
+        ],
+        [
+          "heersen",
+          "rule"
+        ],
+        [
+          "scherf",
+          "shard"
+        ],
+        [
+          "de verlorene",
+          "the lost one"
+        ],
+        [
+          "Behoud",
+          "maintain, keep (behouden)"
+        ],
+        [
+          "waarover",
+          "of which, about which"
+        ],
+        [
+          "noemen",
+          "call"
+        ]
+      ]
+    },
+    "1374": {
+      "t": "Khan Jehn",
+      "d": "De aarde spreekt tot mij, en ze zegt dat de Magram zwakker worden. Nu is het tijd om hun khan te doden!$B$BBreng me het hoofd van de khan van de Magram, Jehn!",
+      "o": "Breng Khan Jehn's Head naar Uthek the Wise in Gelkis Village in Desolace.",
+      "p": "Laat me zien dat je een vriend van de Gelkis bent, $N.",
+      "c": "Khan Jehn was sterk, maar dom. Hij dacht dat zijn eigen kracht groot was. Hij zag niet dat de magie van de aarde sterker is. De Magram-centauren zullen nu vallen zonder hun leider, en de Gelkis zullen op een dag heersen!",
+      "g": [
+        [
+          "spreekt tot",
+          "speaks to (spreken tot)"
+        ],
+        [
+          "zwakker",
+          "weaker (zwak)"
+        ],
+        [
+          "khan",
+          "khan, chieftain"
+        ],
+        [
+          "hoofd",
+          "head"
+        ],
+        [
+          "kracht",
+          "strength"
+        ],
+        [
+          "sterker",
+          "stronger (sterk)"
+        ],
+        [
+          "leider",
+          "leader"
+        ],
+        [
+          "heersen",
+          "to rule"
+        ]
+      ]
+    },
+    "1375": {
+      "t": "Khan Shaka",
+      "d": "Jij helpt de Magram, en ik vind je aardig. Dood nu de khan van de Gelkis! Hij heet Khan Shaka, en ik wil zijn hoofd! Ik wil naar zijn hoofd staren en hem uitlachen!",
+      "o": "Behoud je reputatie bij de Magram en breng de Head of Khan Shaka naar Warug in Magram Village in Desolace.",
+      "p": "Doe taken voor de Magram, dan help ik jou.",
+      "c": "Khan Shaka is dood! Ik zet zijn hoofd op een speer en houd het bij me, zodat Shaka de kracht van de Magram kan zien!",
+      "g": [
+        [
+          "aardig",
+          "nice, likeable"
+        ],
+        [
+          "khan",
+          "khan, chieftain"
+        ],
+        [
+          "staren",
+          "to stare"
+        ],
+        [
+          "uitlachen",
+          "to laugh at"
+        ],
+        [
+          "Behoud",
+          "maintain, keep (behouden)"
+        ],
+        [
+          "speer",
+          "pike, spear"
+        ],
+        [
+          "houd het bij me",
+          "keep it with me"
+        ]
+      ]
+    },
+    "5943": {
+      "t": "De Gizelton Caravan",
+      "d": "Je ziet eruit als een bekwame $r. Wil je misschien wat geld verdienen? Cork en ik zijn deze karavaan begonnen om een flinke smak geld te verdienen. We wisten niet hoe gevaarlijk het is om geld te verdienen!$B$BHier verderop ligt Mannoroc Coven... Normaal letten de demonen niet op ons, maar deze keer zijn de kodo's ergens van geschrokken. Ik betaal je om de karavaan te beschermen tot voorbij Mannoroc Coven. Zodra we er veilig voorbij zijn, kun je je beloning ophalen bij onze zakenpartner Smeed in Scrabblescrew's Camp.",
+      "o": "Begeleid de Gizelton Caravan door Mannoroc Coven. Praat met Smeed in Scrabblescrew's Camp voor je beloning.",
+      "p": "Weet je, als die karavaan ooit zou verdwijnen, zou ik geruïneerd zijn! Je komt toch geen slecht nieuws over de karavaan brengen?$b$b<Smeed veegt over zijn voorhoofd.>$b$bDank aan de godin van de hebzucht!",
+      "c": "Ik weet niet of het zo'n winstgevend plan is om zoveel geld te betalen om de Gizelton Caravan te beschermen. Cork en Rigger verdienen maar één goudstuk per week. Maar zolang ze blijven betalen voor mijn kodo's, kan het me niet schelen hoe ze hun zaak runnen.",
+      "e": "Begeleid de Gizelton Caravan langs Mannoroc Coven",
+      "g": [
+        [
+          "bekwame",
+          "capable (bekwaam)"
+        ],
+        [
+          "een flinke smak geld",
+          "a bundle of money"
+        ],
+        [
+          "verderop",
+          "up ahead"
+        ],
+        [
+          "letten ... op",
+          "pay attention to (letten op)"
+        ],
+        [
+          "geschrokken",
+          "spooked, frightened (schrikken)"
+        ],
+        [
+          "zakenpartner",
+          "business associate"
+        ],
+        [
+          "geruïneerd",
+          "ruined"
+        ],
+        [
+          "veegt",
+          "wipes (vegen)"
+        ],
+        [
+          "voorhoofd",
+          "brow, forehead"
+        ],
+        [
+          "hebzucht",
+          "greed"
+        ],
+        [
+          "winstgevend",
+          "profitable, prosperous"
+        ],
+        [
+          "goudstuk",
+          "gold piece"
+        ],
+        [
+          "zolang",
+          "as long as"
+        ],
+        [
+          "kan het me niet schelen",
+          "I couldn't care less"
+        ],
+        [
+          "runnen",
+          "to run (a business)"
+        ]
+      ]
+    },
+    "6027": {
+      "t": "Het Book of the Ancients",
+      "d": "$n, ik vertrouw je de Gem of the Serpent toe. Leg deze edelsteen op de hand van het Serpent Statue op Ranazjar Isle, een klein eiland ten noordwesten van hier. Als je hem daar legt, roep je degene op die het Book of the Ancients beschermt. Dit boek bevat de geheimen van de naga: geheimen die al eeuwenlang bewaard worden. Breng dit boek naar mij, dan leren we veel over onze geschubde vijanden!",
+      "o": "Haal het Book of the Ancients en breng het terug naar Azore Aldamort bij de toren in Ethel Rethor.$b",
+      "p": "Ah, $n! Fijn om je weer te zien. Heb je het Book of the Ancients?$b",
+      "c": "Het lang verloren Book of the Ancients! Ik zal ervoor zorgen dat dit boek bij de hoge raad komt. Je hebt het goed gedaan vandaag, en daarvoor moet je bedankt worden... zoals een held bedankt hoort te worden!$b",
+      "g": [
+        [
+          "vertrouw ... toe",
+          "entrust (toevertrouwen)"
+        ],
+        [
+          "edelsteen",
+          "gem"
+        ],
+        [
+          "ten noordwesten van",
+          "northwest of"
+        ],
+        [
+          "roep ... op",
+          "summon (oproepen)"
+        ],
+        [
+          "degene",
+          "the one"
+        ],
+        [
+          "bevat",
+          "contains (bevatten)"
+        ],
+        [
+          "eeuwenlang",
+          "for centuries"
+        ],
+        [
+          "bewaard",
+          "kept (bewaren)"
+        ],
+        [
+          "geschubde",
+          "scaled (geschubd)"
+        ],
+        [
+          "verloren",
+          "lost"
+        ],
+        [
+          "ervoor zorgen",
+          "to ensure"
+        ],
+        [
+          "raad",
+          "council"
+        ],
+        [
+          "held",
+          "hero"
+        ],
+        [
+          "hoort",
+          "ought to, should (horen)"
+        ]
+      ]
+    },
+    "261": {
+      "t": "Het Scarlet-pad op",
+      "d": "Ik zal eerlijk zijn. We zijn in oorlog met de Scourge. Het is een kwaad dat ons volk bederft en ons land besmet. Het moet worden gestopt voordat het ons overweldigt en onze wereld in de duisternis sleept. Wij van de Scarlet Crusade hebben gezworen om met lichaam en ziel tegen de Scourge te vechten.$B$BAls je aan onze kant staat, verzamel dan je moed en bewijs je trouw: vernietig de ondode verwoesters van Desolace, in de Valley of Bones in het zuiden.$B$BDoe dit, en de Crusade zal je met open armen ontvangen.",
+      "o": "Vernietig 30 Undead Ravagers en ga dan terug naar Brother Anton in Nijel's Point.",
+      "p": "De Scourge wordt met elke dag die voorbijgaat machtiger. Als je echt wilt dat hij niet verder oprukt, laat het me dan zien.",
+      "c": "Je hebt je vastberadenheid bewezen, en de Scarlet Crusade prijst je.$B$BAls je niet terugdeinst voor rechtvaardig slachten, dan ligt jouw pad misschien bij ons...",
+      "g": [
+        [
+          "kwaad",
+          "evil"
+        ],
+        [
+          "bederft",
+          "corrupts (bederven)"
+        ],
+        [
+          "besmet",
+          "infects (besmetten)"
+        ],
+        [
+          "overweldigt",
+          "overwhelms (overweldigen)"
+        ],
+        [
+          "duisternis",
+          "darkness, shadow"
+        ],
+        [
+          "sleept",
+          "drags (slepen)"
+        ],
+        [
+          "gezworen",
+          "sworn (zweren)"
+        ],
+        [
+          "ziel",
+          "soul"
+        ],
+        [
+          "moed",
+          "courage"
+        ],
+        [
+          "trouw",
+          "loyalty, allegiance"
+        ],
+        [
+          "verwoesters",
+          "ravagers (verwoester)"
+        ],
+        [
+          "met open armen",
+          "with open arms"
+        ],
+        [
+          "oprukt",
+          "advances (oprukken)"
+        ],
+        [
+          "vastberadenheid",
+          "resolve"
+        ],
+        [
+          "terugdeinst",
+          "shy away (terugdeinzen)"
+        ],
+        [
+          "rechtvaardig",
+          "righteous"
+        ]
+      ]
+    },
+    "1454": {
+      "t": "Het wrak van Karnitol",
+      "d": "Mijn eerste klus is voor de magiër Karnitol, een of andere edelman in Stormwind. Blijkbaar werd zijn schip aangevallen door zeereuzen, voor de kust in het noordwesten van Desolace. Hij en zijn bedienden probeerden een van zijn waardevollere kisten aan land te brengen. Maar toen de zeereuzen in groten getale aanvielen, besloot hij de kist achter te laten. Hij teleporteerde zichzelf en zijn bedienden naar een veilige plek.$B$BHij wil dat wij de kist en wat erin zit vinden, en alles naar hem terugbrengen in Stormwind.",
+      "o": "Vind Karnitol's Chest in Desolace.",
+      "c": "Je ziet dat de kist geen waterschade lijkt te hebben.$B$BHet tweede wat je ziet: het deksel is opengebroken, en de magische vallen die de kist moesten beschermen, zijn al lang geleden afgegaan. Dat is duidelijk te zien aan de brandplekken langs de randen.",
+      "g": [
+        [
+          "wrak",
+          "shipwreck"
+        ],
+        [
+          "klus",
+          "job, order of business"
+        ],
+        [
+          "edelman",
+          "nobleman"
+        ],
+        [
+          "zeereuzen",
+          "sea giants (zeereus)"
+        ],
+        [
+          "voor de kust",
+          "off the coast"
+        ],
+        [
+          "bedienden",
+          "servants (bediende)"
+        ],
+        [
+          "waardevollere",
+          "more valuable (waardevol)"
+        ],
+        [
+          "aan land",
+          "ashore"
+        ],
+        [
+          "in groten getale",
+          "in droves"
+        ],
+        [
+          "achter te laten",
+          "to abandon (achterlaten)"
+        ],
+        [
+          "teleporteerde",
+          "teleported (teleporteren)"
+        ],
+        [
+          "deksel",
+          "lid, top"
+        ],
+        [
+          "opengebroken",
+          "forced open (openbreken)"
+        ],
+        [
+          "vallen",
+          "traps (val)"
+        ],
+        [
+          "afgegaan",
+          "triggered, gone off (afgaan)"
+        ],
+        [
+          "brandplekken",
+          "burn marks (brandplek)"
+        ]
+      ]
+    }
+  },
+  "words": {
+    "aanvielen": "attacked (aanvallen)",
+    "benutten": "to make use of, exploit",
+    "clans": "clans (clan)",
+    "eis": "claim, demand (opeisen / eisen)",
+    "fiasco": "fiasco, disaster",
+    "fluisterde": "whispered (fluisteren)",
+    "fort": "fort, fortress",
+    "getale": "number (in groten getale: in large numbers)",
+    "gouden": "golden, gold (goud)",
+    "groten": "large (in groten getale: in large numbers)",
+    "hatefury-saters": "Hatefury satyrs",
+    "ineens": "suddenly",
+    "karavaaneigenaar": "caravan owner",
+    "kleuren": "colours (kleur)",
+    "kodo's": "kodos (kodo)",
+    "kodo-kombobulator": "kodo kombobulator",
+    "kolkar-centauren": "Kolkar centaurs",
+    "lach": "laugh (lachen)",
+    "lachen": "to laugh",
+    "leefden": "lived, were alive (leven)",
+    "lettertjes": "little letters (kleine lettertjes: fine print)",
+    "magram-centauren": "Magram centaurs",
+    "meeneemt": "take along (meenemen)",
+    "plekke": "spot (ter plekke: on the spot)",
+    "reisden": "travelled (reizen)",
+    "scarlet-pad": "Scarlet path",
+    "slachten": "slaughter, slaughtering",
+    "smak": "heap, lot (een smak geld: a bundle of money)",
+    "snappen": "to get, understand",
+    "speelt": "plays (spelen)",
+    "sterkst": "strongest (sterk)",
+    "streven": "to strive (nastreven: to pursue)",
+    "verlorene": "lost one (verloren)",
+    "verte": "distance (in de verte: in the distance)",
+    "vreest": "fears (vrezen)",
+    "waartegen": "against which",
+    "win": "win, gain (winnen)",
+    "zeer": "very"
+  },
+  "terms": {
+    "kodo": "kodo: a large, slow beast of burden from the Warcraft world, like a horned rhino",
+    "scorpashi": "scorpashi: a giant scorpion of Desolace in the Warcraft world",
+    "draenethyst": "draenethyst: a red crystal from Draenor, the world of the orcs and draenei",
+    "kombobulator": "kombobulator: a goblin gadget (made-up word)",
+    "naga": "naga: snake-like sea people from the Warcraft world"
+  }
+}
