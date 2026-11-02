@@ -21,6 +21,7 @@ Data\Batch_02_Shadowglen.lua
 Data\Batch_03_Teldrassil.lua
 Data\Batch_04_Darnassus.lua
 Data\Batch_05_Class_Hunter_10.lua
+Data\Batch_06_Class_Priest_10.lua
 
 Display.lua
 Reader.lua
