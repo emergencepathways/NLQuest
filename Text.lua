@@ -95,7 +95,7 @@ function NQ:Meaning(word, quest)
             if pair[1]:lower() == key then return pair[2] end
         end
     end
-    return self.dict[key]
+    return self.dict[key] or self.glossAll[key]
 end
 
 -- Return the sentence of `text` that contains character position `pos`.

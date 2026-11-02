@@ -1,7 +1,10 @@
 # Changelog
 
-## Unreleased
-- Translation pipeline: quest catalog with faction detection by quest giver, `route.txt` leveling order, batch planner (49 batches cover every Alliance quest up to level 45), batch importer with automatic checks.
+## 0.2.1 — 2026-11-02
+- Batch 2: Shadowglen and Teldrassil up to Lake Al'Ameth and the Ban'ethil Barrow Den (29 quests, 78 in total).
+- A word explained in any quest's word list now shows its meaning in every quest.
+- Warcraft words added: furbolg, grell, grellkin, nightsaber, timberling, Gnarlpine.
+- Translation pipeline: quest catalog with faction detection by quest giver, `route.txt` leveling order, batch planner (50 batches cover every Alliance quest up to level 45), batch importer with automatic checks.
 - Git repository and release packaging (`.pkgmeta`).
 
 ## 0.2.0 — 2026-11-02

@@ -9,7 +9,7 @@ Speurtocht.NL laat de teksten van quests in het Nederlands zien. De rest van het
 - **Een lezer naast het questvenster**, met Nederlands en Engels naast elkaar. Je kunt op elk Nederlands woord klikken.
 - **Een woordenlijst** met de woorden waarop je klikt, klaar om in Anki te zetten.
 
-**Versie 0.2.0** · Classic Era (1.15) nu · World of Warcraft: Forever (1.60) vanaf de lancering
+**Versie 0.2.1** · Classic Era (1.15) nu · World of Warcraft: Forever (1.60) vanaf de lancering
 
 ---
 
@@ -133,8 +133,9 @@ Verandert Forever de Engelse tekst van een quest die al vertaald is? Dan zie je 
 | Coldridge Valley | 13 | ✅ |
 | Dun Morogh | 31 | ✅ |
 | Runen van de klassentrainers voor dwergen (level 1) | 5 | ✅ |
-| Northshire + Elwynn Forest | 48 | volgende |
-| Shadowglen + Teldrassil | 48 | |
+| Northshire + Elwynn Forest | 48 | |
+| Shadowglen + Teldrassil (eerste deel) | 29 | ✅ |
+| Teldrassil (rest) + Darnassus | | volgende |
 | Klassenquests van de Alliance tot level 10 | 102 | |
 | Kerkers, level 10–60 (Alliance) | 214 | |
 | Attunements (Molten Core, Onyxia, Blackwing Lair, Upper Blackrock Spire, Scholomance, sleutel van Blackrock Depths) | 31 | |

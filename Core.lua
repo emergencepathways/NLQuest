@@ -15,7 +15,7 @@
 local addonName, NQ = ...
 _G.SpeurtochtNL = NQ
 
-NQ.version = "0.2.0"
+NQ.version = "0.2.1"
 NQ.Q = {}           -- questID -> translation
 NQ.byTitle = {}     -- lowercase English title -> questID (fallback when IDs differ)
 NQ.dict = {}        -- shared dictionary: lowercase Dutch word -> English meaning
@@ -58,9 +58,14 @@ end
 ------------------------------------------------------------------------
 -- Data registration (called by Data\*.lua)
 ------------------------------------------------------------------------
+NQ.glossAll = {}    -- every quest word-list entry, so a word explained once is known everywhere
 function NQ:AddQuests(tbl)
     for id, q in pairs(tbl) do
         self.Q[id] = q
+        for _, pair in ipairs(q.g or {}) do
+            local k = pair[1]:lower()
+            if not self.glossAll[k] then self.glossAll[k] = pair[2] end
+        end
         if q.en then
             local key = q.en:lower()
             if not self.byTitle[key] then self.byTitle[key] = id end

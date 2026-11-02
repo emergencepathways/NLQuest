@@ -9,7 +9,7 @@ Speurtocht.NL shows quest text in Dutch and leaves the rest of the game in Engli
 - **A side-by-side reader** with Dutch next to English, where every Dutch word can be clicked.
 - **A vocabulary list** of the words you click, ready to import into Anki.
 
-**Version 0.2.0** · Classic Era (1.15) now · World of Warcraft: Forever (1.60) from launch
+**Version 0.2.1** · Classic Era (1.15) now · World of Warcraft: Forever (1.60) from launch
 
 ---
 
@@ -133,8 +133,9 @@ If Forever changes the English text of a quest that's already translated, the re
 | Coldridge Valley | 13 | ✅ |
 | Dun Morogh | 31 | ✅ |
 | Dwarf class runes (level 1) | 5 | ✅ |
-| Northshire + Elwynn Forest | 48 | next |
-| Shadowglen + Teldrassil | 48 | |
+| Northshire + Elwynn Forest | 48 | |
+| Shadowglen + Teldrassil (first part) | 29 | ✅ |
+| Teldrassil (rest) + Darnassus | | next |
 | Alliance class quests up to level 10 | 102 | |
 | Dungeons, levels 10–60 (Alliance) | 214 | |
 | Attunements (Molten Core, Onyxia, Blackwing Lair, Upper Blackrock Spire, Scholomance, Blackrock Depths key) | 31 | |

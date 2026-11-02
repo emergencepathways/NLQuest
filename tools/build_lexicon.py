@@ -29,6 +29,23 @@ def norm(w):
     return w.strip("'-").lower()
 
 
+_EN_CACHE = {}
+
+
+def english_mid_caps(english):
+    """Lowercased words written with a capital in the middle of an English sentence."""
+    if english not in _EN_CACHE:
+        text = english.replace("$b", "\n").replace("$B", "\n").replace("\\n", "\n")
+        found = set()
+        for m in WORD.finditer(text):
+            w = m.group(0).strip("'-")
+            before = text[:m.start()].rstrip(" '\"<(")
+            if w and w[0].isupper() and before and before[-1] not in ".!?:\n":
+                found.add(w.lower())
+        _EN_CACHE[english] = found
+    return _EN_CACHE[english]
+
+
 def lua_table_keys(path):
     text = open(path, encoding="utf-8").read()
     return {k.lower(): v for k, v in re.findall(r'\["(.*?)"\]\s*=\s*' + STR, text)}
@@ -70,14 +87,32 @@ def main():
             if m:
                 target.update({k.lower(): v for k, v in re.findall(r'\["(.*?)"\]\s*=\s*' + STR, m.group(1))})
 
+    # a word explained in any quest's word list counts everywhere
+    for _, (_, glossary) in quests.items():
+        for k, v in glossary.items():
+            dictionary.setdefault(k, v)
+    # words seen capitalised in the middle of a Dutch sentence somewhere
+    mid_caps = set()
+    for _, (fields, _) in quests.items():
+        for text in fields.values():
+            text = re.sub(r"\$[gG][^;]*;|\$[nNcCrR]", " ", text).replace("$b", "\n").replace("$B", "\n")
+            for m in WORD.finditer(text):
+                w = m.group(0).strip("'-")
+                before = text[:m.start()].rstrip(" '\"<(")
+                if w[0].isupper() and before and before[-1] not in ".!?:\n":
+                    mid_caps.add(w.lower())
     names, missing = set(), {}
     for qid, (fields, glossary) in quests.items():
         english = json.dumps(source.get(qid, {}).get("en", {}), ensure_ascii=False)
         for text in fields.values():
-            text = re.sub(r"\$[gG][^;]*;|\$[nNcCrRbB]", " ", text)
+            text = re.sub(r"\$[gG][^;]*;|\$[nNcCrR]", " ", text).replace("$b", "\n").replace("$B", "\n")
             for m in WORD.finditer(text):
                 w = m.group(0).strip("'-")
                 lw = w.lower()
+                before = text[:m.start()].rstrip(" '\"<(")
+                sentence_start = not before or before[-1] in ".!?:\n"
+                if sentence_start and lw not in mid_caps and lw not in english_mid_caps(english) and lw in dictionary:
+                    continue
                 if (w[0].isupper() and lw not in NOT_NAMES
                         and re.search(r"(?<![\w'])" + re.escape(w) + r"(?![\w])", english)):
                     names.add(lw)

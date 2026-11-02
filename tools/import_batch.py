@@ -72,7 +72,11 @@ def check_quest(qid, en, nl, errors, warnings):
                 errors.append("%s.%s: looks untranslated (%s)" % (tag, short, ", ".join(sorted(set(eng))[:6])))
     # names in the objectives should survive translation (they match the tracker)
     if en.get("Objectives") and nl.get("o"):
-        for name in re.findall(r"(?:[A-Z][\w'’-]+)(?:\s+(?:of|the|[A-Z][\w'’-]+))*\s+[A-Z][\w'’-]+", en["Objectives"]):
+        objectives = re.sub(r"(^|[.!?]\s+|\$[bB])(Bring|Kill|Slay|Find|Fill|Speak|Seek|Collect|Gather|Return|Deliver|Take|Give|"
+                            r"Explore|Read|Use|Get|Retrieve|Obtain|Escort|Protect|Travel|Go|Talk|Report|Search|"
+                            r"Destroy|Defeat|Recover|Locate|Investigate|Place|Burn|Free|Rescue|Venture|Journey)\s+(the\s+)?",
+                            r"\1", en["Objectives"])
+        for name in re.findall(r"(?:[A-Z][\w'’-]+)(?:\s+(?:of|the|[A-Z][\w'’-]+))*\s+[A-Z][\w'’-]+", objectives):
             if name not in nl["o"]:
                 warnings.append("%s: objective name '%s' not found in Dutch objectives" % (tag, name))
     gl = nl.get("g") or []

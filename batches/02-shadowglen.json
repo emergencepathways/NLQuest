@@ -1,0 +1,1494 @@
+{
+ "quests": {
+  "458": {
+   "t": "De beschermster van het woud",
+   "d": "Gelukkig ben je er, $c. Ik heb vreemd nieuws gehoord. De geesten van het bos hebben het mij gefluisterd.$b$bDe geheimzinnige beschermster van het woud, Tarindrella, is terug in Shadowglen. Al jaren heeft niemand de dryade gevoeld in de bossen van Kalimdor. Als zij terug is gekomen naar dit land, is er vast iets mis.$b$bZoek Tarindrella op en kijk wat ze komt doen in ons bos. Een van de Sentinels zag haar ten zuidwesten van Aldrassil.",
+   "o": "Zoek de dryade die Tarindrella heet.",
+   "c": "Ik zie dat je me gevonden hebt, jonge $r. Melithar is een wijze druïde, omdat hij jou heeft gestuurd.",
+   "g": [
+    [
+     "beschermster",
+     "protector (female)"
+    ],
+    [
+     "woud",
+     "forest, woods"
+    ],
+    [
+     "geesten",
+     "spirits"
+    ],
+    [
+     "gefluisterd",
+     "whispered (fluisteren)"
+    ],
+    [
+     "geheimzinnige",
+     "mysterious"
+    ],
+    [
+     "dryade",
+     "dryad"
+    ],
+    [
+     "mis",
+     "wrong (er is iets mis)"
+    ],
+    [
+     "wijze",
+     "wise"
+    ]
+   ]
+  },
+  "5842": {
+   "t": "Welkom!",
+   "d": "Welkom in World of Warcraft!$B$BAls speciale dank voor het kopen van de World of Warcraft Collector's Edition, breng je deze cadeaubon naar Orenthil Whisperwind in Shadowglen. Dan krijg je een cadeau: een klein maatje dat met je meegaat op je zoektocht naar avontuur en roem.$B$BNogmaals bedankt, en veel plezier in World of Warcraft!",
+   "o": "Breng de Shadowglen Gift Voucher naar Orenthil Whisperwind.",
+   "p": "Gegroet! Leuk je te ontmoeten!$B$BIk zie dat je een speciale bon hebt. Geef hem aan mij, dan krijg je er iets voor terug.",
+   "c": "Je bent echt een bijzondere held, $N. Welkom in de wereld van Azeroth! Kies maar een van deze unieke cadeaus.",
+   "g": [
+    [
+     "cadeaubon",
+     "gift voucher"
+    ],
+    [
+     "cadeau",
+     "gift"
+    ],
+    [
+     "maatje",
+     "buddy, companion"
+    ],
+    [
+     "roem",
+     "glory, fame"
+    ],
+    [
+     "unieke",
+     "unique"
+    ]
+   ]
+  },
+  "456": {
+   "t": "Het evenwicht van de natuur",
+   "d": "Gegroet, $N. Ik ben Conservator Ilthalaine. Mijn taak in Shadowglen is zorgen dat de natuur in evenwicht blijft.$b$bDit voorjaar was er heel veel regen. Daardoor groeiden sommige dieren van het bos heel goed, en hadden andere het zwaar.$b$bHelaas zijn er nu te veel nightsabers en distelzwijnen. Shadowglen heeft niet genoeg eten voor al die dieren. Ga op pad, jonge $c, en maak de groepen zwijnen en sabels kleiner. Zo blijft de natuur in harmonie.",
+   "o": "Dood 7 Young Nightsabers en 4 Young Thistle Boars en ga terug naar Conservator Ilthalaine.",
+   "p": "Er is nog werk te doen, $N. Kom terug als je de groepen nightsabers en distelzwijnen kleiner hebt gemaakt.",
+   "c": "Je hebt je taak goed gedaan, $N.",
+   "g": [
+    [
+     "evenwicht",
+     "balance"
+    ],
+    [
+     "natuur",
+     "nature"
+    ],
+    [
+     "voorjaar",
+     "spring (season)"
+    ],
+    [
+     "regen",
+     "rain"
+    ],
+    [
+     "groeiden",
+     "grew (groeien)"
+    ],
+    [
+     "distelzwijnen",
+     "thistle boars"
+    ],
+    [
+     "op pad",
+     "on your way"
+    ],
+    [
+     "harmonie",
+     "harmony"
+    ]
+   ]
+  },
+  "457": {
+   "t": "Het evenwicht van de natuur",
+   "d": "Het was een goed begin om de jonge dieren hier in Shadowglen minder te maken, $N. Maar er is nog werk te doen.$b$bAls we het probleem niet oplossen, is het eten in het bos te snel op. Dieren van de natuur doden is niet leuk, maar het moet, voor iedereen die het land deelt. Ga het bos in en dood schurftige nightsabers en distelzwijnen, voor het evenwicht.",
+   "o": "Conservator Ilthalaine wil dat je 7 Mangy Nightsabers en 7 Thistle Boars doodt.",
+   "p": "Je taak is nog niet klaar, $N. Kom terug als je 8 schurftige nightsabers en 8 distelzwijnen hebt gedood.",
+   "c": "Je hebt goed laten zien hoeveel de natuur voor je betekent, $N. Een jonge $c zoals jij heeft een mooie toekomst.",
+   "g": [
+    [
+     "oplossen",
+     "to solve"
+    ],
+    [
+     "op",
+     "used up, gone (here)"
+    ],
+    [
+     "deelt",
+     "shares (delen)"
+    ],
+    [
+     "schurftige",
+     "mangy"
+    ],
+    [
+     "laten zien",
+     "to show"
+    ],
+    [
+     "betekent",
+     "means (betekenen)"
+    ],
+    [
+     "toekomst",
+     "future"
+    ]
+   ]
+  },
+  "459": {
+   "t": "De beschermster van het woud",
+   "d": "Er is iets kwaads aan het groeien in de bossen van Teldrassil. Kijk naar de heuvels waar de vredige furbolgs vroeger woonden. Ze hebben hun huizen verlaten en verzamelen zich nu onder de naam Gnarlpine-stam.$b$bAlleen de verdorvenheid van het kwade Fel Moss kan zo'n verandering veroorzaken. De grells en grellkin zitten overal in het gebied en bedreigen de bewoners van Shadowglen.$b$bVecht tegen die grells en grellkin, $N, en kijk of ze echt betoverd zijn door het kwade Fel Moss.",
+   "o": "Verzamel 8 Fel Moss en breng ze naar Tarindrella.",
+   "p": "Bewijs dat ik gelijk heb, $N. Breng me 8 Fel Moss.",
+   "c": "Je hulp voor de dieren van Shadowglen verdient een beloning, $N.$b$bMaar je hebt ook mijn angst bevestigd. Als de grells besmet zijn door het Fel Moss, wat is er dan gebeurd met de furbolgs van de Gnarlpine-stam die hier woonden?$b$bAls je in Dolanaar komt, dappere $c, zoek dan de wijze druïde Athridas Bearmantle op. Hij maakt zich ook zorgen over het bos.",
+   "g": [
+    [
+     "kwaads",
+     "evil (iets kwaads)"
+    ],
+    [
+     "vredige",
+     "peaceful"
+    ],
+    [
+     "verlaten",
+     "left, abandoned"
+    ],
+    [
+     "verdorvenheid",
+     "corruption, depravity"
+    ],
+    [
+     "veroorzaken",
+     "to cause"
+    ],
+    [
+     "bedreigen",
+     "to threaten"
+    ],
+    [
+     "bewoners",
+     "residents"
+    ],
+    [
+     "betoverd",
+     "enchanted"
+    ],
+    [
+     "gelijk hebben",
+     "to be right"
+    ],
+    [
+     "bevestigd",
+     "confirmed"
+    ],
+    [
+     "besmet",
+     "infected, tainted"
+    ]
+   ]
+  },
+  "916": {
+   "t": "Gif van de Webwood-spinnen",
+   "d": "Ik kwam naar Shadowglen om de Webwood-spinnen in de Shadowthread Cave te bestuderen. Ze zijn familie van een veel kleinere soort spin. Ik denk dat de wereldboom een grote invloed op ze heeft gehad, en ik wil exemplaren onderzoeken om dat te bewijzen.$B$BEerst wil ik wat van hun gif. Verzamel gifzakjes van de spinnen in en rond de Shadowthread Cave, in het noorden. Dan kan ik ze vergelijken met het gif van hun kleinere familie.",
+   "o": "Breng 10 Webwood Venom Sacs naar Gilshalan Windwalker in Aldrassil.",
+   "p": "Heb je de gifzakjes verzameld, $N?",
+   "c": "Dank je, $N. Als ik terug ben in Darnassus, vergelijk ik het gif in deze zakjes met het gif van andere spinnen. Ik denk dat het eigenschappen heeft die te maken hebben met de groei van onze nieuwe wereldboom.",
+   "g": [
+    [
+     "gif",
+     "venom, poison"
+    ],
+    [
+     "spinnen",
+     "spiders"
+    ],
+    [
+     "bestuderen",
+     "to study"
+    ],
+    [
+     "soort",
+     "kind, species"
+    ],
+    [
+     "wereldboom",
+     "world tree"
+    ],
+    [
+     "invloed",
+     "influence, effect"
+    ],
+    [
+     "exemplaren",
+     "specimens"
+    ],
+    [
+     "gifzakjes",
+     "venom sacs"
+    ],
+    [
+     "vergelijken",
+     "to compare"
+    ],
+    [
+     "eigenschappen",
+     "properties"
+    ],
+    [
+     "groei",
+     "growth"
+    ]
+   ]
+  },
+  "3519": {
+   "t": "Een vriend in nood",
+   "d": "Oehhh... Ik ben heel erg gebeten door een spin die Githyiss the Vile heet. Dat gebeurde toen ik de spinnengrot hier vlakbij onderzocht. Ik weet zeker dat ik vergiftigd ben. Je moet me helpen.$B$BVertel het alsjeblieft aan Dirania Silvershine. Zij kan me helpen.$B$BSnel... Ik ben zo duizelig...",
+   "o": "Praat met Dirania Silvershine in Shadowglen.",
+   "c": "O jee, ik vroeg me al af waarom ik Iverron vandaag nog niet had gezien. En ik heb hem altijd gewaarschuwd voor die spinnen...",
+   "g": [
+    [
+     "in nood",
+     "in need, in trouble"
+    ],
+    [
+     "gebeten",
+     "bitten (bijten)"
+    ],
+    [
+     "spinnengrot",
+     "spider cave"
+    ],
+    [
+     "onderzocht",
+     "explored, investigated"
+    ],
+    [
+     "vergiftigd",
+     "poisoned"
+    ],
+    [
+     "duizelig",
+     "dizzy"
+    ],
+    [
+     "vroeg me af",
+     "wondered (zich afvragen)"
+    ],
+    [
+     "gewaarschuwd",
+     "warned (waarschuwen)"
+    ]
+   ]
+  },
+  "3521": {
+   "t": "Het tegengif van Iverron",
+   "d": "Misschien kunnen we Iverron helpen. Ik ken een tegengif dat tegen het gif moet werken. Maar ik heb er eerst wat ingrediënten voor nodig.$B$BIk heb hyacintpaddenstoelen nodig. Die groeien onder bomen, of je kunt ze halen bij de grells ten zuiden van hier. Die vinden ze blijkbaar lekker. Ik heb ook maanbladlelies nodig. Die groeien alleen rond waterpoelen.$B$BHet laatste ingrediënt is misschien het moeilijkst. Haal Webwood-ichor bij de spinnen die Iverron hebben vergiftigd.",
+   "o": "Verzamel 7 Hyacinth Mushrooms, 4 Moonpetal Lilies en 1 Webwood Ichor voor Dirania Silveshine in Shadowglen.",
+   "p": "Verzamel alsjeblieft de ingrediënten, $N. Iverron heeft onze hulp nodig.",
+   "c": "Elune zij dank dat je deze ingrediënten zo snel hebt verzameld!$B$BOver een momentje is het tegengif klaar.",
+   "g": [
+    [
+     "tegengif",
+     "antidote"
+    ],
+    [
+     "ingrediënten",
+     "ingredients"
+    ],
+    [
+     "paddenstoelen",
+     "mushrooms"
+    ],
+    [
+     "lelies",
+     "lilies"
+    ],
+    [
+     "waterpoelen",
+     "pools of water"
+    ],
+    [
+     "het moeilijkst",
+     "the most difficult"
+    ],
+    [
+     "zij dank",
+     "thanks be to"
+    ],
+    [
+     "momentje",
+     "little moment"
+    ]
+   ]
+  },
+  "3522": {
+   "t": "Het tegengif van Iverron",
+   "d": "Het tegengif is klaar, $N. Zorg alsjeblieft dat Iverron het opdrinkt.$B$BJe moet nog iets weten: het tegengif werkt maar 5 minuten. Je moet het op tijd bij hem brengen.$B$BSnelheid zij met je, $N.",
+   "o": "Breng Iverron's Antidote naar Iverron voordat de tijd om is. Iverron is bij de grot in het noorden.",
+   "p": "O... $N, ik ben zo blij dat je terug bent.",
+   "c": "Wat is dit, $N?$B$BO, ik wist dat Dirania me kon helpen!$B$B<Iverron drinkt het tegengif.>$B$BIk kom altijd in de problemen, en Dirania, tja, die helpt me er altijd weer uit.$B$BIk voel me al veel beter. Maar ik blijf hier nog even zitten, tot ik me helemaal goed voel. Nou ja, dat, en ik hoopte eigenlijk dat jij een pad voor me vrijmaakt tussen die gemene Webwood-spinnen door...",
+   "g": [
+    [
+     "opdrinkt",
+     "drinks up (opdrinken)"
+    ],
+    [
+     "werkt",
+     "works"
+    ],
+    [
+     "om",
+     "over, up (de tijd is om)"
+    ],
+    [
+     "snelheid",
+     "speed"
+    ],
+    [
+     "in de problemen",
+     "in trouble"
+    ],
+    [
+     "tja",
+     "well (shrug)"
+    ],
+    [
+     "eigenlijk",
+     "actually"
+    ],
+    [
+     "vrijmaakt",
+     "clears (vrijmaken)"
+    ],
+    [
+     "gemene",
+     "vicious, nasty"
+    ]
+   ]
+  },
+  "4495": {
+   "t": "Een goede vriend",
+   "d": "Een vriend van mij, Iverron, komt elke dag op hetzelfde tijdstip langs. Maar vandaag is hij nog helemaal niet geweest. Hij is zelfs al een paar uur te laat.$B$BIk geef toe dat ik me een beetje zorgen maak, $N. Iverron is vaak bij de grot in het noorden, en je weet vast hoe gevaarlijk het daar is: overal spinnen!$B$BGa je toevallig die kant op? Wil je dan naar hem uitkijken?",
+   "o": "Vind Iverron bij de grot in het noorden.",
+   "c": "Ik ben zo blij dat je me gevonden hebt, $N. Hoe wist je dat ik hier was?",
+   "g": [
+    [
+     "tijdstip",
+     "time (moment)"
+    ],
+    [
+     "komt langs",
+     "drops by (langskomen)"
+    ],
+    [
+     "te laat",
+     "late"
+    ],
+    [
+     "toevallig",
+     "by chance"
+    ],
+    [
+     "die kant op",
+     "that way"
+    ],
+    [
+     "uitkijken naar",
+     "to look out for"
+    ]
+   ]
+  },
+  "917": {
+   "t": "Een ei van de Webwood-spinnen",
+   "d": "Nu ik het gif van de spinnen heb, wil ik graag levende exemplaren om te onderzoeken. Helaas kan ik niet van je vragen om een levende reuzenspin te vangen, jonge $c. En een reuzenspin is ook te veel voor mij!$B$BMaar als je een ei vindt dat nog niet is uitgekomen, is het veel makkelijker. Dan kan ik ervoor zorgen dat de jonge spinnen veilig worden opgesloten.$B$BEr moet een nest zijn, diep in de Shadowthread Cave. Zoek alsjeblieft een ei in het nest en breng het naar mij.",
+   "o": "Breng een Webwood Egg naar Gilshalan in Aldrassil.",
+   "p": "Ben je in de Shadowthread Cave geweest, $N? Heb je een spinnenei gevonden?",
+   "c": "Ah, heel goed. Ik laat dit ei en het gif naar Darnassus brengen, en ik ga daar zelf heen als mijn onderzoek hier klaar is. Ik verwacht veel te leren van deze exemplaren, $N. Je hebt me heel goed geholpen.",
+   "g": [
+    [
+     "ei",
+     "egg"
+    ],
+    [
+     "levende",
+     "living"
+    ],
+    [
+     "reuzenspin",
+     "giant spider"
+    ],
+    [
+     "vangen",
+     "to catch, capture"
+    ],
+    [
+     "uitgekomen",
+     "hatched (uitkomen)"
+    ],
+    [
+     "opgesloten",
+     "locked up, contained"
+    ],
+    [
+     "nest",
+     "nest"
+    ],
+    [
+     "onderzoek",
+     "research, study"
+    ],
+    [
+     "verwacht",
+     "expect (verwachten)"
+    ]
+   ]
+  },
+  "920": {
+   "t": "Tenaron roept je",
+   "d": "Jij bent $n, toch? Ik hoorde dat Tenaron naar je vraagt. Je vindt hem in de hoogste kamer, boven in Aldrassil.$b$bWe leven misschien lang, maar laat hem toch niet te lang wachten.",
+   "o": "Praat met Tenaron Stormgrip boven in Aldrassil in Shadowglen.",
+   "c": "Ah, $n. Ik hoopte al dat je snel zou komen. Ik heb een belangrijke taak voor je.",
+   "g": [
+    [
+     "roept",
+     "calls, summons (roepen)"
+    ],
+    [
+     "hoogste",
+     "highest"
+    ],
+    [
+     "kamer",
+     "room"
+    ],
+    [
+     "boven in",
+     "at the top of"
+    ],
+    [
+     "laat ... wachten",
+     "keep waiting (laten wachten)"
+    ]
+   ]
+  },
+  "921": {
+   "t": "De kroon van de aarde",
+   "d": "Het is tijd om op zoek te gaan naar je lot, $n. Maar voordat je klaar bent voor de wereld buiten onze betoverde bossen, moet je veel leren over onze recente geschiedenis.$b$bEr is veel veranderd voor ons volk sinds de Slag om Mount Hyjal. Nordrassil is nog maar een bleke schaduw van wat hij vroeger was. Zijn kracht is gebruikt om Archimonde te verslaan en het Burning Legion terug te drijven...$b$bJe moet iets voor me doen. Ga naar de maanbron ten noorden van Aldrassil en breng me een flesje van het water.",
+   "o": "Vul de Crystal Phial en breng hem terug naar Tenaron Stormgrip boven in Aldrassil.",
+   "p": "In de maanbronnen zit het water van de Well of Eternity. Dat is de oude bron van magie die al zo veel ellende over onze wereld heeft gebracht.$b$bDe druïden gebruiken de krachten van het water, en de Sentinels eren de bronnen als heiligdommen van Elune. Maar tovenarij is voor iedereen verboden.",
+   "c": "Zo, nu heb je het eerste deel gehoord van wat er gebeurde na de Slag om Mount Hyjal. Er is nog veel meer te vertellen. De taak die je hier bent begonnen, gaat verder op je reis door Teldrassil en naar Darnassus.",
+   "g": [
+    [
+     "kroon",
+     "crown"
+    ],
+    [
+     "lot",
+     "destiny, fate"
+    ],
+    [
+     "recente",
+     "recent"
+    ],
+    [
+     "geschiedenis",
+     "history"
+    ],
+    [
+     "slag",
+     "battle"
+    ],
+    [
+     "bleke",
+     "pale"
+    ],
+    [
+     "verslaan",
+     "to defeat"
+    ],
+    [
+     "maanbron",
+     "moonwell"
+    ],
+    [
+     "flesje",
+     "small bottle, phial"
+    ],
+    [
+     "ellende",
+     "misery, horrors"
+    ],
+    [
+     "eren",
+     "to honor, revere"
+    ],
+    [
+     "heiligdommen",
+     "shrines"
+    ],
+    [
+     "tovenarij",
+     "sorcery"
+    ],
+    [
+     "verboden",
+     "forbidden"
+    ]
+   ]
+  },
+  "928": {
+   "t": "De kroon van de aarde",
+   "d": "Ik kan je nog veel meer vertellen over de maanbronnen en over Teldrassil, maar ik moet je verder sturen. Corithras Moonrage verwacht je. Ik heb het water dat je bracht in deze schaal gegoten. Die breng je naar hem.$b$bZoek Corithras op. Je vindt hem bij de maanbron in Dolanaar. Volg de weg naar het zuiden, van Aldrassil Shadowglen uit, en blijf de keien volgen als de weg naar het westen draait.$b$bMaar blijf wel op de weg, $n. De laatste tijd zijn er gevaarlijke beesten in de bossen.",
+   "o": "Breng het Partially Filled Vessel naar Corithras Moonrage in Dolanaar.",
+   "p": "Gegroet, $c. Waaraan heb ik het genoegen van deze ontmoeting te danken?",
+   "c": "Ah, ik begrijp het. Tenaron heeft je gestuurd. Nou, dan hebben we veel om over te praten, veel te doen, en weinig tijd om het te doen.$b$bLaten we maar meteen beginnen.",
+   "g": [
+    [
+     "schaal",
+     "bowl, vessel"
+    ],
+    [
+     "gegoten",
+     "poured (gieten)"
+    ],
+    [
+     "keien",
+     "cobblestones"
+    ],
+    [
+     "draait",
+     "turns (draaien)"
+    ],
+    [
+     "genoegen",
+     "pleasure"
+    ],
+    [
+     "ontmoeting",
+     "meeting"
+    ],
+    [
+     "te danken",
+     "to owe (te danken hebben aan)"
+    ],
+    [
+     "begrijp",
+     "understand (begrijpen)"
+    ]
+   ]
+  },
+  "488": {
+   "t": "Zenn wil iets van je",
+   "d": "Je wilt graag werken, zie ik. Je hebt geluk: er gaat geen dag voorbij zonder dat ik wens dat ik een jonge $c had die voor mij werkt.$b$bWeet je, $N, ik kan je heel blij maken en je dingen geven waar je nooit van had durven dromen. Maar dan moet je wel bepaalde spullen voor me halen.$b$bVoor mijn zaken in het bos heb ik soms bepaalde... ingrediënten nodig. Haal 3 hoektanden van nightsabers, 3 veren van Strigid-uilen en 3 lapjes spinnenzijde van de Webwood-spinnen voor me.$b$bLaten we dit ons kleine geheimpje houden, $r.",
+   "o": "Breng Zenn Foulhoof buiten Dolanaar 3 Nightsaber Fangs, 3 Strigid Owl Feathers en 3 Webwood Spider Silk.",
+   "p": "Ben je een druk klein bijtje geweest, $N? Ik wacht al op de spullen die ik nodig heb.",
+   "c": "Haha! Heel goed gedaan.$b$bWie had ooit gedacht dat ik, Zenn Foulhoof, een $r zou hebben die voor mij werkt? Ik in elk geval niet! Maar zo gaat het... deze geliefde wereld van ons zit vol verrassingen.$b$bLang leve de naïeve en goedgelovige mensen!",
+   "g": [
+    [
+     "voorbij",
+     "past, by"
+    ],
+    [
+     "wens",
+     "wish (wensen)"
+    ],
+    [
+     "durven dromen",
+     "dare to dream"
+    ],
+    [
+     "bepaalde",
+     "certain"
+    ],
+    [
+     "veren",
+     "feathers"
+    ],
+    [
+     "uilen",
+     "owls"
+    ],
+    [
+     "lapjes",
+     "swatches, scraps of cloth"
+    ],
+    [
+     "spinnenzijde",
+     "spider silk"
+    ],
+    [
+     "geheimpje",
+     "little secret"
+    ],
+    [
+     "bijtje",
+     "little bee"
+    ],
+    [
+     "geliefde",
+     "beloved"
+    ],
+    [
+     "verrassingen",
+     "surprises"
+    ],
+    [
+     "lang leve",
+     "long live, three cheers for"
+    ],
+    [
+     "goedgelovige",
+     "gullible"
+    ]
+   ]
+  },
+  "929": {
+   "t": "De kroon van de aarde",
+   "d": "Eerst vertel ik je meer over je taak. De druïden in Darnassus gebruiken het water van de maanbronnen van Teldrassil, en hun eigen maanbron moet af en toe worden bijgevuld. Met deze speciale flesjes kun je het water van de maanbronnen verzamelen.$b$bNeem dit flesje mee naar de maanbron bij Starbreeze Village in het oosten. Vul het met water en kom dan terug naar mij. Als je klaar bent, vertel ik het verhaal verder waar Tenaron stopte...",
+   "o": "Vul de Jade Phial en breng hem terug naar Corithras Moonrage in Dolanaar.",
+   "p": "Hallo weer, $n. Heb je je taak gedaan?",
+   "c": "Na de Slag om Mount Hyjal wisten we niet meer welke kant we op moesten. Nordrassil rookte nog van het vuur dat hij had losgelaten, en onze onsterfelijkheid, de kern van wie we zijn, was verloren!$b$bIn die moeilijke tijd werd de Verrader uit zijn gevangenis bevrijd, en Shan'do Stormrage verdween. Een donkere tijd voor iedereen.",
+   "g": [
+    [
+     "af en toe",
+     "now and then"
+    ],
+    [
+     "bijgevuld",
+     "refilled (bijvullen)"
+    ],
+    [
+     "verhaal",
+     "story"
+    ],
+    [
+     "rookte",
+     "smoked (roken)"
+    ],
+    [
+     "losgelaten",
+     "released, unleashed (loslaten)"
+    ],
+    [
+     "onsterfelijkheid",
+     "immortality"
+    ],
+    [
+     "kern",
+     "core, essence"
+    ],
+    [
+     "Verrader",
+     "Betrayer, traitor"
+    ],
+    [
+     "gevangenis",
+     "prison"
+    ],
+    [
+     "bevrijd",
+     "freed (bevrijden)"
+    ],
+    [
+     "verdween",
+     "disappeared (verdwijnen)"
+    ]
+   ]
+  },
+  "997": {
+   "t": "De aarde van Denalan",
+   "d": "Ga je naar het zuiden? Naar Lake Al'Ameth? Dan heb ik misschien een klusje voor je...$B$BMijn collega Denalan heeft een kamp aan de oostkant van het meer. Daar bestudeert hij de planten van Teldrassil en doet hij proeven. Hij had een pakket zeldzame aarde uit Darnassus besteld. Het was laat, en het is pas net hier in Dolanaar aangekomen.$B$BWil jij het pakket naar hem brengen?",
+   "o": "Breng het pakket Rare Earth naar Denalan bij Lake Al'Ameth.",
+   "p": "Heb je iets voor mij?",
+   "c": "Ah, het is er! Ik heb al heel lang op deze zeldzame aarde gewacht. Ik hoop dat hij nog vers is...$B$BBedankt dat je hem hebt gebracht, $N. Jij bent een $r die gul is met $gzijn:haar; tijd.",
+   "g": [
+    [
+     "klusje",
+     "small task, errand"
+    ],
+    [
+     "oostkant",
+     "east side"
+    ],
+    [
+     "planten",
+     "plants"
+    ],
+    [
+     "proeven",
+     "experiments, tests"
+    ],
+    [
+     "pakket",
+     "package"
+    ],
+    [
+     "besteld",
+     "ordered (bestellen)"
+    ],
+    [
+     "pas net",
+     "only just"
+    ],
+    [
+     "vers",
+     "fresh"
+    ],
+    [
+     "gul",
+     "generous"
+    ]
+   ]
+  },
+  "2159": {
+   "t": "Een pakket voor Dolanaar",
+   "d": "Gegroet, jonge $c. Kun je me helpen? Ik heb een pakket kruiden dat naar het dorp Dolanaar moet. Maar ik heb nog werk bij de druïden van Shadowglen en kan nog niet weg.$B$BWil jij dit pakket voor me bezorgen? Het is voor Innkeeper Keldamyr, in de herberg van Dolanaar. Die ligt aan de weg, in het zuiden.",
+   "o": "Breng de Dolanaar Delivery naar Innkeeper Keldamyr.",
+   "p": "Waarmee kan ik je helpen, jongeling? Kom je uitrusten in de herberg? Heb je een hearthstone nodig?",
+   "c": "Ah ja, de kruiden uit Shadowglen. Jammer dat Porthannius ze niet zelf kon brengen, want we hebben veel te bespreken, hij en ik. Maar ik ben toch blij met de kruiden, en ik ben blij dat jij gekomen bent.$B$BRust hier alsjeblieft even uit nu je er bent. Helden moeten hun kracht en hun moed hoog houden, en ze moeten rust en troost vinden wanneer het kan. Wie de rust van lichaam en geest vergeet, faalt zeker.$B$BDus... rust uit.",
+   "g": [
+    [
+     "kruiden",
+     "herbs"
+    ],
+    [
+     "bezorgen",
+     "to deliver"
+    ],
+    [
+     "jongeling",
+     "young one"
+    ],
+    [
+     "jammer",
+     "a shame, pity"
+    ],
+    [
+     "bespreken",
+     "to discuss"
+    ],
+    [
+     "rust uit",
+     "rest (uitrusten)"
+    ],
+    [
+     "troost",
+     "comfort, solace"
+    ],
+    [
+     "geest",
+     "mind, spirit"
+    ],
+    [
+     "faalt",
+     "fails (falen)"
+    ]
+   ]
+  },
+  "475": {
+   "t": "Een verontrustende wind",
+   "d": "Er waait een verontrustende wind door het bos.$b$bGaerolas Talvethren is de Grote Bewaker van de slapende Druids of the Talon in de Ban'ethil Barrow Den. Als gekozen beschermer van de Slapers moet hij zorgen dat ze veilig zijn, zodat hun verbond met Ysera blijft bestaan.$b$bMaar ik hoor al een tijd niets van Gaerolas, en ik word ongerust. Reis naar het oosten, naar Starbreeze Village, en breng me nieuws van Gaerolas. Dan weet ik dat mijn dromende broeders veilig slapen, en kan ik ophouden met piekeren.",
+   "o": "Zoek Gaerolas Talvethren op in Starbreeze Village.$b",
+   "c": "Het bos zij dank dat je er bent! Ik wist dat Athridas zou voelen dat er iets mis was, en dat hij hulp zou sturen.",
+   "g": [
+    [
+     "verontrustende",
+     "troubling, disturbing"
+    ],
+    [
+     "waait",
+     "blows (waaien)"
+    ],
+    [
+     "bewaker",
+     "warden, guard"
+    ],
+    [
+     "slapende",
+     "sleeping"
+    ],
+    [
+     "gekozen",
+     "chosen"
+    ],
+    [
+     "verbond",
+     "pact, alliance"
+    ],
+    [
+     "bestaan",
+     "to exist, last"
+    ],
+    [
+     "ongerust",
+     "worried, nervous"
+    ],
+    [
+     "dromende",
+     "dreaming"
+    ],
+    [
+     "broeders",
+     "brethren, brothers"
+    ],
+    [
+     "piekeren",
+     "to worry, brood"
+    ]
+   ]
+  },
+  "476": {
+   "t": "De verdorven Gnarlpine-stam",
+   "d": "De Gnarlpine-stam is verdorven!$b$bDe furbolgs waren vroeger vredig, maar nu keren ze zich tegen de beschermers van het bos. Ze vielen me aan toen ik naar de Ban'ethil Barrow Den vertrok, en daarna plunderden ze Starbreeze Village. Hun leider, Ursal the Mauler, gebruikt de kwade krachten van het Fel Moss om ze gek te maken.$b$bIk ben te zwaar gewond om dit ernstige nieuws naar Athridas te brengen. Die taak is voor jou, jonge $c. We kunnen alleen maar hopen dat de gestoorde Gnarlpines Ban'ethil nog niet hebben bereikt!",
+   "o": "Ga terug naar Athridas Bearmantle in Dolanaar.",
+   "c": "Bij de sterren! Dit is echt heel verontrustend!",
+   "g": [
+    [
+     "verdorven",
+     "corrupted"
+    ],
+    [
+     "keren zich tegen",
+     "turn against"
+    ],
+    [
+     "vertrok",
+     "left, set off (vertrekken)"
+    ],
+    [
+     "plunderden",
+     "pillaged (plunderen)"
+    ],
+    [
+     "leider",
+     "leader, chieftain"
+    ],
+    [
+     "gewond",
+     "wounded"
+    ],
+    [
+     "ernstige",
+     "serious, grave"
+    ],
+    [
+     "gestoorde",
+     "deranged"
+    ],
+    [
+     "bereikt",
+     "reached (bereiken)"
+    ],
+    [
+     "sterren",
+     "stars"
+    ]
+   ]
+  },
+  "2438": {
+   "t": "De smaragden dromenvanger",
+   "d": "Ik heb ooit een smaragden dromenvanger gekregen van Gaerolas Talvethen, de bewaker van de druïden in de Ban'ethil Barrow Den. Dit sterke amulet haalt energie uit de Emerald Dream, en brengt geluk aan wie het draagt.$B$BHelaas heb ik hem nog niet uit mijn kast in Starbreeze Village kunnen halen... Starbreeze was vroeger een rustige plek, maar nu is het in handen van de verdorven furbolgs die daar wonen.$B$BWil jij mijn dromenvanger misschien terughalen, $c?",
+   "o": "Breng de Emerald Dreamcatcher naar Tallonkai Swiftroot in Dolanaar.",
+   "p": "Wees alsjeblieft snel. Ik hoop maar dat de furbolgs mijn smaragden dromenvanger niet kapot hebben gemaakt.$B$BHeb je hem al gevonden, $N?",
+   "c": "Mijn smaragden dromenvanger is heel belangrijk voor me. Maar weinig mensen krijgen er een. Dank je dat je hem hebt teruggebracht, $N.",
+   "g": [
+    [
+     "smaragden",
+     "emerald (adjective)"
+    ],
+    [
+     "dromenvanger",
+     "dreamcatcher"
+    ],
+    [
+     "ooit",
+     "once, ever"
+    ],
+    [
+     "amulet",
+     "amulet"
+    ],
+    [
+     "energie",
+     "energy"
+    ],
+    [
+     "draagt",
+     "wears, carries (dragen)"
+    ],
+    [
+     "kast",
+     "dresser, cupboard"
+    ],
+    [
+     "in handen van",
+     "in the hands of"
+    ],
+    [
+     "teruggebracht",
+     "brought back"
+    ]
+   ]
+  },
+  "489": {
+   "t": "Zoek vergeving!",
+   "d": "De Council of the Forest heeft gehoord dat je Zenn Foulhoof hebt geholpen. Die sater is een vijand van het bos. Als $r zou je beter moeten weten: je mag het bos niet bezoedelen door de dieren van de natuur te doden.$b$bJe moet het weer goedmaken bij de Council als je een vriend van Teldrassil wilt blijven.$b$bLeer Foulhoof een lesje, dan wordt het je vergeven. Fel Cones zijn verdorven zaden die uit de bomen vallen. Er komt groene rook uit.$b$bGeef er een paar aan Foulhoof. Hij denkt dan dat je een onschuldig hapje voor hem hebt.",
+   "o": "Verzamel 3 Fel Cones en geef ze aan Zenn Foulhoof buiten Dolanaar.",
+   "p": "Wat heb je voor me, $N? Een lekker hapje, neem ik aan?",
+   "c": "Ah, wat een lieve $r! Ik wist dat je nog van pas zou komen!",
+   "g": [
+    [
+     "vergeving",
+     "forgiveness, redemption"
+    ],
+    [
+     "sater",
+     "satyr"
+    ],
+    [
+     "beter moeten weten",
+     "should know better"
+    ],
+    [
+     "bezoedelen",
+     "to defile"
+    ],
+    [
+     "goedmaken",
+     "to make up for"
+    ],
+    [
+     "lesje",
+     "(little) lesson"
+    ],
+    [
+     "vergeven",
+     "forgiven"
+    ],
+    [
+     "zaden",
+     "seeds"
+    ],
+    [
+     "rook",
+     "smoke"
+    ],
+    [
+     "onschuldig",
+     "harmless, innocent"
+    ],
+    [
+     "hapje",
+     "snack"
+    ],
+    [
+     "neem ik aan",
+     "I presume (aannemen)"
+    ],
+    [
+     "van pas komen",
+     "to come in handy"
+    ]
+   ]
+  },
+  "918": {
+   "t": "Zaden van de timberlings",
+   "d": "De timberlings van Teldrassil zijn elementen van de natuur. In sommige opzichten laten ze de natuurlijke orde van planten en dieren op onze grote boom zien.$B$BDaarom is het zorgwekkend dat de timberlings zo boos zijn geworden.$B$BIk denk dat het iets met de grond te maken heeft. Ik probeer verschillende manieren om planten te verzorgen, en die wil ik testen op zaden van timberlings. Wil jij zaden verzamelen bij de timberlings rond Lake Al'Ameth en ze naar mij brengen?",
+   "o": "Breng 8 Timberling Seeds naar Denelan bij Lake Al'Ameth.",
+   "p": "Heb je de zaden? Ik wil ze graag planten.",
+   "c": "Je hebt ze. Heel goed!$B$BIk plant deze zaden in speciale grond die ik heb klaargemaakt. Ik denk dat er dan timberlings uit groeien die veel rustiger zijn. Misschien kun je later zien wat het resultaat is!",
+   "g": [
+    [
+     "zaden",
+     "seeds"
+    ],
+    [
+     "elementen",
+     "elementals, elements"
+    ],
+    [
+     "opzichten",
+     "respects, ways"
+    ],
+    [
+     "natuurlijke",
+     "natural"
+    ],
+    [
+     "orde",
+     "order"
+    ],
+    [
+     "zorgwekkend",
+     "worrying, disturbing"
+    ],
+    [
+     "grond",
+     "soil, ground"
+    ],
+    [
+     "verzorgen",
+     "to take care of, nurture"
+    ],
+    [
+     "testen",
+     "to test"
+    ],
+    [
+     "klaargemaakt",
+     "prepared"
+    ],
+    [
+     "resultaat",
+     "result"
+    ]
+   ]
+  },
+  "919": {
+   "t": "Jonge timberlings",
+   "d": "Rond het water van Lake Al'Ameth komen kleine timberlings op. Ik ben bang dat we deze jonge plantjes niet meer kunnen helpen. We moeten ze weghalen voordat ze groot genoeg zijn om problemen te maken.$B$BAls je bij het meer rondloopt en je ziet jonge timberlings, neem ze dan mee. Help ons land schoon te houden!",
+   "o": "Breng 12 Timberling Sprouts naar Denalan bij Lake Al'Ameth.",
+   "p": "Hallo, $N. Heb je jonge timberlings gevonden bij het water?",
+   "c": "Dat zijn er veel! Ik ben bang dat ze zich gevaarlijk snel verspreiden. Ik hoop dat ik het raadsel kan oplossen: wat maakt ze ziek?$B$BDank je voor je hulp, $N. Door jou is het land een stukje schoner.",
+   "g": [
+    [
+     "komen op",
+     "sprout, come up (opkomen)"
+    ],
+    [
+     "plantjes",
+     "little plants, sprouts"
+    ],
+    [
+     "weghalen",
+     "to remove"
+    ],
+    [
+     "rondloopt",
+     "walk around (rondlopen)"
+    ],
+    [
+     "schoon",
+     "clean"
+    ],
+    [
+     "verspreiden",
+     "to spread"
+    ],
+    [
+     "raadsel",
+     "riddle, mystery"
+    ],
+    [
+     "ziek",
+     "ill, sick"
+    ],
+    [
+     "schoner",
+     "cleaner"
+    ]
+   ]
+  },
+  "922": {
+   "t": "Rellian Greenspyre",
+   "d": "$N, wil je een van de zaden die je me bracht naar mijn vriend Rellian Greenspyre brengen? Hij is een druïde in Darnassus. Toen we elkaar de laatste keer spraken, vertelde hij dat hij interesse had in mijn werk met de timberlings. Hij had zelf ook ideeën, en hij is vast blij met een zaadje om mee te werken.$B$BDank je, $N. Je hebt me heel goed geholpen. Ik hoop dat je op een dag ziet wat mijn werk heeft opgeleverd.$B$BMeestal loopt Rellian over de paden van de Cenarian Enclave in Darnassus.",
+   "o": "Breng een Timberling Seed naar Rellian Greenspyre in Darnassus.",
+   "p": "Hallo...$B$BWaarmee kan ik je helpen?",
+   "c": "Ah, een zaadje van een timberling? Ik wilde er zelf eentje proberen te kweken om Denalan te helpen met zijn onderzoek.$B$BMaar ik heb ontdekt dat er in veel timberlings een verdorvenheid is gegroeid. Zaden van zulke wezens dragen de ziekte van hun ouders mee. Dat kan ik niet herstellen.$B$BDenalan is heel goed met alles wat groeit. Misschien vindt hij een geneesmiddel voor de timberlings van de toekomst. Hij is misschien hun enige hoop.",
+   "g": [
+    [
+     "elkaar",
+     "each other"
+    ],
+    [
+     "spraken",
+     "spoke (spreken)"
+    ],
+    [
+     "interesse",
+     "interest"
+    ],
+    [
+     "ideeën",
+     "ideas"
+    ],
+    [
+     "zaadje",
+     "(little) seed"
+    ],
+    [
+     "opgeleverd",
+     "yielded, produced"
+    ],
+    [
+     "paden",
+     "paths"
+    ],
+    [
+     "kweken",
+     "to grow, cultivate"
+    ],
+    [
+     "wezens",
+     "creatures, beings"
+    ],
+    [
+     "ziekte",
+     "disease, taint"
+    ],
+    [
+     "ouders",
+     "parents"
+    ],
+    [
+     "herstellen",
+     "to repair, fix"
+    ],
+    [
+     "geneesmiddel",
+     "cure, medicine"
+    ]
+   ]
+  },
+  "932": {
+   "t": "Verdraaide haat",
+   "d": "Ik moet je waarschuwen, $n: dit moet tussen ons blijven. We schamen ons al genoeg voor de saters, en deze is wel heel dichtbij.$B$BHij heet Lord Melenas. Hij woont in de grot Fel Rock hier vlakbij. Daar heeft hij een grote groep grell-krijgers verzameld. Zijn hart is zo zwart als de nacht, en hij beraamt iets heel kwaads.$B$BZoek hem in zijn grot, net ten noorden van hier, en breng me zijn hoofd.",
+   "o": "Dood Lord Melenas en breng zijn hoofd naar Tallonkai Swiftroot in Dolanaar.",
+   "p": "Heb je Lord Melenas al gedood? Het is heel belangrijk dat het snel en stil gebeurt, $N. Zolang hij leeft, is dat een schande voor ons allemaal.",
+   "c": "Nu Lord Melenas er niet meer is, kan ik eindelijk met andere zaken verder. Dank je, $n.",
+   "g": [
+    [
+     "verdraaide",
+     "twisted"
+    ],
+    [
+     "haat",
+     "hatred"
+    ],
+    [
+     "waarschuwen",
+     "to warn"
+    ],
+    [
+     "schamen ons",
+     "are ashamed (zich schamen)"
+    ],
+    [
+     "grell-krijgers",
+     "grell warriors"
+    ],
+    [
+     "zwart",
+     "black"
+    ],
+    [
+     "beraamt",
+     "plots (beramen)"
+    ],
+    [
+     "stil",
+     "quietly, silent"
+    ],
+    [
+     "schande",
+     "disgrace, embarrassment"
+    ]
+   ]
+  },
+  "487": {
+   "t": "De weg naar Darnassus",
+   "d": "De weg naar Darnassus moet veilig blijven. Reizigers van Dolanaar naar Darnassus vertellen over wrede aanvallen van verdorven furbolgs van de Gnarlpine-stam.$b$bElke dag gaan er belangrijk nieuws en handel over deze weg van en naar Darnassus. We kunnen niet toestaan dat een wilde bende heidenen de mensen bang maakt.$b$bPak je wapens op in naam van het heilige bos, $c. Hun hol ligt ergens onder deze uitkijkpost. Dood 6 van die Gnarlpine-overvallers en kom dan bij mij terug.",
+   "o": "Dood 6 Gnarlpine Ambushers en ga terug naar Sentinel Amara Nightwalker buiten Dolanaar.",
+   "p": "De weg is nog steeds niet veilig, $c. Ga op pad, dood 6 Gnarlpine Ambushers en kom terug naar mij.",
+   "c": "Je hebt de goede mensen van Dolanaar en Darnassus goed gediend, dappere $c. Als lid van de Sentinels van Teldrassil groet ik je voor je moeite.",
+   "g": [
+    [
+     "wrede",
+     "ruthless, cruel"
+    ],
+    [
+     "aanvallen",
+     "attacks"
+    ],
+    [
+     "handel",
+     "trade, commerce"
+    ],
+    [
+     "toestaan",
+     "to allow"
+    ],
+    [
+     "bende",
+     "band, gang"
+    ],
+    [
+     "heidenen",
+     "heathens"
+    ],
+    [
+     "wapens",
+     "weapons"
+    ],
+    [
+     "uitkijkpost",
+     "lookout, vantage point"
+    ],
+    [
+     "overvallers",
+     "ambushers, robbers"
+    ],
+    [
+     "gediend",
+     "served (dienen)"
+    ],
+    [
+     "groet",
+     "salute, greet (groeten)"
+    ]
+   ]
+  },
+  "2459": {
+   "t": "Ferocitas, de droomvreter",
+   "d": "De smaragd... Hij is weg! Mijn dromenvanger is beschadigd!$B$BTen noorden van Starbreeze is een groep Gnarlpine-mystici. Ik hoorde dat hun leider, Ferocitas the Dream Eater, een ketting draagt die 's nachts groen gloeit. Nu ik mijn dromenvanger zie, weet ik zeker dat hij mijn smaragd heeft gestolen... Hij zal nooit begrijpen dat de kracht ervan voor hem nutteloos is.$B$BVind dit verdwenen juweel, $N. En ruim daar ook meteen een paar van die verdorven mystici op.",
+   "o": "Tallonkai Swiftroot in Dolanaar wil dat je 7 Gnarlpine Mystics doodt en de Missing Jewel vindt.",
+   "p": "Ferocitas en de Gnarlpine-mystici moeten teruggeven wat van mij is. Haal alsjeblieft de smaragd terug, zodat ik mijn smaragden dromenvanger kan repareren.",
+   "c": "Nu kan ik mijn dromenvanger repareren. Dank je, $N.",
+   "g": [
+    [
+     "droomvreter",
+     "dream eater"
+    ],
+    [
+     "smaragd",
+     "emerald"
+    ],
+    [
+     "beschadigd",
+     "damaged"
+    ],
+    [
+     "mystici",
+     "mystics"
+    ],
+    [
+     "ketting",
+     "necklace"
+    ],
+    [
+     "gloeit",
+     "glows (gloeien)"
+    ],
+    [
+     "nutteloos",
+     "useless"
+    ],
+    [
+     "verdwenen",
+     "missing, disappeared"
+    ],
+    [
+     "juweel",
+     "jewel"
+    ],
+    [
+     "ruim ... op",
+     "clear out (opruimen)"
+    ],
+    [
+     "teruggeven",
+     "to give back"
+    ]
+   ]
+  },
+  "2541": {
+   "t": "De slapende druïde",
+   "d": "De Gnarlpine-sjamanen die hier wonen, hebben een manier gevonden om de geest van een slapende druïde los te maken van zijn lichaam. De furbolgs hebben mijn lichaam tot leven gebracht en gebruiken het om iedereen aan te vallen die de Ban'ethil Barrow Den wil verkennen. Ik zit nu vast in de Emerald Dream en kan niets doen om het te stoppen.$B$BJe moet me helpen. De Gnarlpine-sjamanen dragen een vreemde bedel die ze voor dit ritueel gebruiken. Ik wil er graag een bekijken. Breng me er alsjeblieft een, $N.",
+   "o": "Breng een Shaman Voodoo Charm naar Oben Rageclaw in de Ban'ethil Barrow Den.",
+   "p": "Als ik de bedel kan bekijken, kan ik misschien ontdekken hoe ik de betovering kan verbreken. Heb je er een gevonden?",
+   "c": "Dank je, $N.$B$BWat een vreemd ding is dit... Ik voel de kwade kracht die eruit komt. Dit is een heel sterke betovering.",
+   "g": [
+    [
+     "sjamanen",
+     "shamans"
+    ],
+    [
+     "los te maken",
+     "to separate, detach"
+    ],
+    [
+     "tot leven gebracht",
+     "brought to life, animated"
+    ],
+    [
+     "verkennen",
+     "to explore"
+    ],
+    [
+     "zit vast",
+     "am trapped (vastzitten)"
+    ],
+    [
+     "bedel",
+     "charm, trinket"
+    ],
+    [
+     "ritueel",
+     "ritual"
+    ],
+    [
+     "ontdekken",
+     "to discover, figure out"
+    ],
+    [
+     "betovering",
+     "enchantment"
+    ],
+    [
+     "verbreken",
+     "to break"
+    ]
+   ]
+  }
+ },
+ "words": {
+  "angst": "fear",
+  "begonnen": "begun, started (beginnen)",
+  "begrijpen": "to understand",
+  "bekijken": "to look at, examine",
+  "beschermer": "protector",
+  "beschermers": "protectors",
+  "bestudeert": "studies (bestuderen)",
+  "betoverde": "enchanted",
+  "boom": "tree",
+  "bos": "forest, woods",
+  "bossen": "forests",
+  "bron": "source, spring, well",
+  "bronnen": "sources, wells",
+  "daardoor": "because of that",
+  "daarna": "after that, then",
+  "danken": "to thank (te danken hebben = to owe)",
+  "dappere": "brave",
+  "donkere": "dark",
+  "dragen": "to carry, wear",
+  "drinkt": "drinks (drinken)",
+  "dromen": "to dream / dreams",
+  "druïde": "druid",
+  "druïden": "druids",
+  "durven": "to dare",
+  "eentje": "one (informal: een)",
+  "ervoor": "for it (ervoor zorgen = make sure)",
+  "familie": "family, relatives",
+  "flesjes": "small bottles, phials",
+  "gebeurd": "happened (gebeuren)",
+  "gebeurde": "happened",
+  "gedacht": "thought (denken)",
+  "gedood": "killed (doden)",
+  "gegroeid": "grown (groeien)",
+  "gelijk": "right (gelijk hebben) / equal",
+  "gevaarlijke": "dangerous",
+  "gevoeld": "felt (voelen)",
+  "gewacht": "waited (wachten)",
+  "gnarlpine-mystici": "Gnarlpine mystics",
+  "gnarlpine-overvallers": "Gnarlpine ambushers",
+  "gnarlpine-sjamanen": "Gnarlpine shamans",
+  "gnarlpine-stam": "Gnarlpine tribe",
+  "groeit": "grows (groeien)",
+  "groen": "green",
+  "groene": "green",
+  "groepen": "groups",
+  "hearthstone": "hearthstone (English game item name)",
+  "heen": "to, towards (ergens heen gaan = go somewhere)",
+  "helden": "heroes",
+  "hetzelfde": "the same",
+  "hoopte": "hoped (hopen)",
+  "hoorde": "heard (horen)",
+  "huizen": "houses, homes",
+  "hyacintpaddenstoelen": "hyacinth mushrooms",
+  "ingrediënt": "ingredient",
+  "jaren": "years",
+  "ken": "know (kennen)",
+  "keren": "to turn (zich keren tegen = turn against)",
+  "kleiner": "smaller",
+  "kleinere": "smaller",
+  "krachten": "powers, forces",
+  "kwade": "evil, wicked",
+  "leve": "long live (lang leve)",
+  "lieve": "sweet, dear",
+  "loopt": "walks (lopen)",
+  "los": "loose (losmaken = to separate)",
+  "maanbladlelies": "moonpetal lilies",
+  "maanbronnen": "moonwells",
+  "makkelijker": "easier",
+  "moeilijke": "difficult",
+  "moeilijkst": "most difficult",
+  "moesten": "had to (moeten)",
+  "naïeve": "naive",
+  "nood": "need, distress",
+  "oehhh": "ughhh",
+  "ophouden": "to stop",
+  "probeer": "try (proberen)",
+  "proberen": "to try",
+  "ruim": "clear (opruimen) / spacious",
+  "rust": "rest",
+  "rustige": "quiet, peaceful",
+  "rustiger": "calmer, more docile",
+  "sabels": "sabers (here: the nightsabers)",
+  "saters": "satyrs",
+  "schamen": "(zich schamen = to be ashamed)",
+  "slapers": "sleepers",
+  "spin": "spider",
+  "spinnenei": "spider egg",
+  "stopte": "stopped (stoppen)",
+  "strigid-uilen": "Strigid owls",
+  "stukje": "little bit, piece",
+  "toe": "to, shut (toegeven = to admit)",
+  "uitkijken": "to look out (uitkijken naar)",
+  "verandering": "change, transformation",
+  "verdient": "deserves (verdienen)",
+  "vergelijk": "compare (vergelijken)",
+  "verontrustend": "disturbing",
+  "vertelde": "told (vertellen)",
+  "verzameld": "gathered, collected",
+  "verzamelen": "to gather, collect",
+  "vielen": "fell / attacked (aanvallen)",
+  "vragen": "to ask",
+  "vredig": "peaceful",
+  "vreemd": "strange",
+  "vroeger": "in the past, formerly",
+  "vul": "fill (vullen)",
+  "waaraan": "to what (waaraan te danken)",
+  "waarmee": "with what",
+  "webwood-ichor": "Webwood ichor (spider fluid)",
+  "webwood-spinnen": "Webwood spiders",
+  "wisten": "knew (weten)",
+  "woonden": "lived (wonen)",
+  "zakjes": "little bags, sacs",
+  "zeldzame": "rare",
+  "zo'n": "such a",
+  "zulke": "such"
+ },
+ "terms": {
+  "furbolgs": "furbolgs: bear-like forest people from the Warcraft world",
+  "furbolg": "furbolg: a bear-like forest creature from the Warcraft world",
+  "grells": "grells: small imp-like forest creatures from the Warcraft world",
+  "grell": "grell: a small imp-like forest creature from the Warcraft world",
+  "grellkin": "grellkin: young grells (Warcraft creature)",
+  "nightsabers": "nightsabers: the night elves' great panther-like cats",
+  "timberlings": "timberlings: living tree-creatures (elementals) of Teldrassil",
+  "gnarlpines": "Gnarlpines: members of the Gnarlpine furbolg tribe"
+ }
+}
