@@ -1,0 +1,1180 @@
+{
+ "quests": {
+  "3103": {
+   "t": "De gewijde brief",
+   "d": "Ik moest je dit geven zodra je terug was van de koboldkampen, $N. Het is een brief met het zegel van Priestess Anetta. Zij is hier de trainer van de priesters. Lees de brief meteen, voordat je iets anders doet hier in de abdij.",
+   "o": "Lees de Hallowed Letter en praat met Priestess Anetta in Northshire Abbey.",
+   "p": "Ah, eindelijk ben je er. Ik wist dat je de weg naar mij zou vinden. Het Heilige Licht schijnt op jou en op het pad dat je hebt gekozen. Het zijn zware tijden. Het Burning Legion is nog steeds op Azeroth. Heel Kalimdor zoekt nieuwe manieren om zich te verdedigen tegen zijn eigen problemen. En het is aan jou om zo veel mogelijk mensen te helpen.",
+   "c": "Als je meer ervaring krijgt, kom dan bij mij terug. Dan deel ik mijn kennis met je, zo goed als ik kan. Tot die tijd: ga met medeleven in je hart, en laat wijsheid je gids zijn. Onthoud: de wereld wordt alleen beter als jij hem beter maakt.",
+   "g": [
+    [
+     "gewijde",
+     "holy, consecrated (gewijd)"
+    ],
+    [
+     "zodra",
+     "as soon as"
+    ],
+    [
+     "koboldkampen",
+     "kobold camps (het kamp)"
+    ],
+    [
+     "zegel",
+     "seal"
+    ],
+    [
+     "abdij",
+     "abbey"
+    ],
+    [
+     "eindelijk",
+     "at last"
+    ],
+    [
+     "schijnt",
+     "shines (schijnen)"
+    ],
+    [
+     "verdedigen",
+     "to defend"
+    ],
+    [
+     "het is aan jou",
+     "it is up to you"
+    ],
+    [
+     "ervaring",
+     "experience"
+    ],
+    [
+     "kennis",
+     "knowledge"
+    ],
+    [
+     "medeleven",
+     "compassion"
+    ],
+    [
+     "wijsheid",
+     "wisdom"
+    ],
+    [
+     "gids",
+     "guide"
+    ],
+    [
+     "Onthoud",
+     "remember (onthouden)"
+    ]
+   ]
+  },
+  "3119": {
+   "t": "Het gewijde zegel",
+   "d": "Een boodschapper van Shanda, onze trainer van de priesters, gaf mij dit zegel. Shanda wil met je praten als je even tijd hebt. Lees het en breng het daarna naar haar.",
+   "o": "Lees de Hallowed Sigil en praat met Shanda in Aldrassil.",
+   "p": "Fijn dat je zo snel gekomen bent, $N. Welkom.$b$bJe hebt het vast al gehoord: heel Teldrassil is druk met reizigers die komen en gaan. Zelfs leden van de Alliance mogen nu op de takken van Teldrassil komen. Ze ontmoeten hier andere Kaldorei, die zich voorbereiden op de avonturen die komen.",
+   "c": "Maak je voorlopig geen zorgen over de wereld onder Teldrassil. Daar is later tijd voor. Ga nu naar de anderen in Shadowglen. Zij kunnen je meer vertellen over wat er gebeurd is. Help hen zo veel als je kunt. En als je denkt dat je meer training nodig hebt, kom dan terug. Dan leer ik je wat ik kan.",
+   "g": [
+    [
+     "gewijde",
+     "holy, consecrated (gewijd)"
+    ],
+    [
+     "zegel",
+     "seal, sigil"
+    ],
+    [
+     "boodschapper",
+     "messenger"
+    ],
+    [
+     "vast",
+     "surely, probably"
+    ],
+    [
+     "reizigers",
+     "travelers (reiziger)"
+    ],
+    [
+     "leden",
+     "members (lid)"
+    ],
+    [
+     "takken",
+     "branches (tak)"
+    ],
+    [
+     "ontmoeten",
+     "to meet"
+    ],
+    [
+     "voorbereiden",
+     "to prepare (zich voorbereiden)"
+    ],
+    [
+     "avonturen",
+     "adventures (avontuur)"
+    ],
+    [
+     "voorlopig",
+     "for now"
+    ],
+    [
+     "zorgen",
+     "worries (je zorgen maken = to worry)"
+    ]
+   ]
+  },
+  "5621": {
+   "t": "Gewaad van de maan",
+   "d": "Ik heb je hulp nodig, $N. Ik moet hier blijven om de andere leerlingen te trainen. Maar jij kunt een gewonde Sentinel helpen, net ten zuiden van Dolanaar. Ze raakte gewond toen ze rond het dorp patrouilleerde, en ze heeft onze hulp nodig. Haar naam is Shaya.$B$BAls je haar vindt, genees dan haar wonden. Versterk daarna haar lichaam met je spreuken. Dan is ze langer beschermd als ze in de problemen komt. Kom daarna hier bij mij terug, als je je plicht voor Elune hebt gedaan.",
+   "o": "Zoek Sentinel Shaya en genees haar wonden met Lesser Heal (Rank 2). Geef haar daarna Power Word: Fortitude en ga terug naar Laurna Morninglight in Dolanaar.",
+   "p": "Onze spreuken om te versterken zijn erg krachtig, $n. Daardoor kunnen onze kameraden meer schade verdragen van allerlei aanvallen. Zo overleven ze situaties waarin ze normaal zouden vallen. Maar dat is niets vergeleken met onze kracht om te genezen. Er zijn geen betere genezers dan priesters. Onthoud dat goed. Jouw kracht alleen kan het verloop van een gevecht makkelijk veranderen.",
+   "c": "Je hebt het goed gedaan en je hebt Elune gediend. Daarvoor dank ik je.$B$BNeem alsjeblieft dit gewaad aan als teken van mijn dank. Het laat zien dat je je plek in onze orde hebt verdiend. Draag het met trots, als je wilt. Maar hoe dan ook: wij zien je altijd als een van ons.$B$BGa met Elune, $N, en bedankt.",
+   "o1": "Genees en versterk Sentinel Shaya",
+   "g": [
+    [
+     "gewaad",
+     "robe"
+    ],
+    [
+     "gewonde",
+     "injured (gewond)"
+    ],
+    [
+     "patrouilleerde",
+     "patrolled (patrouilleren)"
+    ],
+    [
+     "genees",
+     "heal (genezen)"
+    ],
+    [
+     "wonden",
+     "wounds (wond)"
+    ],
+    [
+     "Versterk",
+     "strengthen, fortify (versterken)"
+    ],
+    [
+     "spreuken",
+     "spells (spreuk)"
+    ],
+    [
+     "plicht",
+     "duty"
+    ],
+    [
+     "kameraden",
+     "companions (kameraad)"
+    ],
+    [
+     "verdragen",
+     "to endure, to bear"
+    ],
+    [
+     "overleven",
+     "to survive"
+    ],
+    [
+     "verloop",
+     "course (of events)"
+    ],
+    [
+     "gediend",
+     "served (dienen)"
+    ],
+    [
+     "verdiend",
+     "earned (verdienen)"
+    ],
+    [
+     "hoe dan ook",
+     "either way, anyway"
+    ]
+   ]
+  },
+  "5622": {
+   "t": "In de gunst van Elune",
+   "d": "$N, als je klaar bent in Shadowglen, moet je naar Dolanaar reizen. Daar vind je Laurna Morninglight. Zij leert je meer over de wegen van Elune. Bij haar verdien je je eerste gewaad. Dat laat zien dat je een $gpriester:priesteres; van Elune bent.$B$BWees voorzichtig, en moge je beschermd zijn op je reizen.",
+   "o": "Praat met Laurna Morninglight in Teldrassil.",
+   "c": "Fijn dat Shanda je naar mij heeft gestuurd, $N. Het geeft me veel voldoening om jonge priesters de wegen van Elune te leren.",
+   "g": [
+    [
+     "gunst",
+     "favor"
+    ],
+    [
+     "wegen",
+     "ways (de weg)"
+    ],
+    [
+     "verdien",
+     "earn (verdienen)"
+    ],
+    [
+     "gewaad",
+     "robe"
+    ],
+    [
+     "voorzichtig",
+     "careful"
+    ],
+    [
+     "moge",
+     "may (wish: moge ... zijn = may ... be)"
+    ],
+    [
+     "beschermd",
+     "protected (beschermen)"
+    ],
+    [
+     "voldoening",
+     "satisfaction"
+    ]
+   ]
+  },
+  "5623": {
+   "t": "In de gunst van het Licht",
+   "d": "Hallo weer, jonge $gpriester:priesteres;. Het is tijd om meer te leren over ons geloof. Als je klaar bent met je taken hier in Northshire, zoek dan Priestess Josetta in Goldshire op. Zij kan je meer leren. Ze heeft gehoord dat je sterk groeit in de wegen van het Licht. Ze kijkt ernaar uit om je verder les te geven.",
+   "o": "Praat met Priestess Josetta in Elwynn Forest.",
+   "c": "Fijn dat je er bent, $N. We moeten veel bespreken over je toekomst en je pad in het Licht.",
+   "g": [
+    [
+     "gunst",
+     "favor"
+    ],
+    [
+     "geloof",
+     "faith, religion"
+    ],
+    [
+     "taken",
+     "tasks (taak)"
+    ],
+    [
+     "groeit",
+     "grows (groeien)"
+    ],
+    [
+     "kijkt ernaar uit",
+     "looks forward to it (uitkijken naar)"
+    ],
+    [
+     "les te geven",
+     "to teach (les geven)"
+    ],
+    [
+     "bespreken",
+     "to discuss"
+    ],
+    [
+     "toekomst",
+     "future"
+    ]
+   ]
+  },
+  "5624": {
+   "t": "Gewaad van het Licht",
+   "d": "Normaal geef ik volgelingen van het Licht een kleine uitdaging om hun vaardigheid te testen. Ik wil zien of ze hun eerste gewaad waard zijn. Dat gewaad is een teken dat de kerk de $gpriester:priesteres; openlijk goedkeurt en $ghem:haar; steunt.$B$BMaar nu is het een beetje anders. Iemand uit Goldshire zag een gewonde wachter bij het meer, ten oosten van hier. Zijn naam is Roberts. Zoek hem, genees hem, versterk zijn lichaam en kom terug. Als je dat voor mij doet, is je test voltooid.",
+   "o": "Zoek Guard Roberts en genees zijn wonden met Lesser Heal (Rank 2). Geef hem daarna Power Word: Fortitude en ga terug naar Priestess Josetta in Goldshire.",
+   "p": "Misschien heb je het al geleerd: onze genezende magie is heel belangrijk om ons volk te laten overleven in deze zware tijden. Vooral voor avonturiers en helden die met wapens en magie terugvechten tegen zoveel verschillende gevaren.$B$BOnthoud altijd hoe belangrijk die vaardigheid is. Samen met Fortitude maakt die je kameraden veel sterker in een gevecht, want ze kunnen meer klappen opvangen.$B$BLaat niemand zeggen dat je magie niet krachtig is.",
+   "c": "Uitstekend, $N. Met nog een gezonde wachter in de buurt is het dorp weer een stukje veiliger. Fijn om te zien dat je je krachten nu al verstandig gebruikt. Voel je je klaar voor meer training? Kom dan gerust terug. Maar neem nu eerst dit gewaad. Zo weten anderen dat je bij onze orde hoort. Wil je het niet dragen? Geen probleem. Later komen er meer testen, en daarvoor heb je dit gewaad niet nodig.",
+   "o1": "Genees en versterk Guard Roberts",
+   "g": [
+    [
+     "volgelingen",
+     "followers (volgeling)"
+    ],
+    [
+     "uitdaging",
+     "challenge"
+    ],
+    [
+     "vaardigheid",
+     "skill"
+    ],
+    [
+     "waard",
+     "worthy, worth"
+    ],
+    [
+     "openlijk",
+     "openly"
+    ],
+    [
+     "goedkeurt",
+     "approves (goedkeuren)"
+    ],
+    [
+     "steunt",
+     "supports (steunen)"
+    ],
+    [
+     "wachter",
+     "guard"
+    ],
+    [
+     "voltooid",
+     "completed (voltooien)"
+    ],
+    [
+     "genezende",
+     "healing (genezen)"
+    ],
+    [
+     "avonturiers",
+     "adventurers (avonturier)"
+    ],
+    [
+     "gevaren",
+     "dangers (gevaar)"
+    ],
+    [
+     "klappen opvangen",
+     "to take blows"
+    ],
+    [
+     "verstandig",
+     "wisely, sensibly"
+    ],
+    [
+     "gerust",
+     "feel free to, without worry"
+    ]
+   ]
+  },
+  "5625": {
+   "t": "Gewaad van het Licht",
+   "d": "Rond deze tijd wordt iemand met jouw kracht meestal getest. Dan zien we of je een gewaad van de kerk waard bent. Maar eerlijk gezegd heb ik nu belangrijkere dingen te doen. Een inwoner van Kharanos kwam net binnen. Hij vertelde over een gewonde wachter, net buiten het dorp in het zuiden. Hij heet Dolf.$B$BGenees jij Dolf en geef je hem Fortitude? Dan hoef je jezelf verder niet te bewijzen. Wat vind je daarvan?",
+   "o": "Zoek Mountaineer Dolf en genees zijn wonden met Lesser Heal (Rank 2). Geef hem daarna Power Word: Fortitude en ga terug naar Maxan Anvol in Kharanos.",
+   "p": "Heb je Dolf al gevonden, $N?$B$BDat heb je vast al geleerd, maar onze kracht om te genezen is heel nuttig. We zorgen niet alleen voor de gewonden. We zijn ook heel belangrijk voor al die helden die daarbuiten naam willen maken. Met Fortitude kunnen ze meer klappen opvangen, en met onze genezende magie blijven ze in leven. Dan is er niets dat we niet kunnen overwinnen!",
+   "c": "Uitstekend, $N. Met nog een gezonde wachter in de buurt is het dorp weer een stukje veiliger. Fijn om te zien dat je je krachten nu al verstandig gebruikt. Voel je je klaar voor meer training? Kom dan gerust terug. Maar neem nu eerst dit gewaad. Zo weten anderen dat je bij onze orde hoort. Wil je het niet dragen? Geen probleem. Later komen er meer testen, en daarvoor heb je dit gewaad niet nodig.",
+   "o1": "Genees en versterk Mountaineer Dolf",
+   "g": [
+    [
+     "eerlijk gezegd",
+     "to be honest"
+    ],
+    [
+     "inwoner",
+     "inhabitant, citizen"
+    ],
+    [
+     "gewonde",
+     "injured (gewond)"
+    ],
+    [
+     "bewijzen",
+     "to prove"
+    ],
+    [
+     "nuttig",
+     "useful"
+    ],
+    [
+     "gewonden",
+     "the wounded"
+    ],
+    [
+     "naam willen maken",
+     "want to make a name (for themselves)"
+    ],
+    [
+     "klappen opvangen",
+     "to take blows"
+    ],
+    [
+     "in leven",
+     "alive"
+    ],
+    [
+     "overwinnen",
+     "to overcome"
+    ],
+    [
+     "verstandig",
+     "wisely, sensibly"
+    ],
+    [
+     "gerust",
+     "feel free to, without worry"
+    ]
+   ]
+  },
+  "5626": {
+   "t": "In de gunst van het Licht",
+   "d": "Hé! $N! Heb je even?!$B$BJe volgt het Licht nu lang genoeg. Tijd om naar Maxan Anvol in Kharanos te gaan. Hij leert je meer over het pad dat je volgt. Als je laat zien dat je het waard bent, geeft hij je je eerste gewaad. Dat laat zien dat je een $gpriester:priesteres; bent.$B$BEn nu op pad! Als je hier klaar bent, ga dan door de tunnel. Hij wacht op je.",
+   "o": "Praat met Maxan Anvol in Dun Morogh.",
+   "c": "O, dus Branstock heeft je gestuurd? Goed, goed! Hij heeft gelijk. Het wordt tijd dat je een veel grotere stap zet in het Licht. Het vormt je karakter en het maakt je sterker... en dat heb je meer dan wat ook nodig: een sterk lichaam... en een sterke wil.",
+   "g": [
+    [
+     "gunst",
+     "favor"
+    ],
+    [
+     "Heb je even?",
+     "got a minute?"
+    ],
+    [
+     "genoeg",
+     "enough"
+    ],
+    [
+     "waard",
+     "worthy, worth"
+    ],
+    [
+     "op pad",
+     "on your way"
+    ],
+    [
+     "gelijk",
+     "right (gelijk hebben = to be right)"
+    ],
+    [
+     "stap",
+     "step"
+    ],
+    [
+     "vormt",
+     "shapes, builds (vormen)"
+    ],
+    [
+     "meer dan wat ook",
+     "more than anything"
+    ],
+    [
+     "wil",
+     "will (willpower)"
+    ]
+   ]
+  },
+  "5627": {
+   "t": "Sterren van Elune",
+   "c": "Je hebt laten zien dat je de aandacht van Elune waard bent, $N. Als je je klaar voelt, wil ik je heel graag een van haar spreuken leren. Alleen ons volk kent deze spreuk.",
+   "g": [
+    [
+     "Sterren",
+     "stars (ster)"
+    ],
+    [
+     "aandacht",
+     "attention"
+    ],
+    [
+     "waard",
+     "worthy, worth"
+    ],
+    [
+     "heel graag",
+     "very much (would like)"
+    ],
+    [
+     "spreuken",
+     "spells (spreuk)"
+    ],
+    [
+     "volk",
+     "people, nation"
+    ],
+    [
+     "kent",
+     "knows (kennen)"
+    ]
+   ]
+  },
+  "5628": {
+   "t": "Terug naar huis",
+   "d": "Ah, ja, hallo, $N. Fijn dat je even stopt om te praten. Je bent ver van huis, en dat op zo'n jonge leeftijd. Ik bewonder zo veel ambitie. Toen ik jonger was, had ik ook graag de moed gehad om de wereld rond te reizen.$B$BNiet lang geleden kwam hier een priesteres van jouw orde. Ze zocht jou. Ze zei dat het heel dringend is. Je moet terug naar de Temple of the Moon in Darnassus en praten met Priestess Alathea. Het had iets te maken met je training. Ik zou niet te lang wachten, als het kan.",
+   "o": "Praat met Priestess Alathea in Darnassus.",
+   "c": "Fijn, je bent weer thuis, $N. Tyrande en ik zijn altijd blij als onze leerlingen de wereld in gaan en veilig bij ons terugkomen. Hoe gaat het met je? Zegent Elune nog steeds je reizen? Misschien kun je me later meer over je reizen vertellen, als we eerst over het werk van vandaag hebben gepraat.",
+   "g": [
+    [
+     "leeftijd",
+     "age"
+    ],
+    [
+     "bewonder",
+     "admire (bewonderen)"
+    ],
+    [
+     "moed",
+     "courage"
+    ],
+    [
+     "rond te reizen",
+     "to travel around (rondreizen)"
+    ],
+    [
+     "priesteres",
+     "priestess"
+    ],
+    [
+     "dringend",
+     "urgent"
+    ],
+    [
+     "te maken met",
+     "to do with"
+    ],
+    [
+     "leerlingen",
+     "students (leerling)"
+    ],
+    [
+     "veilig",
+     "safely, safe"
+    ],
+    [
+     "terugkomen",
+     "to come back"
+    ],
+    [
+     "Zegent",
+     "blesses (zegenen)"
+    ],
+    [
+     "reizen",
+     "travels, journeys (de reis)"
+    ]
+   ]
+  },
+  "5629": {
+   "t": "Terug naar huis",
+   "d": "Hallo weer, $N. Ik weet dat je druk bezig bent om ons volk te helpen. Maar je moet ook wat tijd voor jezelf nemen. Priestess Alathea heeft iemand hierheen gestuurd om je te zoeken. Het lijkt erop dat onze ouderen je hebben opgemerkt. Ze denken dat je klaar bent voor grotere dingen. Ga naar de Temple of the Moon in Darnassus en zoek Alathea daar. Ze wacht op je. Succes, en moge Elune met je zijn.",
+   "o": "Praat met Priestess Alathea in Darnassus.",
+   "c": "Fijn, je bent terug, $N. Tyrande en ik zijn altijd blij als onze leerlingen de wereld in gaan en veilig bij ons terugkomen. Hoe gaat het met je? Zegent Elune nog steeds je reizen? Misschien kun je me later meer over je reizen vertellen, als we eerst over het werk van vandaag hebben gepraat.",
+   "g": [
+    [
+     "druk bezig",
+     "busy"
+    ],
+    [
+     "Het lijkt erop",
+     "it seems"
+    ],
+    [
+     "ouderen",
+     "elders"
+    ],
+    [
+     "opgemerkt",
+     "noticed (opmerken)"
+    ],
+    [
+     "moge",
+     "may (wish: moge ... zijn = may ... be)"
+    ],
+    [
+     "leerlingen",
+     "students (leerling)"
+    ],
+    [
+     "veilig",
+     "safely, safe"
+    ],
+    [
+     "terugkomen",
+     "to come back"
+    ],
+    [
+     "Zegent",
+     "blesses (zegenen)"
+    ],
+    [
+     "reizen",
+     "travels, journeys (de reis)"
+    ]
+   ]
+  },
+  "5630": {
+   "t": "Terug naar huis",
+   "d": "Hallo daar, $gjongen:meid;. Fijn om te zien dat je ver weg reist, naar verre landen. Niet beledigend bedoeld, maar veel mensen van jouw volk kunnen meestal slecht tegen dit koude klimaat. Fijn om te zien dat jij uit harder hout gesneden bent.$B$BNiet lang geleden was hier een van jullie priesteressen. Ze zocht jou. Ze zei dat je naar een zekere Priestess Alathea moest gaan, in de Temple of the Moon in Darnassus. Ze zei dat het belangrijk was, en dat je snel terug moest gaan.",
+   "o": "Praat met Priestess Alathea in Darnassus.",
+   "c": "Fijn, je bent weer thuis, $n. Tyrande en ik zijn altijd blij als onze leerlingen de wereld in gaan en veilig bij ons terugkomen. Hoe gaat het met je? Zegent Elune nog steeds je reizen? Misschien kun je me later meer over je reizen vertellen, als we eerst over het werk van vandaag hebben gepraat.",
+   "g": [
+    [
+     "verre",
+     "distant (ver)"
+    ],
+    [
+     "Niet beledigend bedoeld",
+     "no offense meant"
+    ],
+    [
+     "slecht tegen",
+     "badly against (slecht tegen iets kunnen = to not cope well with something)"
+    ],
+    [
+     "klimaat",
+     "climate"
+    ],
+    [
+     "uit harder hout gesneden",
+     "made of tougher stuff (lit. carved from harder wood)"
+    ],
+    [
+     "priesteressen",
+     "priestesses (priesteres)"
+    ],
+    [
+     "een zekere",
+     "a certain"
+    ],
+    [
+     "leerlingen",
+     "students (leerling)"
+    ],
+    [
+     "veilig",
+     "safely, safe"
+    ],
+    [
+     "terugkomen",
+     "to come back"
+    ],
+    [
+     "Zegent",
+     "blesses (zegenen)"
+    ],
+    [
+     "reizen",
+     "travels, journeys (de reis)"
+    ]
+   ]
+  },
+  "5631": {
+   "t": "Terug naar huis",
+   "d": "Kortgeleden bezocht een priesteres onze zalen. Ze zocht jou, jonge $r. Ze zei dat ze jou moest vinden. Je moet zo snel mogelijk terug naar de Temple of the Moon in Darnassus. Zoek daar Priestess Alathea op. Zij vertelt je meer.$B$BHet Licht zij met je, $N.",
+   "o": "Praat met Priestess Alathea in Darnassus.",
+   "c": "Fijn, je bent weer thuis, $N. Tyrande en ik zijn altijd blij als onze leerlingen de wereld in gaan en veilig bij ons terugkomen. Hoe gaat het met je? Zegent Elune nog steeds je reizen? Misschien kun je me later meer over je reizen vertellen, als we eerst over het werk van vandaag hebben gepraat.",
+   "g": [
+    [
+     "Kortgeleden",
+     "recently"
+    ],
+    [
+     "bezocht",
+     "visited (bezoeken)"
+    ],
+    [
+     "zalen",
+     "halls (zaal)"
+    ],
+    [
+     "zo snel mogelijk",
+     "as soon as possible"
+    ],
+    [
+     "zij met je",
+     "be with you (wish)"
+    ],
+    [
+     "leerlingen",
+     "students (leerling)"
+    ],
+    [
+     "veilig",
+     "safely, safe"
+    ],
+    [
+     "terugkomen",
+     "to come back"
+    ],
+    [
+     "Zegent",
+     "blesses (zegenen)"
+    ],
+    [
+     "reizen",
+     "travels, journeys (de reis)"
+    ]
+   ]
+  },
+  "5632": {
+   "t": "Terug naar huis",
+   "d": "O, ja, natuurlijk. Hallo, $N. Niet lang geleden was hier een boodschapper van onze orde. Ze zocht jou. Ze zei dat er iets belangrijks gebeurt in Darnassus. Je moet zo snel als je kunt terug naar de Temple of the Moon. Praat daar met Priestess Alathea. Ik denk dat het te maken heeft met je goede vooruitgang in onze wegen.$B$BDus nog een keer: ga terug naar Darnassus als je kunt.",
+   "o": "Praat met Priestess Alathea in Darnassus.",
+   "c": "Fijn, je bent weer thuis, $n. Tyrande en ik zijn altijd blij als onze leerlingen de wereld in gaan en veilig bij ons terugkomen. Hoe gaat het met je? Zegent Elune nog steeds je reizen? Misschien kun je me later meer over je reizen vertellen, als we eerst over het werk van vandaag hebben gepraat.",
+   "g": [
+    [
+     "boodschapper",
+     "messenger"
+    ],
+    [
+     "orde",
+     "order (religious group)"
+    ],
+    [
+     "te maken heeft met",
+     "has to do with"
+    ],
+    [
+     "vooruitgang",
+     "progress"
+    ],
+    [
+     "wegen",
+     "ways (de weg)"
+    ],
+    [
+     "leerlingen",
+     "students (leerling)"
+    ],
+    [
+     "veilig",
+     "safely, safe"
+    ],
+    [
+     "terugkomen",
+     "to come back"
+    ],
+    [
+     "Zegent",
+     "blesses (zegenen)"
+    ],
+    [
+     "reizen",
+     "travels, journeys (de reis)"
+    ]
+   ]
+  },
+  "5633": {
+   "t": "Terug naar huis",
+   "d": "Gegroet, $gjongen:meid;. Fijn om je hier te zien in onze grote zalen. Een zegen voor jou en jouw volk.$B$BToen jij door ons land reisde, kwam hier een priesteres van jouw tempel. Ze zocht jou. Ze zei dat je zo snel mogelijk terug moest naar de Temple of the Moon. Sorry, ik kan je niet meer vertellen. Maar het klonk wel belangrijk. Als je bij de tempel bent, praat dan met Priestess Alathea.",
+   "o": "Praat met Priestess Alathea in Darnassus.",
+   "c": "Fijn, je bent weer thuis, $n. Tyrande en ik zijn altijd blij als onze leerlingen de wereld in gaan en veilig bij ons terugkomen. Hoe gaat het met je? Zegent Elune nog steeds je reizen? Misschien kun je me later meer over je reizen vertellen, als we eerst over het werk van vandaag hebben gepraat.",
+   "g": [
+    [
+     "Gegroet",
+     "greetings"
+    ],
+    [
+     "zalen",
+     "halls (zaal)"
+    ],
+    [
+     "zegen",
+     "blessing"
+    ],
+    [
+     "reisde",
+     "traveled (reizen)"
+    ],
+    [
+     "tempel",
+     "temple"
+    ],
+    [
+     "klonk",
+     "sounded (klinken)"
+    ],
+    [
+     "leerlingen",
+     "students (leerling)"
+    ],
+    [
+     "veilig",
+     "safely, safe"
+    ],
+    [
+     "terugkomen",
+     "to come back"
+    ],
+    [
+     "Zegent",
+     "blesses (zegenen)"
+    ],
+    [
+     "reizen",
+     "travels, journeys (de reis)"
+    ]
+   ]
+  },
+  "5634": {
+   "t": "Wanhopig gebed",
+   "c": "Je hebt het Licht goed gediend. Je bent een stralend voorbeeld voor iedereen die door deze gevaarlijke landen reist, en verder. Neem alsjeblieft deze les aan als dank voor alles wat je hebt gedaan.",
+   "g": [
+    [
+     "Wanhopig",
+     "desperate"
+    ],
+    [
+     "gebed",
+     "prayer"
+    ],
+    [
+     "gediend",
+     "served (dienen)"
+    ],
+    [
+     "stralend",
+     "shining (stralen)"
+    ],
+    [
+     "voorbeeld",
+     "example"
+    ],
+    [
+     "gevaarlijke",
+     "dangerous (gevaarlijk)"
+    ],
+    [
+     "Neem",
+     "take (nemen; aannemen = to accept)"
+    ]
+   ]
+  },
+  "5635": {
+   "t": "Wanhopig gebed",
+   "d": "Onze leiders hebben je opgemerkt, $N. Ze vragen je om zo snel mogelijk naar de Cathedral of Light in Stormwind te gaan. Blijkbaar vinden ze dat je jezelf al hebt bewezen. Je bent klaar voor meer training. Zoek daar High Priestess Laurena. Zij kan je verder helpen. Succes, en moge het Licht met je zijn.",
+   "o": "Praat met High Priestess Laurena in Stormwind.",
+   "c": "Fijn dat je er bent, $n. We moeten veel dingen bespreken. Maar je training in de wegen van het Licht is belangrijker.$b$bEr zijn lessen die alle dienaren van het Licht moeten leren. Als je klaar bent, beginnen we nu met een paar van die lessen.",
+   "g": [
+    [
+     "Wanhopig",
+     "desperate"
+    ],
+    [
+     "gebed",
+     "prayer"
+    ],
+    [
+     "leiders",
+     "leaders (leider)"
+    ],
+    [
+     "opgemerkt",
+     "noticed (opmerken)"
+    ],
+    [
+     "Blijkbaar",
+     "apparently"
+    ],
+    [
+     "bewezen",
+     "proven (bewijzen)"
+    ],
+    [
+     "bespreken",
+     "to discuss"
+    ],
+    [
+     "wegen",
+     "ways (de weg)"
+    ],
+    [
+     "dienaren",
+     "servants (dienaar)"
+    ],
+    [
+     "lessen",
+     "lessons (les)"
+    ]
+   ]
+  },
+  "5636": {
+   "t": "Wanhopig gebed",
+   "d": "Elune zegene je, beste $r. Ik hoop dat jouw Licht je vandaag vindt en goed beschermt.$B$BNiet lang geleden was hier een van jullie priesters. Hij zocht jou. Hij zei dat je zo snel mogelijk terug moet naar de Cathedral of Light. Daar moet je met High Priestess Laurena praten. Je hebt het blijkbaar goed gedaan, als je zoveel aandacht krijgt. Blijf hier niet te lang. Je volk heeft je nodig.",
+   "o": "Praat met High Priestess Laurena in Stormwind.",
+   "c": "Fijn dat je er bent, $n. We moeten veel dingen bespreken. Maar je training in de wegen van het Licht is belangrijker.$b$bEr zijn lessen die alle dienaren van het Licht moeten leren. Als je klaar bent, beginnen we nu met een paar van die lessen.",
+   "g": [
+    [
+     "Wanhopig",
+     "desperate"
+    ],
+    [
+     "gebed",
+     "prayer"
+    ],
+    [
+     "zegene",
+     "may ... bless (zegenen)"
+    ],
+    [
+     "beschermt",
+     "protects (beschermen)"
+    ],
+    [
+     "blijkbaar",
+     "apparently"
+    ],
+    [
+     "aandacht",
+     "attention"
+    ],
+    [
+     "bespreken",
+     "to discuss"
+    ],
+    [
+     "wegen",
+     "ways (de weg)"
+    ],
+    [
+     "dienaren",
+     "servants (dienaar)"
+    ],
+    [
+     "lessen",
+     "lessons (les)"
+    ]
+   ]
+  },
+  "5637": {
+   "t": "Wanhopig gebed",
+   "d": "Het is tijd dat je naar Stormwind gaat, $N. High Priestess Laurena in de Cathedral of Light wil je spreken. Het moet iets heel goeds of iets heel slechts zijn, als de hogepriesteres je zelf wil zien. Maar ik denk dat je het gewoon goed hebt gedaan, en dat het iets goeds is.$B$BMaar verspil hier niet te veel tijd. Ik zou zo snel mogelijk gaan.",
+   "o": "Praat met High Priestess Laurena in Stormwind.",
+   "c": "Fijn dat je er bent, $n. We moeten veel dingen bespreken. Maar je training in de wegen van het Licht is belangrijker.$b$bEr zijn lessen die alle dienaren van het Licht moeten leren. Als je klaar bent, beginnen we nu met een paar van die lessen.",
+   "g": [
+    [
+     "Wanhopig",
+     "desperate"
+    ],
+    [
+     "gebed",
+     "prayer"
+    ],
+    [
+     "spreken",
+     "to speak (with)"
+    ],
+    [
+     "hogepriesteres",
+     "high priestess"
+    ],
+    [
+     "zelf",
+     "personally, herself"
+    ],
+    [
+     "verspil",
+     "waste (verspillen)"
+    ],
+    [
+     "bespreken",
+     "to discuss"
+    ],
+    [
+     "wegen",
+     "ways (de weg)"
+    ],
+    [
+     "dienaren",
+     "servants (dienaar)"
+    ],
+    [
+     "lessen",
+     "lessons (les)"
+    ]
+   ]
+  },
+  "5638": {
+   "t": "Wanhopig gebed",
+   "d": "Kortgeleden kwam hier een van jullie priesters, $r. Hij zocht jou. Hij zei: als ik je zie, moet ik je naar de Cathedral of Light sturen. Hij zei dat het heel belangrijk is. Maar ik zou me niet te veel zorgen maken. Hij leek positief... alsof hij goed nieuws had. Toch zou ik er snel heen gaan, als ik jou was.$B$BElune zij met je, beste $r.",
+   "o": "Praat met High Priestess Laurena in Stormwind.",
+   "c": "Fijn dat je er bent, $n. We moeten veel dingen bespreken. Maar je training in de wegen van het Licht is belangrijker.$b$bEr zijn lessen die alle dienaren van het Licht moeten leren. Als je klaar bent, beginnen we nu met een paar van die lessen.",
+   "g": [
+    [
+     "Wanhopig",
+     "desperate"
+    ],
+    [
+     "gebed",
+     "prayer"
+    ],
+    [
+     "Kortgeleden",
+     "recently"
+    ],
+    [
+     "zorgen maken",
+     "to worry (zich zorgen maken)"
+    ],
+    [
+     "leek",
+     "seemed (lijken)"
+    ],
+    [
+     "alsof",
+     "as though"
+    ],
+    [
+     "heen",
+     "there (er heen gaan = to go there)"
+    ],
+    [
+     "bespreken",
+     "to discuss"
+    ],
+    [
+     "wegen",
+     "ways (de weg)"
+    ],
+    [
+     "dienaren",
+     "servants (dienaar)"
+    ],
+    [
+     "lessen",
+     "lessons (les)"
+    ]
+   ]
+  },
+  "5639": {
+   "t": "Wanhopig gebed",
+   "d": "Je bent nodig in Stormwind, $N. Laurena, de hogepriesteres daar, zegt dat het tijd is om te laten zien dat je klaar bent voor de volgende stap in je training. Verspil niet te veel tijd op weg daarheen. Je vindt haar in de Cathedral of Light, in het midden van de stad. Doe haar de groeten van mij, en laat zien hoe goed je zo'n roeping verdient. Het Licht zij met je, $N.",
+   "o": "Praat met High Priestess Laurena in Stormwind.",
+   "c": "Fijn dat je er bent, $n. We moeten veel dingen bespreken. Maar je training in de wegen van het Licht is belangrijker.$b$bEr zijn lessen die alle dienaren van het Licht moeten leren. Als je klaar bent, beginnen we nu met een paar van die lessen.",
+   "g": [
+    [
+     "Wanhopig",
+     "desperate"
+    ],
+    [
+     "gebed",
+     "prayer"
+    ],
+    [
+     "hogepriesteres",
+     "high priestess"
+    ],
+    [
+     "Verspil",
+     "waste (verspillen)"
+    ],
+    [
+     "daarheen",
+     "(to) there"
+    ],
+    [
+     "Doe haar de groeten",
+     "give her my regards"
+    ],
+    [
+     "roeping",
+     "calling, vocation"
+    ],
+    [
+     "verdient",
+     "deserves (verdienen)"
+    ],
+    [
+     "bespreken",
+     "to discuss"
+    ],
+    [
+     "wegen",
+     "ways (de weg)"
+    ],
+    [
+     "dienaren",
+     "servants (dienaar)"
+    ],
+    [
+     "lessen",
+     "lessons (les)"
+    ]
+   ]
+  },
+  "5640": {
+   "t": "Wanhopig gebed",
+   "d": "Geprezen zij Elune, en jouw Licht, $n.$b$bRond deze tijd leren veel mensen van onze orde krachten die hun geloof in Elune laten zien. Als ik het goed weet, geldt dat ook voor jouw orde.$b$bAls je klaar bent in Darnassus, zou ik een van jullie hogepriesteressen opzoeken voor meer training. En moge het Licht met je zijn.",
+   "o": "Praat met High Priestess Laurena in Stormwind.",
+   "c": "Fijn dat je er bent, $n. We moeten veel dingen bespreken. Maar je training in de wegen van het Licht is belangrijker.$b$bEr zijn lessen die alle dienaren van het Licht moeten leren. Als je klaar bent, beginnen we nu met een paar van die lessen.",
+   "g": [
+    [
+     "Wanhopig",
+     "desperate"
+    ],
+    [
+     "gebed",
+     "prayer"
+    ],
+    [
+     "Geprezen zij",
+     "praise be to (prijzen)"
+    ],
+    [
+     "geloof",
+     "faith"
+    ],
+    [
+     "geldt",
+     "holds true, applies (gelden)"
+    ],
+    [
+     "hogepriesteressen",
+     "high priestesses (hogepriesteres)"
+    ],
+    [
+     "opzoeken",
+     "to seek out, to look up"
+    ],
+    [
+     "bespreken",
+     "to discuss"
+    ],
+    [
+     "wegen",
+     "ways (de weg)"
+    ],
+    [
+     "dienaren",
+     "servants (dienaar)"
+    ],
+    [
+     "lessen",
+     "lessons (les)"
+    ]
+   ]
+  }
+ },
+ "words": {
+  "allerlei": "all kinds of",
+  "ambitie": "ambition",
+  "belangrijkere": "more important (belangrijk)",
+  "belangrijks": "important (iets belangrijks = something important)",
+  "beledigend": "offensive (beledigen = to offend)",
+  "betere": "better (beter)",
+  "bezig": "busy (druk bezig = very busy)",
+  "daarvan": "of that, about that",
+  "draag": "wear, carry (dragen)",
+  "eerlijk": "honest (eerlijk gezegd = to be honest)",
+  "ernaar": "to it (ernaar uitkijken = to look forward to it)",
+  "genezers": "healers (genezer)",
+  "geprezen": "praised (prijzen)",
+  "getest": "tested (testen)",
+  "gezonde": "healthy (gezond)",
+  "goeds": "good (iets goeds = something good)",
+  "groeten": "greetings, regards (de groet)",
+  "harder": "harder (hard)",
+  "hoef": "need to (hoeven; niet hoeven = not have to)",
+  "hout": "wood",
+  "jonger": "younger (jong)",
+  "jullie": "you (plural), your (plural)",
+  "karakter": "character",
+  "kerk": "church",
+  "klappen": "blows, hits (klap)",
+  "krachtig": "powerful",
+  "normaal": "normally, normal",
+  "opvangen": "to catch, to absorb (klappen opvangen = to take blows)",
+  "positief": "positive",
+  "raakte": "got, became (raken; gewond raken = to get hurt)",
+  "reist": "travels (reizen)",
+  "situaties": "situations (situatie)",
+  "slechts": "bad (iets slechts = something bad)",
+  "terugvechten": "to fight back",
+  "veranderen": "to change",
+  "vergeleken": "compared (vergelijken)",
+  "versterken": "to strengthen, to fortify",
+  "vertelt": "tells (vertellen)",
+  "zekere": "certain (een zekere = a certain)",
+  "zocht": "was looking for, searched (zoeken)",
+  "zware": "hard, heavy (zwaar)"
+ },
+ "terms": {}
+}
