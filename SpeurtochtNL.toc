@@ -19,6 +19,7 @@ Data\Start_DunMorogh.lua
 Data\Start_ClassRunes.lua
 Data\Batch_02_Shadowglen.lua
 Data\Batch_03_Teldrassil.lua
+Data\Batch_04_Darnassus.lua
 
 Display.lua
 Reader.lua

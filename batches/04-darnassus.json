@@ -1,0 +1,1685 @@
+{
+  "quests": {
+    "7671": {
+      "t": "Een nieuwe frostsaber",
+      "c": "Als je me je oude frostsaber brengt, ruil ik hem in voor een uit de nieuwe roedel. De nieuwe snelle sabelkat is net zo snel als je oude, maar hij ziet er anders uit. Kijk maar naar de snelle sabelkatten die hier al op het erf staan. Dan zie je hoe hij eruit zal zien.",
+      "g": [
+        [
+          "ruil",
+          "trade (inruilen: to trade in)"
+        ],
+        [
+          "roedel",
+          "pack (of animals)"
+        ],
+        [
+          "snelle",
+          "swift, fast (snel)"
+        ],
+        [
+          "sabelkat",
+          "saber cat"
+        ],
+        [
+          "net zo snel als",
+          "just as fast as"
+        ],
+        [
+          "ziet er anders uit",
+          "looks different (eruitzien)"
+        ],
+        [
+          "erf",
+          "yard, grounds"
+        ]
+      ]
+    },
+    "7672": {
+      "t": "Een nieuwe nightsaber",
+      "c": "Als je me je oude nightsaber brengt, ruil ik hem in voor een uit de nieuwe roedel. De nieuwe snelle sabelkat is net zo snel als je oude, maar hij ziet er anders uit. Kijk maar naar de snelle sabelkatten die hier al op het erf staan. Dan zie je hoe hij eruit zal zien.",
+      "g": [
+        [
+          "ruil",
+          "trade (inruilen: to trade in)"
+        ],
+        [
+          "roedel",
+          "pack (of animals)"
+        ],
+        [
+          "snelle",
+          "swift, fast (snel)"
+        ],
+        [
+          "sabelkat",
+          "saber cat"
+        ],
+        [
+          "net zo snel als",
+          "just as fast as"
+        ],
+        [
+          "ziet er anders uit",
+          "looks different (eruitzien)"
+        ],
+        [
+          "erf",
+          "yard, grounds"
+        ]
+      ]
+    },
+    "2519": {
+      "t": "De Temple of the Moon",
+      "d": "Een wezen uit het woud dat ooit groots was, heeft hulp nodig, $r.$B$BEr is een moeilijke taak die iemand moet doen.$B$BZoek Priestess A'moora op; zij legt het je uit. Je vindt haar ten zuidoosten van hier, in de Temple of the Moon.",
+      "o": "Sister Aquinne wil dat je met Priestess A'moora praat in de Temple of the Moon.",
+      "c": "Dus Sister Aquinne heeft je gestuurd?",
+      "g": [
+        [
+          "wezen",
+          "creature, being"
+        ],
+        [
+          "woud",
+          "forest, woods"
+        ],
+        [
+          "ooit",
+          "once, ever"
+        ],
+        [
+          "groots",
+          "great, grand"
+        ],
+        [
+          "taak",
+          "task"
+        ],
+        [
+          "legt",
+          "explains (uitleggen)"
+        ],
+        [
+          "ten zuidoosten",
+          "to the southeast"
+        ],
+        [
+          "gestuurd",
+          "sent (sturen)"
+        ]
+      ]
+    },
+    "6344": {
+      "t": "Nessa Shadowsong",
+      "d": "Een vriendin van mij, Nessa Shadowsong, verkoopt vis in Rut'theran Village. Ze wil een pakket naar Darkshore laten brengen en ze zoekt iemand die haar helpt.$B$BHeb je interesse? Neem dan het portaal in Darnassus naar Rut'theran Village. Daar vind je Nessa. Het portaal is ten westen van de Temple Gardens.",
+      "o": "Praat met Nessa Shadowsong.",
+      "c": "Ja, ik heb een koerier nodig die een pakket naar Darkshore brengt. Wil je me helpen?",
+      "g": [
+        [
+          "vriendin",
+          "(female) friend"
+        ],
+        [
+          "verkoopt",
+          "sells (verkopen)"
+        ],
+        [
+          "pakket",
+          "parcel, package"
+        ],
+        [
+          "laten brengen",
+          "have (something) taken"
+        ],
+        [
+          "interesse",
+          "interest"
+        ],
+        [
+          "portaal",
+          "portal"
+        ],
+        [
+          "ten westen van",
+          "west of"
+        ],
+        [
+          "koerier",
+          "courier"
+        ]
+      ]
+    },
+    "952": {
+      "t": "De Grove of the Ancients",
+      "d": "Als je genoeg tijd had om berichten te brengen voor de Oracle Tree, dan kan ik je vast ook inzetten om een bericht te bezorgen. Het moet naar de Grove of the Ancients in Darkshore, recht ten zuiden van Auberdine.$b$bJe moet waarschijnlijk met een hippogrief reizen, maar ik heb genoeg vertrouwen in je dat je dat kunt regelen. Breng dit naar Onu, de Ancient of Lore. Hij wacht al op nieuws van mij, net zoals ik wachtte op nieuws uit de Oracle Glade.",
+      "o": "Breng het bericht van Fandral naar Onu in de Grove of the Ancients in Darkshore, ten zuiden van Auberdine.",
+      "p": "Ah. $C. Hoe kan Onu je helpen?",
+      "c": "Ah. Dank je, $N. Toch is het vreemd. De Arch Druid heeft altijd zo'n haast. Het woud weet dat alles gebeurt op de juiste tijd. Shan'do Stormrage begreep dat.",
+      "g": [
+        [
+          "berichten",
+          "messages"
+        ],
+        [
+          "inzetten",
+          "to put to work, press into service"
+        ],
+        [
+          "bezorgen",
+          "to deliver"
+        ],
+        [
+          "recht ten zuiden",
+          "due south"
+        ],
+        [
+          "waarschijnlijk",
+          "probably"
+        ],
+        [
+          "hippogrief",
+          "hippogryph"
+        ],
+        [
+          "vertrouwen",
+          "faith, trust"
+        ],
+        [
+          "regelen",
+          "to arrange, manage"
+        ],
+        [
+          "net zoals",
+          "just as"
+        ],
+        [
+          "vreemd",
+          "strange"
+        ],
+        [
+          "haast",
+          "hurry"
+        ],
+        [
+          "gebeurt",
+          "happens (gebeuren)"
+        ],
+        [
+          "juiste",
+          "right, proper"
+        ],
+        [
+          "begreep",
+          "understood (begrijpen)"
+        ]
+      ]
+    },
+    "2518": {
+      "t": "Tranen van de maan",
+      "d": "Lady Sathrah was vroeger geliefd bij Elune. Ze was sierlijk en puur. De spin weefde haar zilveren draden door het maanlicht en ving zo de avondmist. De zilveren dauw had sterke genezende krachten. We bewaarden hem hier in de tempel.$B$BMaar de laatste tijd is Sathrah gek geworden. Ook haar toekomstige jongen zijn nu in gevaar.$B$BZoek Lady Sathrah, $N, en maak een eind aan haar lijden. Ze woont langs de noordgrens van Teldrassil, bij Wellspring Lake. Verzamel haar zilveren spinklieren en breng ze terug naar mij.",
+      "o": "Priestess A'moora in de Temple of the Moon in Darnassus wil dat je haar Lady Sathrah's Silvery Spinnerets brengt.",
+      "p": "Het spijt me dat ik je deze taak heb gegeven. Maar voor Lady Sathrah is er geen hoop meer.$B$BWe hopen de spinklieren aan Elune te offeren. Met dit offer zal Elune Sathrah zegenen. Dan kan ze opnieuw geboren worden en rust vinden.",
+      "c": "Het woud rouwt om Lady Sathrah, maar het moest gebeuren.$B$BDank je, $N.",
+      "g": [
+        [
+          "geliefd",
+          "beloved"
+        ],
+        [
+          "sierlijk",
+          "graceful"
+        ],
+        [
+          "weefde",
+          "wove (weven)"
+        ],
+        [
+          "draden",
+          "threads"
+        ],
+        [
+          "ving",
+          "caught (vangen)"
+        ],
+        [
+          "dauw",
+          "dew"
+        ],
+        [
+          "genezende",
+          "healing"
+        ],
+        [
+          "gek geworden",
+          "gone mad"
+        ],
+        [
+          "toekomstige jongen",
+          "future young (offspring)"
+        ],
+        [
+          "lijden",
+          "suffering"
+        ],
+        [
+          "noordgrens",
+          "northern border"
+        ],
+        [
+          "spinklieren",
+          "spinnerets"
+        ],
+        [
+          "offeren",
+          "to sacrifice, offer"
+        ],
+        [
+          "zegenen",
+          "to bless"
+        ],
+        [
+          "rouwt",
+          "mourns (rouwen)"
+        ]
+      ]
+    },
+    "2520": {
+      "t": "Het offer van Sathrah",
+      "d": "Nu moet je de taak afmaken die je hebt gekregen. Neem de spinklieren en breng het offer van Lady Sathrah aan Elune. Laat de grote spin rusten.$B$BZoek de fontein in het midden van deze tempel. Daar kun je het offer neerleggen. Het heilige water reinigt de verdorvenheid die Sathrah gek heeft gemaakt.$B$BKom terug naar mij als je dat hebt gedaan.",
+      "o": "Priestess A'moora wil dat je de zilveren spinklieren van Lady Sathrah bij de fontein in de tempel legt. Ga daarna terug naar haar.",
+      "p": "Heb je het offer bij de fontein gelegd, $N?",
+      "c": "Het verlies van Lady Sathrah is verdrietig. Maar alleen zo kan ze opnieuw geboren worden, met een nieuwe geest.$B$BMoge Elune het offer dat je haar hebt gebracht graag aannemen.",
+      "e": "Breng het offer bij de fontein",
+      "g": [
+        [
+          "afmaken",
+          "to finish"
+        ],
+        [
+          "offer",
+          "sacrifice, offering"
+        ],
+        [
+          "rusten",
+          "to rest"
+        ],
+        [
+          "fontein",
+          "fountain"
+        ],
+        [
+          "neerleggen",
+          "to lay down"
+        ],
+        [
+          "heilige",
+          "holy, sacred"
+        ],
+        [
+          "reinigt",
+          "cleanses (reinigen)"
+        ],
+        [
+          "verdorvenheid",
+          "corruption"
+        ],
+        [
+          "verlies",
+          "loss"
+        ],
+        [
+          "verdrietig",
+          "sad, distressing"
+        ],
+        [
+          "geest",
+          "spirit"
+        ],
+        [
+          "Moge",
+          "may (a wish)"
+        ],
+        [
+          "aannemen",
+          "to accept"
+        ]
+      ]
+    },
+    "730": {
+      "t": "Problemen in Darkshore?",
+      "d": "Wat fijn om een $c te zien die interesse heeft in de grote archeologische wonderen van onze wereld.$b$bVaak zien onze vrienden in de Alliance ons werk als een hobby. Maar velen beseffen niet dat recente ontdekkingen in Khaz Modan hebben bewezen dat een grote, machtige kracht heel Azeroth bedreigt, van Lordaeron tot Kalimdor.$b$bIk maak me grote zorgen om mijn team, dat ik naar Darkshore heb gestuurd. Ik heb al weken niets van ze gehoord.$b$bReis naar Auberdine en zoek naar een aanwijzing over waar ze zijn.",
+      "o": "Reis naar Auberdine en zoek naar sporen van het opgravingsteam van de dwergen.",
+      "c": "Ik ben zo blij dat Chief Archeologist Greywhisker hulp voor ons heeft gestuurd....",
+      "g": [
+        [
+          "archeologische",
+          "archaeological"
+        ],
+        [
+          "wonderen",
+          "wonders"
+        ],
+        [
+          "velen",
+          "many (people)"
+        ],
+        [
+          "beseffen",
+          "to realize"
+        ],
+        [
+          "recente",
+          "recent"
+        ],
+        [
+          "ontdekkingen",
+          "discoveries"
+        ],
+        [
+          "bewezen",
+          "proven (bewijzen)"
+        ],
+        [
+          "machtige",
+          "powerful"
+        ],
+        [
+          "bedreigt",
+          "threatens (bedreigen)"
+        ],
+        [
+          "maak me zorgen",
+          "I'm worried (zich zorgen maken)"
+        ],
+        [
+          "aanwijzing",
+          "clue"
+        ],
+        [
+          "sporen",
+          "signs, traces"
+        ],
+        [
+          "opgravingsteam",
+          "excavation team"
+        ]
+      ]
+    },
+    "3120": {
+      "t": "Het Verdant Sigil",
+      "d": "Dit zegel kreeg ik van een boodschapper van onze druïdenleraar, Mardant. Het lijkt erop dat Mardant je wil spreken als je even tijd hebt. Lees het en breng het daarna naar hem.",
+      "o": "Lees het Verdant Sigil en praat met Mardant Strongoak, in de boom Aldrassil in Shadowglen.",
+      "p": "Ah, jonge $C. Ik zie dat je graag verder wilt leren. Goed.$b$bIk vraag me af: ben je al vaak in de Emerald Dream geweest? Misschien ben je daar nog niet klaar voor... Dat komt nog wel.$b$bMaar tot die tijd moeten we over andere dingen praten.",
+      "c": "Ik ben voorlopig je mentor en gids. Het is mijn plicht om je te leren hoe je begrijpt wat de geesten ons vertellen. Maar ook de ingewikkelde dingen en de geheimen van de Emerald Dream.$b$bAls je leert en sterker wordt, leer je meer over onze slaaptrance. Maar tot die tijd: kom zo vaak terug als je wilt, dan leer ik je wat ik kan over de wegen van ons volk.",
+      "g": [
+        [
+          "zegel",
+          "sigil, seal"
+        ],
+        [
+          "boodschapper",
+          "messenger"
+        ],
+        [
+          "druïdenleraar",
+          "druid teacher"
+        ],
+        [
+          "Het lijkt erop",
+          "it seems"
+        ],
+        [
+          "vraag me af",
+          "wonder (zich afvragen)"
+        ],
+        [
+          "klaar voor",
+          "ready for"
+        ],
+        [
+          "voorlopig",
+          "for now"
+        ],
+        [
+          "gids",
+          "guide"
+        ],
+        [
+          "plicht",
+          "duty"
+        ],
+        [
+          "geesten",
+          "spirits"
+        ],
+        [
+          "ingewikkelde",
+          "complicated, complex"
+        ],
+        [
+          "geheimen",
+          "secrets"
+        ],
+        [
+          "slaaptrance",
+          "sleeping trance"
+        ],
+        [
+          "volk",
+          "people, kind"
+        ]
+      ]
+    },
+    "5921": {
+      "t": "Naar Moonglade",
+      "d": "Alle druïden zijn welkom in de heilige landen van Moonglade. Dat geldt ook nu er spanningen zijn in de Cenarion Circle tussen Arch Druid Staghelm en Keeper Remulos, de beschermer van Moonglade. Nu je de wegen van de Claw leert, leer ik je de spreuk waarmee je jezelf daarheen kunt brengen. Gebruik hem als je de kennis of de troost van Moonglade zoekt.$B$BJe eerste les: reis naar Moonglade en praat met Dendrite Starblaze in Nighthaven over het pad dat je nu volgt. Succes, jonge druïde.",
+      "o": "Gebruik de spreuk \"Teleport: Moonglade\" om naar Moonglade te reizen. Praat daar met Dendrite Starblaze in het dorp Nighthaven.",
+      "c": "\"En zo begint het. Vader Cenarius. En zo begint het.\"$B$BDendrite maakt snel een onzichtbaar gebaar in de lucht boven zich. Er valt een lichte aura van kracht over hem heen.$B$B\"Het eerste perspectief op de natuur dat je moet leren, is dat van de beer. Ik zet je op het pad om dit deel van het druïdenleven te begrijpen. Maar jij moet het omarmen en verspreiden, nu en voor altijd!\"",
+      "g": [
+        [
+          "heilige",
+          "holy, sacred"
+        ],
+        [
+          "geldt",
+          "applies (gelden)"
+        ],
+        [
+          "spanningen",
+          "tensions"
+        ],
+        [
+          "beschermer",
+          "guardian, protector"
+        ],
+        [
+          "spreuk",
+          "spell"
+        ],
+        [
+          "kennis",
+          "knowledge"
+        ],
+        [
+          "troost",
+          "comfort, solace"
+        ],
+        [
+          "pad",
+          "path"
+        ],
+        [
+          "onzichtbaar",
+          "invisible"
+        ],
+        [
+          "gebaar",
+          "gesture"
+        ],
+        [
+          "perspectief",
+          "perspective"
+        ],
+        [
+          "druïdenleven",
+          "druid's life"
+        ],
+        [
+          "omarmen",
+          "to embrace"
+        ],
+        [
+          "verspreiden",
+          "to spread"
+        ],
+        [
+          "voor altijd",
+          "forever"
+        ]
+      ]
+    },
+    "5923": {
+      "t": "Gehoor geven aan de roep",
+      "d": "Pardon, vriend...$B$BIk heb gehoord dat Mathrengyl Bearwalker heeft laten weten dat hij je wil spreken. Het lijkt erop dat je training als druïde een nieuw leven krijgt. Hij gaat je zelf trainen. Mathrengyl is de directe assistent van de Arch Druid zelf. Hij is een van de wijste en meest eerbiedwaardige druïden van Teldrassil.$B$BJe vindt hem in de Cenarion Enclave van Darnassus, op de eerste verdieping van de boom van Fandral Staghelm.",
+      "o": "Praat met Mathrengyl Bearwalker in de Cenarion Enclave, Darnassus.",
+      "c": "Ik ben blij dat je vandaag de weg hierheen hebt gevonden, jonge $C. Het is tijd voor een grote stap in een veel grotere wereld.$B$BIn elk kind van Cenarius zit de roep om de natuur te dienen. Dieren en planten zijn onze vrienden, maar we zorgen ook voor ze. We kiezen ervoor om ons leven te geven als bewakers van het evenwicht, voor hen en ook voor onszelf. Je eerste stap in deze wereld: de weg van de beer leren kennen, en kracht van lichaam en hart leren.$B$BMaak je klaar!",
+      "g": [
+        [
+          "Gehoor geven aan",
+          "to heed, answer (a call)"
+        ],
+        [
+          "roep",
+          "call"
+        ],
+        [
+          "laten weten",
+          "let (someone) know"
+        ],
+        [
+          "wijste",
+          "wisest (wijs)"
+        ],
+        [
+          "eerbiedwaardige",
+          "venerable, august"
+        ],
+        [
+          "eerste verdieping",
+          "second floor (one floor up)"
+        ],
+        [
+          "dienen",
+          "to serve"
+        ],
+        [
+          "zorgen",
+          "take care (zorgen voor)"
+        ],
+        [
+          "bewakers",
+          "keepers, guardians"
+        ],
+        [
+          "evenwicht",
+          "balance"
+        ],
+        [
+          "lichaam",
+          "body"
+        ],
+        [
+          "Maak je klaar",
+          "get ready (zich klaarmaken)"
+        ]
+      ]
+    },
+    "5924": {
+      "t": "Gehoor geven aan de roep",
+      "d": "Pardon, vriend...$B$BIk heb gehoord dat Mathrengyl Bearwalker heeft laten weten dat hij je wil spreken. Het lijkt erop dat je training als druïde een nieuw leven krijgt. Hij gaat je zelf trainen. Mathrengyl is de directe assistent van de Arch Druid zelf. Hij is een van de wijste en meest eerbiedwaardige druïden van Teldrassil.$B$BJe vindt hem in de Cenarion Enclave van Darnassus, op de eerste verdieping van de boom van Fandral Staghelm.",
+      "o": "Praat met Mathrengyl Bearwalker in de Cenarion Enclave, Darnassus.",
+      "c": "Ik ben blij dat je vandaag de weg hierheen hebt gevonden, jonge $C. Het is tijd voor een grote stap in een veel grotere wereld.$B$BIn elk kind van Cenarius zit de roep om de natuur te dienen. Dieren en planten zijn onze vrienden, maar we zorgen ook voor ze. We kiezen ervoor om ons leven te geven als bewakers van het evenwicht, voor hen en ook voor onszelf. Je eerste stap in deze wereld: de weg van de beer leren kennen, en kracht van lichaam en hart leren.$B$BMaak je klaar!",
+      "g": [
+        [
+          "Gehoor geven aan",
+          "to heed, answer (a call)"
+        ],
+        [
+          "roep",
+          "call"
+        ],
+        [
+          "laten weten",
+          "let (someone) know"
+        ],
+        [
+          "wijste",
+          "wisest (wijs)"
+        ],
+        [
+          "eerbiedwaardige",
+          "venerable, august"
+        ],
+        [
+          "eerste verdieping",
+          "second floor (one floor up)"
+        ],
+        [
+          "dienen",
+          "to serve"
+        ],
+        [
+          "zorgen",
+          "take care (zorgen voor)"
+        ],
+        [
+          "bewakers",
+          "keepers, guardians"
+        ],
+        [
+          "evenwicht",
+          "balance"
+        ],
+        [
+          "lichaam",
+          "body"
+        ],
+        [
+          "Maak je klaar",
+          "get ready (zich klaarmaken)"
+        ]
+      ]
+    },
+    "5925": {
+      "t": "Gehoor geven aan de roep",
+      "d": "Pardon, vriend...$B$BIk heb gehoord dat Mathrengyl Bearwalker heeft laten weten dat hij je wil spreken. Het lijkt erop dat je training als druïde een nieuw leven krijgt. Hij gaat je zelf trainen. Mathrengyl is de directe assistent van de Arch Druid zelf. Hij is een van de wijste en meest eerbiedwaardige druïden van Teldrassil.$B$BJe vindt hem in de Cenarion Enclave van Darnassus, op de eerste verdieping van de boom van Fandral Staghelm.",
+      "o": "Praat met Mathrengyl Bearwalker in de Cenarion Enclave, Darnassus.",
+      "c": "Ik ben blij dat je vandaag de weg hierheen hebt gevonden, jonge $C. Het is tijd voor een grote stap in een veel grotere wereld.$B$BIn elk kind van Cenarius zit de roep om de natuur te dienen. Dieren en planten zijn onze vrienden, maar we zorgen ook voor ze. We kiezen ervoor om ons leven te geven als bewakers van het evenwicht, voor hen en ook voor onszelf. Je eerste stap in deze wereld: de weg van de beer leren kennen, en kracht van lichaam en hart leren.$B$BMaak je klaar!",
+      "g": [
+        [
+          "Gehoor geven aan",
+          "to heed, answer (a call)"
+        ],
+        [
+          "roep",
+          "call"
+        ],
+        [
+          "laten weten",
+          "let (someone) know"
+        ],
+        [
+          "wijste",
+          "wisest (wijs)"
+        ],
+        [
+          "eerbiedwaardige",
+          "venerable, august"
+        ],
+        [
+          "eerste verdieping",
+          "second floor (one floor up)"
+        ],
+        [
+          "dienen",
+          "to serve"
+        ],
+        [
+          "zorgen",
+          "take care (zorgen voor)"
+        ],
+        [
+          "bewakers",
+          "keepers, guardians"
+        ],
+        [
+          "evenwicht",
+          "balance"
+        ],
+        [
+          "lichaam",
+          "body"
+        ],
+        [
+          "Maak je klaar",
+          "get ready (zich klaarmaken)"
+        ]
+      ]
+    },
+    "5929": {
+      "t": "De Great Bear Spirit",
+      "d": "In het noordwesten van Moonglade woont een wijs en edel wezen dat we de Great Bear Spirit noemen. Voor alle druïden is het een leraar en mentor. Het helpt hen om de beer voor het eerst echt te begrijpen. Elke druïde zoekt ooit de wijsheid van de geest, en jij bent geen uitzondering.$B$BGa nu naar de Great Bear Spirit en leer wat de geest je wil leren. Als de geest tevreden over je is, kom dan terug naar mij in Nighthaven. Dan zien we of je de lessen echt hebt begrepen.",
+      "o": "Zoek de Great Bear Spirit in het noordwesten van Moonglade en leer wat de geest je wil vertellen over de aard van de beer. Ga daarna terug naar Dendrite Starblaze in Nighthaven, Moonglade.",
+      "p": "Kom pas terug als de Great Bear Spirit je naar mij terugstuurt. Zonder zijn zegen kan je training niet verder gaan.",
+      "c": "Dendrite maakt weer een onzichtbaar gebaar in de lucht boven zich als je dichterbij komt. Weer komt er een aura van kracht over hem. Hij glimlacht een heel klein beetje.$B$B\"Ik voel wijsheid in je, jongeling, die er niet was toen we elkaar voor het eerst zagen. Je kijkt me aan met kracht en een duidelijk doel, maar dat doel is nog niet scherp. Nu leer je je kracht te richten en de aard van de beer in je werk op te nemen.\"",
+      "e": "Zoek de Great Bear Spirit en leer wat de geest je wil vertellen over de aard van de beer.",
+      "g": [
+        [
+          "edel",
+          "noble"
+        ],
+        [
+          "wezen",
+          "being, creature"
+        ],
+        [
+          "wijsheid",
+          "wisdom"
+        ],
+        [
+          "uitzondering",
+          "exception"
+        ],
+        [
+          "tevreden",
+          "satisfied"
+        ],
+        [
+          "aard",
+          "nature, character"
+        ],
+        [
+          "pas",
+          "only (not until)"
+        ],
+        [
+          "terugstuurt",
+          "sends back (terugsturen)"
+        ],
+        [
+          "zegen",
+          "blessing"
+        ],
+        [
+          "glimlacht",
+          "smiles (glimlachen)"
+        ],
+        [
+          "jongeling",
+          "young one, youth"
+        ],
+        [
+          "doel",
+          "purpose, aim"
+        ],
+        [
+          "scherp",
+          "sharp, focused"
+        ],
+        [
+          "richten",
+          "to focus, aim"
+        ],
+        [
+          "op te nemen",
+          "to take in (opnemen)"
+        ]
+      ]
+    },
+    "5931": {
+      "t": "Terug naar Darnassus",
+      "d": "Het is tijd om afscheid te nemen, jongeling. Je lessen brengen je terug naar degene die je naar mij stuurde. Mathrengyl Bearwalker leeft echt in evenwicht met de natuur, ook al woont hij gevaarlijk dicht bij de plek waar het evenwicht wankelt. Luister naar zijn instructies, dan maak je je eerste lessen als beschermer van het evenwicht snel af.$B$BGa nu, jongeling. We zien elkaar weer.",
+      "o": "Ga terug naar Darnassus en praat met Mathrengyl Bearwalker in de Cenarion Enclave.",
+      "c": "Welkom terug, $N. Ik voel dat je eerste ontmoeting met de Great Bear Spirit hetzelfde was als bij alle druïden die het pad van de Claw op gaan... een beetje verwarrend, maar heel intens. Bij mij was het ook zo.$B$BDe Great Bear Spirit hoort al bij Azeroth zolang Azeroth in de hemel bestaat. We vertrouwen op zijn wijsheid en zijn kracht om ons doel te voeden. Nu is het tijd voor je eerste test van dit doel. Luister goed...",
+      "g": [
+        [
+          "afscheid te nemen",
+          "to say goodbye (afscheid nemen)"
+        ],
+        [
+          "jongeling",
+          "young one, youth"
+        ],
+        [
+          "degene",
+          "the one (who)"
+        ],
+        [
+          "evenwicht",
+          "balance"
+        ],
+        [
+          "gevaarlijk",
+          "dangerously"
+        ],
+        [
+          "wankelt",
+          "falters, wobbles (wankelen)"
+        ],
+        [
+          "instructies",
+          "instructions"
+        ],
+        [
+          "beschermer",
+          "protector"
+        ],
+        [
+          "ontmoeting",
+          "meeting"
+        ],
+        [
+          "verwarrend",
+          "bewildering, confusing"
+        ],
+        [
+          "hemel",
+          "heavens, sky"
+        ],
+        [
+          "bestaat",
+          "exists (bestaan)"
+        ],
+        [
+          "vertrouwen op",
+          "rely on"
+        ],
+        [
+          "voeden",
+          "to feed, fuel"
+        ]
+      ]
+    },
+    "6001": {
+      "t": "Lichaam en hart",
+      "d": "Recht ten oosten van Auberdine liggen veel grotten van de moonkin. In de grot die het dichtst bij Auberdine ligt, staat een Moonkin Stone. Lunaclaw, de verdediger van de steen, vecht alleen tegen je als je er Cenarion Moondust op gebruikt. In Lunaclaw zit een kracht die jij moet gebruiken als lid van de Claw.$B$BJe hebt het recht verdiend om dit Cenarion Moondust te gebruiken, $N... Laat me nu zien dat je ook het recht hebt verdiend op de kracht van lichaam en de kracht van hart die een druïde nodig heeft!",
+      "o": "Gebruik het Cenarion Moondust op de Moonkin Stone van Auberdine om Lunaclaw op te roepen. Daarna moet je het opnemen tegen Lunaclaw en de kracht van lichaam en hart verdienen die hij heeft.$B$BPraat met Mathrengyl Bearwalker in Darnassus als je klaar bent.",
+      "p": "Als je de uitdaging die voor je ligt bent aangegaan, begrijp je de kracht van lichaam en de kracht van hart helemaal. Tot die tijd kan ik je niet verder helpen.",
+      "c": "Je hebt eindelijk je grote stap gezet in een veel grotere wereld, $N. Ik voel de les van de Great Bear Spirit in je. En ik voel dat je de kracht hebt gekregen die Lunaclaw had.$B$BEr staat niets meer in je weg... Laat me je nu leren wat het betekent om een $C van de Claw te zijn!",
+      "e": "Neem het op tegen Lunaclaw en verdien de kracht van lichaam en hart die hij heeft.",
+      "o1": "Neem het op tegen Lunaclaw en verdien de kracht van lichaam en hart die hij heeft.",
+      "g": [
+        [
+          "grotten",
+          "caves"
+        ],
+        [
+          "dichtst",
+          "closest (dichtbij)"
+        ],
+        [
+          "verdediger",
+          "defender"
+        ],
+        [
+          "lid",
+          "member"
+        ],
+        [
+          "recht",
+          "right"
+        ],
+        [
+          "verdiend",
+          "earned (verdienen)"
+        ],
+        [
+          "op te roepen",
+          "to summon (oproepen)"
+        ],
+        [
+          "het opnemen tegen",
+          "to take on, face"
+        ],
+        [
+          "Neem het op tegen",
+          "take on, face (het opnemen tegen)"
+        ],
+        [
+          "uitdaging",
+          "challenge"
+        ],
+        [
+          "aangegaan",
+          "taken on (aangaan)"
+        ],
+        [
+          "eindelijk",
+          "finally"
+        ],
+        [
+          "gezet",
+          "taken (a step) (zetten)"
+        ],
+        [
+          "Er staat niets meer in je weg",
+          "nothing stands in your way any more"
+        ],
+        [
+          "betekent",
+          "means (betekenen)"
+        ]
+      ]
+    },
+    "3117": {
+      "t": "Het Etched Sigil",
+      "d": "Dit zegel kreeg ik van een boodschapper van onze jagerleraar, Ayanna. Het lijkt erop dat Ayanna je wil spreken als je even tijd hebt. Lees het en breng het daarna naar haar.",
+      "o": "Lees het Etched Sigil en praat met Ayanna Everstride boven in Aldrassil in Shadowglen.",
+      "p": "Je bent er, en geen moment te vroeg, $N. Welkom in Shadowglen.$B$BIk hoop dat mijn zegel je in goede gezondheid en een goed humeur heeft gevonden?$B$BZoals ik al zei: ik ben hier om je te trainen als jager. Om beesten te temmen die je helpen in de strijd. Om te schieten met een boog die nooit mist. Om de landen te respecteren die we ons thuis noemen, en ook de landen daarbuiten.",
+      "c": "Als je leert wat Shadowglen je te leren heeft, kom dan naar mij. Ik kan je helpen om meer te begrijpen over je rol als jager en wat je kunt.$B$BDit zijn gevaarlijke tijden, $N. Zie de vaardigheden van je dieren niet als vanzelfsprekend. Er zijn dingen in deze wereld die gevaarlijker zijn dan je je kunt voorstellen. Ga met Elune en kom weer bij mij terug.",
+      "g": [
+        [
+          "zegel",
+          "sigil, seal"
+        ],
+        [
+          "boodschapper",
+          "messenger"
+        ],
+        [
+          "jagerleraar",
+          "hunter trainer"
+        ],
+        [
+          "geen moment te vroeg",
+          "none too soon"
+        ],
+        [
+          "gezondheid",
+          "health"
+        ],
+        [
+          "humeur",
+          "mood, spirits"
+        ],
+        [
+          "temmen",
+          "to tame"
+        ],
+        [
+          "strijd",
+          "battle"
+        ],
+        [
+          "boog",
+          "bow"
+        ],
+        [
+          "mist",
+          "misses (missen)"
+        ],
+        [
+          "daarbuiten",
+          "beyond, outside of it"
+        ],
+        [
+          "vaardigheden",
+          "skills"
+        ],
+        [
+          "vanzelfsprekend",
+          "taken for granted, self-evident"
+        ],
+        [
+          "voorstellen",
+          "to imagine (zich voorstellen)"
+        ]
+      ]
+    },
+    "6063": {
+      "t": "Het beest temmen",
+      "d": "Als jager moet je goed onthouden welke verantwoordelijkheid je in je handen hebt. De natuur is geen kracht die je kunt dwingen om te doen wat wij willen. Je moet haar respecteren en erkennen dat ze sterker is dan je eigen bestaan.$B$B$N, je moet laten zien dat je dit begrijpt. Pas dan leer je hoe je een dier tamt als je metgezel.$B$BJe eerste taak: neem deze Taming Rod. Daarmee kun je een Webwood Lurker temmen. Tem hem en oefen je vaardigheden als jager.",
+      "o": "Gebruik de Taming Rod om een Webwood Lurker te temmen. Oefen je vaardigheden en breng de Taming Rod daarna terug naar Dazalar in Dolanaar.",
+      "p": "Je leert het wel, $N. Op een dag word je een geweldige jager.",
+      "c": "Uitstekend, $N! Jij leert echt snel.",
+      "e": "Tem een Webwood Lurker",
+      "g": [
+        [
+          "onthouden",
+          "to remember"
+        ],
+        [
+          "verantwoordelijkheid",
+          "responsibility"
+        ],
+        [
+          "dwingen",
+          "to force"
+        ],
+        [
+          "erkennen",
+          "to acknowledge"
+        ],
+        [
+          "bestaan",
+          "existence"
+        ],
+        [
+          "Pas dan",
+          "only then"
+        ],
+        [
+          "tamt",
+          "tame (temmen)"
+        ],
+        [
+          "metgezel",
+          "companion"
+        ],
+        [
+          "Tem",
+          "tame (temmen)"
+        ],
+        [
+          "oefen",
+          "practise (oefenen)"
+        ],
+        [
+          "vaardigheden",
+          "skills"
+        ],
+        [
+          "Op een dag",
+          "one day"
+        ],
+        [
+          "Uitstekend",
+          "excellent"
+        ]
+      ]
+    },
+    "6064": {
+      "t": "Het beest temmen",
+      "d": "Hallo daar, $Gjongen:meid;! Dus jij wilt weten hoe je een eigen dier kunt krijgen?$B$BNou, laten we beginnen. Niks is belangrijker bij de jacht dan je uitrusting, maar over mijn nieuwe Shrapnel Blaster praten we een andere keer. Laten we ons nu richten op iets waar jij vast veel interesse in hebt: een dier!$B$BJe leert het best als je een paar wezens als metgezel uitprobeert en kijkt wat je leuk vindt. Dus zoek een Large Crag Boar en tem hem met de Taming Rod.",
+      "o": "Gebruik de Taming Rod om een Large Crag Boar te temmen. Oefen je vaardigheden en breng de Taming Rod daarna terug naar Grif Wildheart in Kharanos.",
+      "p": "Geen zorgen, meid! Je mag er een paar uitproberen voordat je er één moet kiezen.",
+      "c": "Ik weet het, ik weet het: je vraagt je af wat er nu komt, hè?!",
+      "e": "Tem een Large Crag Boar",
+      "g": [
+        [
+          "eigen",
+          "own"
+        ],
+        [
+          "laten we",
+          "let's"
+        ],
+        [
+          "jacht",
+          "hunt, hunting"
+        ],
+        [
+          "uitrusting",
+          "equipment"
+        ],
+        [
+          "richten",
+          "to focus (zich richten op)"
+        ],
+        [
+          "metgezel",
+          "companion"
+        ],
+        [
+          "uitprobeert",
+          "try out (uitproberen)"
+        ],
+        [
+          "uitproberen",
+          "to try out"
+        ],
+        [
+          "Geen zorgen",
+          "don't worry"
+        ],
+        [
+          "kiezen",
+          "to choose"
+        ],
+        [
+          "vraagt je af",
+          "wonder (zich afvragen)"
+        ],
+        [
+          "hè",
+          "eh, right?"
+        ]
+      ]
+    },
+    "6071": {
+      "t": "Het pad van de jager",
+      "d": "Hallo, jonge jager. Je ziet eruit alsof je een beest goed aankunt en het kunt trainen als je metgezel.$B$BJe moet naar Dazalar in Dolanaar gaan. Hij kan je op weg helpen om een eigen dier te verdienen.",
+      "o": "Praat met Dazalar in Dolanaar.",
+      "c": "Ja, het is tijd, $c.",
+      "g": [
+        [
+          "pad",
+          "path"
+        ],
+        [
+          "ziet eruit alsof",
+          "look as if (eruitzien)"
+        ],
+        [
+          "beest",
+          "beast"
+        ],
+        [
+          "aankunt",
+          "can handle (aankunnen)"
+        ],
+        [
+          "metgezel",
+          "companion"
+        ],
+        [
+          "op weg helpen",
+          "set (someone) on the path"
+        ],
+        [
+          "eigen",
+          "own"
+        ],
+        [
+          "verdienen",
+          "to earn"
+        ]
+      ]
+    },
+    "6072": {
+      "t": "Het pad van de jager",
+      "d": "Hallo, jonge jager. Je ziet eruit alsof je een beest goed aankunt en het kunt trainen als je metgezel.$B$BJe moet naar Dazalar in Dolanaar gaan. Hij kan je op weg helpen om een eigen dier te verdienen.",
+      "o": "Praat met Dazalar in Dolanaar.",
+      "c": "Ja, ik denk dat het tijd is...",
+      "g": [
+        [
+          "pad",
+          "path"
+        ],
+        [
+          "ziet eruit alsof",
+          "look as if (eruitzien)"
+        ],
+        [
+          "beest",
+          "beast"
+        ],
+        [
+          "aankunt",
+          "can handle (aankunnen)"
+        ],
+        [
+          "metgezel",
+          "companion"
+        ],
+        [
+          "op weg helpen",
+          "set (someone) on the path"
+        ],
+        [
+          "eigen",
+          "own"
+        ],
+        [
+          "verdienen",
+          "to earn"
+        ]
+      ]
+    },
+    "6073": {
+      "t": "Het pad van de jager",
+      "d": "Hallo, jonge jager. Je ziet eruit alsof je een beest goed aankunt en het kunt trainen als je metgezel.$B$BJe moet naar Dazalar in Dolanaar gaan. Hij kan je op weg helpen om een eigen dier te verdienen.",
+      "o": "Praat met Dazalar in Dolanaar.",
+      "c": "Ja, het is tijd, $c.",
+      "g": [
+        [
+          "pad",
+          "path"
+        ],
+        [
+          "ziet eruit alsof",
+          "look as if (eruitzien)"
+        ],
+        [
+          "beest",
+          "beast"
+        ],
+        [
+          "aankunt",
+          "can handle (aankunnen)"
+        ],
+        [
+          "metgezel",
+          "companion"
+        ],
+        [
+          "op weg helpen",
+          "set (someone) on the path"
+        ],
+        [
+          "eigen",
+          "own"
+        ],
+        [
+          "verdienen",
+          "to earn"
+        ]
+      ]
+    },
+    "6074": {
+      "t": "Het pad van de jager",
+      "d": "Hallo, jonge jager. Je ziet eruit alsof je een beest goed aankunt en het kunt trainen als je metgezel.$B$BJe moet naar Grif Wildheart in Kharanos gaan. Hij kan je op weg helpen om een eigen dier te verdienen.",
+      "o": "Praat met Grif Wildheart in Kharanos.",
+      "c": "Ja, ik geloof dat jij ook klaar bent....",
+      "g": [
+        [
+          "pad",
+          "path"
+        ],
+        [
+          "ziet eruit alsof",
+          "look as if (eruitzien)"
+        ],
+        [
+          "beest",
+          "beast"
+        ],
+        [
+          "aankunt",
+          "can handle (aankunnen)"
+        ],
+        [
+          "metgezel",
+          "companion"
+        ],
+        [
+          "op weg helpen",
+          "set (someone) on the path"
+        ],
+        [
+          "eigen",
+          "own"
+        ],
+        [
+          "verdienen",
+          "to earn"
+        ],
+        [
+          "geloof",
+          "believe (geloven)"
+        ]
+      ]
+    },
+    "6075": {
+      "t": "Het pad van de jager",
+      "d": "Hallo, jonge jager. Je ziet eruit alsof je een beest goed aankunt en het kunt trainen als je metgezel.$B$BJe moet naar Grif Wildheart in Kharanos gaan. Hij kan je op weg helpen om een eigen dier te verdienen.",
+      "o": "Praat met Grif Wildheart in Kharanos.",
+      "c": "Ja, ik geloof dat jij ook klaar bent....",
+      "g": [
+        [
+          "pad",
+          "path"
+        ],
+        [
+          "ziet eruit alsof",
+          "look as if (eruitzien)"
+        ],
+        [
+          "beest",
+          "beast"
+        ],
+        [
+          "aankunt",
+          "can handle (aankunnen)"
+        ],
+        [
+          "metgezel",
+          "companion"
+        ],
+        [
+          "op weg helpen",
+          "set (someone) on the path"
+        ],
+        [
+          "eigen",
+          "own"
+        ],
+        [
+          "verdienen",
+          "to earn"
+        ],
+        [
+          "geloof",
+          "believe (geloven)"
+        ]
+      ]
+    },
+    "6076": {
+      "t": "Het pad van de jager",
+      "d": "Hallo, jonge jager. Je ziet eruit alsof je een beest goed aankunt en het kunt trainen als je metgezel.$B$BJe moet naar Grif Wildheart in Kharanos gaan. Hij kan je op weg helpen om een eigen dier te verdienen.",
+      "o": "Praat met Grif Wildheart in Kharanos.",
+      "c": "Ja, ik geloof dat jij ook klaar bent....",
+      "g": [
+        [
+          "pad",
+          "path"
+        ],
+        [
+          "ziet eruit alsof",
+          "look as if (eruitzien)"
+        ],
+        [
+          "beest",
+          "beast"
+        ],
+        [
+          "aankunt",
+          "can handle (aankunnen)"
+        ],
+        [
+          "metgezel",
+          "companion"
+        ],
+        [
+          "op weg helpen",
+          "set (someone) on the path"
+        ],
+        [
+          "eigen",
+          "own"
+        ],
+        [
+          "verdienen",
+          "to earn"
+        ],
+        [
+          "geloof",
+          "believe (geloven)"
+        ]
+      ]
+    },
+    "6084": {
+      "t": "Het beest temmen",
+      "d": "Die zwijnen zijn behoorlijk fors. Misschien wil je iets wat sierlijker is? Goed dan, ik heb precies wat je zoekt. Ten zuidoosten van hier vind je grote witte katten: Snow Leopards, oftewel sneeuwluipaarden. Ze zijn net als een sierlijk gesneden geweer: achter hun mooie buitenkant zit een sterke vechter, die heel veel schade kan doen. Je zult merken dat ze veel leniger en sneller zijn dan het zwijn dat je hebt getamd.$B$BNeem deze Taming Rod en kijk hoe de sneeuwluipaard je bevalt.",
+      "o": "Gebruik de Taming Rod om een Snow Leopard te temmen. Oefen je vaardigheden en ga daarna terug naar Grif Wildheart in Kharanos.",
+      "p": "Wat vind je van de sneeuwluipaard, $N?",
+      "c": "Als ik vind dat je genoeg hebt geleerd, geef ik je het vermogen om elk dier te kiezen dat je wilt.",
+      "e": "Tem een Snow Leopard",
+      "g": [
+        [
+          "zwijnen",
+          "boars"
+        ],
+        [
+          "behoorlijk",
+          "quite, rather"
+        ],
+        [
+          "fors",
+          "burly, hefty"
+        ],
+        [
+          "sierlijker",
+          "more graceful (sierlijk)"
+        ],
+        [
+          "oftewel",
+          "in other words, or"
+        ],
+        [
+          "sneeuwluipaarden",
+          "snow leopards"
+        ],
+        [
+          "gesneden",
+          "carved (snijden)"
+        ],
+        [
+          "geweer",
+          "rifle, gun"
+        ],
+        [
+          "buitenkant",
+          "exterior, outside"
+        ],
+        [
+          "vechter",
+          "fighter"
+        ],
+        [
+          "schade",
+          "damage"
+        ],
+        [
+          "merken",
+          "to notice"
+        ],
+        [
+          "leniger",
+          "more agile (lenig)"
+        ],
+        [
+          "bevalt",
+          "pleases, suits (bevallen)"
+        ],
+        [
+          "vermogen",
+          "ability, power"
+        ]
+      ]
+    },
+    "6085": {
+      "t": "Het beest temmen",
+      "d": "Misschien wil je een wezen dat vooral heel sterk is. De Ice Claw Bear is een prima metgezel voor een beginnende jager zoals jij. Je vindt hem ten oosten van Kharanos. Hier is de Taming Rod. Probeer dit dier als je metgezel en kijk of je het leuk vindt!$B$BAls je terugkomt, geef ik je de vaardigheden die je nodig hebt om een dier naar keuze te temmen. Dit wezen gaat dezelfde uitdagingen aan als jij en doet samen met jou ervaring op. Ik laat je ook zien hoe je het kunt roepen en wegsturen wanneer je wilt.$b",
+      "o": "Gebruik de Taming Rod om een Ice Claw Bear te temmen. Oefen je vaardigheden en breng de Taming Rod daarna terug naar Grif Wildheart in Kharanos.",
+      "p": "Heb je de Ice Claw Bear al getamd?",
+      "c": "Alsjeblieft, $N. Ik geef je nu de kracht om een beest te temmen, en om het te roepen en weg te sturen wanneer je wilt.$B$BZoek een goed, trouw dier en geniet van de jacht!",
+      "e": "Tem een Ice Claw Bear",
+      "g": [
+        [
+          "vooral",
+          "mainly, above all"
+        ],
+        [
+          "prima",
+          "excellent, fine"
+        ],
+        [
+          "beginnende",
+          "beginning, fledgling"
+        ],
+        [
+          "naar keuze",
+          "of your choice"
+        ],
+        [
+          "uitdagingen",
+          "challenges"
+        ],
+        [
+          "doet ... ervaring op",
+          "gains experience (ervaring opdoen)"
+        ],
+        [
+          "ervaring",
+          "experience"
+        ],
+        [
+          "roepen",
+          "to call"
+        ],
+        [
+          "wegsturen",
+          "to send away, dismiss"
+        ],
+        [
+          "getamd",
+          "tamed (temmen)"
+        ],
+        [
+          "Alsjeblieft",
+          "here you are"
+        ],
+        [
+          "trouw",
+          "loyal"
+        ],
+        [
+          "geniet",
+          "enjoy (genieten)"
+        ],
+        [
+          "jacht",
+          "hunt"
+        ]
+      ]
+    },
+    "6086": {
+      "t": "Het beest trainen",
+      "d": "$N, je hebt nu de kracht om een dier te temmen, maar je moet ook leren hoe je het traint.$B$BReis naar Ironforge en zoek de Hall of Arms. Daar moet je praten met een van onze meest gerespecteerde dierentrainers, Belia Thundergranite. Zij geeft je de kracht om je nieuwe dier te trainen. Dus vooruit, $Gjongen:meid;!$B$BBelia is een vriendelijk type. Je krijgt vast zonder problemen haar goedkeuring. Succes, $N.$b",
+      "o": "Praat met Belia Thundergranite in Ironforge.",
+      "c": "Een nieuwe rekruut, hè? Ik zie dat je op weg bent om een geweldige $C te worden.$B$BJa, ik kan je de vaardigheden geven die je nodig hebt om je dier te trainen en te leiden. Je kunt je dier nieuwe vaardigheden leren, maar je kunt het nu ook voeren. En je kunt het weer tot leven wekken als het in de strijd valt.$B$BOnthoud: als je het beste uit je nieuwe dier wilt halen, moet je het respecteren en goed behandelen. Dan wordt je dier je trouwste vriend.",
+      "g": [
+        [
+          "gerespecteerde",
+          "respected, revered"
+        ],
+        [
+          "dierentrainers",
+          "animal trainers"
+        ],
+        [
+          "vooruit",
+          "get going, go on"
+        ],
+        [
+          "type",
+          "sort (of person)"
+        ],
+        [
+          "vast",
+          "surely"
+        ],
+        [
+          "goedkeuring",
+          "approval"
+        ],
+        [
+          "rekruut",
+          "recruit"
+        ],
+        [
+          "leiden",
+          "to guide, lead"
+        ],
+        [
+          "voeren",
+          "to feed (an animal)"
+        ],
+        [
+          "tot leven wekken",
+          "bring back to life, revive"
+        ],
+        [
+          "strijd",
+          "battle"
+        ],
+        [
+          "Onthoud",
+          "remember (onthouden)"
+        ],
+        [
+          "behandelen",
+          "to treat"
+        ],
+        [
+          "trouwste",
+          "most loyal (trouw)"
+        ]
+      ]
+    },
+    "6101": {
+      "t": "Het beest temmen",
+      "d": "Op de veranderlijkheid van de natuur kun je vertrouwen, $N. Ze is voorspelbaar, omdat ze nooit hetzelfde blijft. Ze verandert altijd.$B$BDe taken die ik je geef, helpen je om de grote verschillen te zien tussen de wezens die je als metgezel kunt kiezen, en om ze te waarderen.$B$BNeem deze Taming Rod en tem er een Nightsaber Stalker mee. Die vind je in het zuiden. Oefen je vaardigheden als jager. Dan ga je de overeenkomsten en verschillen in de natuur begrijpen.",
+      "o": "Gebruik de Taming Rod om een Nightsaber Stalker te temmen. Oefen je vaardigheden en breng de Taming Rod daarna terug naar Dazalar in Dolanaar.",
+      "p": "Het evenwicht tussen de natuur en jezelf begrijpen is voor elke nachtelf een manier van leven.",
+      "c": "Ik zie je toewijding, en ik zie dat je hebt begrepen wat ik je heb geleerd, $N.",
+      "e": "Tem een Nightsaber Stalker",
+      "g": [
+        [
+          "veranderlijkheid",
+          "changeability, variance"
+        ],
+        [
+          "vertrouwen",
+          "rely, trust"
+        ],
+        [
+          "voorspelbaar",
+          "predictable"
+        ],
+        [
+          "verandert",
+          "changes (veranderen)"
+        ],
+        [
+          "verschillen",
+          "differences"
+        ],
+        [
+          "waarderen",
+          "to appreciate"
+        ],
+        [
+          "overeenkomsten",
+          "similarities"
+        ],
+        [
+          "evenwicht",
+          "balance"
+        ],
+        [
+          "nachtelf",
+          "night elf"
+        ],
+        [
+          "manier van leven",
+          "way of life"
+        ],
+        [
+          "toewijding",
+          "commitment, devotion"
+        ]
+      ]
+    }
+  },
+  "words": {
+    "afscheid": "farewell, goodbye (afscheid nemen: to say goodbye)",
+    "aura": "aura",
+    "avondmist": "evening mist",
+    "begint": "begins (beginnen)",
+    "begrepen": "understood (begrijpen)",
+    "begrijpt": "understand(s) (begrijpen)",
+    "belangrijker": "more important (belangrijk)",
+    "best": "best",
+    "bewaarden": "kept, stored (bewaren)",
+    "daarheen": "(to) there",
+    "daarmee": "with it, with that",
+    "dezelfde": "the same",
+    "dicht": "close; closed",
+    "dichterbij": "closer",
+    "dier": "animal",
+    "directe": "direct",
+    "eind": "end (een eind maken aan: put an end to)",
+    "geboren": "born",
+    "gegeven": "given (geven)",
+    "gehoor": "hearing (gehoor geven aan: to heed)",
+    "gelegd": "laid, placed (leggen)",
+    "gevaarlijker": "more dangerous (gevaarlijk)",
+    "geweldige": "great, terrific (geweldig)",
+    "hobby": "hobby",
+    "intens": "intense",
+    "jager": "hunter",
+    "jongen": "young (of animals), offspring; boy",
+    "keuze": "choice",
+    "kind": "child",
+    "landen": "lands, countries (land)",
+    "leraar": "teacher",
+    "les": "lesson",
+    "lessen": "lessons (les)",
+    "lichte": "light, slight (licht)",
+    "lucht": "air, sky",
+    "luister": "listen (luisteren)",
+    "maan": "moon",
+    "maanlicht": "moonlight",
+    "meest": "most",
+    "meid": "girl, lass",
+    "mentor": "mentor",
+    "moment": "moment",
+    "onszelf": "ourselves",
+    "opnemen": "to take in; het opnemen tegen: to take on, face",
+    "pardon": "excuse me",
+    "puur": "pure",
+    "respecteren": "to respect",
+    "rol": "role",
+    "sabelkatten": "saber cats (sabelkat)",
+    "schieten": "to shoot",
+    "sneeuwluipaard": "snow leopard",
+    "sneller": "faster (snel)",
+    "spreken": "to speak",
+    "steen": "stone",
+    "succes": "good luck; success",
+    "team": "team",
+    "tempel": "temple",
+    "test": "test",
+    "toekomstige": "future (toekomstig)",
+    "traint": "train(s) (trainen)",
+    "tranen": "tears (traan)",
+    "valt": "falls (vallen)",
+    "verdien": "earn (verdienen)",
+    "verdieping": "floor, storey",
+    "vis": "fish",
+    "vriendelijk": "friendly",
+    "wachtte": "waited (wachten)",
+    "wegen": "ways, roads (weg)",
+    "weken": "weeks (week)",
+    "wekken": "to wake, rouse (tot leven wekken: revive)",
+    "wijs": "wise",
+    "witte": "white (wit)",
+    "zagen": "saw (zien)",
+    "zilveren": "silver (adj.)"
+  },
+  "terms": {
+    "frostsaber": "frostsaber: the night elves' white snow tiger, used as a mount",
+    "moonkin": "moonkin: owl-like creature of the night elf forests (a Warcraft creature)"
+  }
+}
