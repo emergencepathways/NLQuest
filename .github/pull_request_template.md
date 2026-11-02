@@ -14,4 +14,6 @@
 
 - [ ] `tools/import_batch.py` says READY
 - [ ] `tools/test_harness.lua`: 0 failures
-- [ ] CHANGELOG.md updated
+- [ ] `changes/NN.md` written (batches) or CHANGELOG.md updated (other changes)
+
+<!-- Batch branches (batch-NN) don't need this template: the Batch auto-merge workflow opens and merges their pull requests. -->

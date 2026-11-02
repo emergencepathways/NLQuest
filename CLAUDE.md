@@ -4,7 +4,13 @@ WoW addon (folder/TOC name `SpeurtochtNL`) that shows quest text in Dutch for la
 
 ## The standing task: translate the next batch
 
-Unless the user asks for something else, "next batch" / "volgende batch" means:
+Two lanes run at the same time, each in its own chat:
+
+- **"Next batch, alliance lane."** → `python3 tools/next_batch.py --lane alliance`
+- **"Next batch, horde lane."** → `python3 tools/next_batch.py --lane horde`
+- Plain **"next batch"** (no lane) → `python3 tools/next_batch.py` (first free batch).
+- **"Do batch NN."** → `python3 tools/next_batch.py NN`.
+- **"Also fix issue #12."** → fix it in the batch JSON it points to, mention "Fixes #12" under Corrected.
 
 ```bash
 # one-time per session: Lua 5.1 for the offline tests
@@ -12,17 +18,45 @@ git clone -q --depth 1 --branch v5.1 https://github.com/lua/lua /tmp/lua51 && \
   (cd /tmp/lua51 && gcc -O2 -o /tmp/lua5.1 -DLUA_USE_POSIX lua.c $(ls *.c | grep -v -e '^lua.c$' -e '^luac.c$' -e '^print.c$') -lm)
 
 git switch main && git pull
-python3 tools/next_batch.py            # English source -> work/batch_NN.txt (prints NN)
+python3 tools/next_batch.py --lane <alliance|horde>   # English source -> work/batch_NN.txt (prints NN)
 git switch -c batch-NN
 # translate work/batch_NN.txt -> batches/NN-<slug>.json  (format: docs/WORKFLOW.md)
 python3 tools/import_batch.py NN       # repeat: fix errors, add missing word meanings to "words", until READY
 /tmp/lua5.1 tools/test_harness.lua     # must end with "0 failures"
-# CHANGELOG.md: add a line under "Unreleased"
-git add -A && git commit               # message: "Batch NN: <zones> (<n> quests)" + Added / Changed / Corrected
+# changes/NN.md: one line describing the batch for the CHANGELOG (format: changes/README.md).
+#   Do NOT edit CHANGELOG.md - the auto-merge writes it, with the quest counts.
+git add -A && git commit               # subject "Batch NN: <zones> (<n> quests)", body = Added / Changed / Corrected
 git push -u origin batch-NN
 ```
 
-Then tell the user the batch is pushed, with the Added / Changed / Corrected notes for the pull request. The session may push branches and commits, but not tags or branch deletions.
+After the push, GitHub's *Batch auto-merge* workflow opens the pull request (its description is the commit
+body, so the Added / Changed / Corrected notes must be in the commit), syncs the branch with main, rebuilds
+`SpeurtochtNL.toc`, `Data/Namen.lua` and `CHANGELOG.md`, runs the checks and merges. There is no need to
+check that earlier batches are merged, and no manual merge step.
+
+Tell the user the batch is pushed and will merge automatically, with the Added / Changed / Corrected notes.
+The session may push branches and commits, but not tags or branch deletions.
+
+`next_batch.py` lists batches that are "in flight" (pushed, not on main yet) and skips them, so two lanes
+never pick the same batch. If it says a lane is finished, that lane helps the other one from its far end;
+if it prints ALL DONE, tell the user.
+
+### "Fix batch NN" (the auto-merge left a comment saying it couldn't merge)
+
+```bash
+git fetch origin && git switch batch-NN && git merge origin/main
+git checkout origin/main -- SpeurtochtNL.toc Data/Namen.lua CHANGELOG.md   # shared files: always take main's
+python3 tools/import_batch.py NN       # fix what it reports in batches/NN-*.json until READY
+/tmp/lua5.1 tools/test_harness.lua
+git add -A && git commit -m "Batch NN: fix <what>" && git push    # the push retries the auto-merge
+```
+
+### Rules that keep the lanes safe
+
+- A batch branch only adds its own files: `batches/NN-*.json`, `Data/Batch_NN_*.lua`, `changes/NN.md`
+  (the `.toc` and `Data/Namen.lua` changes from the importer are fine; they get rebuilt at merge).
+- Don't run `tools/plan_batches.py` while batches are in flight: it renumbers the unfinished plan.
+- A word the other lane already defined may be reported missing in yours; just add its meaning again.
 
 One batch per turn (~4,000 English words). Read only `work/batch_NN.txt` for source text; don't open `source/catalog.json` or older batches (they're large and not needed).
 
@@ -42,5 +76,6 @@ One batch per turn (~4,000 English words). Read only `work/batch_NN.txt` for sou
 - `Core.lua Text.lua Display.lua Reader.lua Vocab.lua Report.lua Capture.lua Options.lua`: the addon.
 - `Data/`: translations. `Batch_NN_*.lua` are generated from `batches/NN-*.json` — edit the JSON, never the Lua.
 - `route.txt` → `tools/plan_batches.py` → `source/batches.json` (the plan). `source/catalog.json` = English source (VMaNGOS).
-- `tools/`: pipeline, Anki sync, capture conversion, test harness. `docs/`: STYLE.md, WORKFLOW.md.
+- `tools/`: pipeline, Anki sync, capture conversion, test harness, `sync_batch.py` (merge-time rebuild). `docs/`: STYLE.md, WORKFLOW.md.
+- `changes/NN.md`: per-batch CHANGELOG fragments. `.github/workflows/batch-automerge.yml`: the auto-merge.
 - Releases: bump version in `Core.lua` and `SpeurtochtNL.toc`, move CHANGELOG "Unreleased" to a version heading.
