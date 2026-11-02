@@ -1,0 +1,1607 @@
+{
+  "quests": {
+    "697": {
+      "t": "Het verzoek van Malin",
+      "d": "Breng deze brief terug naar Stormwind en zeg tegen Malin dat Kryten en ik snel weer thuis zijn. Hij zal je goed belonen omdat je ons hier hebt geholpen, $N, daar twijfel ik niet aan.$B$BReis veilig.",
+      "o": "Breng de Sealed Letter naar Archmage Malin in de Mage Quarter van Stormwind.",
+      "p": "Ja? Je komt me vaag bekend voor. Het spijt me echt, maar hebben we elkaar al eens ontmoet? Ik heb het zo druk dat ik het overzicht kwijtraak.",
+      "c": "<Archmage Malin opent de brief, en zijn ogen worden groot.>$B$BBij het Licht, het is je gelukt. Wat geweldig. Trelane zal heel blij zijn. Kryten en Skuerto zijn vast net zo opgewonden als ik dat ze nu op weg terug naar Stormwind zijn.$B$BBedankt, $N. Neem dit alsjeblieft aan, als hulp op je reizen.",
+      "g": [
+        [
+          "verzoek",
+          "request"
+        ],
+        [
+          "belonen",
+          "to reward"
+        ],
+        [
+          "twijfel",
+          "doubt (twijfelen)"
+        ],
+        [
+          "vaag",
+          "vaguely"
+        ],
+        [
+          "bekend",
+          "familiar"
+        ],
+        [
+          "ontmoet",
+          "met (ontmoeten)"
+        ],
+        [
+          "het overzicht kwijtraak",
+          "lose track (het overzicht kwijtraken)"
+        ],
+        [
+          "het is je gelukt",
+          "you've done it, you succeeded"
+        ],
+        [
+          "opgewonden",
+          "excited"
+        ],
+        [
+          "op weg terug",
+          "on the way back"
+        ]
+      ]
+    },
+    "653": {
+      "t": "De bondgenoten van Myzrael",
+      "d": "<Myzrael spreekt.>$B$BVrij! IK BEN VRIJ! Ik ben vrij om kracht te verzamelen, verborgen voor wie mij gevangen hield. Want als ze nu tegenover me stonden, zouden ze me zeker overmeesteren en opnieuw opsluiten.$B$BMaar later zal ik tegenover de reuzen staan, en dan krijgen ze spijt dat ze mij bewaakt hebben!$B$BJe bent een edele bondgenoot, $N. Ik zal later weer je hulp nodig hebben. Als ik klaar ben, moet jij mij naar de oppervlakte oproepen.$B$BPraat met Gerrig Bonegrip. Hij is in Ironforge, in een winkel in de Forlorn Cavern. Hij weet hoe ik opgeroepen kan worden.",
+      "o": "Praat met Gerrig Bonegrip in de Forlorn Cavern van Ironforge.",
+      "c": "De Vrouwe vertelde me dat je zou komen, $C. Je bent welkom in mijn woning, want jij dient, net als ik, een hoger doel.",
+      "g": [
+        [
+          "bondgenoten",
+          "allies (bondgenoot)"
+        ],
+        [
+          "verborgen",
+          "hidden (verbergen)"
+        ],
+        [
+          "gevangen hield",
+          "held captive (gevangen houden)"
+        ],
+        [
+          "overmeesteren",
+          "to overpower"
+        ],
+        [
+          "opsluiten",
+          "to lock up, imprison"
+        ],
+        [
+          "reuzen",
+          "giants (reus)"
+        ],
+        [
+          "spijt",
+          "regret"
+        ],
+        [
+          "bewaakt",
+          "guarded (bewaken)"
+        ],
+        [
+          "edele",
+          "noble (edel)"
+        ],
+        [
+          "oppervlakte",
+          "surface"
+        ],
+        [
+          "oproepen",
+          "to summon"
+        ],
+        [
+          "Vrouwe",
+          "Lady (title)"
+        ],
+        [
+          "woning",
+          "home, abode"
+        ],
+        [
+          "dient",
+          "serve (dienen)"
+        ]
+      ]
+    },
+    "662": {
+      "t": "Berging in de diepzee",
+      "d": "O'Breen leidde de schepen de baai in. We wisten zeker dat de schat hier te vinden was. De Harbinger kwam veilig aan, maar toen de Maiden's Folly en de Spirit of Silverpine dichterbij kwamen, begon het water te zakken. Het vreemdste wat ik ooit gezien heb!$b$bDie twee schepen liepen vast op iets... een soort tempel in het rif. Ze zonken heel snel, het was een echte tragedie.$b$bWe moeten hun logboeken en hun zeekaarten terughalen voordat we vertrekken. We kunnen die informatie niet achterlaten voor nieuwsgierige ogen!",
+      "o": "First Mate Nilzlix wil dat je de Charts en Logs van de Maiden's Folly en de Spirit of Silverpine terughaalt.",
+      "p": "Hoe gaat de zoek- en bergingsmissie, $n? We moeten die logboeken en zeekaarten van de Maiden's Folly en de Spirit of Silverpine echt terugkrijgen.$b$bAls de informatie uit die bronnen in handen van de vijand valt, laat Fleet Master Seahorn ons over de plank lopen.$b$bTenminste, als we ooit uit deze puinhoop komen...",
+      "c": "Nu we weten dat deze informatie veilig is, wordt de leiding in Booty Bay wat geruster. Goed gedaan, $n.",
+      "g": [
+        [
+          "berging",
+          "salvage, recovery"
+        ],
+        [
+          "baai",
+          "bay, cove"
+        ],
+        [
+          "zakken",
+          "to drop, to lower"
+        ],
+        [
+          "liepen vast",
+          "ran aground (vastlopen)"
+        ],
+        [
+          "rif",
+          "reef"
+        ],
+        [
+          "zonken",
+          "sank (zinken)"
+        ],
+        [
+          "logboeken",
+          "logs, logbooks (logboek)"
+        ],
+        [
+          "zeekaarten",
+          "sea charts (zeekaart)"
+        ],
+        [
+          "nieuwsgierige",
+          "curious, prying (nieuwsgierig)"
+        ],
+        [
+          "bergingsmissie",
+          "recovery mission"
+        ],
+        [
+          "bronnen",
+          "sources (bron)"
+        ],
+        [
+          "puinhoop",
+          "mess"
+        ],
+        [
+          "leiding",
+          "command, leadership"
+        ],
+        [
+          "geruster",
+          "more at ease (gerust)"
+        ]
+      ]
+    },
+    "664": {
+      "t": "Verdronken verdriet",
+      "d": "Argh, het is een vreselijk leven. Ik zou nu in een graf onder water moeten liggen, niet hier bij het vuur zitten en frisse lucht ademen.$b$bDe bemanning heeft zo hard geprobeerd om mijn mooie Maiden's Folly te redden. Zegen de jongens, zegen hun hart.$b$bO'Breen kwam veilig aan land, maar wij hadden niet zoveel geluk. De zee zakte gewoon onder ons weg, dat zweer ik.$b$bHet ene moment drijven we nog, en het volgende moment stroomt het water naar binnen. En die beesten! Ze hebben alle overlevenden gedood. Vreselijk naga-tuig. Alles werd zwart voor mijn ogen, en ik kwam hier terecht, gered.$b$bIk wil die beesten dood zien.",
+      "o": "Captain Steelgut in Faldir's Cove wil dat je 10 Daggerspine Raiders en 3 Daggerspine Sorceresses doodt.",
+      "p": "Bah, misschien moet ik dat naga-tuig zelf maar gaan doden. Het is duidelijk dat jij het niet gaat doen.$b$bMisschien kan ik wat breinaalden vinden, zodat jij jezelf bezig kunt houden.",
+      "c": "Goed werk daarbuiten, $n.$b$bDat tuig kreeg wat het verdiende. Niets brengt mijn schip of mijn bemanning ooit terug, maar de dood van die naga geeft me wat troost.",
+      "g": [
+        [
+          "verdronken",
+          "drowned (verdrinken)"
+        ],
+        [
+          "verdriet",
+          "sorrow"
+        ],
+        [
+          "vreselijk",
+          "horrible"
+        ],
+        [
+          "graf",
+          "grave"
+        ],
+        [
+          "ademen",
+          "to breathe"
+        ],
+        [
+          "bemanning",
+          "crew"
+        ],
+        [
+          "zegen",
+          "bless (zegenen)"
+        ],
+        [
+          "zweer",
+          "swear (zweren)"
+        ],
+        [
+          "drijven",
+          "to float"
+        ],
+        [
+          "overlevenden",
+          "survivors (overlevende)"
+        ],
+        [
+          "naga-tuig",
+          "naga scum"
+        ],
+        [
+          "breinaalden",
+          "knitting needles (breinaald)"
+        ],
+        [
+          "verdiende",
+          "deserved (verdienen)"
+        ],
+        [
+          "troost",
+          "comfort, solace"
+        ]
+      ]
+    },
+    "665": {
+      "t": "Gezonken schat",
+      "d": "Nu we echte Blackwater Raiders zijn, is het onze taak om meneer O'Breen te helpen de verloren elfenschat te vinden.$b$bHet is bijna onmogelijk om de edelstenen in de donkere zee te vinden zonder hulp. De dokter heeft een bril gebouwd die daarbij helpt. Hij wil dat de bril wordt opgeladen met de energie uit de betoverde steen in de grot, net boven op de heuvel.$b$bMaar de grot is vervloekt! Als we dichtbij komen, worden we overvallen. Verdedig mij, dan kan ik de energie van de steen in de bril leiden.",
+      "o": "Begeleid Professor Phizzlethorpe naar de grot en terug.",
+      "p": "Dit is geen tijd om te praten! De bril moet worden opgeladen met de kracht van de steen!",
+      "c": "De bril werkt nu perfect! Goed gedaan, $n.",
+      "e": "Verdedig Professor Phizzlethorpe",
+      "g": [
+        [
+          "gezonken",
+          "sunken (zinken)"
+        ],
+        [
+          "elfenschat",
+          "elven treasure"
+        ],
+        [
+          "onmogelijk",
+          "impossible"
+        ],
+        [
+          "edelstenen",
+          "gems (edelsteen)"
+        ],
+        [
+          "bril",
+          "goggles, glasses"
+        ],
+        [
+          "opgeladen",
+          "charged (opladen)"
+        ],
+        [
+          "betoverde",
+          "enchanted (betoveren)"
+        ],
+        [
+          "vervloekt",
+          "cursed (vervloeken)"
+        ],
+        [
+          "overvallen",
+          "ambushed (overvallen)"
+        ],
+        [
+          "leiden",
+          "to channel, to lead"
+        ],
+        [
+          "begeleid",
+          "escort (begeleiden)"
+        ]
+      ]
+    },
+    "666": {
+      "t": "Gezonken schat",
+      "d": "De schat ligt al zo lang op de zeebodem dat de edelstenen zijn verkalkt tot dikke steen. Maar met de kracht in deze bril kun je ze gemakkelijk vinden.$b$bEen beetje gnomenvernuft helpt al veel!$b$bLeen dus de Goggles of Gem Hunting, $n, en kijk of je wat van de verloren schat kunt verzamelen voor Captain O'Breen.$b$bIk zou er zelf naartoe zwemmen, maar... eh... nou ja, ik heb belangrijk wetenschappelijk werk te doen hier boven op het veilige, droge land.... eh, ja.",
+      "o": "Doctor Draxlegauge in Faldir's Cove wil dat je 10 Elven Gems verzamelt en de Goggles of Gem Hunting terugbrengt als je klaar bent.",
+      "p": "Hoe werkte de bril? Werkte alles goed? Ik kan iets aanpassen als het nodig is.$b$bO, en ik heb die bril terug nodig als je klaar bent. Captain O'Breen kan hem later vast nog vaak gebruiken.",
+      "c": "Uitstekend, $n! De kapitein zal heel blij zijn! En wacht maar tot het nieuws Fleetmaster Seahorn bereikt!",
+      "g": [
+        [
+          "zeebodem",
+          "sea floor"
+        ],
+        [
+          "verkalkt",
+          "calcified (verkalken)"
+        ],
+        [
+          "gnomenvernuft",
+          "gnomish ingenuity"
+        ],
+        [
+          "leen",
+          "borrow (lenen)"
+        ],
+        [
+          "wetenschappelijk",
+          "scientific"
+        ],
+        [
+          "droge",
+          "dry (droog)"
+        ],
+        [
+          "aanpassen",
+          "to adjust"
+        ],
+        [
+          "uitstekend",
+          "excellent"
+        ],
+        [
+          "bereikt",
+          "reaches (bereiken)"
+        ]
+      ]
+    },
+    "668": {
+      "t": "Gezonken schat",
+      "d": "Laten we Captain O'Breen niet laten wachten. Hij wil deze edelstenen met eigen ogen zien. Daarvoor zijn we hier tenslotte!$b$bNa een paar weken tussen deze piraten hebben de professor en ik begrepen dat niets zo slecht is voor onze gezondheid als betrapt worden met hun schat in onze handen.$b$bHier, $n, breng deze naar O'Breen.",
+      "o": "Breng de Elven Gems naar Captain O'Breen.",
+      "p": "Ahoy, $c. Wat brengt jou naar de brug?",
+      "c": "Dus de kleine gnomen hebben toch hun waarde bewezen? Ik wist dat we die kleine ukken niet voor niets bij ons hielden!",
+      "g": [
+        [
+          "met eigen ogen",
+          "first hand, with one's own eyes"
+        ],
+        [
+          "tenslotte",
+          "after all"
+        ],
+        [
+          "piraten",
+          "pirates (piraat)"
+        ],
+        [
+          "gezondheid",
+          "health"
+        ],
+        [
+          "betrapt",
+          "caught (betrappen)"
+        ],
+        [
+          "brug",
+          "bridge (of a ship)"
+        ],
+        [
+          "waarde",
+          "worth, value"
+        ],
+        [
+          "bewezen",
+          "proved (bewijzen)"
+        ],
+        [
+          "ukken",
+          "little ones, tots (uk)"
+        ],
+        [
+          "niet voor niets",
+          "for a reason"
+        ]
+      ]
+    },
+    "669": {
+      "t": "Gezonken schat",
+      "d": "Fleet Master Seahorn wil direct horen wat we gevonden hebben.$b$bMaar zoals je ziet, kunnen we hier niet zo makkelijk weg. Het water is te laag, en die vervloekte wezens die we gestoord hebben, houden ook al onze bewegingen goed in de gaten.$b$bJe kunt de Blackwater Raiders een grote dienst bewijzen als je Fleet Master Seahorn in Booty Bay laat weten dat we de schat gevonden hebben en dat we bezig zijn om er meer van op te halen. Neem dit monster mee als bewijs.",
+      "o": "Breng de Sample Elven Gem naar Fleet Master Seahorn in Booty Bay.",
+      "p": "Wat brengt jou naar Booty Bay, $c?",
+      "c": "Ah, laat dat maar aan die goede oude Shakes O'Breen over! Ik wist dat hij de juiste kapitein voor deze missie was!",
+      "g": [
+        [
+          "wezens",
+          "creatures (wezen)"
+        ],
+        [
+          "gestoord",
+          "disturbed (storen)"
+        ],
+        [
+          "bewegingen",
+          "movements (beweging)"
+        ],
+        [
+          "in de gaten",
+          "an eye on (in de gaten houden)"
+        ],
+        [
+          "een grote dienst bewijzen",
+          "to do a great service"
+        ],
+        [
+          "monster",
+          "sample"
+        ],
+        [
+          "bewijs",
+          "proof"
+        ],
+        [
+          "juiste",
+          "right (juist)"
+        ]
+      ]
+    },
+    "670": {
+      "t": "Gezonken schat",
+      "d": "Zeg, $n, jij lijkt me een avontuurlijk type. Mijn vloot zit vast in Booty Bay tot we nieuwe voorraden hebben.$b$bEr zijn hier en elders grote dingen aan het broeien, en ik moet een heel geheime brief laten bezorgen bij Shakes O'Breen, die vastzit voor de kust van Arathi.$b$bKan ik erop vertrouwen dat je dit bericht veilig en in vertrouwen aflevert?",
+      "o": "Bezorg Seahorn's Letter bij Shakes O'Breen in Arathi Highlands.",
+      "p": "En, was Seahorn onder de indruk? Ik wed dat zijn glimlach van Booty Bay tot Ratchet reikte.",
+      "c": "Bedankt voor zo'n lange en gevaarlijke reis. De Blackwater Raiders zijn je dankbaar.",
+      "g": [
+        [
+          "avontuurlijk",
+          "adventurous"
+        ],
+        [
+          "vloot",
+          "fleet"
+        ],
+        [
+          "voorraden",
+          "supplies (voorraad)"
+        ],
+        [
+          "broeien",
+          "to brew (trouble)"
+        ],
+        [
+          "kust",
+          "coast"
+        ],
+        [
+          "in vertrouwen",
+          "in confidence"
+        ],
+        [
+          "aflevert",
+          "deliver (afleveren)"
+        ],
+        [
+          "onder de indruk",
+          "impressed"
+        ],
+        [
+          "wed",
+          "bet (wedden)"
+        ],
+        [
+          "reikte",
+          "reached (reiken)"
+        ]
+      ]
+    },
+    "685": {
+      "t": "Gezocht! Otto en Falconcrest",
+      "d": "De Stromgarde Militia heeft een prijs op de hoofden van Lord Falconcrest en zijn lijfwacht Otto gezet. Falconcrest leidt het werk van het Syndicate in de Arathi Highlands, en zijn dood zou dat werk flink verstoren.$B$BZijn lijfwacht Otto is geen strategisch doel, maar hij is een felle tegenstander. Hij heeft al tientallen van onze verdedigers gedood.$B$BDe beloningen kun je ophalen bij Captain Nials.",
+      "o": "Breng Otto's Head en Falconcrest's Head naar Captain Nials bij Refuge Pointe.",
+      "p": "Hallo. Heb je een rapport om in te dienen?",
+      "c": "Falconcrest en Otto? Geweldig!$B$BHier is je beloning, $N. Die betaal ik graag.",
+      "g": [
+        [
+          "gezocht",
+          "wanted (zoeken)"
+        ],
+        [
+          "lijfwacht",
+          "bodyguard"
+        ],
+        [
+          "verstoren",
+          "to disrupt"
+        ],
+        [
+          "strategisch",
+          "strategic"
+        ],
+        [
+          "felle",
+          "fierce (fel)"
+        ],
+        [
+          "tegenstander",
+          "opponent"
+        ],
+        [
+          "tientallen",
+          "dozens"
+        ],
+        [
+          "verdedigers",
+          "defenders (verdediger)"
+        ],
+        [
+          "in te dienen",
+          "to submit (indienen)"
+        ]
+      ]
+    },
+    "687": {
+      "t": "Theldurin the Lost",
+      "d": "Theldurin the Lost was ooit lid van onze orde, de Twilight's Hammer. Maar hij verloor zijn verstand en minachtte onze leer. En voordat hij van ons wegvluchtte, stal hij de rol van Myzrael! We konden hem niet vangen, maar volgens geruchten verstopt hij zich in de Badlands, brabbelend en gek.$B$BOm de Vrouwe bij ons terug te brengen, moet je de rol vinden. En daarvoor moet je Theldurin vinden.",
+      "o": "Vind Theldurin the Lost.",
+      "c": "Hallo. Hallo, hallo hallo hallo hallo HALLO!$B$BHet spijt me - wacht, nee, het spijt me niet! Doe niet zo onbeleefd!$B$BO nee... dat was gekke praat.$B$BMaar... soms is gek zijn mijn enige troost.",
+      "g": [
+        [
+          "orde",
+          "order (group)"
+        ],
+        [
+          "verstand",
+          "mind, sanity"
+        ],
+        [
+          "minachtte",
+          "scorned (minachten)"
+        ],
+        [
+          "leer",
+          "teachings"
+        ],
+        [
+          "wegvluchtte",
+          "fled (wegvluchten)"
+        ],
+        [
+          "rol",
+          "scroll"
+        ],
+        [
+          "geruchten",
+          "rumours (gerucht)"
+        ],
+        [
+          "brabbelend",
+          "gibbering (brabbelen)"
+        ],
+        [
+          "onbeleefd",
+          "rude"
+        ],
+        [
+          "troost",
+          "comfort, solace"
+        ]
+      ]
+    },
+    "646": {
+      "t": "Trol'kalar",
+      "d": "Het licht vervaagt langzaam. Het zwaard Trol'kalar, dat in een stenen schede zat, is vrijgekomen.",
+      "o": "Bezorg Trol'kalar bij Zengu in Hammerfall.",
+      "p": "$N! Heb je het zwaard meegenomen?",
+      "c": "Generaties lang hebben de legers van Strom en Arathor de trollen geteisterd. Nu is hun grootste wapen in onze handen. Aan onze trage vooruitgang in de vochtige wouden van Zul'Gurub komt nu een einde.$b$bJe hulp was groot, $N, en de Darkspear-trollen staan bij je in het krijt.$b$bIk zal ervoor zorgen dat het zwaard bij Nimboya in Grom'gol wordt afgeleverd.",
+      "g": [
+        [
+          "vervaagt",
+          "fades (vervagen)"
+        ],
+        [
+          "schede",
+          "sheath"
+        ],
+        [
+          "vrijgekomen",
+          "released (vrijkomen)"
+        ],
+        [
+          "generaties",
+          "generations (generatie)"
+        ],
+        [
+          "geteisterd",
+          "ravaged (teisteren)"
+        ],
+        [
+          "trage",
+          "slow (traag)"
+        ],
+        [
+          "vooruitgang",
+          "progress"
+        ],
+        [
+          "vochtige",
+          "damp, steamy (vochtig)"
+        ],
+        [
+          "wouden",
+          "forests (woud)"
+        ],
+        [
+          "in het krijt",
+          "indebted (bij iemand in het krijt staan)"
+        ]
+      ]
+    },
+    "652": {
+      "t": "De Keystone breken",
+      "d": "Toen de Stones of Binding opengingen, werd mijn gevangenschap een stuk losser, maar één slot houdt me nog vast. Het is de Keystone die je in deze kring van stenen ziet. En de sleutel is in handen van een van mijn bewakers, de stenen wachter Fozruk.$B$BJe moet die sleutel, die de stenen wachters de Rod of Order noemen, van Fozruk afpakken en ermee de Keystone openen.$B$B$N, je hebt al zoveel gedaan om mij te helpen. Nog maar een klein beetje... en mijn dankbaarheid zal de aarde tot in haar fundamenten laten schudden!",
+      "o": "Zoek en dood Fozruk. Breng de Rod of Order naar de Keystone in de Arathi Highlands.",
+      "p": "De Keystone is geladen met enorme geomantische energie.",
+      "c": "Je zet de staf in de Keystone. En je voelt een trilling onder je...",
+      "g": [
+        [
+          "gevangenschap",
+          "captivity, confinement"
+        ],
+        [
+          "slot",
+          "lock"
+        ],
+        [
+          "kring",
+          "circle"
+        ],
+        [
+          "bewakers",
+          "guards, captors (bewaker)"
+        ],
+        [
+          "wachter",
+          "watcher"
+        ],
+        [
+          "afpakken",
+          "to take away"
+        ],
+        [
+          "dankbaarheid",
+          "gratitude"
+        ],
+        [
+          "fundamenten",
+          "foundations (fundament)"
+        ],
+        [
+          "schudden",
+          "to shake"
+        ],
+        [
+          "geladen",
+          "charged (laden)"
+        ],
+        [
+          "geomantische",
+          "geomantic (earth magic)"
+        ],
+        [
+          "staf",
+          "rod, staff"
+        ],
+        [
+          "trilling",
+          "shudder, tremor"
+        ]
+      ]
+    },
+    "667": {
+      "t": "De dood komt van onderen",
+      "d": "Dit is slecht. Het lijkt erop dat de Daggerspines zich verzamelen voor een aanval.$b$bNaga staan bekend om hun meedogenloosheid in de strijd. Ze blijven aanvallen tot ik dood ben.$b$bMijn eigen leven is me niet meer waard dan dat van mijn bemanning, maar je moet me helpen verdedigen. Zonder mijn kennis van de zeeën komt de bemanning niet terug in Booty Bay.$b$bDe naga komen uit de zee. Je moet hier boven bij mij blijven om de aanval af te slaan. Bedien het kanon en drijf ze terug.$b$bBen je klaar, $n?",
+      "o": "Bescherm Shakes O'Breen tijdens de aanval.",
+      "c": "We hebben de aanval overleefd!$b$bZonder jou hadden we het niet gekund, $N.$b$bWe vertrekken zodra het water stijgt. Als je niet zo'n veelbelovende held was, zou ik je een plek in mijn bemanning aanbieden. Maar ik zie dat je grotere vissen te vangen hebt.$b$bOok al ben je een nietige trol....",
+      "e": "Verdedig Shakes O'Breen",
+      "g": [
+        [
+          "staan bekend om",
+          "are known for (bekendstaan om)"
+        ],
+        [
+          "meedogenloosheid",
+          "ruthlessness"
+        ],
+        [
+          "kennis",
+          "knowledge"
+        ],
+        [
+          "af te slaan",
+          "to fend off (afslaan)"
+        ],
+        [
+          "bedien",
+          "man, operate (bedienen)"
+        ],
+        [
+          "kanon",
+          "cannon"
+        ],
+        [
+          "drijf",
+          "drive (drijven)"
+        ],
+        [
+          "overleefd",
+          "survived (overleven)"
+        ],
+        [
+          "stijgt",
+          "rises (stijgen)"
+        ],
+        [
+          "veelbelovende",
+          "promising (veelbelovend)"
+        ],
+        [
+          "grotere vissen te vangen",
+          "bigger fish to fry"
+        ],
+        [
+          "nietige",
+          "puny (nietig)"
+        ]
+      ]
+    },
+    "1104": {
+      "t": "Gif van de zoutvlakte",
+      "d": "Ik heb zoveel ontwerpen voor onze raketauto! Zoveel! En ik moet ze allemaal uitproberen!!$B$BIk werk aan een nieuw soort brandstof. Eentje die echt echt echt heet brandt!! Het mengsel is nog niet perfect, maar ik denk dat ik weet wat ik nodig heb...$B$BDe schorpioenen die over de Shimmering Flats lopen, hebben gif met heel heel veel zout erin. Het is heel bijzonder! En het is precies wat ik nodig heb!$B$BBreng me gif en geloof me -- onze auto gaat vliegen!!",
+      "o": "Breng 6 Salty Scorpid Venoms naar Fizzle Brassbolts in de Shimmering Flats.",
+      "p": "Hoi hoi hoi! Heb je dat gif??",
+      "c": "Top! Dit gif gaat geweldig werken! Bedankt, $N!$B$BNu moet ik het alleen nog inkoken, er skipper-otomer op doen, een nega-katalysator toevoegen, en... Verdorie! Waar zijn mijn aantekeningen!?",
+      "g": [
+        [
+          "gif",
+          "venom, poison"
+        ],
+        [
+          "zoutvlakte",
+          "salt flat"
+        ],
+        [
+          "ontwerpen",
+          "designs (ontwerp)"
+        ],
+        [
+          "raketauto",
+          "rocket car"
+        ],
+        [
+          "uitproberen",
+          "to try out"
+        ],
+        [
+          "brandstof",
+          "fuel"
+        ],
+        [
+          "mengsel",
+          "mixture"
+        ],
+        [
+          "schorpioenen",
+          "scorpions (schorpioen)"
+        ],
+        [
+          "inkoken",
+          "to boil down"
+        ],
+        [
+          "nega-katalysator",
+          "nega-catalyst (gnome nonsense word)"
+        ],
+        [
+          "verdorie",
+          "drat"
+        ],
+        [
+          "aantekeningen",
+          "notes (aantekening)"
+        ]
+      ]
+    },
+    "1105": {
+      "t": "Harde schilden",
+      "d": "Mijn broer werkt aan een nieuwe brandstof voor zijn raketauto. Hij is briljant, echt waar. Zo briljant dat... ik denk dat zijn nieuwe brandstof sterk genoeg is om dwars door het chassis van de auto heen te vreten!$B$BIk wil de brandstoftanks sterker maken voordat dat gebeurt.$B$BDe schildpadden op de vlakte hebben heel harde schilden. Die wil ik gebruiken om nieuwe tanks voor onze raketauto te maken. Tanks waar de nieuwe brandstof van mijn broer in kan.$B$BJe ziet er verantwoordelijk genoeg uit. Wil je die schilden voor me halen?",
+      "o": "Breng 9 Hardened Tortoise Shells naar Wizzle Brassbolts in de Shimmering Flats.",
+      "p": "Mijn broer komt verder met zijn nieuwe brandstof, en daar maak ik me zorgen over. Ik moet zo snel mogelijk beginnen aan een brandstoftank van schildpadschild!$B$B$N, heb je die schilden al?",
+      "c": "Je hebt ze! Bedankt, $N!$B$BWauw, deze schilden zijn harder dan ik dacht! Heh, als ik ermee werk, buig ik waarschijnlijk een hele doos gereedschap krom!",
+      "g": [
+        [
+          "schilden",
+          "shells (schild)"
+        ],
+        [
+          "briljant",
+          "brilliant"
+        ],
+        [
+          "dwars door",
+          "right through"
+        ],
+        [
+          "vreten",
+          "to eat (of acid, animals)"
+        ],
+        [
+          "brandstoftanks",
+          "fuel tanks (brandstoftank)"
+        ],
+        [
+          "schildpadden",
+          "tortoises, turtles (schildpad)"
+        ],
+        [
+          "vlakte",
+          "flat, plain"
+        ],
+        [
+          "verantwoordelijk",
+          "responsible"
+        ],
+        [
+          "schildpadschild",
+          "tortoise shell"
+        ],
+        [
+          "buig",
+          "bend (buigen)"
+        ],
+        [
+          "krom",
+          "bent, crooked"
+        ],
+        [
+          "gereedschap",
+          "tools"
+        ]
+      ]
+    },
+    "1176": {
+      "t": "Lichter maken",
+      "d": "Bij racen telt elk detail! Of het nu gaat om een kleine aanpassing aan het vermogen, de spanveren een beetje losser zetten of het frame lichter maken, je moet overal rekening mee houden.$b$bWe gebruiken gierenbotten voor veel kleine aanpassingen aan de bouw van onze racers. Ze hebben de perfecte balans tussen sterkte en gewicht. En nog beter: we kunnen er makkelijk meer krijgen, want de zoutvlakten zitten vol gieren.$b$bBreng me er wat, dan krijg je een goede prijs.",
+      "o": "Haal 10 Hollow Vulture Bones voor Pozzik in de Shimmering Flats.",
+      "p": "Heb je die botten voor me? Ik wilde net beginnen met het lichter maken van de stuurinrichting, maar ik wil haar niet openmaken zonder alle onderdelen die ik nodig heb.",
+      "c": "Mooi! Dan kan de ploeg hier meteen mee aan de slag. Bedankt, $n!",
+      "g": [
+        [
+          "aanpassing",
+          "adjustment, tweak"
+        ],
+        [
+          "vermogen",
+          "power output"
+        ],
+        [
+          "spanveren",
+          "tension springs, coils (spanveer)"
+        ],
+        [
+          "rekening mee houden",
+          "to take into account"
+        ],
+        [
+          "gierenbotten",
+          "vulture bones"
+        ],
+        [
+          "sterkte",
+          "strength"
+        ],
+        [
+          "gewicht",
+          "weight"
+        ],
+        [
+          "gieren",
+          "vultures (gier)"
+        ],
+        [
+          "stuurinrichting",
+          "steering rig"
+        ],
+        [
+          "onderdelen",
+          "parts (onderdeel)"
+        ],
+        [
+          "ploeg",
+          "crew, team"
+        ],
+        [
+          "aan de slag",
+          "get to work"
+        ]
+      ]
+    },
+    "1179": {
+      "t": "De broers Brassbolts",
+      "d": "Heb je ooit van de Shimmering Flats gehoord? Het is een stuk zoutvlakte ver weg in Kalimdor, net ten zuiden van de kloof van Thousand Needles. Het is een geweldige plek om te racen, want nou ja, het is zo vlak!$B$BTwee gnomenbroers, vrienden van mij, zijn daar hun nieuwe raketauto aan het testen, en ik hoor dat hij snel is! Heh, zo snel dat hun piloten steeds crashen. Ze krijgen er een hersenschudding van.$B$BDus vroegen ze me om een paar Siege Engine-helmen, maar ik heb hier mijn taken. Ik kan de reis niet maken!$B$BKun jij het?",
+      "o": "Breng de krat met crashhelmen naar Wizzle Brassbolts in de Shimmering Flats.",
+      "p": "Kijk uit waar je loopt! Kijk uit, kijk uit!! Dit hier is gevoelig spul, en als we willen winnen, moet alles perfect werken!",
+      "c": "Ah! Longbeard heeft je met een lading helmen gestuurd! Hoera!$B$BMisschien kunnen we nu een piloot overhalen om onze auto te besturen...",
+      "g": [
+        [
+          "zoutvlakte",
+          "salt flat"
+        ],
+        [
+          "kloof",
+          "canyon"
+        ],
+        [
+          "vlak",
+          "flat"
+        ],
+        [
+          "gnomenbroers",
+          "gnome brothers"
+        ],
+        [
+          "piloten",
+          "pilots (piloot)"
+        ],
+        [
+          "hersenschudding",
+          "concussion"
+        ],
+        [
+          "taken",
+          "duties (taak)"
+        ],
+        [
+          "krat",
+          "crate"
+        ],
+        [
+          "crashhelmen",
+          "crash helmets (crashhelm)"
+        ],
+        [
+          "gevoelig",
+          "delicate"
+        ],
+        [
+          "lading",
+          "load"
+        ],
+        [
+          "overhalen",
+          "to talk into, persuade"
+        ],
+        [
+          "besturen",
+          "to drive, steer"
+        ]
+      ]
+    },
+    "1110": {
+      "t": "Onderdelen van raketauto's",
+      "d": "Heh heh, met al die races hier is het geen verrassing dat er onderweg wel eens iets misgaat. Als je rondkijkt in de Shimmering Flats, zie je de sporen van oude crashes -- overal liggen stukken van raketauto's!$B$BEn die onderdelen zijn geld waard voor de gnomen en de goblins. Ze zoeken altijd naar meer apparaten om op hun auto's te plakken.$B$BDus ga erop uit en haal onderdelen voor me. Breng me een flinke hoop, dan betaal ik je goed.",
+      "o": "Breng 30 Rocket Car Parts naar Kravel Koalbeard in de Shimmering Flats.",
+      "p": "$N, ben je de Flats in geweest? Heb je die lading onderdelen meegebracht die ik wilde?",
+      "c": "Wauw, kijk eens aan! Er zit goed spul in die hoop rommel. Ik kan het vast voor een flink bedrag verkopen.$B$BEn... zie ik daar een oor, platgedrukt tussen die twee metalen platen?? Au! Heh, ik zou die piloot niet willen zijn!$B$BBedankt, $N. Hier is je loon. En hier is wat advies, gratis...$B$BAls je goed genoeg zoekt, kun je altijd winst halen uit het ongeluk van een ander.",
+      "g": [
+        [
+          "verrassing",
+          "surprise"
+        ],
+        [
+          "misgaat",
+          "goes wrong (misgaan)"
+        ],
+        [
+          "sporen",
+          "traces, evidence (spoor)"
+        ],
+        [
+          "apparaten",
+          "contraptions, devices (apparaat)"
+        ],
+        [
+          "plakken",
+          "to stick, slap on"
+        ],
+        [
+          "erop uit",
+          "out (eropuit gaan)"
+        ],
+        [
+          "rommel",
+          "junk"
+        ],
+        [
+          "bedrag",
+          "sum, amount"
+        ],
+        [
+          "platgedrukt",
+          "squashed (platdrukken)"
+        ],
+        [
+          "loon",
+          "pay, wages"
+        ],
+        [
+          "advies",
+          "advice"
+        ],
+        [
+          "winst",
+          "profit"
+        ],
+        [
+          "ongeluk",
+          "misfortune, accident"
+        ]
+      ]
+    },
+    "5762": {
+      "t": "Hemet Nesingwary",
+      "d": "Ik heb een pakket voor een oude klant van me, een dwerg die Hemet Nesingwary heet. Het pakket deed er weken over om hier te komen, en Hemet is allang weg. Hij zei dat hij naar Stranglethorn ging om daar op beesten te jagen, maar hij liet wat geld achter, zodat ik zijn pakket kon versturen wanneer het lukte.$B$BHemet is een rijke dwerg, en het is slim om een goede band te houden met de rijken, toch? Dus... wil jij het pakket voor me bezorgen?$B$BIk hoorde dat Hemet een kamp heeft in Stranglethorn, ten noorden van Grom'gol.",
+      "o": "Breng Kravel's Crate naar Hemet Nesingwary in Stranglethorn.",
+      "p": "Is dat woestijnstof op je kraag?$b$bHm... als mijn neus het goed heeft, zou ik zeggen dat het geen woestijnstof is, maar woestijnzout! Je bent in de Shimmering Flats geweest, hè?",
+      "c": "Mooi, mijn pakket van Koalbeard! Bedankt, $N. In deze krat zit munitie van een speciaal kaliber, en die komt goed van pas in de jungle!$b$bHier is je loon. En vertel eens, hoe gaat het met die chagrijnige ouwe Kravel? Nog steeds niks goeds van plan, wed ik...",
+      "g": [
+        [
+          "klant",
+          "customer"
+        ],
+        [
+          "deed er weken over",
+          "took weeks (ergens lang over doen)"
+        ],
+        [
+          "allang",
+          "long since"
+        ],
+        [
+          "jagen",
+          "to hunt"
+        ],
+        [
+          "versturen",
+          "to send"
+        ],
+        [
+          "band",
+          "relation, bond"
+        ],
+        [
+          "woestijnstof",
+          "desert dust"
+        ],
+        [
+          "kraag",
+          "collar"
+        ],
+        [
+          "munitie",
+          "ammunition"
+        ],
+        [
+          "kaliber",
+          "calibre, gauge"
+        ],
+        [
+          "van pas",
+          "of use (van pas komen)"
+        ],
+        [
+          "chagrijnige",
+          "grumpy, crusty (chagrijnig)"
+        ],
+        [
+          "van plan",
+          "planning, up to"
+        ]
+      ]
+    },
+    "1175": {
+      "t": "Een hobbel in de weg",
+      "d": "Na de grote crash tussen de Red Thunder-racer van de goblins en een basilisk heeft Kronkrider mij aangenomen om voor de baan te zorgen. Ik weet niet wat alle dieren op de vlakte eten om zo groot te worden, maar we moeten goed oppassen dat we er genoeg weghalen, zodat ze niet de baan op lopen als er een race bezig is.$b$bWeet je wat? Als je wat winst wilt maken, ga dan op pad en haal de basilisken uit het gebied weg.",
+      "o": "Dood 10 Saltstone Basilisks, 10 Saltstone Crystalhides en 6 Saltstone Gazers voor Trackmaster Zherin op de Shimmering Flats.",
+      "p": "Het is al erg genoeg dat ik de wrakken van de racers moet opruimen, zonder dat ik ze ook nog uit verbrande dierenresten moet halen.",
+      "c": "Ik hoop dat je geen basilisken op de baan zelf hebt gedood! Het duurt lang voordat de kadavers in de zon vergaan, en ik ga liever niet met een schep naar buiten om op te ruimen.",
+      "g": [
+        [
+          "hobbel",
+          "bump"
+        ],
+        [
+          "basilisk",
+          "basilisk"
+        ],
+        [
+          "aangenomen",
+          "hired (aannemen)"
+        ],
+        [
+          "baan",
+          "track"
+        ],
+        [
+          "oppassen",
+          "to be careful"
+        ],
+        [
+          "op pad",
+          "out, on the road"
+        ],
+        [
+          "gebied",
+          "area"
+        ],
+        [
+          "wrakken",
+          "wrecks, wreckage (wrak)"
+        ],
+        [
+          "opruimen",
+          "to clear up"
+        ],
+        [
+          "dierenresten",
+          "animal remains"
+        ],
+        [
+          "kadavers",
+          "carcasses (kadaver)"
+        ],
+        [
+          "vergaan",
+          "to decay"
+        ],
+        [
+          "schep",
+          "shovel"
+        ]
+      ]
+    },
+    "1106": {
+      "t": "Martek the Exiled",
+      "d": "Ik ontwikkel een nieuwe motor die de auto zo snel laat gaan! Snel genoeg om te vliegen, dat weet ik zeker! Ik moet alleen zuigers maken die heel heel zware druk aankunnen. Al mijn proeven zijn mislukt, omdat ik de zuigers niet hard genoeg kan maken!$B$BMaar er is iemand die misschien weet hoe het moet.$B$BHij heet Martek the Exiled. Hij is een geweldige smid en weet meer over metaal dan wie dan ook. Breng hem deze brief, ik weet dat hij kan helpen!$B$BMaar hij is heel heel ver weg -- in Azeroth, in de Badlands, in een kamp, bij een goblin!$B$BZoek hem!",
+      "o": "Breng Fizzle's Letter naar Martek the Exiled in de Badlands.",
+      "p": "Nou, je hebt me gevonden. Goed van je.$b$bBen je hier voor die bijl die ik voor Gath'Ilzogg heb gemaakt? Of kom je de eer van Duchess Pamay herstellen?$b$bEigenlijk maakt het me niet uit wat het is. Als je hier bent om te vechten, laten we het dan maar achter de rug hebben...",
+      "c": "Heeft Fizzle je gestuurd? Nou, dat verandert de zaak! Natuurlijk help ik je. Fizzle en zijn broer zijn twee van de weinigen die mij niet dood willen hebben!$b$bDus Fizzle wil zuigers maken, hè? Zuigers die sterk genoeg zijn voor alle druk die hij van plan is, en als ik Fizzle ken, is die nieuwe auto van hem een vulkaan op wielen!",
+      "g": [
+        [
+          "ontwikkel",
+          "develop (ontwikkelen)"
+        ],
+        [
+          "zuigers",
+          "pistons (zuiger)"
+        ],
+        [
+          "druk",
+          "pressure, stress"
+        ],
+        [
+          "aankunnen",
+          "to handle, cope with"
+        ],
+        [
+          "proeven",
+          "trials, tests (proef)"
+        ],
+        [
+          "mislukt",
+          "failed (mislukken)"
+        ],
+        [
+          "smid",
+          "smith"
+        ],
+        [
+          "bijl",
+          "axe"
+        ],
+        [
+          "eer",
+          "honour"
+        ],
+        [
+          "herstellen",
+          "to restore"
+        ],
+        [
+          "achter de rug",
+          "over with"
+        ],
+        [
+          "dat verandert de zaak",
+          "that changes things"
+        ],
+        [
+          "vulkaan",
+          "volcano"
+        ]
+      ]
+    },
+    "1107": {
+      "t": "Staartvinnen met een korst",
+      "d": "Onze raketauto is het snelste ding op de vlakte! Zo snel dat... ik bang ben dat de wrijving hem uit elkaar scheurt!$B$BOm dat te voorkomen moet ik een composiet maken om de bewegende delen van de auto mee te bedekken. Het moet hard zijn, maar niet broos, en het moet tegen zoutcorrosie kunnen, anders vreet de tijd op de Shimmering Flats het weg.$B$BHeb je wel eens van de Vile Reef gehoord, $N? Het ligt voor de kust van Stranglethorn Vale. Daar wonen Saltscale-murlocs, en hun staartvinnen zijn een heel belangrijk ingrediënt van mijn composiet.",
+      "o": "Breng 10 Encrusted Tail Fins naar Wizzle Brassbolts in de Shimmering Flats.",
+      "p": "Heb je de staartvinnen? Als ik onze auto niet kan beschermen tegen zijn eigen snelheid, houdt hij het niet lang vol in deze races.",
+      "c": "Bedankt, $N! Als ik deze heb fijngemalen en samengesmolten met een paar andere ingrediënten, is het composiet klaar. En daarna is de auto veilig voor zijn eigen snelheid.$b$bVeilig, zolang hij nergens tegenaan rijdt...",
+      "g": [
+        [
+          "staartvinnen",
+          "tail fins (staartvin)"
+        ],
+        [
+          "korst",
+          "crust"
+        ],
+        [
+          "wrijving",
+          "friction"
+        ],
+        [
+          "scheurt",
+          "tears (scheuren)"
+        ],
+        [
+          "voorkomen",
+          "to prevent"
+        ],
+        [
+          "composiet",
+          "composite"
+        ],
+        [
+          "bedekken",
+          "to coat, cover"
+        ],
+        [
+          "broos",
+          "brittle"
+        ],
+        [
+          "zoutcorrosie",
+          "salt corrosion"
+        ],
+        [
+          "ingrediënt",
+          "ingredient"
+        ],
+        [
+          "houdt hij het niet lang vol",
+          "it won't last long (volhouden)"
+        ],
+        [
+          "fijngemalen",
+          "ground down (fijnmalen)"
+        ],
+        [
+          "samengesmolten",
+          "fused (samensmelten)"
+        ]
+      ]
+    },
+    "1111": {
+      "t": "Wharfmaster Dizzywig",
+      "d": "Het is mijn werk om mensen te geven wat ze nodig hebben, en de gnomen daar hebben een bestelling met onderdelen die geleverd moet worden. Hun onderdelen zijn een week geleden naar Ratchet verstuurd, maar ik heb de reis nog niet kunnen maken.$B$BDus, ben je klaar voor wat loopwerk? Ga naar Ratchet en geef deze bestelling aan Wharfmaster Dizzywig -- hij is waarschijnlijk bij de kades.$B$BDoe dit voor mij, dan heb ik meer klusjes voor je.$B$BKlusjes, mijn vriend, waar je flink wat winst mee kunt maken...",
+      "o": "Breng Kravel's Parts Order naar Wharfmaster Dizzywig in Ratchet.",
+      "p": "Spreek op! Zeg eens, kom je iets brengen of iets ophalen?",
+      "c": "O ja. Onderdelen voor Kravel. Fijn dat je er bent. Deze dingen staan hier al dagen, en ik was bang dat ze zouden gaan roesten!",
+      "g": [
+        [
+          "bestelling",
+          "order"
+        ],
+        [
+          "geleverd",
+          "delivered, filled (leveren)"
+        ],
+        [
+          "verstuurd",
+          "shipped, sent (versturen)"
+        ],
+        [
+          "loopwerk",
+          "legwork"
+        ],
+        [
+          "kades",
+          "docks, quays (kade)"
+        ],
+        [
+          "klusjes",
+          "jobs, odd jobs (klusje)"
+        ],
+        [
+          "spreek op",
+          "speak up (opspreken)"
+        ],
+        [
+          "ophalen",
+          "to pick up"
+        ],
+        [
+          "roesten",
+          "to rust"
+        ]
+      ]
+    },
+    "1112": {
+      "t": "Onderdelen voor Kravel",
+      "d": "Hier is het pakket van Kravel, $N. En als je het aflevert, zeg hem dan... als hij meer speciale bestellingen wil, moet hij eerst zijn rekening betalen!",
+      "o": "Breng Kravel's Parts naar Kravel Koalbeard in de Shimmering Flats.",
+      "p": "Ben je in Ratchet geweest en heb je die onderdelen?",
+      "c": "Mooi, je hebt ze! Nu moeten we ze naar de gnomen brengen. Maar eerst...$B$BLaten we er één klein dingetje uit halen...",
+      "g": [
+        [
+          "pakket",
+          "package"
+        ],
+        [
+          "aflevert",
+          "deliver (afleveren)"
+        ],
+        [
+          "bestellingen",
+          "orders (bestelling)"
+        ],
+        [
+          "rekening",
+          "tab, bill"
+        ],
+        [
+          "onderdelen",
+          "parts (onderdeel)"
+        ],
+        [
+          "dingetje",
+          "little thing, item"
+        ]
+      ]
+    },
+    "1114": {
+      "t": "Levering aan de gnomen",
+      "d": "Nu ik heb wat ik nodig heb: geef deze onderdelen aan Fizzle Brassbolts. Hij wacht er al lang op -- hij zal dat kleine stukje dat ik uit zijn bestelling heb gehaald vast niet missen...$B$BEn ik zou het maar niet tegen hem zeggen. Het was klein en waardeloos.$B$BGeloof me maar.",
+      "o": "Breng de Delicate Car Parts naar Fizzle Brassbolts in Shimmering Flats.",
+      "p": "Heb je iets voor me? Geweldig! Laat eens zien!",
+      "c": "Daar zijn ze! Mijn hydroratels en repeteerbouten! Hier kan ik prima mee verder. Bedankt!",
+      "g": [
+        [
+          "levering",
+          "delivery"
+        ],
+        [
+          "stukje",
+          "little piece"
+        ],
+        [
+          "missen",
+          "to miss"
+        ],
+        [
+          "waardeloos",
+          "worthless"
+        ],
+        [
+          "geloof me maar",
+          "trust me"
+        ],
+        [
+          "hydroratels",
+          "hydro ratchets (gnome parts)"
+        ],
+        [
+          "repeteerbouten",
+          "repeater bolts (gnome parts)"
+        ],
+        [
+          "prima",
+          "just fine"
+        ]
+      ]
+    },
+    "1115": {
+      "t": "De roddelaar",
+      "d": "Nu we de gnomen een dienst hebben bewezen, is het tijd om de goblins een plezier te doen!$B$BIk hoor dat de goblin-racerpiloot Nazz Steamboil niet altijd zo heette. Ik vraag me af waarom hij zijn naam heeft veranderd. Ik vraag me af of het een geheim is, en... ik vraag me af hoeveel dat geheim hem waard is.$B$BAls iemand de waarheid weet, dan is het Krazek van Booty Bay, op de zuidpunt van Stranglethorn. Praat met Krazek en vraag hem naar onze goblinpiloot.$B$BAls je nuttige informatie van hem krijgt, kunnen we er misschien wel winst mee maken.",
+      "o": "Praat met Krazek in Booty Bay.",
+      "c": "Wil je iets weten over Nazz Steamboil? Hij is een racerpiloot op de Shimmering Flats, toch?$B$BJa, misschien kan ik wel iets over hem te weten komen... maar het wordt niet makkelijk. Of snel.$B$BOf goedkoop.",
+      "g": [
+        [
+          "roddelaar",
+          "rumourmonger, gossip"
+        ],
+        [
+          "een dienst hebben bewezen",
+          "have done a service (een dienst bewijzen)"
+        ],
+        [
+          "een plezier te doen",
+          "to do a favour (een plezier doen)"
+        ],
+        [
+          "ik vraag me af",
+          "I wonder (zich afvragen)"
+        ],
+        [
+          "waarheid",
+          "truth"
+        ],
+        [
+          "zuidpunt",
+          "southern tip"
+        ],
+        [
+          "nuttige",
+          "useful (nuttig)"
+        ],
+        [
+          "racerpiloot",
+          "racer pilot"
+        ],
+        [
+          "te weten komen",
+          "to find out"
+        ],
+        [
+          "goedkoop",
+          "cheap"
+        ]
+      ]
+    },
+    "1116": {
+      "t": "Droomstof in het moeras",
+      "d": "De informatie over Nazz is een flinke gunst, $N. Ja, een flinke gunst. Maar je bent helemaal uit de Shimmering Flats gekomen om haar te krijgen... ben je bereid om nog wat verder te reizen?$B$BTerwijl ik contact opneem met mijn bronnen, kun jij misschien iets voor me verzamelen, hè?$B$BHm... wat zal het zijn? Wat dacht je van droomstof, van de drakenwelpen in de Swamp of Sorrows. Ja, ik zou graag wat droomstof hebben voor mijn snuiftabakzakje!$B$BHaal het voor me, $N, dan geef ik je de informatie die je zoekt.",
+      "o": "Breng 10 Specks of Dream Dust naar Krazek in Booty Bay. Dream Dust haal je bij de drakenwelpen van de Swamp of Sorrows.",
+      "p": "Nu al terug? Heb je mijn droomstof?",
+      "c": "Nou, kijk eens aan. Je hebt het droomstof gevonden!$B$BEn hoe vond je het moeras, $N? Het is daar niet makkelijk om een warme maaltijd te krijgen, hè?",
+      "g": [
+        [
+          "droomstof",
+          "dream dust"
+        ],
+        [
+          "moeras",
+          "swamp"
+        ],
+        [
+          "gunst",
+          "favour"
+        ],
+        [
+          "bereid",
+          "willing"
+        ],
+        [
+          "contact opneem",
+          "get in touch (contact opnemen)"
+        ],
+        [
+          "bronnen",
+          "sources (bron)"
+        ],
+        [
+          "drakenwelpen",
+          "dragon whelps (drakenwelp)"
+        ],
+        [
+          "snuiftabakzakje",
+          "snuff pouch"
+        ],
+        [
+          "maaltijd",
+          "meal"
+        ]
+      ]
+    },
+    "1117": {
+      "t": "Geruchten voor Kravel",
+      "d": "Ik moest een paar gunsten gebruiken, ik heb een zeldzame fles elfenwijn weggegeven, en ik heb zelf flink wat puzzelwerk gedaan! Maar ik heb de informatie gevonden die je zoekt.$B$BHier, ik heb een brief geschreven met een paar heel interessante stukjes over onze vriend, Nazz Steamboil. Doe ermee wat je wilt -- het is te gevaarlijk voor mij om te gebruiken.$B$BVertel alleen aan niemand waar je het vandaan hebt!",
+      "o": "Breng de Goblin Rumors naar Kravel Koalbeard in de Shimmering Flats.",
+      "p": "Heb je iets over Nazz Steamboil gevonden? Iets wat hij geheim wil houden??",
+      "c": "Kijk eens aan! Dit is interessant... heel interessant. Heh, misschien moet ik de volgende keer dat ik die goblinpiloot zie voor hem buigen.$b$bDit is veel waard, $N. Nazz betaalt vast een klein fortuin om zijn geheim... geheim te houden.",
+      "g": [
+        [
+          "geruchten",
+          "rumours (gerucht)"
+        ],
+        [
+          "gunsten",
+          "favours (gunst)"
+        ],
+        [
+          "zeldzame",
+          "rare (zeldzaam)"
+        ],
+        [
+          "elfenwijn",
+          "elven wine"
+        ],
+        [
+          "weggegeven",
+          "given away (weggeven)"
+        ],
+        [
+          "puzzelwerk",
+          "puzzling, deducing"
+        ],
+        [
+          "gevaarlijk",
+          "dangerous"
+        ],
+        [
+          "vandaan",
+          "from (waar ... vandaan)"
+        ],
+        [
+          "buigen",
+          "to bow"
+        ],
+        [
+          "fortuin",
+          "fortune"
+        ]
+      ]
+    }
+  },
+  "words": {
+    "aanbieden": "to offer",
+    "aanpassingen": "adjustments, tweaks (aanpassing)",
+    "au": "ouch",
+    "auto": "car",
+    "auto's": "cars (auto)",
+    "balans": "balance",
+    "beloningen": "rewards (beloning)",
+    "bewegende": "moving (bewegen)",
+    "bezorg": "deliver (bezorgen)",
+    "brandstoftank": "fuel tank",
+    "broers": "brothers (broer)",
+    "chassis": "chassis, car frame",
+    "crash": "crash",
+    "crashen": "to crash",
+    "crashes": "crashes (crash)",
+    "darkspear-trollen": "Darkspear trolls",
+    "detail": "detail",
+    "diepzee": "deep sea",
+    "dikke": "thick (dik)",
+    "dokter": "doctor",
+    "engine-helmen": "(Siege) Engine helmets (helm)",
+    "gekund": "been able to (kunnen)",
+    "gemakkelijk": "easily, easy",
+    "goblin-racerpiloot": "goblin racer pilot",
+    "goblinpiloot": "goblin pilot",
+    "helmen": "helmets (helm)",
+    "hoger": "higher (hoog)",
+    "jongens": "boys, lads (jongen)",
+    "kwijtraak": "lose (kwijtraken)",
+    "legers": "armies, forces (leger)",
+    "lichter": "lighter (licht)",
+    "motor": "engine",
+    "onderen": "below (van onderen)",
+    "opengingen": "opened (opengaan)",
+    "openmaken": "to open up",
+    "opgeroepen": "summoned (oproepen)",
+    "opneem": "take up (contact opnemen: get in touch)",
+    "overzicht": "overview (het overzicht kwijtraken: lose track)",
+    "plank": "plank",
+    "platen": "sheets, plates (plaat)",
+    "race": "race",
+    "racen": "to race, racing",
+    "racers": "racers (racer)",
+    "races": "races (race)",
+    "raketauto's": "rocket cars (raketauto)",
+    "rijdt": "drives (rijden)",
+    "rijken": "the rich (rijk)",
+    "rondkijkt": "look around (rondkijken)",
+    "saltscale-murlocs": "Saltscale murlocs",
+    "skipper-otomer": "skipper-otomer (gnome nonsense word)",
+    "tegenaan": "against (ergens tegenaan rijden: to hit something)",
+    "telt": "counts (tellen)",
+    "thunder-racer": "(Red) Thunder racer",
+    "verbrande": "burnt (verbranden)",
+    "vreet": "eats (vreten)",
+    "wielen": "wheels (wiel)",
+    "woestijnzout": "desert salt",
+    "zeeën": "seas (zee)",
+    "zout": "salt",
+    "zoutvlakten": "salt flats (zoutvlakte)",
+    "zwaard": "sword"
+  },
+  "terms": {}
+}
