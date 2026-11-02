@@ -42,6 +42,7 @@ Data\Batch_23_Class_Warrior_30.lua
 Data\Batch_24_Class_Paladin_30.lua
 Data\Batch_25_Class_Rogue_30.lua
 Data\Batch_26_Hillsbrad_Foothills.lua
+Data\Batch_27_Arathi_Highlands.lua
 
 Display.lua
 Reader.lua
