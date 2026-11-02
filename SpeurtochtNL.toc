@@ -37,6 +37,7 @@ Data\Batch_18_Ashenvale_30.lua
 Data\Batch_19_Duskwood_30.lua
 Data\Batch_20_Duskwood_30.lua
 Data\Batch_21_Stonetalon_Mountains_30.lua
+Data\Batch_22_Gnomeregan_2_Voorquests.lua
 
 Display.lua
 Reader.lua
