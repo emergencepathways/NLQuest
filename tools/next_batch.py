@@ -24,7 +24,9 @@ FIELD_ORDER = [("Title", "t"), ("Details", "d"), ("Objectives", "o"), ("RequestI
 
 
 def tier(level):
-    return 1 if level <= 12 else 2 if level <= 25 else 3 if level <= 42 else 4
+    # Same for Alliance and Horde: difficulty follows quest level only (docs/STYLE.md).
+    # 1 = A1-A2 (1-20), 2 = A2-A2+ (21-35), 3 = A2-B1 (36-45), 4 = B1-B2 (46-60). Never above B2.
+    return 1 if level <= 20 else 2 if level <= 35 else 3 if level <= 45 else 4
 
 
 def main():

@@ -28,7 +28,8 @@ One batch per turn (~4,000 English words). Read only `work/batch_NN.txt` for sou
 
 ## Translation rules (full version: docs/STYLE.md)
 
-- **Tier by quest level** (given in the batch file): 1 = A1–A2 (≤12), 2 = A2 (≤25), 3 = A2–B1 (≤42), 4 = B1 literary (43+). Short, clear sentences at low tiers; keep the dramatic tone at tier 4 but choose the commoner word.
+- **Tier by quest level, same for Alliance and Horde** (given in the batch file): 1 = A1–A2 (1–20), 2 = A2–A2+ (21–35), 3 = A2–B1 (36–45), 4 = B1–B2 literary (46–60). **Nothing above B2.** Difficulty grows gradually: low end of each tier at its first levels, high end at its last. Short, clear sentences at low tiers; keep the dramatic tone at tier 4 but choose the commoner word.
+- **Add nothing that isn't in the English text**: no extra facts, explanations or flavour. Simplify by splitting sentences and choosing easier words, never by adding or dropping content.
 - **Names stay English**: people, places, enemies, items, factions, dungeons. Objectives keep the exact English item/mob names (they must match the quest tracker): *Dood 6 Gnarlpine Ambushers.* / *Breng 8 Tough Wolf Meat naar Sten Stoutarm.*
 - **Placeholders**: keep `$n $c $r $b`; turn `$glad:lass;` into `$gjongen:meid;`, `$ghis:her;` into `$gzijn:haar;`, etc.
 - Address the player with *je/jij*. Natural Dutch, not word-for-word.

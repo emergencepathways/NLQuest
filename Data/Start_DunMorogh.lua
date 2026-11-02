@@ -304,7 +304,7 @@ NQ:AddQuests({
         {"boerderij", "farm, ranch"}, {"dodelijk", "deadly"}, {"front", "front (war)"}, {"afschuwelijke", "horrible, wretched"} },
 },
 
--- Dun Morogh follow-ups for later levels (tier 2: A2)
+-- Dun Morogh follow-ups for later levels (tier 2: A2–A2+)
 [466] = { en = "Search for Incendicite", tier = 2,
   t = "Op zoek naar incendiciet",
   d = "Ik heb gehoord dat er een zeldzaam erts, incendiciet, is gevonden in de Wetlands, in een grot ten noordwesten van Algaz Gate. Incendiciet is instabiel spul, en het is moeilijk te gebruiken zonder jezelf op te blazen. Maar ik weet zeker dat je er, als je het op de juiste manier smelt, granaten van kunt maken die een flinke klap uitdelen!$B$BHaal incendiciet-erts voor me, dan zoek ik iemand die moedig genoeg is om ermee te experimenteren.$B$BO, en om het erts uit een ader te halen, moet je kunnen mijnen. Kun je dat niet? Neem dan een vriend mee naar die grot die het wel kan!",

@@ -1,6 +1,8 @@
 # Changelog
 
 ## Unreleased
+- Batch 7: the Consecrated Letter for paladins, Loch Modan up to level 14 (Brock's honor students and the gryphon flights, Rat Catching, blood sausages, the trogg quests, Stormpike's Order) and Darkshore up to level 14 (Buzzbox 827 and 411, Nessa's fish samples by hippogryph, Ameth'Aran, Asterion and the Bashal'Aran chain, Washed Ashore) (25 quests, 200 in total).
+- Difficulty levels now follow quest level the same way for Alliance and Horde: A1–A2 up to level 20, A2–A2+ to 35, A2–B1 to 45, B1–B2 from 46, never above B2. The reader shows the new labels.
 - Batch 6: the priest class quests up to level 10 for humans, dwarves and night elves: Hallowed Letter/Sigil, the first robes (heal and fortify Shaya, Roberts or Dolf), Stars of Elune and the Returning Home and Desperate Prayer messengers (22 quests, 175 in total).
 - Batch 5: the last hunter pet quests (Strigid Screecher, Jocaste) and the warrior and rogue class quests up to level 10 for humans, dwarves, gnomes and night elves (28 quests, 153 in total).
 - Batch 4: Darnassus (Temple of the Moon, Lady Sathrah, Grove of the Ancients) plus the night elf druid and hunter class quests up to level 10: Verdant/Etched Sigil, the Moonglade bear chain with Lunaclaw, and the Taming the Beast chains in Teldrassil and Dun Morogh (29 quests, 125 in total).

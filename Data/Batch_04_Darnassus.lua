@@ -245,7 +245,7 @@ NQ:AddQuests({
   g = { {"afmaken", "to finish"}, {"offer", "sacrifice, offering"}, {"rusten", "to rest"}, {"fontein", "fountain"}, {"neerleggen", "to lay down"}, {"heilige", "holy, sacred"}, {"reinigt", "cleanses (reinigen)"}, {"verdorvenheid", "corruption"}, {"verlies", "loss"}, {"verdrietig", "sad, distressing"}, {"geest", "spirit"}, {"Moge", "may (a wish)"}, {"aannemen", "to accept"} },
 },
 
-[730] = { en = "Trouble In Darkshore?", tier = 2,
+[730] = { en = "Trouble In Darkshore?", tier = 1,
   t = "Problemen in Darkshore?",
   d = "Wat fijn om een $c te zien die interesse heeft in de grote archeologische wonderen van onze wereld.$b$bVaak zien onze vrienden in de Alliance ons werk als een hobby. Maar velen beseffen niet dat recente ontdekkingen in Khaz Modan hebben bewezen dat een grote, machtige kracht heel Azeroth bedreigt, van Lordaeron tot Kalimdor.$b$bIk maak me grote zorgen om mijn team, dat ik naar Darkshore heb gestuurd. Ik heb al weken niets van ze gehoord.$b$bReis naar Auberdine en zoek naar een aanwijzing over waar ze zijn.",
   o = "Reis naar Auberdine en zoek naar sporen van het opgravingsteam van de dwergen.",
