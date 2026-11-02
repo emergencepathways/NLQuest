@@ -14,8 +14,24 @@ python3 tools/next_batch.py              # 1. English source -> work/batch_NN.tx
 python3 tools/import_batch.py NN         # 3. validate, build Data/Batch_NN_*.lua, update .toc
 #                                          4. fix errors / add missing word meanings, re-run 3
 lua5.1 tools/test_harness.lua            # 5. offline test in a mock WoW client
-git add -A && git commit -m "Batch NN: <zones>"   # 6. commit (and push)
+git switch -c batch-NN                   # 6. one branch per batch
+git add -A && git commit                 #    commit message: see below
+git push -u origin batch-NN              # 7. open a pull request, review, merge
 ```
+
+### Commit messages and pull requests
+
+Every batch is a branch and a pull request, so GitHub keeps a page for it with the full diff and the notes. The commit message and the pull request use the same three headings (the template in `.github/` fills them in):
+
+```
+Batch 3: Teldrassil (18 quests)
+
+Added:     what's new (zones, quests, words, features)
+Changed:   tools, code, or reworded existing translations
+Corrected: mistakes fixed, with the issue number (Fixes #12)
+```
+
+Corrections reported while playing go in as GitHub issues (template: *Translation fix*), so every fix is traceable from report to change.
 
 Releases bundle several batches: bump the version in `Core.lua` and `SpeurtochtNL.toc`, add a `CHANGELOG.md` entry, tag `vX.Y.Z`.
 
