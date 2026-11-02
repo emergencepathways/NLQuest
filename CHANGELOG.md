@@ -1,6 +1,7 @@
 # Changelog
 
 ## Unreleased
+- Batch 35: Swamp of Sorrows and Badlands from level 35 to 42 (Watcher Biggs' Lost Caravan chain, Galen's Escape, Noboru the Cudgel, the Hammertoe Grez and Prospect of Faith chain, Lotwil Veriatus' Study of the Elements, Theldurin and Yagyin's Digest, Murdaloc, ...) (33 quests, 915 in total).
 - Batch 34: Dustwallow Marsh from level 20 to 40 (the Shady Rest Inn mystery and Paval Reethe chain, The Black Shield, "Swamp Eye" Jarl, Morgan Stern's Mudrock Soup and Bugs, Stinky's Escape, ...) (26 quests, 882 in total).
 - Batch 108: Durotar from level 9 to 14 (Need for a Cure and Finding the Antidote, Zalazane, Encroachment, Lost But Not Forgotten, the Burning Blade chain from Dark Storms, Margoz and Skull Rock via Neeru Fireblade and Ak'Zeloth to The Demon Seed, Conscript of the Horde and Crossroads Conscription) and Deathknell from level 1 to 5 (Rude Awakening, Welcome!, The Mindless Ones, The Damned, Rattling the Rattlecages, Scavenging Deathknell, Night Web's Hollow, The Scarlet Crusade, The Red Messenger, Vital Intelligence, both parts of A Rogue's Deal, Marla's Last Wish) - the first Horde-lane batch (26 quests, 856 in total).
 - Parallel lanes: `tools/next_batch.py --lane alliance|horde` lets two chats translate at the same time without picking the same batch, and the new Batch auto-merge workflow opens, checks and merges every pushed batch-NN branch. Batch CHANGELOG lines now come from `changes/NN.md` (tools/sync_batch.py fills in the counts).
