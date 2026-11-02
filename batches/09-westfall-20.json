@@ -1,0 +1,1480 @@
+{
+ "quests": {
+  "9": {
+   "t": "De dodenvelden",
+   "d": "Kijk wat er met deze plek is gebeurd! Vroeger woonden hier goede boeren. Maar die vervloekte dieven hebben ze allemaal weggejaagd. Mij niet, hoor! Maar het lijkt erop dat een paar Harvest Watchers de velden hebben overgenomen.$b$bAls je het werk aankunt, wil ik dat je erop uitgaat en er twintig doodt. Kom terug als je klaar bent, dan krijg je je loon. Ben je klaar met die op mijn veld? Haal ze dan ook weg van de velden van de buren.",
+   "o": "Farmer Saldean wil dat je 20 Harvest Watchers doodt.",
+   "p": "Ah, ik zie dat je terug bent! Ik hoop dat je hard hebt gewerkt om die velden van de Harvest Watchers te bevrijden. Heb je er al twintig gedood?",
+   "c": "Goed werk, vriend. Je hebt je loon echt verdiend. Wie weet wordt Westfall ooit weer rijk.",
+   "g": [
+    [
+     "dodenvelden",
+     "killing fields (dood + velden)"
+    ],
+    [
+     "vervloekte",
+     "damned (vervloekt)"
+    ],
+    [
+     "weggejaagd",
+     "driven off (wegjagen)"
+    ],
+    [
+     "overgenomen",
+     "taken over (overnemen)"
+    ],
+    [
+     "aankunt",
+     "can handle (aankunnen)"
+    ],
+    [
+     "erop uitgaat",
+     "go out (erop uitgaan)"
+    ],
+    [
+     "loon",
+     "pay, wages"
+    ],
+    [
+     "buren",
+     "neighbours (buurman)"
+    ],
+    [
+     "bevrijden",
+     "to free, clear"
+    ],
+    [
+     "verdiend",
+     "earned (verdienen)"
+    ],
+    [
+     "rijk",
+     "rich, prosperous"
+    ]
+   ]
+  },
+  "117": {
+   "t": "Thunderbrew",
+   "d": "Schiet op, mijn vriend, wees vlug, want hier $bmoet ons volle lagerbier $bmeer naar bier en minder naar stoofpot smaken, $bdus is er hop nodig om het brouwsel te maken.",
+   "o": "Breng Grimbooze Thunderbrew 5 hops, zodat hij zijn speciale bier kan afmaken.",
+   "p": "Schiet op, mijn vriend, wees vlug, want hier $bmoet ons volle lagerbier $bmeer naar bier en minder naar stoofpot smaken, $bdus is er hop nodig om het brouwsel te maken.",
+   "c": "Hop en gerst, gist en mout, $bje smaakpapillen krijgen bijna een aanval te verduren. $bJe hoeft niet te smeken, je hoeft niet te zeuren, $bwant Thunderbrew Lager komt in een vat!",
+   "g": [
+    [
+     "Schiet op",
+     "hurry up (opschieten)"
+    ],
+    [
+     "stoofpot",
+     "stew"
+    ],
+    [
+     "hop",
+     "hops"
+    ],
+    [
+     "brouwsel",
+     "brew"
+    ],
+    [
+     "gerst",
+     "barley"
+    ],
+    [
+     "gist",
+     "yeast"
+    ],
+    [
+     "mout",
+     "malt"
+    ],
+    [
+     "smaakpapillen",
+     "taste buds (smaakpapil)"
+    ],
+    [
+     "vlug",
+     "quick"
+    ],
+    [
+     "lagerbier",
+     "lager"
+    ],
+    [
+     "verduren",
+     "to endure (te verduren krijgen = to suffer)"
+    ],
+    [
+     "smeken",
+     "to beg, plead"
+    ],
+    [
+     "zeuren",
+     "to nag, beg"
+    ],
+    [
+     "vat",
+     "keg, barrel"
+    ]
+   ]
+  },
+  "153": {
+   "t": "Rode leren bandana's",
+   "d": "Het front van de Defias verschuift steeds. Ik volg hun bewegingen al een hele tijd. Iets anders: ik heb ontdekt dat je veel leden van de bende kunt herkennen aan de Red Leather Bandanas die ze dragen.$b$bBreng me 15 van die bandana's, dan zorg ik dat je een beloning krijgt.",
+   "o": "Breng 15 Red Leather Bandanas naar Scout Galiaan op Sentinel Hill.",
+   "p": "Breng me 15 rode leren bandana's, dan betaal ik je goed.",
+   "c": "Mooi werk, $R. Neem alsjeblieft een van deze spullen aan als betaling voor al je harde werk.",
+   "g": [
+    [
+     "leren",
+     "leather (adj.; leer)"
+    ],
+    [
+     "front",
+     "front (military)"
+    ],
+    [
+     "verschuift",
+     "shifts (verschuiven)"
+    ],
+    [
+     "bewegingen",
+     "movements (beweging)"
+    ],
+    [
+     "ontdekt",
+     "found out, discovered (ontdekken)"
+    ],
+    [
+     "leden",
+     "members (lid)"
+    ],
+    [
+     "bende",
+     "gang"
+    ],
+    [
+     "herkennen",
+     "to recognise, identify"
+    ],
+    [
+     "zorg ik dat",
+     "I'll see to it that (zorgen)"
+    ],
+    [
+     "betaling",
+     "payment"
+    ]
+   ]
+  },
+  "103": {
+   "t": "Hoeder van de vlam",
+   "d": "De nacht dat de familie van de vuurtorenwachter stierf, was verschrikkelijk. Ik keek hulpeloos toe terwijl Old Murk-Eye de aanval leidde. Maar gebeurd is gebeurd. Nu maak ik me zorgen om de zeelieden op The Great Sea. Hun schepen komen dicht bij de gevaarlijke rotsen van de kust. Er is niemand meer om op de vlam te letten, dus nu is dat mijn taak.$b$bHelp me om de fakkel brandend te houden. Breng me 5 flessen olie van de Harvest Monsters.",
+   "o": "Breng 5 Flasks of Oil naar Captain Grayson bij de Westfall Lighthouse.",
+   "p": "Zonder olie brandt de vlam niet lang, $N.",
+   "c": "Lof zij jou, dappere $C. Dankzij jouw harde werk worden de rotsen van de Westfall Coast verlicht. Zolang de fakkel blijft branden, worden veel levens gered.$B$BIk ben op ditzelfde strand voor niets gestorven. Na mijn dood is het mijn taak om ervoor te zorgen dat niemand anders mijn lot volgt.",
+   "g": [
+    [
+     "Hoeder",
+     "keeper, guardian"
+    ],
+    [
+     "vuurtorenwachter",
+     "lighthouse keeper"
+    ],
+    [
+     "hulpeloos",
+     "helpless(ly)"
+    ],
+    [
+     "keek ... toe",
+     "watched, looked on (toekijken)"
+    ],
+    [
+     "terwijl",
+     "while"
+    ],
+    [
+     "aanval",
+     "attack"
+    ],
+    [
+     "gebeurd is gebeurd",
+     "what's done is done"
+    ],
+    [
+     "zeelieden",
+     "sailors (zeeman)"
+    ],
+    [
+     "rotsen",
+     "rocks (rots)"
+    ],
+    [
+     "letten op",
+     "to keep watch on"
+    ],
+    [
+     "fakkel",
+     "torch"
+    ],
+    [
+     "Lof zij jou",
+     "praise be to you"
+    ],
+    [
+     "verlicht",
+     "lit (verlichten)"
+    ],
+    [
+     "gered",
+     "saved, spared (redden)"
+    ],
+    [
+     "lot",
+     "fate, destiny"
+    ]
+   ]
+  },
+  "136": {
+   "t": "De verborgen schat van Captain Sanders",
+   "d": "Lees je dit? Dan ligt de ouwe Captain Sanders in een zeemansgraf. Dus mijn schat is nu van jou. Je moet alleen de aanwijzingen volgen.$b$bEerst moet je mijn scheepskist vinden. Die ligt nu vast half begraven in het zand, langs de westkust van Westfall, bij het scheepswrak. Er liggen veel scheepswrakken, maar er ligt maar één roestig anker op de kust. Vind dat anker, dan vind je mijn kist! Kijk daarin voor de volgende aanwijzing.",
+   "o": "Vind de scheepskist van Captain Sanders en doorzoek hem voor de volgende aanwijzing.",
+   "c": "De scheepskist gaat langzaam krakend open. Er zit alleen zand en water in, lijkt het. Maar wacht! Een klein krabbetje rent naar buiten, met een aanwijzing voor de schat in zijn scharen!",
+   "g": [
+    [
+     "verborgen",
+     "hidden (verbergen)"
+    ],
+    [
+     "schat",
+     "treasure"
+    ],
+    [
+     "ouwe",
+     "old (informal: oude)"
+    ],
+    [
+     "zeemansgraf",
+     "watery grave (sailor's grave)"
+    ],
+    [
+     "aanwijzingen",
+     "clues (aanwijzing)"
+    ],
+    [
+     "scheepskist",
+     "sea chest, footlocker"
+    ],
+    [
+     "begraven",
+     "buried"
+    ],
+    [
+     "scheepswrak",
+     "shipwreck"
+    ],
+    [
+     "roestig",
+     "rusty"
+    ],
+    [
+     "anker",
+     "anchor"
+    ],
+    [
+     "doorzoek",
+     "search (doorzoeken)"
+    ],
+    [
+     "krakend",
+     "creaking (kraken)"
+    ],
+    [
+     "krabbetje",
+     "little crab (krab)"
+    ],
+    [
+     "scharen",
+     "claws, pincers (schaar)"
+    ]
+   ]
+  },
+  "138": {
+   "t": "De verborgen schat van Captain Sanders",
+   "d": "Op de aanwijzing voor de schat staat: Goed werk, maatje! Nu moet je recht naar het oosten. Naar het oosten de kliffen op, naar het oosten naar de weg. Zoek de ouwe resten van een schoorsteen naast de weg. Daar vind je een oud vat met je volgende aanwijzing.",
+   "o": "Vind het oude vat bij de kapotte schoorsteen en doorzoek het voor je volgende aanwijzing.",
+   "c": "Goed werk, schatzoeker!",
+   "g": [
+    [
+     "maatje",
+     "matey, buddy"
+    ],
+    [
+     "recht naar het oosten",
+     "due east"
+    ],
+    [
+     "kliffen",
+     "bluffs, cliffs (klif)"
+    ],
+    [
+     "resten",
+     "ruins, remains (rest)"
+    ],
+    [
+     "schoorsteen",
+     "chimney"
+    ],
+    [
+     "vat",
+     "barrel"
+    ],
+    [
+     "kapotte",
+     "ruined, broken (kapot)"
+    ],
+    [
+     "schatzoeker",
+     "treasure hunter"
+    ]
+   ]
+  },
+  "139": {
+   "t": "De verborgen schat van Captain Sanders",
+   "d": "Je zoekt in het vat en je vindt nog een stuk perkament. Hierop staat: Ga nu bij dit vat staan en kijk naar het noorden. Loop in een rechte lijn door, tot je de lege kruik ziet naast de eenzame windmolen op de kliffen aan zee. Als je rond die kruik zoekt, vind je misschien wat je zoekt.",
+   "o": "Doorzoek de lege kruik naast de windmolen voor de volgende aanwijzing.",
+   "c": "Je bent op weg naar de hoofdprijs, schatzoeker!",
+   "g": [
+    [
+     "perkament",
+     "parchment"
+    ],
+    [
+     "Hierop",
+     "on this"
+    ],
+    [
+     "in een rechte lijn",
+     "in a straight line, as the crow flies"
+    ],
+    [
+     "kruik",
+     "jug"
+    ],
+    [
+     "eenzame",
+     "lone, lonely (eenzaam)"
+    ],
+    [
+     "windmolen",
+     "windmill"
+    ],
+    [
+     "kliffen",
+     "bluffs, cliffs (klif)"
+    ],
+    [
+     "hoofdprijs",
+     "jackpot, first prize"
+    ]
+   ]
+  },
+  "140": {
+   "t": "De verborgen schat van Captain Sanders",
+   "d": "En ja hoor, diep in de Old Jug zit nog een aanwijzing voor de schat van Sanders. De inkt is op sommige plekken uitgelopen en het papier ruikt naar whisky. Maar je kunt een deel van de tekst lezen: Nu je mijn ouwe whiskykruik hebt gevonden, ben je bijna bij de schat! Ga bij de fles staan, kijk naar het westen en loop naar het strand. Als je bij het water bent, ga dan gewoon door! Zwem recht naar het westen, tot je het eiland met mijn schatkist vindt!",
+   "o": "Vind de kist van Captain Sanders en maak hem open voor je beloning.",
+   "c": "De scharnieren van de oude kist zijn roestig, maar ze werken nog. Je duwt de kist met kracht open en neemt de buit.$B$BGefeliciteerd!",
+   "g": [
+    [
+     "En ja hoor",
+     "sure enough"
+    ],
+    [
+     "inkt",
+     "ink"
+    ],
+    [
+     "uitgelopen",
+     "run (of ink) (uitlopen)"
+    ],
+    [
+     "ruikt",
+     "smells (ruiken)"
+    ],
+    [
+     "whiskykruik",
+     "whiskey jug"
+    ],
+    [
+     "eiland",
+     "island"
+    ],
+    [
+     "schatkist",
+     "treasure chest"
+    ],
+    [
+     "scharnieren",
+     "hinges (scharnier)"
+    ],
+    [
+     "roestig",
+     "rusty"
+    ],
+    [
+     "met kracht",
+     "by force"
+    ],
+    [
+     "buit",
+     "booty, loot"
+    ],
+    [
+     "Gefeliciteerd",
+     "congratulations"
+    ]
+   ]
+  },
+  "14": {
+   "t": "De People's Militia",
+   "d": "Een paar Defias zijn aan ons ontsnapt. Mijn meest betrouwbare verkenner meldt dat deze Defias het platteland plunderen en beroven, helemaal tot in het zuiden van Westfall. We denken dat ze zich verstoppen in de Dagger Hills. Daar plannen ze hun volgende zet. Dood die ellendelingen in naam van de People's Militia.",
+   "o": "Gryan Stoutmantle wil dat je 15 Defias Highwaymen, 5 Defias Pathstalkers en 5 Defias Knuckledusters doodt. Ga daarna terug naar hem op Sentinel Hill.",
+   "p": "$N, dit is geen tijd om te kletsen. Wil je je nog steeds bewijzen voor de People's Militia? Dan moet je de Defias doden waar ik je eerder over vertelde. Kom terug bij mij als je je plicht hebt gedaan.",
+   "c": "Ik verliet de besmette landen van Lordaeron. Toen ik hier terugkwam in mijn thuisland, was het hier somber en zwaar. Maar er is nog hoop voor Westfall. Je dapperheid in de strijd bewijst het: het is duidelijk voor mij dat je onze zaak met eer dient. Met grote trots neem ik je op in de People's Militia. Moge het Licht op je schijnen.",
+   "g": [
+    [
+     "ontsnapt",
+     "escaped, eluded (ontsnappen)"
+    ],
+    [
+     "betrouwbare",
+     "trusted, reliable (betrouwbaar)"
+    ],
+    [
+     "platteland",
+     "countryside"
+    ],
+    [
+     "beroven",
+     "to rob, pillage"
+    ],
+    [
+     "verstoppen",
+     "to hide (zich verstoppen)"
+    ],
+    [
+     "zet",
+     "move (in a game)"
+    ],
+    [
+     "ellendelingen",
+     "wretches (ellendeling)"
+    ],
+    [
+     "kletsen",
+     "to chatter"
+    ],
+    [
+     "plicht",
+     "duty"
+    ],
+    [
+     "besmette",
+     "tainted (besmet)"
+    ],
+    [
+     "somber",
+     "grim, gloomy"
+    ],
+    [
+     "dapperheid",
+     "valour, bravery"
+    ],
+    [
+     "zaak",
+     "cause"
+    ],
+    [
+     "eer",
+     "honour"
+    ],
+    [
+     "neem ik je op",
+     "I induct you (opnemen)"
+    ],
+    [
+     "Moge",
+     "may (mogen)"
+    ]
+   ]
+  },
+  "65": {
+   "t": "De Defias Brotherhood",
+   "d": "De groep ellendelingen die de goede mensen van Westfall van hun land heeft verjaagd, noemt zichzelf de Defias Brotherhood. Ik wil dat je in deze bende boeven binnendringt. We moeten weten wie de leider is van de groep, en waar ze zich verstoppen. In Lakeshire, in de herberg, zit een schurk die Wiley heet. Hij is me nog een gunst schuldig.$b$bReis naar Lakeshire in de Redridge Mountains, ten oosten van Elwynn, en kijk wat je te weten kunt komen.",
+   "o": "Gryan Stoutmantle wil dat je met Wiley in Lakeshire praat.",
+   "c": "Dus Stoutmantle heeft je gestuurd? Nou, ik sta bij hem in het krijt.",
+   "g": [
+    [
+     "ellendelingen",
+     "wretches (ellendeling)"
+    ],
+    [
+     "verjaagd",
+     "driven away (verjagen)"
+    ],
+    [
+     "zichzelf",
+     "themselves"
+    ],
+    [
+     "bende",
+     "gang, clan"
+    ],
+    [
+     "boeven",
+     "thugs, crooks (boef)"
+    ],
+    [
+     "binnendringt",
+     "infiltrate (binnendringen)"
+    ],
+    [
+     "leider",
+     "leader"
+    ],
+    [
+     "herberg",
+     "inn"
+    ],
+    [
+     "schurk",
+     "rogue, scoundrel"
+    ],
+    [
+     "gunst",
+     "favour"
+    ],
+    [
+     "schuldig",
+     "owing, in debt"
+    ],
+    [
+     "te weten kunt komen",
+     "can find out (te weten komen)"
+    ],
+    [
+     "in het krijt staan",
+     "to owe (someone)"
+    ]
+   ]
+  },
+  "132": {
+   "t": "De Defias Brotherhood",
+   "d": "Wat ik je nu ga vertellen, kan me mijn leven kosten. De Defias-bende is met iets groots bezig. Het laatste wat ik hoorde: ze werken samen met allerlei gnolls, kobolds en zelfs goblins.$b$bBreng dit briefje naar Stoutmantle. Daarin staat alles wat ik erover weet.",
+   "o": "Breng Wiley's Note naar Gryan Stoutmantle in Westfall.",
+   "p": "Fijn om je terug te zien, $N. Wat had Wiley te zeggen?",
+   "c": "Bah! Ik had die schurk moeten laten wegrotten toen ik de kans had. Maar deze informatie is heel belangrijk. Goed werk.",
+   "g": [
+    [
+     "kosten",
+     "to cost"
+    ],
+    [
+     "bende",
+     "gang"
+    ],
+    [
+     "met iets groots bezig",
+     "up to something big"
+    ],
+    [
+     "allerlei",
+     "all kinds of"
+    ],
+    [
+     "briefje",
+     "note"
+    ],
+    [
+     "schurk",
+     "scoundrel"
+    ],
+    [
+     "wegrotten",
+     "to rot (away)"
+    ],
+    [
+     "kans",
+     "chance"
+    ],
+    [
+     "informatie",
+     "information"
+    ]
+   ]
+  },
+  "135": {
+   "t": "De Defias Brotherhood",
+   "d": "Ik vraag me af wat Wiley bedoelde toen hij de Stonemasons noemde. Misschien heeft hij zich versproken. Zou de Defias-bende iets met de Stonemasons te maken hebben? Maar één man weet het zeker: Mathias Shaw, hoofd van SI:7. Laat hem Wiley's Note zien. Kijk of hij iets kan toevoegen aan dit raadsel, dat steeds groter wordt. Kun je Shaw niet vinden? Kijk dan in de kazerne in Old Town.",
+   "o": "Breng Wiley's Note naar Mathias Shaw in Stormwind.",
+   "p": "Wat moet je van me? Ik ben een heel drukke man...",
+   "c": "Deze zaak is misschien ingewikkelder dan Stoutmantle denkt.",
+   "g": [
+    [
+     "Ik vraag me af",
+     "I wonder (zich afvragen)"
+    ],
+    [
+     "bedoelde",
+     "meant (bedoelen)"
+    ],
+    [
+     "noemde",
+     "mentioned (noemen)"
+    ],
+    [
+     "versproken",
+     "made a slip of the tongue (zich verspreken)"
+    ],
+    [
+     "te maken hebben met",
+     "to be related to"
+    ],
+    [
+     "hoofd",
+     "head (leader)"
+    ],
+    [
+     "toevoegen",
+     "to add"
+    ],
+    [
+     "raadsel",
+     "mystery"
+    ],
+    [
+     "kazerne",
+     "barracks"
+    ],
+    [
+     "drukke",
+     "busy (druk)"
+    ],
+    [
+     "zaak",
+     "matter"
+    ],
+    [
+     "ingewikkelder",
+     "more complex (ingewikkeld)"
+    ]
+   ]
+  },
+  "141": {
+   "t": "De Defias Brotherhood",
+   "d": "De Stonemasons' Guild werd geleid door een man die Edwin VanCleef heette. VanCleef bouwde Stormwind opnieuw op, nadat de orcs de stad in de Eerste Oorlog hadden verwoest. Blijkbaar waren VanCleef en zijn mannen niet blij met hoe de koning hen behandelde, toen de wederopbouw klaar was. Dat verklaart misschien het een en ander.$b$bIk heb een uitgebreider verslag geschreven voor je meester in Westfall. Breng dit meteen naar hem!",
+   "o": "Breng Shaw's Report naar Gryan Stoutmantle in Westfall.",
+   "p": "Heeft Master Shaw wat licht op de zaak geworpen?",
+   "c": "Edwin VanCleef... die naam ken ik goed. Een man die zo ijverig en getalenteerd was, en die toch zo'n schurk is geworden... dat maakt me onrustig. Ik heb meer bewijs nodig voordat ik dit geloof.",
+   "g": [
+    [
+     "geleid",
+     "run, led (leiden)"
+    ],
+    [
+     "bouwde ... opnieuw op",
+     "rebuilt (opnieuw opbouwen)"
+    ],
+    [
+     "nadat",
+     "after"
+    ],
+    [
+     "Eerste Oorlog",
+     "First War"
+    ],
+    [
+     "verwoest",
+     "razed, destroyed (verwoesten)"
+    ],
+    [
+     "Blijkbaar",
+     "apparently"
+    ],
+    [
+     "behandelde",
+     "treated (behandelen)"
+    ],
+    [
+     "wederopbouw",
+     "reconstruction"
+    ],
+    [
+     "het een en ander",
+     "a thing or two"
+    ],
+    [
+     "uitgebreider",
+     "more detailed (uitgebreid)"
+    ],
+    [
+     "licht ... geworpen",
+     "shed light (licht werpen op)"
+    ],
+    [
+     "ijverig",
+     "industrious, hard-working"
+    ],
+    [
+     "getalenteerd",
+     "talented"
+    ],
+    [
+     "onrustig",
+     "uneasy"
+    ],
+    [
+     "bewijs",
+     "proof"
+    ]
+   ]
+  },
+  "142": {
+   "t": "De Defias Brotherhood",
+   "d": "We moeten ontdekken waar de schuilplaats van de Defias is. $N, mijn verkenner meldt dat er een Defias Messenger is gezien op de wegen tussen Moonbrook, de Gold Coast Quarry en de Jangolode Mine. Ik wil dat je hem vangt. Als hij zich verzet, dood hem dan en breng me alles wat hij bij zich heeft.",
+   "o": "Spoor de Defias Messenger in Westfall op en breng zijn bericht naar Stoutmantle.",
+   "p": "$N, heb je informatie kunnen verzamelen? Heb je de bode gevonden?",
+   "c": "Dit is echt duidelijk bewijs dat VanCleef de leiding heeft. Nu moeten we alleen nog weten waar de Defias-bende zich verstopt.$b$bWe hadden geluk terwijl je weg was. We hebben een dief gevangen die de wagen van Saldean wilde stelen. Hij heeft beloofd dat hij ons naar de schuilplaats brengt, als hij mag blijven leven. Ik wil dat je de verrader beschermt, zodat hij de schuilplaats kan laten zien. Kom terug bij mij als je weet waar het is.",
+   "g": [
+    [
+     "ontdekken",
+     "to discover"
+    ],
+    [
+     "schuilplaats",
+     "hideout"
+    ],
+    [
+     "meldt",
+     "reports (melden)"
+    ],
+    [
+     "vangt",
+     "capture (vangen)"
+    ],
+    [
+     "zich verzet",
+     "resists (zich verzetten)"
+    ],
+    [
+     "Spoor ... op",
+     "track down (opsporen)"
+    ],
+    [
+     "bode",
+     "messenger"
+    ],
+    [
+     "bewijs",
+     "proof"
+    ],
+    [
+     "de leiding heeft",
+     "is in charge (de leiding hebben)"
+    ],
+    [
+     "geluk",
+     "luck"
+    ],
+    [
+     "beloofd",
+     "promised (beloven)"
+    ],
+    [
+     "verrader",
+     "traitor"
+    ],
+    [
+     "beschermt",
+     "protect (beschermen)"
+    ]
+   ]
+  },
+  "155": {
+   "t": "De Defias Brotherhood",
+   "d": "Dus Stoutmantle stuurt een magere $r zoals jij om mij te beschermen? Nou, jij moet het dan maar doen. Neem ook maar een paar vrienden mee.$b$bJe weet hoe het zit, toch? Jij let op mijn rug, en ik breng je naar de schuilplaats van de Defias. Maar je moet wel dicht bij me blijven. De Defias-bende wil me nu dood hebben. Als ze me met jou zien, proberen ze me te doden.$b$bZeg het maar als jij en de vrienden die je kunt vinden klaar zijn om te gaan.",
+   "o": "Begeleid de Defias Traitor naar de geheime schuilplaats van de Defias Brotherhood. Laat de Defias Traitor je zien waar VanCleef en zijn mannen zich verstoppen. Ga daarna met die informatie terug naar Gryan Stoutmantle.",
+   "p": "Wat moet je van me? Ik ben een heel drukke man...",
+   "c": "Uitstekend, $N! Nu we weten waar VanCleef zich verstopt, is hij zo goed als van ons.",
+   "e": "Begeleid The Defias Traitor om te ontdekken waar VanCleef zich verstopt",
+   "g": [
+    [
+     "magere",
+     "scrawny, thin (mager)"
+    ],
+    [
+     "beschermen",
+     "to protect"
+    ],
+    [
+     "moet het maar doen",
+     "will have to do"
+    ],
+    [
+     "hoe het zit",
+     "how it works, the deal"
+    ],
+    [
+     "let op mijn rug",
+     "watch my back (letten op)"
+    ],
+    [
+     "schuilplaats",
+     "hideout"
+    ],
+    [
+     "dood hebben",
+     "to want dead"
+    ],
+    [
+     "Begeleid",
+     "escort (begeleiden)"
+    ],
+    [
+     "geheime",
+     "secret (geheim)"
+    ],
+    [
+     "drukke",
+     "busy (druk)"
+    ],
+    [
+     "Uitstekend",
+     "excellent"
+    ],
+    [
+     "zo goed als",
+     "as good as"
+    ]
+   ]
+  },
+  "152": {
+   "t": "De kust is niet veilig",
+   "d": "Je hebt vast alle scheepswrakken langs de kust gezien. The Great Sea is echt verraderlijk. De kust van Westfall moet veilig blijven. Als zeelieden de weg naar onze stranden vinden, moeten ze daar veilig zijn. Maar de murlocs maken problemen.$b$bDood 7 Tidehunters, 7 Warriors, 7 Oracles en 7 Coastrunners, dan zorg ik dat je een beloning krijgt.",
+   "o": "Dood 7 Tidehunters, 7 Warriors, 7 Oracles en 7 Coastrunners en ga terug naar Captain Grayson bij de Westfall Lighthouse.",
+   "p": "Dood 7 Tidehunters, 7 Warriors, 7 Oracles en 7 Coastrunners, dan zorg ik dat je een beloning krijgt.",
+   "c": "Goed gedaan, $N. Je hebt echt talent voor vechten. Dankzij jou is de kust van Westfall een veiliger plek.",
+   "g": [
+    [
+     "scheepswrakken",
+     "shipwrecks (scheepswrak)"
+    ],
+    [
+     "verraderlijk",
+     "treacherous"
+    ],
+    [
+     "zeelieden",
+     "sailors (zeeman)"
+    ],
+    [
+     "stranden",
+     "beaches (strand)"
+    ],
+    [
+     "problemen",
+     "trouble, problems (probleem)"
+    ],
+    [
+     "zorg ik dat",
+     "I'll see to it that (zorgen)"
+    ],
+    [
+     "talent",
+     "knack, talent"
+    ],
+    [
+     "Dankzij",
+     "thanks to"
+    ],
+    [
+     "veiliger",
+     "safer (veilig)"
+    ]
+   ]
+  },
+  "104": {
+   "t": "Het gevaar aan de kust",
+   "d": "Toen mijn leven op de rotsen eindigde, had ik geen idee wat er na de dood op me wachtte. De vuurtoren was die nacht donker, want Old Murk-Eye had de familie van de wachter weggejaagd. Ze kwamen terug en staken de vlam weer aan. Maar Old Murk-Eye dwong de zwakkere murlocs om nog een keer met hem de vuurtoren aan te vallen. De tweede keer had de familie minder geluk. Voor mijn ogen kwamen ze hulpeloos om.$b$bZie je Old Murk-Eye langs de kust? Dood hem dan en breng me een van zijn schubben. Dan krijg je een beloning van mij.",
+   "o": "Breng een schub van Old Murk-Eye naar Captain Grayson bij de Westfall Lighthouse.",
+   "p": "Heb je het gevaar dat Old Murk-Eye heet al vernietigd? Hij is gezien terwijl hij langs de kust van Westfall rondzwierf.$B$BKom terug bij mij als het smerige beest dood is.",
+   "c": "Dus die smerige heiden, Murk-Eye, is dood. Goed gedaan, $N. Door jouw handen is één leven tot rust gekomen, maar misschien zijn er veel meer gered. The Great Sea zit vol gevaren, maar vannacht is hij een klein beetje veiliger, dankzij jouw heldendaden.",
+   "g": [
+    [
+     "eindigde",
+     "ended (eindigen)"
+    ],
+    [
+     "vuurtoren",
+     "lighthouse"
+    ],
+    [
+     "wachter",
+     "keeper"
+    ],
+    [
+     "staken ... aan",
+     "lit (aansteken)"
+    ],
+    [
+     "dwong",
+     "forced, coerced (dwingen)"
+    ],
+    [
+     "zwakkere",
+     "weaker (zwak)"
+    ],
+    [
+     "aan te vallen",
+     "to attack (aanvallen)"
+    ],
+    [
+     "kwamen ... om",
+     "perished (omkomen)"
+    ],
+    [
+     "hulpeloos",
+     "helpless(ly)"
+    ],
+    [
+     "schubben",
+     "scales (schub)"
+    ],
+    [
+     "vernietigd",
+     "destroyed, laid waste (vernietigen)"
+    ],
+    [
+     "rondzwierf",
+     "roamed (rondzwerven)"
+    ],
+    [
+     "heiden",
+     "heathen"
+    ],
+    [
+     "tot rust gekomen",
+     "laid to rest (tot rust komen)"
+    ],
+    [
+     "heldendaden",
+     "heroics, heroic deeds (heldendaad)"
+    ]
+   ]
+  },
+  "865": {
+   "t": "Raptorhoorns",
+   "d": "De raptors van de Barrens zijn slimmer dan raptors in andere landen. En ik denk dat al die slimheid in hun hoorns zit! Als dat zo is, kan ik hun hoorns tot poeder malen. Daarmee maak ik dan \"slimme drankjes\". Die kan ik voor een fortuin verkopen!!!$B$BEn jij kunt me helpen. Zoek hele raptorhoorns van sunscale scytheclaws voor me. Die lopen rond in het zuiden van de Barrens, en in het noorden van de Barrens bij de grens met Ashenvale Forest.",
+   "o": "Verzamel 5 Intact Raptor Horns van Sunscale Scytheclaws en breng ze naar Mebok Mizzyrix in Ratchet.",
+   "p": "Heb je de hoorns, $N? Die dingen gaan me een fortuin opleveren!",
+   "c": "Geweldig, je hebt ze! Nu moet ik ze alleen nog fijnmalen en met wat wijn mengen, en...",
+   "g": [
+    [
+     "hoorns",
+     "horns (hoorn)"
+    ],
+    [
+     "slimmer",
+     "smarter (slim)"
+    ],
+    [
+     "slimheid",
+     "smarts, cleverness"
+    ],
+    [
+     "poeder",
+     "powder"
+    ],
+    [
+     "malen",
+     "to grind"
+    ],
+    [
+     "drankjes",
+     "drinks, potions (drankje)"
+    ],
+    [
+     "fortuin",
+     "fortune"
+    ],
+    [
+     "hele",
+     "whole, intact (heel)"
+    ],
+    [
+     "grens",
+     "border"
+    ],
+    [
+     "opleveren",
+     "to bring in, yield"
+    ],
+    [
+     "fijnmalen",
+     "to grind down"
+    ],
+    [
+     "mengen",
+     "to mix"
+    ]
+   ]
+  },
+  "1486": {
+   "t": "Huiden van deviate wezens",
+   "d": "Naralex zakte steeds dieper weg in zijn nachtmerrie. Toen kwam er onder de Barrens een vreemd soort beesten tevoorschijn, in de Wailing Caverns.$b$bDeze deviate wezens hebben vreemde eigenschappen, niet van deze wereld. Ze zijn kwaadaardig. Maar volgens mij kan hun bestaan hier in Kalimdor toch iets goeds opleveren. Ik denk dat hun huiden heel nuttig zijn bij het leerbewerken.$b$bDenk je dat je deze taak aankunt? Ga dan de grotten hieronder in en haal wat deviate huiden.",
+   "o": "Nalpak in de Wailing Caverns wil 20 Deviate Hides.",
+   "p": "Ik wil heel graag de huiden onderzoeken van de deviate wezens die deze grotten hebben overspoeld. Heb je er al een paar kunnen verzamelen, $c?",
+   "c": "Je inzet bij het verzamelen van deze huiden wordt niet vergeten, $N.$b$bDank je voor je toewijding.",
+   "g": [
+    [
+     "Huiden",
+     "hides (huid)"
+    ],
+    [
+     "zakte ... weg",
+     "descended, sank (wegzakken)"
+    ],
+    [
+     "nachtmerrie",
+     "nightmare"
+    ],
+    [
+     "kwam ... tevoorschijn",
+     "appeared, arose (tevoorschijn komen)"
+    ],
+    [
+     "eigenschappen",
+     "properties (eigenschap)"
+    ],
+    [
+     "kwaadaardig",
+     "evil"
+    ],
+    [
+     "bestaan",
+     "existence"
+    ],
+    [
+     "opleveren",
+     "to bring, yield"
+    ],
+    [
+     "nuttig",
+     "useful"
+    ],
+    [
+     "leerbewerken",
+     "leatherworking"
+    ],
+    [
+     "grotten",
+     "caves (grot)"
+    ],
+    [
+     "overspoeld",
+     "infested, overrun (overspoelen)"
+    ],
+    [
+     "inzet",
+     "effort"
+    ],
+    [
+     "toewijding",
+     "dedication"
+    ]
+   ]
+  },
+  "959": {
+   "t": "Problemen bij de haven",
+   "d": "Oeps!$b$bEr is een klein ongelukje gebeurd, zoals je ziet! De ochtendlading uit Booty Bay was enorm. Enorm, zeg ik je! Ik heb nog nooit zoveel kisten gezien. Nou, ik wilde het snel afhandelen, dus ik begon wat meer uit te laden dan ik aankon. En toen viel alles naar beneden.$b$bVoordat ik wist wat er gebeurde, zag ik die lastpak, Mad Magglish, wegrennen met een fles port van 99 jaar oud. Ik heb hem helemaal tot de Wailing Caverns achtervolgd. Daar ging ik echt niet naar binnen.$b$bMisschien ben jij dapper genoeg om hem te vinden?",
+   "o": "Crane Operator Bigglefuzz in Ratchet wil dat je de fles 99-Year-Old Port terughaalt van Mad Magglish. Die verstopt zich in de Wailing Caverns.",
+   "p": "De havenmeester zit me al op de huid sinds Mad Magglish ervandoor ging met die port van 99 jaar oud. Ik denk dat die fles een cadeau was voor Gazlowe, van niemand minder dan Baron Revilgaz zelf.$b$bBen je dapper en geduldig genoeg om Mad Magglish te zoeken en die port terug te halen? Dan zorg ik dat je een mooie beloning krijgt.",
+   "c": "Geweldig! En ik stond net op het punt om mijn baan te verliezen! Ik zorg dat Gazlowe dit cadeau meteen krijgt.$b$bDank je, $n. Mooi gedaan, zeg ik je!",
+   "g": [
+    [
+     "haven",
+     "docks, harbour"
+    ],
+    [
+     "ongelukje",
+     "mishap, little accident"
+    ],
+    [
+     "lading",
+     "cargo, shipment"
+    ],
+    [
+     "afhandelen",
+     "to deal with, expedite"
+    ],
+    [
+     "uit te laden",
+     "to unload (uitladen)"
+    ],
+    [
+     "aankon",
+     "could handle (aankunnen)"
+    ],
+    [
+     "lastpak",
+     "menace, nuisance"
+    ],
+    [
+     "achtervolgd",
+     "chased (achtervolgen)"
+    ],
+    [
+     "havenmeester",
+     "dockmaster"
+    ],
+    [
+     "zit me op de huid",
+     "is on my case (op de huid zitten)"
+    ],
+    [
+     "ervandoor ging",
+     "made off (ervandoor gaan)"
+    ],
+    [
+     "niemand minder dan",
+     "none other than"
+    ],
+    [
+     "geduldig",
+     "patient"
+    ],
+    [
+     "stond op het punt",
+     "was about to"
+    ],
+    [
+     "baan",
+     "job"
+    ]
+   ]
+  },
+  "1491": {
+   "t": "Slimme drankjes",
+   "d": "Oké, dus de raptorhoorns werkten niet zo goed. Maar dat geeft niet: niemand werd rijk bij de eerste poging! En trouwens, ik denk dat ik iets heb gevonden dat nog beter werkt in mijn slimme drankjes!$B$BEr bestaat een stof die Wailing Essence heet. Ik denk dat die de oorzaak is van de vreemde planten en dieren in de Barrens. Haal wat voor me, dan probeer ik het in mijn drankje!$B$BIk heb gehoord dat de essence zich verzamelt in spookachtige wezens in de Wailing Caverns, in het westen. Jaag op die wezens en verzamel de essence.",
+   "o": "Breng 6 porties Wailing Essence naar Mebok Mizzyrix in Ratchet.",
+   "p": "Waar is mijn Wailing Essence?",
+   "c": "Geweldig, je hebt het! Ik kan niet wachten om het te proberen. Dit gaat me een fortuin opleveren, dat weet ik gewoon!$B$BDank je, $N. Neem dit, en als ik rijk ben, stuur ik je meer, dat beloof ik!",
+   "g": [
+    [
+     "dat geeft niet",
+     "that's all right"
+    ],
+    [
+     "poging",
+     "try, attempt"
+    ],
+    [
+     "trouwens",
+     "besides, by the way"
+    ],
+    [
+     "stof",
+     "substance"
+    ],
+    [
+     "oorzaak",
+     "cause"
+    ],
+    [
+     "verzamelt zich",
+     "gathers (zich verzamelen)"
+    ],
+    [
+     "spookachtige",
+     "ghostly, ectoplasmic (spookachtig)"
+    ],
+    [
+     "Jaag op",
+     "hunt (jagen op)"
+    ],
+    [
+     "porties",
+     "portions (portie)"
+    ],
+    [
+     "fortuin",
+     "fortune"
+    ],
+    [
+     "opleveren",
+     "to bring in, yield"
+    ],
+    [
+     "beloof",
+     "promise (beloven)"
+    ]
+   ]
+  },
+  "1487": {
+   "t": "De deviate wezens uitroeien",
+   "d": "Naralex had een edel doel.$b$bOnze grote leider wilde de Emerald Dream binnengaan. Hij wilde helpen om dit harde land weer te laten groeien tot het weelderige bos dat het ooit was. Maar er ging iets vreselijk mis.$b$bDe droom van Naralex werd een nachtmerrie, en verdorven wezens gingen in de grotten wonen.$b$bSommige Disciples of Naralex proberen onze meester wakker te maken. Maar ik wil deze grotten bevrijden van de kwaadaardige beesten.$b$bTrotseer de grotten, $n, en roei de deviate wezens uit.",
+   "o": "Ebru in de Wailing Caverns wil dat je 7 Deviate Ravagers, 7 Deviate Vipers, 7 Deviate Shamblers en 7 Deviate Dreadfangs doodt.",
+   "p": "$n, wij, de Disciples of Naralex, hebben je hulp nodig. Onze meester zit gevangen in zijn verwrongen nachtmerrie, en we worden steeds met minder. We hebben niet genoeg krachten om de verdorven wezens te verslaan die nu door deze grotten spoken.$b$bIk smeek je: ga de grotten in en voer oorlog tegen de deviate wezens!",
+   "c": "Als Disciple of Naralex prijs ik je moed, $n.$b$bJe hulp bij het bevrijden van de grotten is de eerste stap in onze lange strijd. We willen de Barrens weer hersteld zien.$b$bDank je, en ik wens je voorspoed.",
+   "g": [
+    [
+     "uitroeien",
+     "to eradicate, wipe out"
+    ],
+    [
+     "edel",
+     "noble"
+    ],
+    [
+     "doel",
+     "goal"
+    ],
+    [
+     "weelderige",
+     "lush (weelderig)"
+    ],
+    [
+     "vreselijk mis",
+     "terribly wrong"
+    ],
+    [
+     "nachtmerrie",
+     "nightmare"
+    ],
+    [
+     "verdorven",
+     "corrupt"
+    ],
+    [
+     "bevrijden",
+     "to rid, free"
+    ],
+    [
+     "kwaadaardige",
+     "evil (kwaadaardig)"
+    ],
+    [
+     "Trotseer",
+     "brave, defy (trotseren)"
+    ],
+    [
+     "verwrongen",
+     "twisted"
+    ],
+    [
+     "krachten",
+     "forces (kracht)"
+    ],
+    [
+     "spoken",
+     "haunt (spoken)"
+    ],
+    [
+     "smeek",
+     "beg (smeken)"
+    ],
+    [
+     "prijs",
+     "commend, praise (prijzen)"
+    ],
+    [
+     "hersteld",
+     "restored (herstellen)"
+    ],
+    [
+     "voorspoed",
+     "prosperity"
+    ]
+   ]
+  },
+  "3366": {
+   "t": "De gloeiende scherf",
+   "d": "De scherf is fel groen. Hij is hard, maar net onder het oppervlak draait iets rond dat op rook lijkt. Je kunt het niet laten om diep in het kristal te staren. Tegelijk voel je dat er iets heel verontrustends aan is.$B$BMisschien moet je eens kijken of iemand in Ratchet je meer kan vertellen over deze vreemde scherf.",
+   "o": "Reis naar Ratchet om te ontdekken wat de Nightmare Shard betekent.",
+   "e": "Praat met iemand over de Nightmare Shard",
+   "g": [
+    [
+     "gloeiende",
+     "glowing (gloeien)"
+    ],
+    [
+     "scherf",
+     "shard"
+    ],
+    [
+     "fel",
+     "bright, brilliant"
+    ],
+    [
+     "oppervlak",
+     "surface"
+    ],
+    [
+     "draait ... rond",
+     "swirls (ronddraaien)"
+    ],
+    [
+     "rook",
+     "smoke"
+    ],
+    [
+     "Je kunt het niet laten",
+     "you can't help it"
+    ],
+    [
+     "staren",
+     "to stare"
+    ],
+    [
+     "Tegelijk",
+     "at the same time"
+    ],
+    [
+     "verontrustends",
+     "disturbing (iets verontrustends; verontrustend)"
+    ]
+   ]
+  },
+  "6981": {
+   "t": "De gloeiende scherf",
+   "d": "De scherf is fel groen. Hij is hard, maar net onder het oppervlak draait iets rond dat op rook lijkt. Je kunt het niet laten om diep in het kristal te staren. Tegelijk voel je dat er iets heel verontrustends aan is.$B$BMisschien moet je eens kijken of iemand in Ratchet je meer kan vertellen over deze vreemde scherf.",
+   "o": "Reis naar Ratchet en zoek iemand die je meer kan vertellen over de gloeiende scherf.$B$BBreng de scherf daarna naar de plek die je wordt gewezen.",
+   "p": "Hallo, $r. Wat kan ik voor je doen?",
+   "c": "O... zoiets heb ik nog nooit gezien...",
+   "e": "Praat met iemand in Ratchet over de Glowing Shard",
+   "g": [
+    [
+     "gloeiende",
+     "glowing (gloeien)"
+    ],
+    [
+     "scherf",
+     "shard"
+    ],
+    [
+     "fel",
+     "bright, brilliant"
+    ],
+    [
+     "oppervlak",
+     "surface"
+    ],
+    [
+     "draait ... rond",
+     "swirls (ronddraaien)"
+    ],
+    [
+     "rook",
+     "smoke"
+    ],
+    [
+     "Je kunt het niet laten",
+     "you can't help it"
+    ],
+    [
+     "staren",
+     "to stare"
+    ],
+    [
+     "verontrustends",
+     "disturbing (iets verontrustends; verontrustend)"
+    ],
+    [
+     "gewezen",
+     "directed, shown (wijzen)"
+    ],
+    [
+     "zoiets",
+     "something like this"
+    ]
+   ]
+  }
+ },
+ "words": {
+  "bandana's": "bandanas (bandana)",
+  "bewijst": "proves (bewijzen)",
+  "binnengaan": "to enter",
+  "bouwde": "built (bouwen)",
+  "branden": "to burn",
+  "brandend": "burning, lit (branden)",
+  "daarin": "in it, in there",
+  "defias-bende": "Defias gang (bende = gang)",
+  "dief": "thief",
+  "dient": "serve (dienen)",
+  "dieper": "deeper (diep)",
+  "ditzelfde": "this very, this same",
+  "droom": "dream",
+  "duwt": "push (duwen)",
+  "erover": "about it",
+  "flessen": "bottles, flasks (fles)",
+  "geschreven": "written (schrijven)",
+  "gestorven": "died (sterven)",
+  "gewerkt": "worked (werken)",
+  "geworpen": "cast, shed (werpen; licht werpen op = shed light on)",
+  "half": "half",
+  "heette": "was called (heten)",
+  "hieronder": "below, down here",
+  "hops": "hops (the item name used in the quest)",
+  "keek": "looked (kijken)",
+  "laden": "to load (uitladen = unload)",
+  "langzaam": "slowly",
+  "leidde": "led (leiden)",
+  "letten": "to pay attention (letten op = keep watch on)",
+  "lijn": "line",
+  "lof": "praise",
+  "man": "man",
+  "ochtendlading": "morning cargo (ochtend + lading)",
+  "oeps": "oops",
+  "olie": "oil",
+  "punt": "point (op het punt staan = be about to)",
+  "raptorhoorns": "raptor horns",
+  "rechte": "straight (recht)",
+  "rent": "runs (rennen)",
+  "roei": "(uitroeien = eradicate; roei ... uit)",
+  "schepen": "ships (schip)",
+  "schijnen": "to shine",
+  "schub": "scale (of a fish or reptile)",
+  "smaken": "to taste",
+  "staken": "lit, set (steken; aansteken = light)",
+  "stelen": "to steal",
+  "stierf": "died (sterven)",
+  "tekst": "text",
+  "terugkwam": "came back (terugkomen)",
+  "tevoorschijn": "(tevoorschijn komen = to appear)",
+  "tweede": "second",
+  "twintig": "twenty",
+  "uitgaat": "go out (uitgaan)",
+  "vannacht": "tonight",
+  "verklaart": "explains (verklaren)",
+  "verkopen": "to sell",
+  "verliet": "left (verlaten)",
+  "verzamelt": "gathers, collects (verzamelen)",
+  "verzet": "resists (zich verzetten)",
+  "viel": "fell (vallen)",
+  "volle": "full, rich (vol)",
+  "wegrennen": "run off (wegrennen)",
+  "werkten": "worked (werken)",
+  "westkust": "west coast",
+  "whisky": "whiskey",
+  "wijn": "wine",
+  "zakte": "sank (zakken; wegzakken = descend)",
+  "zand": "sand",
+  "zwem": "swim (zwemmen)"
+ },
+ "terms": {
+  "orcs": "orcs: green-skinned warrior race from the Warcraft world",
+  "goblins": "goblins: small, greedy, tech-loving race from the Warcraft world",
+  "raptors": "raptors: dinosaur-like predators in the Warcraft world"
+ }
+}
