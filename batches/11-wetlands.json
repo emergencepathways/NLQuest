@@ -1,0 +1,1387 @@
+{
+  "quests": {
+    "286": {
+      "t": "Breng het beeldje terug",
+      "d": "Je trekt het vat los uit de modder en maakt het open. Er zit een zilveren beeldje in, ingepakt in fijn stro. Het toont een jonge paladijn met lang haar. Hij houdt een hamer omhoog.$B$BDit moet de Menethil Statuette zijn! Breng het nu terug naar Karl Boran in Menethil Harbor.",
+      "o": "Breng de Menethil Statuette naar Karl Boran.",
+      "p": "Heb je het beeldje?",
+      "c": "De kapitein van de Blind Princess zal opgelucht zijn als hij hoort dat deze kostbare lading terug is. Je hebt deze betaling voor je diensten echt verdiend.$B$BHet is fijn om betrouwbare mensen zoals jij te zien, vooral in moeilijke tijden zoals deze.",
+      "g": [
+        [
+          "vat",
+          "barrel"
+        ],
+        [
+          "modder",
+          "mud"
+        ],
+        [
+          "beeldje",
+          "figurine, statuette"
+        ],
+        [
+          "ingepakt",
+          "packed (inpakken)"
+        ],
+        [
+          "stro",
+          "straw"
+        ],
+        [
+          "omhoog",
+          "up, upwards"
+        ],
+        [
+          "opgelucht",
+          "relieved"
+        ],
+        [
+          "kostbare",
+          "precious (kostbaar)"
+        ],
+        [
+          "lading",
+          "cargo, load"
+        ],
+        [
+          "verdiend",
+          "earned (verdienen)"
+        ],
+        [
+          "betrouwbare",
+          "dependable, reliable (betrouwbaar)"
+        ]
+      ]
+    },
+    "472": {
+      "t": "De val van Dun Modr",
+      "d": "Dun Modr is gevallen voor de Dark Iron Dwarves!$b$bMijn wonden zijn ernstig, $c. Bijna het hele regiment is gedood! De boeven van de Dark Irons vielen ons aan voordat we na de hinderlaag bij de Thandol Span weer bij elkaar konden komen.$b$bOnze leider, Longbraid, blies op de hoorn voor de terugtocht. Toen we de stad verlieten, kreeg ik een verdwaalde bijl in mijn rug. Alles werd zwart.$b$bIk werd hier in Menethil wakker, maar ik ben bang voor mijn medesoldaten. Er brandt nog steeds hoop in mij. Misschien leeft Longbraid nog! Kijk of je hem kunt vinden bij Dun Modr, $r!",
+      "o": "Zoek Longbraid bij het stadje Dun Modr.",
+      "c": "Welke dappere $C stuurt bericht uit Menethil? Ah, $N noemen ze je.$b$bJe brengt hoop in een hopeloze situatie. Het is echt goed nieuws dat de jonge Harlo het heeft overleefd. Toen hij vluchtte, raakte hij zwaar gewond. We hadden maar weinig tijd om hem weg te sturen, op de rug van het enige paard van het regiment dat nog leefde.$b$bMaar nu zitten we in een gevaarlijke situatie. Dun Modr is gevallen, en we zijn nog maar een schaduw van het grote regiment dat we vroeger waren.",
+      "g": [
+        [
+          "wonden",
+          "wounds (wond)"
+        ],
+        [
+          "ernstig",
+          "serious, grave"
+        ],
+        [
+          "boeven",
+          "thugs, villains (boef)"
+        ],
+        [
+          "hinderlaag",
+          "ambush"
+        ],
+        [
+          "terugtocht",
+          "retreat"
+        ],
+        [
+          "verdwaalde",
+          "stray (verdwaald)"
+        ],
+        [
+          "bijl",
+          "axe"
+        ],
+        [
+          "medesoldaten",
+          "fellow soldiers (medesoldaat)"
+        ],
+        [
+          "hopeloze",
+          "hopeless (hopeloos)"
+        ],
+        [
+          "overleefd",
+          "survived (overleven)"
+        ],
+        [
+          "vluchtte",
+          "fled (vluchten)"
+        ],
+        [
+          "gewond",
+          "wounded"
+        ],
+        [
+          "schaduw",
+          "shadow"
+        ]
+      ]
+    },
+    "275": {
+      "t": "Blaren op het land",
+      "d": "Ik weet niet waarom, maar er groeit een ontsteking in de Wetlands. De Fen Creepers zijn opgestaan. Ze zijn zieke blaren vol koorts op het land. Om de koorts te laten zakken, moeten ze gedood worden. Dan kunnen ze weer wegzakken in de moerassen.$B$BDe Fen Creepers sloffen rond tussen de waterwegen van de Wetlands.",
+      "o": "Dood 12 Fen Creepers en ga dan terug naar Rethiel the Greenwarden in de Wetlands.",
+      "p": "De Wetlands huilen nog steeds, en de Fen Creepers zijn nog steeds woedend. Kom terug als je taak klaar is.",
+      "c": "Door jouw inzet is dit land tot rust gekomen. Daarom schenk ik je een gunst.",
+      "g": [
+        [
+          "blaren",
+          "blisters (blaar)"
+        ],
+        [
+          "ontsteking",
+          "infection, festering"
+        ],
+        [
+          "opgestaan",
+          "risen (opstaan)"
+        ],
+        [
+          "koorts",
+          "fever"
+        ],
+        [
+          "laten zakken",
+          "to bring down (fever)"
+        ],
+        [
+          "wegzakken",
+          "to sink away"
+        ],
+        [
+          "moerassen",
+          "marshes (moeras)"
+        ],
+        [
+          "sloffen",
+          "shamble, shuffle (sloffen)"
+        ],
+        [
+          "waterwegen",
+          "waterways (waterweg)"
+        ],
+        [
+          "woedend",
+          "furious, raging"
+        ],
+        [
+          "inzet",
+          "effort, dedication"
+        ],
+        [
+          "schenk",
+          "grant, give (schenken)"
+        ],
+        [
+          "gunst",
+          "favour, boon"
+        ]
+      ]
+    },
+    "471": {
+      "t": "De taken van de leerling",
+      "d": "Ik stuurde mijn leerling de moerassen in. Hij moest een paar van onze beroemde reuzenkrokolisken van de Wetlands villen. Toen hij niet terugkwam, ging ik hem zoeken... Laten we zeggen dat het geen mooi gezicht was.$b$bDe vroedvrouw zegt dat hij het misschien haalt, maar intussen heb ik nog steeds mijn huiden nodig!$b$b...Als je nog een paar van die beesten wilt doden, heb ik daar niets op tegen, na wat ze gedaan hebben. Je vindt de krokolisken in het noorden langs de kust, voorbij de hutjes van de murlocs.",
+      "o": "Verzamel 6 Giant Crocolisk Skins en breng ze naar James Halloran in Menethil Harbor.",
+      "p": "Mijn leerling is als een zoon voor mij. Het wordt moeilijk voor hem om te leven met maar één been.$b$bAh, $N, hoe gaat het? Heb je mijn huiden?",
+      "c": "Hmm... Je hebt zeker geen zin om mijn leerling te worden?$b$bHa! Nee, ik maak maar een grapje. Om te beginnen ben je veel te oud. En trouwens, zo te zien heb je andere doelen in het leven. Toch zijn dit mooie huiden die je hebt gehaald, en ik kan ze goed gebruiken.",
+      "g": [
+        [
+          "leerling",
+          "apprentice, student"
+        ],
+        [
+          "beroemde",
+          "famous (beroemd)"
+        ],
+        [
+          "villen",
+          "to skin"
+        ],
+        [
+          "geen mooi gezicht",
+          "not a pretty sight"
+        ],
+        [
+          "vroedvrouw",
+          "midwife"
+        ],
+        [
+          "het misschien haalt",
+          "might pull through (halen)"
+        ],
+        [
+          "intussen",
+          "in the meantime"
+        ],
+        [
+          "huiden",
+          "skins, hides (huid)"
+        ],
+        [
+          "heb ik daar niets op tegen",
+          "I wouldn't be opposed"
+        ],
+        [
+          "hutjes",
+          "hovels, little huts (hutje)"
+        ],
+        [
+          "grapje",
+          "joke"
+        ],
+        [
+          "trouwens",
+          "besides, by the way"
+        ],
+        [
+          "zo te zien",
+          "from the looks of it"
+        ]
+      ]
+    },
+    "288": {
+      "t": "De Derde Vloot",
+      "d": "Ik was ooit eerste stuurman op de Wave Mistress, een linieschip van de Derde Vloot van Kul Tiras. De Gedoemde Vloot. Gedoemd, want op haar laatste reis werd de vloot aangevallen door rode draken. Draken die bestuurd werden door orcs!$B$BWe maakten geen kans tegen dat drakenvuur... en onze vloot werd verbrand en zonk hier voor de kust. Ik ben de enige overlevende van die arme schepen...$B$B...Oh, mijn hoofd bonkt en dreunt! Ik heb een vers drankje nodig als ik deze kater de baas wil worden en mijn verhaal wil afmaken.",
+      "o": "Koop een Flagon of Mead voor First Mate Fitzsimmons.",
+      "p": "Oh, ik heb zo'n dorst! Wil je niet een drankje kopen voor deze arme, zielige dwaas?",
+      "c": "Ah! Dat doet goed, en het maakt de tong los. Bedankt, maat!",
+      "g": [
+        [
+          "vloot",
+          "fleet"
+        ],
+        [
+          "stuurman",
+          "mate (on a ship)"
+        ],
+        [
+          "linieschip",
+          "ship of the line"
+        ],
+        [
+          "gedoemd",
+          "doomed"
+        ],
+        [
+          "bestuurd",
+          "controlled, steered (besturen)"
+        ],
+        [
+          "zonk",
+          "sank (zinken)"
+        ],
+        [
+          "overlevende",
+          "survivor"
+        ],
+        [
+          "bonkt",
+          "pounds (bonken)"
+        ],
+        [
+          "dreunt",
+          "hammers, booms (dreunen)"
+        ],
+        [
+          "kater",
+          "hangover"
+        ],
+        [
+          "de baas wil worden",
+          "want to get a handle on (de baas worden)"
+        ],
+        [
+          "zielige",
+          "pathetic (zielig)"
+        ],
+        [
+          "dwaas",
+          "fool"
+        ],
+        [
+          "maakt de tong los",
+          "loosens the tongue"
+        ]
+      ]
+    },
+    "295": {
+      "t": "De wraak van Ormer",
+      "d": "Nu is het tijd om die vreselijke raptors echt spijt te laten krijgen van hun bloeddorst. Hier beneden zijn heel veel Mottled Scytheclaws en Mottled Razormaws. Laat die rotbeesten boeten: dood er van elk 10!",
+      "o": "Ormer Ironbraid wil dat je 10 raptors van de soort Mottled Scytheclaw en 10 van de soort Mottled Razormaw doodt. Ga daarna terug naar hem bij de Whelgar Excavation Site.",
+      "p": "Ik wil dat die Mottled Scytheclaws en Mottled Razormaws boeten voor wat ze gedaan hebben. Heb je er al van elk 10 gedood?",
+      "c": "Je hebt die raptors prima opgeruimd, $N!",
+      "g": [
+        [
+          "wraak",
+          "revenge"
+        ],
+        [
+          "vreselijke",
+          "dreaded, terrible (vreselijk)"
+        ],
+        [
+          "spijt",
+          "regret"
+        ],
+        [
+          "bloeddorst",
+          "bloodthirst"
+        ],
+        [
+          "beneden",
+          "down below"
+        ],
+        [
+          "rotbeesten",
+          "rotten creatures (rotbeest)"
+        ],
+        [
+          "boeten",
+          "to pay (for a crime)"
+        ],
+        [
+          "opgeruimd",
+          "cleared out (opruimen)"
+        ]
+      ]
+    },
+    "299": {
+      "t": "Het verleden opgraven",
+      "d": "Vlak voor de invasie vond ik een grote stenen tafel, de Goaz Stone. De vertaalde tekst breekt op 4 plaatsen af. De tekst spreekt over een \"goddelijk plan\" en een \"gedoemde profetie\".$b$bIk ben bang dat we bijna geen tijd meer hebben. Ik ben te oud om naar beneden te gaan en die beesten te trotseren. Maar jij bent sterk.$b$bDoorzoek de opgravingsplek en vind de 4 ontbrekende stukken van de stenen tafel: Ados, Modr, Golm en Neru. Zoek ernaar in oude voorwerpen of waar de grond los is. Breng ze naar mij, dan kan ik beginnen het mysterie op te lossen!",
+      "o": "Prospector Whelgar wil dat je de opgravingsplek doorzoekt naar de 4 ontbrekende stukken van de stenen tafel: Ados, Modr, Golm en Neru.",
+      "p": "Heb je de vier stukken al gevonden, $N? Ados, Modr, Golm en Neru...",
+      "c": "Ah, de Goaz Stone is compleet! Goed werk, $N. Echt heel goed werk. Nu kan ik verder met de lastige vertaling van dit Titanenschrift. Ik kan nu al nieuwe woorden lezen! Hmm... hier staat: \"Oude Goden... Geketend onder het land.\" Dit is het begin van iets groots.",
+      "g": [
+        [
+          "opgraven",
+          "to dig up, uncover"
+        ],
+        [
+          "stenen tafel",
+          "stone tablet"
+        ],
+        [
+          "vertaalde",
+          "translated (vertalen)"
+        ],
+        [
+          "breekt",
+          "breaks (afbreken: break off)"
+        ],
+        [
+          "goddelijk",
+          "divine"
+        ],
+        [
+          "profetie",
+          "prophecy"
+        ],
+        [
+          "trotseren",
+          "to brave, defy"
+        ],
+        [
+          "doorzoek",
+          "scour, search (doorzoeken)"
+        ],
+        [
+          "opgravingsplek",
+          "excavation site"
+        ],
+        [
+          "ontbrekende",
+          "missing (ontbreken)"
+        ],
+        [
+          "voorwerpen",
+          "objects, artifacts (voorwerp)"
+        ],
+        [
+          "lastige",
+          "tricky, delicate (lastig)"
+        ],
+        [
+          "Titanenschrift",
+          "Titan script"
+        ],
+        [
+          "geketend",
+          "chained (ketenen)"
+        ]
+      ]
+    },
+    "464": {
+      "t": "Oorlogsbanieren",
+      "d": "De orcclan Dragonmaw was aan het einde van de Tweede Oorlog bijna helemaal vernietigd, nadat ze de controle over hun tamme rode draken verloren. De draken waren niet erg blij met hun oude meesters, en ze joegen fel op de Dragonmaws. De weinigen die over waren, vluchtten weg uit Grim Batol, de bergen in ten oosten van Whelgar's Excavation.$B$BNu zijn ze weer sterker geworden, en ze hebben een kamp ten noordoosten van Menethil.$B$BWe willen dat je dat kamp aanvalt. Verzamel hun oorlogsbanieren en breng ze naar mij als bewijs.",
+      "o": "Breng 8 Dragonmaw War Banners naar Captain Stoutfist.",
+      "p": "Heb je het kamp van de Dragonmaw aangevallen?",
+      "c": "Goed gevochten, $N. De Dragonmaws zijn niet meer zo gevaarlijk als toen ze draken hadden, maar het zijn nog steeds felle tegenstanders.$b$bDe Dragonmaws worden geleid door Nek'rosh, de zoon van Nekros. Nekros was jaren geleden het hoofd van de Dragonmaws. Nekros gebruikte sterke magie om de rode draken te temmen, maar toen die magie hem in de steek liet... waren de draken niet blij.$b$bNekros werd gedood, en zijn zoon heeft wraak gezworen op de draken die zijn vader hebben gedood.",
+      "g": [
+        [
+          "oorlogsbanieren",
+          "war banners (oorlogsbanier)"
+        ],
+        [
+          "vernietigd",
+          "destroyed (vernietigen)"
+        ],
+        [
+          "tamme",
+          "tame (tam)"
+        ],
+        [
+          "joegen",
+          "hunted (jagen)"
+        ],
+        [
+          "fel",
+          "fierce, fiercely"
+        ],
+        [
+          "kamp",
+          "camp, encampment"
+        ],
+        [
+          "bewijs",
+          "proof"
+        ],
+        [
+          "tegenstanders",
+          "opponents (tegenstander)"
+        ],
+        [
+          "temmen",
+          "to tame"
+        ],
+        [
+          "in de steek liet",
+          "failed, let down (in de steek laten)"
+        ],
+        [
+          "gezworen",
+          "sworn, vowed (zweren)"
+        ]
+      ]
+    },
+    "473": {
+      "t": "Meld je bij Captain Stoutfist",
+      "d": "$N. De orcclan Dragonmaw laat zijn kracht niet alleen in Algaz zien. Captain Stoutfist wil spreken met iedereen die wil helpen tegen deze orcs. Hij is binnen in de burcht, in de oorlogskamer.",
+      "o": "Spreek met Captain Stoutfist.",
+      "c": "$N. Valstag heeft me verteld over je eerdere succes tegen de Dragonmaw Orcs bij Dun Algaz. Je bent een $R van waarde.$b$bEn ik heb een taak voor je.",
+      "g": [
+        [
+          "meld je",
+          "report (zich melden)"
+        ],
+        [
+          "kracht",
+          "strength"
+        ],
+        [
+          "burcht",
+          "keep, castle"
+        ],
+        [
+          "oorlogskamer",
+          "war room"
+        ],
+        [
+          "eerdere",
+          "earlier, past (eerder)"
+        ],
+        [
+          "van waarde",
+          "of worth"
+        ]
+      ]
+    },
+    "289": {
+      "t": "De vervloekte bemanning",
+      "d": "<Opgekikkerd gaat Fitzsimmons verder met zijn verhaal...>$B$BIk ben de enige overlevende van de rampzalige Derde Vloot van Kul Tiras, die in het noorden voor de kust is vergaan. Maar ik ben dan wel het enige lid van de vloot dat nog ademt, ik ben niet de enige die nog rondloopt! Want op een van onze schepen was een grote en vreselijke schat verborgen. De griezelige kracht ervan houdt de zielen van mijn broeders gevangen in de rottende rompen van de schepen.$B$BMaar als je een paar van mijn broeders kunt bevrijden, kun je misschien hun vloek breken.",
+      "o": "Dood 13 Cursed Sailors, 5 Cursed Marines en First Mate Snellig. Breng Snellig's Snuffbox naar First Mate Fitzsimmons in Menethil Harbor.",
+      "p": "In mijn dromen hoor ik soms het gekreun van mijn gedoemde broeders! Alsjeblieft, beste meneer, bevrijd ze uit hun boeien en laat hun geschreeuw stoppen.",
+      "c": "Mijn dank, $N. En ook mijn vervloekte broeders zijn je dankbaar.",
+      "g": [
+        [
+          "bemanning",
+          "crew"
+        ],
+        [
+          "opgekikkerd",
+          "bolstered, perked up (opkikkeren)"
+        ],
+        [
+          "rampzalige",
+          "ill-fated (rampzalig)"
+        ],
+        [
+          "vergaan",
+          "wrecked, perished"
+        ],
+        [
+          "ademt",
+          "breathes (ademen)"
+        ],
+        [
+          "verborgen",
+          "hidden (verbergen)"
+        ],
+        [
+          "griezelige",
+          "eerie (griezelig)"
+        ],
+        [
+          "zielen",
+          "souls (ziel)"
+        ],
+        [
+          "broeders",
+          "brothers, brethren (broeder)"
+        ],
+        [
+          "rottende",
+          "rotting (rotten)"
+        ],
+        [
+          "rompen",
+          "hulls (romp)"
+        ],
+        [
+          "vloek",
+          "curse"
+        ],
+        [
+          "gekreun",
+          "moaning"
+        ],
+        [
+          "boeien",
+          "bonds, chains (boei)"
+        ]
+      ]
+    },
+    "296": {
+      "t": "De wraak van Ormer",
+      "d": "Terwijl jij daar beneden was, zag ik dat een van die beesten anders was dan de rest. Hij was groter en dreigender. Ik wed dat hij de anderen hierheen heeft geleid om het graafwerk te verstoren.$b$bIk vraag je nu om een laatste taak, $N. Zorg dat er gerechtigheid komt voor wat Sarltooth heeft gedaan. En omdat zijn misdaden zo zwaar zijn, betekent gerechtigheid hier de dood! Breng me een van zijn klauwen als bewijs dat hij dood is.",
+      "o": "Ormer Ironbraid bij de Whelgar Excavation Site wil dat je Sarltooth doodt. Ga terug naar hem met een van zijn klauwen als de taak klaar is.",
+      "p": "Is Sarltooth dood? Heb je de gevallenen hun eer teruggegeven?",
+      "c": "Dank je, $N. Wat je hier hebt gedaan, wordt niet vergeten. Veel onschuldige dwergen zijn op deze plek gestorven, terwijl ze gewoon hun werk deden. Door de wraak die jij hebt genomen op die kwaadaardige beesten, denken ze voortaan wel twee keer na voordat ze de onderdanen van King Magni weer aanvallen.",
+      "g": [
+        [
+          "dreigender",
+          "more menacing (dreigend)"
+        ],
+        [
+          "wed",
+          "bet (wedden)"
+        ],
+        [
+          "graafwerk",
+          "dig, digging work"
+        ],
+        [
+          "verstoren",
+          "to disrupt"
+        ],
+        [
+          "gerechtigheid",
+          "justice"
+        ],
+        [
+          "misdaden",
+          "crimes (misdaad)"
+        ],
+        [
+          "klauwen",
+          "talons, claws (klauw)"
+        ],
+        [
+          "gevallenen",
+          "the fallen"
+        ],
+        [
+          "onschuldige",
+          "innocent (onschuldig)"
+        ],
+        [
+          "kwaadaardige",
+          "evil, malicious (kwaadaardig)"
+        ],
+        [
+          "voortaan",
+          "from now on"
+        ],
+        [
+          "onderdanen",
+          "subjects (onderdaan)"
+        ]
+      ]
+    },
+    "290": {
+      "t": "De vloek opheffen",
+      "d": "Om de vloek te breken en al mijn broeders te bevrijden, moet het... ding... dat op mijn schip verstopt is, worden opgehaald en gereinigd! Ik weet niet wat het was, maar ik weet wel dat het veilig was opgeborgen in de geldkist van het schip. Captain Halyndor had daar de baas over.$B$BIk zie mijn oude kapitein nog steeds in mijn dromen. Ik weet dat hij rondloopt op mijn gedoemde schip, de Intrepid. Haal de sleutel bij hem, en open daarmee de geldkist van de Intrepid.$B$BBreng het vervloekte ding daarna naar de priester Glorin Steelbrow in de stad.",
+      "o": "Haal de Intrepid Strongbox Key bij Captain Halyndor.$B$BOpen met de sleutel de Intrepid's Locked Strongbox.",
+      "p": "Deze kist zit stevig op slot.",
+      "c": "De sleutel is verroest, maar hij past precies in het slot.",
+      "g": [
+        [
+          "opheffen",
+          "to lift, remove"
+        ],
+        [
+          "verstopt",
+          "hidden, stowed (verstoppen)"
+        ],
+        [
+          "opgehaald",
+          "retrieved (ophalen)"
+        ],
+        [
+          "gereinigd",
+          "cleansed (reinigen)"
+        ],
+        [
+          "opgeborgen",
+          "stored (opbergen)"
+        ],
+        [
+          "geldkist",
+          "strongbox"
+        ],
+        [
+          "de baas",
+          "in charge (de baas zijn over)"
+        ],
+        [
+          "stevig",
+          "securely, firmly"
+        ],
+        [
+          "op slot",
+          "locked"
+        ],
+        [
+          "verroest",
+          "rusted"
+        ],
+        [
+          "precies",
+          "exactly, neatly"
+        ]
+      ]
+    },
+    "292": {
+      "t": "Het Eye of Paleth",
+      "d": "Als je de kist opent, zie je een zwartgeblakerde bol die klopt met een griezelig licht. Het is de schat waar Fitzsimmons over sprak: een Cursed Eye of Paleth.$B$BBreng het Cursed Eye of Paleth naar de dwergenpriester Glorin Steelbrow in Menethil Harbor. Vraag hem hoe je de vloek van het Eye kunt verwijderen.",
+      "o": "Breng het Cursed Eye of Paleth naar Glorin Steelbrow.",
+      "p": "Heeft die dronkaard Fitzsimmons je naar mij gestuurd? Nou, zeg maar tegen hem dat ik geen extra bier heb. Hij moet maar bij iemand anders gaan bedelen!",
+      "c": "Een Eye of Paleth? Geweldig! Hmm... er is iets mis met dit exemplaar. Heb je het gevonden op een van die scheepswrakken? Nou, dat verklaart het! Maar... ik wist niet dat ze zo'n Eye bij de Derde Vloot hadden...$B$BGeen wonder dat Fitzsimmons zo bang was. Een Cursed Eye of Paleth is geen reden om vrolijk te zijn.",
+      "g": [
+        [
+          "zwartgeblakerde",
+          "blackened (zwartgeblakerd)"
+        ],
+        [
+          "bol",
+          "orb, sphere"
+        ],
+        [
+          "klopt",
+          "pulses, beats (kloppen)"
+        ],
+        [
+          "dwergenpriester",
+          "dwarven priest"
+        ],
+        [
+          "verwijderen",
+          "to remove"
+        ],
+        [
+          "dronkaard",
+          "drunk, drunkard"
+        ],
+        [
+          "bedelen",
+          "to beg, panhandle"
+        ],
+        [
+          "exemplaar",
+          "specimen, one (of a kind)"
+        ],
+        [
+          "scheepswrakken",
+          "shipwrecks (scheepswrak)"
+        ],
+        [
+          "verklaart",
+          "explains (verklaren)"
+        ],
+        [
+          "geen wonder",
+          "no wonder"
+        ]
+      ]
+    },
+    "293": {
+      "t": "Het Eye reinigen",
+      "d": "Ik kan de vloek niet van het Eye of Paleth halen. De Eyes zijn gemaakt door menselijke priesters, dus je moet naar Stormwind om iemand te vinden die je kan helpen. Spreek met Archbishop Benedictus. Hij is het hoofd van de Cathedral of Light in Stormwind. Hij kan helpen.$B$BIk hoop het, voor jou.",
+      "o": "Breng het Cursed Eye of Paleth naar Archbishop Benedictus. Benedictus is in de Cathedral of Light, in de stad Stormwind.",
+      "p": "Wat is dat voor een bol die je hebt? Hij ziet er... besmeurd uit.",
+      "c": "Een Eye of Paleth. Maar dit exemplaar heeft veel verdriet gezien... het moet getuige zijn geweest van een vreselijke, vreselijke tragedie.$b$bLaat mij het reinigen, want de Eyes zijn gemaakt om fel te schijnen, en hun krachten kunnen behoorlijk gevaarlijk zijn als ze zo besmet zijn als dit exemplaar.",
+      "g": [
+        [
+          "reinigen",
+          "to cleanse"
+        ],
+        [
+          "menselijke",
+          "human (menselijk)"
+        ],
+        [
+          "besmeurd",
+          "soiled, smeared"
+        ],
+        [
+          "verdriet",
+          "sorrow"
+        ],
+        [
+          "getuige",
+          "witness"
+        ],
+        [
+          "tragedie",
+          "tragedy"
+        ],
+        [
+          "schijnen",
+          "to shine"
+        ],
+        [
+          "behoorlijk",
+          "quite, fairly"
+        ],
+        [
+          "besmet",
+          "tainted, infected"
+        ]
+      ]
+    },
+    "303": {
+      "t": "De oorlog met de Dark Irons",
+      "d": "Er woedt oorlog, thuis én ver weg. Terwijl machtige dwergensoldaten in verre gebieden hun leven geven voor de Alliance, worden onze eigen landen het slachtoffer van de slechte daden van de Dark Iron Dwarves. Ze hebben de Thandol Span verwoest. Kort daarna viel Dun Modr.$b$bWe willen dat je kracht verzamelt en het front terugduwt. Als je 15 Dark Iron Dwarves, 5 Tunnelers, 5 Saboteurs en 5 Demolitionists kunt doden, komt de reserve misschien op tijd om de opmars af te maken.$b$bSchiet nu op!",
+      "o": "Motley Garmason bij Dun Modr wil dat je 15 Dark Iron Dwarves, 5 Dark Iron Tunnelers, 5 Dark Iron Saboteurs en 5 Dark Iron Demolitionists doodt.",
+      "p": "Roggo krijgt geen contact met de reservetroepen. We moeten druk zetten op dat kamp van de Dark Irons, $c. Ga nu terug naar buiten en doe je plicht voor King Magni!",
+      "c": "Je hebt je bevelen goed uitgevoerd, $C. Je hebt bewezen dat je een dappere soldaat bent en een trouwe dienaar van King Magni, en daarvoor salueer ik voor je! Door de druk die jij op het kamp van de Dark Irons hebt gezet, hebben we nu een kans om ze voorgoed van ons land te verdrijven... als die verdomde reserve maar eens kwam...",
+      "g": [
+        [
+          "woedt",
+          "rages (woeden)"
+        ],
+        [
+          "verre",
+          "far-off (ver)"
+        ],
+        [
+          "gebieden",
+          "territories, areas (gebied)"
+        ],
+        [
+          "slachtoffer",
+          "victim, prey"
+        ],
+        [
+          "daden",
+          "deeds (daad)"
+        ],
+        [
+          "verwoest",
+          "laid waste, destroyed (verwoesten)"
+        ],
+        [
+          "terugduwt",
+          "pushes back (terugduwen)"
+        ],
+        [
+          "opmars",
+          "advance, drive"
+        ],
+        [
+          "reservetroepen",
+          "reserve forces"
+        ],
+        [
+          "plicht",
+          "duty"
+        ],
+        [
+          "bevelen",
+          "orders (bevel)"
+        ],
+        [
+          "uitgevoerd",
+          "carried out (uitvoeren)"
+        ],
+        [
+          "dienaar",
+          "servant"
+        ],
+        [
+          "salueer",
+          "salute (salueren)"
+        ],
+        [
+          "verdrijven",
+          "to drive off"
+        ]
+      ]
+    },
+    "647": {
+      "t": "De Moonshine van MacKreel",
+      "d": "Ik heb gisteravond flink wat van de ouwe Moonshine gedronken! Longbraid zou me de kop afhakken als hij wist dat ik tijdens mijn wacht ben flauwgevallen.$b$bMijn hoofd doet vreselijk pijn. Het voelde alsof een hele brigade belegeringsmachines over me heen reed, met al dat gedreun.$b$bO jee, kijk eens hoe laat het is! Ik heb Brewmeister Bilger in Southshore beloofd dat ik mijn schuld bij hem zou afbetalen met wat Moonshine.$b$bMaar ik heb nog maar 15 minuten voordat ik te laat ben! Wil je deze partij naar hem brengen? En schiet op!",
+      "o": "Breng MacKreel's Moonshine naar Brewmeister Bilger in Southshore.",
+      "p": "Wat is er voor nieuws, $R?",
+      "c": "Ah, er gaat niets boven de Moonshine van Foggy MacKreel om je op te warmen op een frisse dag! En ik dacht nog dat die kleine rakker weer te laat zou zijn met zijn rekeningen. Bedankt, vriend! Heel erg bedankt!",
+      "g": [
+        [
+          "flink wat",
+          "quite a bit"
+        ],
+        [
+          "ouwe",
+          "old (informal, oud)"
+        ],
+        [
+          "de kop afhakken",
+          "have my head (chop off the head)"
+        ],
+        [
+          "wacht",
+          "watch, guard duty"
+        ],
+        [
+          "flauwgevallen",
+          "passed out (flauwvallen)"
+        ],
+        [
+          "belegeringsmachines",
+          "siege engines"
+        ],
+        [
+          "gedreun",
+          "rumbling"
+        ],
+        [
+          "schuld",
+          "debt"
+        ],
+        [
+          "afbetalen",
+          "to pay off, repay"
+        ],
+        [
+          "partij",
+          "batch"
+        ],
+        [
+          "er gaat niets boven",
+          "there's nothing like"
+        ],
+        [
+          "rakker",
+          "rascal, little bugger"
+        ],
+        [
+          "rekeningen",
+          "bills (rekening)"
+        ]
+      ]
+    },
+    "465": {
+      "t": "De list van Nek'rosh",
+      "d": "Terwijl jij tegen de Dragonmaws vocht, ontdekten wij meer van hun plannen.$B$BNek'rosh heeft katapulten gebouwd en wil Menethil belegeren! En door de gevechten in Dun Algaz kunnen er in feite geen versterkingen naar ons komen!$B$BJe moet die katapulten vernietigen. Ze staan in het kamp van de Dragonmaw.$B$BHier, neem dit tondel. Vecht je een weg naar de katapulten en steek ze aan met het tondel.$B$BEn als je dat gedaan hebt, zoek en dood dan Nek'rosh. We moeten dit beest van de Dragonmaw neerhalen... bij zijn nek.",
+      "o": "Vernietig de katapulten van de Dragonmaw.",
+      "p": "De eerste katapult staat voor je. Steek je hem in brand?",
+      "c": "Je legt wat tondel op de katapult en slaat er een vonk op.$B$BEr laaien vlammen op, en het vuur verspreidt zich snel!",
+      "g": [
+        [
+          "list",
+          "gambit, trick"
+        ],
+        [
+          "katapulten",
+          "catapults (katapult)"
+        ],
+        [
+          "belegeren",
+          "to lay siege to"
+        ],
+        [
+          "in feite",
+          "effectively, in fact"
+        ],
+        [
+          "versterkingen",
+          "reinforcements (versterking)"
+        ],
+        [
+          "tondel",
+          "tinder"
+        ],
+        [
+          "steek",
+          "light (aansteken: set on fire)"
+        ],
+        [
+          "neerhalen",
+          "to cut down, bring down"
+        ],
+        [
+          "in brand",
+          "on fire, aflame"
+        ],
+        [
+          "vonk",
+          "spark"
+        ],
+        [
+          "laaien",
+          "flare (oplaaien: flare up)"
+        ],
+        [
+          "verspreidt",
+          "spreads (verspreiden)"
+        ]
+      ]
+    },
+    "631": {
+      "t": "De Thandol Span",
+      "d": "Een enorme explosie bulderde door de heuvels. Het was verschrikkelijk, zeg ik je!$b$bGoede soldaten zijn gestorven toen ze de Thandol Span verdedigden. Longbraid zegt dat we wraak nemen op de Dark Irons voordat dit allemaal voorbij is.$b$bMaar we zitten flink in de problemen, en ik zie nergens versterkingen. Longbraid stuurde Ol' Rustlocke om de oostelijke brug te verkennen. Hij moest kijken of we die konden beveiligen.$b$bDat is dagen geleden. We hebben niet genoeg mensen om hem te zoeken, nu Dun Modr belegerd wordt.$b$bMisschien kun jij hem vinden...",
+      "o": "Rhag Garmason wil dat je Ol' Rustlocke vindt.",
+      "c": "Je doorzoekt het kleine lijk van de dwerg. In de helm staat duidelijk een naam gegraveerd: Ebenezer Rustlocke.",
+      "g": [
+        [
+          "enorme",
+          "tremendous, huge (enorm)"
+        ],
+        [
+          "bulderde",
+          "roared (bulderen)"
+        ],
+        [
+          "verschrikkelijk",
+          "horrible"
+        ],
+        [
+          "verdedigden",
+          "defended (verdedigen)"
+        ],
+        [
+          "flink in de problemen",
+          "in a world of hurt"
+        ],
+        [
+          "oostelijke",
+          "eastern (oostelijk)"
+        ],
+        [
+          "verkennen",
+          "to scout"
+        ],
+        [
+          "beveiligen",
+          "to secure"
+        ],
+        [
+          "belegerd",
+          "besieged (belegeren)"
+        ],
+        [
+          "lijk",
+          "corpse"
+        ],
+        [
+          "gegraveerd",
+          "engraved (graveren)"
+        ]
+      ]
+    },
+    "632": {
+      "t": "De Thandol Span",
+      "d": "Het lijkt erop dat de arme Ol' Rustlocke in een hinderlaag van de Dark Irons is gelopen. Je ziet een stuk perkament naast zijn gebalde vuist.$b$bBreng het droevige nieuws naar Rhag Garmason en laat hem zien wat je hebt gevonden.",
+      "o": "Ga terug naar Rhag Garmason en laat hem het perkament zien dat je bij het lijk van Rustlocke hebt gevonden.",
+      "p": "Heb je al iets van Ol' Rustlocke gezien, $N?",
+      "c": "O jee, het nieuws is ernstig....",
+      "g": [
+        [
+          "het lijkt erop",
+          "it seems"
+        ],
+        [
+          "hinderlaag",
+          "ambush"
+        ],
+        [
+          "perkament",
+          "parchment"
+        ],
+        [
+          "gebalde",
+          "clenched (gebald)"
+        ],
+        [
+          "vuist",
+          "fist"
+        ],
+        [
+          "droevige",
+          "sad, grim (droevig)"
+        ]
+      ]
+    },
+    "633": {
+      "t": "De Thandol Span",
+      "d": "O hemel, nee! Arme Rustlocke. Wat een tragedie.$b$bZijn dood mag niet voor niets zijn geweest. Dit perkament dat je hebt gevonden laat zien dat Kam Deepfury, het brein achter de eerste aanval, een voorraad explosieven heeft laten verstoppen, vlak aan de overkant van de Thandol Span, in Arathi Highlands.$b$bAls die explosieven bij de brug komen, wordt onze belangrijkste aanvoerlijn naar het noorden afgesneden! De voorraad moet vernietigd worden, $n! Kom terug naar mij als je missie klaar is.$b$bJij bent onze enige hoop.",
+      "o": "Vernietig de voorraad explosieven.",
+      "p": "De voorraad explosieven moet vernietigd worden!",
+      "c": "De overgebleven brug is gered! Je hebt King Magni en het volk van Khaz Modan een grote dienst bewezen.$B$BAls we het nu maar lang genoeg kunnen volhouden tot de versterkingen komen...",
+      "o1": "Cache of Explosives vernietigd",
+      "g": [
+        [
+          "hemel",
+          "heavens"
+        ],
+        [
+          "voor niets",
+          "in vain"
+        ],
+        [
+          "brein",
+          "mastermind, brain"
+        ],
+        [
+          "voorraad",
+          "cache, supply"
+        ],
+        [
+          "explosieven",
+          "explosives (explosief)"
+        ],
+        [
+          "overkant",
+          "other side"
+        ],
+        [
+          "aanvoerlijn",
+          "supply line"
+        ],
+        [
+          "afgesneden",
+          "cut off, severed (afsnijden)"
+        ],
+        [
+          "overgebleven",
+          "remaining"
+        ],
+        [
+          "dienst bewezen",
+          "done a service (een dienst bewijzen)"
+        ],
+        [
+          "volhouden",
+          "to hold out"
+        ]
+      ]
+    },
+    "634": {
+      "t": "Een dringend verzoek aan de Alliance",
+      "d": "Ik vraag je nog één kleine gunst, $c. We wachten op de reserves van Ironforge. Maar Roggo weet van een kamp van de Alliance in het noorden, in Arathi Highlands, bij Refuge Pointe.$b$bReis daarheen en zoek Captain Nials op. Vraag de goede kapitein of de Alliance een paar soldaten kan missen om ons te helpen Dun Modr en de Thandol Span terug te veroveren.",
+      "o": "Zoek Captain Nials op bij Refuge Pointe.",
+      "c": "Mijn medeleven gaat uit naar Longbraid en zijn dappere soldaten. Het nieuws over de ramp bij de Thandol Span en de val van Dun Modr ligt zwaar op mijn hart.$b$bMaar Stromgarde is gevallen! Daarom zijn we hier bij Refuge Pointe. We moeten onze eigen grote stad terugveroveren.$b$bEer en plicht eisen dat we de Highlands niet verlaten tot de machtige banier van de koning weer boven Stromgarde wappert. Ik zal Longbraid laten weten dat hij er alleen voor staat...",
+      "g": [
+        [
+          "dringend",
+          "urgent"
+        ],
+        [
+          "verzoek",
+          "request, plea"
+        ],
+        [
+          "gunst",
+          "favour"
+        ],
+        [
+          "missen",
+          "to spare"
+        ],
+        [
+          "terug te veroveren",
+          "to reclaim (terugveroveren)"
+        ],
+        [
+          "medeleven",
+          "condolences, sympathy"
+        ],
+        [
+          "ramp",
+          "disaster, tragedy"
+        ],
+        [
+          "eer",
+          "honour"
+        ],
+        [
+          "eisen",
+          "require, demand (eisen)"
+        ],
+        [
+          "banier",
+          "banner"
+        ],
+        [
+          "wappert",
+          "flies, waves (wapperen)"
+        ],
+        [
+          "er alleen voor staat",
+          "is on his own (er alleen voor staan)"
+        ]
+      ]
+    },
+    "474": {
+      "t": "Versla Nek'rosh",
+      "d": "Nu de katapulten verbrand zijn, moet je Chieftain Nek'rosh zoeken en doden.",
+      "o": "Dood Chieftain Nek'rosh.$B$BBreng Nek'rosh's Head naar Captain Stoutfist.",
+      "p": "Heb je Nek'rosh gedood?",
+      "c": "Dapper gedaan, $N. Je hebt de orcclan Dragonmaw een zware klap gegeven. Misschien komen ze er nooit meer bovenop. En door de vernietiging van die katapulten is Menethil Harbor veilig.$B$BJe bent een $R van verdienste, en het koninkrijk Ironforge beloont wie het goed dient.",
+      "g": [
+        [
+          "versla",
+          "defeat (verslaan)"
+        ],
+        [
+          "verbrand",
+          "burned (verbranden)"
+        ],
+        [
+          "klap",
+          "blow"
+        ],
+        [
+          "bovenop",
+          "on top (er bovenop komen: to recover)"
+        ],
+        [
+          "vernietiging",
+          "destruction"
+        ],
+        [
+          "verdienste",
+          "merit"
+        ],
+        [
+          "koninkrijk",
+          "kingdom"
+        ],
+        [
+          "beloont",
+          "rewards (belonen)"
+        ],
+        [
+          "dient",
+          "serves (dienen)"
+        ]
+      ]
+    },
+    "304": {
+      "t": "Een grimmige taak",
+      "d": "Veel van mijn soldaten zijn gestorven in de slag om Dun Modr. Mijn eigen broer kwam om toen de West Bridge over de Thandol Span werd verwoest. Ja, de Dark Iron Dwarves zijn een duivels ras. Volgens wat Roggo te weten kwam, is de leider van deze bende boeven in de Wetlands een heksenmeester die Balgaras the Foul heet. Maar hij is nogal een lafaard. Hij laat zijn soldaten het werk voor hem doen, maar zelf blijft hij onvindbaar en gaat hij gevaar uit de weg.$b$bAls je dat laffe tuig kunt vinden, dood hem en breng me zijn oor. Ik zal je belonen, $c.",
+      "o": "Dood Balgaras the Foul en breng zijn oor naar Longbraid the Grim buiten Dun Modr.",
+      "p": "Heb je Balgaras the Foul al kunnen vinden, $C? Hij ontloopt ons al een hele tijd.",
+      "c": "Balgaras the Foul is eindelijk dood. Zijn dood brengt de vele onschuldige dwergen die zonder reden door zijn hand zijn gestorven niet terug. Maar het helpt wel om de overlevenden weer wat gemoedsrust te geven. Nu Balgaras dood is, moet het tuig van de Dark Irons dat nog over is makkelijk genoeg aan te pakken zijn. Nu moeten we ze uitroeien voordat er een nieuwe leider naar deze streek wordt gestuurd.$B$BJe hebt het goed gedaan, $C.",
+      "g": [
+        [
+          "grimmige",
+          "grim (grimmig)"
+        ],
+        [
+          "slag",
+          "battle"
+        ],
+        [
+          "kwam om",
+          "perished (omkomen)"
+        ],
+        [
+          "duivels",
+          "devilish"
+        ],
+        [
+          "ras",
+          "breed, race"
+        ],
+        [
+          "bende",
+          "band, gang"
+        ],
+        [
+          "heksenmeester",
+          "warlock"
+        ],
+        [
+          "lafaard",
+          "coward"
+        ],
+        [
+          "onvindbaar",
+          "elusive, impossible to find"
+        ],
+        [
+          "laffe",
+          "spineless, cowardly (laf)"
+        ],
+        [
+          "tuig",
+          "scum"
+        ],
+        [
+          "ontloopt",
+          "evades (ontlopen)"
+        ],
+        [
+          "gemoedsrust",
+          "peace of mind"
+        ],
+        [
+          "uitroeien",
+          "to wipe out"
+        ],
+        [
+          "streek",
+          "region, parts"
+        ]
+      ]
+    },
+    "1302": {
+      "t": "James Hyal",
+      "d": "Mijn broer James ging met Lady Proudmoore mee over de zee. Het laatste wat ik hoorde, was dat de gevechten daar wat tot rust waren gekomen en dat James ergens op dat continent een herberg begon. Waar hij ook is, ik weet zeker dat zijn zaak goed loopt. Hij was een verdraaid goede kok.$b$bIk heb al een tijdje niets van hem gehoord. Hij heeft het vast te druk met zijn herberg, wed ik. Maar de klerk in Theramore kan je waarschijnlijk wel vertellen waar hij is.",
+      "o": "Spreek met Clerk Lendry in Theramore.",
+      "c": "James Hyal, James Hyal... Waarom klinkt die naam zo bekend?$B$BNatuurlijk! Het incident in de Shady Rest Inn. Als je iets weet over wat daar is gebeurd, raad ik je dringend aan om er met Captain Vimes over te praten. Hij leidt het onderzoek.",
+      "g": [
+        [
+          "tot rust gekomen",
+          "settled down (tot rust komen)"
+        ],
+        [
+          "continent",
+          "continent"
+        ],
+        [
+          "herberg",
+          "inn"
+        ],
+        [
+          "zijn zaak",
+          "his business"
+        ],
+        [
+          "verdraaid",
+          "damn (mild curse)"
+        ],
+        [
+          "vast",
+          "surely, probably"
+        ],
+        [
+          "klerk",
+          "clerk"
+        ],
+        [
+          "bekend",
+          "familiar"
+        ],
+        [
+          "raad",
+          "advise (aanraden)"
+        ],
+        [
+          "onderzoek",
+          "investigation"
+        ]
+      ]
+    }
+  },
+  "words": {
+    "aanvalt": "attack (aanvallen)",
+    "afhakken": "to chop off",
+    "blies": "blew (blazen)",
+    "brand": "fire",
+    "deden": "did (doen)",
+    "derde": "third",
+    "diensten": "services (dienst)",
+    "doelen": "goals, ambitions (doel)",
+    "dorst": "thirst",
+    "drakenvuur": "dragonfire",
+    "dwergensoldaten": "dwarven soldiers (dwergensoldaat)",
+    "explosie": "explosion",
+    "feite": "fact (in feite: in fact)",
+    "felle": "fierce (fel)",
+    "flink": "quite a lot, considerable",
+    "frisse": "brisk, fresh (fris)",
+    "gebruikte": "used (gebruiken)",
+    "gedoemde": "doomed (gedoemd)",
+    "gelopen": "walked, run (lopen)",
+    "gevechten": "fights, fighting (gevecht)",
+    "gisteravond": "last night",
+    "goden": "gods (god)",
+    "helm": "helmet",
+    "huilen": "weep, cry (huilen)",
+    "incident": "incident",
+    "katapult": "catapult",
+    "kok": "cook",
+    "leefde": "lived (leven)",
+    "leidt": "leads, is handling (leiden)",
+    "maakten": "made (maken)",
+    "maat": "mate, buddy",
+    "meesters": "masters (meester)",
+    "mysterie": "mystery",
+    "nek": "neck",
+    "nergens": "nowhere",
+    "ontdekten": "discovered (ontdekken)",
+    "oor": "ear",
+    "opent": "open (openen)",
+    "orcclan": "orc clan",
+    "overlevenden": "survivors (overlevende)",
+    "paard": "horse, steed",
+    "plaatsen": "places (plaats)",
+    "plan": "plan",
+    "priester": "priest",
+    "reserves": "reserves (reserve)",
+    "slaat": "strike, hit (slaan)",
+    "sleutel": "key",
+    "soldaat": "soldier",
+    "sprak": "spoke (spreken)",
+    "spreekt": "speaks (spreken)",
+    "stadje": "small town",
+    "tafel": "table, tablet",
+    "teruggegeven": "given back (teruggeven)",
+    "terugveroveren": "to retake, reclaim",
+    "toont": "shows, depicts (tonen)",
+    "verdomde": "damned (verdomd)",
+    "verlieten": "left (verlaten)",
+    "veroveren": "to conquer, take",
+    "vertaling": "translation",
+    "vier": "four",
+    "vlammen": "flames (vlam)",
+    "vluchtten": "fled (vluchten)",
+    "vocht": "fought (vechten)",
+    "vrolijk": "cheerful, merry",
+    "waarde": "worth, value",
+    "weinigen": "the few (weinig)",
+    "wonder": "wonder, miracle",
+    "zoon": "son",
+    "én": "and also (stressed 'en')"
+  },
+  "terms": {
+    "krokolisken": "crocolisks: big crocodile-like animals from the Warcraft world",
+    "reuzenkrokolisken": "giant crocolisks (see krokolisk)"
+  }
+}
