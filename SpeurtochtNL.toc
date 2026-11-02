@@ -27,6 +27,7 @@ Data\Batch_08_Darkshore_14.lua
 Data\Batch_09_Westfall_20.lua
 Data\Batch_10_The_Deadmines_6_Voorquests.lua
 Data\Batch_11_Wetlands.lua
+Data\Batch_12_Deeprun_Tram.lua
 
 Display.lua
 Reader.lua
