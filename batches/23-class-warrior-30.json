@@ -1,0 +1,1704 @@
+{
+  "quests": {
+    "1678": {
+      "t": "Vejrek",
+      "d": "Wil je hogerop komen bij de krijgers? Dan moet je taai zijn. Ik kan je nieuwe bewegingen leren. Maar eerst moet je bewijzen dat je jezelf kunt redden tegen echte vijanden.$B$BVejrek is de taaiste trol die je hier kunt vinden. Hem moet je verslaan. Hij heeft een hut in de heuvels net ten zuiden van Frostmane Hold.$B$BBreng me het hoofd van Vejrek. Dan weet ik dat je lef hebt.",
+      "o": "Breng Vejrek's Head naar Muren Stormpike in Ironforge.",
+      "p": "Ben je bij de hut van Vejrek geweest, $N? Ruik ik daar $R-stank aan je?",
+      "c": "Vejrek was echt een lelijke, hè? Goed gedaan, $N! Je hebt wat nodig is. Laten we nu met je les beginnen...$b$bMisschien weet je het niet, maar een sterke verdediging is heel belangrijk voor een $C. Zo blijft een $C staan tegen vijanden die anderen zouden neerslaan. En dat is wat je bondgenoten nodig hebben.",
+      "g": [
+        [
+          "hogerop komen",
+          "to rise, to get ahead"
+        ],
+        [
+          "taai",
+          "tough"
+        ],
+        [
+          "bewegingen",
+          "moves (beweging)"
+        ],
+        [
+          "bewijzen",
+          "to prove"
+        ],
+        [
+          "jezelf kunt redden",
+          "can handle yourself (zich redden)"
+        ],
+        [
+          "verslaan",
+          "to beat, to defeat"
+        ],
+        [
+          "heuvels",
+          "foothills, hills (heuvel)"
+        ],
+        [
+          "lef",
+          "guts, mettle"
+        ],
+        [
+          "stank",
+          "stink"
+        ],
+        [
+          "verdediging",
+          "defense"
+        ],
+        [
+          "neerslaan",
+          "to knock down, to fell"
+        ],
+        [
+          "bondgenoten",
+          "allies (bondgenoot)"
+        ]
+      ]
+    },
+    "1680": {
+      "t": "Tormus Deepforge",
+      "d": "Je hebt nu een paar bewegingen geleerd. Tijd voor een goed wapen. Praat met Tormus Deepforge. Hij kan een wapen voor je maken. Ik weet zeker dat je het mooi vindt.$B$BJe vindt Tormus hier in Ironforge, bij de Great Forge.",
+      "o": "Praat met Tormus Deepforge.",
+      "c": "Heeft Muren je gestuurd? Ja, ik kan een mooi wapen voor je maken... maar eerst wil ik je om een gunst vragen.$b$bMaak je geen zorgen. Het is heel gevaarlijk en je kunt erdoor sterven. Het is precies het soort klus dat een $C wil.",
+      "g": [
+        [
+          "wapen",
+          "weapon"
+        ],
+        [
+          "gestuurd",
+          "sent (sturen)"
+        ],
+        [
+          "gunst",
+          "favour"
+        ],
+        [
+          "maak je geen zorgen",
+          "don't worry"
+        ],
+        [
+          "gevaarlijk",
+          "dangerous"
+        ],
+        [
+          "sterven",
+          "to die"
+        ],
+        [
+          "klus",
+          "job, task"
+        ]
+      ]
+    },
+    "1681": {
+      "t": "Het terrein van Ironband",
+      "d": "Mijn leermeester, Sturgy Ironband, had een terrein ten zuiden van Helm's Bed Lake, in het oosten van Dun Morogh. Daar gaf hij les in smeden, en hij was de beste.$B$BMaar op een dag bracht een van zijn leerlingen hem een lading vreemd erts. Meester Ironband noemde het Umbral Ore. Hij wilde er graag mee werken. Maar kort nadat het erts aankwam... viel een groep Dark Iron-dwergen zijn terrein aan. Ze vermoordden iedereen!$B$BGa het terrein van Ironband binnen, $N, en wreek de dood van mijn meester. En breng me de lading Umbral Ore die het veroorzaakte.",
+      "o": "Breng een lading Umbral Ore naar Tormus Deepforge in Ironforge.",
+      "p": "Ben je in Ironband's Compound geweest? Heb je de Umbral Ore gevonden?",
+      "c": "Je hebt het gevonden! Goed gedaan!$b$bIk hoop dat je onderweg een heleboel Dark Iron-dwergen hebt gedood. Ik ben bang dat we ze niet voor het laatst bij het terrein van Ironband hebben gezien.$b$bMaar bedankt voor het erts, $N. Ik wil er graag mee werken en ontdekken wat de eigenschappen zijn.",
+      "g": [
+        [
+          "leermeester",
+          "mentor, master"
+        ],
+        [
+          "terrein",
+          "compound, grounds"
+        ],
+        [
+          "smeden",
+          "blacksmithing, to forge"
+        ],
+        [
+          "lading",
+          "load"
+        ],
+        [
+          "erts",
+          "ore"
+        ],
+        [
+          "aankwam",
+          "arrived (aankomen)"
+        ],
+        [
+          "viel ... aan",
+          "attacked (aanvallen)"
+        ],
+        [
+          "vermoordden",
+          "murdered (vermoorden)"
+        ],
+        [
+          "wreek",
+          "avenge (wreken)"
+        ],
+        [
+          "veroorzaakte",
+          "caused (veroorzaken)"
+        ],
+        [
+          "onderweg",
+          "on the way"
+        ],
+        [
+          "een heleboel",
+          "a whole lot"
+        ],
+        [
+          "eigenschappen",
+          "properties (eigenschap)"
+        ]
+      ]
+    },
+    "1698": {
+      "t": "Yorus Barleybrew",
+      "d": "Yorus Barleybrew heeft alle sterke krijgers van de Alliance uitgedaagd. Hij wacht in de Lakeshire Inn, in Redridge. Hij belooft een grote beloning aan iedereen die zijn proef haalt.",
+      "o": "Praat met Yorus Barleybrew.",
+      "c": "Ha! Dus je hebt van mijn uitdaging gehoord?$B$BNou, ga zitten en luister. Neem een drankje en geniet ervan... want het kan je laatste zijn.",
+      "g": [
+        [
+          "uitgedaagd",
+          "challenged (uitdagen)"
+        ],
+        [
+          "belooft",
+          "promises (beloven)"
+        ],
+        [
+          "beloning",
+          "reward"
+        ],
+        [
+          "proef",
+          "trial, test"
+        ],
+        [
+          "haalt",
+          "passes (halen)"
+        ],
+        [
+          "uitdaging",
+          "challenge"
+        ],
+        [
+          "geniet ervan",
+          "enjoy it, savour it (genieten)"
+        ]
+      ]
+    },
+    "1699": {
+      "t": "De Rethban Gauntlet",
+      "d": "Ik noem mijn uitdaging de Rethban Gauntlet. Om de proef te halen, hoef je alleen maar de Rethban Caverns in te gaan tot de eerste splitsing, en dan hier terug te komen. Makkelijk! Alleen zijn er een paar lastige dingetjes...$B$BJe moet binnen een uur terug zijn.$B$BEr staan hele hopen Redridge Gnolls in de weg.$B$BEn voordat je begint, moet je een slok nemen van het bekende drankje van mijn familie: Barleybrew Scalder!$B$BWat zeg je ervan? De Rethban Caverns liggen in de heuvels ten noorden van Lakeshire. Ben je klaar om de Rethban Gauntlet te lopen?",
+      "o": "Ga de Rethban Caverns binnen, kom bij de eerste splitsing en ga binnen de tijd terug naar Yorus Barleybrew.$B$BJe mag niet sterven en je geest vrijlaten.",
+      "p": "De tijd tikt door, $n. Als ik jou was, zou ik opschieten...",
+      "c": "Het is je gelukt! Goed gedaan! Drie keer hoera voor $N!",
+      "e": "Ga de Rethban Caverns binnen",
+      "g": [
+        [
+          "splitsing",
+          "fork (in a path)"
+        ],
+        [
+          "lastige dingetjes",
+          "tricky little things, catches"
+        ],
+        [
+          "binnen een uur",
+          "within an hour"
+        ],
+        [
+          "hopen",
+          "heaps (hoop)"
+        ],
+        [
+          "in de weg",
+          "in the way"
+        ],
+        [
+          "slok",
+          "swig, sip"
+        ],
+        [
+          "wat zeg je ervan",
+          "what do you say"
+        ],
+        [
+          "geest",
+          "spirit"
+        ],
+        [
+          "vrijlaten",
+          "to release"
+        ],
+        [
+          "tikt door",
+          "keeps ticking (doortikken)"
+        ],
+        [
+          "opschieten",
+          "to hurry up"
+        ],
+        [
+          "hoera",
+          "hooray, cheers"
+        ]
+      ]
+    },
+    "1702": {
+      "t": "De schildsmid",
+      "d": "Je hebt echt laten zien wat je kunt, toen je de Rethban Gauntlet liep, $N. En ik houd mijn woord. Ik regel de beloning die ik beloofde...$B$BAlleen ligt die in Stormwind.$B$BPraat met mijn vriend Furen Longbeard, in het Dwarven District van Stormwind. Hij is de beste schildsmid die je ooit zult ontmoeten, en hij is me nog een grote gunst schuldig.$B$BHier, breng Furen dit vat Barleybrew Scalder en vraag hem om een schild. Hij geeft je een mooi exemplaar.",
+      "o": "Breng de Cask of Scalder naar Furen Longbeard.",
+      "p": "Hallo! Droge tijden, vind je niet?",
+      "c": "Ah, Barleybrew Scalder. Geweldig spul! Dus je bent bij Yorus geweest, hè?$B$BIk kan een schild voor je regelen, jazeker! Een beter schild vind je nergens, en dat is niet gelogen!",
+      "g": [
+        [
+          "ik houd mijn woord",
+          "I keep my word"
+        ],
+        [
+          "regel",
+          "arrange, sort out (regelen)"
+        ],
+        [
+          "beloofde",
+          "promised (beloven)"
+        ],
+        [
+          "schildsmid",
+          "shieldsmith"
+        ],
+        [
+          "ontmoeten",
+          "to meet"
+        ],
+        [
+          "schuldig",
+          "owing, in debt"
+        ],
+        [
+          "vat",
+          "cask, barrel"
+        ],
+        [
+          "exemplaar",
+          "one, specimen"
+        ],
+        [
+          "droge",
+          "dry"
+        ],
+        [
+          "spul",
+          "stuff"
+        ],
+        [
+          "jazeker",
+          "yes indeed"
+        ],
+        [
+          "niet gelogen",
+          "no lie (liegen)"
+        ]
+      ]
+    },
+    "1700": {
+      "t": "Grimand Elmore",
+      "d": "Ik heb een kopie gemaakt van mijn aantekeningen over de technieken die ik leerde toen ik je harnas maakte. Ik wil dat ze naar Grimand Elmore gaan. Hij is hier in het Dwarven District, in de wapenwinkel.$B$BEn duik weg als je ze aan hem geeft. Hij is ontzettend trots op zijn vakmanschap, en hij vindt het vast geen prettig idee om iets van mij te leren...",
+      "o": "Breng Furen's Notes naar Grimand Elmore.",
+      "p": "Hallo, en welkom. Waarmee kan ik je van dienst zijn?",
+      "c": "Heeft Furen dit geschreven? Hoe durft hij! Ik heb hem alles geleerd wat hij weet! Dat hij mij iets zou kunnen leren, is schandalig! Schandalig!$B$BHm... maar er staat wel iets in zijn aantekeningen dat ik zou willen proberen...",
+      "g": [
+        [
+          "kopie",
+          "copy"
+        ],
+        [
+          "aantekeningen",
+          "notes (aantekening)"
+        ],
+        [
+          "technieken",
+          "techniques (techniek)"
+        ],
+        [
+          "harnas",
+          "armour"
+        ],
+        [
+          "wapenwinkel",
+          "weapon shop"
+        ],
+        [
+          "duik weg",
+          "duck (wegduiken)"
+        ],
+        [
+          "ontzettend",
+          "extremely, fiercely"
+        ],
+        [
+          "vakmanschap",
+          "craftsmanship, skills"
+        ],
+        [
+          "prettig",
+          "pleasant, nice"
+        ],
+        [
+          "van dienst zijn",
+          "to be of service"
+        ],
+        [
+          "hoe durft hij",
+          "how dare he (durven)"
+        ],
+        [
+          "schandalig",
+          "outrageous, scandalous"
+        ]
+      ]
+    },
+    "1701": {
+      "t": "Vuurgeharde maliën",
+      "d": "Ik heb je dus een mooi schild gegeven, maar we hoeven daar niet te stoppen. Ik ken de geheimen om heel harde maliënkolders te maken. Het is niet makkelijk, en er zijn heel zeldzame materialen voor nodig. Maar als jij het loopwerk wilt doen, maak ik er een stuk voor je.$B$BWat zeg je ervan, $N? Als je de uitdaging aandurft, geef ik je een lijst van wat je moet halen en waar je het kunt vinden.",
+      "o": "Verzamel de materialen die Furen Longbeard nodig heeft en breng ze naar hem in Stormwind.",
+      "p": "Hoe gaat de speurtocht, $N? Heb je de materialen?",
+      "c": "Heb je alles? Geweldig! Ik was bang dat die chimaera's je zeker zouden opeten!$B$BNou, laten we aan dat harnas beginnen...",
+      "g": [
+        [
+          "vuurgeharde",
+          "fire-hardened"
+        ],
+        [
+          "maliën",
+          "mail (armour)"
+        ],
+        [
+          "geheimen",
+          "secrets (geheim)"
+        ],
+        [
+          "maliënkolders",
+          "mail shirts, mail armour (maliënkolder)"
+        ],
+        [
+          "zeldzame",
+          "rare"
+        ],
+        [
+          "materialen",
+          "materials (materiaal)"
+        ],
+        [
+          "loopwerk",
+          "legwork"
+        ],
+        [
+          "aandurft",
+          "dare to take on (aandurven)"
+        ],
+        [
+          "verzamel",
+          "gather (verzamelen)"
+        ],
+        [
+          "speurtocht",
+          "scavenger hunt"
+        ],
+        [
+          "opeten",
+          "to eat up"
+        ]
+      ]
+    },
+    "1703": {
+      "t": "Mathiel",
+      "d": "Ik heb een kopie gemaakt van mijn aantekeningen over de technieken die ik leerde toen ik je harnas maakte. Ze moeten naar de smid Mathiel. Hij woont in Darnassus, en dat is een heel eind weg. Maar ik weet zeker dat hij heel dankbaar zal zijn om te leren wat ik heb geleerd.",
+      "o": "Breng Furen's Notes naar Mathiel.",
+      "p": "Ik groet je, $C.",
+      "c": "Deze zijn interessant, echt heel interessant. Mijn collega Furen, de dwerg, heeft een flinke ontdekking gedaan!$B$BDank je, $N. Het wordt een eer om zijn nieuwe technieken te gebruiken bij mijn eigen werk.",
+      "g": [
+        [
+          "smid",
+          "blacksmith"
+        ],
+        [
+          "een heel eind weg",
+          "quite a long way off"
+        ],
+        [
+          "dankbaar",
+          "grateful"
+        ],
+        [
+          "groet",
+          "greet (groeten)"
+        ],
+        [
+          "collega",
+          "colleague"
+        ],
+        [
+          "flinke",
+          "considerable, big"
+        ],
+        [
+          "ontdekking",
+          "discovery"
+        ],
+        [
+          "eer",
+          "honour"
+        ]
+      ]
+    },
+    "1704": {
+      "t": "Klockmort Spannerspan",
+      "d": "Ik heb een kopie gemaakt van mijn aantekeningen over de technieken die ik leerde toen ik je harnas maakte. Ik zoek iemand die ze naar Klockmort Spannerspan brengt. Hij is een gnomensmid in Ironforge. Als hij leert wat ik heb geleerd... dan trekt hij van opwinding vast zijn eigen baard uit.",
+      "o": "Breng Furen's Notes naar Klockmort Spannerspan.",
+      "p": "Goedendag, of goedemorgen, of goedenavond. Ik kan het van hier beneden niet zien. Heb je zaken voor me?",
+      "c": "O jee! Deze aantekeningen zijn geweldig! En wat meer is... ze zijn ongelofelijk en ze zijn fantastisch en mijn knieën gaan er helemaal van trillen!$B$BFuren heeft een doorbraak! Een echte doorbraak! Ik kan niet wachten om zijn nieuwe techniek uit te proberen!",
+      "g": [
+        [
+          "gnomensmid",
+          "gnomish blacksmith"
+        ],
+        [
+          "opwinding",
+          "excitement"
+        ],
+        [
+          "baard",
+          "beard"
+        ],
+        [
+          "trekt ... uit",
+          "pulls out (uittrekken)"
+        ],
+        [
+          "zaken",
+          "business (zaak)"
+        ],
+        [
+          "ongelofelijk",
+          "incredible"
+        ],
+        [
+          "knieën",
+          "knees (knie)"
+        ],
+        [
+          "trillen",
+          "to wobble, to shake"
+        ],
+        [
+          "doorbraak",
+          "breakthrough"
+        ],
+        [
+          "uit te proberen",
+          "to try out (uitproberen)"
+        ]
+      ]
+    },
+    "1705": {
+      "t": "Brandend bloed",
+      "d": "Ik geef het niet graag toe, maar misschien heeft Furen echt iets gevonden. Om het zeker te weten, moet ik zijn technieken op een nieuw harnas proberen. Als je me helpt met de materialen, $N, mag jij het harnas hebben.$B$BVoor dit harnas heb ik monsters Burning Blood nodig, en een Burning Rock.$B$BDe enige plek die ik ken om ze te halen, is Duskwood. De Nightbane-worgen in de mijn Roland's Doom hebben Burning Blood. Hun leider Gutspill heeft de steen.$B$BMoge het geluk je snelheid geven, $N.",
+      "o": "Breng 20 flesjes Burning Blood en 1 Burning Rock naar Grimand Elmore in Stormwind.",
+      "p": "$N, heb je het Burning Blood en de steen? Ik heb ze nodig om het harnas af te maken.",
+      "c": "Goed werk! En nu, als je me wilt excuseren, ik heb zelf ook werk te doen...",
+      "g": [
+        [
+          "brandend",
+          "burning"
+        ],
+        [
+          "geef ... toe",
+          "admit (toegeven)"
+        ],
+        [
+          "om het zeker te weten",
+          "to be sure"
+        ],
+        [
+          "monsters",
+          "samples (monster)"
+        ],
+        [
+          "mijn",
+          "mine (for ore)"
+        ],
+        [
+          "leider",
+          "leader"
+        ],
+        [
+          "moge",
+          "may (wish)"
+        ],
+        [
+          "geluk",
+          "fortune, luck"
+        ],
+        [
+          "snelheid",
+          "speed"
+        ],
+        [
+          "flesjes",
+          "vials (flesje)"
+        ],
+        [
+          "excuseren",
+          "to excuse"
+        ]
+      ]
+    },
+    "1708": {
+      "t": "IJzeren koraal",
+      "d": "Ik wil de nieuwe technieken van Furen Longbeard op mijn eigen harnas proberen. En omdat jij Furen hebt geholpen en hij mij heeft geholpen, mag jij het harnas hebben als ik het gemaakt heb!$B$BOm het af te maken, heb ik een speciaal koraal nodig: Searing Coral. Het groeit maar op één plek: langs de kust ten zuiden van Menethil Harbor, in de Wetlands.$B$BBreng me genoeg Searing Coral, dan begin ik meteen aan het harnas. En schiet op, $N. Ik wil zo graag beginnen dat mijn tenen ervan draaien!",
+      "o": "Breng 20 ladingen Searing Coral naar Klockmort Spannerspan in Ironforge.",
+      "p": "Hallo hallo, $N! Heb je het Searing Coral? Ik kan niet wachten om aan het werk te gaan!",
+      "c": "Dat is het spul! Goed gedaan! Nu ga ik dit smelten en hameren. Dan kan ik de techniek van Furen samen met mijn eigen techniek gebruiken, en dan zien we wat er gebeurt!$B$BO jee, o jee! Ik weet gewoon dat het harnas heel heel heel sterk wordt!",
+      "g": [
+        [
+          "ijzeren",
+          "iron (adj.)"
+        ],
+        [
+          "koraal",
+          "coral"
+        ],
+        [
+          "af te maken",
+          "to finish (afmaken)"
+        ],
+        [
+          "kust",
+          "coast"
+        ],
+        [
+          "meteen",
+          "right away"
+        ],
+        [
+          "schiet op",
+          "hurry up (opschieten)"
+        ],
+        [
+          "tenen",
+          "toes (teen)"
+        ],
+        [
+          "draaien",
+          "to twist, to turn"
+        ],
+        [
+          "ladingen",
+          "loads (lading)"
+        ],
+        [
+          "smelten",
+          "to smelt, to melt"
+        ],
+        [
+          "hameren",
+          "to hammer"
+        ]
+      ]
+    },
+    "1706": {
+      "t": "Het harnas van Grimand",
+      "c": "Ik kan het bijna niet geloven! De techniek van Furen is gelukt. Dit harnas moet enorm veel druk kunnen weerstaan.$b$bAlsjeblieft, $n. En bedankt. Ik had de ontdekking van Furen nooit geloofd, als jij niet de materialen had verzameld die ik nodig had om het zelf te testen.",
+      "g": [
+        [
+          "bijna",
+          "barely, almost"
+        ],
+        [
+          "gelukt",
+          "succeeded (lukken)"
+        ],
+        [
+          "enorm",
+          "tremendous, huge"
+        ],
+        [
+          "druk",
+          "stress, pressure"
+        ],
+        [
+          "weerstaan",
+          "to withstand"
+        ],
+        [
+          "verzameld",
+          "gathered (verzamelen)"
+        ]
+      ]
+    },
+    "1709": {
+      "t": "De creatie van Klockmort",
+      "c": "Hier is je harnas, $N. Het proces van Furen werkte briljant! Perfect! Echt wonderbaarlijk!$B$BJe kunt met een belegeringsmachine over dit harnas heen rijden, en het springt meteen terug in vorm!",
+      "g": [
+        [
+          "creatie",
+          "creation"
+        ],
+        [
+          "proces",
+          "process"
+        ],
+        [
+          "briljant",
+          "brilliantly"
+        ],
+        [
+          "wonderbaarlijk",
+          "marvellous(ly)"
+        ],
+        [
+          "belegeringsmachine",
+          "siege engine"
+        ],
+        [
+          "springt ... terug",
+          "springs back (terugspringen)"
+        ],
+        [
+          "vorm",
+          "shape"
+        ]
+      ]
+    },
+    "1710": {
+      "t": "Zonverschroeide schalen",
+      "d": "Mijn collega Furen Longbeard heeft een ontdekking gedaan die ik graag wil testen. Ik wil het proberen op een nieuw harnas dat ik onderzoek. Want ik geloof dat de technieken van Furen betere resultaten geven.$B$BWil je me helpen? Als jij verzamelt wat ik nodig heb voor het harnas, maak ik een extra stuk voor jou.$B$BIk heb de door de zon verschroeide eierschalen nodig van de Highperch Wyverns die in Highperch wonen, in Thousand Needles. Zoek de schalen onder hun nesten. Kom terug als je er genoeg hebt.",
+      "o": "Breng 20 Sunscorched Shells naar Mathiel in Darnassus.",
+      "p": "Heb je de schalen, $N? Ze zijn erg sterk. Ik kan er een lak van maken, en daarmee bedek ik de ringen van mijn nieuwe maliënkolder.",
+      "c": "Ah, dank je. Deze zijn uitstekend!$B$BIk begin meteen aan het harnas...",
+      "g": [
+        [
+          "zonverschroeide",
+          "sunscorched"
+        ],
+        [
+          "schalen",
+          "shells (schaal)"
+        ],
+        [
+          "onderzoek",
+          "am researching (onderzoeken)"
+        ],
+        [
+          "resultaten",
+          "results (resultaat)"
+        ],
+        [
+          "verschroeide",
+          "scorched (verschroeien)"
+        ],
+        [
+          "eierschalen",
+          "eggshells (eierschaal)"
+        ],
+        [
+          "nesten",
+          "nests (nest)"
+        ],
+        [
+          "lak",
+          "lacquer, varnish"
+        ],
+        [
+          "bedek",
+          "coat, cover (bedekken)"
+        ],
+        [
+          "ringen",
+          "rings, links (ring)"
+        ],
+        [
+          "uitstekend",
+          "excellent, splendid"
+        ]
+      ]
+    },
+    "1711": {
+      "t": "Het harnas van Mathiel",
+      "c": "Ik ben klaar met je harnas, en ik ben er erg tevreden over. De nieuwe technieken van Furen pasten perfect bij die van mij. Ik weet zeker dat dit harnas heel sterk zal blijken.$B$BDank je, $N. Moge het je goed dienen in toekomstige gevechten.",
+      "g": [
+        [
+          "tevreden",
+          "pleased, satisfied"
+        ],
+        [
+          "pasten ... bij",
+          "fitted with, meshed with (passen bij)"
+        ],
+        [
+          "blijken",
+          "to prove, to turn out"
+        ],
+        [
+          "dienen",
+          "to serve"
+        ],
+        [
+          "toekomstige",
+          "future"
+        ],
+        [
+          "gevechten",
+          "battles (gevecht)"
+        ]
+      ]
+    },
+    "1718": {
+      "t": "De eilandbewoner",
+      "d": "Je faam als krijger groeit, $N. Nu is het tijd om het op te nemen tegen je gelijken en te zien waar je staat.$B$BEr ligt een eiland voor de kust van de Barrens, ten zuiden van Ratchet. Het heet Fray Island. Het is een plek waar krijgers elkaar ontmoeten.$B$BOntmoeten, en vechten.$B$BPraat met de hoofdkrijger van Fray Island, Klannoc Macleod. Als hij je waardig vindt, leidt Klannoc je verder op het pad van de krijger.$B$BOm Fray Island te bereiken, zoek je de ondiepe zandbanken langs de Merchant Coast.",
+      "o": "Praat met Klannoc Macleod.",
+      "c": "Hallo, krijger. Fijn dat je Fray Island hebt bereikt. Ik hoop dat het je hier bevalt...",
+      "g": [
+        [
+          "eilandbewoner",
+          "islander"
+        ],
+        [
+          "faam",
+          "renown, fame"
+        ],
+        [
+          "het op te nemen tegen",
+          "to take on, to compete with"
+        ],
+        [
+          "gelijken",
+          "peers, equals"
+        ],
+        [
+          "hoofdkrijger",
+          "chief warrior"
+        ],
+        [
+          "waardig",
+          "worthy"
+        ],
+        [
+          "leidt",
+          "leads (leiden)"
+        ],
+        [
+          "bereiken",
+          "to reach"
+        ],
+        [
+          "ondiepe",
+          "shallow"
+        ],
+        [
+          "zandbanken",
+          "sand bars (zandbank)"
+        ],
+        [
+          "bevalt",
+          "pleases, suits (bevallen)"
+        ]
+      ]
+    },
+    "1719": {
+      "t": "De Affray",
+      "d": "Als je van mij wilt leren, moet je eerst de Affray doorstaan. Dat is een uitdaging die wij op Fray Island graag geven aan opkomende krijgers die denken dat ze taai zijn. Als je deze test haalt, weet ik dat je het bent.$B$BOm te beginnen loop je naar het midden van die menigte daar. Stap op het rooster. Dan weet Twiggy Flathead dat je klaar bent, en hij stuurt uitdagers op je af.$B$BVersla alle uitdagers, dan roept hij Big Will. Dood Big Will en kom binnen de tijd terug naar mij.",
+      "o": "Dood Big Will en praat daarna met Klannoc Macleod op Fray Island.",
+      "p": "Heb je je uitdaging gehaald?",
+      "c": "Goed gedaan, $N. Je hebt de Affray doorstaan!$B$BJe bent een waardige krijger, en het is een eer om je les te geven...",
+      "e": "Stap op het rooster om de Affray te beginnen",
+      "g": [
+        [
+          "doorstaan",
+          "to pass, to get through"
+        ],
+        [
+          "opkomende",
+          "rising, up-and-coming"
+        ],
+        [
+          "midden",
+          "middle"
+        ],
+        [
+          "menigte",
+          "crowd"
+        ],
+        [
+          "rooster",
+          "grate"
+        ],
+        [
+          "uitdagers",
+          "challengers (uitdager)"
+        ],
+        [
+          "stuurt ... op je af",
+          "sends against you (afsturen op)"
+        ],
+        [
+          "versla",
+          "beat (verslaan)"
+        ],
+        [
+          "waardige",
+          "worthy"
+        ]
+      ]
+    },
+    "1791": {
+      "t": "De Windwatcher",
+      "d": "Je hebt nu je berserkershouding geleerd. Dan wil je er ook een goed wapen bij.$B$BPraat met Bath'rah the Windwatcher, een trollenkluizenaar die tussen de Alterac Mountains en de Western Plaguelands woont. Hij is een goede wapenmaker en een machtige sjamaan.$B$BOm Bath'rah te vinden, ga je naar de rivier die langs de oostkant van Tarren Mill stroomt. Volg die naar het noorden. Bath'rah kampeert bij ruïnes op de oostelijke oever van de rivier.",
+      "o": "Praat met Bath'rah the Windwatcher.",
+      "c": "Je hebt een lange reis gemaakt, jonge krijger. Ik zie vuur in je ogen. Je zoekt een wapen met grote kracht, ja?$B$BIk kan je helpen met jouw zoektocht. En jij kunt mij helpen met de mijne.",
+      "g": [
+        [
+          "berserkershouding",
+          "berserker stance"
+        ],
+        [
+          "trollenkluizenaar",
+          "troll hermit"
+        ],
+        [
+          "wapenmaker",
+          "weapon maker"
+        ],
+        [
+          "machtige",
+          "powerful"
+        ],
+        [
+          "sjamaan",
+          "shaman"
+        ],
+        [
+          "oostkant",
+          "eastern side, flank"
+        ],
+        [
+          "stroomt",
+          "flows (stromen)"
+        ],
+        [
+          "kampeert",
+          "camps (kamperen)"
+        ],
+        [
+          "ruïnes",
+          "ruins (ruïne)"
+        ],
+        [
+          "oever",
+          "bank, shore"
+        ],
+        [
+          "zoektocht",
+          "quest, search"
+        ]
+      ]
+    },
+    "1641": {
+      "t": "Het boek van goddelijkheid",
+      "c": "Hier in Stormwind is het mijn taak om paladijnen op weg te helpen naar meer deugd. Zij geven zich aan het Licht en beschermen Azeroth tegen de Scourge en andere gevaren.$B$BHet is tijd voor je eerste stap om echt deugdzaam te worden. Als je het aanneemt, geef ik je een Book of Divinity. Als je het bestudeert, leer je iets over het Licht, en over wat er van je verwacht wordt. Als je het begrijpt en als je het kunt, krijg je sterkere vaardigheden.",
+      "g": [
+        [
+          "goddelijkheid",
+          "divinity"
+        ],
+        [
+          "paladijnen",
+          "paladins (paladijn)"
+        ],
+        [
+          "op weg te helpen",
+          "to put on the path (op weg helpen)"
+        ],
+        [
+          "deugd",
+          "virtue"
+        ],
+        [
+          "geven zich",
+          "devote themselves (zich geven)"
+        ],
+        [
+          "gevaren",
+          "threats, dangers (gevaar)"
+        ],
+        [
+          "deugdzaam",
+          "virtuous"
+        ],
+        [
+          "aanneemt",
+          "accept (aannemen)"
+        ],
+        [
+          "bestudeert",
+          "study (bestuderen)"
+        ],
+        [
+          "verwacht",
+          "expected (verwachten)"
+        ],
+        [
+          "vaardigheden",
+          "abilities (vaardigheid)"
+        ]
+      ]
+    },
+    "1642": {
+      "t": "Het boek van goddelijkheid",
+      "d": "In alles moet een paladijn het Licht laten zien. Het Licht maakt ons sterker. Als iemand zoals wij goddelijk wil zijn, betekent dat niet dat we een god willen worden. We willen goed zijn in alles wat we doen.$B$BIn deze harde tijden moeten we het kwaad verslaan. Maar onthoud altijd: vooral door anderen te helpen, ben je echt anders dan de andere burgers van Azeroth. Medeleven, geduld, moed: die dingen zijn voor een paladijn net zo belangrijk als kracht in de strijd.$B$BWeet dit goed, en vergeet het nooit.",
+      "o": "Praat met Duthorian Rall in Stormwind.",
+      "c": "Hallo weer, $N. Hoe gaat het met je studie van het Tome of Divinity?$B$BDan moet je klaar zijn om getest te worden. Er is altijd werk te doen in de stad en in onze landen: daden van medeleven en begrip, mensen die hulp nodig hebben, wezens om te doden.$B$BAls je laat zien dat je het geduld hebt om anderen te helpen, vooral mensen met minder geluk, dan bewijs je dat je een dienaar van het Licht bent, met een helder hoofd.",
+      "g": [
+        [
+          "goddelijk",
+          "divine"
+        ],
+        [
+          "kwaad",
+          "evil"
+        ],
+        [
+          "onthoud",
+          "remember (onthouden)"
+        ],
+        [
+          "burgers",
+          "citizens (burger)"
+        ],
+        [
+          "medeleven",
+          "compassion"
+        ],
+        [
+          "geduld",
+          "patience"
+        ],
+        [
+          "moed",
+          "bravery, courage"
+        ],
+        [
+          "strijd",
+          "battle"
+        ],
+        [
+          "studie",
+          "study, studies"
+        ],
+        [
+          "daden",
+          "deeds, acts (daad)"
+        ],
+        [
+          "begrip",
+          "understanding"
+        ],
+        [
+          "wezens",
+          "creatures (wezen)"
+        ],
+        [
+          "dienaar",
+          "servant"
+        ],
+        [
+          "een helder hoofd",
+          "a clear mind, of sound mind"
+        ]
+      ]
+    },
+    "1643": {
+      "t": "Het boek van goddelijkheid",
+      "d": "Jouw taak is dan, $N, om hier in Stormwind iemand te vinden die hulp nodig heeft. Iemand met een zuiver hart en zuivere bedoelingen. Misschien iemand die anderen helpt. Misschien iemand die een gids nodig heeft. Hoe dan ook, deze persoon moet edele bedoelingen hebben en op jouw goedheid rekenen.$B$BDoe dit en kom terug als je klaar bent. Dan praten we verder over je pad, en over wat het betekent om een paladijn van het Licht te zijn.",
+      "o": "Zoek in het Trade District van Stormwind naar Stephanie Turner.",
+      "c": "O, hallo, lieverd. Hoe gaan je avonturen? O, wat fijn dat het goed met je gaat.$B$BEn ik? Dank je dat je het vraagt. Met mij gaat het goed, als je alles bij elkaar neemt.$B$BEr zijn veel meer handelaren gekomen. Daardoor willen mensen nu minder leer en stof weggeven. Het is dus moeilijker om kleren te maken voor de kinderen in het weeshuis. Maar het lukt ons wel. Met \"ons\" bedoel ik mijn man en mij. Hij is in Ironforge en vraagt de burgers daar om hulp.",
+      "g": [
+        [
+          "zuiver",
+          "pure"
+        ],
+        [
+          "bedoelingen",
+          "intentions, motives (bedoeling)"
+        ],
+        [
+          "gids",
+          "guide"
+        ],
+        [
+          "hoe dan ook",
+          "regardless"
+        ],
+        [
+          "edele",
+          "noble"
+        ],
+        [
+          "goedheid",
+          "kindness, goodness"
+        ],
+        [
+          "rekenen op",
+          "to rely on"
+        ],
+        [
+          "lieverd",
+          "love, dear"
+        ],
+        [
+          "avonturen",
+          "adventures (avontuur)"
+        ],
+        [
+          "als je alles bij elkaar neemt",
+          "all things considered"
+        ],
+        [
+          "handelaren",
+          "tradesmen, traders (handelaar)"
+        ],
+        [
+          "leer",
+          "leather"
+        ],
+        [
+          "weggeven",
+          "to give away, to part with"
+        ],
+        [
+          "weeshuis",
+          "orphanage"
+        ]
+      ]
+    },
+    "1645": {
+      "t": "Het boek van goddelijkheid",
+      "c": "Hier in Ironforge is het mijn taak om paladijnen op weg te helpen naar meer deugd. Zij geven zich aan het Licht en beschermen Azeroth tegen de Scourge en andere gevaren.$B$BHet is tijd voor je eerste stap om echt deugdzaam te worden. Als je het aanneemt, geef ik je een Book of Divinity. Als je het bestudeert, leer je iets over het Licht, en over wat er van je verwacht wordt. Als je het begrijpt en als je het kunt, krijg je sterkere vaardigheden.",
+      "g": [
+        [
+          "goddelijkheid",
+          "divinity"
+        ],
+        [
+          "paladijnen",
+          "paladins (paladijn)"
+        ],
+        [
+          "op weg te helpen",
+          "to put on the path (op weg helpen)"
+        ],
+        [
+          "deugd",
+          "virtue"
+        ],
+        [
+          "geven zich",
+          "devote themselves (zich geven)"
+        ],
+        [
+          "gevaren",
+          "threats, dangers (gevaar)"
+        ],
+        [
+          "deugdzaam",
+          "virtuous"
+        ],
+        [
+          "aanneemt",
+          "accept (aannemen)"
+        ],
+        [
+          "bestudeert",
+          "study (bestuderen)"
+        ],
+        [
+          "verwacht",
+          "expected (verwachten)"
+        ],
+        [
+          "vaardigheden",
+          "abilities (vaardigheid)"
+        ]
+      ]
+    },
+    "1646": {
+      "t": "Het boek van goddelijkheid",
+      "d": "In alles moet een paladijn het Licht laten zien. Het Licht maakt ons sterker. Als iemand zoals wij goddelijk wil zijn, betekent dat niet dat we een god willen worden. We willen goed zijn in alles wat we doen.$B$BIn deze harde tijden moeten we het kwaad verslaan. Maar onthoud altijd: vooral door anderen te helpen, ben je echt anders dan de andere burgers van Azeroth. Medeleven, geduld, moed: die dingen zijn voor een paladijn net zo belangrijk als kracht in de strijd.$B$BWeet dit goed, en vergeet het nooit.",
+      "o": "Praat met Tiza Battleforge in Ironforge.",
+      "c": "Welkom terug, $N. Ik hoop dat je tijd hebt besteed aan het lezen van het boek?$B$BDan moet je klaar zijn om getest te worden. Er is altijd werk te doen in de stad en in onze landen: daden van medeleven en begrip, mensen die hulp nodig hebben, wezens om te doden.$B$BAls je laat zien dat je het geduld hebt om anderen te helpen, vooral mensen met minder geluk, dan bewijs je dat je een dienaar van het Licht bent, met een helder hoofd.",
+      "g": [
+        [
+          "goddelijk",
+          "divine"
+        ],
+        [
+          "kwaad",
+          "evil"
+        ],
+        [
+          "onthoud",
+          "remember (onthouden)"
+        ],
+        [
+          "burgers",
+          "citizens (burger)"
+        ],
+        [
+          "medeleven",
+          "compassion"
+        ],
+        [
+          "geduld",
+          "patience"
+        ],
+        [
+          "moed",
+          "bravery, courage"
+        ],
+        [
+          "besteed",
+          "spent (besteden)"
+        ],
+        [
+          "daden",
+          "deeds, acts (daad)"
+        ],
+        [
+          "begrip",
+          "understanding"
+        ],
+        [
+          "wezens",
+          "creatures (wezen)"
+        ],
+        [
+          "dienaar",
+          "servant"
+        ],
+        [
+          "een helder hoofd",
+          "a clear mind, of sound mind"
+        ]
+      ]
+    },
+    "1647": {
+      "t": "Het boek van goddelijkheid",
+      "d": "Jouw taak is dan, $N, om hier in Ironforge iemand te vinden die hulp nodig heeft. Iemand met een zuiver hart en zuivere bedoelingen. Misschien iemand die anderen helpt. Misschien iemand die een gids nodig heeft. Hoe dan ook, deze persoon moet edele bedoelingen hebben en op jouw goedheid rekenen.$B$BDoe dit en kom terug als je klaar bent. Dan praten we verder over je pad, en over wat het betekent om een paladijn van het Licht te zijn. Ik blijf hier in de tempel tot je terugkomt. Andere paladijnen hebben mijn begeleiding ook nodig.",
+      "o": "Zoek in de buitenste ring van Ironforge naar John Turner.",
+      "c": "HET WEESHUIS VAN STOR... o, sorry, ik wilde niet tegen je schreeuwen, $gmeneer:mevrouw;.$B$BIk heet John Turner. Hoe gaat het met je?$B$BGoed, goed, fijn om te horen dat het goed met je gaat. Ik heb al een lange werkdag achter de rug, en ik mis mijn vrouw heel erg. Maar dat is de prijs die je betaalt als er monden te voeden en ruggen te kleden zijn.",
+      "g": [
+        [
+          "zuiver",
+          "pure"
+        ],
+        [
+          "bedoelingen",
+          "intentions, motives (bedoeling)"
+        ],
+        [
+          "gids",
+          "guide"
+        ],
+        [
+          "edele",
+          "noble"
+        ],
+        [
+          "goedheid",
+          "kindness, goodness"
+        ],
+        [
+          "tempel",
+          "temple"
+        ],
+        [
+          "begeleiding",
+          "guidance"
+        ],
+        [
+          "buitenste",
+          "outer"
+        ],
+        [
+          "schreeuwen",
+          "to shout"
+        ],
+        [
+          "achter de rug",
+          "behind me, done"
+        ],
+        [
+          "monden",
+          "mouths (mond)"
+        ],
+        [
+          "voeden",
+          "to feed"
+        ],
+        [
+          "ruggen",
+          "backs (rug)"
+        ],
+        [
+          "kleden",
+          "to clothe"
+        ]
+      ]
+    },
+    "1789": {
+      "t": "Het symbool van het leven",
+      "c": "Schiet op, $N. Als het je niet lukt, staat er meer dan één leven op het spel.$B$BAls het je om een of andere reden niet lukt om Muiredon en Narm te helpen, kom dan terug naar mij. Dan geef ik je een nieuwe Symbol of Life voor je reis.$B$BDenk niet dat mijn hulp gewoon liefdadigheid is. Je moet laten zien dat je het waard bent, net als elke andere $C. Als het je steeds niet lukt, kan dat later slecht voor je zijn.",
+      "g": [
+        [
+          "symbool",
+          "symbol"
+        ],
+        [
+          "schiet op",
+          "make haste (opschieten)"
+        ],
+        [
+          "op het spel",
+          "at stake"
+        ],
+        [
+          "om een of andere reden",
+          "for some reason"
+        ],
+        [
+          "liefdadigheid",
+          "charity"
+        ],
+        [
+          "waard",
+          "worthy, worth"
+        ],
+        [
+          "steeds",
+          "again and again, continually"
+        ]
+      ]
+    },
+    "1790": {
+      "t": "Het symbool van het leven",
+      "c": "Schiet op, $N. Als het je niet lukt, staat er meer dan één leven op het spel.$B$BAls het je om een of andere reden niet lukt om Gazin en Henze te helpen, kom dan terug naar mij. Dan geef ik je een nieuwe Symbol of Life voor je reis.$B$BDenk niet dat mijn hulp gewoon liefdadigheid is. Je moet laten zien dat je het waard bent, net als elke andere $C. Als het je steeds niet lukt, kan dat later slecht voor je zijn.",
+      "g": [
+        [
+          "symbool",
+          "symbol"
+        ],
+        [
+          "schiet op",
+          "make haste (opschieten)"
+        ],
+        [
+          "op het spel",
+          "at stake"
+        ],
+        [
+          "om een of andere reden",
+          "for some reason"
+        ],
+        [
+          "liefdadigheid",
+          "charity"
+        ],
+        [
+          "waard",
+          "worthy, worth"
+        ],
+        [
+          "steeds",
+          "again and again, continually"
+        ]
+      ]
+    },
+    "2997": {
+      "t": "Het boek van goddelijkheid",
+      "d": "Hallo, $N. Ik weet dat je druk bezig bent om de mensen van Dun Morogh te helpen. Maar als je tijd hebt, moet je naar Ironforge gaan. Praat daar met een van de meest gerespecteerde mensen van ons soort: Tiza Battleforge. Naar haar gaan de jongere paladijnen als het tijd is om meer te leren over het Licht, en over wat er van je verwacht wordt.$B$BJe vindt haar boven in de Hall of Mysteries. Ben je daar nog nooit geweest? Die is in de Mystic Ward. Veel succes, hoor, $N.",
+      "o": "Praat met Tiza Battleforge in Ironforge.",
+      "c": "Gegroet, $N. Ik hoop dat het Licht je het ware pad laat zien en je beschermt tegen het kwaad.",
+      "g": [
+        [
+          "druk bezig",
+          "busy"
+        ],
+        [
+          "gerespecteerde",
+          "respected"
+        ],
+        [
+          "van ons soort",
+          "of our kind, our ilk"
+        ],
+        [
+          "jongere",
+          "younger"
+        ],
+        [
+          "boven",
+          "upstairs"
+        ],
+        [
+          "gegroet",
+          "well met, greetings"
+        ],
+        [
+          "ware",
+          "true"
+        ],
+        [
+          "pad",
+          "path"
+        ],
+        [
+          "beschermt",
+          "protects (beschermen)"
+        ]
+      ]
+    },
+    "2998": {
+      "t": "Het boek van goddelijkheid",
+      "d": "Gegroet, $Gbroeder:zuster;. Duthorian Rall, een van onze invloedrijkste paladijnen, had het pas over jou. Ik hoorde hem zeggen dat het tijd was om je een beetje op de proef te stellen... En hij zei ook heel positieve dingen over hoe goed je het tot nu toe hebt gedaan.$B$BAls ik jou was, zou ik naar Stormwind gaan en met hem praten als je tijd hebt. Hij is vast in de Cathedral of Light. Daar is hij het grootste deel van de tijd.",
+      "o": "Praat met Duthorian Rall in Stormwind.",
+      "c": "Het is mooi hier in Stormwind, vind je niet?$B$BEigenlijk kom je precies op het goede moment, $N.",
+      "g": [
+        [
+          "broeder",
+          "brother (religious)"
+        ],
+        [
+          "zuster",
+          "sister (religious)"
+        ],
+        [
+          "invloedrijkste",
+          "most influential"
+        ],
+        [
+          "had het over",
+          "was talking about (het hebben over)"
+        ],
+        [
+          "pas",
+          "recently, just"
+        ],
+        [
+          "op de proef te stellen",
+          "to put to the test (op de proef stellen)"
+        ],
+        [
+          "positieve",
+          "positive, complimentary"
+        ],
+        [
+          "tot nu toe",
+          "so far"
+        ],
+        [
+          "het grootste deel",
+          "most (of)"
+        ],
+        [
+          "precies",
+          "exactly"
+        ]
+      ]
+    },
+    "2999": {
+      "t": "Het boek van goddelijkheid",
+      "d": "Hallo, $N. Ik weet dat je druk bezig bent om de mensen van Dun Morogh te helpen. Maar als je tijd hebt, moet je naar boven gaan en praten met een van de meest gerespecteerde mensen van ons soort: Tiza Battleforge. Naar haar gaan de jongere paladijnen als het tijd is om meer te leren over het Licht, en over wat er van je verwacht wordt.",
+      "o": "Praat met Tiza Battleforge in Ironforge",
+      "c": "Gegroet, $N. Ik hoop dat het Licht je het ware pad laat zien en je beschermt tegen het kwaad.",
+      "g": [
+        [
+          "druk bezig",
+          "busy"
+        ],
+        [
+          "naar boven",
+          "upstairs"
+        ],
+        [
+          "gerespecteerde",
+          "respected"
+        ],
+        [
+          "van ons soort",
+          "of our kind, our ilk"
+        ],
+        [
+          "jongere",
+          "younger"
+        ],
+        [
+          "gegroet",
+          "well met, greetings"
+        ],
+        [
+          "ware",
+          "true"
+        ],
+        [
+          "beschermt",
+          "protects (beschermen)"
+        ]
+      ]
+    },
+    "3000": {
+      "t": "Het boek van goddelijkheid",
+      "d": "Hallo, $N. Ik weet dat je druk bezig bent om de mensen van Azeroth te helpen. Maar als je tijd hebt, moet je teruggaan naar Ironforge. Praat daar met een van de meest gerespecteerde paladijnen van je thuis: Tiza Battleforge. Naar haar gaan de jongere dwergpaladijnen als het tijd is om meer te leren over het Licht, en over wat er van ons allemaal verwacht wordt.$B$BJe vindt haar boven in de Hall of Mysteries. Die ligt in de Mystic Ward.",
+      "o": "Praat met Tiza Battleforge in Ironforge.",
+      "c": "Ik groet je en heet je welkom, $N.",
+      "g": [
+        [
+          "druk bezig",
+          "busy"
+        ],
+        [
+          "teruggaan",
+          "to go back"
+        ],
+        [
+          "gerespecteerde",
+          "respected"
+        ],
+        [
+          "thuis",
+          "home"
+        ],
+        [
+          "dwergpaladijnen",
+          "dwarven paladins"
+        ],
+        [
+          "verwacht",
+          "expected (verwachten)"
+        ],
+        [
+          "boven",
+          "upstairs"
+        ],
+        [
+          "heet je welkom",
+          "bid you welcome (welkom heten)"
+        ]
+      ]
+    },
+    "3681": {
+      "t": "Het boek van goddelijkheid",
+      "d": "Sorry dat ik je reis onderbreek, $r. Maar ik vond dat je moest weten dat er pas een bericht uit Stormwind kwam. Paladijnen moeten zich daar melden voor training.$B$BAls ik het niet beter wist, zou ik zeggen dat je bijna bij een speciaal moment bent. Het is tijd dat je de boeken gaat bestuderen.$B$BZoek Duthorian Rall in Stormwind. Hij traint paladijnen meestal in de Cathedral of Light.",
+      "o": "Praat met Duthorian Rall in Stormwind.",
+      "c": "Welkom in de Cathedral of Light, $C.",
+      "g": [
+        [
+          "onderbreek",
+          "interrupt (onderbreken)"
+        ],
+        [
+          "bericht",
+          "message, word"
+        ],
+        [
+          "zich melden",
+          "to report"
+        ],
+        [
+          "als ik het niet beter wist",
+          "if I didn't know any better"
+        ],
+        [
+          "speciaal",
+          "special"
+        ],
+        [
+          "bestuderen",
+          "to study"
+        ],
+        [
+          "traint",
+          "trains (trainen)"
+        ],
+        [
+          "meestal",
+          "usually"
+        ]
+      ]
+    },
+    "1644": {
+      "t": "Het boek van goddelijkheid",
+      "d": "Die lieve schatten. De meesten hebben geen familie meer, door de aanvallen van de Scourge in de laatste tien jaar.$B$BMijn man John verzamelt de materialen voor mij. Daarmee maak ik de shirts en broeken voor de kinderen. Maar ik heb daar nog niet eens tijd voor gehad. Ik was te druk met eten op hun bord en een dak boven hun hoofd.$B$BWat zeg je? Wil je helpen? O, het Licht zij dank, en dank je wel, $N.$B$BKun je me wat linnen brengen? Dan kan ik kleren naaien voor de kinderen. Dat zou me zo veel helpen.",
+      "o": "Breng 10 Linen Cloth naar Stephanie Turner in Stormwind.",
+      "p": "Ik hoop dat mijn John meer geluk heeft in Ironforge. Hij gaat daar niet graag naartoe, want dan zijn de kinderen en ik alleen. Maar hij weet dat het moet. Hij heeft zo'n goed hart.$B$BSommige jaren waren makkelijker dan andere, maar dit jaar is veruit het zwaarste. Het is bijna alsof er iets in de lucht hangt dat een grote verandering aankondigt. Maar wie weet?",
+      "c": "Dank je, $N, heel erg bedankt!$B$BDe kinderen zullen zo blij zijn, en jij hebt mij zo veel tijd bespaard. Nu kan ik me richten op de andere dingen die de kinderen nodig hebben. En hopelijk kan mijn John eerder naar huis komen dan we dachten.$B$BNogmaals bedankt, $N. Ik wist dat ik op de goedheid van anderen kon rekenen. Het Licht zij met je.",
+      "g": [
+        [
+          "lieve schatten",
+          "dear little ones, bless their hearts"
+        ],
+        [
+          "aanvallen",
+          "attacks (aanval)"
+        ],
+        [
+          "broeken",
+          "trousers, pants (broek)"
+        ],
+        [
+          "een dak boven hun hoofd",
+          "a roof over their heads"
+        ],
+        [
+          "het Licht zij dank",
+          "thank the Light"
+        ],
+        [
+          "linnen",
+          "linen"
+        ],
+        [
+          "naaien",
+          "to sew"
+        ],
+        [
+          "veruit",
+          "by far"
+        ],
+        [
+          "het zwaarste",
+          "the hardest, roughest"
+        ],
+        [
+          "aankondigt",
+          "signals, announces (aankondigen)"
+        ],
+        [
+          "bespaard",
+          "saved (besparen)"
+        ],
+        [
+          "me richten op",
+          "to focus on (zich richten op)"
+        ],
+        [
+          "hopelijk",
+          "hopefully"
+        ],
+        [
+          "nogmaals",
+          "once again"
+        ],
+        [
+          "zij met je",
+          "be with you"
+        ]
+      ]
+    },
+    "1648": {
+      "t": "Het boek van goddelijkheid",
+      "d": "Mijn vrouw en ik hebben een weeshuis in Stormwind. Het is vooral voor kinderen die hun ouders hebben verloren door de aanvallen van de Scourge in de laatste tien jaar. Ik kom ongeveer elke maand naar Ironforge. Dan probeer ik meer spullen te verzamelen bij de burgers hier. Ik praat ook met verschillende groepen, om te zien of ze iets kunnen doen om te helpen.$B$BDeze reis gaat vreselijk langzaam, en hij levert niet veel op.$B$BAls ik maar wat meer linnen kon krijgen, dan kan mijn vrouw kleren maken. Dan kan ik eindelijk een zending naar huis sturen.",
+      "o": "Breng 10 Linen Cloth naar John Turner in Ironforge.",
+      "p": "Er zijn hier en in heel Azeroth veel meer handelaren gekomen. Daardoor zijn er minder spullen om kleren te maken voor de kinderen in ons weeshuis. Je helpt me linnen te verzamelen, zodat mijn vrouw nieuwe kleren voor ze kan maken. Dat is heel edel van je, $N. Dank je.$B$BHopelijk kan ik snel terug naar huis, naar mijn vrouw.",
+      "c": "Dit is zo geweldig van je, $N. Nogmaals bedankt.$B$BJe bent een edele $gman:vrouw;, omdat je dit voor me doet. Geen wonder dat je het Licht volgt. Ik wou dat ik je kon terugbetalen voor alles wat je hebt gedaan... wat zeg je? Dat is het minste wat je kon doen? Zie je? Dat bedoel ik nou, $N: edel tot het einde.$B$BWees voorzichtig, en moge het Licht je beschermen op je reizen.",
+      "g": [
+        [
+          "weeshuis",
+          "orphanage"
+        ],
+        [
+          "verloren",
+          "lost (verliezen)"
+        ],
+        [
+          "ongeveer",
+          "about, or so"
+        ],
+        [
+          "verschillende",
+          "various"
+        ],
+        [
+          "vreselijk",
+          "terribly, agonizingly"
+        ],
+        [
+          "levert ... op",
+          "yields, produces (opleveren)"
+        ],
+        [
+          "zending",
+          "shipment"
+        ],
+        [
+          "handelaren",
+          "tradesmen (handelaar)"
+        ],
+        [
+          "edel",
+          "noble"
+        ],
+        [
+          "geen wonder",
+          "no wonder"
+        ],
+        [
+          "terugbetalen",
+          "to repay"
+        ],
+        [
+          "het minste",
+          "the least"
+        ],
+        [
+          "tot het einde",
+          "to the end"
+        ]
+      ]
+    }
+  },
+  "words": {
+    "bord": "plate",
+    "chimaera's": "chimaeras (chimaera: winged beast with several heads)",
+    "dak": "roof",
+    "dingetjes": "little things (dingetje, ding)",
+    "duik": "duck, dive (duiken; wegduiken)",
+    "durft": "dares (durven)",
+    "gelogen": "lied (liegen)",
+    "geloofd": "believed (geloven)",
+    "goedemorgen": "good morning",
+    "goedenavond": "good evening",
+    "heleboel": "(een heleboel) a whole lot",
+    "hut": "hut",
+    "leerde": "learned (leren)",
+    "maliënkolder": "mail armour, mail shirt",
+    "meesten": "(de meesten) most of them",
+    "nightbane-worgen": "Nightbane worgen (worgen of the Nightbane pack)",
+    "noem": "call, name (noemen)",
+    "pasten": "fitted (passen)",
+    "rijden": "to ride, to drive",
+    "ruik": "smell (ruiken)",
+    "shirts": "shirts",
+    "springt": "springs, jumps (springen)",
+    "sterkere": "stronger (sterk)",
+    "taaiste": "toughest (taai)",
+    "tikt": "ticks (tikken)",
+    "zon": "sun",
+    "zwaarste": "hardest, heaviest (zwaar)"
+  },
+  "terms": {}
+}
