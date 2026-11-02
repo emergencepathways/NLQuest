@@ -1,0 +1,1780 @@
+{
+ "quests": {
+  "1096": {
+   "t": "Gerenzo Wrenchwhistle",
+   "d": "Ik heb Gerenzo één keer ontmoet. Maar geloof me, hij is niet mooi om te zien. Zijn vlees lijkt weg te rotten. Hij heeft metaal en tandwielen aan zijn lichaam vastgezet, en een paar van zijn armen en benen heeft hij vervangen door mechanische.$b$bTen noordoosten van hier, hoog boven Cragpool Lake, bij het waterrad: daar houdt Gerenzo het hele terrein in de gaten. Ik kan me daar nooit een weg naar boven vechten, en dan moet ik Gerenzo ook nog aanpakken... Maar jij ziet eruit alsof je het misschien wel haalt.$b$bAls je hem voor me doodt, zorg ik dat het de moeite waard is!",
+   "o": "Breng Gerenzo Wrenchwhistle's Mechanical Arm naar Ziz Fizziks in de Stonetalon Mountains.",
+   "p": "Sputtervalve wil vast een of ander bewijs dat Gerenzo dood is. Ik denk dat zijn mechanische arm wel genoeg is.",
+   "c": "Kijk dat ding eens... Alleen een gnoom kan zoiets bedenken. Ik snap niet waarom je een arm afsnijdt en vervangt door dit. Je kunt toch ook gewoon allebei je armen houden en er een derde bij zetten!$b$bGnomen, zeg ik je...$b$bGerenzo kan in elk geval niets meer doen. Hopelijk is dit bewijs genoeg. Dan stuurt Sputtervalve me naar een van de werkplaatsen van de Tinkers' Union in Gadgetzan, of misschien zelfs in Undermine.",
+   "g": [
+    [
+     "weg te rotten",
+     "to rot away (wegrotten)"
+    ],
+    [
+     "tandwielen",
+     "gears (tandwiel)"
+    ],
+    [
+     "vastgezet",
+     "attached, fixed (vastzetten)"
+    ],
+    [
+     "vervangen",
+     "replaced (vervangen)"
+    ],
+    [
+     "waterrad",
+     "water wheel"
+    ],
+    [
+     "in de gaten",
+     "houdt in de gaten = watches over (in de gaten houden)"
+    ],
+    [
+     "terrein",
+     "site, grounds"
+    ],
+    [
+     "aanpakken",
+     "take on, deal with"
+    ],
+    [
+     "de moeite waard",
+     "worth it, worth your while"
+    ],
+    [
+     "bewijs",
+     "proof"
+    ],
+    [
+     "bedenken",
+     "come up with, invent"
+    ],
+    [
+     "afsnijdt",
+     "cuts off (afsnijden)"
+    ],
+    [
+     "hopelijk",
+     "hopefully"
+    ],
+    [
+     "werkplaatsen",
+     "workshops (werkplaats)"
+    ]
+   ]
+  },
+  "1081": {
+   "t": "Ontvangst bij Tyrande",
+   "d": "$N, ik weet zeker dat Tyrande Whisperwind je zelf wil bedanken omdat je aan deze missie hebt meegedaan.$B$BAan de buitenkant lijkt het misschien niet zo. Maar wat jij hebt helpen beginnen, kan onze positie in de Stonetalon Mountains heel goed sterker maken.$B$BZie je jezelf als onze bondgenoot tegen deze gruweldaden? Ga dan naar Tyrande in de Temple of the Moon in Darnassus.",
+   "o": "Zoek Tyrande Whisperwind in Darnassus.",
+   "c": "Hallo, $N. Ik heb je naam inderdaad al eerder gehoord. Je bent nog jong, maar ik ben blij met de weg die je voor jezelf hebt gekozen.$B$BJe zou me een grote eer doen als je dit aanneemt, als een geschenk uit waardering.",
+   "g": [
+    [
+     "ontvangst",
+     "reception"
+    ],
+    [
+     "meegedaan",
+     "taken part (meedoen)"
+    ],
+    [
+     "aan de buitenkant",
+     "on the surface, on the outside"
+    ],
+    [
+     "positie",
+     "position, foothold"
+    ],
+    [
+     "bondgenoot",
+     "ally"
+    ],
+    [
+     "gruweldaden",
+     "atrocities (gruweldaad)"
+    ],
+    [
+     "inderdaad",
+     "indeed"
+    ],
+    [
+     "eer",
+     "honour"
+    ],
+    [
+     "aanneemt",
+     "accept (aannemen)"
+    ],
+    [
+     "geschenk",
+     "gift"
+    ],
+    [
+     "waardering",
+     "appreciation"
+    ]
+   ]
+  },
+  "1084": {
+   "t": "Gewonde oeroude wezens",
+   "d": "Volgens mij is het duidelijk dat de beschermers van de Vale, de treants, iets te maken hadden met het terugdringen van de Venture Co. Helaas zijn zelfs die ooit zo grote bewakers nu ook verdorven geraakt.$B$BGaxim denkt dat hun verdorvenheid op een of andere manier te maken heeft met de wapens die de goblins gebruikten toen ze zich terugtrokken.$B$BIk heb hem gezegd dat ik een monster van een gewonde treant zou halen. Dan kan hij het onderzoeken en uitzoeken of dat waar is.$B$BBreng me wat van de granaatscherven, zodat de gnoom me meer kan vertellen...",
+   "o": "Breng een stuk Corroded Shrapnel naar Kaela Shadowspear in Stonetalon.",
+   "p": "Ik heb het gevoel dat Gaxim wel iets met de scherven kan doen, hoe de Venture Co. ze vroeger ook heeft gebruikt.",
+   "c": "Dank je, $N.$B$BDit is meer dan genoeg voor Gaxim om uit te zoeken hoe de treants verdorven zijn geraakt. Ik geef het hem meteen.",
+   "g": [
+    [
+     "oeroude",
+     "ancient (oeroud)"
+    ],
+    [
+     "wezens",
+     "beings, creatures (wezen)"
+    ],
+    [
+     "beschermers",
+     "protectors (beschermer)"
+    ],
+    [
+     "terugdringen",
+     "driving back"
+    ],
+    [
+     "bewakers",
+     "guardians (bewaker)"
+    ],
+    [
+     "verdorven",
+     "corrupt(ed)"
+    ],
+    [
+     "verdorvenheid",
+     "corruption"
+    ],
+    [
+     "zich terugtrokken",
+     "retreated (zich terugtrekken)"
+    ],
+    [
+     "monster",
+     "sample"
+    ],
+    [
+     "onderzoeken",
+     "study, examine"
+    ],
+    [
+     "granaatscherven",
+     "shrapnel (granaatscherf)"
+    ],
+    [
+     "scherven",
+     "shards, shrapnel (scherf)"
+    ]
+   ]
+  },
+  "1100": {
+   "t": "Het dagboek van Lonebrow",
+   "d": "Langzaam sla je het versleten dagboek van Henrig Lonebrow open....",
+   "o": "Lees Henrig Lonebrow's Journal.",
+   "p": "Aan je bezorgde blik zie ik dat er iets mis is....",
+   "c": "Zeg je dat je dit dagboek bij een dode dwerg hebt gevonden? Geef me even de tijd om de bladzijden door te nemen...",
+   "g": [
+    [
+     "dagboek",
+     "journal, diary"
+    ],
+    [
+     "sla je open",
+     "you open (a book) (openslaan)"
+    ],
+    [
+     "versleten",
+     "worn, weathered"
+    ],
+    [
+     "bezorgde",
+     "worried, concerned (bezorgd)"
+    ],
+    [
+     "blik",
+     "look, glance"
+    ],
+    [
+     "iets mis",
+     "something wrong"
+    ],
+    [
+     "bladzijden",
+     "pages (bladzijde)"
+    ],
+    [
+     "door te nemen",
+     "to look through (doornemen)"
+    ]
+   ]
+  },
+  "1221": {
+   "t": "Blueleaf-knollen",
+   "d": "Blueleaf-knollen zijn over de hele wereld een lekkernij! Maar ze zijn zeldzaam, heel zeldzaam. Je vindt ze alleen hier in de Barrens, diep in de grond, in Razorfen Kraul.$B$BEn zelfs dan kun je ze niet vinden, tenzij je precies weet waar je moet zoeken! Daarom heb ik deze snufflenose-goffers getraind om ze voor me te vinden. Ze hebben een goede neus en ruiken een knol al op vijftig passen afstand.$B$BHet wordt niet makkelijk, maar als je wat knollen voor me haalt, betaal ik je flink.",
+   "o": "Pak een Crate with Holes.$BPak een Snufflenose Command Stick.$BPak en lees de Snufflenose Owner's Manual.$B$BGebruik in Razorfen Kraul de krat om een Snufflenose Gopher op te roepen. Gebruik de Command Stick op de goffer, zodat hij naar knollen gaat zoeken.$B$BBreng 6 Blueleaf Tubers, de Snufflenose Command Stick en de Crate with Holes naar Mebok Mizzyrix in Ratchet.",
+   "p": "Heb je de knollen, $N?",
+   "c": "Geweldig, je hebt ze! Ik kan ze voor een flinke som aan mijn contacten verkopen!$B$BBedankt voor de levering, $N! Je bent een geweldige partner.",
+   "g": [
+    [
+     "knollen",
+     "tubers (knol)"
+    ],
+    [
+     "lekkernij",
+     "delicacy, treat"
+    ],
+    [
+     "zeldzaam",
+     "rare"
+    ],
+    [
+     "tenzij",
+     "unless"
+    ],
+    [
+     "goffers",
+     "gophers (goffer)"
+    ],
+    [
+     "getraind",
+     "trained (trainen)"
+    ],
+    [
+     "passen",
+     "paces (pas)"
+    ],
+    [
+     "flink",
+     "a lot, handsomely"
+    ],
+    [
+     "op te roepen",
+     "to summon (oproepen)"
+    ],
+    [
+     "som",
+     "sum (of money)"
+    ],
+    [
+     "levering",
+     "delivery"
+    ],
+    [
+     "krat",
+     "crate"
+    ]
+   ]
+  },
+  "1142": {
+   "t": "Het leven vervaagt",
+   "d": "Ik heb niet lang meer te leven... zo... zo... zwak.$b$b...de d-d-dappere dwerg, Lonebrow, is gestuurd om Falfindel te w-w-waarschuwen...$b$bMaar voor ik... d-d-doodga...$b$b...mijn vrouw, Treshala... haar hanger die haar aan mij verbindt... gestolen... door een van de s-s-smerige aanvallers...$b$bVind hem a-a-alsjeblieft... en breng hem terug naar Treshala in Darnassus...$b$b...samen met het n-n-nieuws van mijn eenzame... dood.",
+   "o": "Vind Treshala's Pendant en breng hem terug naar Treshala Fallowbrook in Darnassus.",
+   "p": "Wat brengt je naar mijn huis, $R?",
+   "c": "Nee!$B$BHet is niet eerlijk. O, wrede en ondraaglijke wereld!$B$BNu moet ik deze last van verdriet dragen. En ik mag Heralaths werk niet met hem laten sterven.$B$BJe was dapper om van zo'n gevaarlijke plek hierheen te reizen, $N. Maar laat me nu alsjeblieft alleen.$B$BIn eenzaamheid zal ik rouwen.",
+   "g": [
+    [
+     "vervaagt",
+     "fades, wanes (vervagen)"
+    ],
+    [
+     "zwak",
+     "weak"
+    ],
+    [
+     "dappere",
+     "brave (dapper)"
+    ],
+    [
+     "hanger",
+     "pendant"
+    ],
+    [
+     "verbindt",
+     "binds, connects (verbinden)"
+    ],
+    [
+     "smerige",
+     "foul, filthy (smerig)"
+    ],
+    [
+     "aanvallers",
+     "attackers (aanvaller)"
+    ],
+    [
+     "eenzame",
+     "lonely (eenzaam)"
+    ],
+    [
+     "wrede",
+     "cruel (wreed)"
+    ],
+    [
+     "ondraaglijke",
+     "unbearable (ondraaglijk)"
+    ],
+    [
+     "last",
+     "burden"
+    ],
+    [
+     "verdriet",
+     "grief, sorrow"
+    ],
+    [
+     "eenzaamheid",
+     "solitude, loneliness"
+    ],
+    [
+     "rouwen",
+     "mourn"
+    ]
+   ]
+  },
+  "1144": {
+   "t": "Willix the Importer",
+   "d": "Eindelijk, er is hulp!$b$bJe hebt geen idee hoe lang ik hier al gevangen zit. Ik weet niet meer wanneer ik voor het laatst de buitenkant van deze plek heb gezien.$b$bWeet je, ik ben ondernemer. Altijd op zoek naar een koperstuk, zoals ze zeggen. Ik hoorde dat Mebok Mizzyrix goed betaalde voor Redleaf Tuber uit dit varkenshok hier. Ik dacht dat het een makkelijk klusje zou zijn: snel naar binnen, snel weer naar buiten. Zoals je ziet, had ik het een beetje mis!$b$bHoe dan ook, als je zo vriendelijk wilt zijn om me hier weg te helpen, zorg ik dat het de moeite waard is.",
+   "o": "Begeleid Willix the Importer naar buiten, uit Razorfen Kraul.",
+   "c": "Nogmaals bedankt, vriend! Ik zei toch dat het de moeite waard zou zijn.",
+   "e": "Help Willix the Importer uit Razorfen Kraul te ontsnappen",
+   "g": [
+    [
+     "eindelijk",
+     "at last"
+    ],
+    [
+     "gevangen",
+     "captive, held prisoner"
+    ],
+    [
+     "buitenkant",
+     "outside"
+    ],
+    [
+     "ondernemer",
+     "entrepreneur"
+    ],
+    [
+     "koperstuk",
+     "copper coin"
+    ],
+    [
+     "varkenshok",
+     "pig pen, pigsty"
+    ],
+    [
+     "klusje",
+     "little job (klus)"
+    ],
+    [
+     "had ik het mis",
+     "I was wrong (het mis hebben)"
+    ],
+    [
+     "hoe dan ook",
+     "anyway"
+    ],
+    [
+     "de moeite waard",
+     "worth your while"
+    ],
+    [
+     "begeleid",
+     "escort (begeleiden)"
+    ],
+    [
+     "nogmaals",
+     "once again"
+    ],
+    [
+     "ontsnappen",
+     "escape"
+    ]
+   ]
+  },
+  "1101": {
+   "t": "De oude heks van de Kraul",
+   "d": "Arme Heralath! En deze dwerg... Lonebrow. Wat was hij een dappere ziel.$b$bWe mogen hun moed niet voor niets laten zijn. Deze heks... Charlga Razorflank... moet worden tegengehouden.$b$bHet binnendringen van de Kraul zal zeker gevaarlijk zijn. Er is geen tijd om bericht naar Darnassus te sturen. $n, stel een groep samen om de heks te doden.$b$bBreng me Razorflank's Medallion als bewijs van haar dood.",
+   "o": "Breng Razorflank's Medallion naar Falfindel Waywarder in Thalanaar.",
+   "p": "Zolang Charlga Razorflank in Razorfen Kraul een leger bijeenbrengt, zijn deze landen in groot gevaar.",
+   "c": "De heks is ter ruste gelegd. Dit is fantastisch nieuws, $N.$B$BIn deze gevaarlijke tijden is het verfrissend om iemand te zien die zo dapper is als jij.$B$BNu de dienaren van Razorflank zijn aangepakt, kan ons onderzoek in dit gebied verdergaan. Misschien komen we nu meer te weten over wat er precies is gebeurd, waardoor de rustplaats van Agamaggan verdorven raakte.$B$BMaar ik vrees dat het antwoord op die vraag ook in verraad ligt...",
+   "g": [
+    [
+     "heks",
+     "crone, witch"
+    ],
+    [
+     "ziel",
+     "soul"
+    ],
+    [
+     "moed",
+     "courage, valour"
+    ],
+    [
+     "voor niets",
+     "for nothing, in vain"
+    ],
+    [
+     "tegengehouden",
+     "stopped (tegenhouden)"
+    ],
+    [
+     "binnendringen",
+     "infiltrating, breaking in"
+    ],
+    [
+     "bericht",
+     "message, word"
+    ],
+    [
+     "stel een groep samen",
+     "assemble a party (samenstellen)"
+    ],
+    [
+     "bijeenbrengt",
+     "gathers, musters (bijeenbrengen)"
+    ],
+    [
+     "ter ruste gelegd",
+     "laid to rest"
+    ],
+    [
+     "verfrissend",
+     "refreshing"
+    ],
+    [
+     "dienaren",
+     "minions, servants (dienaar)"
+    ],
+    [
+     "rustplaats",
+     "resting place"
+    ],
+    [
+     "vrees",
+     "fear (vrezen)"
+    ],
+    [
+     "verraad",
+     "treachery, betrayal"
+    ]
+   ]
+  },
+  "2841": {
+   "t": "Machine-oorlog",
+   "d": "Gnomentechniek: twee jaar geleden werd die vooral gebruikt als clou van een grap. De tijden zijn zeker veranderd. Nu hebben ze een nieuwe machine gebouwd die beter is dan al onze shredder-modellen samen. Ik heb de bouwtekeningen nodig, $N!$B$BHelaas liggen de plannen opgesloten in een kluis vlak bij Mekgineer Thermaplugg. En het wordt nog erger: alleen Mekgineer Thermaplugg kent de combinatie van de kluis.$B$BDoe wat je moet doen om die combinatie te krijgen, $N. Kraak dan die kluis en breng die bouwtekeningen terug!$b",
+   "o": "Haal de Rig Blueprints en Thermaplugg's Safe Combination uit Gnomeregan en breng ze naar Nogg in Orgrimmar.$b",
+   "p": "Ik zie geen bouwtekeningen. Heb je ze ergens op je lichaam verstopt, of sta je hier alleen maar rond om me te irriteren?$b$b",
+   "c": "Ik wist dat je het kon, $N! Sovik daarentegen had zijn twijfels.$B$B<Nogg schraapt zijn keel.>$B$BNu we de bouwtekeningen in ons bezit hebben, is het alleen nog een kwestie van tijd. Dan ontdekken we alle gnomische uitvindingen die in de bouw van de machine zijn gestopt, en maken we er goblinuitvindingen van voor onze nieuwe shredder-modellen.",
+   "g": [
+    [
+     "gnomentechniek",
+     "gnome technology"
+    ],
+    [
+     "clou",
+     "punch line"
+    ],
+    [
+     "bouwtekeningen",
+     "blueprints (bouwtekening)"
+    ],
+    [
+     "opgesloten",
+     "locked away (opsluiten)"
+    ],
+    [
+     "kluis",
+     "safe"
+    ],
+    [
+     "combinatie",
+     "combination"
+    ],
+    [
+     "kraak",
+     "crack (kraken)"
+    ],
+    [
+     "verstopt",
+     "hidden (verstoppen)"
+    ],
+    [
+     "irriteren",
+     "irritate"
+    ],
+    [
+     "daarentegen",
+     "on the other hand"
+    ],
+    [
+     "twijfels",
+     "doubts (twijfel)"
+    ],
+    [
+     "schraapt zijn keel",
+     "clears his throat (je keel schrapen)"
+    ],
+    [
+     "bezit",
+     "possession"
+    ],
+    [
+     "een kwestie van tijd",
+     "a matter of time"
+    ],
+    [
+     "uitvindingen",
+     "inventions (uitvinding)"
+    ]
+   ]
+  },
+  "2842": {
+   "t": "Chief Engineer Scooty",
+   "d": "Zodra we van Kernobee hoorden over de nieuwe gnomische machine, begonnen Scooty en ik aan de Transpolyporter 6000: de snelste en betrouwbaarste manier om in Gnomeregan te komen.$B$BHij is eindelijk klaar om passagiers aan boord te nemen, $N. Wil je het eens proberen? Ga dan naar Booty Bay en praat met Scooty bij de rustplaats van de windrijders. Om in Booty Bay te komen, neem je de boot vanuit Ratchet.$B$BNatuurlijk kun je ook altijd proberen om naar Gnomeregan te reizen door de bergen van Dun Morogh, die vol dwergen zitten!",
+   "o": "Praat met Scooty in Booty Bay.",
+   "c": "Is ze niet prachtig? Het toppunt van goblin-transporttechniek. Ze is maar een stuk of twaalf keer ontploft.$b$bMaak je geen zorgen, $N, ik heb haar helemaal gerepareerd. Ze ontploft niet onder je. En als ze het wel doet, gaat het snel en zonder pijn.",
+   "g": [
+    [
+     "zodra",
+     "as soon as"
+    ],
+    [
+     "gnomische",
+     "gnomish (gnomisch)"
+    ],
+    [
+     "betrouwbaarste",
+     "most reliable (betrouwbaar)"
+    ],
+    [
+     "passagiers",
+     "passengers (passagier)"
+    ],
+    [
+     "aan boord",
+     "on board"
+    ],
+    [
+     "rustplaats",
+     "roost, resting place"
+    ],
+    [
+     "windrijders",
+     "wind riders (windrijder)"
+    ],
+    [
+     "prachtig",
+     "beautiful"
+    ],
+    [
+     "toppunt",
+     "pinnacle"
+    ],
+    [
+     "een stuk of twaalf",
+     "about a dozen"
+    ],
+    [
+     "ontploft",
+     "exploded (ontploffen)"
+    ],
+    [
+     "gerepareerd",
+     "repaired (repareren)"
+    ]
+   ]
+  },
+  "2922": {
+   "t": "Red het brein van Techbot!",
+   "d": "Toen onze geliefde stad Gnomeregan viel, heeft een losse vonk mijn arme uitvinding Techbot vast een schok gegeven. Vroeger hielp het mij en mijn collega's met zijn talloze snufjes en zijn eindeloze voorraad informatie. Maar zijn positronische brein is gepolariseerd. Nu is het negatronisch... en Techbot doet alles omgekeerd. Het zwerft als een gek door Gnomeregan!$B$BMaar misschien is het nog te redden. Misschien, als je de geheugenkern van Techbot terughaalt en bij mij brengt, kan ik ontdekken waardoor de polarisatie komt. Dan kan ik mijn arme Techbot repareren.$B$B",
+   "o": "Breng Techbot's Memory Core naar Tinkmaster Overspark in Ironforge.",
+   "p": "Heb je Techbot gevonden? Heb je zijn geheugenkern teruggehaald??",
+   "c": "O, dit is geweldig! Bedankt, $N! Ik ga meteen aan het werk!!$B$BArme, arme Techbot... Voel je niet rot. We maken je wel weer goed.$B$BZo, waar heb ik die stekker van mijn hydro-jack-draaimoersleutel nou gelaten...",
+   "g": [
+    [
+     "brein",
+     "brain"
+    ],
+    [
+     "geliefde",
+     "beloved (geliefd)"
+    ],
+    [
+     "losse vonk",
+     "stray spark"
+    ],
+    [
+     "schok",
+     "jolt, shock"
+    ],
+    [
+     "collega's",
+     "colleagues, associates (collega)"
+    ],
+    [
+     "talloze",
+     "countless (talloos)"
+    ],
+    [
+     "snufjes",
+     "gadgets, gizmos (snufje)"
+    ],
+    [
+     "voorraad",
+     "store, supply"
+    ],
+    [
+     "gepolariseerd",
+     "polarized (polariseren)"
+    ],
+    [
+     "omgekeerd",
+     "reversed, the other way round"
+    ],
+    [
+     "zwerft",
+     "roams (zwerven)"
+    ],
+    [
+     "geheugenkern",
+     "memory core"
+    ],
+    [
+     "stekker",
+     "plug"
+    ],
+    [
+     "draaimoersleutel",
+     "swivel spanner, wrench"
+    ]
+   ]
+  },
+  "2923": {
+   "t": "Tinkmaster Overspark",
+   "d": "Tinkmaster Overspark is erg overstuur over wat er met zijn mechanische uitvinding Techbot is gebeurd. Ik herinner me Techbot als een vriendelijk en behulpzaam hulpmiddel voor de gnomen. Maar Overspark zegt dat het niet meer goed werkt.$B$BHeel jammer. Maar met wat geluk kan hij misschien gerepareerd worden!$B$BPraat met Tinkmaster Overspark, in Tinker Town in Ironforge. Hij zal blij zijn met je hulp.",
+   "o": "Praat met Tinkmaster Overspark in Ironforge.",
+   "c": "Ja, het is waar. Techbot is $C geworden! Alsjeblieft, kun je me helpen?",
+   "g": [
+    [
+     "overstuur",
+     "upset"
+    ],
+    [
+     "mechanische",
+     "mechanical (mechanisch)"
+    ],
+    [
+     "uitvinding",
+     "creation, invention"
+    ],
+    [
+     "herinner me",
+     "remember (zich herinneren)"
+    ],
+    [
+     "behulpzaam",
+     "helpful"
+    ],
+    [
+     "hulpmiddel",
+     "tool, aid"
+    ],
+    [
+     "jammer",
+     "a pity, sad"
+    ],
+    [
+     "geluk",
+     "luck"
+    ],
+    [
+     "gerepareerd",
+     "repaired (repareren)"
+    ]
+   ]
+  },
+  "2926": {
+   "t": "Gnogaine",
+   "d": "Sinds het ongeluk denkt en praat Gnoarn alleen nog maar hierover, $N: Gnomeregan schoonmaken van de troggs die er overal zitten, en een middel vinden tegen de ziekte die er heerst.$B$BGelukkig zijn Razzle en ik dicht bij een soort middel. Of dat, of het recept voor heel sterke rum. Dat weten we pas als we het testen! Om onze theorie te testen, hebben we natuurlijk een paar dingen nodig. Namelijk: neerslag van de bestraalde troggs in Gnomeregan. Vul dit flesje met de groene gloed en breng het terug!",
+   "o": "Gebruik de Empty Leaden Collection Phial op Irradiated Invaders of Irradiated Pillagers om radioactieve neerslag te verzamelen. Breng het flesje terug naar Ozzie Togglevolt in Kharanos zodra het vol is.",
+   "p": "Zie je niet dat we hier een hele soort gnomen proberen te genezen??! We hebben meer van die groene gloed nodig!",
+   "c": "Uitstekend werk! Het is tijd om de nieuwe formule te testen. Als dit werkt, moet die gevangen leprozengnoom genezen zijn. En dan heb ik ook nog een volle bos haar! Achteruit!",
+   "g": [
+    [
+     "ongeluk",
+     "accident"
+    ],
+    [
+     "middel",
+     "cure, remedy"
+    ],
+    [
+     "heerst",
+     "prevails, is rampant (heersen)"
+    ],
+    [
+     "recept",
+     "recipe"
+    ],
+    [
+     "namelijk",
+     "namely"
+    ],
+    [
+     "neerslag",
+     "fallout"
+    ],
+    [
+     "bestraalde",
+     "irradiated (bestralen)"
+    ],
+    [
+     "flesje",
+     "phial, small bottle"
+    ],
+    [
+     "gloed",
+     "glow"
+    ],
+    [
+     "radioactieve",
+     "radioactive (radioactief)"
+    ],
+    [
+     "soort",
+     "species, kind"
+    ],
+    [
+     "genezen",
+     "cure(d)"
+    ],
+    [
+     "leprozengnoom",
+     "leper gnome"
+    ],
+    [
+     "een volle bos haar",
+     "a full head of hair"
+    ],
+    [
+     "achteruit",
+     "stand back!, backwards"
+    ]
+   ]
+  },
+  "2927": {
+   "t": "De dag erna",
+   "d": "Je denkt toch niet dat ik altijd kaal was? Nee, $gmeneer:mevrouw;! Het stralingslek in Gnomeregan heeft dit tragische haarverlies veroorzaakt. Voor die dag had ik de enige gnomefro van heel Azeroth.$B$B<Gnoarn schudt zijn vuist in de lucht.>$B$BVerdomme, die verdomde vieze troggs! Verdomme allemaal!!$B$BMisschien is het nog niet te laat, $N. Misschien kunnen we het nog redden. De stad, bedoel ik! Praat met Ozzie Togglevolt in Kharanos. Hij en zijn partner Razzle werken aan een oplossing.",
+   "o": "Praat met Ozzie Togglevolt in Kharanos.",
+   "c": "Ik dacht echt dat het verlies van dat prachtige haar zijn einde zou zijn, maar hij heeft het overleefd!$B$BIk stond vlak naast hem toen hij door de stralingsschicht werd geraakt. Die heerlijke bruine lokken vielen in plukken op de grond! In bossen! En het werd nog erger toen Gnoarn helemaal door het lint ging! O ja, door het lint, zeg ik! Gnoarn voelde aan zijn kale hoofd en kon het niet geloven. Zijn ogen schreeuwden om wraak, $N! Toen richtte hij zijn woede op de troggs!$B$B<Ozzie huivert.>",
+   "g": [
+    [
+     "kaal",
+     "bald"
+    ],
+    [
+     "stralingslek",
+     "radiation leak"
+    ],
+    [
+     "tragische",
+     "tragic (tragisch)"
+    ],
+    [
+     "haarverlies",
+     "hair loss"
+    ],
+    [
+     "veroorzaakt",
+     "caused (veroorzaken)"
+    ],
+    [
+     "vuist",
+     "fist"
+    ],
+    [
+     "verdomme",
+     "damn (it)"
+    ],
+    [
+     "oplossing",
+     "solution"
+    ],
+    [
+     "overleefd",
+     "survived (overleven)"
+    ],
+    [
+     "stralingsschicht",
+     "radiation bolt"
+    ],
+    [
+     "lokken",
+     "locks of hair (lok)"
+    ],
+    [
+     "plukken",
+     "clumps, tufts (pluk)"
+    ],
+    [
+     "door het lint ging",
+     "freaked out, lost it (door het lint gaan)"
+    ],
+    [
+     "wraak",
+     "revenge"
+    ],
+    [
+     "huivert",
+     "cringes, shudders (huiveren)"
+    ]
+   ]
+  },
+  "2931": {
+   "t": "De opdracht van Castpipe",
+   "d": "Master Mechanic Castpipe in Ironforge heeft avonturiers nodig! Hij stelt groepen samen om terug te gaan naar Gnomeregan. Het is een missie om gegevens terug te halen, en die is streng geheim en heel belangrijk.$B$BCastpipe is misschien geen lid van de Enlightened Assembly of Arcanology, Alchemy and Engineering Sciences, zoals ik. Maar hij is toch een slimme gnoom. Dus als hij denkt dat het belangrijk is, dan is het volgens mijn berekeningen voor vierentachtig procent zeker dat het echt belangrijk is!$B$BDat is een goede kans!",
+   "o": "Praat met Master Mechanic Castpipe in Ironforge.",
+   "c": "Ik stel missies samen om gegevens uit Gnomeregan te halen. Ben je daarvoor hier? Luister dan goed!",
+   "g": [
+    [
+     "opdracht",
+     "task, assignment"
+    ],
+    [
+     "avonturiers",
+     "adventurers (avonturier)"
+    ],
+    [
+     "stelt samen",
+     "organizes, puts together (samenstellen)"
+    ],
+    [
+     "gegevens",
+     "data"
+    ],
+    [
+     "streng geheim",
+     "top secret"
+    ],
+    [
+     "lid",
+     "member"
+    ],
+    [
+     "berekeningen",
+     "calculations (berekening)"
+    ],
+    [
+     "vierentachtig procent",
+     "eighty-four percent"
+    ],
+    [
+     "kans",
+     "chance, odds"
+    ]
+   ]
+  },
+  "2904": {
+   "t": "Een mooie puinhoop",
+   "d": "<Kernobee kreunt.> Wa.. Wat is er gebeurd?$B$BHet laatste wat ik me herinner: ik werd gevangengenomen door een groep Dark Iron-dwergen. Ze sloegen me bijna dood en gooiden me hier bij deze smerige troggs.$B$BHaal me hier weg, $N!$B$BDit is het plan: breng me naar de uitgang. Als we levend buiten komen, ga jij naar Booty Bay. Vertel Scooty dat ik naar Ratchet ben gegaan om Tinkerwiz te waarschuwen: de Dark Irons hebben meegewerkt aan de bouw van die supermachine.$B$BKom, we gaan!",
+   "o": "Begeleid Kernobee naar de uitgang van de Clockwerk Run en meld je daarna bij Scooty in Booty Bay.",
+   "p": "Hè? Leeft Kernobee nog??",
+   "c": "Ik denk dat je een beloning verdient omdat je Kernobee heelhuids bij ons terug hebt gebracht, $N. Ga je terug naar Gnomeregan? Dan geven deze je misschien net het voordeel dat je nodig hebt om die nietsnut en verrader, Mekgineer Thermaplugg, te verslaan.",
+   "e": "Redding van Kernobee",
+   "g": [
+    [
+     "puinhoop",
+     "mess"
+    ],
+    [
+     "kreunt",
+     "groans (kreunen)"
+    ],
+    [
+     "gevangengenomen",
+     "captured (gevangennemen)"
+    ],
+    [
+     "sloegen me bijna dood",
+     "beat me within an inch of my life (doodslaan)"
+    ],
+    [
+     "smerige",
+     "filthy (smerig)"
+    ],
+    [
+     "uitgang",
+     "exit"
+    ],
+    [
+     "meegewerkt",
+     "been involved, cooperated (meewerken)"
+    ],
+    [
+     "meld je",
+     "report (zich melden)"
+    ],
+    [
+     "beloning",
+     "reward"
+    ],
+    [
+     "heelhuids",
+     "in one piece, unharmed"
+    ],
+    [
+     "voordeel",
+     "edge, advantage"
+    ],
+    [
+     "nietsnut",
+     "good-for-nothing"
+    ],
+    [
+     "verrader",
+     "traitor, backstabber"
+    ],
+    [
+     "redding",
+     "rescue"
+    ]
+   ]
+  },
+  "2924": {
+   "t": "Essential Artificials",
+   "d": "Een onderdeel dat je bijna overal in machines kunt gebruiken, de essential artificial, was heel nuttig voor de knutselaars en smeden van Gnomeregan. Maar toen we in paniek uit onze stad vluchtten, dacht niemand eraan om een paar van deze apparaatjes mee te nemen! En ik heb er een grote voorraad van nodig voor werk dat ik binnenkort ga doen.$B$BGa alsjeblieft naar Gnomeregan en haal wat essential artificials voor me. Je vindt ze in de diepere delen van onze stad, in bakken die artificial extrapolators heten.$B$BBedankt, $N, en schiet alsjeblieft op!",
+   "o": "Breng 12 Essential Artificials naar Klockmort Spannerspan in Ironforge.",
+   "p": "Heb je de essential artificials?",
+   "c": "Je hebt ze! Nu kan ik met mijn nieuwe experimenten beginnen!$B$BIk kan je niet genoeg bedanken, $N! Door jouw moed is het gnomische onderzoek met grote sprongen vooruitgegaan!",
+   "g": [
+    [
+     "onderdeel",
+     "component, part"
+    ],
+    [
+     "nuttig",
+     "useful"
+    ],
+    [
+     "knutselaars",
+     "tinkers (knutselaar)"
+    ],
+    [
+     "smeden",
+     "smiths (smid)"
+    ],
+    [
+     "in paniek",
+     "in a panic, frantic"
+    ],
+    [
+     "vluchtten",
+     "fled (vluchten)"
+    ],
+    [
+     "apparaatjes",
+     "small devices (apparaat)"
+    ],
+    [
+     "voorraad",
+     "supply"
+    ],
+    [
+     "binnenkort",
+     "soon"
+    ],
+    [
+     "bakken",
+     "containers, bins (bak)"
+    ],
+    [
+     "schiet op",
+     "hurry up (opschieten)"
+    ],
+    [
+     "experimenten",
+     "experiments (experiment)"
+    ],
+    [
+     "moed",
+     "bravery, courage"
+    ],
+    [
+     "sprongen",
+     "leaps (sprong)"
+    ],
+    [
+     "vooruitgegaan",
+     "advanced, made progress (vooruitgaan)"
+    ]
+   ]
+  },
+  "2925": {
+   "t": "Klockmorts benodigdheden",
+   "d": "Een gnomenvriend, Klockmort Spannerspan, heeft me vanuit Ironforge een bericht gestuurd. Hij schrijft dat hij hulp nodig heeft bij een gevaarlijke maar heel belangrijke missie in Gnomeregan. Dat was ooit een grote gnomenstad, maar nu is het er besmet en zit het vol gekke gnomen en hun apparaten.$B$BIk moet hier blijven, maar mijn hart verlangt ernaar om mijn vriend te helpen. Als jij in mijn plaats kunt gaan, sta ik diep bij je in het krijt.$B$BJe kunt Klockmort vinden in Tinkertown, in Ironforge.",
+   "o": "Praat met Klockmort Spannerspan in Ironforge.",
+   "c": "Ja! Ja, ik heb hulp nodig bij een missie in Gnomeregan. En jij bent precies de $C om het te doen!",
+   "g": [
+    [
+     "benodigdheden",
+     "essentials, supplies"
+    ],
+    [
+     "bericht",
+     "message, word"
+    ],
+    [
+     "besmet",
+     "contaminated, infected"
+    ],
+    [
+     "apparaten",
+     "devices (apparaat)"
+    ],
+    [
+     "verlangt ernaar",
+     "longs to (verlangen naar)"
+    ],
+    [
+     "in mijn plaats",
+     "in my stead"
+    ],
+    [
+     "sta ik diep bij je in het krijt",
+     "I'd be much indebted to you (in het krijt staan)"
+    ],
+    [
+     "precies",
+     "exactly, just"
+    ]
+   ]
+  },
+  "2928": {
+   "t": "Gyrodrillmatische excavationators",
+   "d": "Het is vreselijk, $N. We hebben niet genoeg onderdelen om onze vloot gyrodrillmatische excavationators naar Dun Morogh te krijgen.$B$BWat we nodig hebben, zijn reserveonderdelen, $N. En waar kun je beter reserveonderdelen voor onze voertuigen halen dan in Gnomeregan? Ik hoor dat bots en mechs daar rondlopen als koeien op een open vlakte.$B$BIk wil dat je naar Gnomeregan gaat en die robots uit elkaar haalt. Breng me hun robotingewanden. Twee dozijn moet genoeg zijn.$b",
+   "o": "Breng vierentwintig Robo-mechanical Guts naar Shoni in Stormwind.",
+   "p": "Als dit een wedstrijd was, had je nu al verloren.",
+   "c": "Dit is prima, $N. Eén gyrodrillmatische excavationator gerepareerd; nog 398 te gaan.",
+   "g": [
+    [
+     "vreselijk",
+     "terrible"
+    ],
+    [
+     "onderdelen",
+     "parts (onderdeel)"
+    ],
+    [
+     "vloot",
+     "fleet"
+    ],
+    [
+     "reserveonderdelen",
+     "spare parts (reserveonderdeel)"
+    ],
+    [
+     "voertuigen",
+     "vehicles (voertuig)"
+    ],
+    [
+     "vlakte",
+     "plain, range"
+    ],
+    [
+     "uit elkaar haalt",
+     "tear apart, take apart (uit elkaar halen)"
+    ],
+    [
+     "robotingewanden",
+     "robot guts"
+    ],
+    [
+     "dozijn",
+     "dozen"
+    ],
+    [
+     "wedstrijd",
+     "race, contest"
+    ],
+    [
+     "nog 398 te gaan",
+     "398 left to go"
+    ]
+   ]
+  },
+  "2930": {
+   "t": "Gegevens redden",
+   "d": "Toen we uit Gnomeregan vluchtten, lieten we zo veel gegevens achter! Levensbelangrijke gegevens!$B$BIk heb de gegevens nodig op een prismatische ponskaart, uit een Matrix Punchograph 3005-D: een terminal met hoge beveiliging, diep in Gnomeregan. Je moet bij die terminal komen. Maar daarvoor heb je eerst toestemming nodig... en om die te krijgen, moet je eerst bij terminals met lagere beveiliging komen: de modellen -A, -B en -C. En DAARVOOR heb je beveiligingsponskaarten nodig, te beginnen met wit... en we hebben alle ponskaarten in de stad laten liggen.$B$BHet is een ramp! Kun je helpen?",
+   "o": "Breng een Prismatic Punch Card naar Master Mechanic Castpipe in Ironforge.",
+   "p": "Heb je de prismatische ponskaart??",
+   "c": "Het is je gelukt! Je hebt de prismatische ponskaart gevonden en de verloren gegevens teruggehaald! Levensbelangrijke, uiterst belangrijke, onmetelijk belangrijke gegevens waar we geen moment langer zonder konden!$B$BWat je voor de gnomen hebt gedaan, zal nog lang herinnerd worden, $N.",
+   "g": [
+    [
+     "gegevens",
+     "data"
+    ],
+    [
+     "levensbelangrijke",
+     "vitally important (levensbelangrijk)"
+    ],
+    [
+     "prismatische",
+     "prismatic (prismatisch)"
+    ],
+    [
+     "ponskaart",
+     "punch card"
+    ],
+    [
+     "beveiliging",
+     "security"
+    ],
+    [
+     "toestemming",
+     "clearance, permission"
+    ],
+    [
+     "te beginnen met",
+     "starting with"
+    ],
+    [
+     "ramp",
+     "catastrophe, disaster"
+    ],
+    [
+     "het is je gelukt",
+     "you did it (lukken)"
+    ],
+    [
+     "uiterst",
+     "extremely, critically"
+    ],
+    [
+     "onmetelijk",
+     "immeasurably"
+    ],
+    [
+     "herinnerd",
+     "remembered (herinneren)"
+    ]
+   ]
+  },
+  "2951": {
+   "t": "The Sparklematic 5200!",
+   "d": "Dit apparaat valt op tussen de gnomen die buiten de kamer standhouden tegen de waanzin. Op een klein bordje op het apparaat staat \"The Sparklematic 5200\", met daarna wat tekst:$B$B\"Maken vuil en aanslag je glimmers kapot? De Sparklematic 5200 brengt de glans terug in glans-tastisch! Stop het voorwerp dat je wilt schoonmaken in het apparaat en doe drie zilveren munten in de muntgleuf. Geef de Sparklematic 5200 even de tijd om te werken, en voilà! Je kostbaarheden komen er schoon en glanzend uit!\"",
+   "o": "Stop een Grime-Encrusted Item in de Sparklematic 5200, en zorg dat je drie zilveren munten hebt om de machine te starten.",
+   "p": "Het lijkt erop dat het apparaat een of ander voorwerp met een korst van vuil nodig heeft om schoon te maken, en drie zilveren munten om te werken. Zolang je allebei hebt, zou de Sparklematic 5200 moeten werken...",
+   "c": "Je stopt het voorwerp met de korst van vuil en drie zilveren munten in de Sparklematic 5200. De machine komt plotseling tot leven en probeert als een gek het vuil van het onbekende voorwerp te halen. Luide, wilde, kolkende geluiden dreunen uit het hart van de machine. Het metalen frame van het beest kraakt en kreunt terwijl het heen en weer slingert...",
+   "g": [
+    [
+     "apparaat",
+     "device, machine"
+    ],
+    [
+     "valt op",
+     "stands out (opvallen)"
+    ],
+    [
+     "standhouden",
+     "hold out, hold firm"
+    ],
+    [
+     "waanzin",
+     "madness"
+    ],
+    [
+     "bordje",
+     "small sign, plaque (bord)"
+    ],
+    [
+     "aanslag",
+     "residue, deposit"
+    ],
+    [
+     "glans",
+     "shine"
+    ],
+    [
+     "muntgleuf",
+     "coin slot"
+    ],
+    [
+     "kostbaarheden",
+     "valuables (kostbaarheid)"
+    ],
+    [
+     "glanzend",
+     "shiny (glanzen)"
+    ],
+    [
+     "korst",
+     "crust"
+    ],
+    [
+     "kolkende",
+     "churning (kolken)"
+    ],
+    [
+     "dreunen",
+     "pound, rumble"
+    ],
+    [
+     "kraakt",
+     "creaks (kraken)"
+    ],
+    [
+     "slingert",
+     "lurches, swings (slingeren)"
+    ]
+   ]
+  },
+  "4602": {
+   "t": "The Sparklematic 5200!",
+   "d": "Dit apparaat valt op tussen de gnomen die buiten de kamer standhouden tegen de waanzin. Op een klein bordje op het apparaat staat \"The Sparklematic 5200\", met daarna wat tekst:$B$B\"Maken vuil en aanslag je glimmers kapot? De Sparklematic 5200 brengt de glans terug in glans-tastisch! Stop het voorwerp dat je wilt schoonmaken in het apparaat en doe drie zilveren munten in de muntgleuf. Geef de Sparklematic 5200 even de tijd om te werken, en voilà! Je kostbaarheden komen er schoon en glanzend uit!\"",
+   "o": "Stop een Grime-Encrusted Item in de Sparklematic 5200, en zorg dat je drie zilveren munten hebt om de machine te starten.",
+   "p": "Het lijkt erop dat het apparaat een of ander voorwerp met een korst van vuil nodig heeft om schoon te maken, en drie zilveren munten om te werken. Zolang je allebei hebt, zou de Sparklematic 5200 moeten werken...",
+   "c": "Je stopt het voorwerp met de korst van vuil en drie zilveren munten in de Sparklematic 5200. De machine komt plotseling tot leven en probeert als een gek het vuil van het onbekende voorwerp te halen. Luide, wilde, kolkende geluiden dreunen uit het hart van de machine. Het metalen frame van het beest kraakt en kreunt terwijl het heen en weer slingert...",
+   "g": [
+    [
+     "apparaat",
+     "device, machine"
+    ],
+    [
+     "valt op",
+     "stands out (opvallen)"
+    ],
+    [
+     "standhouden",
+     "hold out, hold firm"
+    ],
+    [
+     "waanzin",
+     "madness"
+    ],
+    [
+     "bordje",
+     "small sign, plaque (bord)"
+    ],
+    [
+     "aanslag",
+     "residue, deposit"
+    ],
+    [
+     "glans",
+     "shine"
+    ],
+    [
+     "muntgleuf",
+     "coin slot"
+    ],
+    [
+     "kostbaarheden",
+     "valuables (kostbaarheid)"
+    ],
+    [
+     "glanzend",
+     "shiny (glanzen)"
+    ],
+    [
+     "korst",
+     "crust"
+    ],
+    [
+     "kolkende",
+     "churning (kolken)"
+    ],
+    [
+     "dreunen",
+     "pound, rumble"
+    ],
+    [
+     "kraakt",
+     "creaks (kraken)"
+    ],
+    [
+     "slingert",
+     "lurches, swings (slingeren)"
+    ]
+   ]
+  },
+  "4601": {
+   "t": "The Sparklematic 5200!",
+   "d": "Dit apparaat valt op tussen de gnomen die buiten de kamer standhouden tegen de waanzin. Op een klein bordje op het apparaat staat \"The Sparklematic 5200\", met daarna wat tekst:$B$B\"Maken vuil en aanslag je glimmers kapot? De Sparklematic 5200 brengt de glans terug in glans-tastisch! Stop het voorwerp dat je wilt schoonmaken in het apparaat en doe drie zilveren munten in de muntgleuf. Geef de Sparklematic 5200 even de tijd om te werken, en voilà! Je kostbaarheden komen er schoon en glanzend uit!\"",
+   "o": "Stop een Grime-Encrusted Item in de Sparklematic 5200, en zorg dat je drie zilveren munten hebt om de machine te starten.",
+   "p": "Het lijkt erop dat het apparaat een of ander voorwerp met een korst van vuil nodig heeft om schoon te maken, en drie zilveren munten om te werken. Zolang je allebei hebt, zou de Sparklematic 5200 moeten werken...",
+   "c": "Je stopt het voorwerp met de korst van vuil en drie zilveren munten in de Sparklematic 5200. De machine komt plotseling tot leven en probeert bijna als een gek het vuil van het onbekende voorwerp te halen. Luide, wilde, kolkende geluiden dreunen uit het hart van de machine. Het metalen frame van het beest kraakt en kreunt terwijl het heen en weer slingert...",
+   "g": [
+    [
+     "apparaat",
+     "device, machine"
+    ],
+    [
+     "valt op",
+     "stands out (opvallen)"
+    ],
+    [
+     "standhouden",
+     "hold out, hold firm"
+    ],
+    [
+     "waanzin",
+     "madness"
+    ],
+    [
+     "bordje",
+     "small sign, plaque (bord)"
+    ],
+    [
+     "aanslag",
+     "residue, deposit"
+    ],
+    [
+     "glans",
+     "shine"
+    ],
+    [
+     "muntgleuf",
+     "coin slot"
+    ],
+    [
+     "kostbaarheden",
+     "valuables (kostbaarheid)"
+    ],
+    [
+     "glanzend",
+     "shiny (glanzen)"
+    ],
+    [
+     "korst",
+     "crust"
+    ],
+    [
+     "kolkende",
+     "churning (kolken)"
+    ],
+    [
+     "dreunen",
+     "pound, rumble"
+    ],
+    [
+     "kraakt",
+     "creaks (kraken)"
+    ],
+    [
+     "slingert",
+     "lurches, swings (slingeren)"
+    ]
+   ]
+  },
+  "2952": {
+   "t": "The Sparklematic 5200!",
+   "c": "Net zo snel als hij begon, stopt de Sparklematic 5200 plotseling. Je hoort een eenvoudige \"ding\" uit de machine, en de mond van de machine draait in een spiraal omhoog open. In de Sparklematic 5200 ligt een klein doosje met een strikje erom. Het lijkt erop dat de machine een voorwerp inpakt nadat de korst van vuil eraf is. Ook als de machine niet heeft gewerkt, zit het voorwerp nu tenminste in een mooi doosje.$B$BTja, er is één manier om erachter te komen of het voorwerp schoon is of niet...",
+   "g": [
+    [
+     "plotseling",
+     "suddenly"
+    ],
+    [
+     "eenvoudige",
+     "simple (eenvoudig)"
+    ],
+    [
+     "in een spiraal",
+     "in a spiral"
+    ],
+    [
+     "doosje",
+     "little box (doos)"
+    ],
+    [
+     "strikje",
+     "little bow (strik)"
+    ],
+    [
+     "inpakt",
+     "wraps up (inpakken)"
+    ],
+    [
+     "tenminste",
+     "at least"
+    ],
+    [
+     "erachter te komen",
+     "to find out (erachter komen)"
+    ]
+   ]
+  },
+  "4605": {
+   "t": "The Sparklematic 5200!",
+   "c": "Net zo snel als hij begon, stopt de Sparklematic 5200 plotseling. Je hoort een eenvoudige \"ding\" uit de machine, en de mond van de machine draait in een spiraal omhoog open. In de Sparklematic 5200 ligt een klein doosje met een strikje erom. Het lijkt erop dat de machine een voorwerp inpakt nadat de korst van vuil eraf is. Ook als de machine niet heeft gewerkt, zit het voorwerp nu tenminste in een mooi doosje.$B$BTja, er is één manier om erachter te komen of het voorwerp schoon is of niet...",
+   "g": [
+    [
+     "plotseling",
+     "suddenly"
+    ],
+    [
+     "eenvoudige",
+     "simple (eenvoudig)"
+    ],
+    [
+     "in een spiraal",
+     "in a spiral"
+    ],
+    [
+     "doosje",
+     "little box (doos)"
+    ],
+    [
+     "strikje",
+     "little bow (strik)"
+    ],
+    [
+     "inpakt",
+     "wraps up (inpakken)"
+    ],
+    [
+     "tenminste",
+     "at least"
+    ],
+    [
+     "erachter te komen",
+     "to find out (erachter komen)"
+    ]
+   ]
+  },
+  "4606": {
+   "t": "The Sparklematic 5200!",
+   "c": "Net zo snel als hij begon, stopt de Sparklematic 5200 plotseling. Je hoort een eenvoudige \"ding\" uit de machine, en de mond van de machine draait in een spiraal omhoog open. In de Sparklematic 5200 ligt een klein doosje met een strikje erom. Het lijkt erop dat de machine een voorwerp inpakt nadat de korst van vuil eraf is. Ook als de machine niet heeft gewerkt, zit het voorwerp nu tenminste in een mooi doosje.$B$BTja, er is één manier om erachter te komen of het voorwerp schoon is of niet...",
+   "g": [
+    [
+     "plotseling",
+     "suddenly"
+    ],
+    [
+     "eenvoudige",
+     "simple (eenvoudig)"
+    ],
+    [
+     "in een spiraal",
+     "in a spiral"
+    ],
+    [
+     "doosje",
+     "little box (doos)"
+    ],
+    [
+     "strikje",
+     "little bow (strik)"
+    ],
+    [
+     "inpakt",
+     "wraps up (inpakken)"
+    ],
+    [
+     "tenminste",
+     "at least"
+    ],
+    [
+     "erachter te komen",
+     "to find out (erachter komen)"
+    ]
+   ]
+  },
+  "2953": {
+   "t": "Meer Sparklematic-actie",
+   "p": "De Sparklematic 5200 is leeg. Hij wacht op een voorwerp met een korst van vuil om schoon te maken, en op drie zilveren munten om te starten!",
+   "c": "De Sparklematic 5200 komt tot leven en schudt heen en weer. Binnenin wordt het hulpeloze vuil, dat een korst op het voorwerp vormt, fijngemalen door het gnomische schoonmaakmiddel van de machine.$B$BDe Sparklematic 5200 stopt, met een bekende \"ding!\". De opening voor voorwerpen draait in een spiraal open, en je ziet een netjes ingepakt doosje.",
+   "g": [
+    [
+     "wacht op",
+     "is waiting for (wachten op)"
+    ],
+    [
+     "schudt",
+     "shakes (schudden)"
+    ],
+    [
+     "binnenin",
+     "inside"
+    ],
+    [
+     "hulpeloze",
+     "helpless (hulpeloos)"
+    ],
+    [
+     "fijngemalen",
+     "ground up, pulverized (fijnmalen)"
+    ],
+    [
+     "schoonmaakmiddel",
+     "cleaning agent"
+    ],
+    [
+     "opening",
+     "opening"
+    ],
+    [
+     "netjes",
+     "neatly"
+    ],
+    [
+     "ingepakt",
+     "wrapped (inpakken)"
+    ]
+   ]
+  },
+  "4603": {
+   "t": "Meer Sparklematic-actie",
+   "p": "De Sparklematic 5200 is leeg. Hij wacht op een voorwerp met een korst van vuil om schoon te maken, en op drie zilveren munten om te starten!",
+   "c": "De Sparklematic 5200 komt tot leven en schudt heen en weer. Binnenin wordt het hulpeloze vuil, dat een korst op het voorwerp vormt, fijngemalen door het gnomische schoonmaakmiddel van de machine.$B$BDe Sparklematic 5200 stopt, met een bekende \"ding!\". De opening voor voorwerpen draait in een spiraal open, en je ziet een netjes ingepakt doosje.",
+   "g": [
+    [
+     "wacht op",
+     "is waiting for (wachten op)"
+    ],
+    [
+     "schudt",
+     "shakes (schudden)"
+    ],
+    [
+     "binnenin",
+     "inside"
+    ],
+    [
+     "hulpeloze",
+     "helpless (hulpeloos)"
+    ],
+    [
+     "fijngemalen",
+     "ground up, pulverized (fijnmalen)"
+    ],
+    [
+     "schoonmaakmiddel",
+     "cleaning agent"
+    ],
+    [
+     "opening",
+     "opening"
+    ],
+    [
+     "netjes",
+     "neatly"
+    ],
+    [
+     "ingepakt",
+     "wrapped (inpakken)"
+    ]
+   ]
+  },
+  "4604": {
+   "t": "Meer Sparklematic-actie",
+   "p": "De Sparklematic 5200 is leeg. Hij wacht op een voorwerp met een korst van vuil om schoon te maken, en op drie zilveren munten om te starten!",
+   "c": "De Sparklematic 5200 komt tot leven en schudt heen en weer. Binnenin wordt het hulpeloze vuil, dat een korst op het voorwerp vormt, fijngemalen door het gnomische schoonmaakmiddel van de machine.$B$BDe Sparklematic 5200 stopt, met een bekende \"ding!\". De opening voor voorwerpen draait in een spiraal open, en je ziet een netjes ingepakt doosje.",
+   "g": [
+    [
+     "wacht op",
+     "is waiting for (wachten op)"
+    ],
+    [
+     "schudt",
+     "shakes (schudden)"
+    ],
+    [
+     "binnenin",
+     "inside"
+    ],
+    [
+     "hulpeloze",
+     "helpless (hulpeloos)"
+    ],
+    [
+     "fijngemalen",
+     "ground up, pulverized (fijnmalen)"
+    ],
+    [
+     "schoonmaakmiddel",
+     "cleaning agent"
+    ],
+    [
+     "opening",
+     "opening"
+    ],
+    [
+     "netjes",
+     "neatly"
+    ],
+    [
+     "ingepakt",
+     "wrapped (inpakken)"
+    ]
+   ]
+  },
+  "2962": {
+   "t": "Het enige middel is meer groene gloed",
+   "d": "Je monster was niet alleen te klein, het was ook niet zuiver.$B$BWat we nodig hebben, is meer groene gloed. De troggs zijn duidelijk niet genoeg bestraald voor wat wij nodig hebben. Je moet Gnomeregan in gaan en radioactieve neerslag terugbrengen, rechtstreeks van de bron. Ik bedoel de bestraalde slijmen, loerders en gruwels. Let op: dit soort neerslag is moeilijk op te vangen. Misschien moet je het een paar keer proberen met het flesje voordat je een goed monster hebt.",
+   "o": "Reis naar Gnomeregan en breng High Potency Radioactive Fallout terug. Let op: de neerslag is onstabiel en valt vrij snel uit elkaar.$B$BOzzie wil ook je Heavy Leaden Collection Phial terug als de taak klaar is.$b",
+   "p": "Hm, je gloeit niet. Dat is een goed teken.",
+   "c": "<Ozzie bekijkt je.> Indrukwekkend, je hebt al je armen en benen nog. Nu gaan we zien wat dit spul kan doen!",
+   "g": [
+    [
+     "monster",
+     "sample"
+    ],
+    [
+     "zuiver",
+     "pure"
+    ],
+    [
+     "gloed",
+     "glow"
+    ],
+    [
+     "bestraald",
+     "irradiated (bestralen)"
+    ],
+    [
+     "neerslag",
+     "fallout"
+    ],
+    [
+     "rechtstreeks van de bron",
+     "straight from the tap/source"
+    ],
+    [
+     "slijmen",
+     "slimes (slijm)"
+    ],
+    [
+     "loerders",
+     "lurkers (loerder)"
+    ],
+    [
+     "gruwels",
+     "horrors (gruwel)"
+    ],
+    [
+     "op te vangen",
+     "to contain, to catch (opvangen)"
+    ],
+    [
+     "onstabiel",
+     "unstable"
+    ],
+    [
+     "valt uit elkaar",
+     "collapses, falls apart (uit elkaar vallen)"
+    ],
+    [
+     "gloeit",
+     "glows (gloeien)"
+    ],
+    [
+     "teken",
+     "sign"
+    ],
+    [
+     "indrukwekkend",
+     "impressive"
+    ]
+   ]
+  }
+ },
+ "words": {
+  "a-a-alsjeblieft": "p-p-please (alsjeblieft, stammered)",
+  "d-d-dappere": "b-b-brave (dapper, stammered)",
+  "d-d-doodga": "d-d-die (doodgaan, stammered)",
+  "n-n-nieuws": "w-w-word, news (nieuws, stammered)",
+  "s-s-smerige": "f-f-foul (smerig, stammered)",
+  "w-w-waarschuwen": "w-w-warn (waarschuwen, stammered)",
+  "artificial": "part of an English item name (Essential Artificial)",
+  "betaalde": "paid (betalen)",
+  "beveiligingsponskaarten": "security punch cards (beveiligingsponskaart)",
+  "blueleaf-knollen": "blueleaf tubers (knol)",
+  "bots": "bots, robots (bot)",
+  "bruine": "brown (bruin)",
+  "diepere": "deeper (diep)",
+  "eindeloze": "endless, limitless (eindeloos)",
+  "eraf": "off it",
+  "erna": "after it, after that",
+  "erom": "around it",
+  "extrapolators": "part of an English name (artificial extrapolator)",
+  "formule": "formula",
+  "frame": "frame",
+  "glans-tastisch": "shine-tastic (glans + fantastisch, a joke word)",
+  "glimmers": "sparklies, shiny things (glimmer)",
+  "gnomenstad": "gnome city",
+  "goblin-transporttechniek": "goblin transport technology",
+  "goblinuitvindingen": "goblin inventions (goblinuitvinding)",
+  "goffer": "gopher",
+  "gooiden": "threw (gooien)",
+  "grap": "joke",
+  "heralaths": "Heralath's",
+  "hierover": "about this",
+  "hydro-jack-draaimoersleutel": "hydro-jack swivel spanner",
+  "iron-dwergen": "Iron dwarves (in: Dark Iron-dwergen)",
+  "kale": "bald (kaal)",
+  "keel": "throat",
+  "klockmorts": "Klockmort's",
+  "knol": "tuber",
+  "koeien": "cows, cattle (koe)",
+  "kwestie": "matter, question",
+  "lagere": "lower (laag)",
+  "lint": "ribbon (door het lint gaan = to freak out)",
+  "losse": "loose, stray (los)",
+  "luide": "loud (luid)",
+  "machine-oorlog": "machine war, rig war",
+  "mechs": "mechs, walking machines (mech)",
+  "metalen": "metal (adj.)",
+  "missies": "missions (missie)",
+  "negatronisch": "negatronic (made-up opposite of positronic)",
+  "neus": "nose",
+  "polarisatie": "polarization",
+  "ponskaarten": "punch cards (ponskaart)",
+  "positronische": "positronic (positronisch)",
+  "procent": "percent",
+  "rechtstreeks": "straight, directly",
+  "richtte": "directed, aimed (richten)",
+  "robots": "robots (robot)",
+  "rotten": "rot",
+  "ruiken": "smell",
+  "ruste": "rest (ter ruste = to rest)",
+  "schoonmaken": "clean (up)",
+  "schraapt": "clears, scrapes (schrapen)",
+  "schreeuwden": "screamed (schreeuwen)",
+  "shredder-modellen": "shredder models (model)",
+  "sloegen": "beat, hit (slaan)",
+  "snufflenose-goffers": "snufflenose gophers (goffer)",
+  "sparklematic-actie": "Sparklematic action",
+  "spiraal": "spiral",
+  "starten": "start",
+  "stelt": "puts, places (stellen; samenstellen = organize)",
+  "supermachine": "super machine, super rig",
+  "terminal": "terminal (computer)",
+  "terminals": "terminals (terminal)",
+  "terugtrokken": "pulled back, retreated (terugtrekken)",
+  "theorie": "theory",
+  "verdergaan": "continue, go on",
+  "verlangt": "longs (verlangen)",
+  "vervangt": "replace (vervangen)",
+  "vierentachtig": "eighty-four",
+  "vierentwintig": "twenty-four",
+  "vijftig": "fifty",
+  "voilà": "there you go, voilà",
+  "wa": "wh- (wat, cut off)",
+  "with": "part of an English item name (Crate with Holes)"
+ },
+ "terms": {
+  "treant": "treant: a walking tree spirit from the Warcraft world",
+  "gnomefro": "gnomefro: a joke word for a big afro hairstyle on a gnome",
+  "excavationator": "excavationator: a made-up gnome word for a big digging machine",
+  "gyrodrillmatische": "gyrodrillmatic: a made-up gnome word (gyro + drill + automatic)"
+ }
+}

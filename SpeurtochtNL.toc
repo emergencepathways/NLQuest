@@ -36,6 +36,7 @@ Data\Batch_17_Redridge_Mountains_30.lua
 Data\Batch_18_Ashenvale_30.lua
 Data\Batch_19_Duskwood_30.lua
 Data\Batch_20_Duskwood_30.lua
+Data\Batch_21_Stonetalon_Mountains_30.lua
 
 Display.lua
 Reader.lua
