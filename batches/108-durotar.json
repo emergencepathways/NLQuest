@@ -1,0 +1,1724 @@
+{
+  "quests": {
+    "812": {
+      "t": "Een tegengif nodig",
+      "d": "$N... je komt precies op tijd. Ik hoop dat ik ook je snelheid kan prijzen.$B$BIk was niet voorzichtig. Ik vocht tegen een paar venomtails hier in de buurt, en een van hen heeft me diep gestoken. Ik voel nu al dat het gif me zwakker maakt. Zo heb ik misschien nog een uur te leven. Maar daarvoor heb ik je hulp nodig...$B$BKor'ghan in Orgrimmar weet hoe hij het tegengif maakt. Zoek hem... en snel, $N. Ik hou het niet lang meer vol. Hij is waarschijnlijk in de Cleft of Shadow.",
+      "o": "Zoek Kor'ghan in Orgrimmar en haal de Venomtail Antidote. Breng het tegengif daarna naar Rhinag, bij de noordwestelijke grens van Durotar.",
+      "p": "Ik ben bijna blij dat ik zo niet terug kan naar Sen'jin. Ze zouden me zeker uitlachen om mijn zwakte en mijn domheid.",
+      "c": "$N, je hebt mijn leven gered. Dank je.$B$BNeem dit alsjeblieft aan. Ik hoop dat het je helpt op je reizen. Of anders brengt het je misschien wat geld op. Uit wat je zegt begrijp ik dat ik het niet snel ga gebruiken. Eerst moet ik van Kor'ghan nog meer van zijn rituelen doen. Pas dan heb ik mezelf bewezen. Nog meer zwijnen doden, nog meer schorpioenstaarten verzamelen... <zucht>",
+      "g": [
+        [
+          "tegengif",
+          "antidote"
+        ],
+        [
+          "prijzen",
+          "to praise"
+        ],
+        [
+          "voorzichtig",
+          "careful"
+        ],
+        [
+          "gestoken",
+          "stung (steken)"
+        ],
+        [
+          "gif",
+          "poison"
+        ],
+        [
+          "zwakker",
+          "weaker (zwak)"
+        ],
+        [
+          "vol",
+          "(volhouden) to hold out, to last"
+        ],
+        [
+          "uitlachen",
+          "to laugh at, to mock"
+        ],
+        [
+          "zwakte",
+          "weakness"
+        ],
+        [
+          "domheid",
+          "stupidity"
+        ],
+        [
+          "gered",
+          "saved (redden)"
+        ],
+        [
+          "rituelen",
+          "rituals (ritueel)"
+        ],
+        [
+          "bewezen",
+          "proved (bewijzen)"
+        ],
+        [
+          "schorpioenstaarten",
+          "scorpion tails (schorpioenstaart)"
+        ],
+        [
+          "zucht",
+          "sigh"
+        ]
+      ]
+    },
+    "813": {
+      "t": "Het tegengif zoeken",
+      "d": "Venomtails zijn een van de dodelijkste schorpioenen in Durotar. Het was niet slim van Rhinag om op ze te jagen zonder tegengif bij zich. Maar een preek is nu het laatste wat hij nodig heeft.$B$BBreng me een paar gifzakken van de venomtails bij de ingang van Orgrimmar. Dan maak ik een tegengif voor hem.$B$BSchiet op, $N. Een van ons heeft je hulp nodig.",
+      "o": "Breng 4 Venomtail Poison Sacs naar Kor'ghan in Orgrimmar.",
+      "p": "Onthoud: het maakt niet uit op welk dier je jaagt. Bestudeer het goed en leer hoe het zich gedraagt. Die kennis kan je leven redden.",
+      "c": "Hier is het tegengif, $N. Breng het zo snel mogelijk naar Rhinag. En wees voorzichtig.",
+      "g": [
+        [
+          "dodelijkste",
+          "deadliest (dodelijk)"
+        ],
+        [
+          "schorpioenen",
+          "scorpions (schorpioen)"
+        ],
+        [
+          "tegengif",
+          "antidote"
+        ],
+        [
+          "preek",
+          "lecture, sermon; here: a scolding"
+        ],
+        [
+          "gifzakken",
+          "poison sacs (gifzak)"
+        ],
+        [
+          "ingang",
+          "entrance"
+        ],
+        [
+          "Schiet op",
+          "hurry up (opschieten)"
+        ],
+        [
+          "Bestudeer",
+          "study (bestuderen)"
+        ],
+        [
+          "gedraagt",
+          "behaves (zich gedragen)"
+        ],
+        [
+          "kennis",
+          "knowledge"
+        ],
+        [
+          "redden",
+          "to save"
+        ]
+      ]
+    },
+    "826": {
+      "t": "Zalazane",
+      "d": "De heksendokter Zalazane woont op de Echo Isles, in het oosten. Vroeger was dat ons thuis.$B$BVanaf daar stuurt hij zijn trollen naar het vasteland. Ze beheksen ons volk en brengen steeds meer van hen onder zijn macht.$B$BWe moeten hem stoppen.$B$BVersla Zalazane en zijn dienaren. Ze waren vroeger Darkspear-trollen, maar nu zijn ze voor ons verloren. Breng me zijn hoofd. Dan weet ik dat zijn kwade heerschappij voorbij is.",
+      "o": "Versla Zalazane.$B$BDood 8 Voodoo Trolls en 8 Hexed Trolls.$B$BBreng Zalazane's Head naar Gadrin.",
+      "p": "Is Zalazane verslagen, $N?",
+      "c": "Zalazane is weg. Nu kan onze stam weer in vrede slapen.$b$bDank je, $N. De Darkspear-stam heeft veel aan je te danken. Heb je last van een kwaal? Ga dan naar mijn assistent Bom'bay, achter me. Zijn voodoo is sterk...",
+      "g": [
+        [
+          "heksendokter",
+          "witch doctor"
+        ],
+        [
+          "vasteland",
+          "mainland"
+        ],
+        [
+          "beheksen",
+          "hex, bewitch (beheksen)"
+        ],
+        [
+          "macht",
+          "power, control"
+        ],
+        [
+          "Versla",
+          "defeat (verslaan)"
+        ],
+        [
+          "dienaren",
+          "servants, minions (dienaar)"
+        ],
+        [
+          "verloren",
+          "lost (verliezen)"
+        ],
+        [
+          "kwade",
+          "evil (kwaad)"
+        ],
+        [
+          "heerschappij",
+          "rule, reign"
+        ],
+        [
+          "verslagen",
+          "defeated (verslaan)"
+        ],
+        [
+          "stam",
+          "tribe"
+        ],
+        [
+          "te danken",
+          "to owe, have to thank for (te danken hebben aan)"
+        ],
+        [
+          "kwaal",
+          "ailment"
+        ]
+      ]
+    },
+    "837": {
+      "t": "Inbreuk",
+      "d": "We kwamen hier aan. Op dat moment hadden de Razormane-quilboars veel van het land in handen. Ze waren een doorn in ons oog. Door onze inzet hebben we het grootste deel van hen verdreven. Maar op sommige plekken zijn ze nog goed verdedigd.$b$bHet heeft nu wel lang genoeg geduurd. Voor onze eigen veiligheid mogen de Razormane geen enkele plek in ons land houden. Hun kampen liggen ten westen van hier. Zoek de doornstruiken, dan vind je ze. Vandaag verdrijven we ze uit Durotar. Morgen misschien uit heel Kalimdor.",
+      "o": "Dood 4 Razormane Quilboars, 4 Razormane Scouts, 4 Razormane Dustrunners en 4 Razormane Battleguards voor Gar'Thok in Razor Hill.",
+      "p": "Ze hebben wel wat verstand en wat organisatie. Toch verbaast het me steeds weer dat de quilboars zoveel land in Kalimdor hebben veroverd en gehouden. Misschien zijn ze een slimmere vijand dan ik denk...",
+      "c": "Ik laat iedereen weten dat de quilboars uit hun holen weg zijn, en dat we hun bouwsels in brand mogen steken. Zonder de Razormane in Durotar komen we dichter bij helemaal veilige grenzen voor ons nieuwe thuisland.",
+      "g": [
+        [
+          "Inbreuk",
+          "encroachment, intrusion"
+        ],
+        [
+          "in handen",
+          "in their hands, in control"
+        ],
+        [
+          "een doorn in ons oog",
+          "a thorn in our side"
+        ],
+        [
+          "inzet",
+          "effort"
+        ],
+        [
+          "verdreven",
+          "driven out (verdrijven)"
+        ],
+        [
+          "verdedigd",
+          "defended, fortified (verdedigen)"
+        ],
+        [
+          "veiligheid",
+          "safety"
+        ],
+        [
+          "doornstruiken",
+          "brambles, thorn bushes (doornstruik)"
+        ],
+        [
+          "verstand",
+          "intelligence, sense"
+        ],
+        [
+          "verbaast",
+          "amazes (verbazen)"
+        ],
+        [
+          "veroverd",
+          "conquered (veroveren)"
+        ],
+        [
+          "holen",
+          "lairs, dens (hol)"
+        ],
+        [
+          "bouwsels",
+          "structures (bouwsel)"
+        ],
+        [
+          "in brand mogen steken",
+          "may set on fire"
+        ],
+        [
+          "grenzen",
+          "borders (grens)"
+        ]
+      ]
+    },
+    "816": {
+      "t": "Verloren maar niet vergeten",
+      "d": "$N, alsjeblieft, kun je me helpen? Mijn zoon Kron is dagen geleden gaan jagen. Hij is nog steeds niet terug. Hij ging naar het westen, naar de Barrens, om op crocolisks te jagen langs de Southfury River. Ik vrees het ergste.$B$BHij was sterk, maar door zijn koppige trots kwam hij altijd in de problemen. Ik waarschuwde hem dat de crocolisks sterk en wreed zijn. Hij werd boos en liep kwaad weg.$B$BKun je hem niet vinden? Breng me dan op zijn minst een teken van wat er met hem is gebeurd... ook als je de maag van elke crocolisk langs de oevers van de Southfury moet openmaken.",
+      "o": "Breng een teken van het lot van Kron naar Misha Tor'kren op de boerderij ten noordwesten van Razor Hill.",
+      "p": "Ik bid dat Kron bij me terugkomt. Maar ik ben bijna zeker dat ik zijn lot al ken.",
+      "c": "O, mijn zoon... mijn mooie zoon.$b$bIk wist niet wat er met mijn zoon was gebeurd. Al die tijd heb ik mezelf gekweld. Nu weet ik wat er is gebeurd. Misschien kan ik eindelijk beginnen met rouwen.$b$bDank je, $N. Neem dit alsjeblieft. Ik wilde het aan Kron geven als cadeau, als hij met succes terugkwam. Nu weet ik dat hij dood is, en ik kan er niet meer naar kijken.",
+      "g": [
+        [
+          "Verloren",
+          "lost (verliezen)"
+        ],
+        [
+          "vergeten",
+          "forgotten"
+        ],
+        [
+          "vrees",
+          "fear (vrezen)"
+        ],
+        [
+          "het ergste",
+          "the worst"
+        ],
+        [
+          "koppige",
+          "stubborn (koppig)"
+        ],
+        [
+          "trots",
+          "pride"
+        ],
+        [
+          "waarschuwde",
+          "warned (waarschuwen)"
+        ],
+        [
+          "wreed",
+          "vicious, cruel"
+        ],
+        [
+          "op zijn minst",
+          "at least"
+        ],
+        [
+          "teken",
+          "sign"
+        ],
+        [
+          "maag",
+          "stomach"
+        ],
+        [
+          "oevers",
+          "banks, shores (oever)"
+        ],
+        [
+          "lot",
+          "fate"
+        ],
+        [
+          "gekweld",
+          "tormented (kwellen)"
+        ],
+        [
+          "rouwen",
+          "to mourn"
+        ]
+      ]
+    },
+    "806": {
+      "t": "Donkere stormen",
+      "d": "We mogen de Burning Blade geen voet aan de grond geven in Durotar! We moeten ze nu vernietigen. Anders gaat hun kwaad woekeren!$B$BIk heb zelf onderzoek gedaan. Een heksenmeester van de Burning Blade, de goblin Fizzle Darkstorm, heeft zijn kamp opgeslagen in Thunder Ridge, in het noordwesten. Daar zaaien hij en zijn sekteleden chaos.$B$BZoek en versla Fizzle, en breng me zijn dode klauw!",
+      "o": "Breng Fizzle's Claw naar Orgnil Soulscar in Razor Hill.",
+      "p": "Heb je Fizzle gevonden, $N? We moeten hem en de rest van de Burning Blade uit ons land verjagen!",
+      "c": "Aha! Je hebt hem!$b$bJe clan kan trots op je zijn, $N. En dankzij jou is Durotar weer een dienaar van het kwaad kwijt.",
+      "g": [
+        [
+          "voet aan de grond",
+          "a foothold"
+        ],
+        [
+          "vernietigen",
+          "to destroy"
+        ],
+        [
+          "kwaad",
+          "evil"
+        ],
+        [
+          "woekeren",
+          "to fester, to spread"
+        ],
+        [
+          "onderzoek",
+          "investigation, research"
+        ],
+        [
+          "heksenmeester",
+          "warlock"
+        ],
+        [
+          "opgeslagen",
+          "set up, pitched (opslaan)"
+        ],
+        [
+          "zaaien",
+          "sow, spread (zaaien)"
+        ],
+        [
+          "sekteleden",
+          "cult members, cultists (sektelid)"
+        ],
+        [
+          "klauw",
+          "claw"
+        ],
+        [
+          "verjagen",
+          "to drive out, chase away"
+        ],
+        [
+          "dankzij",
+          "thanks to"
+        ],
+        [
+          "dienaar",
+          "servant, agent"
+        ]
+      ]
+    },
+    "827": {
+      "t": "Skull Rock",
+      "d": "$N. De Burning Blade zit overal in de grot ten oosten van Orgrimmar. Die grot heet Skull Rock. Daar doen ze walgelijke rituelen. Ze verbranden hun eigen vlees met Searing Collars.$B$BIk denk dat de sekteleden zich met die halsbanden afstemmen op demonische kracht. Maar ik wil het zeker weten. Daarvoor moet ik een aantal van die halsbanden bestuderen.$B$BGa naar Skull Rock en verzamel Searing Collars van de sekteleden daar. Breng ze naar mij, dan ontdek ik hun geheimen.",
+      "o": "Verzamel Searing Collars van de sekteleden in Skull Rock.$B$BBreng ze naar Margoz in zijn kamp.",
+      "p": "Ben je al in Skull Rock geweest, $N? Heb je de Searing Collars?",
+      "c": "Goed. In deze halsbanden zit het geheim van de Burning Blade verborgen. En ik ga dat geheim ontdekken...",
+      "g": [
+        [
+          "grot",
+          "cave"
+        ],
+        [
+          "walgelijke",
+          "vile, disgusting (walgelijk)"
+        ],
+        [
+          "rituelen",
+          "rituals (ritueel)"
+        ],
+        [
+          "verbranden",
+          "burn (verbranden)"
+        ],
+        [
+          "vlees",
+          "flesh"
+        ],
+        [
+          "sekteleden",
+          "cult members, cultists (sektelid)"
+        ],
+        [
+          "halsbanden",
+          "collars (halsband)"
+        ],
+        [
+          "afstemmen op",
+          "attune to (zich afstemmen op)"
+        ],
+        [
+          "demonische",
+          "demonic (demonisch)"
+        ],
+        [
+          "bestuderen",
+          "to study"
+        ],
+        [
+          "verzamel",
+          "gather (verzamelen)"
+        ],
+        [
+          "ontdek",
+          "discover, uncover (ontdekken)"
+        ],
+        [
+          "verborgen",
+          "hidden"
+        ]
+      ]
+    },
+    "828": {
+      "t": "Margoz",
+      "d": "Een van onze sjamanen, Margoz, weet meer over de verdorvenheid van de Burning Blade. Hij vertelt over een grot in de bergen, Skull Rock. Die ligt vlak buiten Orgrimmar! Een grote groep sekteleden van de Burning Blade verstopt zich daar.$B$BGa eerst naar Margoz, en dan pas naar Skull Rock. Hij is wijs en zijn raad is waardevol.$B$BHij heeft zijn kamp in het noordoosten, tussen de kust en Drygulch Ravine.$B$BVolg zijn advies. Maar het maakt niet uit wat Margoz zegt, $N: ik wil nog steeds dat je die sekteleden verplettert!",
+      "o": "Praat met Margoz.",
+      "c": "Welkom, $N. Ik had al gehoord dat je zou komen. Ik hoorde ook over je daden in Durotar.$b$bJe bent een $C met steeds meer vaardigheid en faam.$b$bBlijf op het zuivere pad. Dan wordt je toekomst echt groots.",
+      "g": [
+        [
+          "sjamanen",
+          "shamans (sjamaan)"
+        ],
+        [
+          "verdorvenheid",
+          "corruption"
+        ],
+        [
+          "vlak buiten",
+          "just outside"
+        ],
+        [
+          "sekteleden",
+          "cult members, cultists (sektelid)"
+        ],
+        [
+          "verstopt zich",
+          "hides (zich verstoppen)"
+        ],
+        [
+          "wijs",
+          "wise"
+        ],
+        [
+          "raad",
+          "advice, counsel"
+        ],
+        [
+          "waardevol",
+          "valuable"
+        ],
+        [
+          "kust",
+          "coast"
+        ],
+        [
+          "verplettert",
+          "crush (verpletteren)"
+        ],
+        [
+          "daden",
+          "deeds, exploits (daad)"
+        ],
+        [
+          "vaardigheid",
+          "skill"
+        ],
+        [
+          "faam",
+          "fame, renown"
+        ],
+        [
+          "zuivere",
+          "pure (zuiver)"
+        ],
+        [
+          "groots",
+          "great, grand"
+        ]
+      ]
+    },
+    "829": {
+      "t": "Neeru Fireblade",
+      "d": "Je hebt me de Searing Collars gebracht. Het zijn krachtige, demonische voorwerpen. Ik ben bang dat ik hun herkomst niet kan vinden. Dat is te moeilijk voor mij als sjamaan. Een heksenmeester moet ze bestuderen.$B$BBreng een halsband naar Neeru Fireblade. Hij is een goede heksenmeester. Hij zegt dat hij met zijn krachten demonen tegenhoudt. Ook zegt hij dat zijn onderzoek naar het occulte onschuldig is. Of dat nu waar is of niet: misschien hebben we zijn hulp nodig tegen de demonische sekte in Durotar.$B$BJe vindt Neeru in Orgrimmar, in de Cleft of Shadow.",
+      "o": "Breng een Example Collar naar Neeru Fireblade in Orgrimmar.",
+      "p": "Mijn nederige groeten, $C. Hoe kan ik mijn broeder, de $R, vandaag helpen?",
+      "c": "Ah, en waar heb je dit vandaan? De goede Margoz in Razor Hill heeft je naar mij gestuurd, toch?$b$bNou, laat me eens beter kijken...",
+      "g": [
+        [
+          "krachtige",
+          "powerful (krachtig)"
+        ],
+        [
+          "voorwerpen",
+          "objects, implements (voorwerp)"
+        ],
+        [
+          "herkomst",
+          "origin"
+        ],
+        [
+          "sjamaan",
+          "shaman"
+        ],
+        [
+          "heksenmeester",
+          "warlock"
+        ],
+        [
+          "bestuderen",
+          "to study"
+        ],
+        [
+          "halsband",
+          "collar"
+        ],
+        [
+          "tegenhoudt",
+          "stops, thwarts (tegenhouden)"
+        ],
+        [
+          "onderzoek",
+          "research"
+        ],
+        [
+          "het occulte",
+          "the occult"
+        ],
+        [
+          "onschuldig",
+          "harmless, innocent"
+        ],
+        [
+          "sekte",
+          "cult"
+        ],
+        [
+          "nederige",
+          "humble (nederig)"
+        ],
+        [
+          "groeten",
+          "greetings (groet)"
+        ],
+        [
+          "broeder",
+          "brother"
+        ]
+      ]
+    },
+    "840": {
+      "t": "Rekruut van de Horde",
+      "d": "Hm, je ziet er behoorlijk sterk uit.$B$BLuister, mijn goede vriend Kargal heeft nieuwe rekruten nodig voor dienst in de Barrens. Ik weet dat je het goede wilt doen voor de Horde. Nou, dit is je kans.$B$BBreng deze wervingsbrief naar Kargal. Kijk of hij hem wil ondertekenen.",
+      "o": "Volg de weg naar het westen, van Razor Hill naar de Barrens. Je gaat over een brug.$B$BStop bij de buitenpost van de orcs aan de andere kant van de brug.$B$BGeef je wervingsbrief aan Kargal Battlescar bij de buitenpost in de Barrens.",
+      "p": "Wat wil je, groentje? Ben je hier niet voor de werving? Dan heb ik geen tijd voor je.",
+      "c": "O, dus Takrin heeft je gestuurd? Hij is een uitstekende verkenner. Ik weet niet wat ik zonder hem zou doen.$B$BIk onderteken je wervingsbrief. Maar we hebben vooral iemand nodig in de Crossroads.",
+      "g": [
+        [
+          "Rekruut",
+          "recruit, conscript"
+        ],
+        [
+          "behoorlijk",
+          "pretty, quite"
+        ],
+        [
+          "rekruten",
+          "recruits (rekruut)"
+        ],
+        [
+          "dienst",
+          "duty, service"
+        ],
+        [
+          "kans",
+          "chance"
+        ],
+        [
+          "wervingsbrief",
+          "recruitment letter"
+        ],
+        [
+          "ondertekenen",
+          "to sign"
+        ],
+        [
+          "buitenpost",
+          "outpost"
+        ],
+        [
+          "groentje",
+          "greenhorn, rookie (here: pup)"
+        ],
+        [
+          "werving",
+          "recruitment"
+        ],
+        [
+          "uitstekende",
+          "excellent (uitstekend)"
+        ],
+        [
+          "verkenner",
+          "scout"
+        ],
+        [
+          "onderteken",
+          "sign (ondertekenen)"
+        ]
+      ]
+    },
+    "842": {
+      "t": "Werving voor de Crossroads",
+      "d": "Breng deze ondertekende wervingsbrief naar de Crossroads.$B$BSergra Darkthorn, die vervloekte vrouw, heeft daar de leiding. Ze is een gemene sjamaan. Ze praat je eerst helemaal duizelig. Pas daarna laat ze je iets nuttigs doen. Thrall denkt dat ze iets bijzonders is, maar ik weet het nog zo niet.$B$BJe moet het zelf maar beslissen, groentje...",
+      "o": "Volg de weg naar het westen vanaf Kargal's Far Watch Outpost.$B$BBij de T-splitsing ga je naar links. Volg de weg naar het zuiden.$B$BZoek Sergra Darkthorn op het kruispunt van wegen in de Crossroads.",
+      "p": "Zo zo zo, wat hebben we hier? Vindt Kargal dat ik nog een rekruut verdien?",
+      "c": "Goed, $N. Wil je je plek in de Horde verdienen? Er is hier genoeg te doen. Dus luister goed en doe wat ik zeg.$b$b $gIk zie die blik in je ogen. Denk niet dat ik brutaal gedrag accepteer. Thrall zelf heeft gezegd dat de vrouwen van de Horde gelijk staan aan jullie mannen. Als je me ook maar een beetje minacht, leer je echte pijn kennen. : Ik ben blij dat ik je heb ontmoet. Thrall zal blij zijn dat meer vrouwen zoals jij en ik het initiatief nemen en in de Barrens vooruitgaan.;",
+      "g": [
+        [
+          "Werving",
+          "recruitment, conscription"
+        ],
+        [
+          "ondertekende",
+          "signed (ondertekenen)"
+        ],
+        [
+          "vervloekte",
+          "cursed (vervloekt)"
+        ],
+        [
+          "de leiding",
+          "in charge (de leiding hebben)"
+        ],
+        [
+          "gemene",
+          "nasty, mean (gemeen)"
+        ],
+        [
+          "duizelig",
+          "dizzy"
+        ],
+        [
+          "nuttigs",
+          "useful (nuttig)"
+        ],
+        [
+          "beslissen",
+          "to decide"
+        ],
+        [
+          "T-splitsing",
+          "T intersection"
+        ],
+        [
+          "kruispunt",
+          "crossing, crossroads"
+        ],
+        [
+          "verdien",
+          "deserve, earn (verdienen)"
+        ],
+        [
+          "blik",
+          "look, glance"
+        ],
+        [
+          "brutaal",
+          "insolent, cheeky"
+        ],
+        [
+          "gelijk staan aan",
+          "to be equal to"
+        ],
+        [
+          "minacht",
+          "disrespect, despise (minachten)"
+        ]
+      ]
+    },
+    "809": {
+      "t": "Ak'Zeloth",
+      "d": "De laatste grote oorlog is voorbij. Toen is de Burning Legion verslagen. Sindsdien zoek ik naar bronnen van demonische verdorvenheid bij de orcs. Jij hebt me een halsband gebracht. Die bevestigt mijn angst.$B$BHij is van de Burning Blade. Dat is een sekte rond een voorwerp met demonische kracht: het Demon Seed. Het ligt in de Barrens, boven op Dreadmist Peak. Het moet vernietigd worden!$B$BGa naar Far Watch Post, aan de grens met de Barrens in het westen. Praat met mijn assistent, Ak'Zeloth. Hij vertelt je wat je verder moet doen.",
+      "o": "Praat met Ak'Zeloth in de Barrens.",
+      "c": "Neeru wil dat het Demon Seed vernietigd wordt? Vreemd...$b$bGoed dan. Als hij het zaad weg wil hebben, vertel ik je hoe je het weghaalt.",
+      "e": "Vernietig het Demon Seed",
+      "o1": "Vernietig het Demon Seed",
+      "g": [
+        [
+          "verslagen",
+          "defeated (verslaan)"
+        ],
+        [
+          "Sindsdien",
+          "since then"
+        ],
+        [
+          "bronnen",
+          "sources (bron)"
+        ],
+        [
+          "verdorvenheid",
+          "corruption"
+        ],
+        [
+          "bevestigt",
+          "confirms (bevestigen)"
+        ],
+        [
+          "angst",
+          "fear"
+        ],
+        [
+          "sekte",
+          "cult"
+        ],
+        [
+          "voorwerp",
+          "object, item"
+        ],
+        [
+          "vernietigd",
+          "destroyed (vernietigen)"
+        ],
+        [
+          "grens",
+          "border"
+        ],
+        [
+          "zaad",
+          "seed"
+        ],
+        [
+          "weghaalt",
+          "remove, take away (weghalen)"
+        ]
+      ]
+    },
+    "924": {
+      "t": "Het Demon Seed",
+      "d": "Het Demon Seed is een machtig werktuig van de Burning Legion. Het ligt in een grot op Dreadmist Peak, boven een demonisch altaar van vuur.$B$BIk heb krachtstenen gemaakt. Leg je zo'n steen bij het zaad, dan verbreekt hij de band met de Legion.$B$BNeem een steen van de tafel. Breng hem naar het altaar van vuur, boven op Dreadmist Peak. Reis naar het westen. Bij de splitsing van de weg ga je naar het noorden. De Peak ligt dan aan je linkerkant. De veiligste weg naar boven is aan de noordkant.$B$BEn schiet op: na een tijdje verbruikt de kracht van de steen zichzelf.",
+      "o": "Pak een Flawed Power Stone. Breng hem op tijd naar het Altar of Fire, want de steen raakt op. Ga daarna terug naar Ak'Zeloth.",
+      "p": "Het Demon Seed bestaat nog. Ik voel zijn kracht...",
+      "c": "Je taak is klaar. Je hebt het Demon Seed vernietigd. Dat vroeg Neeru. Maar dit is niet het einde...$b$bDe vernietiging van het Demon Seed stuurde golven van kracht door de ether. Enorm sterke golven. Ik heb ze gevoeld, en ik weet zeker dat ook andere wezens ze hebben gevoeld. Er zijn anderen. Zij gaan zich afvragen waarom hun speelgoed kapot is...$b$bProblemen in de toekomst of niet: ik heb iets voor je. Neeru heeft het gestuurd als betaling. En ik moest je van hem bedanken.$b$bDus: dank je.",
+      "o1": "Vernietig het Demon Seed",
+      "g": [
+        [
+          "machtig",
+          "powerful"
+        ],
+        [
+          "werktuig",
+          "tool"
+        ],
+        [
+          "altaar",
+          "altar"
+        ],
+        [
+          "krachtstenen",
+          "power stones (krachtsteen)"
+        ],
+        [
+          "verbreekt",
+          "breaks, disrupts (verbreken)"
+        ],
+        [
+          "splitsing",
+          "fork, split"
+        ],
+        [
+          "veiligste",
+          "safest (veilig)"
+        ],
+        [
+          "verbruikt",
+          "consumes, uses up (verbruiken)"
+        ],
+        [
+          "raakt op",
+          "runs out (opraken)"
+        ],
+        [
+          "vernietiging",
+          "destruction"
+        ],
+        [
+          "golven",
+          "waves (golf)"
+        ],
+        [
+          "ether",
+          "ether"
+        ],
+        [
+          "wezens",
+          "beings (wezen)"
+        ],
+        [
+          "afvragen",
+          "wonder (zich afvragen)"
+        ],
+        [
+          "betaling",
+          "payment"
+        ]
+      ]
+    },
+    "363": {
+      "t": "Ruw wakker worden",
+      "d": "Eindelijk word je wakker. We wilden je bijna met de anderen in het vuur gooien. Maar zo te zien heb je het gehaald.$b$bIk ben Mordo. Ik zorg voor de crypte van Deathknell. En jij bent niet langer de slaaf van de Lich King.$b$bPraat met Shadow Priest Sarvis in de kapel onderaan de heuvel. Hij vertelt je meer over wat je moet weten.",
+      "o": "Praat met Shadow Priest Sarvis.",
+      "c": "Weer een van de wandelende doden, hm? Dat was vast een flinke schok. Je wordt wakker in de crypte, en alleen de kou en Mordo begroeten je...$b$bIk zie dat je in de war bent. Ik probeer je onze... situatie... uit te leggen.$b$bOnze nieuwe leider, Lady Sylvanas, heeft ons bevrijd van de macht van de Lich King. De Dark Lady leidt ons in onze oorlog tegen de gehate Scourge. En tegen de laatste groepen mensen. Ze achtervolgen ons overal.",
+      "g": [
+        [
+          "Ruw",
+          "rude, rough"
+        ],
+        [
+          "gooien",
+          "to throw, toss"
+        ],
+        [
+          "zo te zien",
+          "it looks like"
+        ],
+        [
+          "gehaald",
+          "made it (halen)"
+        ],
+        [
+          "crypte",
+          "crypt"
+        ],
+        [
+          "slaaf",
+          "slave"
+        ],
+        [
+          "kapel",
+          "chapel"
+        ],
+        [
+          "onderaan",
+          "at the bottom of"
+        ],
+        [
+          "wandelende",
+          "walking (wandelen)"
+        ],
+        [
+          "schok",
+          "shock"
+        ],
+        [
+          "begroeten",
+          "greet (begroeten)"
+        ],
+        [
+          "in de war",
+          "confused"
+        ],
+        [
+          "bevrijd",
+          "freed (bevrijden)"
+        ],
+        [
+          "gehate",
+          "hated (haten)"
+        ],
+        [
+          "achtervolgen",
+          "follow, pursue (achtervolgen)"
+        ]
+      ]
+    },
+    "5847": {
+      "t": "Welkom!",
+      "d": "Welkom in World of Warcraft!$B$BJe hebt de World of Warcraft Collector's Edition gekocht. Speciaal als dank daarvoor: geef deze cadeaubon aan Claire Willower in Deathknell. Dan krijg je een cadeau: een kleine metgezel. Hij gaat met je mee op je zoektocht naar avontuur en glorie.$B$BNogmaals bedankt, en veel plezier in World of Warcraft!",
+      "o": "Breng de Deathknell Gift Voucher naar Claire Willower in Deathknell.",
+      "p": "Hallo! Leuk je te ontmoeten!$B$BIk zie dat je een speciale bon hebt. Geef hem aan mij, dan geef ik je er iets voor terug.",
+      "c": "Je bent echt een bijzondere held, $N. Welkom in de wereld van Azeroth! We bieden je een van deze unieke cadeaus aan!",
+      "g": [
+        [
+          "gekocht",
+          "bought (kopen)"
+        ],
+        [
+          "dank",
+          "thanks"
+        ],
+        [
+          "cadeaubon",
+          "gift voucher"
+        ],
+        [
+          "metgezel",
+          "companion"
+        ],
+        [
+          "zoektocht",
+          "quest, search"
+        ],
+        [
+          "avontuur",
+          "adventure"
+        ],
+        [
+          "Nogmaals",
+          "once again"
+        ],
+        [
+          "bon",
+          "voucher"
+        ],
+        [
+          "bijzondere",
+          "special (bijzonder)"
+        ],
+        [
+          "bieden",
+          "offer (aanbieden)"
+        ],
+        [
+          "unieke",
+          "unique (uniek)"
+        ]
+      ]
+    },
+    "364": {
+      "t": "De hersenlozen",
+      "d": "Wij, de Forsaken, zijn in oorlog met het leger van de Lich King: de Scourge. Dat zijn legers van ondoden, met necromantie opgewekt. En smerige beesten uit het noorden, en gekwelde geesten.$b$bHet noorden van het dorp zit vol met de hersenlozen. We moeten ze vernietigen. Vernietig ze, zonder genade. Misschien waren ze vroeger onze broeders en zusters. De gevallenen zijn niets anders dan slaven van de Lich King.",
+      "o": "Dood 8 Mindless Zombies en 8 Wretched Zombies voor Shadow Priest Sarvis.",
+      "p": "Je komt niet ver in dit nieuwe leven als je zelfs de zwakste zombies niet kunt doden, $n. Kom pas terug als je succes hebt.",
+      "c": "Het is jammer dat we de Scourge niet aan onze kant kunnen krijgen. Hun grote aantallen zouden handig zijn in de komende gevechten.$b$bMaar ze willen niet bij ons komen. Dus we hebben geen keus: we moeten ze vernietigen.",
+      "g": [
+        [
+          "hersenlozen",
+          "mindless ones (hersenloos)"
+        ],
+        [
+          "leger",
+          "army"
+        ],
+        [
+          "ondoden",
+          "undead (ondode)"
+        ],
+        [
+          "necromantie",
+          "necromancy"
+        ],
+        [
+          "opgewekt",
+          "raised (opwekken)"
+        ],
+        [
+          "smerige",
+          "foul, filthy (smerig)"
+        ],
+        [
+          "gekwelde",
+          "tormented (kwellen)"
+        ],
+        [
+          "geesten",
+          "spirits, spectres (geest)"
+        ],
+        [
+          "genade",
+          "mercy"
+        ],
+        [
+          "gevallenen",
+          "the fallen (gevallene)"
+        ],
+        [
+          "slaven",
+          "slaves (slaaf)"
+        ],
+        [
+          "zwakste",
+          "weakest (zwak)"
+        ],
+        [
+          "aantallen",
+          "numbers (aantal)"
+        ],
+        [
+          "gevechten",
+          "battles, fights (gevecht)"
+        ],
+        [
+          "keus",
+          "choice"
+        ]
+      ]
+    },
+    "376": {
+      "t": "De verdoemden",
+      "d": "Ik zorg voor onze gewonde krijgers. Ik naai wapenrusting en kleren. En ik help Shadow Priest Sarvis met alles wat hij verder nodig heeft.$b$bZo te zien ga jij ook voor hem werken... op jacht naar de hersenlozen, als ik hem goed ken. Nou, wil je heel blijven? Daar twijfel ik niet aan. Misschien kan ik je helpen. Ik heb bijna geen poten en vleugels meer. Breng je me er een paar, dan zoek ik een wapenrusting voor je. In het zuiden vind je veel wolven en vleermuizen.",
+      "o": "Breng 6 Scavenger Paws en 6 Duskbat Wings naar Novice Elreth.",
+      "p": "Probeer echt heel te blijven. Straks heb ik een wapenrusting voor je.",
+      "c": "Dank je, $n. Deze wapenrusting helpt je vast.$b$bHopelijk heb jij er meer aan dan de vorige drager...",
+      "g": [
+        [
+          "verdoemden",
+          "the damned (verdoemde)"
+        ],
+        [
+          "gewonde",
+          "wounded (gewond)"
+        ],
+        [
+          "krijgers",
+          "warriors (krijger)"
+        ],
+        [
+          "naai",
+          "sew, tailor (naaien)"
+        ],
+        [
+          "wapenrusting",
+          "armor"
+        ],
+        [
+          "hersenlozen",
+          "mindless ones (hersenloos)"
+        ],
+        [
+          "heel blijven",
+          "stay in one piece"
+        ],
+        [
+          "twijfel",
+          "doubt (twijfelen)"
+        ],
+        [
+          "poten",
+          "paws (poot)"
+        ],
+        [
+          "vleugels",
+          "wings (vleugel)"
+        ],
+        [
+          "vleermuizen",
+          "bats (vleermuis)"
+        ],
+        [
+          "Hopelijk",
+          "hopefully"
+        ],
+        [
+          "drager",
+          "wearer"
+        ]
+      ]
+    },
+    "3901": {
+      "t": "Rammelen aan de Rattlecages",
+      "d": "Je hebt de Forsaken laten zien wat je kunt, $N, onder normale omstandigheden. Nu wil ik je onder druk zien.$B$BDe Rattlecage-skeletten zijn ook hersenloze dienaren van de Lich King. Ze zijn sterker dan de zombies van eerder. Maak hun aantal weer kleiner en bewijs jezelf aan de Forsaken. Wacht niet te lang. Praat weer met me als je klaar bent.",
+      "o": "Dood 12 Rattlecage Skeletons. Ga daarna terug naar Shadow Priest Sarvis in Deathknell.",
+      "p": "Treuzel je met deze taak? Dan kun je net zo goed doelloos gaan rondlopen, net als onze gevallen broeders en zusters in het dorp. Hopelijk gaat het jou beter af, ja?",
+      "c": "Ik ben klaar met je, $N. Je hebt je vrijheid gekregen, en je hebt laten zien dat je die waard bent. Velen zullen tegen je zijn om wat je geworden bent. Maar weet dit: ze kunnen van alles tegen ons proberen, maar we zijn vrij. We laten ons nooit meer ketenen.$B$BNeem dit en ga op weg. Je moet nog veel doen, $c.",
+      "g": [
+        [
+          "Rammelen",
+          "to rattle"
+        ],
+        [
+          "omstandigheden",
+          "circumstances (omstandigheid)"
+        ],
+        [
+          "onder druk",
+          "under pressure"
+        ],
+        [
+          "skeletten",
+          "skeletons (skelet)"
+        ],
+        [
+          "hersenloze",
+          "mindless (hersenloos)"
+        ],
+        [
+          "dienaren",
+          "servants, minions (dienaar)"
+        ],
+        [
+          "bewijs",
+          "prove (bewijzen)"
+        ],
+        [
+          "Treuzel",
+          "dawdle, dally (treuzelen)"
+        ],
+        [
+          "net zo goed",
+          "might as well"
+        ],
+        [
+          "doelloos",
+          "aimlessly"
+        ],
+        [
+          "rondlopen",
+          "to wander about"
+        ],
+        [
+          "gevallen",
+          "fallen"
+        ],
+        [
+          "vrijheid",
+          "freedom"
+        ],
+        [
+          "waard",
+          "worthy"
+        ],
+        [
+          "ketenen",
+          "to shackle, chain"
+        ]
+      ]
+    },
+    "3902": {
+      "t": "Spullen zoeken in Deathknell",
+      "d": "Hé, jij daar! Wil je iets nuttigs doen? Luister dan goed!$B$BWe hebben verse rekruten nodig, net uit de grond. Ze moeten in Deathknell zoeken naar nuttige spullen. Die liggen waarschijnlijk in stapels kisten. We verwachten dat er snel meer rekruten opstaan. Willen we niet dat ze naakt rondstrompelen? Dan moeten we nu gaan zoeken!$B$BAan het werk dan, jij ellendige zak botten! Schiet je niet op? Dan krijg je geen beloning van me.",
+      "o": "Zoek in Deathknell en de omgeving naar 6 stuks Scavenged Goods. Breng ze naar Deathguard Saltain.",
+      "p": "Heb je nuttige spullen voor ons gevonden? Weggegooide dingen opnieuw gebruiken is geen schande. Niemand gaat ons iets geven. Wij Forsaken zorgen voor onszelf!",
+      "c": "Goed werk, $N. Ik wist wel dat je niet nutteloos was. Hier, neem een van de betere spullen. Ik heb het gevonden tussen alles wat we tot nu toe hebben verzameld.",
+      "g": [
+        [
+          "nuttigs",
+          "useful (nuttig)"
+        ],
+        [
+          "verse",
+          "fresh (vers)"
+        ],
+        [
+          "rekruten",
+          "recruits (rekruut)"
+        ],
+        [
+          "spullen",
+          "things, stuff"
+        ],
+        [
+          "stapels",
+          "stacks, piles (stapel)"
+        ],
+        [
+          "kisten",
+          "boxes, crates (kist)"
+        ],
+        [
+          "verwachten",
+          "expect (verwachten)"
+        ],
+        [
+          "opstaan",
+          "rise, get up (opstaan)"
+        ],
+        [
+          "naakt",
+          "naked"
+        ],
+        [
+          "rondstrompelen",
+          "stumble about"
+        ],
+        [
+          "ellendige",
+          "miserable (ellendig)"
+        ],
+        [
+          "beloning",
+          "reward"
+        ],
+        [
+          "omgeving",
+          "surroundings, vicinity"
+        ],
+        [
+          "Weggegooide",
+          "thrown away (weggooien)"
+        ],
+        [
+          "schande",
+          "shame, disgrace"
+        ],
+        [
+          "nutteloos",
+          "useless"
+        ]
+      ]
+    },
+    "380": {
+      "t": "Night Web's Hollow",
+      "d": "Een van onze grootste problemen is dit: we hebben grondstoffen uit de natuur nodig om te overleven. Die zijn moeilijk te krijgen. Ook in de beste tijd van de Alliance was goud al zeldzaam.$b$bTen noordwesten van hier is een goudmijn. Die zit vol met spinnen. We hebben goud uit de mijn nodig. Maar dat kan niet, want de spinnen kruipen daar overal rond. Ik heb niet veel mensen voor deze taak. Dus we moeten het beetje bij beetje doen.$B$BGa erheen en kijk wat je voor ons kunt doen, $n.",
+      "o": "Dood 10 Young Night Web Spiders en 8 Night Web Spiders voor Executor Arren.",
+      "p": "Pas op voor het gif van de spinnen, $n. Voel je een scherp, brandend gevoel? Laat er dan naar kijken.",
+      "c": "Hm, nou, het is een begin. De plaag is pas over een paar weken of maanden helemaal weg. Daarna gaan we er met fakkels naar binnen. We branden dan de webben weg.$b$bJe hebt je plicht goed gedaan, $n. Ik vind vast nog iets anders voor je.",
+      "g": [
+        [
+          "grondstoffen",
+          "resources (grondstof)"
+        ],
+        [
+          "overleven",
+          "to survive"
+        ],
+        [
+          "zeldzaam",
+          "scarce, rare"
+        ],
+        [
+          "goudmijn",
+          "gold mine"
+        ],
+        [
+          "spinnen",
+          "spiders (spin)"
+        ],
+        [
+          "kruipen",
+          "crawl (kruipen)"
+        ],
+        [
+          "beetje bij beetje",
+          "little by little"
+        ],
+        [
+          "Pas op",
+          "be wary, watch out (oppassen)"
+        ],
+        [
+          "gif",
+          "venom, poison"
+        ],
+        [
+          "scherp",
+          "sharp"
+        ],
+        [
+          "brandend",
+          "burning"
+        ],
+        [
+          "plaag",
+          "infestation, plague"
+        ],
+        [
+          "fakkels",
+          "torches (fakkel)"
+        ],
+        [
+          "webben",
+          "webs (web)"
+        ],
+        [
+          "plicht",
+          "duty"
+        ]
+      ]
+    },
+    "381": {
+      "t": "De Scarlet Crusade",
+      "d": "Dit zul je fijn vinden: het lijkt erop dat we vooruitgaan in de mijn. Dat komt voor een groot deel door jouw werk. Nu kunnen we naar andere problemen kijken.$b$bMijn verkenners melden dat een groep van de Scarlet Crusade een kamp bouwt, ten zuidoosten van hier. De Scarlet Crusade is een verachtelijke organisatie. Ze jagen op ons. Ze rusten pas als alle ondoden vernietigd zijn, of ze nu van de Scourge van de Lich King zijn of niet. We moeten als eerste toeslaan!$b$bWees voorzichtig. Hun onheilige ijver maakt ze gevaarlijke tegenstanders.",
+      "o": "Breng Executor Arren 12 Scarlet Armbands van Scarlet Converts en Scarlet Initiates.",
+      "p": "Die dwazen... Ze sturen zichzelf vrolijk naar hun eigen graf.",
+      "c": "Jammer dat ze niet naar rede luisteren, hè, $n? Misschien konden we dan rustig met ze gaan zitten voor een redelijk gesprek... ha!$b$bDoor het Licht verblinde dwazen.",
+      "g": [
+        [
+          "vooruitgaan",
+          "make progress"
+        ],
+        [
+          "verkenners",
+          "scouts (verkenner)"
+        ],
+        [
+          "melden",
+          "report (melden)"
+        ],
+        [
+          "verachtelijke",
+          "despicable (verachtelijk)"
+        ],
+        [
+          "rusten",
+          "rest (rusten)"
+        ],
+        [
+          "ondoden",
+          "undead (ondode)"
+        ],
+        [
+          "toeslaan",
+          "to strike"
+        ],
+        [
+          "onheilige",
+          "unholy (onheilig)"
+        ],
+        [
+          "ijver",
+          "zeal"
+        ],
+        [
+          "tegenstanders",
+          "adversaries (tegenstander)"
+        ],
+        [
+          "dwazen",
+          "fools (dwaas)"
+        ],
+        [
+          "graf",
+          "grave"
+        ],
+        [
+          "rede",
+          "reason"
+        ],
+        [
+          "redelijk",
+          "reasonable"
+        ],
+        [
+          "verblinde",
+          "blinded (verblinden)"
+        ]
+      ]
+    },
+    "8": {
+      "t": "De deal van een schurk",
+      "d": "Hé, maat! Doe je een jonge man een plezier? Ik heb meer dan genoeg hersenloze zombies en spinnen bevochten.$B$BIk heb hier een brief. Die moet naar Brill... naar een herbergierster, Renee nog-wat. Haar achternaam doet er niet toe.$B$BHoe dan ook, het is een gezellig klein plekje. Het zit vol met slachtoffers van de pest. Ze proberen hun weg te vinden in de wereld. En het is ook een goede plek voor jou om uit te rusten, als het nodig is. Je moet er eens gaan kijken... doe je het, dan betaal ik je goed.",
+      "o": "Breng de Nondescript Letter naar Innkeeper Renee in Tirisfal Glades.",
+      "p": "Ja? Ja? Wat is er?$B$BDe Forsaken... die hebben zeker een enorme eetlust. Voel je thuis... ja, laat die moeie botten maar rusten. Ik heet Renee, als je iets nodig hebt.",
+      "c": "O? Een brief? Wat een goed nieuws! Ik wacht al op bericht van mijn lieve oude moeder in Deathknell. Ze is zo'n heilige. Ik vraag me af hoe het met haar gaat.$B$BWat? Te vrolijk? Je gelooft het niet, hè?$B$BNou, wegwezen dan... het gaat je eigenlijk niets aan van wie de brief is. Hup! Wegwezen!$B$BKom terug als je geld hebt om uit te geven... luiwammes.$B$BEn voor je het weet, kom je terug om uit te rusten na een lange dag avontuur, of zoiets stoms.",
+      "g": [
+        [
+          "schurk",
+          "rogue"
+        ],
+        [
+          "maat",
+          "mate, pal"
+        ],
+        [
+          "een plezier doen",
+          "do a favor"
+        ],
+        [
+          "bevochten",
+          "fought (bevechten)"
+        ],
+        [
+          "herbergierster",
+          "innkeeper (f.)"
+        ],
+        [
+          "doet er niet toe",
+          "doesn't matter"
+        ],
+        [
+          "gezellig",
+          "cozy"
+        ],
+        [
+          "slachtoffers",
+          "victims (slachtoffer)"
+        ],
+        [
+          "pest",
+          "plague"
+        ],
+        [
+          "eetlust",
+          "appetite"
+        ],
+        [
+          "moeie",
+          "weary, tired (moe)"
+        ],
+        [
+          "heilige",
+          "saint"
+        ],
+        [
+          "wegwezen",
+          "get lost, go away"
+        ],
+        [
+          "luiwammes",
+          "lazybones, loafer"
+        ],
+        [
+          "voor je het weet",
+          "next thing you know"
+        ]
+      ]
+    },
+    "382": {
+      "t": "De rode boodschapper",
+      "d": "Mijn meerderen in Brill melden iets. Een agent van de Scarlet Crusade is vanuit het Scarlet Monastery naar Deathknell gestuurd. Volgens de berichten heeft de boodschapper belangrijke informatie bij zich. Ik weet verder niets. Maar het maakt niet uit wat het is: we moeten het hebben!$b$bIk kan niemand beter sturen dan jou, $n. Zoek die boodschapper en breng me zo veel mogelijk informatie.",
+      "o": "Dood Meven Korgal, de boodschapper, in het kamp van de kruisvaarders. Breng de informatie daarna naar Executor Arren.",
+      "p": "Hoe gaat je missie, $n?",
+      "c": "Hm... Eens kijken wat je hebt...$b$b<Hij bladert snel door je gevonden documenten.>$b$bWat nieuws over hun daden tegen ons... Waardeloos. Verkenningsrapporten... Nieuwe bevelen: \"Blijf een kamp bouwen bij de verwoeste stad...\" Dat wisten we allemaal al... Ah, wat is dit? Een kaart met de posities van een paar van hun veldcommandanten en agenten! Hier hebben we wat aan.",
+      "g": [
+        [
+          "boodschapper",
+          "messenger"
+        ],
+        [
+          "meerderen",
+          "superiors (meerdere)"
+        ],
+        [
+          "melden",
+          "report (melden)"
+        ],
+        [
+          "Volgens",
+          "according to"
+        ],
+        [
+          "berichten",
+          "reports (bericht)"
+        ],
+        [
+          "kruisvaarders",
+          "crusaders (kruisvaarder)"
+        ],
+        [
+          "bladert",
+          "leafs, rifles (bladeren)"
+        ],
+        [
+          "daden",
+          "deeds, exploits (daad)"
+        ],
+        [
+          "Waardeloos",
+          "worthless"
+        ],
+        [
+          "Verkenningsrapporten",
+          "scouting reports (verkenningsrapport)"
+        ],
+        [
+          "bevelen",
+          "orders (bevel)"
+        ],
+        [
+          "verwoeste",
+          "ruined (verwoesten)"
+        ],
+        [
+          "posities",
+          "positions, dispositions (positie)"
+        ],
+        [
+          "veldcommandanten",
+          "field commanders (veldcommandant)"
+        ]
+      ]
+    },
+    "383": {
+      "t": "Belangrijke informatie",
+      "d": "Deze moeten naar mijn meerdere, Executor Zygand, in Brill. Met deze informatie kunnen we de Scarlet Crusade een beslissende klap geven. Je hebt ons goed geholpen hier in Deathknell. Maar iemand moet dit naar Zygand brengen. En ik denk dat hij geschikter werk voor je heeft.$b$bNeem de weg naar het noorden, Deathknell uit. Je komt dan in Tirisfal zelf. Kort daarna kom je bij een kruispunt. Neem daar de weg naar het oosten, en blijf naar het oosten gaan. Onderweg kom je langs Cold Hearth Manor.",
+      "o": "Breng de Scarlet Crusade Documents naar Executor Zygand in Brill.",
+      "p": "Ja, wat wil je?",
+      "c": "Ja, dit is heel goed. Je hebt goed werk gedaan met deze informatie, $n. Hm... namen van de officieren in Tirisfal Glades...$b$bStel je voor: we doden hun leiders in één snelle aanval. Wat een klap voor het moreel van die vervloekte fanatici!",
+      "g": [
+        [
+          "meerdere",
+          "superior"
+        ],
+        [
+          "beslissende",
+          "decisive (beslissend)"
+        ],
+        [
+          "klap",
+          "blow"
+        ],
+        [
+          "geschikter",
+          "more appropriate (geschikt)"
+        ],
+        [
+          "kruispunt",
+          "crossroads"
+        ],
+        [
+          "Onderweg",
+          "along the way"
+        ],
+        [
+          "officieren",
+          "officers (officier)"
+        ],
+        [
+          "Stel je voor",
+          "imagine (zich voorstellen)"
+        ],
+        [
+          "aanval",
+          "attack, strike"
+        ],
+        [
+          "moreel",
+          "morale"
+        ],
+        [
+          "vervloekte",
+          "cursed, bloody (vervloekt)"
+        ],
+        [
+          "fanatici",
+          "zealots, fanatics (fanaticus)"
+        ]
+      ]
+    },
+    "590": {
+      "t": "De deal van een schurk",
+      "d": "Wat?$B$BWat?!$B$BWil je geld? Ik ben je helemaal geen geld schuldig.$B$BBrief? Welke brief? O, wil je soms vechten? Goed dan, maat... kom maar op! Jou geld schuldig...",
+      "o": "Versla Calvin Montague in Deathknell.",
+      "c": "Ongelooflijk! Wat een vaardigheid!$B$BIk dacht dat je een makkelijke prooi was, $N. Je hebt me goed te pakken gehad.$B$BHier is het beloofde geld... niet zoveel als ik zei. Maar dat komt omdat ik in het begin tegen je loog.",
+      "e": "Versla Calvin Montague",
+      "g": [
+        [
+          "schurk",
+          "rogue"
+        ],
+        [
+          "schuldig",
+          "owing (schuldig zijn)"
+        ],
+        [
+          "soms",
+          "perhaps, by any chance"
+        ],
+        [
+          "maat",
+          "mate, pal"
+        ],
+        [
+          "kom maar op",
+          "bring it on"
+        ],
+        [
+          "Versla",
+          "defeat (verslaan)"
+        ],
+        [
+          "Ongelooflijk",
+          "incredible"
+        ],
+        [
+          "vaardigheid",
+          "skill"
+        ],
+        [
+          "prooi",
+          "prey"
+        ],
+        [
+          "te pakken gehad",
+          "got (iemand te pakken hebben)"
+        ],
+        [
+          "beloofde",
+          "promised (beloven)"
+        ],
+        [
+          "loog",
+          "lied (liegen)"
+        ]
+      ]
+    },
+    "6395": {
+      "t": "Marla's laatste wens",
+      "d": "Vóór de pest woonde mijn vriendin Marla Fipps met haar man Samuel. Toen kwam de pest. Samuel stierf en werd een van de Scourge.$B$BMarla bleef gespaard van een leven als ondode. Maar ze stierf door de handen van haar man. Hij had nu geen verstand meer. Toch was haar liefde heel sterk. Ze wilde samen met haar lieve Samuel begraven worden. Dat was haar laatste wens.$B$BSamuel Fipps zwerft rond bij een verwoest kamp langs de weg, ten noordoosten van Deathknell. Versla hem en vervul Marla's wens: begraaf hem bij haar graf, in de eerste rij van onze begraafplaats.",
+      "o": "Breng Samuel Fipps' Remains naar Marla's Grave. Ga daarna terug naar Novice Elreth.",
+      "p": "We moeten onze doden respecteren, $N. Dat is één verschil tussen ons en de Scourge...",
+      "c": "Je hebt vandaag iets goeds gedaan, $N. Onze strijd tegen de Scourge gaat door. Maar laten we hopen dat Marla en Samuel samen rust vinden, op hun laatste rustplaats.",
+      "o1": "Samuel's Remains begraven",
+      "g": [
+        [
+          "wens",
+          "wish"
+        ],
+        [
+          "pest",
+          "plague"
+        ],
+        [
+          "stierf",
+          "died (sterven)"
+        ],
+        [
+          "gespaard",
+          "spared (sparen)"
+        ],
+        [
+          "ondode",
+          "undead"
+        ],
+        [
+          "verstand",
+          "mind, sense"
+        ],
+        [
+          "begraven",
+          "buried, to bury"
+        ],
+        [
+          "zwerft rond",
+          "roams (rondzwerven)"
+        ],
+        [
+          "verwoest",
+          "ruined (verwoesten)"
+        ],
+        [
+          "vervul",
+          "fulfil, grant (vervullen)"
+        ],
+        [
+          "begraaf",
+          "bury (begraven)"
+        ],
+        [
+          "begraafplaats",
+          "graveyard"
+        ],
+        [
+          "respecteren",
+          "to respect"
+        ],
+        [
+          "strijd",
+          "struggle, fight"
+        ],
+        [
+          "rustplaats",
+          "resting place"
+        ]
+      ]
+    }
+  },
+  "words": {
+    "achternaam": "last name, surname",
+    "afstemmen": "to attune, to tune (zich afstemmen op)",
+    "chaos": "chaos",
+    "darkspear-stam": "Darkspear tribe",
+    "deal": "deal",
+    "demonisch": "demonic",
+    "geduurd": "lasted (duren)",
+    "gelooft": "believe (geloven)",
+    "gesprek": "conversation, discourse",
+    "hup": "go on!, off you go",
+    "kaart": "map",
+    "linkerkant": "left side",
+    "nog-wat": "something-or-other",
+    "noordkant": "north side, northern face",
+    "noordwestelijke": "northwestern (noordwestelijk)",
+    "normale": "normal (normaal)",
+    "occulte": "occult (occult)",
+    "organisatie": "organization",
+    "plekje": "little place, spot (plek)",
+    "rattlecage-skeletten": "Rattlecage skeletons",
+    "razormane-quilboars": "Razormane quilboars",
+    "slimmere": "smarter, craftier (slim)",
+    "speelgoed": "toy, toys",
+    "steken": "to set (in brand steken: to set on fire)",
+    "stoms": "stupid (stom; iets stoms: something stupid)",
+    "stormen": "storms (storm)"
+  },
+  "terms": {
+    "quilboars": "quilboar: a spiky boar-like humanoid from the Warcraft world",
+    "crocolisks": "crocolisk: a large crocodile-like reptile from the Warcraft world",
+    "venomtails": "venomtail: a kind of poisonous scorpid in Durotar"
+  }
+}
