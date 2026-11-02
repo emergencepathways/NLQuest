@@ -1,6 +1,7 @@
 # Changelog
 
 ## Unreleased
+- Batch 5: the last hunter pet quests (Strigid Screecher, Jocaste) and the warrior and rogue class quests up to level 10 for humans, dwarves, gnomes and night elves (28 quests, 153 in total).
 - Batch 4: Darnassus (Temple of the Moon, Lady Sathrah, Grove of the Ancients) plus the night elf druid and hunter class quests up to level 10: Verdant/Etched Sigil, the Moonglade bear chain with Lunaclaw, and the Taming the Beast chains in Teldrassil and Dun Morogh (29 quests, 125 in total).
 - Batch 3: rest of Teldrassil (18 quests): Wellspring Lake, Oracle Glade, Ursal the Mauler, Mist, Denalan's timberling chain (96 quests in total).
 - Plan covers all of Classic: Alliance 1-45 in the Forever leveling order, Alliance 46-60, then Horde (153 batches).
