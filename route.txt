@@ -15,6 +15,10 @@
 #   other: Seasonal           event / misc categories
 #   forever: Name             new WoW Forever content: not in any database yet, so it is
 #                             translated after the addon has captured it in game
+#   *                         everything left for the current faction and level cap,
+#                             grouped by zone in leveling order
+#   faction: horde            following entries pick Horde-available quests
+#   max-level: 60             following entries go up to this quest level
 #
 # Order follows the leveling plan for Forever (Dwarf + Night Elf):
 # starting areas to 14, then dungeon runs at ~18 and ~25-32 with their prequests.
@@ -145,4 +149,85 @@ Durotar
 Mulgore
 Tirisfal Glades
 Silverpine Forest
+*
+
+# =============================================================================
+# Alliance, levels 46-60
+# =============================================================================
+max-level: 60
+Feralas
+Tanaris
+The Hinterlands
+Searing Gorge
+Azshara
+Un'Goro Crater
+Felwood
+dungeon: Sunken Temple +pre
+Blasted Lands
+Burning Steppes
+Blackrock Mountain
+dungeon: Blackrock Depths +pre
+Western Plaguelands
+Eastern Plaguelands
+Winterspring
+Silithus
+Moonglade
+Deadwind Pass
+dungeon: Blackrock Spire +pre
+dungeon: Dire Maul +pre
+dungeon: Scholomance +pre
+dungeon: Stratholme +pre
+dungeon: Molten Core +pre
+dungeon: Onyxia's Lair +pre
+dungeon: Blackwing Lair +pre
+dungeon: Zul'Gurub +pre
+Alterac Valley
+class: Druid
+class: Warrior
+class: Paladin
+class: Hunter
+class: Rogue
+class: Priest
+class: Mage
+class: Warlock
+*
+
+# =============================================================================
+# Horde, levels 1-60 (quests open to both factions are already done above)
+# =============================================================================
+faction: horde
+Valley of Trials
+Durotar
+Deathknell
+Tirisfal Glades
+Red Cloud Mesa
+Mulgore
+Orgrimmar
+Undercity
+Thunder Bluff
+class: Shaman
+class: Warrior
+class: Hunter
+class: Rogue
+class: Priest
+class: Mage
+class: Warlock
+class: Druid
+dungeon: Ragefire Chasm +pre
+The Barrens
+Silverpine Forest
+dungeon: Wailing Caverns +pre
+dungeon: Shadowfang Keep +pre
+Stonetalon Mountains
+Ashenvale
+Hillsbrad Foothills
+Thousand Needles
+dungeon: Razorfen Kraul +pre
+*
+
+# level-61+ leftovers (Zul'Gurub, Naxxramas)
+faction: alliance
+max-level: 63
+*
+faction: horde
 *

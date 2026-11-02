@@ -9,10 +9,13 @@ Batch numbers below come from `source/batches.json`. Run `python3 tools/plan_bat
 
 | Part | Quests | English words | Batches |
 |---|---|---|---|
-| Alliance, levels 1–45 | 1,321 | 177,000 | 50 (1 done) |
-| Alliance, levels 46–60 (incl. dungeons, raids, attunements) | 1,648 | 207,000 | ~52 |
-| Horde-only quests | 1,286 | 182,000 | ~46 |
-| WoW Forever's new quests | unknown until launch | | via in-game capture |
+| All of Classic, levels 1–60, both factions | 4,258 | 563,000 | 153 (batches 1–3 done) |
+| · Alliance 1–45, in the Forever leveling plan's order | | | 3–~52 |
+| · Alliance 46–60 (endgame zones, dungeons, raids, attunements) | | | ~53–~105 |
+| · Horde (only quests the Alliance part didn't already cover) | | | ~106–153 |
+| WoW Forever's new quests | unknown until launch | | via in-game capture and **Melden** |
+
+`route.txt` now plans everything; run `python3 tools/plan_batches.py` for the exact list. The phase tables below are the original Alliance 1–45 outline.
 
 ## Phase 0 — Foundation ✅ (0.1.0–0.2.0)
 - The addon: Dutch quest text, side-by-side reader, word saver, red names and Warcraft words, automatic Anki sync.
