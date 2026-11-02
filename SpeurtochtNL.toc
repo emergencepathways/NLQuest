@@ -32,6 +32,7 @@ Data\Batch_13_Loch_Modan_30.lua
 Data\Batch_14_Darkshore_30.lua
 Data\Batch_15_Darkshore_30.lua
 Data\Batch_16_Redridge_Mountains_30.lua
+Data\Batch_17_Redridge_Mountains_30.lua
 
 Display.lua
 Reader.lua

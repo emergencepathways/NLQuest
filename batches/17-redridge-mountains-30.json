@@ -1,0 +1,1713 @@
+{
+  "quests": {
+    "219": {
+      "t": "Vermist",
+      "d": "Eindelijk, vrienden van de Alliance!$b$bHelp... alsjeblieft... $b$bDit is het laatste wat ik me herinner: deze smerige orks versloegen ons regiment. De meeste mannen werden gedood. Ik kreeg een harde klap op mijn hoofd, en alles werd zwart. Nu zit ik gevangen in deze grot. Help me, ik ben zwaar gewond.$b$bIk heb hulp nodig om terug naar het dorp te komen... alsjeblieft... jij bent mijn laatste hoop...",
+      "o": "Bescherm Corporal Keeshan op de reis terug naar Redridge.",
+      "c": "Je hebt het koninkrijk goed gediend, $C. Bedankt dat je Corporal Keeshan hebt geholpen om te ontsnappen aan die gevreesde Blackrock orks. Je krijgt een beloning voor je dappere daden van vandaag.",
+      "e": "Begeleid Corporal Keeshan terug naar Redridge.",
+      "g": [
+        [
+          "Vermist",
+          "missing (in action)"
+        ],
+        [
+          "herinner",
+          "remember (zich herinneren)"
+        ],
+        [
+          "versloegen",
+          "defeated, overpowered (verslaan)"
+        ],
+        [
+          "regiment",
+          "regiment"
+        ],
+        [
+          "klap",
+          "blow"
+        ],
+        [
+          "gevangen",
+          "captive, caught"
+        ],
+        [
+          "zwaar gewond",
+          "badly hurt"
+        ],
+        [
+          "hoop",
+          "hope"
+        ],
+        [
+          "ontsnappen",
+          "to escape"
+        ],
+        [
+          "gevreesde",
+          "dreaded, feared (vrezen)"
+        ],
+        [
+          "daden",
+          "deeds, acts (daad)"
+        ],
+        [
+          "Begeleid",
+          "Escort (begeleiden)"
+        ]
+      ]
+    },
+    "169": {
+      "t": "Gezocht: Gath'Ilzogg",
+      "d": "Gezocht! Gath'Ilzogg, leider van de aanvallen van Blackrock op Stonewatch Keep en van de overvallen op het dorp Lakeshire. $b$bGath'Ilzogg is heel gevaarlijk. Volgens berichten zit hij verstopt in de burcht die ze kort geleden hebben veroverd. Daar beraamt hij nieuwe misdaden van de Blackrock Clan tegen de mensheid. Aan deze plaag van orks moet koste wat kost een einde komen. Een royale beloning wacht op de dappere persoon die het hoofd van Gath'Ilzogg naar Magistrate Solomon brengt.",
+      "o": "Dood Gath'Ilzogg en breng zijn hoofd naar Magistrate Solomon in Lakeshire voor de beloning.",
+      "p": "Wat heb je daar, $R?",
+      "c": "Fantastisch werk, $N! Gath'Ilzogg leidde die bruten in de strijd, en ze hebben veel onschuldige mensen gedood. Nu is er gerechtigheid. Dit is de eerste stap om de burcht terug te winnen voor het koninkrijk Stormwind!",
+      "g": [
+        [
+          "Gezocht",
+          "Wanted (zoeken)"
+        ],
+        [
+          "overvallen",
+          "raids (overval)"
+        ],
+        [
+          "Volgens berichten",
+          "reportedly"
+        ],
+        [
+          "verstopt",
+          "hidden, holed up"
+        ],
+        [
+          "burcht",
+          "keep, castle"
+        ],
+        [
+          "veroverd",
+          "conquered (veroveren)"
+        ],
+        [
+          "beraamt",
+          "plots (beramen)"
+        ],
+        [
+          "misdaden",
+          "crimes (misdaad)"
+        ],
+        [
+          "mensheid",
+          "humanity"
+        ],
+        [
+          "koste wat kost",
+          "at all costs"
+        ],
+        [
+          "royale",
+          "generous, gracious (royaal)"
+        ],
+        [
+          "onschuldige",
+          "innocent (onschuldig)"
+        ],
+        [
+          "gerechtigheid",
+          "justice, vindication"
+        ],
+        [
+          "terug te winnen",
+          "to win back, to reclaim (terugwinnen)"
+        ]
+      ]
+    },
+    "180": {
+      "t": "Gezocht: Lieutenant Fangore",
+      "d": "Gezocht: Lieutenant Fangore$b$bBekende leider van de Shadowhide Gnoll Clan. Hij werkt voor Morganth, de vijand van het dorp en het koninkrijk. Op bevel van Magistrate Solomon moet deze gemene verrader van Stormwind gedood worden. Laat zijn poot aan de magistraat zien als bewijs dat hij dood is.",
+      "o": "Dood Lieutenant Fangore en ga met zijn poot terug naar Magistrate Solomon in Lakeshire.",
+      "p": "Welk nieuws breng je voor het hof?",
+      "c": "Is die slechte Lieutenant Fangore dus dood? Goed dat we van dat smerige wezen af zijn. Je bent heel dapper, $C. Het dorp Lakeshire bedankt je voor je hulp.",
+      "g": [
+        [
+          "Gezocht",
+          "Wanted (zoeken)"
+        ],
+        [
+          "Bekende",
+          "known (bekend)"
+        ],
+        [
+          "Op bevel van",
+          "by order of, by mandate of"
+        ],
+        [
+          "verrader",
+          "betrayer, traitor"
+        ],
+        [
+          "poot",
+          "paw"
+        ],
+        [
+          "magistraat",
+          "magistrate"
+        ],
+        [
+          "bewijs",
+          "proof"
+        ],
+        [
+          "hof",
+          "court"
+        ],
+        [
+          "af zijn",
+          "rid of (van ... af zijn: goed dat we van ... af zijn = good riddance)"
+        ],
+        [
+          "wezen",
+          "creature"
+        ]
+      ]
+    },
+    "249": {
+      "t": "Morganth",
+      "d": "Ik heb hem lang geobserveerd, en nu heb ik de plannen van Morganth ontdekt.$B$BHij zoekt de Scythe of Elune... en misschien heeft hij hem gevonden! Als dat zo is, zullen de Redridge Mountains en het koninkrijk Stormwind zijn duistere macht snel voelen.$B$BIk ben er niet klaar voor om zelf tegen Morganth te vechten. Maar ik ben bang dat we nu iets aan hem moeten doen. Dus jij moet de Tower of Ilgalar binnengaan en Morganth onder ogen komen.$B$BVersla hem en breng me zijn Pendant of Shadow. Doe dit, en het koninkrijk heeft veel aan je te danken.",
+      "o": "Versla Morganth.$B$BBreng zijn Pendant of Shadow naar Theocritus in de Tower of Azora in Elwynn Forest.",
+      "p": "Schiet op, $N, voordat mijn angst uitkomt en Morganth zijn macht verspreidt!",
+      "c": "Je hebt het goed gedaan, $N. Je hebt de heksenmeester Morganth verslagen. Zo is Stormwind gered van een groot gevaar.$B$BIk geef je deze beloning heel nederig. En ik zou je vrede wensen, als dit vredige tijden waren.$B$BMaar in plaats daarvan wens ik je geluk bij je beproevingen, en de overwinning in de strijd die nog komt.",
+      "g": [
+        [
+          "geobserveerd",
+          "observed (observeren)"
+        ],
+        [
+          "ontdekt",
+          "discovered (ontdekken)"
+        ],
+        [
+          "duistere",
+          "dark (duister)"
+        ],
+        [
+          "macht",
+          "might, power"
+        ],
+        [
+          "onder ogen komen",
+          "to face"
+        ],
+        [
+          "Versla",
+          "Defeat (verslaan)"
+        ],
+        [
+          "heeft veel aan je te danken",
+          "owes you much"
+        ],
+        [
+          "uitkomt",
+          "comes true (uitkomen)"
+        ],
+        [
+          "verspreidt",
+          "spreads (verspreiden)"
+        ],
+        [
+          "heksenmeester",
+          "warlock"
+        ],
+        [
+          "gered",
+          "saved (redden)"
+        ],
+        [
+          "nederig",
+          "humbly, humble"
+        ],
+        [
+          "vredige",
+          "peaceful (vredig)"
+        ],
+        [
+          "beproevingen",
+          "trials (beproeving)"
+        ],
+        [
+          "overwinning",
+          "victory"
+        ]
+      ]
+    },
+    "1056": {
+      "t": "Reis naar Stonetalon Peak",
+      "d": "De geesten van het woud vertellen me dat je dapper bent en graag reist.$b$bIn het zuiden, niet ver van Mystral Lake, is een tunnel. Die heet The Talondeep Path. Door deze tunnel kom je in een gebied dat Windshear Crag heet, in de Stonetalon Mountains. Ga daar naar het zuidwesten, langs Cragpool Lake. Ga dan naar het noorden, de steile helling op, tot je bij Stonetalon Peak bent.$b$bDaar wacht Keeper Albagorm op je. Doe wat hij vraagt, $r.$b$bDe reis wordt gevaarlijk.",
+      "o": "Reis naar Keeper Albagorm op Stonetalon Peak.",
+      "c": "Ah, daar ben je. Ik zie dat Faldreas naar de geesten van het woud heeft geluisterd...",
+      "g": [
+        [
+          "geesten",
+          "spirits (geest)"
+        ],
+        [
+          "woud",
+          "forest"
+        ],
+        [
+          "dapper",
+          "brave"
+        ],
+        [
+          "gebied",
+          "area"
+        ],
+        [
+          "steile",
+          "steep (steil)"
+        ],
+        [
+          "helling",
+          "slope"
+        ],
+        [
+          "Doe wat hij vraagt",
+          "Heed his bidding"
+        ],
+        [
+          "gevaarlijk",
+          "perilous, dangerous"
+        ]
+      ]
+    },
+    "990": {
+      "t": "Tocht naar Ashenvale",
+      "d": "$N, mijn meesteres, Raene Wolfrunner, wacht op je in de stad Astranaar in Ashenvale. Met jouw hulp kunnen we misschien een deel van de verdorvenheid daar minder erg maken.$B$BGa vanaf hier naar het zuiden en blijf dicht bij de weg. Als je dat doet, kom je er zonder problemen.",
+      "o": "Zoek Raene Wolfrunner in Ashenvale.",
+      "c": "Ah, een $C uit Darkshore. Selarin heeft je goed en snel hierheen gestuurd, $N. Ik wou dat je reis niet in zulke moeilijke tijden was. Misschien kunnen we met jouw hulp de dingen beter maken.$B$BIk zou je bezoek beginnen met praten met de andere inwoners van Astranaar. Sommigen kunnen vast je hulp gebruiken.",
+      "g": [
+        [
+          "Tocht",
+          "trek"
+        ],
+        [
+          "meesteres",
+          "mistress"
+        ],
+        [
+          "verdorvenheid",
+          "corruption"
+        ],
+        [
+          "minder erg maken",
+          "to ease, to lessen"
+        ],
+        [
+          "dicht bij",
+          "close to"
+        ],
+        [
+          "Ik wou",
+          "I wish (willen)"
+        ],
+        [
+          "bezoek",
+          "visit"
+        ],
+        [
+          "inwoners",
+          "citizens (inwoner)"
+        ]
+      ]
+    },
+    "991": {
+      "t": "De reiniging van Raene",
+      "d": "$N, een oude vriend van mij helpt ook de Sentinels hier in Ashenvale. Maar hij is nog niet terug.$B$BHij had aanwijzingen om een voorwerp te vinden. Hij dacht dat het de aanvallen van de furbolgs op ons volk kon vertragen. Het is een staf, gemaakt door een slechte tovenaar die nu dood is.$B$BVoordat hij vertrok, zei hij dat hij een edelsteen voor de staf ging zoeken.$B$BHij zei dat de edelsteen misschien verborgen ligt bij het heiligdom in Lake Falathim, aan de voet van de berg in het westen. De steen werd daar bewaard, voordat het heiligdom werd overspoeld.$B$BVind mijn vriend, $N, alsjeblieft.",
+      "o": "Zoek Teronis in Ashenvale.",
+      "c": "Het lichaam van Teronis ligt kapot boven op het eiland. Om een onbekende reden hebben de murlocs het met rust gelaten.$B$BDe diepe sneden in zijn lijk komen duidelijk van de wapens en klauwen van de murlocs.",
+      "g": [
+        [
+          "reiniging",
+          "cleansing"
+        ],
+        [
+          "aanwijzingen",
+          "leads, clues (aanwijzing)"
+        ],
+        [
+          "voorwerp",
+          "item, object"
+        ],
+        [
+          "vertragen",
+          "to slow down"
+        ],
+        [
+          "staf",
+          "rod, staff"
+        ],
+        [
+          "tovenaar",
+          "wizard"
+        ],
+        [
+          "edelsteen",
+          "gem"
+        ],
+        [
+          "heiligdom",
+          "shrine"
+        ],
+        [
+          "aan de voet van",
+          "at the base of"
+        ],
+        [
+          "bewaard",
+          "kept (bewaren)"
+        ],
+        [
+          "overspoeld",
+          "overrun (overspoelen)"
+        ],
+        [
+          "met rust gelaten",
+          "left alone (met rust laten)"
+        ],
+        [
+          "sneden",
+          "slashes, cuts (snee)"
+        ],
+        [
+          "lijk",
+          "corpse"
+        ],
+        [
+          "klauwen",
+          "claws (klauw)"
+        ]
+      ]
+    },
+    "1008": {
+      "t": "Zoram Strand",
+      "d": "Er loert kwaad aan onze noordwestkust. Die kust heet de Zoram Strand.$B$BDaar ligt de gedoemde stad Zoram. Die werd verwoest tijdens de Sundering en zonk onder de zee. De nachtelfen zijn haar al eeuwen kwijt. Kwijt, en bijna vergeten.$B$BNu zijn de naga teruggekomen. We weten niet waarom. Maar de reden doet er weinig toe. We moeten deze duivels doden en ze terug de diepte in drijven!$B$BKom terug naar mij als je opdracht klaar is.",
+      "o": "Breng 20 Wrathtail Heads naar Shindrell Swiftfire in Astranaar.",
+      "p": "We mogen de naga niet onze kusten laten binnenvallen, $N. Het is heel belangrijk dat je naar de Zoram Strand gaat en je opdracht afmaakt.",
+      "c": "Heel goed gedaan, $N. Wat je aan de Zoram Strand tegen de naga hebt gedaan, verdient lof.$B$BIk weet dat het niet makkelijk was. De nachtelfen kennen de kracht en de sluwheid van de naga goed. We weten dat, want we delen een geschiedenis met hen.$B$BHet is een geschiedenis die ik niet graag herhaal.",
+      "g": [
+        [
+          "loert",
+          "lurks (loeren)"
+        ],
+        [
+          "kwaad",
+          "evil"
+        ],
+        [
+          "gedoemde",
+          "doomed (gedoemd)"
+        ],
+        [
+          "verwoest",
+          "destroyed (verwoesten)"
+        ],
+        [
+          "zonk",
+          "sank (zinken)"
+        ],
+        [
+          "eeuwen",
+          "ages, centuries (eeuw)"
+        ],
+        [
+          "doet er weinig toe",
+          "matters little"
+        ],
+        [
+          "duivels",
+          "fiends, devils (duivel)"
+        ],
+        [
+          "diepte",
+          "depths"
+        ],
+        [
+          "opdracht",
+          "mission"
+        ],
+        [
+          "verdient lof",
+          "is commendable, deserves praise"
+        ],
+        [
+          "sluwheid",
+          "guile, cunning"
+        ],
+        [
+          "herhaal",
+          "repeat (herhalen)"
+        ]
+      ]
+    },
+    "1007": {
+      "t": "Het oude beeldje",
+      "d": "Ik wil je een taak geven, $N.$B$BIk was op mijn bootje en voer over de ruïnes van Zoram, die onder water liggen. Toen vielen naga me aan. Ze kwamen uit het water en scheurden met hun klauwen aan me! Ik vluchtte en nam zo veel spullen mee als ik kon. Daarmee maakte ik dit armoedige kamp.$B$BMaar toen ik de kust bereikte en wegrende... raakte ik mijn kostbaarste bezit kwijt.$B$BAlsjeblieft, $N. Zoek de plek waar ze me overvielen, langs de kust in het noorden. Zoek daar een oud beeldje. Daarvoor heb ik de gevaren van de Zoram Strand getrotseerd.",
+      "o": "Breng het Ancient Statuette naar Talen, in zijn kamp bij de Zoram Strand.",
+      "p": "Heb je het beeldje gevonden, $N?",
+      "c": "Je hebt het gevonden! Dank je, $N!$B$BDe oude stad Zoram heeft veel geheimen. Misschien is dit beeldje de sleutel tot veel van die geheimen.",
+      "g": [
+        [
+          "beeldje",
+          "statuette"
+        ],
+        [
+          "voer",
+          "sailed (varen)"
+        ],
+        [
+          "ruïnes",
+          "ruins (ruïne)"
+        ],
+        [
+          "scheurden",
+          "tore (scheuren)"
+        ],
+        [
+          "vluchtte",
+          "fled (vluchten)"
+        ],
+        [
+          "armoedige",
+          "meager, shabby (armoedig)"
+        ],
+        [
+          "kostbaarste",
+          "most precious (kostbaar)"
+        ],
+        [
+          "bezit",
+          "possession"
+        ],
+        [
+          "overvielen",
+          "ambushed, attacked (overvallen)"
+        ],
+        [
+          "getrotseerd",
+          "braved, defied (trotseren)"
+        ],
+        [
+          "geheimen",
+          "secrets (geheim)"
+        ],
+        [
+          "sleutel",
+          "key"
+        ]
+      ]
+    },
+    "1010": {
+      "t": "De plant Bathran's Hair",
+      "d": "Er is een plant die vroeger groeide in de oude ruïnes van Bathran's Haunt, in het noorden. De plant heette Bathran's Hair. Mensen wisten dat hij ziektes van de geest kon genezen.$B$BEr is een ziek kind in het dorp. Ik denk dat het meer is dan alleen een lichamelijke ziekte. Wil je naar Bathran's Haunt gaan en daar naar Bathran's Hair zoeken? Misschien heb ik het nodig om het kind goed te behandelen.$B$BBathran's Haunt ligt ten noorden van Maestra's Post, net ten zuiden van de grens met Darkshore.",
+      "o": "Breng 5 Bathran's Hair naar Orendil Broadleaf in Ashenvale.",
+      "p": "Heb je de Bathran's Hair verzameld, $N? Het kind wordt elk uur zwakker...",
+      "c": "Ah, je hebt het haar! Nu maak ik een medicijn voor het kind. Ik hoop en bid dat mijn brouwsel werkt.$B$BEn... zijn er Forsaken bij Bathran's Haunt? Dat is heel verontrustend om te horen. Echt heel verontrustend...",
+      "g": [
+        [
+          "groeide",
+          "grew (groeien)"
+        ],
+        [
+          "ziektes",
+          "ailments, illnesses (ziekte)"
+        ],
+        [
+          "genezen",
+          "to cure"
+        ],
+        [
+          "lichamelijke",
+          "physical (lichamelijk)"
+        ],
+        [
+          "behandelen",
+          "to treat"
+        ],
+        [
+          "grens",
+          "border"
+        ],
+        [
+          "zwakker",
+          "weaker (zwak)"
+        ],
+        [
+          "medicijn",
+          "medicine, cure"
+        ],
+        [
+          "bid",
+          "pray (bidden)"
+        ],
+        [
+          "brouwsel",
+          "concoction, brew"
+        ],
+        [
+          "verontrustend",
+          "troubling, worrying"
+        ]
+      ]
+    },
+    "1020": {
+      "t": "Het medicijn van Orendil",
+      "d": "$N, ik heb een medicijn gemaakt. Ik denk dat het het zieke kind helpt. Breng het naar Astranaar en geef het aan de ouder van het kind, Pelturas Whitemoon.$B$BOm in Astranaar te komen, volg je de weg naar het zuiden, en dan naar het oosten.",
+      "o": "Breng Orendil's Cure naar Pelturas Whitemoon in Astranaar.",
+      "p": "Het spijt me, maar ik heb geen tijd om te praten. Mijn kind, Relara, is doodziek!",
+      "c": "Is dit van Orendil?$B$BHij kan heel goed werken met kruiden en genezing. Dit medicijn geeft me hoop. Eerst had ik weinig hoop...",
+      "g": [
+        [
+          "medicijn",
+          "medicine, cure"
+        ],
+        [
+          "zieke",
+          "sick, afflicted (ziek)"
+        ],
+        [
+          "ouder",
+          "parent"
+        ],
+        [
+          "volg",
+          "follow (volgen)"
+        ],
+        [
+          "Het spijt me",
+          "I'm sorry"
+        ],
+        [
+          "doodziek",
+          "deathly ill"
+        ],
+        [
+          "kruiden",
+          "herbs (kruid)"
+        ],
+        [
+          "genezing",
+          "healing"
+        ],
+        [
+          "hoop",
+          "hope"
+        ]
+      ]
+    },
+    "1023": {
+      "t": "De reiniging van Raene",
+      "d": "Je zoekt tussen de spullen van Teronis. Je vindt een dagboek dat nog in goede staat is.$B$BJe neemt het dagboek mee en laat het lijk van Teronis liggen zoals het ligt.$B$BNu moet je alleen nog de edelsteen vinden die Teronis zocht. Raene zei dat hij in deze buurt was. Misschien hebben de murlocs hem...",
+      "o": "Vind de Glowing Gem en ga met Teronis' Journal terug naar Raene Wolfrunner in Astranaar.",
+      "p": "Ah, welkom terug, $N.",
+      "c": "Dit is verschrikkelijk, $N. Is Teronis dood?!$B$BDe tijd om te rouwen komt nog. Maar nu moeten we ons op het werk richten. Ik stuur zo snel mogelijk een paar Sentinels om het lichaam van Teronis op te halen.$B$BJe hebt het dagboek van Teronis en de edelsteen die hij zocht. Denk je dat je zijn taak kunt afmaken? Ik zou veel rustiger zijn als ik wist dat hij niet voor niets is gestorven.",
+      "g": [
+        [
+          "spullen",
+          "belongings, things"
+        ],
+        [
+          "dagboek",
+          "journal, diary"
+        ],
+        [
+          "in goede staat",
+          "in good condition"
+        ],
+        [
+          "lijk",
+          "corpse"
+        ],
+        [
+          "buurt",
+          "area, neighbourhood"
+        ],
+        [
+          "verschrikkelijk",
+          "terrible"
+        ],
+        [
+          "rouwen",
+          "to mourn"
+        ],
+        [
+          "richten",
+          "to focus (zich richten op)"
+        ],
+        [
+          "op te halen",
+          "to recover, to fetch (ophalen)"
+        ],
+        [
+          "afmaken",
+          "to complete, to finish"
+        ],
+        [
+          "rustiger",
+          "more at ease (rustig)"
+        ],
+        [
+          "niet voor niets",
+          "not in vain"
+        ]
+      ]
+    },
+    "1024": {
+      "t": "De reiniging van Raene",
+      "d": "Het onderzoek moet je zelf doen. Maar volgens de aantekeningen van Teronis is dit je volgende stap: de andere stukken vinden van de staf die Dartol heeft gemaakt. Ik zou beginnen bij de maanbron ten oosten van Iris Lake. Als je klaar bent, volg je de weg. Ga naar het noorden als je links een kleine zitplek ziet.$B$BDaar is een dryade die Shael'dryn heet. Zij kan je beter helpen. Zoek haar op.$B$BHoud de edelsteen bij je. Shael'dryn heeft hem nodig als ze je wil helpen om de staf opnieuw te maken.",
+      "o": "Zoek Shael'dryn bij de maanbron in het noordoosten.",
+      "p": "Hallo. Hoe gaat het met je?",
+      "c": "Oh, heeft Raene je gestuurd? Dan moet het echt ernstig zijn. Waarmee kan ik je helpen?",
+      "g": [
+        [
+          "onderzoek",
+          "research"
+        ],
+        [
+          "aantekeningen",
+          "notes (aantekening)"
+        ],
+        [
+          "stap",
+          "step, course of action"
+        ],
+        [
+          "maanbron",
+          "moonwell"
+        ],
+        [
+          "zitplek",
+          "sitting area"
+        ],
+        [
+          "dryade",
+          "dryad"
+        ],
+        [
+          "Zoek haar op",
+          "Seek her out (opzoeken)"
+        ],
+        [
+          "Houd",
+          "Keep (houden; houd ... bij je = keep with you)"
+        ],
+        [
+          "ernstig",
+          "serious"
+        ]
+      ]
+    },
+    "1070": {
+      "t": "Op wacht in Stonetalon",
+      "d": "Hallo, $N.$B$BJe ziet eruit alsof je vol reislust zit. Ben je al in de Stonetalon Mountains geweest? Dat land heeft veel last van de Venture Co. en van andere vijanden van de nachtelfen.$B$BKort geleden heeft Sentinel Wolfrunner mijn vriendin Kaela Shadowspear daarheen gestuurd. Ze moest onderzoeken wat er met het land gebeurt. Maar ik heb nog niets van haar gehoord. Ik maak me nog meer zorgen, omdat de Alliance een gnoom-magiër met haar mee heeft gestuurd... dat is zeker een teken van problemen.$B$BWil je haar zoeken en dan bij mij verslag uitbrengen?",
+      "o": "Zoek Kaela Shadowspear. Ze kijkt uit over de vallei bij de ingang van Windshear Crag in de Stonetalon Mountains.",
+      "c": "Ah, je komt uit Ashenvale, op verzoek van Thenysil. Wat mis ik haar, en mijn thuisland en mijn vrienden. Het gaat vast goed met haar bij de Sentinels, als ze avonturiers voor andere taken mag inzetten. Ik ben trots op haar.$B$BLeuk je te ontmoeten, $N.",
+      "g": [
+        [
+          "Op wacht",
+          "On guard"
+        ],
+        [
+          "reislust",
+          "wanderlust"
+        ],
+        [
+          "last van",
+          "troubled by, plagued by"
+        ],
+        [
+          "onderzoeken",
+          "to investigate"
+        ],
+        [
+          "maak me nog meer zorgen",
+          "am even more worried (zich zorgen maken)"
+        ],
+        [
+          "gnoom-magiër",
+          "gnome mage"
+        ],
+        [
+          "teken",
+          "sign"
+        ],
+        [
+          "verslag uitbrengen",
+          "to report back"
+        ],
+        [
+          "kijkt uit over",
+          "overlooks (uitkijken over)"
+        ],
+        [
+          "ingang",
+          "entrance"
+        ],
+        [
+          "op verzoek van",
+          "at the request of"
+        ],
+        [
+          "avonturiers",
+          "adventurers (avonturier)"
+        ],
+        [
+          "inzetten",
+          "to deploy, to put to work"
+        ],
+        [
+          "trots",
+          "proud"
+        ]
+      ]
+    },
+    "1085": {
+      "t": "Op wacht in Stonetalon",
+      "d": "De situatie hier in Stonetalon is duidelijk ernstig. Anders zouden een nachtelf en een gnoom niet samenwerken.$B$BDe Venture Co. heeft dit land verwoest. Ik heb het meeste van mijn tijd besteed aan het stoppen van die verwoesting.$B$BOordeel niet te snel over Gaxim. Hij begrijpt dat we moeten samenwerken.$B$BWil je ons helpen? Praat dan eerst met Gaxim.$B$BHet spijt me dat ik je nog niet met goed nieuws terug kan sturen naar Tara. Misschien snel.",
+      "o": "Praat met Gaxim.",
+      "c": "Verraderlijk... verraderlijk en gevaarlijk, dat is dit land.$B$BMaar ik ben hier om de nachtelfen te laten zien dat het een beetje veiliger is met de hulp van goeie ouwe techniek en een snufje magie.$B$BKijk, als de nachtelfen helemaal stoppen met magie, helpt dat ze niet. Ze hebben het nodig. De wereld heeft het nodig. En met techniek en alchemie erbij kun je niets fout doen. De mogelijkheden zijn eindeloos.",
+      "g": [
+        [
+          "ernstig",
+          "grave, serious"
+        ],
+        [
+          "samenwerken",
+          "to work together"
+        ],
+        [
+          "verwoest",
+          "devastated (verwoesten)"
+        ],
+        [
+          "besteed",
+          "spent (besteden)"
+        ],
+        [
+          "verwoesting",
+          "destruction"
+        ],
+        [
+          "Oordeel",
+          "Judge (oordelen)"
+        ],
+        [
+          "Verraderlijk",
+          "Treacherous"
+        ],
+        [
+          "goeie ouwe",
+          "good ole"
+        ],
+        [
+          "techniek",
+          "engineering, technology"
+        ],
+        [
+          "snufje",
+          "dash, pinch"
+        ],
+        [
+          "alchemie",
+          "alchemy"
+        ],
+        [
+          "mogelijkheden",
+          "possibilities (mogelijkheid)"
+        ],
+        [
+          "eindeloos",
+          "endless"
+        ]
+      ]
+    },
+    "1134": {
+      "t": "De pridewings van Stonetalon",
+      "d": "We zijn niet openlijk in oorlog met de Horde, maar onze vrede is broos. We merken vaak dat hun agenten tegen ons werken, maar dat doen ze in het geheim.$B$BEén van die acties hoorden we van geheime bronnen in Theramore. Volgens hen verzamelen de orks gif van de pridewings bij Mirkfallon Lake, in de Stonetalon Mountains in het zuiden. Moordenaars van de orks gebruiken dat gif dan bij hun geheime moordaanslagen op de Alliance!$B$BAls dit waar is, moeten we ze tegenhouden, $N. We moeten ervoor zorgen dat ze geen gif meer krijgen.",
+      "o": "Breng 12 Pridewing Venom Sacs naar Shindrell Swiftfire in Astranaar.",
+      "p": "Heb je de gifzakken van de pridewings, $N? We mogen niet toestaan dat de orks het gif van die beesten tegen ons gebruiken!",
+      "c": "Dank je, $N. Het maakt me verdrietig dat ik bevel moet geven om deze dieren te doden. Misschien helpen ze onze vijanden niet uit vrije wil. Toch is het mijn plicht.$B$BMisschien huilt je hart om de pridewings die je hebt gedood, mijn vriend. Maar laat je hart dan ook groeien, want je weet dat je bondgenoten veilig zijn voor hun gif.",
+      "g": [
+        [
+          "openlijk",
+          "openly"
+        ],
+        [
+          "broos",
+          "fragile"
+        ],
+        [
+          "agenten",
+          "agents (agent)"
+        ],
+        [
+          "in het geheim",
+          "covertly, in secret"
+        ],
+        [
+          "bronnen",
+          "sources (bron)"
+        ],
+        [
+          "gif",
+          "venom, poison"
+        ],
+        [
+          "Moordenaars",
+          "assassins (moordenaar)"
+        ],
+        [
+          "moordaanslagen",
+          "murder raids, assassination attempts (moordaanslag)"
+        ],
+        [
+          "tegenhouden",
+          "to stop"
+        ],
+        [
+          "gifzakken",
+          "venom sacs (gifzak)"
+        ],
+        [
+          "toestaan",
+          "to allow"
+        ],
+        [
+          "uit vrije wil",
+          "willingly, of their own free will"
+        ],
+        [
+          "plicht",
+          "duty"
+        ],
+        [
+          "bondgenoten",
+          "allies (bondgenoot)"
+        ]
+      ]
+    },
+    "1033": {
+      "t": "De traan van Elune",
+      "d": "Ik hoopte dat het medicijn van Orendil Relara zou redden. Maar ik ben bang dat het de ziekte in mijn kind alleen trager heeft gemaakt. We moeten een sterker medicijn vinden! Gelukkig vertelde Orendil me over andere middelen, voor als zijn eerste middel niet zou werken.$B$BElune's Tear is een soort steen. Je vindt hem maar op één plek: het eiland in Iris Lake, ten oosten van Astranaar. Orendil zei dat de steen verdorvenheid wegspoelt... alsjeblieft, $N, breng me Elune's Tear en bid dat het de ziekte van mijn kind stopt!",
+      "o": "Breng Elune's Tear naar Pelturas in Astranaar.",
+      "p": "$N, heb je Iris Lake gevonden? Heb je de traan?",
+      "c": "Oh, je hebt hem gevonden! Ik doe de traan in een stoofpot en bid dat hij haar geneest.$B$BDank je! Dank je, $N!",
+      "g": [
+        [
+          "traan",
+          "tear"
+        ],
+        [
+          "redden",
+          "to save"
+        ],
+        [
+          "trager",
+          "slower (traag)"
+        ],
+        [
+          "Gelukkig",
+          "Thankfully, luckily"
+        ],
+        [
+          "middelen",
+          "remedies (middel)"
+        ],
+        [
+          "een soort",
+          "a kind of, a type of"
+        ],
+        [
+          "verdorvenheid",
+          "corruption"
+        ],
+        [
+          "wegspoelt",
+          "washes away (wegspoelen)"
+        ],
+        [
+          "bid",
+          "pray (bidden)"
+        ],
+        [
+          "stoofpot",
+          "stew"
+        ],
+        [
+          "geneest",
+          "cures (genezen)"
+        ]
+      ]
+    },
+    "1034": {
+      "t": "De Ruins of Stardust",
+      "d": "Elune's Tear heeft een deel van de ziekte van mijn dochter weggespoeld. Haar nachtmerries zijn minder, en ik dank de godin voor haar zegen. Maar... de koorts woedt nog steeds in haar.$B$BOrendil vertelde me over bevroren stof dat je in de Ruins of Stardust vindt. Misschien maakt dat de koorts van Relara minder. Verzamel wat van dat stof en kom dan terug naar mij, alsjeblieft.$B$BDe Ruins of Stardust liggen in het zuiden, $N. Moge Elune je reis versnellen.",
+      "o": "Breng 5 Handfuls of Stardust naar Pelturas in Astranaar.",
+      "p": "Heb je het sterrenstof al, $N?",
+      "c": "Je hebt het stof verzameld! Ik maak er een kompres van. Dat moet de koorts van Relara laten zakken.$B$BNogmaals bedankt, $N. Zonder jouw hulp zou mijn kind zeker sterven.",
+      "g": [
+        [
+          "weggespoeld",
+          "washed away (wegspoelen)"
+        ],
+        [
+          "nachtmerries",
+          "nightmares (nachtmerrie)"
+        ],
+        [
+          "godin",
+          "goddess"
+        ],
+        [
+          "zegen",
+          "blessing"
+        ],
+        [
+          "koorts",
+          "fever"
+        ],
+        [
+          "woedt",
+          "rages (woeden)"
+        ],
+        [
+          "bevroren",
+          "frosted, frozen (bevriezen)"
+        ],
+        [
+          "stof",
+          "dust"
+        ],
+        [
+          "Moge",
+          "May (mogen)"
+        ],
+        [
+          "versnellen",
+          "to speed up"
+        ],
+        [
+          "sterrenstof",
+          "stardust"
+        ],
+        [
+          "kompres",
+          "poultice, compress"
+        ],
+        [
+          "laten zakken",
+          "to bring down, to lower"
+        ],
+        [
+          "sterven",
+          "to die, to perish"
+        ]
+      ]
+    },
+    "976": {
+      "t": "Spullen voor Auberdine",
+      "d": "Delgren heeft me gevraagd om berichten en spullen naar Sentinel Starbreeze in Auberdine te brengen. Maar ik ga niet graag alleen op weg. Er zijn gevaarlijke vijanden actief in het bos. Ik wil niet het risico nemen dat deze spullen en informatie in verkeerde handen vallen.$b$bAls jij en anderen mijn bewakers willen zijn, kan ik nu vertrekken. Met jullie bescherming twijfel ik er niet aan dat we deze goederen veilig naar Auberdine krijgen.",
+      "o": "Breng Feero veilig door Ashenvale Forest. Praat daarna met Delgren the Purifier in Maestra's Post.",
+      "p": "De Sentinels hebben veel spullen nodig om zich in Darkshore te versterken.",
+      "c": "Je hebt het goed gedaan vandaag, $C. De spullen die we naar Auberdine hebben gestuurd, kunnen ze meteen gebruiken tegen de duistere dreigingen die het bos plagen.$B$BNeem deze, met mijn hartelijke dank.",
+      "e": "Bescherm Feero Ironhand.",
+      "g": [
+        [
+          "op weg",
+          "on the way, setting off"
+        ],
+        [
+          "actief",
+          "active"
+        ],
+        [
+          "het risico nemen",
+          "to take the risk"
+        ],
+        [
+          "in verkeerde handen",
+          "into the wrong hands"
+        ],
+        [
+          "bewakers",
+          "guards (bewaker)"
+        ],
+        [
+          "bescherming",
+          "protection"
+        ],
+        [
+          "twijfel",
+          "doubt (twijfelen)"
+        ],
+        [
+          "goederen",
+          "goods"
+        ],
+        [
+          "versterken",
+          "to reinforce"
+        ],
+        [
+          "plagen",
+          "infest, plague"
+        ],
+        [
+          "hartelijke",
+          "heartfelt (hartelijk)"
+        ]
+      ]
+    },
+    "1016": {
+      "t": "Armbanden van de elementalen",
+      "d": "Neem deze Divining Scroll. Hij kan laten zien wie deze elementalen heeft gemaakt. Maar je hebt iets van hen nodig als ingrediënt, om de magie van de rol te richten. Hun armbanden zijn daar goed voor.$B$BEen paar onbeschadigde armbanden van de wezens zijn genoeg. De andere armbanden zijn voor ons nutteloos. Maar misschien kun je ze aan een handelaar verkopen, als je wilt. Als je de onbeschadigde armbanden hebt, probeer dan de rol te gebruiken. Kom met de resultaten terug naar mij, dan zien we daarna verder.",
+      "o": "Verzamel 5 Intact Elemental Bracers en gebruik de Divining Scroll erop. Breng daarna de Divined Scroll naar Sentinel Velene Starstrike in de Silverwind Refuge.",
+      "p": "Je moet de armbanden kapotmaken om de elementalen te doden. Daarom is het waarschijnlijk moeilijk om precies de armbanden te vinden met de informatie die de Divining Scroll nodig heeft. Je kunt armbanden ruilen met anderen om de goede te krijgen. Of heb je het papier met de voorspelling misschien al?",
+      "c": "Goed gedaan, $N. Hiermee krijgen we de informatie die we nodig hebben om de dader te vinden. Wat vind je ervan om de magiër uit te schakelen die onze poelen met verdorven elementalen vult? Van de verdorvenheid van Ashenvale en verder word ik al misselijk. Dat een tovenaar het nog actief verder probeert te vernietigen, maakt me ontzettend ziek. We zullen hem laten boeten.",
+      "g": [
+        [
+          "Armbanden",
+          "bracers (armband)"
+        ],
+        [
+          "ingrediënt",
+          "reagent, ingredient"
+        ],
+        [
+          "rol",
+          "scroll"
+        ],
+        [
+          "richten",
+          "to focus, to aim"
+        ],
+        [
+          "onbeschadigde",
+          "intact, undamaged (onbeschadigd)"
+        ],
+        [
+          "nutteloos",
+          "useless"
+        ],
+        [
+          "handelaar",
+          "merchant"
+        ],
+        [
+          "resultaten",
+          "results (resultaat)"
+        ],
+        [
+          "ruilen",
+          "to trade, to swap"
+        ],
+        [
+          "voorspelling",
+          "divination, prediction"
+        ],
+        [
+          "dader",
+          "culprit"
+        ],
+        [
+          "uit te schakelen",
+          "to take out (uitschakelen)"
+        ],
+        [
+          "poelen",
+          "pools (poel)"
+        ],
+        [
+          "misselijk",
+          "sick, nauseous"
+        ],
+        [
+          "laten boeten",
+          "to make pay (boeten)"
+        ]
+      ]
+    },
+    "1025": {
+      "t": "Een aanvallende verdediging",
+      "d": "Voor je naar de maanbron gaat, heb ik nog een taak. Die helpt de mensen van Ashenvale, als je je vaardigheden wilt testen.$B$BLangs de weg naar het oosten, voor de Falfarren River, vallen furbolgs reizigers aan. Hun gekwelde geesten voeden zich met angst, en ze stillen hun honger met het bloed van onschuldigen.$B$BHelp de Sentinels om het land te beschermen. Toon die monsters dezelfde genade die zij ons volk hebben getoond.$B$BIk denk dat hun kampen ten zuiden van de weg liggen... wees voorzichtig.",
+      "o": "Dood 1 Den Watcher, 2 Ursas, 10 Totemics en 12 Warriors van de Foulweald stam. Ga dan terug naar Raene Wolfrunner in Astranaar.",
+      "p": "De furbolgs waren niet altijd onze vijanden, $N. Maar de tijden veranderen. Het is geen tijd van vrede meer hier in deze donkere bossen.",
+      "c": "Je hebt het goed gedaan, $N. Dank je.",
+      "g": [
+        [
+          "aanvallende",
+          "aggressive, attacking (aanvallen)"
+        ],
+        [
+          "verdediging",
+          "defense"
+        ],
+        [
+          "vaardigheden",
+          "skills (vaardigheid)"
+        ],
+        [
+          "reizigers",
+          "travelers (reiziger)"
+        ],
+        [
+          "gekwelde",
+          "tortured (kwellen)"
+        ],
+        [
+          "voeden zich met",
+          "feed on (zich voeden met)"
+        ],
+        [
+          "stillen hun honger",
+          "satisfy their appetite (stillen)"
+        ],
+        [
+          "onschuldigen",
+          "innocents (onschuldige)"
+        ],
+        [
+          "Toon",
+          "Show (tonen)"
+        ],
+        [
+          "genade",
+          "mercy"
+        ],
+        [
+          "stam",
+          "tribe"
+        ]
+      ]
+    },
+    "1009": {
+      "t": "Ruuzel",
+      "d": "Ik ben bang dat de geheimen van het oude beeldje voor altijd verborgen blijven, tenzij jij de sleutel tot het oude slot vindt.$B$BDie sleutel is een ring, de Ring of Zoram. Hij was van de heersers van deze stad, voordat de golven van de Sundering de stad lieten verdrinken.$B$BJarenlang was de ring kwijt. Maar de naga hebben hem kort geleden gevonden.$B$BHun leider, Ruuzel, woont op een eiland aan de noordrand van Zoram. Alsjeblieft, $N, haal de ring voor me!",
+      "o": "Breng de Ring of Zoram naar Talen bij de Zoram Strand.",
+      "p": "Men zegt dat de Ring of Zoram de sleutel is tot elk slot in de stad. Heb je hem, $N?",
+      "c": "Je hebt de ring gevonden! Dank je, $N. Neem dit als betaling. En weet dat je daden van vandaag voor altijd in mijn herinnering blijven.",
+      "g": [
+        [
+          "geheimen",
+          "secrets (geheim)"
+        ],
+        [
+          "verborgen",
+          "hidden"
+        ],
+        [
+          "tenzij",
+          "unless"
+        ],
+        [
+          "slot",
+          "lock"
+        ],
+        [
+          "heersers",
+          "rulers (heerser)"
+        ],
+        [
+          "golven",
+          "waves (golf)"
+        ],
+        [
+          "verdrinken",
+          "to drown"
+        ],
+        [
+          "Jarenlang",
+          "for years"
+        ],
+        [
+          "noordrand",
+          "northern edge"
+        ],
+        [
+          "Men zegt",
+          "It is said"
+        ],
+        [
+          "betaling",
+          "payment"
+        ],
+        [
+          "daden",
+          "deeds (daad)"
+        ],
+        [
+          "herinnering",
+          "memory"
+        ]
+      ]
+    },
+    "1017": {
+      "t": "De magiër die oproept",
+      "d": "Er is maar één ondode magiër in de Barrens die zo veel waterelementalen kan bezoedelen. Hij is ook de enige die dom genoeg is om het te proberen. Sarilus Foulborne zit vast boven op Dreadmist Peak en lacht me uit.$B$B$n, je moet vijandelijk gebied in gaan en deze schurk vernietigen. Ik heb genoeg van zijn domheid. We moeten hem laten zien wat er gebeurt met wie de Sentinels lastigvalt.$B$BVernietig hem en breng me zijn hoofd. Maar pas op, misschien let de Horde op je.",
+      "o": "Dood Sarilus Foulborne en breng zijn hoofd naar Sentinel Velene Starstrike in de Silverwind Refuge.",
+      "p": "Is het gedaan? Is Sarilus Foulborne dood?",
+      "c": "Nu zie ik die walgelijke glimlach voorgoed van zijn gezicht verdwijnen. Je hebt het heel goed gedaan, $N. Neem dit, het Light of Elune. Drink ervan als alles verloren lijkt en de dood dichtbij is. Het kan je redden, als de godin het wil.",
+      "g": [
+        [
+          "oproept",
+          "summons (oproepen)"
+        ],
+        [
+          "ondode",
+          "undead (ondood)"
+        ],
+        [
+          "waterelementalen",
+          "water elementals"
+        ],
+        [
+          "bezoedelen",
+          "to defile"
+        ],
+        [
+          "lacht me uit",
+          "laughs at me (uitlachen)"
+        ],
+        [
+          "vijandelijk gebied",
+          "enemy territory"
+        ],
+        [
+          "schurk",
+          "miscreant, villain"
+        ],
+        [
+          "domheid",
+          "idiocy, stupidity"
+        ],
+        [
+          "lastigvalt",
+          "annoys, bothers (lastigvallen)"
+        ],
+        [
+          "pas op",
+          "be wary (oppassen)"
+        ],
+        [
+          "walgelijke",
+          "repugnant, disgusting (walgelijk)"
+        ],
+        [
+          "glimlach",
+          "smile"
+        ],
+        [
+          "voorgoed",
+          "forever, for good"
+        ],
+        [
+          "verloren",
+          "lost"
+        ]
+      ]
+    },
+    "1054": {
+      "t": "De dreiging uitdunnen",
+      "d": "Direct ten noorden van Astranaar wonen de Thistlefur furbolgs. Mijn verkenners melden dat ze de laatste maanden veel talrijker zijn geworden. Als ze te talrijk worden, vinden ze misschien de moed om Astranaar direct aan te vallen.$B$BDood zo veel van hen als je kunt. Maar breng me de schedel van hun stamhoofd, als bewijs dat hun plannen zijn gestopt... voor nu.$B$BIk blijf hier in Astranaar en wacht op bericht van jou. Elune zij met je.",
+      "o": "Breng Dal Bloodclaw's Skull naar Raene Wolfrunner in Astranaar.",
+      "p": "Door de verdorvenheid van de furbolgs is er van de vroegere glorie van Ashenvale maar een klein deel over.",
+      "c": "Goed gedaan, $N.$B$BDe furbolgs bedreigen ons steeds. Hopelijk houdt dit ze nog even op afstand.",
+      "g": [
+        [
+          "uitdunnen",
+          "to cull, to thin out"
+        ],
+        [
+          "verkenners",
+          "scouts (verkenner)"
+        ],
+        [
+          "melden",
+          "report"
+        ],
+        [
+          "talrijker",
+          "more numerous (talrijk)"
+        ],
+        [
+          "moed",
+          "courage"
+        ],
+        [
+          "schedel",
+          "skull"
+        ],
+        [
+          "stamhoofd",
+          "chieftain"
+        ],
+        [
+          "Elune zij met je",
+          "Elune be with you"
+        ],
+        [
+          "vroegere",
+          "former (vroeger)"
+        ],
+        [
+          "glorie",
+          "glory"
+        ],
+        [
+          "bedreigen",
+          "to threaten"
+        ],
+        [
+          "Hopelijk",
+          "Hopefully"
+        ],
+        [
+          "op afstand",
+          "at bay, at a distance"
+        ]
+      ]
+    },
+    "1026": {
+      "t": "De reiniging van Raene",
+      "d": "Ik wou dat je beter nieuws had.$B$BRaene heeft gelijk. Ik weet van de schepping van Dartol en van de treants in dit gebied. Tenminste, vroeger wist ik dat. Nu zijn ze verdorven, en hun aard is verdraaid.$B$BWil je het volgende stuk van de staf vinden? Dan moet je de sleutel vinden die de kist opent waar het in zit.$B$BEen van de treants ten noordoosten van hier, bij Felwood, heeft de houten sleutel. Als je hem hebt, zoek dan een kleine open plek in het bos, ten westen van de weg bij de grens van Felwood... daar ergens zit de kist verstopt.",
+      "o": "Vind de Wooden Key en een stuk van Dartol's Rod. Ga daarna terug naar Shael'dryn bij de maanbron.",
+      "p": "Het maakt me zo verdrietig dat de treants verdorven zijn. Ik wou dat ik meer kon doen om ze te helpen.",
+      "c": "Ik ben blij dat je terug bent, $N.",
+      "g": [
+        [
+          "heeft gelijk",
+          "is correct, is right"
+        ],
+        [
+          "schepping",
+          "creation"
+        ],
+        [
+          "Tenminste",
+          "At least"
+        ],
+        [
+          "verdorven",
+          "corrupted"
+        ],
+        [
+          "aard",
+          "nature"
+        ],
+        [
+          "verdraaid",
+          "twisted (verdraaien)"
+        ],
+        [
+          "kist",
+          "chest"
+        ],
+        [
+          "houten",
+          "wooden"
+        ],
+        [
+          "open plek",
+          "glade, clearing"
+        ],
+        [
+          "grens",
+          "border"
+        ],
+        [
+          "verdrietig",
+          "sad, upset"
+        ]
+      ]
+    },
+    "1027": {
+      "t": "De reiniging van Raene",
+      "d": "Het laatste stuk van de staf is aan de druïden van Dor'danil gegeven, zodat zij het veilig bewaarden. Ik heb geen idee waar ze het hebben verstopt. Het spijt me dat ik je niet meer kan helpen.$B$BIk kan je alleen zeggen: volg de weg die naar de Barrens gaat. De druïden zochten een schuilplaats ten oosten van die weg. Maar ze kunnen je niet veel helpen: ze zijn kort geleden gedood... daar denk ik liever niet te veel aan.$B$BAls je het laatste stuk vindt, breng het dan naar mij. Dan help ik je om de staf weer in elkaar te zetten.",
+      "o": "Vind het laatste stuk van Dartol's Rod en ga terug naar Shael'dryn bij de maanbron.",
+      "p": "Heb je het laatste stuk van de staf gevonden, $N?",
+      "c": "Heb je het laatste stuk gevonden? Geweldig voor jou... en voor Raene.$B$BDan moeten we maar eens kijken of we hem kunnen repareren, toch?",
+      "g": [
+        [
+          "druïden",
+          "druids (druïde)"
+        ],
+        [
+          "veilig bewaarden",
+          "kept safe (bewaren)"
+        ],
+        [
+          "verstopt",
+          "hidden (verstoppen)"
+        ],
+        [
+          "schuilplaats",
+          "shelter, hiding place"
+        ],
+        [
+          "liever",
+          "rather"
+        ],
+        [
+          "in elkaar te zetten",
+          "to put together, to reconstruct (in elkaar zetten)"
+        ],
+        [
+          "Geweldig",
+          "Wonderful, great"
+        ],
+        [
+          "repareren",
+          "to repair"
+        ]
+      ]
+    },
+    "1028": {
+      "t": "De reiniging van Raene",
+      "d": "Hier is de complete staf, $N. Hem weer in elkaar zetten was makkelijk... Het moeilijke deel is het heiligdom vinden dat de kracht heeft om hem weer op te laden.$B$BMet wat concentratie en moeite is het vast niet te moeilijk voor iemand zoals jij, die al zo veel heeft bereikt.$B$BGa naar het zuidoosten van hier. Er zijn heel weinig paden, dus wees voorzichtig. Houd je ogen op het noorden gericht. Het heiligdom ligt verborgen in de bergen rond deze open plek.$B$BAls je daar bent, leg de staf in het heiligdom... de rest is magie. Hihi.",
+      "o": "Vind het verborgen heiligdom en betover Dartol's Rod opnieuw.",
+      "p": "Je voelt een zachte maar sterke kracht in het heiligdom en in de bomen eromheen.$B$BJe legt de staf in het heiligdom. Er klinkt overal om je heen een zacht gezoem, en het heiligdom begint te gloeien...",
+      "c": "Als het licht dooft, zie je de opnieuw betoverde staf in de schaal van het heiligdom.",
+      "g": [
+        [
+          "complete",
+          "completed (compleet)"
+        ],
+        [
+          "op te laden",
+          "to recharge (opladen)"
+        ],
+        [
+          "concentratie",
+          "focus, concentration"
+        ],
+        [
+          "moeite",
+          "effort"
+        ],
+        [
+          "bereikt",
+          "accomplished (bereiken)"
+        ],
+        [
+          "paden",
+          "paths (pad)"
+        ],
+        [
+          "gericht",
+          "aimed, directed (richten)"
+        ],
+        [
+          "betover",
+          "enchant (betoveren)"
+        ],
+        [
+          "eromheen",
+          "around it"
+        ],
+        [
+          "gezoem",
+          "humming, thrumming"
+        ],
+        [
+          "gloeien",
+          "to glow"
+        ],
+        [
+          "dooft",
+          "dies out (doven)"
+        ],
+        [
+          "schaal",
+          "basin, bowl"
+        ]
+      ]
+    },
+    "1029": {
+      "t": "De reiniging van Raene",
+      "d": "Ik stel voor dat je Raene opzoekt en haar vertelt dat de staf klaar is. Zij weet vast wat je volgende stap moet zijn.$B$BSucces, $N.",
+      "o": "Ga terug naar Raene Wolfrunner in Astranaar.",
+      "c": "Heb je de staf die Teronis zocht opnieuw gemaakt? Wat fijn om te horen.$B$BTeronis zou trots zijn als hij zag dat zijn zoektocht doorgaat, zelfs na zijn tragische dood.",
+      "g": [
+        [
+          "Ik stel voor",
+          "I suggest (voorstellen)"
+        ],
+        [
+          "opzoekt",
+          "seek out, look up (opzoeken)"
+        ],
+        [
+          "stap",
+          "step"
+        ],
+        [
+          "Succes",
+          "Good luck"
+        ],
+        [
+          "trots",
+          "proud"
+        ],
+        [
+          "zoektocht",
+          "quest, search"
+        ],
+        [
+          "doorgaat",
+          "continues (doorgaan)"
+        ],
+        [
+          "tragische",
+          "tragic (tragisch)"
+        ]
+      ]
+    },
+    "1030": {
+      "t": "De reiniging van Raene",
+      "d": "Helaas weet ik niet zeker wat hij hierna van plan was.$B$BAls het waar is wat hij zei over de kracht van de staf, dan kun je er een heel andere gedaante mee aannemen. Welke gedaante weet ik niet.$B$BMisschien wilde hij de krachten van de staf gebruiken om dichter bij de verdorven furbolgs te komen. Maar zelfs de furbolgs die niet verdorven zijn, zouden hem afslachten als hij niet voorzichtig was. Veranderd door de staf zou Dartol moeten praten met een furbolg die veilig was voor de gevolgen van Fel Moss.$B$BIk zou je zoektocht beginnen ten zuidoosten van Mystral Lake.",
+      "o": "Zoek een furbolg die niet verdorven is. Gebruik de kracht van Dartol's Rod of Transformation en praat met hem.",
+      "c": "Ja, ja... je bent een van mijn soort, maar nog heel. Nog rein.$B$BIk weet niet hoe je ontsnapt bent aan de gruwelen die de nachtelfen ons volk hebben aangedaan. Maar ik ben blij dat ik niet meer alleen ben.$B$BVerdorvenheid stroomt nu door de aderen van onze verwanten, jonkie. De trotse nachtelfen hebben die verdorvenheid over ons gebracht. Zij hebben dit ons volk aangedaan... Ik geef hen de schuld dat ik uit mijn stam ben verstoten.$B$B's Nachts zie ik de kampvuren nog steeds branden in het donker.",
+      "g": [
+        [
+          "Helaas",
+          "Alas, unfortunately"
+        ],
+        [
+          "van plan",
+          "intending, planning"
+        ],
+        [
+          "gedaante",
+          "form, shape"
+        ],
+        [
+          "aannemen",
+          "to take on"
+        ],
+        [
+          "afslachten",
+          "to slaughter"
+        ],
+        [
+          "Veranderd",
+          "Transformed (veranderen)"
+        ],
+        [
+          "gevolgen",
+          "effects, consequences (gevolg)"
+        ],
+        [
+          "soort",
+          "kind"
+        ],
+        [
+          "rein",
+          "clean, pure"
+        ],
+        [
+          "gruwelen",
+          "atrocities, horrors (gruwel)"
+        ],
+        [
+          "aangedaan",
+          "done to (aandoen)"
+        ],
+        [
+          "aderen",
+          "veins (ader)"
+        ],
+        [
+          "verwanten",
+          "kin, relatives (verwant)"
+        ],
+        [
+          "jonkie",
+          "young one"
+        ],
+        [
+          "verstoten",
+          "cast out (verstoten)"
+        ],
+        [
+          "kampvuren",
+          "campfires (kampvuur)"
+        ]
+      ]
+    },
+    "1055": {
+      "t": "De reiniging van Raene",
+      "d": "De staf is nu compleet en ligt in je handen. Shael'dryn wil vast horen dat het je gelukt is.",
+      "o": "Ga terug naar Shael'dryn bij de maanbron.",
+      "c": "Het is je gelukt, $N! Goed gedaan!",
+      "g": [
+        [
+          "staf",
+          "rod, staff"
+        ],
+        [
+          "compleet",
+          "complete"
+        ],
+        [
+          "vast",
+          "surely"
+        ],
+        [
+          "gelukt",
+          "succeeded (lukken)"
+        ],
+        [
+          "maanbron",
+          "moonwell"
+        ]
+      ]
+    }
+  },
+  "words": {
+    "acties": "actions, moves (actie)",
+    "afmaakt": "complete, finish (afmaken)",
+    "bereikte": "reached (bereiken)",
+    "bootje": "small boat (boot)",
+    "dochter": "daughter",
+    "dom": "stupid, foolish",
+    "fantastisch": "fantastic",
+    "fout": "wrong, mistake",
+    "geluisterd": "listened (luisteren)",
+    "hierna": "after this, next",
+    "hihi": "hehe (giggle)",
+    "koste": "(koste wat kost) at all costs",
+    "kusten": "coasts (kust)",
+    "lacht": "laughs (lachen)",
+    "links": "left, on the left",
+    "middel": "remedy, means",
+    "noordwestkust": "northwest coast",
+    "ontzettend": "terribly, enormously",
+    "probeert": "tries (proberen)",
+    "risico": "risk",
+    "stillen": "to satisfy, to quiet (honger stillen)",
+    "talrijk": "numerous",
+    "uitbrengen": "(verslag uitbrengen) to report",
+    "verkeerde": "wrong (verkeerd)",
+    "vertrekken": "to leave, to depart",
+    "vijandelijk": "enemy, hostile",
+    "vrije": "free (vrij)",
+    "vult": "fills (vullen)",
+    "wegrende": "ran away (wegrennen)",
+    "wensen": "to wish",
+    "zachte": "soft, gentle (zacht)"
+  },
+  "terms": {
+    "elementalen": "elementals: beings made of an element such as water, fire or earth, in the Warcraft world",
+    "pridewings": "pridewings: winged wyvern-like beasts of the Stonetalon Mountains in the Warcraft world",
+    "treants": "treants: walking, living trees from the Warcraft world"
+  }
+}
