@@ -25,6 +25,7 @@ Data\Batch_06_Class_Priest_10.lua
 Data\Batch_07_Class_Paladin_10.lua
 Data\Batch_08_Darkshore_14.lua
 Data\Batch_09_Westfall_20.lua
+Data\Batch_10_The_Deadmines_6_Voorquests.lua
 
 Display.lua
 Reader.lua
