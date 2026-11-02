@@ -18,6 +18,7 @@ Data\Start_Coldridge.lua
 Data\Start_DunMorogh.lua
 Data\Start_ClassRunes.lua
 Data\Batch_02_Shadowglen.lua
+Data\Batch_03_Teldrassil.lua
 
 Display.lua
 Reader.lua
