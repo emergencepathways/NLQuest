@@ -1,0 +1,1747 @@
+{
+  "quests": {
+    "1455": {
+      "t": "Het wrak van Karnitol",
+      "d": "Je neemt even de tijd om uit te zoeken waarmee de kist is opengebroken. Langs de zijkanten en de bovenkant van de kist zie je lange, diepe krassen. Daaraan zie je dat iets anders dan een mens of een reus belangstelling voor de kist had. De sporen zien er niet uit alsof ze door een dolk of een zwaard zijn gemaakt.$B$BAls je de kist doorzoekt, blijkt hij helemaal leeg te zijn.$B$BJe weet niet wat je anders kunt doen, dus je sluit de kist en maakt je klaar om te vertrekken. Kreldig zal teleurgesteld zijn.",
+      "o": "Ga terug naar Kreldig Ungor in Desolace.",
+      "c": "Welkom terug in Nijel's Point, $N. Vertel eens wat je hebt gevonden.$B$BWat!? Niets? Met een lege kist worden we niet betaald, ben ik bang.$B$BVertel me meer over die sporen die je zag... die krassen.",
+      "g": [
+        [
+          "uit te zoeken",
+          "to figure out (uitzoeken)"
+        ],
+        [
+          "opengebroken",
+          "pried open (openbreken)"
+        ],
+        [
+          "zijkanten",
+          "sides (zijkant)"
+        ],
+        [
+          "krassen",
+          "scratches (kras)"
+        ],
+        [
+          "reus",
+          "giant"
+        ],
+        [
+          "belangstelling",
+          "interest"
+        ],
+        [
+          "sporen",
+          "marks, traces (spoor)"
+        ],
+        [
+          "dolk",
+          "dagger"
+        ],
+        [
+          "zwaard",
+          "sword"
+        ],
+        [
+          "doorzoekt",
+          "go through, search (doorzoeken)"
+        ],
+        [
+          "blijkt",
+          "turns out (blijken)"
+        ],
+        [
+          "vertrekken",
+          "to leave"
+        ],
+        [
+          "teleurgesteld",
+          "disappointed"
+        ]
+      ]
+    },
+    "1456": {
+      "t": "Het wrak van Karnitol",
+      "d": "Interessant.$B$BNou, misschien is er toch nog hoop.$B$BLangs dezelfde kust, maar verder naar het noorden bij Ranazjar Isle, liggen ruïnes van de nachtelfen op de bodem van de oceaan. Een stam naga, de Slitherblade, woont daar. Ik denk dat dat onze beste kans is.$B$BAls een groep verkenners zo ver naar het zuiden kwam, dan moeten ze behoorlijk sterk zijn geweest. Als je de spullen van Karnitol wilt vinden, zou ik beginnen bij de sterkere naga: de tidehunters of de sea witches.",
+      "o": "Vind Karnitol's Satchel en breng hem terug naar Kreldig Ungor in Desolace.",
+      "p": "Niets ten nadele van wie die Nijel ook is, maar dit kamp is niet de prettigste plek waar ik ooit heb geslapen, als je begrijpt wat ik bedoel, $N.",
+      "c": "Dit is geweldig, $N! Je hebt de spullen van Karnitol gevonden!$B$BDie vervloekte naga, altijd maken ze problemen. Ik denk dat ik liever mijn hele leven oorlog voer met de Horde dan dat ik tegen hun soort moet vechten. Je hebt de Reclaimers een grote dienst bewezen.",
+      "g": [
+        [
+          "Interessant",
+          "intriguing, interesting"
+        ],
+        [
+          "kust",
+          "coast"
+        ],
+        [
+          "ruïnes",
+          "ruins"
+        ],
+        [
+          "bodem",
+          "bottom"
+        ],
+        [
+          "stam",
+          "tribe"
+        ],
+        [
+          "onze beste kans",
+          "our best bet"
+        ],
+        [
+          "verkenners",
+          "scouts (verkenner)"
+        ],
+        [
+          "behoorlijk",
+          "pretty, quite"
+        ],
+        [
+          "spullen",
+          "belongings, things"
+        ],
+        [
+          "Niets ten nadele van",
+          "no offense to"
+        ],
+        [
+          "prettigste",
+          "most comfortable, pleasant (prettig)"
+        ],
+        [
+          "vervloekte",
+          "blasted (vervloekt)"
+        ],
+        [
+          "oorlog voer",
+          "wage war (oorlog voeren)"
+        ],
+        [
+          "een grote dienst bewezen",
+          "done a great service (een dienst bewijzen)"
+        ]
+      ]
+    },
+    "1457": {
+      "t": "Het wrak van Karnitol",
+      "d": "Breng de spullen van Karnitol terug naar Roetten in Ironforge. Hij betaalt je voor goed gedaan werk.$B$BHaha, als je niet oppast, is hij zo blij met je dat hij je vraagt om fulltime bij ons te komen werken.$B$BNogmaals, geweldig werk, $N.$B$BWees voorzichtig onderweg terug, en doe er niet te lang over. Karnitol is niet de meest geduldige man, maar hij is toch heel gul.",
+      "o": "Breng Karnitol's Satchel naar Roetten Stonehammer in Ironforge.",
+      "p": "De zaken gaan heel goed, $N, en ik heb niet veel tijd voor vragen. Als je zaken hebt met de Reclaimers, laat maar horen. Zo niet, dan moet ik je vragen om met een van mijn ondergeschikten te praten. Die kunnen de dingen hier goed genoeg regelen.",
+      "c": "Ah, de zaak-Karnitol in Desolace. Uitstekend!$B$BDus de kist is vernield, maar de spullen zijn er allemaal, hè? Nou, dat mag hij zelf beoordelen. Een goed ding aan deze zaak van mij is dat ik, als ze niet tevreden zijn, kan zeggen dat ze het kunnen vergeten! Zij rekenen op ons om hun spullen te vinden... niet om ervoor te zorgen dat alles mooi en in goede staat is als ze het terugkrijgen.$B$BGoed werk, $N. Laten we eens kijken of we je betaald kunnen krijgen.",
+      "g": [
+        [
+          "oppast",
+          "are careful (oppassen)"
+        ],
+        [
+          "fulltime",
+          "full time"
+        ],
+        [
+          "Nogmaals",
+          "again, once more"
+        ],
+        [
+          "onderweg",
+          "on the way"
+        ],
+        [
+          "geduldige",
+          "patient (geduldig)"
+        ],
+        [
+          "gul",
+          "generous"
+        ],
+        [
+          "De zaken gaan heel goed",
+          "business is booming"
+        ],
+        [
+          "ondergeschikten",
+          "underlings (ondergeschikte)"
+        ],
+        [
+          "regelen",
+          "to take care of, arrange"
+        ],
+        [
+          "vernield",
+          "destroyed (vernielen)"
+        ],
+        [
+          "beoordelen",
+          "to judge"
+        ],
+        [
+          "tevreden",
+          "satisfied"
+        ],
+        [
+          "het kunnen vergeten",
+          "can shove it, forget it"
+        ],
+        [
+          "rekenen op",
+          "rely on"
+        ],
+        [
+          "staat",
+          "condition, shape"
+        ]
+      ]
+    },
+    "5501": {
+      "t": "Botten verzamelen",
+      "d": "We zitten hier op een goudmijn, zeg ik je, een goudmijn! Kodobotten gaan de wereld voor altijd veranderen... Ik heb klanten die er meubels, muziekinstrumenten en zelfs buskruit van maken.$B$BEr komt een karavaan langs die mijn kodobotten ophaalt en ze daarna verkoopt in Shadowprey Village. Als je naar het kodokerkhof ten zuiden van hier kunt gaan en me tien kodobotten brengt, geef ik je er iets voor terug. Afgesproken?",
+      "o": "Breng 10 Kodo Bones van het Kodo Graveyard naar Bibbly F'utzbuckle bij Kormek's Hut.",
+      "p": "Heb je de botten? De karavaan kan elk moment hier zijn. Ik heb nog maar tien kodobotten nodig voor het hoogtepunt van mijn carrière. Het hoogtepunt van mijn carrière, zeg ik je!",
+      "c": "Ah, fijn! Mijn botten!$B$BIk kan niet wachten tot de jongens thuis mijn gezicht op de voorkant van Goblin'preneur zien. Ik word de rijkste goblin van de wereld... en mijn gymleraar zei nog dat er nooit iets van me terecht zou komen.",
+      "g": [
+        [
+          "Botten",
+          "bones (bot)"
+        ],
+        [
+          "goudmijn",
+          "goldmine"
+        ],
+        [
+          "Kodobotten",
+          "kodo bones"
+        ],
+        [
+          "klanten",
+          "customers (klant)"
+        ],
+        [
+          "meubels",
+          "furniture"
+        ],
+        [
+          "buskruit",
+          "blasting powder, gunpowder"
+        ],
+        [
+          "kodokerkhof",
+          "kodo graveyard"
+        ],
+        [
+          "Afgesproken",
+          "deal, agreed"
+        ],
+        [
+          "hoogtepunt",
+          "high point"
+        ],
+        [
+          "carrière",
+          "career"
+        ],
+        [
+          "voorkant",
+          "front cover"
+        ],
+        [
+          "gymleraar",
+          "physical education teacher"
+        ],
+        [
+          "er nooit iets van me terecht zou komen",
+          "I would never amount to anything"
+        ]
+      ]
+    },
+    "6132": {
+      "t": "Haal me hier weg!",
+      "d": "Haal me hier weg!$B$BIk kwam naar de Valley of Spears om met de Maraudine te praten. Ik dacht dat ik wat zaken met ze kon doen... maar ze willen niet praten! Ik denk dat ze me willen opeten!$B$BHaal me hier weg, dan betaalt mijn broer Hornizz je flink! Hij is in ons kamp naast het kodokerkhof, in het oosten.$B$BSnel, $N. Nog geen twee minuten geleden hoorde ik een paar centauren praten over hout halen voor hun kookpot... ",
+      "o": "Begeleid Melizza Brimbuzzle en spreek dan met Hornizz Brimbuzzle bij het Kodo Graveyard in Desolace.",
+      "p": "Heb je mijn zus Melizza gezien? Ze is altijd onderweg, en daardoor komt ze steeds in de problemen.",
+      "c": "Mijn zus Melizza zei al dat je zou komen. Heel erg bedankt dat je haar uit de problemen hebt gehaald. Jammer dat ze waarschijnlijk alweer in nieuwe problemen zit!",
+      "g": [
+        [
+          "Haal ... weg",
+          "get out, take away (weghalen)"
+        ],
+        [
+          "zaken ... doen",
+          "do business"
+        ],
+        [
+          "opeten",
+          "to eat up"
+        ],
+        [
+          "flink",
+          "a lot, big"
+        ],
+        [
+          "kodokerkhof",
+          "kodo graveyard"
+        ],
+        [
+          "kookpot",
+          "cooking pot"
+        ],
+        [
+          "Begeleid",
+          "escort (begeleiden)"
+        ],
+        [
+          "onderweg",
+          "on the go"
+        ],
+        [
+          "daardoor",
+          "because of that"
+        ],
+        [
+          "in de problemen",
+          "in trouble"
+        ],
+        [
+          "alweer",
+          "already again"
+        ]
+      ]
+    },
+    "6134": {
+      "t": "Ghost-o-plasm verzamelen",
+      "d": "In het zuidoosten ligt een vallei, de Valley of Bones, waar het spookt door geesten van de Magram. Klinkt eng, hè? Nou, bedenk eens hoe eng het voor de Magram is! Als we geestenenergie van die plek vangen, is die vast veel waard voor die centauren.$B$BHier, neem deze krat met geestmagneten. Als je er een tussen de twee grote skeletten in de vallei zet, de Dead Goliaths, dan komen er geesten op af. Ga op afstand staan, schakel de geesten uit en pak hun ghost-o-plasm. Dat verkopen we aan de Magram.",
+      "o": "Breng 8 Ghost-o-plasms en de Crate of Ghost Magnets naar Hornizz Brimbuzzle in Desolace.",
+      "p": "Waar is mijn ghost-o-plasm, $N?",
+      "c": "Daar is het! Zo te zien zit er ook wat op jou. Een beetje slijmerig, hè?$B$BNou, heel erg bedankt voor al de moeite, $N. Dit spul wordt een fortuin waard... als ik de centauren kan overtuigen wat het is!",
+      "g": [
+        [
+          "vallei",
+          "valley"
+        ],
+        [
+          "waar het spookt",
+          "that is haunted (spoken)"
+        ],
+        [
+          "eng",
+          "scary"
+        ],
+        [
+          "bedenk",
+          "think, imagine (bedenken)"
+        ],
+        [
+          "geestenenergie",
+          "ghost energy"
+        ],
+        [
+          "vangen",
+          "to capture"
+        ],
+        [
+          "krat",
+          "crate"
+        ],
+        [
+          "geestmagneten",
+          "ghost magnets"
+        ],
+        [
+          "skeletten",
+          "skeletons (skelet)"
+        ],
+        [
+          "komen ... op af",
+          "come towards it (afkomen op)"
+        ],
+        [
+          "op afstand",
+          "at a distance"
+        ],
+        [
+          "schakel ... uit",
+          "take out (uitschakelen)"
+        ],
+        [
+          "slijmerig",
+          "slimy"
+        ],
+        [
+          "fortuin",
+          "fortune"
+        ],
+        [
+          "overtuigen",
+          "to convince"
+        ]
+      ]
+    },
+    "6141": {
+      "t": "Brother Anton",
+      "d": "Mijn wapenbroeder, Brother Anton, hoorde geruchten dat ondoden een land in het verre Kalimdor teisteren, een land dat Desolace heet. Anton boekte meteen een overtocht naar die plek, om de dreiging van de ondoden op te sporen en te vernietigen!$B$BHij zoekt mensen met de moed en de vastberadenheid om hem te helpen. Als je hart oprecht is, spreek dan met Anton. Hij is in Desolace, in Nijel's Point, een stad van de Alliance. ",
+      "o": "Spreek met Brother Anton in Desolace.",
+      "c": "Ik heb bericht gekregen dat er hulp uit het oosten komt. Ben jij de bron van die geruchten? Ben je hier gekomen om de Scarlet-broeders te helpen bij hun kruistocht?$B$BZo ja, luister dan goed...",
+      "g": [
+        [
+          "wapenbroeder",
+          "brother in arms"
+        ],
+        [
+          "geruchten",
+          "rumors (gerucht)"
+        ],
+        [
+          "ondoden",
+          "undead"
+        ],
+        [
+          "verre",
+          "distant (ver)"
+        ],
+        [
+          "teisteren",
+          "to plague, infest"
+        ],
+        [
+          "overtocht",
+          "passage, crossing"
+        ],
+        [
+          "dreiging",
+          "menace, threat"
+        ],
+        [
+          "op te sporen",
+          "to seek out (opsporen)"
+        ],
+        [
+          "moed",
+          "bravery, courage"
+        ],
+        [
+          "vastberadenheid",
+          "resolve"
+        ],
+        [
+          "oprecht",
+          "true, sincere"
+        ],
+        [
+          "bericht",
+          "word, message"
+        ],
+        [
+          "bron",
+          "source"
+        ],
+        [
+          "kruistocht",
+          "crusade"
+        ]
+      ]
+    },
+    "1052": {
+      "t": "Het Scarlet-pad op",
+      "d": "Wij van de Scarlet Crusade hebben vestingen van Hearthglen tot de Tirisfal Glades. We zijn erg trots op onze bolwerken van zuivering overal in Lordaeron.$b$bJe hebt jezelf bewezen tegen de ondoden in Desolace. Maar de echte dreiging van de pest ligt in Lordaeron.$b$bReis naar het stadje Southshore, in de Eastern Kingdoms. Zoek een kruisvaarder die Raleigh the Devout heet. Geef hem deze aanbevelingsbrief met mijn zegel. Hij zal je dan begeleiden naar een ereplaats in ons Scarlet Monastery.",
+      "o": "Breng de Brother Anton's Letter of Commendation naar Raleigh the Devout in Southshore.",
+      "p": "Wie is daar? Wat wil je van me?",
+      "c": "Verspreidt Brother Anton nog steeds de boodschap van de Scarlet Crusade? O jee....",
+      "g": [
+        [
+          "vestingen",
+          "strongholds (vesting)"
+        ],
+        [
+          "trots",
+          "proud"
+        ],
+        [
+          "bolwerken",
+          "bastions (bolwerk)"
+        ],
+        [
+          "zuivering",
+          "cleansing"
+        ],
+        [
+          "bewezen",
+          "proven (bewijzen)"
+        ],
+        [
+          "dreiging",
+          "threat"
+        ],
+        [
+          "pest",
+          "plague"
+        ],
+        [
+          "kruisvaarder",
+          "crusader"
+        ],
+        [
+          "aanbevelingsbrief",
+          "letter of commendation"
+        ],
+        [
+          "zegel",
+          "seal"
+        ],
+        [
+          "begeleiden",
+          "to escort"
+        ],
+        [
+          "ereplaats",
+          "place of honor"
+        ],
+        [
+          "Verspreidt",
+          "spreads (verspreiden)"
+        ],
+        [
+          "boodschap",
+          "word, message"
+        ],
+        [
+          "O jee",
+          "oh my"
+        ]
+      ]
+    },
+    "1466": {
+      "t": "Reagentia voor Reclaimers Inc.",
+      "d": "Dit is het laatste ding op de lijst, en ik ga niet liegen: het is niet mooi. Ik verwacht ook dat dit je wat langer zal kosten dan de andere dingen.$B$BGoed, genoeg gewaarschuwd, laten we beginnen. Leftwitch zegt dat hij dit nodig heeft: tien hersenen van mana eaters, mage hunters of ley hunters. Tien nethervleugels van een nether maiden, sister of sorceress. En... tien flesjes doomwarderbloed van een doomwarder captain of lord.$B$BSimpel genoeg, hè? Jeetje... als je deze liever overslaat, begrijp ik dat best.",
+      "o": "Breng 10 Felhound Brains, 10 Nether Wings en 10 flesjes Doomwarder Blood naar Kreldig Ungor in Desolace.",
+      "p": "Ik wist niet eens dat er van die demonen in Desolace waren. Het laatste wat ik las, was dat de centauren zo'n beetje de baas waren over het land, nadat de nachtelfen jaren geleden hun spullen hadden gepakt en waren vertrokken.$B$BIk vraag me af waarom ze zich hier hebben gevestigd, en hoe.",
+      "c": "Eerlijk? Dat had ik niet gedacht. Je bent geweldig, $N. Je neemt het op tegen demonen voor de experimenten van een magiër, en je komt ook nog heelhuids terug. Geweldig werk!$B$BIk ga Roetten persoonlijk over je vertellen als ik terug ben in Ironforge.",
+      "g": [
+        [
+          "liegen",
+          "to lie"
+        ],
+        [
+          "verwacht",
+          "expect (verwachten)"
+        ],
+        [
+          "gewaarschuwd",
+          "warned (waarschuwen)"
+        ],
+        [
+          "hersenen",
+          "brains"
+        ],
+        [
+          "nethervleugels",
+          "nether wings"
+        ],
+        [
+          "flesjes",
+          "vials (flesje)"
+        ],
+        [
+          "Jeetje",
+          "sheesh, gosh"
+        ],
+        [
+          "overslaat",
+          "skip, pass on (overslaan)"
+        ],
+        [
+          "de baas waren over",
+          "owned, were in charge of"
+        ],
+        [
+          "zich ... gevestigd",
+          "settled (zich vestigen)"
+        ],
+        [
+          "neemt het op tegen",
+          "take on (het opnemen tegen)"
+        ],
+        [
+          "experimenten",
+          "experiments (experiment)"
+        ],
+        [
+          "heelhuids",
+          "in one piece"
+        ],
+        [
+          "persoonlijk",
+          "personally"
+        ]
+      ]
+    },
+    "1467": {
+      "t": "Reagentia voor Reclaimers Inc.",
+      "d": "Om betaald te worden, moet je terug naar Ironforge en met Roetten zelf praten. Hij zal sowieso blij zijn als het pakket van Leftwitch eindelijk geregeld is. Geef hem dit maar, dan zou je je buit moeten krijgen.$B$BEn maak je geen zorgen: als ik terug ben, leg ik nog steeds een goed woordje voor je in. Ik hoef niet veel langer in Desolace te blijven.",
+      "o": "Breng Leftwitch's Package terug naar Roetten Stonehammer in Ironforge.",
+      "p": "Gegroet, $N. De zaken gaan heel goed. Overal in Ironforge hoor je het geluid van aambeelden waarop wordt geslagen, de blaasbalgen maken de vuren heet, en mijn vrouw bakt een taart als toetje na het avondeten van vanavond. Kan het leven nog mooier?",
+      "c": "Ah, het pakket voor Leftwitch uit Desolace. Uitstekend. Ik waardeer je werk, en dat je zo op tijd bent, $C. Fijn dat je ons tenminste met dit kleine klusje wilde helpen.$B$BIk heb je betaling hier. Laat het bekend zijn: Reclaimers Inc. betaalt altijd goed voor een week hard werken.",
+      "g": [
+        [
+          "sowieso",
+          "anyway"
+        ],
+        [
+          "pakket",
+          "package"
+        ],
+        [
+          "geregeld",
+          "taken care of (regelen)"
+        ],
+        [
+          "buit",
+          "booty, loot"
+        ],
+        [
+          "leg ... een goed woordje voor je in",
+          "put in a good word for you"
+        ],
+        [
+          "Gegroet",
+          "well met, greetings"
+        ],
+        [
+          "aambeelden",
+          "anvils (aambeeld)"
+        ],
+        [
+          "geslagen",
+          "struck (slaan)"
+        ],
+        [
+          "blaasbalgen",
+          "bellows (blaasbalg)"
+        ],
+        [
+          "taart",
+          "pie, cake"
+        ],
+        [
+          "toetje",
+          "dessert"
+        ],
+        [
+          "waardeer",
+          "appreciate (waarderen)"
+        ],
+        [
+          "op tijd",
+          "on time, timely"
+        ],
+        [
+          "tenminste",
+          "at least"
+        ],
+        [
+          "klusje",
+          "small job"
+        ],
+        [
+          "betaling",
+          "payment"
+        ]
+      ]
+    },
+    "1380": {
+      "t": "Khan Hratha",
+      "d": "$N, je hebt ons geholpen tegen de Magram. Help ons nu de Maraudine te verslaan! Dood het hoofd van hun clan, Khan Hratha!$B$BOm hem te bevechten, moet je op de Maraudine War Horn blazen. Die staat boven op een hoge klif in de Valley of Spears.$B$BMaar om op de hoorn te blazen, heb je een mondstuk nodig. Die zijn zeldzaam. Alleen Maraudine-centauren die vertrouwd worden, dragen er een.$B$BAls er op de hoorn is geblazen, komen er centauren. Dood ze tot Hratha verschijnt.$B$BKhan Hratha heeft het stuk van... een sleutel. Breng het naar mij...",
+      "o": "Behoud je reputatie bij de Gelkis en breng het Maraudine Key Fragment naar Uthek the Wise in Gelkis Village.",
+      "p": "Is Khan Hratha dood? Heb je het stuk van de sleutel?",
+      "c": "Hij is dood! Khan Hratha is dood! En nu zullen de Maraudine vallen! Als de Gelkis over dit land heersen, $N, zullen we jou niet vergeten. En de geesten van de aarde zullen voor altijd je naam zingen.",
+      "g": [
+        [
+          "verslaan",
+          "to beat, defeat"
+        ],
+        [
+          "bevechten",
+          "to face, fight"
+        ],
+        [
+          "blazen",
+          "to blow"
+        ],
+        [
+          "klif",
+          "bluff, cliff"
+        ],
+        [
+          "hoorn",
+          "horn"
+        ],
+        [
+          "mondstuk",
+          "mouthpiece"
+        ],
+        [
+          "zeldzaam",
+          "rare"
+        ],
+        [
+          "vertrouwd",
+          "trusted (vertrouwen)"
+        ],
+        [
+          "verschijnt",
+          "appears (verschijnen)"
+        ],
+        [
+          "Behoud",
+          "maintain, keep (behouden)"
+        ],
+        [
+          "heersen",
+          "rule"
+        ],
+        [
+          "aarde",
+          "earth"
+        ],
+        [
+          "zingen",
+          "sing"
+        ]
+      ]
+    },
+    "1381": {
+      "t": "Khan Hratha",
+      "d": "De khan van de Gelkis is dood, en nu zullen de Maraudine vallen! Dood de khan van de Maraudine, Hratha!$B$BOm hem te bevechten, moet je op de hoorn blazen op de hoge klif in de Valley of Spears. Maar om op de hoorn te blazen, heb je een mondstuk nodig. Om een mondstuk te krijgen, moet je Maraudine-centauren doden. Blijf doden tot je een mondstuk vindt. Blaas dan op de hoorn.$B$BDoe dit, en er komen Maraudine-centauren naar de toren. Dood ze tot Khan Hratha verschijnt. Hratha heeft het stuk van een sleutel. Geef dat stuk aan mij...",
+      "o": "Behoud je reputatie bij de Magram en breng het Maraudine Key Fragment naar Warug in Magram Village in Desolace.",
+      "p": "Doe wat ik vraag. Bewijs me dat je een bondgenoot van de Magram bent!",
+      "c": "Khan Hratha is dood! Nu zijn de Magram de sterkste centauren! We zullen de anderen verpletteren en over Desolace heersen!$B$BWe zullen jou niet vergeten, $N. Als alle anderen onder onze hoeven worden vertrapt, zullen we jou sparen.",
+      "g": [
+        [
+          "khan",
+          "khan, chieftain"
+        ],
+        [
+          "bevechten",
+          "to face, fight"
+        ],
+        [
+          "blazen",
+          "to blow"
+        ],
+        [
+          "klif",
+          "bluff, cliff"
+        ],
+        [
+          "mondstuk",
+          "mouthpiece"
+        ],
+        [
+          "verschijnt",
+          "appears (verschijnen)"
+        ],
+        [
+          "Behoud",
+          "maintain, keep (behouden)"
+        ],
+        [
+          "Bewijs",
+          "prove (bewijzen)"
+        ],
+        [
+          "bondgenoot",
+          "ally"
+        ],
+        [
+          "verpletteren",
+          "to crush"
+        ],
+        [
+          "heersen",
+          "to rule"
+        ],
+        [
+          "hoeven",
+          "hooves (hoef)"
+        ],
+        [
+          "vertrapt",
+          "trampled (vertrappen)"
+        ],
+        [
+          "sparen",
+          "to spare"
+        ]
+      ]
+    },
+    "583": {
+      "t": "Welkom in de jungle",
+      "d": "Welkom in Stranglethorn!$b$bMisschien weet je het niet, maar die dwerg daar is de enige echte Hemet Nesingwary: de beroemde oorlogsheld van de Alliance en een meester in het jagen op groot wild. Hij laat niet graag vreemden in zijn kamp, maar jij ziet eruit alsof je in je leven al heel wat hebt meegemaakt, $c.$b$bMeester Nesingwary heeft zelf in veel gevechten gevochten, dus hij heeft een zwak voor andere helden.$b$bGa met hem praten. Misschien kan hij je een paar tips over jagen geven.",
+      "o": "Spreek met Hemet Nesingwary.",
+      "c": "Zeer aangenaam kennis met je te maken, $n. Ik heb hier al een tijd geen $c meer gezien.$b$bIk heb me bij deze expeditie aangesloten met één doel: jagen op een groot beest dat moeilijk te vinden is. Omdat je een soort held bent, wil ik je wel laten meedoen aan de jacht. Maar eerst moet je jezelf bewijzen.$b$bIk leer je hoe je raptors doodt. Ajeck leert je jagen op tijgers. En Sir Erlgadin is een meester in het opsporen van panters.$b$bBewijs wat je kunt, dan mag je meedoen aan de grote jacht.",
+      "g": [
+        [
+          "de enige echte",
+          "the one and only"
+        ],
+        [
+          "beroemde",
+          "renowned (beroemd)"
+        ],
+        [
+          "oorlogsheld",
+          "war hero"
+        ],
+        [
+          "groot wild",
+          "big game"
+        ],
+        [
+          "vreemden",
+          "strangers (vreemde)"
+        ],
+        [
+          "heel wat ... meegemaakt",
+          "seen quite a bit of action (meemaken)"
+        ],
+        [
+          "een zwak voor",
+          "a soft spot for"
+        ],
+        [
+          "tips",
+          "pointers, tips"
+        ],
+        [
+          "Zeer aangenaam kennis met je te maken",
+          "jolly nice to make your acquaintance"
+        ],
+        [
+          "expeditie",
+          "expedition"
+        ],
+        [
+          "aangesloten",
+          "joined (zich aansluiten)"
+        ],
+        [
+          "doel",
+          "purpose, goal"
+        ],
+        [
+          "jacht",
+          "hunt"
+        ],
+        [
+          "opsporen",
+          "tracking"
+        ],
+        [
+          "panters",
+          "panthers (panter)"
+        ]
+      ]
+    },
+    "185": {
+      "t": "Meester in tijgers",
+      "d": "Toen ik nog een jong meisje was, leerde mijn vader me de kunst van het jagen op tijgers.$b$bDe jonge katachtigen zijn veel makkelijker op te sporen en te doden. Daarom beginnen we makkelijk. Je vindt vaak jonge tijgers in de buurt van het kamp van de expeditie.$b$bTest je speurkunsten en kijk of je een paar van die beesten kunt opjagen.",
+      "o": "Ajeck Rouack van Nesingwary's Expedition wil dat je 10 Young Stranglethorn Tigers doodt.",
+      "p": "Ik voel me niet zeker genoeg om je verder te trainen, $n, tot je hebt bewezen dat je de jongste tijgers kunt doden.",
+      "c": "Mooi gedaan, $n. Je bent klaar voor de volgende stap.",
+      "g": [
+        [
+          "Meester",
+          "master"
+        ],
+        [
+          "kunst",
+          "art"
+        ],
+        [
+          "katachtigen",
+          "felines (katachtige)"
+        ],
+        [
+          "op te sporen",
+          "to track (opsporen)"
+        ],
+        [
+          "in de buurt van",
+          "near"
+        ],
+        [
+          "expeditie",
+          "expedition"
+        ],
+        [
+          "speurkunsten",
+          "tracking skills"
+        ],
+        [
+          "opjagen",
+          "to hunt down"
+        ],
+        [
+          "zeker",
+          "confident, sure"
+        ],
+        [
+          "trainen",
+          "to train"
+        ],
+        [
+          "bewezen",
+          "proven (bewijzen)"
+        ]
+      ]
+    },
+    "190": {
+      "t": "Meester in panters",
+      "d": "Als je mee wilt doen aan de jacht met deze topgroep die Hemet heeft verzameld, moet je bewijzen dat je een goede panterjager bent. We beginnen makkelijk, maak je geen zorgen. Laat eerst maar eens zien dat je 10 jonge panters kunt doden.$b$bZe opsporen is maar de helft van de uitdaging...",
+      "o": "Sir S. J. Erlgadin van Nesingwary's Expedition wil dat je 10 Young Panthers doodt.",
+      "p": "Een echte panterjager zou buiten op het veld zijn om zijn prooi te besluipen. Laat zien dat je je doel serieus neemt, $c, en ga weer naar buiten.",
+      "c": "Een goed begin, $N!",
+      "g": [
+        [
+          "jacht",
+          "hunt"
+        ],
+        [
+          "topgroep",
+          "crack group"
+        ],
+        [
+          "verzameld",
+          "assembled (verzamelen)"
+        ],
+        [
+          "panterjager",
+          "panther hunter"
+        ],
+        [
+          "opsporen",
+          "tracking down"
+        ],
+        [
+          "helft",
+          "half"
+        ],
+        [
+          "uitdaging",
+          "challenge"
+        ],
+        [
+          "veld",
+          "field"
+        ],
+        [
+          "prooi",
+          "prey"
+        ],
+        [
+          "besluipen",
+          "to stalk"
+        ],
+        [
+          "serieus neemt",
+          "take seriously (serieus nemen)"
+        ]
+      ]
+    },
+    "575": {
+      "t": "Vraag en aanbod",
+      "d": "\"De beste leerbewerker van de South Seas en van de oude en de nieuwe wereld.\" Zo noemen ze me. Mij! Drizzlik! De beste leer... Ahum. Nou ja.$b$bMijn leren spullen staan overal bekend als de allermooiste, de keuze van de kenner!$b$bIk heb net een bestelling gekregen van Director Riddlevox van de Tinkers' Union: twaalf paar van zijn favoriete laarzen uit de Excelsior-lijn. Eigenlijk onze bestsellers.$b$bOm met de basisvorm te beginnen, heb ik krokoliskhuiden nodig van de krokodillen langs de rivier in het noorden van Stranglethorn.",
+      "o": "Breng 2 Large River Crocolisk Skins naar Drizzlik in Booty Bay.",
+      "p": "Mijn gereedschap is helemaal klaar, $n. Ik heb alleen die huiden nodig. We willen Riddlevox niet laten wachten, dat is zeker.$b$bHet is voor niemand een goed idee om de hoofduitvinder van de Tinkers' Union ontevreden te laten.",
+      "c": "Deze huiden zijn goed genoeg. Hun kwaliteit is niet zo belangrijk, omdat ze de binnenlaag van de laarzen worden. Maar het is wel belangrijk dat ze comfortabel zijn.$b$bAls ze een beetje te stijf zijn, gebruik ik wat tijgerbloed om ze zachter te maken. Trucjes van het vak, weet je wel?",
+      "g": [
+        [
+          "Vraag en aanbod",
+          "supply and demand"
+        ],
+        [
+          "leerbewerker",
+          "leathercrafter"
+        ],
+        [
+          "leren",
+          "leather (adjective)"
+        ],
+        [
+          "staan ... bekend",
+          "are known (bekendstaan)"
+        ],
+        [
+          "allermooiste",
+          "most exquisite"
+        ],
+        [
+          "kenner",
+          "connoisseur"
+        ],
+        [
+          "bestelling",
+          "order"
+        ],
+        [
+          "basisvorm",
+          "basic shape"
+        ],
+        [
+          "krokoliskhuiden",
+          "crocolisk skins"
+        ],
+        [
+          "gereedschap",
+          "equipment, tools"
+        ],
+        [
+          "hoofduitvinder",
+          "chief inventor"
+        ],
+        [
+          "ontevreden",
+          "unsatisfied"
+        ],
+        [
+          "binnenlaag",
+          "inside layer"
+        ],
+        [
+          "stijf",
+          "rigid, stiff"
+        ],
+        [
+          "Trucjes van het vak",
+          "tricks of the trade"
+        ]
+      ]
+    },
+    "198": {
+      "t": "Voorraden voor Private Thorsen",
+      "d": "Hm. Ja, ik heb eigenlijk wel iets wat je kunt doen. Lieutenant Doren en zijn volgelingen in het noorden hebben hun vaste voorraden van ons nodig.$b$bZe zijn niet bezorgd, en nu de trollen aanvallen, heb ik iemand nodig die het doet. Het kamp van Doren ligt ten noordwesten van de weg bij de ingang van Stranglethorn vanuit Duskwood. Geef de voorraden aan Private Thorsen. Als hij niet in het kamp is, patrouilleert hij ten zuiden ervan. Hij zorgt er verder voor.$b$bLet op: als het je niet lukt, moet je me schadevergoeding betalen.",
+      "o": "Bezorg de Miscellaneous Goblin Supplies bij Private Thorsen.",
+      "p": "Ja? Wat wil je? O, voorraden van de goblins. Vreemd dat een $R ze komt brengen; meestal sturen ze hun eigen mensen. Maakt niet uit... je hebt ze toch niet aangeraakt? Goed, goed... we willen niet dat er iets met onze mijnen gebeurt, o nee.",
+      "c": "Met deze landmijnen kunnen we ons verdedigen tegen dat beest Kurzen en zijn mannen. Bedankt dat je ze hebt gebracht. Als je meer werk zoekt, kan ik waarschijnlijk wel iets voor je vinden. En dan hoef je niet met die goblins te maken te hebben, hm?",
+      "g": [
+        [
+          "Voorraden",
+          "supplies (voorraad)"
+        ],
+        [
+          "volgelingen",
+          "followers (volgeling)"
+        ],
+        [
+          "vaste",
+          "regular (vast)"
+        ],
+        [
+          "bezorgd",
+          "delivered (bezorgen)"
+        ],
+        [
+          "ingang",
+          "entrance"
+        ],
+        [
+          "patrouilleert",
+          "patrols (patrouilleren)"
+        ],
+        [
+          "Let op",
+          "mind you"
+        ],
+        [
+          "schadevergoeding",
+          "restitution, compensation"
+        ],
+        [
+          "Bezorg",
+          "deliver (bezorgen)"
+        ],
+        [
+          "aangeraakt",
+          "touched (aanraken)"
+        ],
+        [
+          "mijnen",
+          "mines (mijn)"
+        ],
+        [
+          "landmijnen",
+          "land mines"
+        ],
+        [
+          "verdedigen",
+          "to defend"
+        ],
+        [
+          "te maken te hebben",
+          "to deal with (te maken hebben met)"
+        ]
+      ]
+    },
+    "201": {
+      "t": "Onderzoek het kamp",
+      "d": "Ik heb berichten gekregen over een groep jagers die een kamp hebben opgezet stroomopwaarts van het mijnkamp van de Venture Company bij Lake Nazferiti. Normaal zou het me niets kunnen schelen, maar ik hoorde iets wat haast niet te geloven is: Hemet Nesingwary zou een van de jagers daar zijn? Hij heeft zeker goede connecties, als je begrijpt wat ik bedoel, en je kunt nooit voorzichtig genoeg zijn.$b$bWaarom ga je niet eens naar dat kamp kijken, $n, en zien wat ze van plan zijn?",
+      "o": "Vind het kamp van de jagers en meld de plek aan Krazek in Booty Bay.",
+      "p": "En? Heb je het kamp kunnen vinden?",
+      "c": "Hmm, dus mijn informatie klopte, zoals altijd. Interessant. Nou, ik denk niet dat ze een gevaar zijn voor onze bedrijvigheid hier. Maar misschien hebben ze wel iets nodig van onze uitstekende fabrieksproducten. Hmm...",
+      "e": "Vind het kamp van de jagers",
+      "g": [
+        [
+          "Onderzoek",
+          "investigate (onderzoeken)"
+        ],
+        [
+          "berichten",
+          "reports (bericht)"
+        ],
+        [
+          "opgezet",
+          "set up (opzetten)"
+        ],
+        [
+          "stroomopwaarts",
+          "upriver"
+        ],
+        [
+          "mijnkamp",
+          "mining camp"
+        ],
+        [
+          "haast niet te geloven",
+          "hard to believe, improbable"
+        ],
+        [
+          "connecties",
+          "connections"
+        ],
+        [
+          "voorzichtig",
+          "careful, safe"
+        ],
+        [
+          "van plan",
+          "planning, about"
+        ],
+        [
+          "meld",
+          "report (melden)"
+        ],
+        [
+          "klopte",
+          "was correct (kloppen)"
+        ],
+        [
+          "bedrijvigheid",
+          "operation, business"
+        ],
+        [
+          "fabrieksproducten",
+          "manufactured products"
+        ]
+      ]
+    },
+    "186": {
+      "t": "Meester in tijgers",
+      "d": "Je leert, $c. Laten we je vaardigheden nu testen met de volwassen katten. Dood deze keer 10 Stranglethorn Tigers.",
+      "o": "Ajeck Rouack van Nesingwary's Expedition wil dat je 10 Stranglethorn Tigers doodt.",
+      "p": "Als je grotere uitdagingen wilt, moet je jezelf eerst bewijzen met de taak die je nu hebt. Kom terug als je 10 Stranglethorn Tigers hebt gedood.",
+      "c": "Ik ben onder de indruk, $c. Je gaat heel goed vooruit.",
+      "g": [
+        [
+          "vaardigheden",
+          "skills (vaardigheid)"
+        ],
+        [
+          "volwassen",
+          "mature, adult"
+        ],
+        [
+          "uitdagingen",
+          "challenges (uitdaging)"
+        ],
+        [
+          "bewijzen",
+          "to prove"
+        ],
+        [
+          "onder de indruk",
+          "impressed"
+        ],
+        [
+          "gaat ... vooruit",
+          "are progressing (vooruitgaan)"
+        ]
+      ]
+    },
+    "191": {
+      "t": "Meester in panters",
+      "d": "Nu ben je klaar om er een schepje bovenop te doen. Als je wilt bewijzen dat je goed genoeg bent om met grootwildjagers zoals deze om te gaan, moet je laten zien dat je 10 panters kunt doden.$b$bDie grote jongens zijn sterker. Ze zijn niet zo makkelijk als de jonge die je eerder doodde.",
+      "o": "Sir S. J. Erlgadin van Nesingwary's Expedition wil dat je 10 Panthers doodt.",
+      "p": "Ga 10 panters doden! Laat zien wat je kunt!",
+      "c": "Perfect uitgevoerd, $N!",
+      "g": [
+        [
+          "er een schepje bovenop te doen",
+          "to turn it up a notch"
+        ],
+        [
+          "bewijzen",
+          "to prove"
+        ],
+        [
+          "grootwildjagers",
+          "big game hunters (grootwildjager)"
+        ],
+        [
+          "om te gaan",
+          "to socialize, associate (omgaan)"
+        ],
+        [
+          "panters",
+          "panthers (panter)"
+        ],
+        [
+          "sterker",
+          "tougher, stronger (sterk)"
+        ],
+        [
+          "uitgevoerd",
+          "executed (uitvoeren)"
+        ]
+      ]
+    },
+    "203": {
+      "t": "De tweede opstand",
+      "d": "We vechten een verloren strijd tegen Colonel Kurzen. Hij is niet alleen een briljante tacticus, hij heeft ook minstens tien keer zoveel mannen als wij! Om te overleven, moeten we zijn eigen geheime tactieken tegen hem gebruiken.$B$BGa zijn kamp in het oosten binnen en dood zijn mannen. Heel veel. En ga weer weg voordat er versterkingen op je af kunnen komen.",
+      "o": "Dood 15 Kurzen Jungle Fighters.$B$BGa terug naar Sergeant Yohwa in het Rebel Camp.",
+      "p": "Ik hoop dat je succes hebt gehad met je jacht, $N. Zonder jouw hulp houden we het niet lang vol tegen hem.",
+      "c": "Goed gedaan. Het verlies van die Jungle Fighters haalt wat druk van ons kamp.$b$bMaar nu je hebt gezien tegen welke troepen we vechten: wil je nog steeds je lot met het onze verbinden??",
+      "g": [
+        [
+          "opstand",
+          "rebellion"
+        ],
+        [
+          "verloren strijd",
+          "losing battle"
+        ],
+        [
+          "briljante",
+          "brilliant (briljant)"
+        ],
+        [
+          "tacticus",
+          "tactician"
+        ],
+        [
+          "overleven",
+          "to survive"
+        ],
+        [
+          "geheime",
+          "covert, secret (geheim)"
+        ],
+        [
+          "tactieken",
+          "tactics (tactiek)"
+        ],
+        [
+          "versterkingen",
+          "reinforcements (versterking)"
+        ],
+        [
+          "houden ... vol",
+          "hold out (volhouden)"
+        ],
+        [
+          "verlies",
+          "loss"
+        ],
+        [
+          "druk",
+          "pressure"
+        ],
+        [
+          "troepen",
+          "forces, troops"
+        ],
+        [
+          "je lot met het onze verbinden",
+          "throw your lot in with us"
+        ]
+      ]
+    },
+    "215": {
+      "t": "Geheimen van de jungle",
+      "d": "Bedankt dat je me hebt gered, $N. Ik weet hoe dit eruitziet, maar... laat me het uitleggen.$B$BLieutenant Doren gaf me de opdracht om me weer bij de mannen van Kurzen aan te melden. Zo kon ik hen bespioneren en de rebellen informatie brengen die ze hard nodig hebben. Wat je hier zag, was volgens mij mijn kans om Kurzen's Compound binnen te dringen. Ik had het mis, en nogmaals bedankt dat je me hebt gered.$B$BDit was een supergeheime opdracht, dus je mag het aan niemand vertellen. Maar als je met Doren praat, zal hij het uitleggen.",
+      "o": "Spreek met Lieutenant Doren in het Rebel Camp.",
+      "c": "Ja, wat Thorsen je vertelde, is waar. Je moet hier discreet mee omgaan. Vroeger waren wij rebellen heel trouw aan Colonel Kurzen. Maar Kurzen was zo verdorven dat onze passie veranderde in woede. Als bekend werd dat Private Thorsen pas nog contact heeft gehad met de mannen van Kurzen, dan zou hij op een nacht met een doorgesneden keel liggen.$b$bVoor zover ik weet, wisten alleen Sergeant Yohwa, Thorsen en ik van de opdracht van Thorsen. Maar er moet nog iemand zijn. Een verrader.",
+      "g": [
+        [
+          "gered",
+          "saved (redden)"
+        ],
+        [
+          "opdracht",
+          "task, mission"
+        ],
+        [
+          "aan te melden",
+          "to enlist, sign up (aanmelden)"
+        ],
+        [
+          "bespioneren",
+          "to spy on"
+        ],
+        [
+          "rebellen",
+          "rebels (rebel)"
+        ],
+        [
+          "binnen te dringen",
+          "to infiltrate (binnendringen)"
+        ],
+        [
+          "supergeheime",
+          "top secret (supergeheim)"
+        ],
+        [
+          "discreet",
+          "discreet"
+        ],
+        [
+          "trouw",
+          "loyal"
+        ],
+        [
+          "verdorven",
+          "corrupt"
+        ],
+        [
+          "passie",
+          "passion"
+        ],
+        [
+          "woede",
+          "rage"
+        ],
+        [
+          "doorgesneden keel",
+          "slit throat"
+        ],
+        [
+          "Voor zover ik weet",
+          "to my knowledge"
+        ],
+        [
+          "verrader",
+          "traitor"
+        ]
+      ]
+    },
+    "194": {
+      "t": "Meester in raptors",
+      "d": "Dus je denkt dat je jachtkunsten in topvorm zijn? Dat kan ik in een handomdraai testen. Ga die jungle in en dood 10 Stranglethorn Raptors. We zullen zien hoe goed je echt bent als grootwildjager.$b$bEn nee, ik ga je niet vertellen waar je ze kunt vinden! De beesten opsporen is de helft van de uitdaging.",
+      "o": "Hemet Nesingwary wil dat je 10 Stranglethorn Raptors doodt.",
+      "p": "Ik heb nog nooit een jager ontmoet die iets doodde door rond het kampvuur te staan. Was je van plan die Stranglethorn Raptors te doden, of hoopte je dat ze van ouderdom zouden sterven?",
+      "c": "Mooi gedaan, $gbeste kerel:jongedame;!",
+      "g": [
+        [
+          "jachtkunsten",
+          "hunting skills"
+        ],
+        [
+          "topvorm",
+          "tip-top shape"
+        ],
+        [
+          "in een handomdraai",
+          "in a jiffy"
+        ],
+        [
+          "grootwildjager",
+          "big game hunter"
+        ],
+        [
+          "opsporen",
+          "locating, tracking"
+        ],
+        [
+          "helft",
+          "half"
+        ],
+        [
+          "uitdaging",
+          "challenge"
+        ],
+        [
+          "ontmoet",
+          "met (ontmoeten)"
+        ],
+        [
+          "kampvuur",
+          "campfire"
+        ],
+        [
+          "van plan",
+          "planning"
+        ],
+        [
+          "ouderdom",
+          "old age"
+        ]
+      ]
+    },
+    "204": {
+      "t": "Slechte medicijnen",
+      "d": "Om een kans te maken tegen Kurzen, moeten we zijn genezers uitschakelen. Hij heeft een groot aantal Medicine Men om zich heen verzameld. Zij genezen zijn troepen met Jungle Remedies en vergiftigen onze strijders met Venom Fern Extracts.$B$BWe hebben die geneesmiddelen nodig om onze eigen mensen te genezen. En we hebben een monster van die extracten nodig om te bestuderen, zodat we onze eigen geneesmiddelen kunnen maken. Doorzoek Kurzen's Compound naar allebei. Zijn Medicine Men hebben de geneesmiddelen, en de extracten liggen waarschijnlijk in een paar voorraadkisten van het kamp.",
+      "o": "Breng 7 Jungle Remedies en 1 Venom Fern Extract naar Sergeant Yohwa in het Rebel Camp.",
+      "p": "Ik wacht op die geneesmiddelen en dat extract, $N.",
+      "c": "Goed gedaan, $N. Door deze geneesmiddelen blijven meer van ons in leven en kunnen we blijven vechten. En de extracten helpen ons om onze eigen geneesmiddelen te maken.",
+      "g": [
+        [
+          "medicijnen",
+          "medicine"
+        ],
+        [
+          "een kans te maken",
+          "to have a chance (een kans maken)"
+        ],
+        [
+          "genezers",
+          "healers (genezer)"
+        ],
+        [
+          "uitschakelen",
+          "to neutralize"
+        ],
+        [
+          "genezen",
+          "heal"
+        ],
+        [
+          "vergiftigen",
+          "poison"
+        ],
+        [
+          "strijders",
+          "fighters (strijder)"
+        ],
+        [
+          "geneesmiddelen",
+          "remedies (geneesmiddel)"
+        ],
+        [
+          "monster",
+          "sample"
+        ],
+        [
+          "extracten",
+          "extracts (extract)"
+        ],
+        [
+          "bestuderen",
+          "to study"
+        ],
+        [
+          "Doorzoek",
+          "search (doorzoeken)"
+        ],
+        [
+          "voorraadkisten",
+          "supply boxes (voorraadkist)"
+        ],
+        [
+          "in leven",
+          "alive"
+        ]
+      ]
+    },
+    "187": {
+      "t": "Meester in tijgers",
+      "d": "Nu ga ik de lat hoger leggen en je vaardigheid echt testen. Bewijs me dat je 10 Elder Stranglethorn Tigers kunt doden. Als dat lukt, ben je klaar voor je laatste uitdaging. Daarna verklaar ik je in het bijzijn van meester Nesingwary tot meester-tijgerjager.$b$bElder Stranglethorn Tigers zijn niet alleen het moeilijkst te vinden, ze zijn ook het felst als je ze wilt verslaan.",
+      "o": "Ajeck Rouack van Nesingwary's Expedition wil dat je 10 Elder Stranglethorn Tigers doodt.",
+      "p": "Je moet 10 Elder Stranglethorn Tigers doden voordat ik je de laatste uitdaging geef. Die bepaalt of je een echte meester-tijgerjager bent.",
+      "c": "Heel indrukwekkend. Ik denk dat je bijna klaar bent.",
+      "g": [
+        [
+          "de lat hoger leggen",
+          "up the stakes, raise the bar"
+        ],
+        [
+          "vaardigheid",
+          "skill"
+        ],
+        [
+          "Bewijs",
+          "prove (bewijzen)"
+        ],
+        [
+          "uitdaging",
+          "challenge"
+        ],
+        [
+          "verklaar ... tot",
+          "declare (verklaren tot)"
+        ],
+        [
+          "in het bijzijn van",
+          "in the presence of"
+        ],
+        [
+          "meester-tijgerjager",
+          "master tiger hunter"
+        ],
+        [
+          "het felst",
+          "fiercest (fel)"
+        ],
+        [
+          "verslaan",
+          "to defeat"
+        ],
+        [
+          "bepaalt",
+          "determines (bepalen)"
+        ],
+        [
+          "indrukwekkend",
+          "impressive"
+        ]
+      ]
+    },
+    "189": {
+      "t": "Oren van Bloodscalps",
+      "d": "Vervloekte trollen! Ze doden onze agenten in de jungle! Ik heb al heel wat van mijn beste bewakers verloren bij gevechten met hen. De kosten stapelen zich op! Hoe moet ik dit aan Baron Revilgaz uitleggen?$b$bKrachtig optreden... Denk na, Kebok... je hebt deze post niet gekregen om stil te zitten... Ik weet het! Jij... $n, toch? Jij gaat me helpen, hè? Er valt geld te verdienen!$b$bDit is de afspraak... jij brengt me de oren van vijftien Bloodscalp Trolls, en ik betaal je er goed voor.",
+      "o": "Verzamel 15 Bloodscalp Ears en breng ze naar Kebok in Booty Bay.",
+      "p": "Je hebt succes gehad, hoop ik? Overal zitten ze, die trollen. Smerige duivels.$b$bO ja, dat doet me ergens aan denken! Vertel het ook aan je vrienden, hè? We kunnen veel hulp gebruiken!",
+      "c": "O, uitstekend, uitstekend. Dat helpt een beetje, voorlopig...$b$b<Zijn stem sterft weg terwijl hij moppert over winstmarges en kosten...>$b$bWat? Ben je er nog? Beloning? O, natuurlijk... hier, neem dit... het is vast meer dan genoeg.",
+      "g": [
+        [
+          "Vervloekte",
+          "damn, cursed (vervloekt)"
+        ],
+        [
+          "agenten",
+          "agents (agent)"
+        ],
+        [
+          "bewakers",
+          "guards (bewaker)"
+        ],
+        [
+          "kosten",
+          "costs"
+        ],
+        [
+          "stapelen zich op",
+          "are piling up (zich opstapelen)"
+        ],
+        [
+          "Krachtig optreden",
+          "decisive action"
+        ],
+        [
+          "post",
+          "post, position"
+        ],
+        [
+          "afspraak",
+          "deal"
+        ],
+        [
+          "Smerige",
+          "filthy (smerig)"
+        ],
+        [
+          "duivels",
+          "devils (duivel)"
+        ],
+        [
+          "dat doet me ergens aan denken",
+          "that reminds me"
+        ],
+        [
+          "voorlopig",
+          "for the present, for now"
+        ],
+        [
+          "sterft weg",
+          "trails off (wegsterven)"
+        ],
+        [
+          "moppert",
+          "grumbles (mopperen)"
+        ],
+        [
+          "winstmarges",
+          "profit margins"
+        ]
+      ]
+    },
+    "200": {
+      "t": "Bookie Herod",
+      "d": "Als Kurzen het geheim van Thorsen kent, dan hebben we een spion onder ons. We moeten uitzoeken hoe het geheim is uitgelekt!$B$BThorsens contactpersoon in het kamp van Kurzen was Bookie Herod. Herod is de officier die bij Kurzen alles regelt, en hij weet alles over hoe Kurzen's Compound draait. Als je de aantekeningen of de papieren van Herod kunt vinden, kunnen we misschien ontdekken hoe Thorsen is ontmaskerd.$B$BToen wij nog bij Kurzen waren, was het kantoor van Bookie op de bovenste verdieping van het enige huis met twee verdiepingen in het kamp. Zijn papieren liggen daar waarschijnlijk nog steeds.",
+      "o": "Vind Bookie Herod's Records.",
+      "c": "Dit zijn de aantekeningen en papieren van Bookie Herod.$b$bJe vindt erbij: een lijst met voorraden in het kamp, verzoeken om materiaal van Colonel Kurzen, en allerlei brieven en correspondentie.",
+      "g": [
+        [
+          "spion",
+          "spy"
+        ],
+        [
+          "onder ons",
+          "in our midst"
+        ],
+        [
+          "uitgelekt",
+          "leaked (uitlekken)"
+        ],
+        [
+          "contactpersoon",
+          "contact"
+        ],
+        [
+          "officier",
+          "officer"
+        ],
+        [
+          "regelt",
+          "arranges, handles (regelen)"
+        ],
+        [
+          "draait",
+          "is run, works (draaien)"
+        ],
+        [
+          "aantekeningen",
+          "notes"
+        ],
+        [
+          "papieren",
+          "records, papers"
+        ],
+        [
+          "ontmaskerd",
+          "discovered, unmasked (ontmaskeren)"
+        ],
+        [
+          "kantoor",
+          "office"
+        ],
+        [
+          "verdieping",
+          "floor, storey"
+        ],
+        [
+          "verzoeken",
+          "requests (verzoek)"
+        ],
+        [
+          "correspondentie",
+          "correspondence"
+        ]
+      ]
+    },
+    "349": {
+      "t": "Stranglethorn-koorts",
+      "d": "Tijdelijke tekst 02 - beschrijving",
+      "o": "Tijdelijke tekst 02 - logboek",
+      "p": "Witch Doctor Unbagwa weet wat Mokk the Savage lekker vindt. Ja, ja!$b$bIk praat met geesten en laat hem komen, dat doe ik.$b$bMaar ander gorillabeest houdt ook van praten met geesten. Jij beschermt Witch Doctor Unbagwa, en ik laat hem naar jou komen.$b$bWitch Doctor Unbagwa wil eerst iets. Jij brengt een Gorilla Fang, en ik begin met geesten praten!",
+      "c": "Witch Doctor Unbagwa vindt Gorilla Fangs lekker! Voor jou praat ik met geesten. Ik laat Mokk the Savage komen.$b$bJij beschermt Witch Doctor Unbagwa tegen ander gorillabeest, of geen Mokk voor jou!",
+      "g": [
+        [
+          "koorts",
+          "fever"
+        ],
+        [
+          "Tijdelijke",
+          "temporary (tijdelijk)"
+        ],
+        [
+          "beschrijving",
+          "description"
+        ],
+        [
+          "logboek",
+          "log"
+        ],
+        [
+          "lekker vindt",
+          "likes (lekker vinden)"
+        ],
+        [
+          "geesten",
+          "spirits (geest)"
+        ],
+        [
+          "gorillabeest",
+          "gorilla beast"
+        ],
+        [
+          "beschermt",
+          "protect (beschermen)"
+        ]
+      ]
+    }
+  },
+  "words": {
+    "aanbod": "supply, offer",
+    "ahum": "ahem",
+    "avondeten": "dinner, evening meal",
+    "bakt": "bakes (bakken)",
+    "bestsellers": "best sellers",
+    "bijzijn": "presence (in het bijzijn van: in the presence of)",
+    "blaas": "blow (blazen)",
+    "bloodscalps": "Bloodscalps (troll tribe)",
+    "comfortabel": "comfortable",
+    "doomwarderbloed": "doomwarder blood",
+    "doorgesneden": "slit, cut through (doorsnijden)",
+    "excelsior-lijn": "Excelsior line",
+    "felst": "fiercest (fel)",
+    "geblazen": "blown (blazen)",
+    "geluid": "sound",
+    "geslapen": "slept (slapen)",
+    "handomdraai": "turn of the hand (in een handomdraai: in a jiffy)",
+    "hunters": "hunters (English, part of a creature name)",
+    "jongste": "youngest (jong)",
+    "lat": "bar (de lat hoger leggen: raise the bar)",
+    "ley": "ley (English, part of a creature name: ley hunter)",
+    "maraudine-centauren": "Maraudine centaurs",
+    "meegemaakt": "experienced, gone through (meemaken)",
+    "meisje": "girl",
+    "mooier": "more beautiful, grander (mooi)",
+    "muziekinstrumenten": "musical instruments (muziekinstrument)",
+    "nadele": "disadvantage (niets ten nadele van: no offense to)",
+    "omgaan": "to deal with, handle",
+    "ophaalt": "picks up (ophalen)",
+    "optreden": "action, to act",
+    "rijkste": "richest (rijk)",
+    "scarlet-broeders": "Scarlet brothers",
+    "schakel": "switch (uitschakelen: take out)",
+    "schepje": "little scoop (er een schepje bovenop doen: turn it up a notch)",
+    "sorceress": "sorceress (English, part of a creature name)",
+    "stapelen": "to pile up (zich opstapelen)",
+    "sterft": "dies (sterven; wegsterven: trail off)",
+    "stranglethorn-koorts": "Stranglethorn fever",
+    "thorsens": "Thorsen's",
+    "tijgerbloed": "tiger blood",
+    "tijgers": "tigers (tijger)",
+    "verbinden": "to connect, bind",
+    "verdiepingen": "floors, storeys (verdieping)",
+    "verklaar": "declare (verklaren)",
+    "witches": "witches (English, part of a creature name: sea witch)",
+    "woordje": "little word (een goed woordje inleggen: put in a good word)",
+    "zaak-karnitol": "the Karnitol business"
+  },
+  "terms": {
+    "kodo": "kodo: a large, slow beast of burden from the Warcraft world, like a horned rhino",
+    "naga": "naga: snake-like sea people from the Warcraft world",
+    "krokolisk": "crocolisk: a crocodile-like animal from the Warcraft world",
+    "ghost-o-plasm": "ghost-o-plasm: goblin word for slime left by ghosts (from ectoplasm)"
+  }
+}
