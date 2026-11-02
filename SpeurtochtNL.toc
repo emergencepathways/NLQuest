@@ -29,6 +29,7 @@ Data\Batch_10_The_Deadmines_6_Voorquests.lua
 Data\Batch_11_Wetlands.lua
 Data\Batch_12_Deeprun_Tram.lua
 Data\Batch_13_Loch_Modan_30.lua
+Data\Batch_14_Darkshore_30.lua
 
 Display.lua
 Reader.lua
