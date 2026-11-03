@@ -1,0 +1,1632 @@
+{
+  "quests": {
+    "3884": {
+      "t": "Het dagboek van Williden",
+      "d": "Je hebt een beschadigd dagboek gevonden. Delen ervan zijn nog leesbaar, en een zekere Williden Marshal zegt dat de inhoud van hem is. Als het dagboek klopt, is Williden ergens in het noorden van de Crater te vinden. Volgens het dagboek zochten hij en zijn metgezellen hoger gelegen grond op, weg van de wilde beesten van de Crater, nadat hun basiskampen waren ingenomen.",
+      "o": "Breng het dagboek terug naar Williden Marshal, ergens in Un'Goro Crater.",
+      "p": "Hallo daar! Mijn metgezellen en ik zijn blij om hier eens levende wezens te zien die geen uit de kluiten gewassen wilde beesten zijn! Wat brengt jou naar Un'Goro Crater?",
+      "c": "Kijk eens aan, mijn dagboek! Ik dacht dat ik het kwijt was, net als bijna alles wat we mee naar Un'Goro hebben genomen. Hartelijk dank dat je het bij me terugbrengt!",
+      "g": [
+        [
+          "beschadigd",
+          "damaged, mangled"
+        ],
+        [
+          "leesbaar",
+          "legible, readable"
+        ],
+        [
+          "een zekere",
+          "a certain"
+        ],
+        [
+          "inhoud",
+          "contents"
+        ],
+        [
+          "metgezellen",
+          "companions (metgezel)"
+        ],
+        [
+          "hoger gelegen",
+          "higher (lying), elevated"
+        ],
+        [
+          "basiskampen",
+          "base camps (basiskamp)"
+        ],
+        [
+          "ingenomen",
+          "taken, overrun (innemen)"
+        ],
+        [
+          "uit de kluiten gewassen",
+          "overgrown, oversized"
+        ],
+        [
+          "wezens",
+          "beings, creatures (wezen)"
+        ],
+        [
+          "kwijt",
+          "lost"
+        ]
+      ]
+    },
+    "3882": {
+      "t": "Laat de botten rollen",
+      "d": "Je zou denken dat ik als hoofdgraver van Marshal Expeditions graag graaf. Er zijn misschien ergere dingen op deze wereld... maar ik kan er zo snel geen bedenken.$B$BWe zouden in Terror Run graven - FANTASTISCHE naam trouwens - naar dode stegodons en diemetradons. Nou, daar lopen er ook genoeg levende rond! Wil en Hol willen deze dodelijke val nog steeds helemaal bestuderen, dus we hebben die dinosaurusbotten nodig. Maar onder ons gezegd: botten van levende dieren zijn net zo goed.",
+      "o": "Breng 8 Dinosaur Bones naar Spark Nilminer in Un'Goro Crater.",
+      "p": "Denk maar wat je wilt van me, maar het kan ze niet schelen of de botten die ze onderzoeken van oeroude stegodons en diemetradons komen, of van de beesten die ons bijna in één hap opaten toen we onze kampen probeerden op te zetten. Ik ben al blij als we hier levend uitkomen...",
+      "c": "Uitstekend, hiermee lukt het wel. En nu, als je het goedvindt...$B$BBEDANKT DAT JE AL DEZE BOTTEN VOOR ONS UIT DE GROND HEBT GEGRAVEN EN DAT JE DE INHEEMSE BEESTEN OP GEEN ENKELE MANIER PIJN HEBT GEDAAN.$B$BOf je dat nou echt deed of niet, ik wil het niet weten. Laten we het zo houden, goed? Hier, misschien houd je hiermee je mond over de hele zaak. Alles om hier levend uit te komen, zeg ik!",
+      "g": [
+        [
+          "hoofdgraver",
+          "chief digger"
+        ],
+        [
+          "graaf",
+          "dig (graven)"
+        ],
+        [
+          "ergere",
+          "worse (erg)"
+        ],
+        [
+          "dodelijke val",
+          "death trap"
+        ],
+        [
+          "onder ons gezegd",
+          "between you and me"
+        ],
+        [
+          "oeroude",
+          "ancient (oeroud)"
+        ],
+        [
+          "in één hap",
+          "in one bite, wholesale"
+        ],
+        [
+          "als je het goedvindt",
+          "if you'll permit me"
+        ],
+        [
+          "inheemse",
+          "native (inheems)"
+        ],
+        [
+          "op geen enkele manier",
+          "in no way at all"
+        ],
+        [
+          "houd je mond",
+          "keep your mouth shut (je mond houden)"
+        ]
+      ]
+    },
+    "4503": {
+      "t": "De vliegmachine van Shizzle",
+      "d": "Ik bouw een vliegmachine!$B$BIk ben hier gestrand, en ik ben echt vreselijk slecht in de weg vinden. Ik zou een griffioen of wind rider terug naar Gadgetzan nemen, maar van die beesten schrik ik me dood.$B$BDus, help je me? Ik hoef alleen de vleugels nog te bouwen, en ik dacht dat de schubben met vliezen van de pterrordax en de diemetradon perfect zouden zijn. Ik ga echt niet zelf tegen zo'n beest vechten, maar jij ziet er behoorlijk sterk uit. Waarom probeer jij het niet?",
+      "o": "Verzamel 8 Webbed Diemetradon Scales en 8 Webbed Pterrordax Scales voor Shizzle in Marshal's Refuge.",
+      "p": "Elk groot voertuig heeft een naam nodig... Ik dacht eraan om het... Pwned! te noemen.",
+      "c": "Ja, deze schubben zijn perfect. Met deze schubben krijg ik deze vliegmachine zeker van de grond!$B$BBedankt!",
+      "g": [
+        [
+          "vliegmachine",
+          "flying machine"
+        ],
+        [
+          "gestrand",
+          "stranded (stranden)"
+        ],
+        [
+          "vreselijk",
+          "terribly"
+        ],
+        [
+          "griffioen",
+          "gryphon"
+        ],
+        [
+          "schrik ik me dood",
+          "they scare me to death (zich doodschrikken)"
+        ],
+        [
+          "vleugels",
+          "wings (vleugel)"
+        ],
+        [
+          "schubben",
+          "scales (schub)"
+        ],
+        [
+          "vliezen",
+          "webs, membranes (vlies)"
+        ],
+        [
+          "behoorlijk",
+          "pretty, quite"
+        ],
+        [
+          "voertuig",
+          "vehicle"
+        ]
+      ]
+    },
+    "3844": {
+      "t": "Het is voor iedereen een geheim",
+      "d": "Een kapot vlot ligt aan de oever. Dit is maar een kleine vijver, dus het is niet duidelijk hoe het hier terecht is gekomen. Maar als je naar de bomen kijkt, zie je dat het water misschien niet altijd even hoog staat.$B$BMisschien vind je meer aanwijzingen als je hier een beetje rondkijkt...",
+      "o": "Zoek in de vijver naar een aanwijzing over de eigenaar van dit kapotte vlot.",
+      "c": "Op de bodem van de vijver ligt een doorweekte rugzak.",
+      "g": [
+        [
+          "vlot",
+          "raft"
+        ],
+        [
+          "oever",
+          "shore, bank"
+        ],
+        [
+          "vijver",
+          "pond"
+        ],
+        [
+          "terecht is gekomen",
+          "ended up (terechtkomen)"
+        ],
+        [
+          "aanwijzingen",
+          "clues (aanwijzing)"
+        ],
+        [
+          "eigenaar",
+          "owner"
+        ],
+        [
+          "bodem",
+          "bottom"
+        ],
+        [
+          "doorweekte",
+          "water-logged, soaked (doorweekt)"
+        ]
+      ]
+    },
+    "3845": {
+      "t": "Het is voor iedereen een geheim",
+      "d": "Je pakt hem vast en trekt de rugzak terug naar de oever. Misschien kom je erachter van wie hij is als je de spullen in de rugzak bekijkt.$B$BEr zijn een paar verdwaalde reizigers in Marshal's Refuge. Misschien kom je daar meer te weten.",
+      "o": "Bekijk de spullen in de rugzak en breng ze naar hun eigenaar.",
+      "p": "Hallo. Ik heb je eerder gezien... Toch?",
+      "c": "Oh... Ja, deze spullen komen me bekend voor... nou ja, een beetje...",
+      "g": [
+        [
+          "pakt hem vast",
+          "grab onto it (vastpakken)"
+        ],
+        [
+          "oever",
+          "shore"
+        ],
+        [
+          "kom je erachter",
+          "you find out (erachter komen)"
+        ],
+        [
+          "verdwaalde",
+          "stray, lost (verdwaald)"
+        ],
+        [
+          "reizigers",
+          "travelers (reiziger)"
+        ],
+        [
+          "meer te weten",
+          "find out more (te weten komen)"
+        ],
+        [
+          "komen me bekend voor",
+          "look familiar to me (bekend voorkomen)"
+        ]
+      ]
+    },
+    "3883": {
+      "t": "Vreemde ecologie",
+      "d": "Alleen omdat we een tegenslag hebben gehad, hoeft het onderzoek nog niet te stoppen! Voordat we hier terechtkwamen, onderzochten we de Gorishi-insecten in het zuiden van de krater. Hun aanwezigheid past niet bij de ecologie van Un'Goro, en we willen weten waarom.$B$BIn hun netwerk van nesten moeten broedkamers voor larven zijn. Je herkent die plekken aan de hangende larvenklompen. Gebruik dit flesje om een monster van de nestwand bij een van de broedkamers te nemen. Breng het terug zodat ik het kan bestuderen, maar wees voorzichtig!",
+      "o": "Gebruik de Scraping Vial om een Hive Wall Sample te verzamelen bij een van de broedkamers van de Gorishi-nesten in Un'Goro Crater. Zoek naar de ruimtes met de hangende larvenklompen.$B$BBreng de Hive Wall Sample naar Hol'anyee Marshal in Un'Goro Crater.",
+      "p": "Heb je het monster van het Gorishi-nest voor mijn onderzoek, $N?",
+      "c": "Ja, dit is prima. Je hebt me enorm geholpen... Ik wou dat ik je meer kon geven dan dit, maar als je zo goed als gestrand bent midden in een wild land, kun je niet veel weggeven. Maar wees gerust: het onderzoek hier was zonder jouw hulp niet mogelijk geweest!",
+      "g": [
+        [
+          "tegenslag",
+          "setback"
+        ],
+        [
+          "terechtkwamen",
+          "ended up (terechtkomen)"
+        ],
+        [
+          "aanwezigheid",
+          "presence"
+        ],
+        [
+          "ecologie",
+          "ecology"
+        ],
+        [
+          "broedkamers",
+          "hatcheries, breeding chambers (broedkamer)"
+        ],
+        [
+          "larven",
+          "larvae (larve)"
+        ],
+        [
+          "larvenklompen",
+          "larval spawns, clumps of larvae (larvenklomp)"
+        ],
+        [
+          "flesje",
+          "small bottle, vial"
+        ],
+        [
+          "monster",
+          "sample"
+        ],
+        [
+          "nestwand",
+          "hive wall"
+        ],
+        [
+          "zo goed als",
+          "virtually, as good as"
+        ],
+        [
+          "wees gerust",
+          "rest assured"
+        ]
+      ]
+    },
+    "3908": {
+      "t": "Het is voor iedereen een geheim",
+      "d": "Weet je, ik heb geen idee hoe ik hier ben gekomen. Niemand weet het echt -- het is voor iedereen een geheim! Ik kan me gewoon niets herinneren...$B$BMaar deze spullen die je me hebt gebracht... Ik herinner me iets.$B$BMijn zwaard. Ik moet het op de een of andere manier sterker maken, maar ik weet echt niet waarom. Sorry dat ik je niet meer kan vertellen, maar ik weet het gewoon niet meer!$B$BEnfin, ik weet wel waar je ermee naartoe kunt -- Donova Snowden in Winterspring. Je vindt haar bij de warme bronnen. Ze kan het zwaard daar bij de poelen harden.",
+      "o": "Breng Linken's Sword naar Donova Snowden in Winterspring.",
+      "p": "Zo, zo... Dus Linken heeft me eindelijk zijn zwaard gestuurd.",
+      "c": "Nou, natuurlijk kan ik dit zwaard harden. Terwijl ik bezig ben, kun jij me uitleggen waarom Linken er zo lang over deed om het bij me te krijgen. Normaal vergeet hij niet zomaar dingen...",
+      "g": [
+        [
+          "herinneren",
+          "remember (zich herinneren)"
+        ],
+        [
+          "herinner",
+          "remember (zich herinneren)"
+        ],
+        [
+          "op de een of andere manier",
+          "somehow"
+        ],
+        [
+          "enfin",
+          "anyhow, anyway"
+        ],
+        [
+          "warme bronnen",
+          "hot springs (warme bron)"
+        ],
+        [
+          "poelen",
+          "pools (poel)"
+        ],
+        [
+          "harden",
+          "temper, harden"
+        ],
+        [
+          "er zo lang over deed",
+          "took so long (er lang over doen)"
+        ],
+        [
+          "zomaar",
+          "just like that"
+        ]
+      ]
+    },
+    "3909": {
+      "t": "Het Videre Elixir",
+      "d": "Wat is dit nou? Linken... VERGETEN?$B$BOh, ik snap het... Hij is zijn geheugen kwijt...$B$BNou, hier is zijn zwaard. Het is alleen nog niet af. Ik ken degene die het kan afmaken, maar... met hem praten kan lastig zijn.$B$BLuister, ik ken iemand die je kan helpen. Het is te veel om nu uit te leggen, maar je moet op de een of andere manier aan een Videre Elixir komen. De enige die ik ken die je daarmee kan helpen, is Gregan Brewspewer. Hij is moeilijk te vinden, maar het laatste wat ik hoorde, was dat hij in de wildernis van Feralas kampeerde.",
+      "o": "Zoek Gregan Brewspewer op in het noorden van Feralas. Leer van hem hoe je aan het Videre Elixir kunt komen, en ga dan terug naar Donova Snowden in Winterspring.",
+      "p": "Nu al terug?",
+      "c": "Ik heb één flesje nodig om zeker te weten dat dit echt het elixir is... Ja... Dit is het spul.",
+      "g": [
+        [
+          "geheugen",
+          "memory"
+        ],
+        [
+          "kwijt",
+          "lost"
+        ],
+        [
+          "af",
+          "finished"
+        ],
+        [
+          "afmaken",
+          "finish"
+        ],
+        [
+          "lastig",
+          "difficult, tricky"
+        ],
+        [
+          "aan ... komen",
+          "get hold of, acquire"
+        ],
+        [
+          "wildernis",
+          "wilderness"
+        ],
+        [
+          "kampeerde",
+          "was camping (kamperen)"
+        ],
+        [
+          "flesje",
+          "vial, small bottle"
+        ],
+        [
+          "spul",
+          "stuff"
+        ]
+      ]
+    },
+    "3912": {
+      "t": "Afspraak bij het graf",
+      "d": "Met dit elixir kun je praten met iemand die je normaal niet eens zou zien...$B$BNeem het Videre Elixir en Linkens zwaard mee naar de begraafplaats net buiten Gadgetzan in Tanaris. Drink het drankje daar. De gevolgen kunnen je flink verrassen, maar schrik niet.$B$BGa in je \"andere\" vorm recht naar het noorden tot je bij de bergen komt. In een van de rotsspleten vind je degene met wie je moet praten. Zijn naam is Gaeriyan.$B$BOnthoud: hij praat alleen met je in die vorm...",
+      "o": "Ga naar de begraafplaats buiten Gadgetzan en gebruik het Videre Elixir. Volg de rest van Donova's aanwijzingen om Gaeriyan te vinden.",
+      "c": "Het is lang geleden dat iemand met me kwam praten...",
+      "g": [
+        [
+          "afspraak",
+          "meeting, appointment"
+        ],
+        [
+          "graf",
+          "grave"
+        ],
+        [
+          "begraafplaats",
+          "graveyard"
+        ],
+        [
+          "drankje",
+          "potion, drink"
+        ],
+        [
+          "gevolgen",
+          "results, consequences (gevolg)"
+        ],
+        [
+          "flink",
+          "quite, considerably"
+        ],
+        [
+          "schrik niet",
+          "do not be alarmed (schrikken)"
+        ],
+        [
+          "vorm",
+          "form"
+        ],
+        [
+          "recht",
+          "straight, due"
+        ],
+        [
+          "rotsspleten",
+          "rocky crevices (rotsspleet)"
+        ],
+        [
+          "aanwijzingen",
+          "instructions (aanwijzing)"
+        ]
+      ]
+    },
+    "3913": {
+      "t": "Een doodernstige zaak",
+      "d": "Als je teruggaat naar de begraafplaats, $N, vind je daar een grafsteen... Niet zomaar een grafsteen; deze valt op tussen de andere. Er liggen geheimen in verborgen.$B$BDuw tegen de steen, en je komt deze geheimen te weten...",
+      "o": "Kom weer tot leven en zoek dan de grafsteen die je van Gaeriyan moest zoeken.",
+      "p": "Dit moet de grafsteen zijn waar Gaeriyan het over had...",
+      "c": "Je duwt stevig tegen de steen, en hij schuift weg. Eronder zie je een kleine holte.$B$BAls je Linkens zwaard in de holte legt, merk je dat het er precies in past...",
+      "g": [
+        [
+          "doodernstige",
+          "deadly serious (doodernstig)"
+        ],
+        [
+          "begraafplaats",
+          "graveyard"
+        ],
+        [
+          "grafsteen",
+          "gravestone"
+        ],
+        [
+          "valt op",
+          "stands out (opvallen)"
+        ],
+        [
+          "verborgen",
+          "hidden (verbergen)"
+        ],
+        [
+          "kom weer tot leven",
+          "come back to life, resurrect"
+        ],
+        [
+          "stevig",
+          "firmly"
+        ],
+        [
+          "schuift weg",
+          "slides away (wegschuiven)"
+        ],
+        [
+          "holte",
+          "hollow, depression"
+        ],
+        [
+          "precies",
+          "exactly, perfectly"
+        ]
+      ]
+    },
+    "3914": {
+      "t": "Het zwaard van Linken",
+      "d": "Na een felle lichtflits kun je het zwaard weer oppakken. Het is veranderd!",
+      "o": "Breng Linken's Superior Sword naar Linken in Un'Goro Crater.",
+      "p": "Oh! Ik herinner me jou! Jij bent... Nee, zeg het niet!",
+      "c": "Mijn zwaard... Het is af!$B$BAls ik me nu nog maar kon herinneren waarom ik het nodig had...$B$BHier, laat me je in elk geval betalen voor je werk.",
+      "g": [
+        [
+          "felle",
+          "strong, bright (fel)"
+        ],
+        [
+          "lichtflits",
+          "flash of light"
+        ],
+        [
+          "oppakken",
+          "pick up"
+        ],
+        [
+          "veranderd",
+          "transformed, changed (veranderen)"
+        ],
+        [
+          "herinner",
+          "remember (zich herinneren)"
+        ],
+        [
+          "af",
+          "finished"
+        ],
+        [
+          "nog maar",
+          "if only"
+        ],
+        [
+          "in elk geval",
+          "at least, in any case"
+        ]
+      ]
+    },
+    "3941": {
+      "t": "De hulp van een gnoom",
+      "d": "Denken... Denken... Ik weet dat ik hier voor iets belangrijks kwam...$B$BIk heb een idee, $N. In de grot daar is een gnoom die J.D. heet. Ze was heel aardig voor me toen ik hier net aankwam. Misschien heb ik haar in mijn verwarde toestand iets verteld.$B$BWaarom ga je haar niet vragen of ze iets weet? Oh, maar pas op -- ze is altijd bezig met die gekke gloeiende kristallen die ik in de krater heb gezien. Ik weet niet precies wat ze daar uitspookt!",
+      "o": "Zoek J.D. Collie in de grot bij Marshal's Refuge.",
+      "c": "Blijf heel even staan waar je staat... Ik test een nieuwe combinatie van kristallen...",
+      "g": [
+        [
+          "gnoom",
+          "gnome"
+        ],
+        [
+          "grot",
+          "cave"
+        ],
+        [
+          "verwarde",
+          "confused, disoriented (verward)"
+        ],
+        [
+          "toestand",
+          "state, condition"
+        ],
+        [
+          "pas op",
+          "be careful (oppassen)"
+        ],
+        [
+          "gloeiende",
+          "glowing (gloeien)"
+        ],
+        [
+          "kristallen",
+          "crystals (kristal)"
+        ],
+        [
+          "uitspookt",
+          "is up to (uitspoken)"
+        ],
+        [
+          "combinatie",
+          "combination"
+        ]
+      ]
+    },
+    "4141": {
+      "t": "Muigin en Larion",
+      "d": "Zie je Larion daar? Het is ZIJN schuld dat we hier zijn!$B$BIk zei nog dat we de verkeerde kant op gingen, maar wilde hij luisteren? En geloof het of niet: hij is degene die niet met mij wil praten! Nou, tot hij van gedachten verandert, gaan we een beetje lol met hem maken.$B$BHeb je de vreemde plantachtige wezens hier gezien? Ze zorgen eigenlijk alleen maar voor problemen, maar ik denk dat ik ze met de juiste training bevelen kan laten opvolgen.$B$BMaar eerst heb ik wat monsters nodig om te bestuderen. Denk je dat je er een paar kunt verzamelen?",
+      "o": "Verzamel 15 Bloodpetals en ga terug naar Muigin.",
+      "p": "Er staat Larion nog wat te wachten, dat is zeker!",
+      "c": "Ik hoop dat ze je niet te veel moeite hebben gekost, $N. Ik probeer uit hun buurt te blijven -- ze zijn wild!$B$BIk probeerde eens over eentje heen te springen... en werd aangevallen! Zo horen planten zich gewoon niet te gedragen!",
+      "g": [
+        [
+          "schuld",
+          "fault"
+        ],
+        [
+          "kant op",
+          "direction, way"
+        ],
+        [
+          "van gedachten verandert",
+          "changes his mind (van gedachten veranderen)"
+        ],
+        [
+          "lol",
+          "fun"
+        ],
+        [
+          "plantachtige",
+          "plant-like (plantachtig)"
+        ],
+        [
+          "wezens",
+          "creatures (wezen)"
+        ],
+        [
+          "bevelen",
+          "commands (bevel)"
+        ],
+        [
+          "opvolgen",
+          "obey, follow"
+        ],
+        [
+          "monsters",
+          "samples (monster)"
+        ],
+        [
+          "uit hun buurt",
+          "away from them, clear of them"
+        ],
+        [
+          "gedragen",
+          "behave (zich gedragen)"
+        ]
+      ]
+    },
+    "4142": {
+      "t": "Een bezoek aan Gregan",
+      "d": "Ik weet niet goed wat ik hiervan moet denken, $N. De planten... ze lijken een heel klein beetje intelligentie te hebben.$B$BMaar ik ben geen expert. Ik ken wel iemand die dat is!$B$BGa naar het noorden van Feralas en zoek een vriend van me die Gregan Brewspewer heet. Hij is een expert in dit soort dingen.$B$BIk weet zeker dat Gregan ons hiermee kan helpen. Je vindt hem buiten in de wildernis; hij is niet het type dat in een grote stad woont.",
+      "o": "Breng een Bloodpetal naar Gregan Brewspewer in Feralas.",
+      "p": "Ik woon hier in het bos... Rustig.$B$BNou ja, dat dacht ik tenminste. Ik krijg hier meer bezoek dan toen ik nog in Ironforge woonde!",
+      "c": "Bloodpetal, hè? Hmmm... Nou, leg het plan maar uit, dan vertel ik je of ik je kan helpen of niet.",
+      "g": [
+        [
+          "bezoek",
+          "visit, visitors"
+        ],
+        [
+          "intelligentie",
+          "intelligence"
+        ],
+        [
+          "expert",
+          "expert"
+        ],
+        [
+          "wildernis",
+          "wilderness"
+        ],
+        [
+          "het type",
+          "the type"
+        ],
+        [
+          "tenminste",
+          "at least"
+        ],
+        [
+          "leg ... uit",
+          "explain (uitleggen)"
+        ]
+      ]
+    },
+    "3881": {
+      "t": "Redding van de expeditie",
+      "d": "Ik weet niet hoe je hier bent gekomen, maar je bent een welkome aanblik! Ik ben Williden Marshal, en ik leid een onafhankelijke expeditiegroep. Ons nieuwste en grootste project heeft te maken gehad met wat wel eindeloze rampen lijken. De ergste daarvan is dat we de wreedheid van Un'Goro Crater hebben onderschat!$B$BToen we uit onze basiskampen in het zuidwesten en noordoosten van de krater vluchtten, hebben we belangrijke voorraden achtergelaten. Je ziet eruit alsof je dit wel aankunt - kun je ons helpen door ze terug te halen?",
+      "o": "Breng een Crate of Foodstuffs en Research Equipment naar Williden Marshal in Un'Goro Crater.",
+      "p": "Als we enige kans willen hebben om hier levend uit te komen, hebben we onze grote krat met voedsel nodig. En als we ook maar een deel van onze onderzoeksapparatuur terugkrijgen, zou dat een zegen zijn in een zee van ellende.",
+      "c": "Je hebt zowel ons voedsel ALS onze onderzoeksapparatuur teruggebracht! Je hebt niet alleen de expeditie gered, maar ook ons leven. Mijn team en ik kunnen je niet genoeg bedanken; dankzij jou houden we het hier misschien nog wel een tijdje vol.$B$BWe hebben niet veel, maar ik laat je zeker niet met lege handen staan na de onbetaalbare hulp die je ons hebt gegeven. Dank je, $N - je hebt een vriend bij Marshal Expeditions!$b",
+      "g": [
+        [
+          "redding",
+          "rescue, salvation"
+        ],
+        [
+          "welkome aanblik",
+          "welcome sight"
+        ],
+        [
+          "onafhankelijke",
+          "non-aligned, independent (onafhankelijk)"
+        ],
+        [
+          "eindeloze",
+          "endless, countless (eindeloos)"
+        ],
+        [
+          "rampen",
+          "disasters (ramp)"
+        ],
+        [
+          "wreedheid",
+          "savagery, cruelty"
+        ],
+        [
+          "onderschat",
+          "underestimated (onderschatten)"
+        ],
+        [
+          "voorraden",
+          "supplies (voorraad)"
+        ],
+        [
+          "aankunt",
+          "can handle (aankunnen)"
+        ],
+        [
+          "krat",
+          "crate"
+        ],
+        [
+          "onderzoeksapparatuur",
+          "research equipment"
+        ],
+        [
+          "zegen",
+          "blessing"
+        ],
+        [
+          "ellende",
+          "misery"
+        ],
+        [
+          "houden ... vol",
+          "hold out, keep going (volhouden)"
+        ],
+        [
+          "onbetaalbare",
+          "invaluable (onbetaalbaar)"
+        ]
+      ]
+    },
+    "4144": {
+      "t": "Bloodpetal-scheuten",
+      "p": "Dit is het plan, $n: ga op pad en verzamel wat bloodpetal-scheuten -- je weet wel, de planten die nog niet helemaal zijn opgekomen -- en breng ze hier. Dan kijk ik wat de Atal'ai-nevel ermee kan doen.$B$BJe denkt misschien dat ik wraakzuchtig ben... Eigenlijk heb je daar gelijk in!$B$BDe waarheid is dat ik de weg hier vandaan weet, maar tot Larion toegeeft dat ik gelijk heb, blijf ik precies hier!$B$BDus vooruit, zoek die bloodpetal-scheuten en laten we lol hebben!",
+      "c": "Daar gaat ie dan, $N! Hiermee krijg ik Larions aandacht wel!",
+      "g": [
+        [
+          "scheuten",
+          "sprouts (scheut)"
+        ],
+        [
+          "ga op pad",
+          "go out (op pad gaan)"
+        ],
+        [
+          "opgekomen",
+          "sprouted, come up (opkomen)"
+        ],
+        [
+          "nevel",
+          "haze, mist"
+        ],
+        [
+          "wraakzuchtig",
+          "vengeful"
+        ],
+        [
+          "toegeeft",
+          "admits (toegeven)"
+        ],
+        [
+          "vooruit",
+          "off you go, come on"
+        ],
+        [
+          "lol",
+          "fun"
+        ],
+        [
+          "daar gaat ie dan",
+          "here goes nothing"
+        ],
+        [
+          "aandacht",
+          "attention"
+        ]
+      ]
+    },
+    "4243": {
+      "t": "Op zoek naar A-Me 01",
+      "d": "Helaas is er iets gebeurd met een van mijn beste uitvindingen. Je hebt vast weleens mechanische eekhoorns gezien, toch? Nou, om dichter bij de apen van Un'Goro Crater te komen, heb ik een mechanische aap gemaakt die tussen hen niet zou opvallen. Ik noem haar A-Me 01.$B$BZe heeft waarzegstenen als ogen, zodat ik alles kon zien wat zij zag. Ze kwam tot Fungal Rock, het hol van de apen, net ten oosten van hier, en toen verloor ik het contact. Het laatste wat ik zag, was een van hun alfamannetjes die op haar af stormde om haar te begroeten!$B$BKun je me helpen haar te vinden?",
+      "o": "Zoek A-Me 01 in Un'Goro Crater.",
+      "c": "Als je A-Me 01 bekijkt, zie je twee enorme deuken in wat Karna duidelijk een goed gemaakt stuk techniek vindt. Eén deuk zit op de schouder van A-Me 01, de andere op haar hoofd.$B$BAls je verder kijkt, merk je dat er geen stroom door haar onderdelen lijkt te lopen.",
+      "g": [
+        [
+          "uitvindingen",
+          "inventions (uitvinding)"
+        ],
+        [
+          "mechanische",
+          "mechanical (mechanisch)"
+        ],
+        [
+          "eekhoorns",
+          "squirrels (eekhoorn)"
+        ],
+        [
+          "opvallen",
+          "stand out"
+        ],
+        [
+          "waarzegstenen",
+          "scrying gems (waarzegsteen)"
+        ],
+        [
+          "hol",
+          "lair, den"
+        ],
+        [
+          "alfamannetjes",
+          "alpha males (alfamannetje)"
+        ],
+        [
+          "op haar af stormde",
+          "rushed up to her (afstormen op)"
+        ],
+        [
+          "begroeten",
+          "greet, say hello to"
+        ],
+        [
+          "deuken",
+          "dents (deuk)"
+        ],
+        [
+          "techniek",
+          "engineering, technology"
+        ],
+        [
+          "stroom",
+          "power, current"
+        ],
+        [
+          "onderdelen",
+          "components, parts (onderdeel)"
+        ]
+      ]
+    },
+    "4244": {
+      "t": "Op zoek naar A-Me 01",
+      "d": "Als je nog wat beter kijkt, zie je een paneel dat open kan schuiven. Boven wat bedrading staat duidelijk geschreven: \"Vervang Mithril Casing en zet de stroom uit en dan weer aan.\"$B$BJe neemt even de tijd om het paneel terug te plaatsen, en je vraagt je af of het echt zo eenvoudig is om A-Me 01 te repareren en haar terug te brengen naar Karna Remtravel bij Marshal's Refuge.$B$BDat weet je pas als je het probeert.",
+      "o": "Zoek een Mithril Casing en ga terug naar A-Me 01 in Un'Goro Crater.",
+      "p": "Het paneel waar de mithril casing in hoort, zit nog steeds dicht. De rest van A-Me 01 beweegt nog altijd niet.",
+      "c": "Je haalt het paneel nog een keer van de rug van A-Me 01 en haalt voorzichtig de oude mithril casing eruit, die doorgebrand lijkt te zijn. De nieuwe schuift er makkelijk in. Als de mithril casing het probleem was, hoef je nu alleen nog de schakelaar naar \"Uit\" te zetten, en daarna weer naar \"Aan\".",
+      "g": [
+        [
+          "paneel",
+          "panel"
+        ],
+        [
+          "open kan schuiven",
+          "can slide open (openschuiven)"
+        ],
+        [
+          "bedrading",
+          "wiring"
+        ],
+        [
+          "vervang",
+          "replace (vervangen)"
+        ],
+        [
+          "stroom",
+          "power"
+        ],
+        [
+          "terug te plaatsen",
+          "to put back (terugplaatsen)"
+        ],
+        [
+          "eenvoudig",
+          "simple"
+        ],
+        [
+          "zit ... dicht",
+          "is closed"
+        ],
+        [
+          "doorgebrand",
+          "burnt out (doorbranden)"
+        ],
+        [
+          "schuift",
+          "slides (schuiven)"
+        ],
+        [
+          "schakelaar",
+          "switch"
+        ]
+      ]
+    },
+    "4245": {
+      "t": "Op zoek naar A-Me 01",
+      "d": "Je controleert of je klaar bent om A-Me 01 terug te leiden naar Karna Remtravel, en zet de schakelaar op \"Uit\". Je kijkt nog één keer om je heen om zeker te weten dat er geen gorilla's aankomen, en maakt je klaar om te zien wat er gebeurt als je de schakelaar weer op \"Aan\" zet.$B$BDit is je laatste kans... weet je zeker dat je dit wilt?",
+      "o": "Begeleid A-Me 01 terug naar Karna Remtravel in Un'Goro Crater.",
+      "p": "Heb je A-Me kunnen helpen? Je zei dat die mithril casing kapot was; dat was een goede gok wat het probleem betreft. Ik weet zeker dat ze weer aangaat en naar huis kan komen als je die vervangt.",
+      "c": "Oh, het is je gelukt! Geweldig! Dank je, $N.$B$BOh, mijn arme A-Me. Kijk al die deuken eens. Met een beetje werk krijgen we haar weer helemaal aan de praat.$B$BNogmaals bedankt, $N. Ik waardeer het echt.",
+      "e": "Bescherm A-Me 01 tot je bij Karna Remtravel bent",
+      "g": [
+        [
+          "controleert",
+          "check (controleren)"
+        ],
+        [
+          "terug te leiden",
+          "to lead back (terugleiden)"
+        ],
+        [
+          "schakelaar",
+          "switch"
+        ],
+        [
+          "om je heen",
+          "around you"
+        ],
+        [
+          "begeleid",
+          "escort (begeleiden)"
+        ],
+        [
+          "gok",
+          "guess"
+        ],
+        [
+          "wat ... betreft",
+          "as for, regarding"
+        ],
+        [
+          "aangaat",
+          "switches on, reactivates (aangaan)"
+        ],
+        [
+          "vervangt",
+          "replace (vervangen)"
+        ],
+        [
+          "deuken",
+          "dents (deuk)"
+        ],
+        [
+          "aan de praat",
+          "up and running"
+        ],
+        [
+          "waardeer",
+          "appreciate (waarderen)"
+        ]
+      ]
+    },
+    "4284": {
+      "t": "Kristallen van kracht",
+      "d": "Je hebt ze vast gezien, $N. Ze zijn overal!$B$BWaar ik het over heb? Nou, de kristallen natuurlijk!$B$BDe kristallen... Ze liggen overal in de krater. De meeste mensen letten er niet op, maar ik heb een vreemd gevoel dat er kracht in zit. Ik doe hier al een tijdje experimenten met ze, maar ik vind maar niets. Nou ja, nog niet, tenminste.$B$BZeg, mijn voorraad kristallen raakt een beetje op -- denk je dat je er nog wat voor me kunt verzamelen?",
+      "o": "Verzamel 7 Power Crystals van elke kleur: rood, blauw, geel en groen. Breng ze naar J.D. Collie in Marshal's Refuge.",
+      "p": "Ik weet gewoon dat ik iets op het spoor ben, $N!",
+      "c": "Nu kan ik verder met mijn experimenten! Dank je, $N.",
+      "g": [
+        [
+          "kristallen",
+          "crystals (kristal)"
+        ],
+        [
+          "kracht",
+          "power"
+        ],
+        [
+          "letten er niet op",
+          "ignore, pay no attention (letten op)"
+        ],
+        [
+          "experimenten",
+          "experiments (experiment)"
+        ],
+        [
+          "tenminste",
+          "at least"
+        ],
+        [
+          "voorraad",
+          "supply, stock"
+        ],
+        [
+          "raakt ... op",
+          "is running low (opraken)"
+        ],
+        [
+          "op het spoor",
+          "onto something, on the track (op het spoor zijn)"
+        ]
+      ]
+    },
+    "4285": {
+      "t": "De noordelijke pyloon",
+      "d": "Waar zouden ze voor zijn? Ik krijg het maar niet uit mijn hoofd!$B$BIk word er gek van -- dat de geruchten die ik over de kristalpylonen heb gehoord allemaal waar zijn. Noem me maar goedgelovig, maar meestal geloof ik alles wat mensen me vertellen.$B$BHoe dan ook, ik heb gehoord dat er een van de kristalpylonen vrij dichtbij staat. Ergens in het noorden... Zoek hem alsjeblieft, $N. Ik weet gewoon dat ze bestaan.",
+      "o": "Ontdek waar de Northern Crystal Pylon in Un'Goro Crater staat.",
+      "p": "Ben je bij de pyloon geweest, $N?",
+      "c": "Ik weet dat de verhalen waar zijn, $N.",
+      "e": "Ontdek en onderzoek de Northern Crystal Pylon",
+      "g": [
+        [
+          "noordelijke",
+          "northern (noordelijk)"
+        ],
+        [
+          "pyloon",
+          "pylon"
+        ],
+        [
+          "uit mijn hoofd",
+          "out of my head"
+        ],
+        [
+          "ik word er gek van",
+          "it's driving me crazy"
+        ],
+        [
+          "geruchten",
+          "rumors (gerucht)"
+        ],
+        [
+          "kristalpylonen",
+          "crystal pylons (kristalpyloon)"
+        ],
+        [
+          "goedgelovig",
+          "gullible"
+        ],
+        [
+          "hoe dan ook",
+          "anyway"
+        ],
+        [
+          "vrij",
+          "fairly, quite"
+        ],
+        [
+          "bestaan",
+          "exist"
+        ]
+      ]
+    },
+    "4287": {
+      "t": "De oostelijke pyloon",
+      "d": "Tijdens mijn verblijf hier heb ik vreemde geruchten gehoord over mysterieuze pylonen ergens in de wildernis van de krater, $N. Ik denk dat ze vrij groot zijn, met kristallen langs de binnenkant.$B$BIk heb er zelf nog nooit een gezien, maar ik denk toch dat de geruchten waar zijn -- en dat de pylonen iets te maken hebben met alle kristallen die we hebben gevonden.$B$BDus waarom help je me niet om mijn nieuwsgierigheid te stillen? Er schijnt er een in het oosten van de krater te staan. Denk je dat je hem kunt vinden?",
+      "o": "Ontdek waar de Eastern Crystal Pylon in Un'Goro Crater staat.",
+      "p": "Ben je bij de pyloon geweest, $N?",
+      "c": "Un'Goro is zo'n vreemde plek, $N. Als je de krater binnengaat, is het alsof je in een heel andere wereld bent...",
+      "e": "Ontdek en onderzoek de Eastern Crystal Pylon",
+      "g": [
+        [
+          "oostelijke",
+          "eastern (oostelijk)"
+        ],
+        [
+          "verblijf",
+          "stay"
+        ],
+        [
+          "geruchten",
+          "rumors (gerucht)"
+        ],
+        [
+          "mysterieuze",
+          "mysterious (mysterieus)"
+        ],
+        [
+          "pylonen",
+          "pylons (pyloon)"
+        ],
+        [
+          "wildernis",
+          "wilderness"
+        ],
+        [
+          "binnenkant",
+          "inside, interior"
+        ],
+        [
+          "nieuwsgierigheid",
+          "curiosity"
+        ],
+        [
+          "stillen",
+          "satisfy, put to rest"
+        ],
+        [
+          "schijnt",
+          "supposedly, is said (schijnen)"
+        ]
+      ]
+    },
+    "4288": {
+      "t": "De westelijke pyloon",
+      "d": "Mijn experimenten hebben tot nu toe geen goede resultaten opgeleverd, $N. Ik hoop maar dat jij een oplossing kunt vinden door een van de pylonen te zoeken waarvan ik heb gehoord dat ze bestaan.$B$BMisschien als we bij die pylonen bepaalde kleuren combineren... maar ik loop op de zaken vooruit. Laten we ze eerst vinden!$B$B$N, zoek in het westen van de krater; daar zou ergens een pyloon staan.",
+      "o": "Ontdek waar de Western Crystal Pylon staat.",
+      "p": "Ben je bij de pyloon geweest, $N?",
+      "c": "Er zijn veel verborgen plekken langs de randen van de krater. Probeer de kronkelende paden te verkennen als je niet weet waar je anders moet zoeken, $N.",
+      "e": "Ontdek en onderzoek de Western Crystal Pylon",
+      "g": [
+        [
+          "westelijke",
+          "western (westelijk)"
+        ],
+        [
+          "opgeleverd",
+          "yielded, produced (opleveren)"
+        ],
+        [
+          "oplossing",
+          "solution"
+        ],
+        [
+          "bepaalde",
+          "certain (bepaald)"
+        ],
+        [
+          "combineren",
+          "combine"
+        ],
+        [
+          "ik loop op de zaken vooruit",
+          "I'm getting ahead of myself"
+        ],
+        [
+          "verborgen",
+          "hidden"
+        ],
+        [
+          "randen",
+          "edges, sides (rand)"
+        ],
+        [
+          "kronkelende",
+          "winding (kronkelen)"
+        ],
+        [
+          "verkennen",
+          "explore"
+        ]
+      ]
+    },
+    "4290": {
+      "t": "Het maal van Lar'korwi",
+      "d": "Lang geleden nam een broer van mij wat vlees van een van de prooien van Lar'korwi. Hij wist het toen niet, maar Lar'korwi zag hem vanuit het bos. Lar'korwi volgde mijn broer dagenlang en vernielde alles wat hij aanraakte. Uiteindelijk besloot mijn broer, bang als hij was, uit de Crater te vluchten en Lar'korwi achter te laten.$B$BLar'korwi doodde hem niet ver van deze plek.$B$BAls je Lar'korwi wilt uitdagen, zoek dan een verse prooi van hem en neem er wat vlees van mee.$B$BKom daarna terug naar mij.",
+      "o": "Zoek het kadaver van de meest verse prooi van Lar'korwi en steel een Piece of Threshadon Carcass. Ga daarna terug naar Torwa Pathfinder in Un'Goro Crater.",
+      "p": "Neem mijn woorden niet licht op, $N. Als je echt tegen dit beest wilt vechten, moet je voorzichtig zijn... en slim. Er is veel kracht en inzicht nodig om Lar'korwi naar buiten te lokken en te verslaan.",
+      "c": "Dit is prima, $N. Lar'korwi eet tegenwoordig blijkbaar goed. Al vraag ik me af waar hij in deze omgeving een threshadon heeft gevonden. Vreemd.$B$BHoe dan ook, ik bewaar dit tot je klaar bent voor je gevecht met het beest. Maak je geen zorgen over mijn veiligheid -- ik weet zeker dat je Lar'korwi zo boos hebt gemaakt dat hij mij pas doodt nadat hij jouw vlees heeft geproefd.",
+      "g": [
+        [
+          "maal",
+          "meal, fare"
+        ],
+        [
+          "prooien",
+          "kills, prey (prooi)"
+        ],
+        [
+          "dagenlang",
+          "for days"
+        ],
+        [
+          "vernielde",
+          "destroyed (vernielen)"
+        ],
+        [
+          "uiteindelijk",
+          "finally, in the end"
+        ],
+        [
+          "uitdagen",
+          "provoke, challenge"
+        ],
+        [
+          "verse",
+          "fresh (vers)"
+        ],
+        [
+          "kadaver",
+          "carcass"
+        ],
+        [
+          "neem ... niet licht op",
+          "don't take lightly (licht opnemen)"
+        ],
+        [
+          "inzicht",
+          "insight"
+        ],
+        [
+          "lokken",
+          "lure, draw out"
+        ],
+        [
+          "verslaan",
+          "defeat"
+        ],
+        [
+          "blijkbaar",
+          "apparently"
+        ],
+        [
+          "omgeving",
+          "area, surroundings"
+        ],
+        [
+          "geproefd",
+          "tasted (proeven)"
+        ]
+      ]
+    },
+    "4291": {
+      "t": "De geur van Lar'korwi",
+      "d": "Het verbaast me eigenlijk dat hij nog niet op je af is gekomen, $N. Maar alles is goed, want ik heb een laatste plan dat het monster naar ons toe zal brengen.$B$BAls dominant mannetje heeft Lar'korwi het recht om te paren met elk vrouwtje dat hij kiest -- en hij kiest er veel. Ten westen van hier vind je veel ravasaur-eieren. Ga er dichtbij staan, dan word je waarschijnlijk aangevallen door zijn partners. De vrouwtjes maken een vieze geur aan met een klier in hun kop, zodat de mannetjes weten dat ze klaar zijn om te paren. Breng me twee van die klieren.",
+      "o": "Breng 2 Ravasaur Pheromone Glands naar Torwa Pathfinder bij de ingang van Un'Goro Crater.",
+      "p": "Wees voorzichtig, $N. Als je dicht bij een nest met eieren komt, zul je de moeders zeker uitdagen... ook als je al een klier van een van hen hebt. De moeders kunnen net zo dodelijk zijn als Lar'korwi zelf als ze vechten om hun jongen te beschermen. Maar als het je lukt, hebben we een zekere manier om Lar'korwi uit zijn schuilplaats te halen.",
+      "c": "Ah, mooie exemplaren, $N. Met de twee stukken die je hebt gevonden, kunnen we Lar'korwi perfect naar buiten lokken. Ik kan niet wachten om te zien hoe je gevecht met het monster afloopt. Hij is een enorm beest, met klauwen zo scherp als de beste zwaarden. Je zult hem in de ogen kijken, en je zult de dood kennen.",
+      "g": [
+        [
+          "geur",
+          "scent, smell"
+        ],
+        [
+          "verbaast",
+          "surprises (verbazen)"
+        ],
+        [
+          "op je af is gekomen",
+          "has come for you (afkomen op)"
+        ],
+        [
+          "mannetje",
+          "male (animal)"
+        ],
+        [
+          "paren",
+          "breed, mate"
+        ],
+        [
+          "vrouwtje",
+          "female (animal)"
+        ],
+        [
+          "partners",
+          "mates (partner)"
+        ],
+        [
+          "maken ... aan",
+          "produce (aanmaken)"
+        ],
+        [
+          "klier",
+          "gland"
+        ],
+        [
+          "dodelijk",
+          "deadly"
+        ],
+        [
+          "jongen",
+          "young (of animals)"
+        ],
+        [
+          "schuilplaats",
+          "hiding place"
+        ],
+        [
+          "exemplaren",
+          "specimens (exemplaar)"
+        ],
+        [
+          "afloopt",
+          "turns out, ends (aflopen)"
+        ],
+        [
+          "klauwen",
+          "claws (klauw)"
+        ]
+      ]
+    },
+    "4321": {
+      "t": "Er wijs uit worden",
+      "d": "De informatie die je me over de pylonen hebt gegeven, is heel interessant...$B$BGeef me even de tijd om wat berekeningen te doen, $N. Spreek me zo meteen weer aan, dan kan ik je waarschijnlijk het antwoord geven waar we naar zochten.",
+      "o": "Spreek zo meteen met J.D. Collie.",
+      "c": "Goed, $N. Dit is fascinerend... Ik kan alleen maar hopen dat mijn tekeningen kloppen! Ik heb alles in dit handboek gezet, en dat mag jij hebben.$B$BIk denk dat ik nu al je vragen over de kristallen kan beantwoorden, $N.",
+      "g": [
+        [
+          "er wijs uit worden",
+          "make sense of it"
+        ],
+        [
+          "pylonen",
+          "pylons (pyloon)"
+        ],
+        [
+          "berekeningen",
+          "calculations (berekening)"
+        ],
+        [
+          "spreek me ... aan",
+          "speak to me (aanspreken)"
+        ],
+        [
+          "zo meteen",
+          "in a moment"
+        ],
+        [
+          "fascinerend",
+          "fascinating"
+        ],
+        [
+          "tekeningen",
+          "diagrams, drawings (tekening)"
+        ],
+        [
+          "kloppen",
+          "are correct"
+        ],
+        [
+          "handboek",
+          "manual"
+        ]
+      ]
+    },
+    "4381": {
+      "t": "Kristalherstel",
+      "p": "Met de pyloontafel kun je groene krachtkristallen met gele krachtkristallen combineren.$B$BVolgens het handboek van J.D. kun je met deze combinatie jezelf of je bondgenoten genezen.",
+      "c": "Je legt de kristallen op de tafel en zet de kleuren voorzichtig op één lijn. Als je de laatste op zijn plek duwt, smelt een lichtflits de kristallen samen.$B$BDe combinatie die zo ontstaat, is nu van jou.",
+      "g": [
+        [
+          "herstel",
+          "restoration"
+        ],
+        [
+          "pyloontafel",
+          "pylon table"
+        ],
+        [
+          "krachtkristallen",
+          "power crystals (krachtkristal)"
+        ],
+        [
+          "combineren",
+          "combine"
+        ],
+        [
+          "handboek",
+          "manual"
+        ],
+        [
+          "bondgenoten",
+          "allies (bondgenoot)"
+        ],
+        [
+          "genezen",
+          "heal"
+        ],
+        [
+          "op één lijn",
+          "in line, aligned"
+        ],
+        [
+          "lichtflits",
+          "flash of light"
+        ],
+        [
+          "smelt ... samen",
+          "fuses (samensmelten)"
+        ],
+        [
+          "ontstaat",
+          "comes into being, results (ontstaan)"
+        ]
+      ]
+    },
+    "4382": {
+      "t": "Kristalkracht",
+      "p": "Met de pyloontafel kun je groene krachtkristallen met blauwe krachtkristallen combineren.$B$BVolgens het handboek van J.D. kun je met deze combinatie je Spirit verhogen.",
+      "c": "Je legt de kristallen op de tafel en zet de kleuren voorzichtig op één lijn. Als je de laatste op zijn plek duwt, smelt een lichtflits de kristallen samen.$B$BDe combinatie die zo ontstaat, is nu van jou.",
+      "g": [
+        [
+          "pyloontafel",
+          "pylon table"
+        ],
+        [
+          "krachtkristallen",
+          "power crystals (krachtkristal)"
+        ],
+        [
+          "combineren",
+          "combine"
+        ],
+        [
+          "handboek",
+          "manual"
+        ],
+        [
+          "verhogen",
+          "increase, raise"
+        ],
+        [
+          "op één lijn",
+          "in line, aligned"
+        ],
+        [
+          "lichtflits",
+          "flash of light"
+        ],
+        [
+          "smelt ... samen",
+          "fuses (samensmelten)"
+        ],
+        [
+          "ontstaat",
+          "results (ontstaan)"
+        ]
+      ]
+    },
+    "4383": {
+      "t": "Kristalbescherming",
+      "p": "Met de pyloontafel kun je groene krachtkristallen met rode krachtkristallen combineren.$B$BVolgens het handboek van J.D. kun je met deze combinatie je bescherming tegen fysieke schade sterker maken.",
+      "c": "Je legt de kristallen op de tafel en zet de kleuren voorzichtig op één lijn. Als je de laatste op zijn plek duwt, smelt een lichtflits de kristallen samen.$B$BDe combinatie die zo ontstaat, is nu van jou.",
+      "g": [
+        [
+          "bescherming",
+          "protection, ward"
+        ],
+        [
+          "pyloontafel",
+          "pylon table"
+        ],
+        [
+          "krachtkristallen",
+          "power crystals (krachtkristal)"
+        ],
+        [
+          "handboek",
+          "manual"
+        ],
+        [
+          "fysieke",
+          "physical (fysiek)"
+        ],
+        [
+          "schade",
+          "damage"
+        ],
+        [
+          "op één lijn",
+          "in line, aligned"
+        ],
+        [
+          "lichtflits",
+          "flash of light"
+        ],
+        [
+          "smelt ... samen",
+          "fuses (samensmelten)"
+        ]
+      ]
+    },
+    "4384": {
+      "t": "Kristalzwakte",
+      "p": "Met de pyloontafel kun je rode krachtkristallen met blauwe krachtkristallen combineren.$B$BVolgens het handboek van J.D. kun je met deze combinatie de verdediging van een vijand verzwakken.",
+      "c": "Je legt de kristallen op de tafel en zet de kleuren voorzichtig op één lijn. Als je de laatste op zijn plek duwt, smelt een lichtflits de kristallen samen.$B$BDe combinatie die zo ontstaat, is nu van jou.",
+      "g": [
+        [
+          "zwakte",
+          "weakness"
+        ],
+        [
+          "pyloontafel",
+          "pylon table"
+        ],
+        [
+          "krachtkristallen",
+          "power crystals (krachtkristal)"
+        ],
+        [
+          "handboek",
+          "manual"
+        ],
+        [
+          "verdediging",
+          "defense, defenses"
+        ],
+        [
+          "verzwakken",
+          "weaken"
+        ],
+        [
+          "op één lijn",
+          "in line, aligned"
+        ],
+        [
+          "lichtflits",
+          "flash of light"
+        ],
+        [
+          "smelt ... samen",
+          "fuses (samensmelten)"
+        ]
+      ]
+    },
+    "4385": {
+      "t": "Kristallading",
+      "p": "Met de pyloontafel kun je rode krachtkristallen met gele krachtkristallen combineren.$B$BVolgens het handboek van J.D. kun je met deze combinatie een grote explosie maken die je vijanden schade toebrengt.$b",
+      "c": "Je legt de kristallen op de tafel en zet de kleuren voorzichtig op één lijn. Als je de laatste op zijn plek duwt, smelt een lichtflits de kristallen samen.$B$BDe combinatie die zo ontstaat, is nu van jou.$b",
+      "g": [
+        [
+          "lading",
+          "charge"
+        ],
+        [
+          "pyloontafel",
+          "pylon table"
+        ],
+        [
+          "krachtkristallen",
+          "power crystals (krachtkristal)"
+        ],
+        [
+          "handboek",
+          "manual"
+        ],
+        [
+          "explosie",
+          "explosion"
+        ],
+        [
+          "schade toebrengt",
+          "inflicts damage (schade toebrengen)"
+        ],
+        [
+          "op één lijn",
+          "in line, aligned"
+        ],
+        [
+          "lichtflits",
+          "flash of light"
+        ],
+        [
+          "smelt ... samen",
+          "fuses (samensmelten)"
+        ]
+      ]
+    },
+    "4386": {
+      "t": "Kristalspits",
+      "p": "Met de pyloontafel kun je blauwe krachtkristallen met gele krachtkristallen combineren.$B$BVolgens het handboek van J.D. kun je met deze combinatie een schild maken dat vijanden schade toebrengt.",
+      "c": "Je legt de kristallen op de tafel en zet de kleuren voorzichtig op één lijn. Als je de laatste op zijn plek duwt, smelt een lichtflits de kristallen samen.$B$BDe combinatie die zo ontstaat, is nu van jou.",
+      "g": [
+        [
+          "spits",
+          "spire"
+        ],
+        [
+          "pyloontafel",
+          "pylon table"
+        ],
+        [
+          "krachtkristallen",
+          "power crystals (krachtkristal)"
+        ],
+        [
+          "handboek",
+          "manual"
+        ],
+        [
+          "schild",
+          "shield"
+        ],
+        [
+          "schade toebrengt",
+          "does damage (schade toebrengen)"
+        ],
+        [
+          "op één lijn",
+          "in line, aligned"
+        ],
+        [
+          "lichtflits",
+          "flash of light"
+        ],
+        [
+          "smelt ... samen",
+          "fuses (samensmelten)"
+        ]
+      ]
+    }
+  },
+  "words": {
+    "aanblik": "sight, view",
+    "aanraakte": "touched (aanraken)",
+    "aap": "ape, monkey",
+    "apen": "apes (aap)",
+    "atal'ai-nevel": "Atal'ai haze",
+    "binnengaat": "enter, go in (binnengaan)",
+    "bloodpetal-scheuten": "bloodpetal sprouts",
+    "diemetradons": "diemetradons (a dinosaur)",
+    "dinosaurusbotten": "dinosaur bones",
+    "dominant": "dominant",
+    "duw": "push (duwen)",
+    "expeditiegroep": "expedition troupe",
+    "gorilla's": "gorillas (gorilla)",
+    "gorishi-insecten": "Gorishi insects",
+    "gorishi-nest": "Gorishi hive",
+    "gorishi-nesten": "Gorishi hives",
+    "hangende": "hanging (hangen)",
+    "ie": "it (spoken form of 'hij', in 'daar gaat ie')",
+    "krater": "crater",
+    "kristalbescherming": "crystal ward, crystal protection",
+    "kristalherstel": "crystal restore",
+    "kristalkracht": "crystal force",
+    "kristallading": "crystal charge",
+    "kristalspits": "crystal spire",
+    "kristalzwakte": "crystal weakness, crystal yield",
+    "larions": "Larion's",
+    "linkens": "Linken's",
+    "mannetjes": "males (mannetje)",
+    "moeders": "mothers (moeder)",
+    "opaten": "ate up, devoured (opeten)",
+    "ravasaur-eieren": "ravasaur eggs",
+    "rider": "rider (in 'wind rider')",
+    "ruimtes": "chambers, rooms (ruimte)",
+    "schuiven": "slide",
+    "stegodons": "stegodons (a dinosaur)",
+    "stormde": "rushed, stormed (stormen)",
+    "toebrengt": "inflicts (toebrengen)",
+    "verrassen": "surprise"
+  },
+  "terms": {
+    "wind rider": "wind rider: a large flying beast that Horde travellers ride in the Warcraft world"
+  }
+}
