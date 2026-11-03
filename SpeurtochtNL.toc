@@ -52,6 +52,7 @@ Data\Batch_34_Dustwallow_Marsh.lua
 Data\Batch_35_Swamp_Of_Sorrows.lua
 Data\Batch_37_Tanaris.lua
 Data\Batch_38_Searing_Gorge.lua
+Data\Batch_32_Stranglethorn_Vale.lua
 
 Display.lua
 Reader.lua
