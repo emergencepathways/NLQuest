@@ -1,0 +1,1225 @@
+{
+  "quests": {
+    "1476": {
+      "t": "Harten van de zuiveren",
+      "d": "Mannen van eer en goedheid? Bestaat zo'n man wel?$b$bIk heb er veel onderzoek voor gedaan. Maar met stukjes van verhalen die ik toevallig hoorde, heb ik twee mannen gevonden die goed genoeg zijn.$b$bDe eerste is Dalin Forgewright. Hij zorgt voor de vluchtelingen uit Lordaeron. Hun eigen volk weigert hen bij de Greymane Wall.$b$bDe andere is Comar Villard. Hij blijft trouw aan zijn verloren liefde. Hij zwerft door de Wetlands en zoekt een teken van zijn vrouw.$b$bBreng hun harten naar Carendin. Maar eerst laat ik je je prooi zien.",
+      "o": "Breng de harten van Dalin Forgewright en Comar Villard naar Carendin Halgar in de Temple of the Damned.",
+      "p": "Ik ben aangenaam verrast door hoe snel je tot nu toe vooruitgaat, $N. Breng me de harten, dan maak je opnieuw indruk op me.",
+      "c": "Het hart van een goede man lijkt veel op elk ander hart, als je het zo ziet. Vind je niet?$B$BMisschien hebben wij een... andere... kijk op dit onderwerp. Maar deze zijn goed genoeg. Ik twijfel er niet aan dat een succubus zich aangetrokken voelt door hun zuiverheid.",
+      "g": [
+        [
+          "zuiveren",
+          "the pure ones (zuiver)"
+        ],
+        [
+          "eer",
+          "honour"
+        ],
+        [
+          "goedheid",
+          "goodness"
+        ],
+        [
+          "onderzoek",
+          "research"
+        ],
+        [
+          "toevallig",
+          "by chance"
+        ],
+        [
+          "vluchtelingen",
+          "refugees (vluchteling)"
+        ],
+        [
+          "weigert",
+          "refuses (weigeren)"
+        ],
+        [
+          "trouw",
+          "faithful, loyal"
+        ],
+        [
+          "zwerft",
+          "wanders (zwerven)"
+        ],
+        [
+          "prooi",
+          "prey, quarry"
+        ],
+        [
+          "aangenaam verrast",
+          "pleasantly surprised"
+        ],
+        [
+          "indruk",
+          "impression"
+        ],
+        [
+          "aangetrokken",
+          "attracted (aantrekken)"
+        ],
+        [
+          "zuiverheid",
+          "purity"
+        ]
+      ]
+    },
+    "1507": {
+      "t": "Verslinder van zielen",
+      "d": "Het is tijd dat je meer leert over de magie van het oproepen. Je leert hoe je een succubus oproept. Dat is een wezen met ongelooflijke geestelijke krachten. Ze kan zwakke geesten in slaap sussen en tot haar dienaren maken. Maar wees niet bang! Ik weet zeker dat je deze uitdaging aankunt.$b$bJe kunt een succubus alleen oproepen met lokaas: een voorwerp dat staat voor grote toewijding en liefde. Ik laat het aan jou over om zo'n voorwerp te vinden.$b$bEen tip? Praat met Cazul... Er is weinig dat die oude heksenmeester niet weet.",
+      "o": "Praat met Cazul in de Cleft of Shadow.",
+      "c": "Hm... Zarm. Je bent nog nieuw op je pad, maar ik voel in jou de kans op grootheid.$B$BJe bent geboren met gaven, $N. Zorg dat ze niet verloren gaan.",
+      "g": [
+        [
+          "verslinder",
+          "devourer"
+        ],
+        [
+          "oproepen",
+          "to summon"
+        ],
+        [
+          "wezen",
+          "creature, being"
+        ],
+        [
+          "geestelijke",
+          "mental (geestelijk)"
+        ],
+        [
+          "sussen",
+          "to lull, to soothe"
+        ],
+        [
+          "dienaren",
+          "servants (dienaar)"
+        ],
+        [
+          "uitdaging",
+          "challenge"
+        ],
+        [
+          "aankunt",
+          "can handle (aankunnen)"
+        ],
+        [
+          "lokaas",
+          "bait"
+        ],
+        [
+          "toewijding",
+          "devotion"
+        ],
+        [
+          "heksenmeester",
+          "warlock"
+        ],
+        [
+          "grootheid",
+          "greatness"
+        ],
+        [
+          "gaven",
+          "gifts, talents (gave)"
+        ]
+      ]
+    },
+    "1508": {
+      "t": "Blinde Cazul",
+      "d": "Hmm... Maar daarvoor ben je natuurlijk niet gekomen.$b$bAls Gan'rul je naar mij heeft gestuurd, dan moet je een succubus oproepen. En dan heb je een voorwerp nodig om haar te lokken.$b$bHmm... Als je een blinde man vertrouwt als gids, $n, luister dan. Op de rotsen van Orgrimmar, ten westen van de toren van de windrijders, woont Zankaja. Ze wacht tot haar partner terugkomt.$b$bGa naar haar toe.",
+      "o": "Praat met Zankaja in Orgrimmar.",
+      "c": "Kom je met nieuws over Dogran? Hij had dagen geleden al terug moeten zijn, en ik heb niets gehoord...",
+      "g": [
+        [
+          "natuurlijk",
+          "of course"
+        ],
+        [
+          "lokken",
+          "to lure, to entice"
+        ],
+        [
+          "vertrouwt",
+          "trust (vertrouwen)"
+        ],
+        [
+          "gids",
+          "guide"
+        ],
+        [
+          "rotsen",
+          "rocks, bluffs (rots)"
+        ],
+        [
+          "ten westen van",
+          "west of"
+        ],
+        [
+          "windrijders",
+          "wind riders (windrijder)"
+        ],
+        [
+          "terugkomt",
+          "comes back (terugkomen)"
+        ],
+        [
+          "had terug moeten zijn",
+          "should have been back"
+        ]
+      ]
+    },
+    "1509": {
+      "t": "Nieuws over Dogran",
+      "d": "Mijn partner, Dogran, is pas naar de Crossroads gestuurd voor zijn dienst. Het was een promotie, en hij was erg trots.$b$bNatuurlijk vond ik het verdrietig, maar dat liet ik hem niet merken. En ik maakte me ook zorgen. In The Barrens is het gevaarlijker dan in Orgrimmar, en ik vreesde het ergste.$b$bNu had hij al een week geleden terug moeten zijn, en ik heb niets van hem gehoord...$b$bMisschien kun jij naar de Crossroads gaan en vragen of ze nieuws hebben? Hij werkte met Gazrog. Die zou daar nog moeten zijn.",
+      "o": "Praat met Gazrog bij de Crossroads.",
+      "c": "Zankaja? Dat is de partner van Dogran, toch?$B$BJa, ik heb iets van hem gehoord. Maar het is geen nieuws dat zij te horen mag krijgen...$B$BNee, hij is niet dood. Maar hij is gewond, en hij is een gevangene van de quilboar.",
+      "g": [
+        [
+          "dienst",
+          "duty, service"
+        ],
+        [
+          "promotie",
+          "promotion"
+        ],
+        [
+          "trots",
+          "proud"
+        ],
+        [
+          "merken",
+          "to notice"
+        ],
+        [
+          "het ergste",
+          "the worst"
+        ],
+        [
+          "gewond",
+          "injured"
+        ],
+        [
+          "gevangene",
+          "prisoner"
+        ],
+        [
+          "verdrietig",
+          "sad"
+        ],
+        [
+          "maakte me zorgen",
+          "was worried (zich zorgen maken)"
+        ],
+        [
+          "vreesde",
+          "feared (vrezen)"
+        ]
+      ]
+    },
+    "1510": {
+      "t": "Nieuws over Dogran",
+      "d": "Hij was gestationeerd in Camp Taurajo. Daar proberen we de quilboar te verdrijven. Hij leidde een paar grunts naar een van hun kampen. Daar raakte hij zwaar gewond. De anderen kwamen terug en probeerden hem te redden. Hij was er slecht aan toe, en zijn wonden waren gaan ontsteken. Daarom durfden ze hem niet te verplaatsen voordat ze hem eerst hadden verzorgd.$b$bZe stuurden een bericht hierheen. Ze vroegen om een helend drankje van de trollen van de Malaka'jin, aan de voet van de Stonetalon Mountains. We hebben iemand gestuurd om het te halen, maar die is nog niet terug.",
+      "o": "Praat met Ken'zigla bij de Malaka'jin.",
+      "c": "Nog een $R, hè? Ik hoop dat je niet voor die andere komt. Hij heeft het niet gehaald. Die goblins hebben hem afgemaakt.$B$BHij zei dat hij een helend drankje nodig had, maar veel meer zei hij niet.",
+      "g": [
+        [
+          "gestationeerd",
+          "stationed"
+        ],
+        [
+          "verdrijven",
+          "to drive out"
+        ],
+        [
+          "leidde",
+          "led (leiden)"
+        ],
+        [
+          "er slecht aan toe",
+          "in bad shape"
+        ],
+        [
+          "wonden",
+          "wounds (wond)"
+        ],
+        [
+          "ontsteken",
+          "to become infected, to fester"
+        ],
+        [
+          "durfden",
+          "dared (durven)"
+        ],
+        [
+          "verplaatsen",
+          "to move"
+        ],
+        [
+          "verzorgd",
+          "taken care of, patched up (verzorgen)"
+        ],
+        [
+          "helend",
+          "healing (helen)"
+        ],
+        [
+          "aan de voet van",
+          "at the base of"
+        ],
+        [
+          "afgemaakt",
+          "finished off, killed (afmaken)"
+        ]
+      ]
+    },
+    "1511": {
+      "t": "Het drankje van Ken'zigla",
+      "d": "Ik dacht al dat er misschien nog iemand zou komen voor het drankje, dus ik heb het toch gemaakt.$b$bAlsjeblieft, $n. Let op: je mag hem maar de helft geven! Dan heeft hij genoeg kracht om te bewegen zonder dat hij leegbloedt. Wacht een nacht, en geef hem dan de andere helft.$b$bHoe dan ook, je moet dit naar Logmar in Camp Taurajo brengen. Volgens wat de eerste me vertelde, weet hij waarschijnlijk waar die Dogran is.",
+      "o": "Breng Ken'zigla's Draught naar Grunt Logmar in Camp Taurajo.",
+      "p": "Ja, wat is er?",
+      "c": "Nou, werd tijd! Dogran ligt daar al die tijd te sterven en wacht hierop.$B$BWe moeten dit meteen naar hem toe brengen. Maar de meeste grunts die hier gestationeerd zijn, zijn weg op een missie om voedsel te zoeken.",
+      "g": [
+        [
+          "toch",
+          "anyway"
+        ],
+        [
+          "let op",
+          "mind you, pay attention"
+        ],
+        [
+          "de helft",
+          "half"
+        ],
+        [
+          "kracht",
+          "strength"
+        ],
+        [
+          "leegbloedt",
+          "bleeds dry (leegbloeden)"
+        ],
+        [
+          "hoe dan ook",
+          "anyway, in any case"
+        ],
+        [
+          "volgens",
+          "according to"
+        ],
+        [
+          "werd tijd",
+          "about time"
+        ],
+        [
+          "sterven",
+          "to die"
+        ],
+        [
+          "voedsel",
+          "food"
+        ]
+      ]
+    },
+    "1512": {
+      "t": "Het geschenk van de liefde",
+      "d": "Zankaja is jong en mooi. Vastgeketend zijn aan een invalide... Dat onrecht laat ik haar niet lijden.$b$bLaat me alleen, $n. En dank je. Nu kan ik mijn leven beëindigen in een glorieuze strijd, in plaats van als een levenloos omhulsel.$b$bEn alsjeblieft, vertel mijn partner hier niets over... Ik wil niet dat ze schuld op haar geweten heeft.",
+      "o": "Breng de Dirt-caked Pendant naar Gan'rul Bloodeye in Orgrimmar.",
+      "p": "Je bent terug. Ben je klaar om tegen een succubus te vechten?",
+      "c": "Als jij me zegt dat dit genoeg is, dan vertrouw ik je, $N. Maar laat me hem wel schoonmaken... Smetteloos en glanzend is hij misschien nog aantrekkelijker voor een succubus.",
+      "g": [
+        [
+          "geschenk",
+          "gift"
+        ],
+        [
+          "vastgeketend",
+          "chained (vastketenen)"
+        ],
+        [
+          "invalide",
+          "invalid, disabled person"
+        ],
+        [
+          "onrecht",
+          "injustice"
+        ],
+        [
+          "lijden",
+          "to suffer"
+        ],
+        [
+          "beëindigen",
+          "to end"
+        ],
+        [
+          "glorieuze",
+          "glorious (glorieus)"
+        ],
+        [
+          "levenloos",
+          "lifeless"
+        ],
+        [
+          "omhulsel",
+          "husk, shell"
+        ],
+        [
+          "schuld",
+          "guilt"
+        ],
+        [
+          "geweten",
+          "conscience"
+        ],
+        [
+          "smetteloos",
+          "spotless, pristine"
+        ],
+        [
+          "glanzend",
+          "shining (glanzen)"
+        ],
+        [
+          "aantrekkelijker",
+          "more attractive (aantrekkelijk)"
+        ]
+      ]
+    },
+    "1513": {
+      "t": "De binding",
+      "d": "Breng dit naar de oproepcirkel in de tent van Neeru, $n. Roep een vuile succubus op, en laat haar dan zien dat jij de meester bent. Ik geloof in de kracht van je magie. Maar wees zoals altijd voorzichtig. Trots en te veel zelfvertrouwen zijn al de ondergang geweest van veel veelbelovende heksenmeesters.$b$bAls je haar hebt verslagen, breng de hanger dan terug naar mij. Dan kan ik het nieuws aan Zankaja vertellen.",
+      "o": "Gebruik Dogran's Pendant om een succubus op te roepen en te onderwerpen. Breng Dogran's Pendant daarna terug naar Gan'rul Bloodeye in Orgrimmar.",
+      "p": "Als ik naar een succubus kijk, begint mijn hart te zweven... Maar tegelijk voel ik bijna hoe mijn ziel wegebt. Ze drijft weg, zoals het getij.$B$BWees voorzichtig, mijn vriend.",
+      "c": "Gelukt! Ik had ook niets anders verwacht van mijn beste leerling.$B$BJe hebt laten zien wat je waard bent. Met plezier leer ik je hoe je je onderworpen succubus kunt oproepen. Ga nu, je moet nog veel leren. En als ik je de volgende keer zie, verwacht ik dat je je succubus echt helemaal beheerst.$B$BLaat het verdriet van Dogran en Zankaja over aan ons, die ouder zijn. Maar vergeet het niet. Bewaar het als bescherming tegen de listen van de duistere macht die je vandaag hebt leren oproepen.",
+      "g": [
+        [
+          "oproepcirkel",
+          "summoning circle"
+        ],
+        [
+          "vuile",
+          "foul (vuil)"
+        ],
+        [
+          "zelfvertrouwen",
+          "self-confidence"
+        ],
+        [
+          "ondergang",
+          "downfall"
+        ],
+        [
+          "veelbelovende",
+          "promising (veelbelovend)"
+        ],
+        [
+          "hanger",
+          "pendant"
+        ],
+        [
+          "onderwerpen",
+          "to subdue"
+        ],
+        [
+          "zweven",
+          "to float, to soar"
+        ],
+        [
+          "wegebt",
+          "ebbs away (wegebben)"
+        ],
+        [
+          "getij",
+          "tide"
+        ],
+        [
+          "leerling",
+          "pupil, student"
+        ],
+        [
+          "beheerst",
+          "masters, controls (beheersen)"
+        ],
+        [
+          "verdriet",
+          "sorrow"
+        ],
+        [
+          "listen",
+          "wiles, tricks (list)"
+        ],
+        [
+          "duistere",
+          "dark (duister)"
+        ]
+      ]
+    },
+    "1515": {
+      "t": "De gevangenschap van Dogran",
+      "d": "Je bent zo ver gekomen. Als je dit tot het einde wilt doorzetten, houd ik je niet tegen. Maar ik kan je geen extra mankracht geven. Je staat er alleen voor.$b$bDogran wordt vastgehouden in een kamp van de quilboar, ten noorden van hier. Zoek naar een groep van twee hutten. Hij wordt zwaar bewaakt. Tenminste, als ze hem nog niet hebben gedood, of als hij nog niet aan zijn wonden is gestorven.$b$bSucces.",
+      "o": "Breng Ken'zigla's Draught naar Dogran in The Barrens.",
+      "p": "Urrrghhhh...",
+      "c": "Smerig drankje...$B$BIk voel nu kracht in me, genoeg om weg te strompelen... Maar mijn been ben ik kwijt, voor de rest van mijn leven. Mijn arm ook.",
+      "g": [
+        [
+          "gevangenschap",
+          "captivity"
+        ],
+        [
+          "doorzetten",
+          "to see through, to persist"
+        ],
+        [
+          "houd tegen",
+          "stop (tegenhouden)"
+        ],
+        [
+          "mankracht",
+          "manpower"
+        ],
+        [
+          "je staat er alleen voor",
+          "you're on your own"
+        ],
+        [
+          "vastgehouden",
+          "held, kept (vasthouden)"
+        ],
+        [
+          "hutten",
+          "huts (hut)"
+        ],
+        [
+          "bewaakt",
+          "guarded (bewaken)"
+        ],
+        [
+          "tenminste",
+          "at least"
+        ],
+        [
+          "smerig",
+          "foul, nasty"
+        ],
+        [
+          "strompelen",
+          "to hobble, to stumble"
+        ]
+      ]
+    },
+    "1801": {
+      "t": "Het Tome of the Cabal",
+      "d": "Er is meer nodig dan een simpele oproepcirkel om een felhunter op te roepen die je kunt uitdagen.$b$bMijn drie acolieten en ik helpen om de magische cirkels te maken. Je hebt een exemplaar nodig van het Tome of the Cabal. Dat boek zijn we al een tijd kwijt. Het werd geschreven door de eerste groep heksenmeesters die zonder hulp een felhunter opriepen.$b$bMisschien kan Jorah Annison je hiermee helpen. Hij werkt tegenwoordig als kaartenmaker in de Undercity, maar hij weet nog steeds meer over oude teksten dan iedereen die ik ken.",
+      "o": "Praat met Jorah Annison in de Undercity.",
+      "c": "Kaarten maken! Plaatjes, schattingen van de werkelijkheid. Daar heb ik niets aan.$b$bIn boeken: verhalen, beschrijvingen! Daar ligt de waarheid. Ik zou alle kaarten in deze winkel ruilen voor één boek over de opkomst van de necromantie, of een verhaal over de triomf van de Dark Lady.",
+      "g": [
+        [
+          "uitdagen",
+          "to challenge"
+        ],
+        [
+          "acolieten",
+          "acolytes (acoliet)"
+        ],
+        [
+          "exemplaar",
+          "copy"
+        ],
+        [
+          "zonder hulp",
+          "unaided"
+        ],
+        [
+          "tegenwoordig",
+          "these days"
+        ],
+        [
+          "kaartenmaker",
+          "cartographer, map maker"
+        ],
+        [
+          "schattingen",
+          "estimations (schatting)"
+        ],
+        [
+          "werkelijkheid",
+          "reality"
+        ],
+        [
+          "beschrijvingen",
+          "descriptions (beschrijving)"
+        ],
+        [
+          "ruilen",
+          "to trade, to swap"
+        ],
+        [
+          "opkomst",
+          "rise"
+        ],
+        [
+          "necromantie",
+          "necromancy"
+        ],
+        [
+          "triomf",
+          "triumph"
+        ]
+      ]
+    },
+    "1803": {
+      "t": "Het Tome of the Cabal",
+      "d": "Ah! Ik zie dat je een heksenmeester bent met dezelfde smaak als ik. Het is inderdaad een waardig doel om het Tome of the Cabal te vinden. Wist je dat het vroeger binnen de muren van Lordaeron werd bewaard? Maar het werd vernield: bijna de helft van de bladzijden is eruit gehaald. Wie doet nou zoiets afschuwelijks?$b$bDie helft is verloren, maar er gaat een gerucht dat ze in handen is gevallen van de centauren van de Thousand Needles.$b$bDe rest van de tekst zou naar Ironforge worden gebracht, maar raakte onderweg kwijt aan de kust ten westen van Southshore.",
+      "o": "Haal het Moldy Tome en het Tattered Manuscript op voor Jorah Annison in de Undercity.",
+      "p": "Misschien jaag je op sprookjes, $N. Maar zelfs in de wildste geruchten zit een kern van waarheid.",
+      "c": "Wel, wel, wel! Wat hebben we hier?$B$BDit is indrukwekkend, $N. Ik had niet gedacht dat het kon, maar hier is het, in mijn eigen handen: het complete Tome of the Cabal.$B$BLaat me er even doorheen bladeren voordat je weer vertrekt.",
+      "g": [
+        [
+          "smaak",
+          "taste"
+        ],
+        [
+          "inderdaad",
+          "indeed"
+        ],
+        [
+          "waardig",
+          "worthy"
+        ],
+        [
+          "bewaard",
+          "kept (bewaren)"
+        ],
+        [
+          "vernield",
+          "vandalized, destroyed (vernielen)"
+        ],
+        [
+          "bladzijden",
+          "pages (bladzijde)"
+        ],
+        [
+          "afschuwelijks",
+          "horrible (afschuwelijk)"
+        ],
+        [
+          "gerucht",
+          "rumour"
+        ],
+        [
+          "in handen gevallen",
+          "fallen into the hands"
+        ],
+        [
+          "centauren",
+          "centaurs (centaur)"
+        ],
+        [
+          "onderweg",
+          "on the way, in transit"
+        ],
+        [
+          "sprookjes",
+          "fairy tales (sprookje)"
+        ],
+        [
+          "kern van waarheid",
+          "grain of truth"
+        ],
+        [
+          "indrukwekkend",
+          "impressive"
+        ],
+        [
+          "bladeren",
+          "to leaf through"
+        ]
+      ]
+    },
+    "1805": {
+      "t": "Het Tome of the Cabal",
+      "d": "Dit is een van de interessantste teksten die ik de laatste jaren heb gelezen. Er is hier weinig keus, vooral boeken over aardrijkskunde, en die heb ik allemaal al gelezen. Ik hoop dat Strahad me een kopie van dit boek stuurt als hij de kans heeft.$b$bOver hem gesproken: hij heeft me een bericht gestuurd toen je weg was. Voor je taak moet je drie staven voor het kanaliseren halen.$b$bOmdat ik deze tekst mocht bekijken, vertel ik je een geheim: je vindt de staven bij orks van de Dragonmaw Clan in de Wetlands.",
+      "o": "Breng het Reconstructed Tome en 3 Rods of Channeling naar Strahad Farsan in Ratchet.",
+      "p": "Ja, $N? Waarmee kan ik je van dienst zijn?",
+      "c": "Goed gedaan! Het Tome of the Cabal en drie smetteloze staven voor het kanaliseren... nou ja, een beetje bekrast, denk ik.$B$BDit wordt interessant. Het is een tijd geleden dat een jonge $C een felhunter aanpakte om hem van zichzelf te maken.",
+      "g": [
+        [
+          "interessantste",
+          "most interesting (interessant)"
+        ],
+        [
+          "keus",
+          "choice, selection"
+        ],
+        [
+          "aardrijkskunde",
+          "geography"
+        ],
+        [
+          "kopie",
+          "copy"
+        ],
+        [
+          "over hem gesproken",
+          "speaking of him"
+        ],
+        [
+          "staven",
+          "rods (staf)"
+        ],
+        [
+          "kanaliseren",
+          "to channel"
+        ],
+        [
+          "geheim",
+          "secret"
+        ],
+        [
+          "van dienst zijn",
+          "to be of service"
+        ],
+        [
+          "smetteloze",
+          "pristine, spotless (smetteloos)"
+        ],
+        [
+          "bekrast",
+          "scratched (bekrassen)"
+        ],
+        [
+          "aanpakte",
+          "took on (aanpakken)"
+        ]
+      ]
+    },
+    "2996": {
+      "t": "Op zoek naar Strahad",
+      "d": "Ik heb je in het verleden vaardigheden geleerd, maar nu is het tijd dat een ander je lesgeeft. Hij is in Ratchet, en zijn naam is Strahad. Hij is een mens, maar laat je niet voor de gek houden. Denk niet dat hij zwak is. Hij is machtig, ook al is hij misschien klein. Hij kan je leren over sterkere oproepingen. Ik voel dat je er klaar voor bent. Ga nu naar hem toe. Hij is in Ratchet... boven het havenstadje, naast zijn toren.",
+      "o": "Praat met Strahad Farsan in Ratchet.",
+      "c": "Een drukke dag in Ratchet, vind je niet? Ik kijk zo graag naar het harde werk in een havenstad. Zoveel mysterie, zoveel avontuur... zoveel onwetendheid.$B$BIs dat haat die ik in je ogen zie, $N? Goed, die gaan we goed gebruiken.",
+      "g": [
+        [
+          "vaardigheden",
+          "skills (vaardigheid)"
+        ],
+        [
+          "lesgeeft",
+          "teaches (lesgeven)"
+        ],
+        [
+          "voor de gek houden",
+          "to fool"
+        ],
+        [
+          "machtig",
+          "powerful"
+        ],
+        [
+          "ook al",
+          "even though"
+        ],
+        [
+          "oproepingen",
+          "summonings (oproeping)"
+        ],
+        [
+          "havenstadje",
+          "little port town"
+        ],
+        [
+          "havenstad",
+          "port city"
+        ],
+        [
+          "onwetendheid",
+          "ignorance"
+        ],
+        [
+          "haat",
+          "hatred"
+        ]
+      ]
+    },
+    "3001": {
+      "t": "Op zoek naar Strahad",
+      "d": "Ik heb je in het verleden vaardigheden geleerd, maar nu is het tijd dat een ander je lesgeeft. Hij is in Ratchet, en zijn naam is Strahad. Hij is een mens, maar denk daarom niet dat hij zwak is. Hij is ook niet je vijand... in elk geval voorlopig niet. Hij is machtig en je moet hem respecteren. Hij kan je leren over grotere oproepingen, oproepingen waar je volgens mij klaar voor bent. Ga nu naar hem toe.$B$BJe vindt hem in Ratchet... boven het havenstadje, naast de toren daar.",
+      "o": "Zoek Strahad Farsan in Ratchet.",
+      "c": "Een drukke dag in Ratchet, vind je niet? Ik kijk zo graag naar het harde werk in een havenstad. Zoveel mysterie, zoveel avontuur... zoveel onwetendheid.$B$BIs dat haat die ik in je ogen zie, $N? Goed, die gaan we goed gebruiken.",
+      "g": [
+        [
+          "vaardigheden",
+          "skills (vaardigheid)"
+        ],
+        [
+          "lesgeeft",
+          "teaches (lesgeven)"
+        ],
+        [
+          "vijand",
+          "enemy"
+        ],
+        [
+          "voorlopig",
+          "for now"
+        ],
+        [
+          "machtig",
+          "powerful"
+        ],
+        [
+          "respecteren",
+          "to respect"
+        ],
+        [
+          "oproepingen",
+          "summonings (oproeping)"
+        ],
+        [
+          "havenstadje",
+          "little port town"
+        ],
+        [
+          "onwetendheid",
+          "ignorance"
+        ],
+        [
+          "haat",
+          "hatred"
+        ]
+      ]
+    },
+    "4736": {
+      "t": "Op zoek naar Menara Voidrender",
+      "d": "Ah, hallo, $N. Je gaat goed vooruit met je training. Zo goed zelfs, dat je volgens mij een beloning verdient voor je harde werk. En omdat je nog niet bent gecorrumpeerd door het arcane.$B$BAls je interesse hebt, zoek dan Menara Voidrender op in Ratchet. Ze verblijft nu in de toren van Strahad Farsan, die boven het stadje uitkijkt.$B$BZe is niet erg vriendelijk, $N, dus verwacht geen lof. Maar als je hard werkt, zorgt ze goed voor je.",
+      "o": "Praat met Menara Voidrender in The Barrens.",
+      "c": "Ah, Briarthorn heeft je gestuurd. Goed. Dan reikt het nieuws dus ver genoeg om toekomstige leerlingen te vinden. Dat bevalt me.$B$BHet is typisch voor ons soort, $N, om samen te werken, welk ras we ook hebben. Dat is extra belangrijk, want degenen met wie we het meest te maken hebben, maken geen onderscheid in hun kwaadaardigheid als we ze niet goed sussen of beheersen.$B$BIk voel dat je al veel hebt geleerd. Als je wilt, help ik je om hulpmiddelen te maken die je vaardigheden aanvullen.",
+      "g": [
+        [
+          "vooruit",
+          "forward, ahead"
+        ],
+        [
+          "beloning",
+          "reward"
+        ],
+        [
+          "verdient",
+          "deserves (verdienen)"
+        ],
+        [
+          "gecorrumpeerd",
+          "corrupted (corrumperen)"
+        ],
+        [
+          "het arcane",
+          "the arcane"
+        ],
+        [
+          "verblijft",
+          "stays (verblijven)"
+        ],
+        [
+          "uitkijkt",
+          "overlooks (uitkijken)"
+        ],
+        [
+          "lof",
+          "praise"
+        ],
+        [
+          "reikt",
+          "reaches (reiken)"
+        ],
+        [
+          "bevalt",
+          "pleases (bevallen)"
+        ],
+        [
+          "onderscheid",
+          "distinction"
+        ],
+        [
+          "kwaadaardigheid",
+          "malice"
+        ],
+        [
+          "beheersen",
+          "to control"
+        ],
+        [
+          "hulpmiddelen",
+          "tools (hulpmiddel)"
+        ],
+        [
+          "aanvullen",
+          "to complement"
+        ]
+      ]
+    },
+    "4737": {
+      "t": "Op zoek naar Menara Voidrender",
+      "d": "Hmpf, je blijft maar proberen machtiger te worden. Ik zeg je: het is alleen een kwestie van tijd voordat de corruptie en de verslaving je te pakken krijgen. Dan word je een slaaf van datgene waarover je macht wilt krijgen.$B$BPfah! Wat ben je een dwaas! De tijd zal bewijzen dat ik gelijk heb, niets anders... alleen de tijd.$B$BMaar blijkbaar is niet iedereen het met Zevrost eens. Menara wil blijkbaar hulpmiddelen voor je maken, zodat je machtiger wordt en je kracht kunt benutten. Als je interesse hebt, ga dan naar Ratchet in The Barrens. Ze is daar en kijkt uit over het stadje.",
+      "o": "Praat met Menara Voidrender in The Barrens.",
+      "c": "Ah, Zevrost heeft je gestuurd. Goed. Dan reikt het nieuws dus ver genoeg om toekomstige leerlingen te vinden. Dat bevalt me.$B$BHet is typisch voor ons soort, $N, om samen te werken, welk ras we ook hebben. Dat is extra belangrijk, want degenen met wie we het meest te maken hebben, maken geen onderscheid in hun kwaadaardigheid als we ze niet goed sussen of beheersen.$B$BIk voel dat je al veel hebt geleerd. Als je wilt, help ik je om hulpmiddelen te maken die je vaardigheden aanvullen.",
+      "g": [
+        [
+          "machtiger",
+          "more powerful (machtig)"
+        ],
+        [
+          "een kwestie van tijd",
+          "a matter of time"
+        ],
+        [
+          "corruptie",
+          "corruption"
+        ],
+        [
+          "verslaving",
+          "addiction"
+        ],
+        [
+          "te pakken krijgen",
+          "to get hold of"
+        ],
+        [
+          "slaaf",
+          "slave"
+        ],
+        [
+          "dwaas",
+          "fool"
+        ],
+        [
+          "bewijzen",
+          "to prove"
+        ],
+        [
+          "blijkbaar",
+          "apparently"
+        ],
+        [
+          "benutten",
+          "to harness, to make use of"
+        ],
+        [
+          "kwaadaardigheid",
+          "malice"
+        ],
+        [
+          "hulpmiddelen",
+          "tools (hulpmiddel)"
+        ],
+        [
+          "aanvullen",
+          "to complement"
+        ]
+      ]
+    },
+    "4739": {
+      "t": "Op zoek naar Menara Voidrender",
+      "d": "$C! Ja, jij!$B$BJe hebt nog niet alle uitrusting, maar iedereen kan zien dat je er klaar voor bent. De lucht om je heen straalt meer zelfvertrouwen uit. Ja, nu zie ik het.$B$BMenara Voidrender wil je een paar dingen leren, als je je er klaar voor voelt. Ze geeft jongere leerlingen les in het arcane. Ze geeft zelfs geschenken aan wie voor haar proeven slaagt.$B$BGa naar Ratchet in The Barrens als je interesse hebt. Ze is boven de stad, in de toren van Strahad.",
+      "o": "Praat met Menara Voidrender in The Barrens.",
+      "c": "Ah, Kaal heeft je gestuurd. Goed. Dan reikt het nieuws dus ver genoeg om toekomstige leerlingen te vinden. Dat bevalt me.$B$BHet is typisch voor ons soort, $N, om samen te werken, welk ras we ook hebben. Dat is extra belangrijk, want degenen met wie we het meest te maken hebben, maken geen onderscheid in hun kwaadaardigheid als we ze niet goed sussen of beheersen.$B$BIk voel dat je al veel hebt geleerd. Als je wilt, help ik je om hulpmiddelen te maken die je vaardigheden aanvullen.",
+      "g": [
+        [
+          "uitrusting",
+          "gear, equipment"
+        ],
+        [
+          "straalt uit",
+          "exudes, radiates (uitstralen)"
+        ],
+        [
+          "zelfvertrouwen",
+          "confidence"
+        ],
+        [
+          "leerlingen",
+          "students (leerling)"
+        ],
+        [
+          "het arcane",
+          "the arcane"
+        ],
+        [
+          "geschenken",
+          "gifts (geschenk)"
+        ],
+        [
+          "proeven",
+          "tests, trials (proef)"
+        ],
+        [
+          "slaagt",
+          "passes, succeeds (slagen)"
+        ],
+        [
+          "toekomstige",
+          "future (toekomstig)"
+        ],
+        [
+          "kwaadaardigheid",
+          "malice"
+        ],
+        [
+          "aanvullen",
+          "to complement"
+        ]
+      ]
+    },
+    "4967": {
+      "t": "Kennis over de Orb of Orahil",
+      "d": "Nog steeds een dwaas, en nog steeds op zoek naar de opsmuk van stervelingen. Ja, ik spreek arrogant tegen je. Ik zie je voor me staan en ik lach. Je bent zielig!$B$BMaar wat ik denk, doet er niet toe. Het gaat er alleen om wat degenen denken die bereid zijn met je zaken te doen! En in dit geval vinden degenen met een deel van de macht, tegen mijn beter weten in, dat je meer verdient.$B$BAls je daarnaar streeft, praat dan met Menara Voidrender in de toren boven Ratchet. Ik denk dat je haar al eens eerder hebt ontmoet, een tijd geleden.",
+      "o": "Praat met Menara Voidrender in The Barrens.",
+      "c": "Ah, je zoekt dus iets... wezenlijkers. Daar kan ik je mee helpen, als je echt voorbereid bent.$B$BHet is een welkome verandering om iemand van ons soort te zien die meer macht zoekt in andere vormen dan alleen kennis.$B$BDus, voel je je er klaar voor, $N?",
+      "g": [
+        [
+          "kennis",
+          "knowledge"
+        ],
+        [
+          "opsmuk",
+          "trappings, adornment"
+        ],
+        [
+          "stervelingen",
+          "mortals (sterveling)"
+        ],
+        [
+          "arrogant",
+          "arrogant"
+        ],
+        [
+          "zielig",
+          "pathetic"
+        ],
+        [
+          "doet er niet toe",
+          "doesn't matter (ertoe doen)"
+        ],
+        [
+          "bereid",
+          "willing"
+        ],
+        [
+          "zaken doen",
+          "to deal, to do business"
+        ],
+        [
+          "tegen mijn beter weten in",
+          "against my better judgment"
+        ],
+        [
+          "streeft",
+          "strive (streven)"
+        ],
+        [
+          "wezenlijkers",
+          "more substantial (wezenlijk)"
+        ],
+        [
+          "voorbereid",
+          "prepared (voorbereiden)"
+        ],
+        [
+          "welkome",
+          "welcome (welkom)"
+        ]
+      ]
+    },
+    "4969": {
+      "t": "Kennis over de Orb of Orahil",
+      "d": "Haha! Je doet het erg goed, jonge $c.$B$BAls je tijd krijgt, zullen infernals en dreadlords voor je buigen!$B$BMaar tot die tijd moet je nog steeds vertrouwen op wapens die gesmeed zijn door de handen van de sterfelijke rassen.$B$BJe lijkt klaar voor een nieuwe creatie van dat soort. Als je wilt, wil Menara Voidrender met je praten! Ze is bij de toren van Strahad, die uitkijkt over het havenstadje Ratchet. Ga daarheen als je klaar bent.",
+      "o": "Praat met Menara Voidrender in The Barrens.",
+      "c": "Ah, je zoekt dus iets... wezenlijkers. Ik kan je helpen, als je echt voorbereid bent.$B$BHet is een welkome verandering om iemand van ons soort te zien die meer macht zoekt in andere vormen dan alleen kennis.$B$BDus, voel je je er klaar voor, $N?",
+      "g": [
+        [
+          "buigen",
+          "to bow"
+        ],
+        [
+          "vertrouwen op",
+          "to rely on"
+        ],
+        [
+          "gesmeed",
+          "forged (smeden)"
+        ],
+        [
+          "sterfelijke",
+          "mortal (sterfelijk)"
+        ],
+        [
+          "rassen",
+          "races (ras)"
+        ],
+        [
+          "creatie",
+          "creation"
+        ],
+        [
+          "uitkijkt",
+          "overlooks (uitkijken)"
+        ],
+        [
+          "havenstadje",
+          "little port town"
+        ],
+        [
+          "wezenlijkers",
+          "more substantial (wezenlijk)"
+        ],
+        [
+          "voorbereid",
+          "prepared (voorbereiden)"
+        ],
+        [
+          "welkome",
+          "welcome (welkom)"
+        ]
+      ]
+    },
+    "3631": {
+      "t": "Een felsteed oproepen",
+      "d": "Hmpf. Ik vind dat je niet voorbereid bent, maar dat is niet aan mij. Strahad denkt er anders over, en hij is degene die beslist... deze keer.$B$BHij wil met je praten, en snel. Je vindt hem nog altijd boven Ratchet in The Barrens, in zijn torentje daar, samen met zijn acolieten.$B$BTreuzel niet te lang.",
+      "o": "Praat met Strahad Farsan in The Barrens.",
+      "c": "Zo, je hebt besloten me weer met je aanwezigheid te vereren. Wat aardig van je.$B$BMijn acolieten vroegen zich af of je ooit nog zou komen opdagen. Ik zei dat daar geen twijfel over was. Als het om macht gaat, word je aangetrokken als een mot door een vlam.",
+      "g": [
+        [
+          "voorbereid",
+          "prepared (voorbereiden)"
+        ],
+        [
+          "dat is niet aan mij",
+          "that's not up to me"
+        ],
+        [
+          "degene",
+          "the one"
+        ],
+        [
+          "beslist",
+          "decides (beslissen)"
+        ],
+        [
+          "torentje",
+          "little tower (toren)"
+        ],
+        [
+          "acolieten",
+          "acolytes (acoliet)"
+        ],
+        [
+          "treuzel",
+          "dawdle (treuzelen)"
+        ],
+        [
+          "aanwezigheid",
+          "presence"
+        ],
+        [
+          "vereren",
+          "to grace, to honour"
+        ],
+        [
+          "vroegen zich af",
+          "wondered (zich afvragen)"
+        ],
+        [
+          "opdagen",
+          "to show up"
+        ],
+        [
+          "twijfel",
+          "doubt"
+        ],
+        [
+          "aangetrokken",
+          "drawn, attracted (aantrekken)"
+        ],
+        [
+          "mot",
+          "moth"
+        ]
+      ]
+    },
+    "4489": {
+      "t": "Een felsteed oproepen",
+      "d": "Jij, $r! Kom hier!$B$BJij bent degene die ze $N noemen, toch?$B$BDat dacht ik al. Ik houd het kort: je wordt steeds machtiger, en dat is opgemerkt. En nu is het moment gekomen dat je wordt beloond voor je inspanningen.$B$BGa naar The Barrens. Daar, boven Ratchet, vind je Strahad Farsan. Misschien herinner je je hem nog? Hij wil je spreken. Ik zou er niet lang mee wachten.",
+      "o": "Praat met Strahad Farsan in Ratchet.",
+      "c": "Zo, je hebt besloten me weer met je aanwezigheid te vereren. Wat aardig van je.$B$BMijn acolieten vroegen zich af of je ooit nog zou komen opdagen. Ik zei dat daar geen twijfel over was. Als het om macht gaat, word je aangetrokken als een mot door een vlam.",
+      "g": [
+        [
+          "degene",
+          "the one"
+        ],
+        [
+          "ik houd het kort",
+          "I'll keep it short"
+        ],
+        [
+          "steeds machtiger",
+          "more and more powerful"
+        ],
+        [
+          "opgemerkt",
+          "noticed, acknowledged (opmerken)"
+        ],
+        [
+          "beloond",
+          "rewarded (belonen)"
+        ],
+        [
+          "inspanningen",
+          "efforts (inspanning)"
+        ],
+        [
+          "herinner je je",
+          "do you remember (zich herinneren)"
+        ],
+        [
+          "aanwezigheid",
+          "presence"
+        ],
+        [
+          "vereren",
+          "to grace, to honour"
+        ],
+        [
+          "opdagen",
+          "to show up"
+        ],
+        [
+          "twijfel",
+          "doubt"
+        ],
+        [
+          "mot",
+          "moth"
+        ]
+      ]
+    }
+  },
+  "words": {
+    "datgene": "that which (datgene)",
+    "dreadlords": "dreadlords (dreadlord)",
+    "mocht": "was allowed to (mogen)",
+    "opriepen": "summoned (oproepen)",
+    "pfah": "pah, bah (exclamation)",
+    "straalt": "radiates (uitstralen)",
+    "vooruitgaat": "progress, go forward (vooruitgaan)",
+    "wildste": "wildest (wild)"
+  },
+  "terms": {
+    "felhunter": "felhunter: a demon hound that a warlock can summon, it hunts and drains magic",
+    "felsteed": "felsteed: a demonic horse that a warlock can summon as a mount",
+    "windrijder": "wind rider: a winged creature the Horde rides to fly between towns",
+    "grunt": "grunt: a common orc soldier of the Horde",
+    "infernal": "infernal: a huge burning demon made of stone",
+    "dreadlord": "dreadlord: a powerful, cunning demon (nathrezim) of the Burning Legion"
+  }
+}
