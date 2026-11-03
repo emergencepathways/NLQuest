@@ -1,0 +1,1646 @@
+{
+ "quests": {
+  "7899": {
+   "t": "Kleine harige poten",
+   "p": "De eerste les om een menigte te trekken: lok ze met snufjes en prulletjes! Kun je me helpen?$B$BIk heb Small Furry Paws nodig als prijzen. Die vind je bij de katten van de Barrens of Darkshore....$B$BBreng me wat poten, dan ruil ik ze voor een Darkmoon Faire-ticket.",
+   "c": "Geweldig, je hebt ze! Hier kunnen we speelgoed en snuisterijen van maken, en die trekken meer mensen naar de Faire!$B$BHier is je ticket, $N. Je hebt het verdiend!",
+   "g": [
+    [
+     "menigte",
+     "crowd"
+    ],
+    [
+     "trekken",
+     "to draw, attract"
+    ],
+    [
+     "lok",
+     "lure (lokken)"
+    ],
+    [
+     "snufjes",
+     "gadgets (snufje)"
+    ],
+    [
+     "prulletjes",
+     "trinkets (prulletje)"
+    ],
+    [
+     "poten",
+     "paws (poot)"
+    ],
+    [
+     "ruil",
+     "trade (ruilen)"
+    ],
+    [
+     "snuisterijen",
+     "baubles (snuisterij)"
+    ],
+    [
+     "verdiend",
+     "earned (verdienen)"
+    ]
+   ]
+  },
+  "7900": {
+   "t": "Gescheurde berenvachten",
+   "p": "Kinderen houden van speelgoed! En van welk ras ze ook zijn, ik heb gemerkt dat alle kinderen dol zijn op zacht, pluizig speelgoed van Torn Bear Pelts!$B$BDie vachten kun je krijgen van de beren van Ashenvale of Hillsbrad. Breng me er een hoop van, en verdien zelf een hoop Darkmoon Faire-tickets!",
+   "c": "Mooie vachten, $N! Ik laat iemand er een stel knuffels van naaien. Met wat vulling en een beetje verf zijn kinderen in heel Azeroth er straks jaloers op, denk ik!$B$BTickets? O ja, je betaling! Hier zijn ze!",
+   "g": [
+    [
+     "ras",
+     "race"
+    ],
+    [
+     "gemerkt",
+     "noticed (merken)"
+    ],
+    [
+     "dol zijn op",
+     "to love, be crazy about"
+    ],
+    [
+     "pluizig",
+     "fluffy, plush"
+    ],
+    [
+     "vachten",
+     "pelts (vacht)"
+    ],
+    [
+     "een hoop",
+     "a heap, a lot"
+    ],
+    [
+     "knuffels",
+     "plush toys (knuffel)"
+    ],
+    [
+     "naaien",
+     "to sew"
+    ],
+    [
+     "vulling",
+     "stuffing"
+    ],
+    [
+     "jaloers",
+     "envious, jealous"
+    ],
+    [
+     "betaling",
+     "payment"
+    ]
+   ]
+  },
+  "7901": {
+   "t": "Zachte borstelige staarten",
+   "p": "Het is verbazend wat mensen waardevol vinden! Neem bijvoorbeeld een houten stok met een zachte, borstelige staart eraan. Jij en ik denken misschien dat zoiets niet zo veel waard is... maar als je dat stuk rommel een leuke naam geeft, zoals \"Savage Fuzz Tail\", en het in een mooi doosje stopt, dan denken mensen dat het waardevol is. Afval wordt een schat!$B$BHaal Soft Bushy Tails voor me bij de wolven van Desolace en de Badlands, dan geef ik je Darkmoon Faire-tickets.",
+   "c": "Goed gedaan, $N! Deze staarten worden geweldige prijzen voor onze bezoekers, en dat betekent blije bezoekers... die met hun vrienden praten en meer bezoekers meebrengen!$B$BHier zijn je tickets! Veel plezier op de Darkmoon Faire... en vergeet niet je vrienden over ons te vertellen!",
+   "g": [
+    [
+     "verbazend",
+     "amazing"
+    ],
+    [
+     "waardevol",
+     "valuable"
+    ],
+    [
+     "bijvoorbeeld",
+     "for instance"
+    ],
+    [
+     "borstelige",
+     "bushy (borstelig)"
+    ],
+    [
+     "staart",
+     "tail"
+    ],
+    [
+     "rommel",
+     "junk"
+    ],
+    [
+     "doosje",
+     "little box (doos)"
+    ],
+    [
+     "Afval",
+     "trash, rubbish"
+    ],
+    [
+     "schat",
+     "treasure"
+    ],
+    [
+     "bezoekers",
+     "visitors (bezoeker)"
+    ],
+    [
+     "meebrengen",
+     "to bring along"
+    ]
+   ]
+  },
+  "7902": {
+   "t": "Felgekleurde veren",
+   "p": "De verbeelding van een mens is iets ongelooflijks. Ze kan de kleinste heuvel laten lijken op de grootste berg. Ze kan de meest onschuldige schaduw laten lijken alsof een vreselijke nachtmerrie hem werpt!$B$BWij van de Darkmoon Faire laten de verbeelding van onze bezoekers opbloeien! Maar om hun verbeelding wat op te rekken... moeten we soms een beetje sluw zijn.$B$BIk heb Vibrant Plumes nodig voor een van mijn attracties. Je kunt ze krijgen van de vogels in de gevaarlijkere gebieden van Azeroth. Breng me de veren, dan worden veel tickets van jou!",
+   "c": "Ah, de veren! Ze zijn prachtig, vind je niet? Met zulke schoonheden is het makkelijk om iemands verbeelding aan te wakkeren!$B$BJe doet zulk liefdadig werk, $N. De glimlach op het gezicht van onze bezoekers als ze de show zien, is al een prachtige beloning, maar neem alsjeblieft ook deze tickets aan.",
+   "g": [
+    [
+     "verbeelding",
+     "imagination"
+    ],
+    [
+     "ongelooflijks",
+     "incredible (ongelooflijk)"
+    ],
+    [
+     "heuvel",
+     "hill"
+    ],
+    [
+     "onschuldige",
+     "innocuous, harmless (onschuldig)"
+    ],
+    [
+     "werpt",
+     "casts (werpen)"
+    ],
+    [
+     "opbloeien",
+     "to blossom"
+    ],
+    [
+     "op te rekken",
+     "to stretch (oprekken)"
+    ],
+    [
+     "sluw",
+     "tricky, cunning"
+    ],
+    [
+     "gebieden",
+     "areas (gebied)"
+    ],
+    [
+     "schoonheden",
+     "beauties (schoonheid)"
+    ],
+    [
+     "aan te wakkeren",
+     "to spark, kindle (aanwakkeren)"
+    ],
+    [
+     "liefdadig",
+     "charitable"
+    ],
+    [
+     "beloning",
+     "reward, payment"
+    ]
+   ]
+  },
+  "7903": {
+   "t": "Kwaadaardige vleermuisogen",
+   "p": "Dwaal je weleens laat in de nacht door een grot, op zoek naar avontuur? Ja? Echt waar? Nou, dan heb je vast de griezelige ogen van vleermuizen gezien. Ze staren je van hoog aan en wachten tot je even niet oplet, zodat ze je bloed kunnen zuigen!$B$BEng idee, vind je niet? Natuurlijk! Vleermuisogen zijn ongetwijfeld eng!$B$BWil je wat Evil Bat Eyes voor me halen, $N? Ik wil ze voor... iets wat ik aan het ontwerpen ben. Iets engs.$B$BJe kunt ze krijgen van de vleermuizen in de Eastern Plaguelands.",
+   "c": "Geweldig! Je hebt de ogen! Ik hoop dat de jacht op die vleermuizen eng voor je was. Want als een dappere $c zoals jij ervan schrok, dan maken die ogen onze bezoekers van de Faire zeker bang.$B$BNeem deze tickets, $N, en bedankt voor je diensten.",
+   "g": [
+    [
+     "Dwaal",
+     "wander (dwalen)"
+    ],
+    [
+     "weleens",
+     "ever, sometimes"
+    ],
+    [
+     "griezelige",
+     "creepy (griezelig)"
+    ],
+    [
+     "vleermuizen",
+     "bats (vleermuis)"
+    ],
+    [
+     "staren",
+     "to stare"
+    ],
+    [
+     "oplet",
+     "pay attention (opletten)"
+    ],
+    [
+     "zuigen",
+     "to suck"
+    ],
+    [
+     "Eng",
+     "scary"
+    ],
+    [
+     "ongetwijfeld",
+     "no doubt, undoubtedly"
+    ],
+    [
+     "ontwerpen",
+     "to design"
+    ],
+    [
+     "jacht",
+     "hunt"
+    ],
+    [
+     "schrok",
+     "got scared (schrikken)"
+    ],
+    [
+     "diensten",
+     "services (dienst)"
+    ]
+   ]
+  },
+  "7930": {
+   "t": "5 tickets - Darkmoon Flower",
+   "p": "Kom erbij, kom erbij! Heb je tickets van de Darkmoon Faire die je wilt inwisselen? Zeg het maar! Je kunt tickets in verschillende waarden inwisselen voor wonderlijke en fantastische prijzen. Wees niet verlegen, probeer het eens!",
+   "c": "Alsjeblieft, alsjeblieft! Een prijs die een $gkoning:koningin; waardig is! Gefeliciteerd, mijn vriend!$B$BHeb je nog meer tickets die je wilt inleveren? Laat het me dan weten! Zolang de Darkmoon Faire hier is, wissel ik je tickets in.",
+   "g": [
+    [
+     "Kom erbij",
+     "Step right up"
+    ],
+    [
+     "inwisselen",
+     "to redeem, exchange"
+    ],
+    [
+     "waarden",
+     "denominations, values (waarde)"
+    ],
+    [
+     "wonderlijke",
+     "wondrous (wonderlijk)"
+    ],
+    [
+     "verlegen",
+     "shy"
+    ],
+    [
+     "waardig",
+     "worthy, fit for"
+    ],
+    [
+     "Gefeliciteerd",
+     "Congratulations"
+    ],
+    [
+     "inleveren",
+     "to hand in, turn in"
+    ],
+    [
+     "Zolang",
+     "as long as"
+    ],
+    [
+     "wissel ik",
+     "I redeem (inwisselen)"
+    ]
+   ]
+  },
+  "7931": {
+   "t": "5 tickets - Minor Darkmoon Prize",
+   "p": "Kom erbij, kom erbij! Heb je tickets van de Darkmoon Faire die je wilt inwisselen? Zeg het maar! Je kunt tickets in verschillende waarden inwisselen voor wonderlijke en fantastische prijzen. Wees niet verlegen, probeer het eens!",
+   "c": "Alsjeblieft, alsjeblieft! Een prijs die een $gkoning:koningin; waardig is! Gefeliciteerd, mijn vriend!$B$BHeb je nog meer tickets die je wilt inleveren? Laat het me dan weten! Zolang de Darkmoon Faire hier is, wissel ik je tickets in.",
+   "g": [
+    [
+     "Kom erbij",
+     "Step right up"
+    ],
+    [
+     "inwisselen",
+     "to redeem, exchange"
+    ],
+    [
+     "waarden",
+     "denominations, values (waarde)"
+    ],
+    [
+     "wonderlijke",
+     "wondrous (wonderlijk)"
+    ],
+    [
+     "verlegen",
+     "shy"
+    ],
+    [
+     "waardig",
+     "worthy, fit for"
+    ],
+    [
+     "Gefeliciteerd",
+     "Congratulations"
+    ],
+    [
+     "inleveren",
+     "to hand in, turn in"
+    ],
+    [
+     "Zolang",
+     "as long as"
+    ],
+    [
+     "wissel ik",
+     "I redeem (inwisselen)"
+    ]
+   ]
+  },
+  "7932": {
+   "t": "12 tickets - Lesser Darkmoon Prize",
+   "p": "Kom erbij, kom erbij! Heb je tickets van de Darkmoon Faire die je wilt inwisselen? Zeg het maar! Je kunt tickets in verschillende waarden inwisselen voor wonderlijke en fantastische prijzen. Wees niet verlegen, probeer het eens!",
+   "c": "Alsjeblieft, alsjeblieft! Een prijs die een $gkoning:koningin; waardig is! Gefeliciteerd, mijn vriend!$B$BHeb je nog meer tickets die je wilt inleveren? Laat het me dan weten! Zolang de Darkmoon Faire hier is, wissel ik je tickets in.",
+   "g": [
+    [
+     "Kom erbij",
+     "Step right up"
+    ],
+    [
+     "inwisselen",
+     "to redeem, exchange"
+    ],
+    [
+     "waarden",
+     "denominations, values (waarde)"
+    ],
+    [
+     "wonderlijke",
+     "wondrous (wonderlijk)"
+    ],
+    [
+     "verlegen",
+     "shy"
+    ],
+    [
+     "waardig",
+     "worthy, fit for"
+    ],
+    [
+     "Gefeliciteerd",
+     "Congratulations"
+    ],
+    [
+     "inleveren",
+     "to hand in, turn in"
+    ],
+    [
+     "Zolang",
+     "as long as"
+    ],
+    [
+     "wissel ik",
+     "I redeem (inwisselen)"
+    ]
+   ]
+  },
+  "7933": {
+   "t": "40 tickets - Greater Darkmoon Prize",
+   "p": "Kom erbij, kom erbij! Heb je tickets van de Darkmoon Faire die je wilt inwisselen? Zeg het maar! Je kunt tickets in verschillende waarden inwisselen voor wonderlijke en fantastische prijzen. Wees niet verlegen, probeer het eens!",
+   "c": "Alsjeblieft, alsjeblieft! Een prijs die een $gkoning:koningin; waardig is! Gefeliciteerd, mijn vriend!$B$BHeb je nog meer tickets die je wilt inleveren? Laat het me dan weten! Zolang de Darkmoon Faire hier is, wissel ik je tickets in.",
+   "g": [
+    [
+     "Kom erbij",
+     "Step right up"
+    ],
+    [
+     "inwisselen",
+     "to redeem, exchange"
+    ],
+    [
+     "waarden",
+     "denominations, values (waarde)"
+    ],
+    [
+     "wonderlijke",
+     "wondrous (wonderlijk)"
+    ],
+    [
+     "verlegen",
+     "shy"
+    ],
+    [
+     "waardig",
+     "worthy, fit for"
+    ],
+    [
+     "Gefeliciteerd",
+     "Congratulations"
+    ],
+    [
+     "inleveren",
+     "to hand in, turn in"
+    ],
+    [
+     "Zolang",
+     "as long as"
+    ],
+    [
+     "wissel ik",
+     "I redeem (inwisselen)"
+    ]
+   ]
+  },
+  "7934": {
+   "t": "50 tickets - Darkmoon Storage Box",
+   "p": "Kom erbij, kom erbij! Heb je tickets van de Darkmoon Faire die je wilt inwisselen? Zeg het maar! Je kunt tickets in verschillende waarden inwisselen voor wonderlijke en fantastische prijzen. Wees niet verlegen, probeer het eens!",
+   "c": "Alsjeblieft, alsjeblieft! Een prijs die een $gkoning:koningin; waardig is! Gefeliciteerd, mijn vriend!$B$BHeb je nog meer tickets die je wilt inleveren? Laat het me dan weten! Zolang de Darkmoon Faire hier is, wissel ik je tickets in.",
+   "g": [
+    [
+     "Kom erbij",
+     "Step right up"
+    ],
+    [
+     "inwisselen",
+     "to redeem, exchange"
+    ],
+    [
+     "waarden",
+     "denominations, values (waarde)"
+    ],
+    [
+     "wonderlijke",
+     "wondrous (wonderlijk)"
+    ],
+    [
+     "verlegen",
+     "shy"
+    ],
+    [
+     "waardig",
+     "worthy, fit for"
+    ],
+    [
+     "Gefeliciteerd",
+     "Congratulations"
+    ],
+    [
+     "inleveren",
+     "to hand in, turn in"
+    ],
+    [
+     "Zolang",
+     "as long as"
+    ],
+    [
+     "wissel ik",
+     "I redeem (inwisselen)"
+    ]
+   ]
+  },
+  "7935": {
+   "t": "10 tickets - Last Month's Mutton",
+   "p": "Kom erbij, kom erbij! Heb je tickets van de Darkmoon Faire die je wilt inwisselen? Zeg het maar! Je kunt tickets in verschillende waarden inwisselen voor wonderlijke en fantastische prijzen. Wees niet verlegen, probeer het eens!",
+   "c": "Alsjeblieft, alsjeblieft! Een prijs die een $gkoning:koningin; waardig is! Gefeliciteerd, mijn vriend!$B$BHeb je nog meer tickets die je wilt inleveren? Laat het me dan weten! Zolang de Darkmoon Faire hier is, wissel ik je tickets in.",
+   "g": [
+    [
+     "Kom erbij",
+     "Step right up"
+    ],
+    [
+     "inwisselen",
+     "to redeem, exchange"
+    ],
+    [
+     "waarden",
+     "denominations, values (waarde)"
+    ],
+    [
+     "wonderlijke",
+     "wondrous (wonderlijk)"
+    ],
+    [
+     "verlegen",
+     "shy"
+    ],
+    [
+     "waardig",
+     "worthy, fit for"
+    ],
+    [
+     "Gefeliciteerd",
+     "Congratulations"
+    ],
+    [
+     "inleveren",
+     "to hand in, turn in"
+    ],
+    [
+     "Zolang",
+     "as long as"
+    ],
+    [
+     "wissel ik",
+     "I redeem (inwisselen)"
+    ]
+   ]
+  },
+  "7936": {
+   "t": "50 tickets - Last Year's Mutton",
+   "p": "Kom erbij, kom erbij! Heb je tickets van de Darkmoon Faire die je wilt inwisselen? Zeg het maar! Je kunt tickets in verschillende waarden inwisselen voor wonderlijke en fantastische prijzen. Wees niet verlegen, probeer het eens!",
+   "c": "Alsjeblieft, alsjeblieft! Een prijs die een $gkoning:koningin; waardig is! Gefeliciteerd, mijn vriend!$B$BHeb je nog meer tickets die je wilt inleveren? Laat het me dan weten! Zolang de Darkmoon Faire hier is, wissel ik je tickets in.",
+   "g": [
+    [
+     "Kom erbij",
+     "Step right up"
+    ],
+    [
+     "inwisselen",
+     "to redeem, exchange"
+    ],
+    [
+     "waarden",
+     "denominations, values (waarde)"
+    ],
+    [
+     "wonderlijke",
+     "wondrous (wonderlijk)"
+    ],
+    [
+     "verlegen",
+     "shy"
+    ],
+    [
+     "waardig",
+     "worthy, fit for"
+    ],
+    [
+     "Gefeliciteerd",
+     "Congratulations"
+    ],
+    [
+     "inleveren",
+     "to hand in, turn in"
+    ],
+    [
+     "Zolang",
+     "as long as"
+    ],
+    [
+     "wissel ik",
+     "I redeem (inwisselen)"
+    ]
+   ]
+  },
+  "7940": {
+   "t": "1200 tickets - Orb of the Darkmoon",
+   "p": "Kom erbij, kom erbij! Heb je tickets van de Darkmoon Faire die je wilt inwisselen? Zeg het maar! Je kunt tickets in verschillende waarden inwisselen voor wonderlijke en fantastische prijzen. Wees niet verlegen, probeer het eens!",
+   "c": "Alsjeblieft, alsjeblieft! Een prijs die een $gkoning:koningin; waardig is! Gefeliciteerd, mijn vriend!$B$BHeb je nog meer tickets die je wilt inleveren? Laat het me dan weten! Zolang de Darkmoon Faire hier is, wissel ik je tickets in.",
+   "g": [
+    [
+     "Kom erbij",
+     "Step right up"
+    ],
+    [
+     "inwisselen",
+     "to redeem, exchange"
+    ],
+    [
+     "waarden",
+     "denominations, values (waarde)"
+    ],
+    [
+     "wonderlijke",
+     "wondrous (wonderlijk)"
+    ],
+    [
+     "verlegen",
+     "shy"
+    ],
+    [
+     "waardig",
+     "worthy, fit for"
+    ],
+    [
+     "Gefeliciteerd",
+     "Congratulations"
+    ],
+    [
+     "inleveren",
+     "to hand in, turn in"
+    ],
+    [
+     "Zolang",
+     "as long as"
+    ],
+    [
+     "wissel ik",
+     "I redeem (inwisselen)"
+    ]
+   ]
+  },
+  "7981": {
+   "t": "1200 tickets - Amulet of the Darkmoon",
+   "p": "Kom erbij, kom erbij! Heb je tickets van de Darkmoon Faire die je wilt inwisselen? Zeg het maar! Je kunt tickets in verschillende waarden inwisselen voor wonderlijke en fantastische prijzen. Wees niet verlegen, probeer het eens!",
+   "c": "Alsjeblieft, alsjeblieft! Een prijs die een $gkoning:koningin; waardig is! Gefeliciteerd, mijn vriend!$B$BHeb je nog meer tickets die je wilt inleveren? Laat het me dan weten! Zolang de Darkmoon Faire hier is, wissel ik je tickets in.",
+   "g": [
+    [
+     "Kom erbij",
+     "Step right up"
+    ],
+    [
+     "inwisselen",
+     "to redeem, exchange"
+    ],
+    [
+     "waarden",
+     "denominations, values (waarde)"
+    ],
+    [
+     "wonderlijke",
+     "wondrous (wonderlijk)"
+    ],
+    [
+     "verlegen",
+     "shy"
+    ],
+    [
+     "waardig",
+     "worthy, fit for"
+    ],
+    [
+     "Gefeliciteerd",
+     "Congratulations"
+    ],
+    [
+     "inleveren",
+     "to hand in, turn in"
+    ],
+    [
+     "Zolang",
+     "as long as"
+    ],
+    [
+     "wissel ik",
+     "I redeem (inwisselen)"
+    ]
+   ]
+  },
+  "7937": {
+   "t": "Je fortuin wacht op je...",
+   "d": "\"Je fortuin wacht op je in Eastvale.\"$B$BDe voorspelling die Sayge je gaf, voelt een beetje warm aan. Als je hem stevig vastpakt, zie je een beeld van het Eastvale Logging Camp in Elwynn Forest. Als je beter naar het beeld kijkt, zie je een hooiberg die naast een stal staat.$b",
+   "o": "Reis naar het Eastvale Logging Camp in Elwynn Forest en zoek je fortuin.",
+   "p": "Deze hooiberg lijkt op die uit je visioen.",
+   "c": "Als je snel in de hooiberg zoekt, vind je er een afgesloten kistje in! Het lijkt erop dat je je fortuin hebt gevonden!",
+   "g": [
+    [
+     "fortuin",
+     "fortune"
+    ],
+    [
+     "voorspelling",
+     "fortune, prediction"
+    ],
+    [
+     "vastpakt",
+     "grasp (vastpakken)"
+    ],
+    [
+     "beeld",
+     "image"
+    ],
+    [
+     "visioen",
+     "vision"
+    ],
+    [
+     "afgesloten kistje",
+     "lockbox"
+    ],
+    [
+     "stevig",
+     "firmly"
+    ],
+    [
+     "hooiberg",
+     "haystack"
+    ],
+    [
+     "stal",
+     "stable"
+    ]
+   ]
+  },
+  "7938": {
+   "t": "Je fortuin wacht op je...",
+   "d": "\"Je fortuin wacht op je in de Deadmines.\"$B$BDe voorspelling die Sayge je gaf, voelt een beetje warm aan. Als je hem stevig vastpakt, zie je een beeld van de Deadmines in Moonbrook, het verwoeste gehucht van Westfall. Als je beter naar het beeld kijkt, kronkel je door bochtige gangen tot je bij een glinsterend portaal komt... een portaal dat naar het hart van de mijnen zelf leidt. Als je erdoorheen stapt, verschijnt er uit het niets een vreemde kist.",
+   "o": "Reis naar de Deadmines in Westfall en zoek je fortuin.",
+   "p": "Deze kist lijkt op die uit je visioen...",
+   "c": "Als je snel in de kist zoekt, vind je er een afgesloten kistje in! Het lijkt erop dat je je fortuin hebt gevonden!",
+   "g": [
+    [
+     "fortuin",
+     "fortune"
+    ],
+    [
+     "voorspelling",
+     "fortune, prediction"
+    ],
+    [
+     "vastpakt",
+     "grasp (vastpakken)"
+    ],
+    [
+     "beeld",
+     "image"
+    ],
+    [
+     "visioen",
+     "vision"
+    ],
+    [
+     "afgesloten kistje",
+     "lockbox"
+    ],
+    [
+     "kronkel",
+     "wind, twist (kronkelen)"
+    ],
+    [
+     "bochtige",
+     "twisty (bochtig)"
+    ],
+    [
+     "glinsterend",
+     "shimmering"
+    ],
+    [
+     "portaal",
+     "portal"
+    ],
+    [
+     "uit het niets",
+     "out of nowhere"
+    ],
+    [
+     "verwoeste",
+     "ruined (verwoest)"
+    ],
+    [
+     "gehucht",
+     "hamlet"
+    ],
+    [
+     "mijnen",
+     "mines (mijn)"
+    ]
+   ]
+  },
+  "7944": {
+   "t": "Je fortuin wacht op je...",
+   "d": "\"Je fortuin wacht op je in Wailing Caverns.\"$B$BDe voorspelling die Sayge je gaf, voelt een beetje warm aan. Als je hem stevig vastpakt, zie je een beeld van een grot ten zuidwesten van de Crossroads in de Barrens. Als je beter naar het beeld kijkt, kronkel je door bochtige gangen tot je bij een glinsterend portaal komt... een portaal dat naar het hart van de grotten zelf leidt. Als je erdoorheen stapt, verschijnt er uit het niets een vreemde kist.$b",
+   "o": "Reis naar de Wailing Caverns in de Barrens en zoek je fortuin.",
+   "p": "Deze kist lijkt op die uit je visioen...",
+   "c": "Als je snel in de kist zoekt, vind je er een afgesloten kistje in! Het lijkt erop dat je je fortuin hebt gevonden!",
+   "g": [
+    [
+     "fortuin",
+     "fortune"
+    ],
+    [
+     "voorspelling",
+     "fortune, prediction"
+    ],
+    [
+     "vastpakt",
+     "grasp (vastpakken)"
+    ],
+    [
+     "beeld",
+     "image"
+    ],
+    [
+     "visioen",
+     "vision"
+    ],
+    [
+     "afgesloten kistje",
+     "lockbox"
+    ],
+    [
+     "kronkel",
+     "wind, twist (kronkelen)"
+    ],
+    [
+     "bochtige",
+     "twisty (bochtig)"
+    ],
+    [
+     "glinsterend",
+     "shimmering"
+    ],
+    [
+     "portaal",
+     "portal"
+    ],
+    [
+     "uit het niets",
+     "out of nowhere"
+    ],
+    [
+     "ten zuidwesten van",
+     "to the southwest of"
+    ],
+    [
+     "grotten",
+     "caverns (grot)"
+    ]
+   ]
+  },
+  "7945": {
+   "t": "Je fortuin wacht op je...",
+   "d": "\"Je fortuin wacht op je bij Palemane Rock.\"$B$BDe voorspelling die Sayge je gaf, voelt een beetje warm aan. Als je hem stevig vastpakt, zie je een beeld van Palemane Rock in Mulgore. Als je beter naar het beeld kijkt, zie je een boomstronk die vlak bij de ingang van de grot staat.$b",
+   "o": "Reis naar Palemane Rock in Mulgore en zoek je fortuin.",
+   "p": "Deze boomstronk lijkt op die uit je visioen.",
+   "c": "Als je snel in de boomstronk zoekt, vind je er een afgesloten kistje in! Het lijkt erop dat je je fortuin hebt gevonden!",
+   "g": [
+    [
+     "fortuin",
+     "fortune"
+    ],
+    [
+     "voorspelling",
+     "fortune, prediction"
+    ],
+    [
+     "vastpakt",
+     "grasp (vastpakken)"
+    ],
+    [
+     "beeld",
+     "image"
+    ],
+    [
+     "visioen",
+     "vision"
+    ],
+    [
+     "afgesloten kistje",
+     "lockbox"
+    ],
+    [
+     "stevig",
+     "firmly"
+    ],
+    [
+     "boomstronk",
+     "tree stump"
+    ],
+    [
+     "ingang",
+     "entrance"
+    ]
+   ]
+  },
+  "7939": {
+   "t": "Meer Dense Grinding Stones",
+   "p": "$N, bedankt voor alle hulp die je me hebt gegeven. Ik kan je echt niet genoeg bedanken!$B$BIk heb niet meer zo veel nodig... maar als je me meer Dense Grinding Stones brengt, heb ik nog steeds Darkmoon Faire-tickets voor je.",
+   "c": "Heel erg bedankt, $N. Hier zijn je Darkmoon Faire-tickets!",
+   "g": [
+    [
+     "genoeg",
+     "enough"
+    ],
+    [
+     "nog steeds",
+     "still"
+    ],
+    [
+     "bedanken",
+     "to thank"
+    ],
+    [
+     "hulp",
+     "help"
+    ],
+    [
+     "gegeven",
+     "given (geven)"
+    ]
+   ]
+  },
+  "7941": {
+   "t": "Meer armor kits",
+   "p": "$N, ik moet je bedanken voor al je hulp. Ik heb genoeg voorraad, en dat komt voor een groot deel door jouw moeite. Maar als je me meer armor kits wilt brengen, ruil ik ze graag voor Darkmoon Faire-tickets.",
+   "c": "Alsjeblieft, $N. Een eerlijke ruil. Veel plezier.",
+   "g": [
+    [
+     "voorraad",
+     "supplies, stock"
+    ],
+    [
+     "voor een groot deel",
+     "to a large extent"
+    ],
+    [
+     "moeite",
+     "effort"
+    ],
+    [
+     "ruil",
+     "trade (ruilen)"
+    ],
+    [
+     "eerlijke",
+     "fair (eerlijk)"
+    ],
+    [
+     "Veel plezier",
+     "Enjoy"
+    ]
+   ]
+  },
+  "7943": {
+   "t": "Meer vleermuisogen",
+   "p": "$N, de attractie die ik ontwerp wordt het engste evenement sinds Gnomeregan werd overspoeld! En dat komt grotendeels door jou en alle snuisterijen die je me hebt gebracht. Heel, heel erg bedankt!$B$BVeel meer heb ik niet nodig, maar... als je me meer Evil Bat Eyes van de vleermuizen in de Eastern Plaguelands brengt... heb ik misschien nog meer Darkmoon Faire-tickets voor je.",
+   "c": "Nogmaals bedankt, $N. Hier zijn je tickets!",
+   "g": [
+    [
+     "attractie",
+     "attraction"
+    ],
+    [
+     "ontwerp",
+     "design (ontwerpen)"
+    ],
+    [
+     "engste",
+     "scariest (eng)"
+    ],
+    [
+     "evenement",
+     "event"
+    ],
+    [
+     "overspoeld",
+     "overrun (overspoelen)"
+    ],
+    [
+     "grotendeels",
+     "largely"
+    ],
+    [
+     "snuisterijen",
+     "baubles (snuisterij)"
+    ],
+    [
+     "vleermuizen",
+     "bats (vleermuis)"
+    ],
+    [
+     "Nogmaals",
+     "again, once more"
+    ]
+   ]
+  },
+  "8222": {
+   "t": "Gloeiend schorpioenbloed",
+   "p": "In al mijn tijd op de Faire heb ik veel over klanten geleerd. Hier is een van die pareltjes van wijsheid: klanten houden van spullen die gloeien! Het maakt niet uit wat het is. Je kunt een gebroken stoelpoot laten gloeien, en elk kind komt van kilometers ver om er een te halen!$B$BDus, $N, ik heb Glowing Scorpid Blood nodig. Je vindt het bij de schorpioenen van Silithus, de Blasted Lands of de Burning Steppes.",
+   "c": "Goed werk, $N! Heel erg bedankt! Ik ga verf maken van dit bloed en allerlei goedkope rommel in gloeiende schatten veranderen!$B$BHier zijn je tickets, en nogmaals bedankt!",
+   "g": [
+    [
+     "klanten",
+     "customers (klant)"
+    ],
+    [
+     "pareltjes van wijsheid",
+     "nuggets of wisdom"
+    ],
+    [
+     "spullen",
+     "stuff, things"
+    ],
+    [
+     "gloeien",
+     "to glow"
+    ],
+    [
+     "Het maakt niet uit",
+     "It doesn't matter"
+    ],
+    [
+     "stoelpoot",
+     "chair leg"
+    ],
+    [
+     "schorpioenen",
+     "scorpids, scorpions (schorpioen)"
+    ],
+    [
+     "verf",
+     "paint"
+    ],
+    [
+     "allerlei",
+     "all kinds of"
+    ],
+    [
+     "goedkope",
+     "cheap (goedkoop)"
+    ],
+    [
+     "schatten",
+     "treasures (schat)"
+    ]
+   ]
+  },
+  "8223": {
+   "t": "Meer gloeiend schorpioenbloed",
+   "p": "Dat schorpioenbloed werkt geweldig, $N! Het is verbazend hoe een beetje glitter en glans een gewilde snuisterij kan maken van iets wat anders gewoon rommel is. De klanten zijn er dol op, en liefde is waar het allemaal om draait, vind je niet...$B$BJe hebt me erg geholpen, $N. Ik heb niet echt meer Glowing Scorpid Blood nodig, maar als je me meer brengt, ruil ik toch wat tickets met je.",
+   "c": "Nogmaals bedankt, $N. Hier zijn je tickets!",
+   "g": [
+    [
+     "schorpioenbloed",
+     "scorpid blood"
+    ],
+    [
+     "verbazend",
+     "amazing"
+    ],
+    [
+     "glans",
+     "shine"
+    ],
+    [
+     "gewilde",
+     "prized, sought-after (gewild)"
+    ],
+    [
+     "snuisterij",
+     "bauble"
+    ],
+    [
+     "anders",
+     "otherwise"
+    ],
+    [
+     "dol op",
+     "crazy about, love"
+    ],
+    [
+     "waar het allemaal om draait",
+     "what it's all about"
+    ],
+    [
+     "toch",
+     "still, anyway"
+    ]
+   ]
+  },
+  "5141": {
+   "t": "Dragonscale Leatherworking",
+   "d": "Dragonscale Leatherworking is niet makkelijk, maar het levert heel veel op. Ik leer je hoe je dit fijne maliënpantser maakt, maar alleen als je akkoord gaat met bepaalde voorwaarden.$B$BAls je dit pad kiest, beloof je dat je nooit Elemental of Tribal Leatherworking leert; aan de top van het vak is er maar plaats voor één van de drie. Verder wil ik een paar voorbeelden van je beste werk met scorpid-pantser zien. Tot slot wil ik bewijs dat je het basismateriaal van het vak kunt krijgen: de schubben van het drakenvolk.",
+   "o": "Breng 2 Tough Scorpid Breastplates, 2 Tough Scorpid Gloves en 10 Worn Dragonscales naar Peter Galen in Azshara.$B$BMet deze opdracht krijg je toegang tot de kunst van Dragonscale Leatherworking.$B$BAls je deze opdracht voltooit, kun je Elemental Leatherworking en Tribal Leatherworking niet meer leren; zorg dat dit het pad is dat je wilt volgen voordat je dat doet.",
+   "p": "Als je klaar bent voor een blijvende beslissing en Dragonscale-leerbewerker wilt worden, dan neem ik je graag aan als leerling. Breng me gewoon de dingen waar ik om vroeg, dan beginnen we met je opleiding.",
+   "c": "Dat moet ik je nageven: er is een sterke wil voor nodig om zo'n blijvende beslissing te nemen als jij net hebt gedaan. Ik verzeker je dat Dragonscale Leatherworking een winstgevend en lonend pad voor je zal blijken.$B$BWil je later verder trainen in deze kunst, spreek me dan gewoon aan. Dan geef ik je alle kennis die je nog niet hebt geleerd.",
+   "g": [
+    [
+     "levert heel veel op",
+     "is extremely rewarding (opleveren)"
+    ],
+    [
+     "maliënpantser",
+     "mail armor"
+    ],
+    [
+     "voorwaarden",
+     "conditions (voorwaarde)"
+    ],
+    [
+     "vak",
+     "craft, trade"
+    ],
+    [
+     "voorbeelden",
+     "samples (voorbeeld)"
+    ],
+    [
+     "basismateriaal",
+     "staple material"
+    ],
+    [
+     "schubben",
+     "scales (schub)"
+    ],
+    [
+     "drakenvolk",
+     "dragonkin"
+    ],
+    [
+     "voltooit",
+     "complete (voltooien)"
+    ],
+    [
+     "blijvende",
+     "permanent (blijvend)"
+    ],
+    [
+     "leerbewerker",
+     "leatherworker"
+    ],
+    [
+     "nageven",
+     "to grant, give credit"
+    ],
+    [
+     "verzeker",
+     "assure (verzekeren)"
+    ],
+    [
+     "winstgevend",
+     "profitable"
+    ],
+    [
+     "lonend",
+     "rewarding"
+    ]
+   ]
+  },
+  "5143": {
+   "t": "Tribal Leatherworking",
+   "d": "Om Tribal Leatherworking te leren, moet je begrijpen hoe oorspronkelijk de natuur echt is. Ik weet dat je de kunst van pantser van wild leather al beheerst, en ik wil je opleiding graag afmaken.$B$BWeet dit, $c: als je dit pad kiest, beloof je dat je nooit Dragonscale of Elemental Leatherworking leert; er is maar plaats voor één van de drie kunsten. Breng me verder de beste voorbeelden van je pantser van wild leather. Vanaf daar beginnen we aan je meesterschap.",
+   "o": "Breng een Wild Leather Vest en een Wild Leather Helmet naar Caryssia Moonhunter in Feralas.$B$BMet deze opdracht krijg je toegang tot de kunst van Tribal Leatherworking.$B$BAls je deze opdracht voltooit, kun je Dragonscale Leatherworking en Elemental Leatherworking niet meer leren; zorg dat dit het pad is dat je wilt volgen voordat je dat doet.",
+   "p": "De natuur is een kracht die je tevreden moet stellen voordat je kunt hopen te leren hoe je haar wil in je leren kledingstukken buigt. Breng me je offer aan deze kracht, en ik zorg ervoor dat je gehoord wordt.",
+   "c": "Je hebt je beste offers gegeven, en de natuur laat je haar binnenkort naar je wil buigen. Zodra ik mijn lessen heb afgerond, wordt je werk zelf een natuurkracht.$B$BWil je later verder trainen in deze kunst, spreek me dan gewoon aan. Dan geef ik je alle kennis die je nog niet hebt geleerd.",
+   "g": [
+    [
+     "oorspronkelijk",
+     "primal, original"
+    ],
+    [
+     "beheerst",
+     "have mastered (beheersen)"
+    ],
+    [
+     "afmaken",
+     "to finish, complete"
+    ],
+    [
+     "meesterschap",
+     "mastery"
+    ],
+    [
+     "voltooit",
+     "complete (voltooien)"
+    ],
+    [
+     "tevreden moet stellen",
+     "must appease (tevredenstellen)"
+    ],
+    [
+     "kledingstukken",
+     "garments (kledingstuk)"
+    ],
+    [
+     "buigt",
+     "bend (buigen)"
+    ],
+    [
+     "offer",
+     "offering, sacrifice"
+    ],
+    [
+     "afgerond",
+     "finished (afronden)"
+    ],
+    [
+     "natuurkracht",
+     "force of nature"
+    ]
+   ]
+  },
+  "5144": {
+   "t": "Elemental Leatherworking",
+   "d": "Elemental Leatherworking is wat ik ken. Als je bereid bent je geest te openen voor de grotere krachten van de materie, deel ik alles met je wat er te leren valt.$B$BWeet dit, $c: als je dit pad kiest, beloof je dat je nooit Dragonscale of Tribal Leatherworking leert; er is maar plaats voor één van de drie kunsten. Verder wil ik goed bewijs dat je in harmonie bent met de elementen van de natuur. Breng me daarom de zuiverste essenties van vuur, water, aarde en wind.",
+   "o": "Breng 2 Heart of Fire, 2 Globe of Water, 2 Core of Earth en 2 Breath of Wind naar Sarah Tanner in Searing Gorge.$B$BMet deze opdracht krijg je toegang tot de kunst van Elemental Leatherworking.$B$BAls je deze opdracht voltooit, kun je Dragonscale Leatherworking en Tribal Leatherworking niet meer leren; zorg dat dit het pad is dat je wilt volgen voordat je dat doet.",
+   "p": "Dit soort pantser van leer maken vraagt geduld en toewijding. Als je je lot eenmaal aan de elementen hebt verbonden, kun je ze nooit meer de rug toekeren. Breng me bewijs dat je het waard bent, dan beginnen we.",
+   "c": "Je hebt je lot verbonden, en de elementen aanvaarden je. Zodra ik mijn lessen heb afgerond, zul je de wil hebben om de beste leren kleding te maken.$B$BWil je later verder trainen in deze kunst, spreek me dan gewoon aan. Dan geef ik je alle kennis die je nog niet hebt geleerd.",
+   "g": [
+    [
+     "bereid",
+     "willing"
+    ],
+    [
+     "materie",
+     "substance, matter"
+    ],
+    [
+     "in harmonie",
+     "in tune"
+    ],
+    [
+     "zuiverste",
+     "purest (zuiver)"
+    ],
+    [
+     "essenties",
+     "essences (essentie)"
+    ],
+    [
+     "geduld",
+     "patience"
+    ],
+    [
+     "toewijding",
+     "dedication"
+    ],
+    [
+     "je lot verbonden",
+     "cast your lot (verbinden)"
+    ],
+    [
+     "de rug toekeren",
+     "to turn your back on"
+    ],
+    [
+     "aanvaarden",
+     "accept"
+    ],
+    [
+     "afgerond",
+     "finished (afronden)"
+    ]
+   ]
+  },
+  "7838": {
+   "t": "Grootmeester van de Arena",
+   "p": "Halt, landrot! Breng me 12 sieraden van de Arena Master, dan word je Grootmeester van de Gurubashi Arena! Arrrr!",
+   "c": "Veel bloed heb je op de vloer van de Arena vergoten, en ik ben blij dat ik je Grootmeester van de Arena mag noemen!",
+   "g": [
+    [
+     "Halt",
+     "Avast, stop"
+    ],
+    [
+     "landrot",
+     "landlubber"
+    ],
+    [
+     "sieraden",
+     "trinkets (sieraad)"
+    ],
+    [
+     "Grootmeester",
+     "Grandmaster"
+    ],
+    [
+     "vloer",
+     "floor"
+    ],
+    [
+     "vergoten",
+     "spilt (vergieten)"
+    ]
+   ]
+  },
+  "3374": {
+   "t": "De essentie van Eranikus",
+   "d": "Je gebruikt de Oathstone, en Itharius spreekt via de steen direct tot je geest.$B$B\"Als je de taak in deze Oathstone aanneemt, beloof je mijn doel te steunen, en het doel van Ysera's Dragonflight: de verdorven ziel van Eranikus verlossen. Het eerste offer, een van de vele die jij en ik ongetwijfeld zullen brengen, is dat je mij de edelsteen geeft. Die steen houdt het deel van Eranikus' geest gevangen dat nog een vrije wil heeft.\"$B$B\"Doe dit, $N, en samen verlossen we een ziel die het verdient om verlost te worden.\"",
+   "o": "Breng de Oathstone of Ysera's Dragonflight en de Chained Essence of Eranikus naar Itharius in de Swamp of Sorrows. Daar maak je je keuze: help je Ysera's Dragonflight of niet.",
+   "p": "Hier staan we, $N, opnieuw op een kruispunt. Het is tijd voor een nieuwe keuze. Wat kies je, sterveling?",
+   "c": "Je hebt je keuze gemaakt, en zo begint het. Je keuzes waren tot nu toe wat ik de juiste zou noemen. Je daden vanaf nu bepalen of dat zo blijft.",
+   "g": [
+    [
+     "geest",
+     "mind, spirit"
+    ],
+    [
+     "steunen",
+     "to support, aid"
+    ],
+    [
+     "verdorven",
+     "corrupted"
+    ],
+    [
+     "ziel",
+     "soul"
+    ],
+    [
+     "verlossen",
+     "to redeem, deliver"
+    ],
+    [
+     "offer",
+     "sacrifice"
+    ],
+    [
+     "ongetwijfeld",
+     "no doubt"
+    ],
+    [
+     "edelsteen",
+     "gem"
+    ],
+    [
+     "gevangen",
+     "captive, chained"
+    ],
+    [
+     "kruispunt",
+     "crossroads"
+    ],
+    [
+     "sterveling",
+     "mortal"
+    ],
+    [
+     "daden",
+     "deeds (daad)"
+    ],
+    [
+     "bepalen",
+     "determine"
+    ]
+   ]
+  },
+  "3512": {
+   "t": "In Eranikus' eigen woorden",
+   "d": "$N, onze eerste stap is een manier bedenken om via de edelsteen met Eranikus te spreken. Hij ligt nu in een gevaarlijke toestand tussen slaap en dood, verstrikt in een web van nachtmerries. De essentie die je me gaf is zwaar besmet, maar we hebben een kans om hem te bereiken.$B$BReis ver naar de ijzige landen van oostelijk Winterspring en zoek een van onze sterfelijke bondgenoten: Umbranse the Spiritspeaker. Hij is een menselijk medium dat voor de doden spreekt. Eranikus is niet echt dood, maar Umbranse kan ons misschien toch helpen.",
+   "o": "Reis naar het oosten van Winterspring en spreek met Umbranse the Spiritspeaker.",
+   "c": "Itharius deed er wijs aan je naar mij te sturen. Eranikus is niet dood zoals jij de dood begrijpt, maar hij zal ons binnenkort met zijn eigen woorden raad geven. Voorlopig kan ik je echter niet direct helpen... in elk geval nog niet.$b$bIk leen je mijn vaardigheid in het spreken met de doden, maar eerst heb ik de hulp nodig van iemand die, anders dan ik, niet beperkt wordt door de zwakte van de ouderdom. Mijn krachtigste voorspellingsinstrument is tegen mijn wil van me afgepakt. Zonder dat instrument kunnen we Eranikus niet helpen.",
+   "g": [
+    [
+     "bedenken",
+     "to devise, think up"
+    ],
+    [
+     "toestand",
+     "state"
+    ],
+    [
+     "verstrikt",
+     "tangled, twisted"
+    ],
+    [
+     "besmet",
+     "tainted, infected"
+    ],
+    [
+     "ijzige",
+     "icy (ijzig)"
+    ],
+    [
+     "sterfelijke",
+     "mortal (sterfelijk)"
+    ],
+    [
+     "bondgenoten",
+     "allies (bondgenoot)"
+    ],
+    [
+     "medium",
+     "medium (spirit speaker)"
+    ],
+    [
+     "deed er wijs aan",
+     "was wise to"
+    ],
+    [
+     "raad",
+     "advice"
+    ],
+    [
+     "Voorlopig",
+     "for now"
+    ],
+    [
+     "beperkt",
+     "limited (beperken)"
+    ],
+    [
+     "zwakte",
+     "frailty, weakness"
+    ],
+    [
+     "ouderdom",
+     "old age"
+    ],
+    [
+     "voorspellingsinstrument",
+     "augury device"
+    ]
+   ]
+  },
+  "8461": {
+   "t": "De Deadwood in het noorden",
+   "d": "Recht ten zuidwesten van ons ligt een kamp van Deadwood-furbolgs. Het kamp is doordrenkt van verdorvenheid, en ik wil daar een einde aan maken voordat ze een probleem worden.$B$BDe Deadwood-stam is kwaadaardig, maar dat komt door de fel die hun geest vervuilt. Hun vijandigheid is niet echt aangeboren, maar toch kunnen we ze niet helpen. Het maakt me verdrietig dat we tegen onze eigen broeders moeten vechten.$B$BAlsjeblieft, $N, ik vraag je te doen wat er gedaan moet worden. Bespaar me alleen de details; zulke nare beelden maken me veel te veel van streek.",
+   "o": "Nafien wil dat je 6 Deadwood Den Watchers, 6 Deadwood Avengers en 6 Deadwood Shamans doodt. Ga terug naar hem in het noorden van Felwood, bij de ingang van Timbermaw Hold.",
+   "p": "Zodra je het vertrouwen van de Timbermaw wint, weet ik zeker dat we iets voor je kunnen doen. De Timbermaw vergeten hun bondgenoten niet, vooral niet in duistere tijden zoals deze.",
+   "c": "Ik voel dat je hebt gewonnen. Overwinning... zo'n leeg woord, als je bedenkt wat er moest gebeuren. Hoe dan ook, je hebt bewezen dat je ons vertrouwen waard bent.$B$BHet kan even duren voordat de Timbermaw je zonder vijandigheid in de Hold verwelkomen. Toch zal je doorzettingsvermogen elk wantrouwen van mijn broeders over jou langzaam wegnemen. Zolang je ons nooit verraadt en nooit wapens tegen ons opheft, vinden we een gemeenschappelijke basis.",
+   "g": [
+    [
+     "doordrenkt",
+     "permeated, soaked"
+    ],
+    [
+     "verdorvenheid",
+     "corruption"
+    ],
+    [
+     "stam",
+     "tribe"
+    ],
+    [
+     "kwaadaardig",
+     "evil"
+    ],
+    [
+     "vervuilt",
+     "pollutes (vervuilen)"
+    ],
+    [
+     "vijandigheid",
+     "hostility"
+    ],
+    [
+     "aangeboren",
+     "innate"
+    ],
+    [
+     "broeders",
+     "brethren (broeder)"
+    ],
+    [
+     "Bespaar",
+     "spare (besparen)"
+    ],
+    [
+     "van streek",
+     "upset"
+    ],
+    [
+     "vertrouwen",
+     "trust"
+    ],
+    [
+     "Overwinning",
+     "victory"
+    ],
+    [
+     "doorzettingsvermogen",
+     "perseverance"
+    ],
+    [
+     "wantrouwen",
+     "suspicion, distrust"
+    ],
+    [
+     "verraadt",
+     "betray (verraden)"
+    ]
+   ]
+  },
+  "6241": {
+   "t": "Activiteit van de Winterfall",
+   "d": "De Timbermaw blijven graag op zichzelf, $N. We laten mensen die hebben bewezen dat ze te vertrouwen zijn veilig door, maar andere furbolg-stammen proberen we zo veel mogelijk te vermijden.$B$BDe laatste tijd merk ik dat de Winterfall-stam steeds vijandiger tegen ons wordt. Ze lijken in een woedende toestand te zijn, helemaal verteerd door hun eigen angst en haat voor alles wat ze niet begrijpen.$B$BAls je hun aantal kunt verminderen, helpt ons dat enorm, $N.",
+   "o": "Salfa wil dat je 6 Winterfall Totemics, 6 Winterfall Den Watchers en 6 Winterfall Pathfinders doodt.",
+   "p": "We waarderen heel erg wat je voor de Timbermaw hebt gedaan, $N. Als je zo doorgaat, verdien je zeker het vertrouwen en respect van mijn stam.",
+   "c": "Bedankt voor wat je hebt gedaan. Help ons alsjeblieft verder, $N. We hebben maar heel weinig bondgenoten op wie we kunnen rekenen.",
+   "g": [
+    [
+     "op zichzelf",
+     "to themselves"
+    ],
+    [
+     "vermijden",
+     "to avoid"
+    ],
+    [
+     "vijandiger",
+     "more hostile (vijandig)"
+    ],
+    [
+     "woedende",
+     "raging (woedend)"
+    ],
+    [
+     "verteerd",
+     "consumed, engulfed (verteren)"
+    ],
+    [
+     "haat",
+     "hatred"
+    ],
+    [
+     "waarderen",
+     "appreciate"
+    ],
+    [
+     "verdien",
+     "earn (verdienen)"
+    ],
+    [
+     "bondgenoten",
+     "allies (bondgenoot)"
+    ],
+    [
+     "rekenen",
+     "to count, call upon"
+    ],
+    [
+     "verminderen",
+     "to reduce"
+    ]
+   ]
+  },
+  "8464": {
+   "t": "Activiteit van de Winterfall",
+   "d": "De Timbermaw blijven graag op zichzelf, $N. We laten mensen die we vertrouwen veilig door, maar andere furbolg-stammen proberen we zo veel mogelijk te vermijden.$B$BDe laatste tijd wordt de Winterfall-stam steeds vijandiger tegen ons. Ze lijken in een woedende toestand te zijn, helemaal verteerd door hun eigen angst en haat voor alles wat ze niet begrijpen.$B$BIk moet je vragen hun aantal uit te dunnen, zodat de dreiging tegen ons kleiner wordt. Zoek ze op in Winterfall Village, ver ten oosten van hier.",
+   "o": "Salfa wil dat je 8 Winterfall Shaman, 8 Winterfall Den Watchers en 8 Winterfall Ursa doodt. Salfa staat vlak buiten de ingang van Timbermaw Hold in Winterspring.$b",
+   "p": "We waarderen heel erg wat je voor de Timbermaw hebt gedaan, $N. Als je zo doorgaat, verdien je zeker het vertrouwen en respect van mijn stam.",
+   "c": "Bedankt voor wat je hebt gedaan, hoe triest het ook is. Neem dit aan als teken van dank.$B$BIk wil je vragen ons alsjeblieft te blijven helpen, $N. We hebben maar heel weinig bondgenoten op wie we kunnen rekenen. Zonder jouw hulp zouden de dreigingen tegen mijn stam vast te groot zijn om alleen aan te kunnen.",
+   "g": [
+    [
+     "op zichzelf",
+     "to themselves"
+    ],
+    [
+     "vermijden",
+     "to avoid"
+    ],
+    [
+     "vijandiger",
+     "more hostile (vijandig)"
+    ],
+    [
+     "woedende",
+     "raging (woedend)"
+    ],
+    [
+     "verteerd",
+     "consumed, engulfed (verteren)"
+    ],
+    [
+     "haat",
+     "hatred"
+    ],
+    [
+     "waarderen",
+     "appreciate"
+    ],
+    [
+     "verdien",
+     "earn (verdienen)"
+    ],
+    [
+     "bondgenoten",
+     "allies (bondgenoot)"
+    ],
+    [
+     "rekenen",
+     "to count, call upon"
+    ],
+    [
+     "uit te dunnen",
+     "to thin out (uitdunnen)"
+    ],
+    [
+     "dreiging",
+     "threat"
+    ],
+    [
+     "triest",
+     "sad"
+    ],
+    [
+     "teken van dank",
+     "token of thanks"
+    ],
+    [
+     "aan te kunnen",
+     "to handle (aankunnen)"
+    ]
+   ]
+  }
+ },
+ "words": {
+  "berenvachten": "bear pelts (berenvacht)",
+  "dragonscale-leerbewerker": "dragonscale leatherworker",
+  "engs": "scary (eng)",
+  "erdoorheen": "through it",
+  "faire-ticket": "Faire ticket",
+  "faire-tickets": "Faire tickets",
+  "felgekleurde": "brightly coloured, vibrant (felgekleurd)",
+  "furbolg-stammen": "furbolg tribes (stam)",
+  "glitter": "sparkle, glitter",
+  "rekken": "to stretch",
+  "stapt": "step (stappen)",
+  "vleermuisogen": "bat eyes (vleermuisoog)",
+  "wissel": "exchange, redeem (wisselen)"
+ },
+ "terms": {
+  "furbolg": "furbolg: a bear-like people from the Warcraft world",
+  "fel": "fel: demonic, corrupting magic in the Warcraft world"
+ }
+}
