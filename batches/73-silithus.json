@@ -1,0 +1,1749 @@
+{
+  "quests": {
+    "8323": {
+      "t": "Ware gelovigen",
+      "d": "Nu ik het Twilight Lexicon in mijn bezit heb, wil ik je om een kleine gunst vragen.$B$BMijn vroegere organisatie verspreidt elke maand een geheim, gecodeerd bulletin.$B$BAls ze vooruitgang boeken bij hun zoektocht naar mij, of als ze de zoektocht stopzetten, wordt dat bekendgemaakt in de True Believer.$B$BDie informatie is natuurlijk waardevol voor mij, maar het blad bevat ook andere nuttige informatie die ik met je kan delen. Breng me alle gecodeerde teksten die je bij leden van de Twilight's Hammer vindt.",
+      "o": "Hermit Ortell wil dat je hem 10 Encrypted Twilight Texts brengt.",
+      "p": "Heb je versleutelde teksten gevonden? Ik ben erg benieuwd naar de True Believer van deze maand.",
+      "c": "Uitstekend! Ik ga ze zo snel mogelijk ontcijferen. Als ik iets interessants vind, zorg ik er op een of andere manier voor dat de informatie bij je komt.",
+      "g": [
+        [
+          "gelovigen",
+          "believers (gelovige)"
+        ],
+        [
+          "in mijn bezit",
+          "in my possession"
+        ],
+        [
+          "gunst",
+          "favour"
+        ],
+        [
+          "vroegere",
+          "former (vroeger)"
+        ],
+        [
+          "verspreidt",
+          "circulates (verspreiden)"
+        ],
+        [
+          "gecodeerd",
+          "encoded"
+        ],
+        [
+          "vooruitgang boeken",
+          "make progress"
+        ],
+        [
+          "stopzetten",
+          "to call off, stop"
+        ],
+        [
+          "bekendgemaakt",
+          "published, announced (bekendmaken)"
+        ],
+        [
+          "versleutelde",
+          "encrypted (versleuteld)"
+        ],
+        [
+          "benieuwd",
+          "curious"
+        ],
+        [
+          "ontcijferen",
+          "to decipher, decode"
+        ]
+      ]
+    },
+    "8324": {
+      "t": "Nog steeds gelovig",
+      "p": "Heb je nog meer versleutelde teksten gevonden? Breng me een flinke stapel, want dit ontcijferwerk kost wat tijd.",
+      "c": "Uitstekend! Ik kan niet wachten om ze te lezen. Blijf de versleutelde teksten alsjeblieft hierheen brengen als je ze vindt.",
+      "g": [
+        [
+          "gelovig",
+          "believing, faithful"
+        ],
+        [
+          "versleutelde",
+          "encrypted (versleuteld)"
+        ],
+        [
+          "flinke",
+          "good-sized, hefty (flink)"
+        ],
+        [
+          "stapel",
+          "pile, stack"
+        ],
+        [
+          "ontcijferwerk",
+          "decoding work"
+        ]
+      ]
+    },
+    "8279": {
+      "t": "Het Twilight Lexicon",
+      "d": "De Twilight's Hammer is niet vriendelijk voor wie hun rijen verlaat. Tot op de dag van vandaag jagen ze op mij alsof ik een beest ben! Het spreekt vanzelf: een vijand van hen is een vriend van mij!$B$BOm dit tablet te ontcijferen, heb ik het boek nodig waarmee hun schrijvers geheime berichten coderen: het Twilight Lexicon. Het is zo'n belangrijk hulpmiddel dat ze de drie hoofdstukken op verschillende plaatsen bewaren! De officieren aan wie het Lexicon is toevertrouwd, heten Twilight Keepers. Zoek ze in de kampen van de Twilight's Hammer.",
+      "o": "Breng de drie hoofdstukken van het Twilight Lexicon naar Hermit Ortell in Silithus.",
+      "p": "Wie is daar? O, jij bent het! Heb je alle hoofdstukken van het Lexicon al gevonden?",
+      "c": "Ja! Dit zijn de delen van het boek! Laten we dan beginnen, $N.$B$BVervang elk derde woord door woorden uit het tweede hoofdstuk... en vervang dan om het andere woord door woorden uit het eerste hoofdstuk... Wacht, heb ik het nu omgedraaid?",
+      "g": [
+        [
+          "rijen",
+          "ranks (rij)"
+        ],
+        [
+          "tot op de dag van vandaag",
+          "to this day"
+        ],
+        [
+          "Het spreekt vanzelf",
+          "Needless to say"
+        ],
+        [
+          "tablet",
+          "(stone) tablet"
+        ],
+        [
+          "ontcijferen",
+          "to decipher"
+        ],
+        [
+          "schrijvers",
+          "scribes (schrijver)"
+        ],
+        [
+          "coderen",
+          "to encode"
+        ],
+        [
+          "hulpmiddel",
+          "tool"
+        ],
+        [
+          "hoofdstukken",
+          "chapters (hoofdstuk)"
+        ],
+        [
+          "toevertrouwd",
+          "entrusted (toevertrouwen)"
+        ],
+        [
+          "om het andere woord",
+          "every other word"
+        ],
+        [
+          "omgedraaid",
+          "reversed, backwards (omdraaien)"
+        ]
+      ]
+    },
+    "8286": {
+      "t": "Wat morgen brengt",
+      "d": "De omhelzing van de dood had mij bijna overwonnen toen hij tussenbeide kwam. Hij ademde maar één keer over mijn verminkte lichaam. Daarna wachtte hij geduldig tot het zand van de tijd mijn wonden zuiverde.$B$B\"Voor altijd zul je blijven, als het moet,\" zei hij. Met die woorden werd ik gebonden als Watcher.$B$BKijk nu naar de woestijn. De tweede oorlog staat voor de deur. Je moet de rustplaats van de Bronze zoeken. Ga naar de Caverns of Time en kijk of de meester is teruggekeerd. Ik moet het zeker weten voordat ik verder kan.",
+      "o": "Ga naar de Caverns of Time in Tanaris en zoek Anachronos, Brood of Nozdormu.",
+      "p": "Is Anachronos teruggekeerd?",
+      "c": "Het is zoals het moet zijn - de grote is opgestaan. Mijn wacht komt ten einde...",
+      "e": "Ontdek de Brood of Nozdormu.",
+      "g": [
+        [
+          "omhelzing",
+          "embrace"
+        ],
+        [
+          "overwonnen",
+          "overcome (overwinnen)"
+        ],
+        [
+          "tussenbeide kwam",
+          "intervened (tussenbeide komen)"
+        ],
+        [
+          "verminkte",
+          "maimed (verminkt)"
+        ],
+        [
+          "geduldig",
+          "patiently"
+        ],
+        [
+          "zuiverde",
+          "cleansed (zuiveren)"
+        ],
+        [
+          "gebonden",
+          "bound (binden)"
+        ],
+        [
+          "staat voor de deur",
+          "is upon us, is at hand"
+        ],
+        [
+          "rustplaats",
+          "resting place"
+        ],
+        [
+          "teruggekeerd",
+          "returned (terugkeren)"
+        ],
+        [
+          "opgestaan",
+          "risen (opstaan)"
+        ],
+        [
+          "komt ten einde",
+          "comes to an end"
+        ]
+      ]
+    },
+    "8287": {
+      "t": "Een verschrikkelijk doel",
+      "d": "Oké, hier is het... een behoorlijk waardevol stuk informatie, moet ik zeggen! Ik heb de troepen van de Cenarion Circle in Silithus zien aankomen. Ze willen de Twilight's Hammer verdrijven, nietwaar? Dit zal helpen.$B$BBreng dit perkament naar hun leider, Commander Mar'alith. Binnenkort is de Twilight's Hammer verslagen en ben ik voorgoed buiten hun bereik!",
+      "o": "Breng het Decoded Tablet Parchment naar Commander Mar'alith.",
+      "p": "Wat breng je me, $N?",
+      "c": "Dit is werkelijk heel interessante informatie, $N. Het werpt licht op de aanwezigheid van de Twilight's Hammer in Silithus en zal ons zonder twijfel helpen in onze strijd tegen hen. Je inspanningen worden royaal beloond, $C.",
+      "g": [
+        [
+          "behoorlijk",
+          "quite, pretty"
+        ],
+        [
+          "verdrijven",
+          "to drive out"
+        ],
+        [
+          "nietwaar",
+          "isn't it, don't they"
+        ],
+        [
+          "perkament",
+          "parchment"
+        ],
+        [
+          "voorgoed",
+          "for good"
+        ],
+        [
+          "bereik",
+          "reach, grasp"
+        ],
+        [
+          "werpt licht op",
+          "sheds light on (licht werpen op)"
+        ],
+        [
+          "aanwezigheid",
+          "presence"
+        ],
+        [
+          "zonder twijfel",
+          "undoubtedly"
+        ],
+        [
+          "inspanningen",
+          "efforts (inspanning)"
+        ],
+        [
+          "royaal",
+          "handsomely, generously"
+        ]
+      ]
+    },
+    "8301": {
+      "t": "Het pad van de rechtvaardigen",
+      "d": "De Brood of Nozdormu wantrouwt de lagere rassen van nature. Het is waar dat je mij hebt bewezen dat je de aanleg hebt om een held te kunnen worden. Maar nu is het tijd om dat aan mijn meester te bewijzen.$B$BHive'Ashi, Hive'Zora, Hive'Regal: ze krioelen allemaal van activiteit en ze zijn allemaal een bedreiging voor ons bestaan. Dood silithid bij deze nesten en neem van hen een fragment van hun schild. Als je niets meer kunt dragen, kom dan terug bij mij. Dan zal ik je vastberadenheid versterken.",
+      "o": "Verzamel 200 Silithid Carapace Fragments en keer terug naar Baristolth.",
+      "p": "Hun wantrouwen tegenover de sterfelijke rassen heeft een lange geschiedenis. Maar helaas, dat verhaal kan de Brood beter zelf vertellen als de tijd rijp is.",
+      "c": "Je bent niet alleen, held. Ik geef je nu het vermogen om anderen aan te stellen als plaatsvervangers die je helpen bij je opdracht. Als je de kampioen van je volk wilt zijn, heb je hulp nodig bij je taken en plichten.",
+      "g": [
+        [
+          "rechtvaardigen",
+          "the righteous (rechtvaardige)"
+        ],
+        [
+          "wantrouwt",
+          "distrusts (wantrouwen)"
+        ],
+        [
+          "van nature",
+          "naturally, by nature"
+        ],
+        [
+          "aanleg",
+          "makings, aptitude"
+        ],
+        [
+          "krioelen",
+          "swarm, teem (krioelen)"
+        ],
+        [
+          "bedreiging",
+          "threat"
+        ],
+        [
+          "bestaan",
+          "existence"
+        ],
+        [
+          "schild",
+          "shell, carapace"
+        ],
+        [
+          "vastberadenheid",
+          "resolve, determination"
+        ],
+        [
+          "sterfelijke",
+          "mortal (sterfelijk)"
+        ],
+        [
+          "als de tijd rijp is",
+          "when the time is right"
+        ],
+        [
+          "vermogen",
+          "ability, power"
+        ],
+        [
+          "aan te stellen",
+          "to appoint (aanstellen)"
+        ],
+        [
+          "plaatsvervangers",
+          "deputies (plaatsvervanger)"
+        ],
+        [
+          "plichten",
+          "duties (plicht)"
+        ]
+      ]
+    },
+    "8302": {
+      "t": "De hand van de rechtvaardigen",
+      "d": "Kies je plaatsvervangers verstandig, sterveling. Elke keer dat je terugkomt met een voltooide taak, mag je een nieuwe plaatsvervanger kiezen.$B$BDat gezegd hebbende: ik heb meer schildfragmenten nodig. Verspil geen tijd!",
+      "o": "Verzamel 200 Silithid Carapace Fragments en keer terug naar Baristolth.",
+      "p": "Misschien werkt heel Cenarion Hold op een dag onder jouw bevel.",
+      "c": "Goed gedaan, held. Je krijgt nu het vermogen om nog een Agent of Nozdormu als plaatsvervanger aan te stellen.",
+      "g": [
+        [
+          "rechtvaardigen",
+          "the righteous (rechtvaardige)"
+        ],
+        [
+          "plaatsvervangers",
+          "deputies (plaatsvervanger)"
+        ],
+        [
+          "verstandig",
+          "wisely"
+        ],
+        [
+          "sterveling",
+          "mortal"
+        ],
+        [
+          "voltooide",
+          "completed (voltooid)"
+        ],
+        [
+          "Dat gezegd hebbende",
+          "With that said"
+        ],
+        [
+          "schildfragmenten",
+          "carapace fragments (schildfragment)"
+        ],
+        [
+          "bevel",
+          "command"
+        ],
+        [
+          "vermogen",
+          "ability"
+        ],
+        [
+          "aan te stellen",
+          "to appoint, deputize (aanstellen)"
+        ]
+      ]
+    },
+    "8303": {
+      "t": "Anachronos",
+      "d": "Het is tijd, $N.$B$BIk moet me verontschuldigen dat ik zoveel geheim heb gehouden. Er zijn overal vijanden, zelfs vlak onder onze neus. Lees alsjeblieft uit dit boek en leer. Neem de kennis die ik je geef en zoek onze meester op.",
+      "o": "Zoek Anachronos op bij de Caverns of Time in Tanaris.",
+      "c": "Jij bent de hoop van Kalimdor, $N.",
+      "g": [
+        [
+          "verontschuldigen",
+          "to apologize"
+        ],
+        [
+          "geheim gehouden",
+          "kept secret (geheimhouden)"
+        ],
+        [
+          "vlak onder onze neus",
+          "right under our noses"
+        ],
+        [
+          "kennis",
+          "knowledge"
+        ],
+        [
+          "zoek ... op",
+          "seek out (opzoeken)"
+        ],
+        [
+          "hoop",
+          "hope"
+        ]
+      ]
+    },
+    "8304": {
+      "t": "Liefste Natalia",
+      "d": "Mijn lieve Natalia is vermist.$B$BEerlijk gezegd gedroeg ze zich al weken vreemd voordat ze verdween. Meer dan eens betrapte ik haar erop dat ze in zichzelf praatte als er niemand in de buurt was. Ze hield vol dat alles in orde was en dat ze door moest kunnen gaan met haar onderzoek.$B$BHet laatst is ze gezien op weg naar het kamp van Bronzebeard in het zuiden.$B$BMijn soldaten zijn te dun verspreid, $N. Ik wil dat je naar het kamp van Bronzebeard gaat en die dwergen ondervraagt.",
+      "o": "Commander Mar'alith in Cenarion Hold in Silithus wil dat je de bewoners van Bronzebeard's Encampment ondervraagt. Je vindt Bronzebeard's Encampment ten zuiden van Cenarion Hold.$B$BKeer terug naar Commander Mar'alith als je de gevraagde informatie hebt verzameld.",
+      "p": "Verspil geen tijd, $N!",
+      "c": "<Commander Mar'alith buigt zijn hoofd en denkt na.>$B$BOf ze nu leeft of dood is, ik moet doen wat juist is. Ze moet gevonden worden. Helaas ben ik door mijn plicht aan deze voorpost gebonden. Wil je me nog een keer helpen, $N?",
+      "o1": "Frankal ondervraagd",
+      "o2": "Rutgar ondervraagd",
+      "g": [
+        [
+          "vermist",
+          "missing"
+        ],
+        [
+          "Eerlijk gezegd",
+          "Truth be told"
+        ],
+        [
+          "gedroeg",
+          "behaved (gedragen)"
+        ],
+        [
+          "betrapte",
+          "caught (betrappen)"
+        ],
+        [
+          "in zichzelf praatte",
+          "talked to herself (in zichzelf praten)"
+        ],
+        [
+          "hield vol",
+          "insisted (volhouden)"
+        ],
+        [
+          "dun verspreid",
+          "spread thin"
+        ],
+        [
+          "ondervraagt",
+          "question (ondervragen)"
+        ],
+        [
+          "bewoners",
+          "inhabitants (bewoner)"
+        ],
+        [
+          "ondervraagd",
+          "questioned (ondervragen)"
+        ],
+        [
+          "buigt",
+          "bows, lowers (buigen)"
+        ],
+        [
+          "plicht",
+          "duty"
+        ],
+        [
+          "voorpost",
+          "outpost"
+        ]
+      ]
+    },
+    "8305": {
+      "t": "Lang vergeten herinneringen",
+      "d": "In de zuidelijke woestijn van Silithus, bij de heilige barrière, ligt één enkele kristallen traan. Deze traan is een symbool van de grote verliezen die ons troffen tijdens de War of the Shifting Sands. Zoek deze traan en staar in de diepte ervan om inzicht te krijgen.$b",
+      "o": "Zoek de Crystalline Tear in Silithus en staar in de diepte ervan.",
+      "c": "Je voelt een groot verdriet dat rond dit kristal draait. De kracht is zo sterk dat je het gevoel hebt dat je zou kunnen instorten en sterven van verdriet.",
+      "g": [
+        [
+          "herinneringen",
+          "memories (herinnering)"
+        ],
+        [
+          "heilige",
+          "sacred (heilig)"
+        ],
+        [
+          "barrière",
+          "barrier"
+        ],
+        [
+          "kristallen",
+          "crystalline, crystal"
+        ],
+        [
+          "traan",
+          "tear"
+        ],
+        [
+          "verliezen",
+          "losses (verlies)"
+        ],
+        [
+          "troffen",
+          "befell, struck (treffen)"
+        ],
+        [
+          "staar",
+          "gaze (staren)"
+        ],
+        [
+          "diepte",
+          "depth"
+        ],
+        [
+          "inzicht",
+          "enlightenment, insight"
+        ],
+        [
+          "verdriet",
+          "sorrow"
+        ],
+        [
+          "instorten",
+          "to collapse"
+        ]
+      ]
+    },
+    "8306": {
+      "t": "In de muil van de waanzin",
+      "d": "Ik wil dat je Hive'Regal binnengaat en uitzoekt wat er met mijn liefste Natalia is gebeurd, $N. Dit wordt geen makkelijke taak voor je. Voordat je je halsoverkop in de muil van de waanzin stort, moet je eerst teruggaan en met die dwergen praten. Misschien kunnen ze je wat tips geven over de silithid die in dat nest wonen.$B$BEn $N, als ze echt zo gek is als ze zeggen... doe wat je moet doen.$B$B<Commander Mar'alith wendt zich van je af.>$b",
+      "o": "Commander Mar'alith in Cenarion Hold in Silithus wil dat je zijn geliefde Natalia vindt. Volgens de informatie die je hebt verzameld, kun je Mistress Natalia Mar'alith vinden in Hive'Regal in het zuiden.$B$BVergeet niet de dwergen in het kamp van Bronzebeard te bezoeken voordat je het nest binnengaat. Misschien hebben ze nog extra werk en advies voor je.$B$BEn $N, denk aan de woorden van de Commander: \"Doe wat je moet doen...\"",
+      "p": "Natalia?",
+      "c": "<Commander Mar'alith grijpt naar zijn borst.>$B$BC'Thun? WAT betekent dit allemaal? Wat is C'Thun? Hoe kan deze duivel mijn lieve Natalia veranderd hebben in het monster dat je beschreef?",
+      "o1": "Het lot van Mistress Natalia Mar'alith",
+      "g": [
+        [
+          "muil",
+          "maw"
+        ],
+        [
+          "waanzin",
+          "madness"
+        ],
+        [
+          "uitzoekt",
+          "find out (uitzoeken)"
+        ],
+        [
+          "halsoverkop",
+          "headlong"
+        ],
+        [
+          "stort",
+          "throw, plunge (zich storten)"
+        ],
+        [
+          "nest",
+          "hive, nest"
+        ],
+        [
+          "wendt zich van je af",
+          "turns away from you (zich afwenden)"
+        ],
+        [
+          "geliefde",
+          "beloved"
+        ],
+        [
+          "grijpt",
+          "clutches, grabs (grijpen)"
+        ],
+        [
+          "borst",
+          "chest"
+        ],
+        [
+          "duivel",
+          "fiend, devil"
+        ],
+        [
+          "lot",
+          "fate"
+        ]
+      ]
+    },
+    "8308": {
+      "t": "De verloren brief van Brann Bronzebeard",
+      "d": "Aan wie het aangaat:$B$BAls je dit leest, ben ik dood of binnenkort dood. Moeilijk te zeggen. Het grootste deel van de ploeg is hoe dan ook dood.$B$BInformatie gevonden over een Titan. Grote strijd tussen hem en een Old God. Ja, een echte Old God. Oude tunnel gevonden die naar Ahn'Qiraj leidt. Ik neem hem.$B$BBreng deze brief naar mijn oude kamp. Zorg dat mijn aap genoeg eten, water en knuffels krijgt.$B$B-Brann Bronzebeard, Explorer Extreme$B$BP.S. Pas op voor gekke nachtelf die een Old God aanbidt.",
+      "o": "Breng Brann Bronzebeard's Letter naar Bronzebeard's Encampment in het zuiden van Silithus.",
+      "p": "O jee.",
+      "c": "Nou, dit verklaart een hoop. Als je ooit een weg naar Ahn'Qiraj vindt, kijk dan uit naar de oude Brann. Ik ben bang dat hij machteloos is zonder zijn aap.",
+      "g": [
+        [
+          "Aan wie het aangaat",
+          "To whom it may concern"
+        ],
+        [
+          "ploeg",
+          "crew"
+        ],
+        [
+          "hoe dan ook",
+          "anyhow, anyway"
+        ],
+        [
+          "strijd",
+          "battle"
+        ],
+        [
+          "leidt",
+          "leads (leiden)"
+        ],
+        [
+          "aap",
+          "monkey"
+        ],
+        [
+          "knuffels",
+          "hugs (knuffel)"
+        ],
+        [
+          "nachtelf",
+          "night elf"
+        ],
+        [
+          "aanbidt",
+          "worships (aanbidden)"
+        ],
+        [
+          "O jee",
+          "Oh dear"
+        ],
+        [
+          "verklaart",
+          "explains (verklaren)"
+        ],
+        [
+          "machteloos",
+          "powerless"
+        ]
+      ]
+    },
+    "8309": {
+      "t": "Op jacht naar glyfen",
+      "d": "Na onze eerste tocht in de nesten en de waanzin van Mistress Mar'alith die daarop volgde, spuwen de drie nesten insecten uit! De toegenomen activiteit heeft misschien te maken met de glyfen op die vreemde kristallen.$B$BWe moeten van kristallen in alle drie de nesten een afdruk maken. Als we die afdrukken krijgen, kunnen we deze waanzin misschien begrijpen.$B$BNeem deze overtrekset mee en ga naar die nesten, $N. Kom pas terug als je kopieën van elk nest hebt.",
+      "o": "Rutgar Glyphshaper in Bronzebeard's Encampment in Silithus wil dat je naar Hive'Ashi, Hive'Zora en Hive'Regal gaat en Glyphed Rubbings haalt van de Glyphed Crystals in elk nest.$B$BGebruik de Geologist's Transcription Kit om een redelijke kopie te maken van de oude glyfen. Keer terug naar Rutgar Glyphshaper als je deze taak hebt voltooid.",
+      "p": "Als je in een van de nesten een gekke nachtelfenmeid vindt, geef haar dan van ons een schop onder haar achterste.",
+      "c": "Ik snap helemaal niets van deze glyfen. Ik heb nog nooit zoiets gezien! Ik hoop dat het onderzoek van Frankal wat licht op deze puinhoop kan werpen.",
+      "g": [
+        [
+          "glyfen",
+          "glyphs (glyf)"
+        ],
+        [
+          "tocht",
+          "foray, trip"
+        ],
+        [
+          "die daarop volgde",
+          "that followed (subsequent)"
+        ],
+        [
+          "spuwen",
+          "spew (spuwen)"
+        ],
+        [
+          "toegenomen",
+          "increased (toenemen)"
+        ],
+        [
+          "heeft te maken met",
+          "is tied to"
+        ],
+        [
+          "afdruk",
+          "rubbing, imprint"
+        ],
+        [
+          "overtrekset",
+          "transcription set (for tracing)"
+        ],
+        [
+          "redelijke",
+          "reasonable (redelijk)"
+        ],
+        [
+          "nachtelfenmeid",
+          "night elf lass"
+        ],
+        [
+          "schop",
+          "kick"
+        ],
+        [
+          "achterste",
+          "backside, rear"
+        ],
+        [
+          "Ik snap helemaal niets van",
+          "I can't make heads or tails of"
+        ],
+        [
+          "puinhoop",
+          "mess"
+        ]
+      ]
+    },
+    "8310": {
+      "t": "De code kraken",
+      "d": "Ik denk dat ik een elixer kan maken waarmee we de glyfen en de taal van de silithid en Qiraji makkelijker kunnen ontcijferen! Wat ik nodig heb? Goed dat je het vraagt! Ik heb hersenen nodig! Om precies te zijn: hersenen van elk soort silithid dat in de nesten woont. Breng me hersenen, en dan is het werk van Rutgar misschien niet voor niets geweest.",
+      "o": "Frankal Stonebridge in Bronzebeard's Encampment in Silithus wil dat je een Hive'Zora Silithid Brain, een Hive'Ashi Silithid Brain en een Hive'Regal Silithid Brain haalt. Keer terug naar Frankal als je deze taak hebt voltooid.",
+      "p": "Ga maar met de aap spelen, kind. Ik heb hier geen tijd voor.",
+      "c": "Fantastisch! Ga niet te ver weg, kind. Misschien hebben we je nog nodig voor een of twee taken.",
+      "g": [
+        [
+          "kraken",
+          "to crack, break"
+        ],
+        [
+          "elixer",
+          "elixir"
+        ],
+        [
+          "glyfen",
+          "glyphs (glyf)"
+        ],
+        [
+          "ontcijferen",
+          "to decipher"
+        ],
+        [
+          "hersenen",
+          "brains"
+        ],
+        [
+          "Om precies te zijn",
+          "More specifically"
+        ],
+        [
+          "soort",
+          "type, kind"
+        ],
+        [
+          "voor niets",
+          "for nothing, in vain"
+        ],
+        [
+          "aap",
+          "monkey"
+        ]
+      ]
+    },
+    "8314": {
+      "t": "Het mysterie ontrafelen (Elite)",
+      "d": "We staan op het punt van een doorbraak, $N! Dankzij de afdrukken die je hebt gehaald, konden we de glyfen opnieuw maken op dit kristallen prisma. Blijkbaar gebruiken de Qiraji en andere onbekende wezens ze om allerlei berichten aan de silithid door te geven.$B$BHelaas is dat alles wat we uit de glyfen konden halen. We moeten een manier vinden om de berichten te ontsluiten die in de kristallen verborgen zijn.$B$BBreng het kristallen prisma met glyfen naar Geologist Larksbane in Cenarion Hold. Misschien kan zij helpen.",
+      "o": "Rutgar Glyphshaper in Bronzebeard's Encampment wil dat je het Glyphed Crystal Prism bezorgt bij Geologist Larksbane in Cenarion Hold in Silithus.",
+      "p": "Jeetje! Wat heb je daar, $N?",
+      "c": "De dwergen konden de glyfen niet ontcijferen, omdat er niets te ontcijferen is. De verschuivende buitenlaag van het prisma moet precies op de tekens van het binnenste kristal liggen. Alleen dan wordt het bericht doorgegeven. Slim...$B$BWe zouden deze gegevens moeten kunnen vertalen, maar eerst moeten we de code ontsluiten. Er is maar één aanwijzing op het oppervlak van het prisma - als de afdrukken tenminste goed zijn overgebracht - en die ziet er somber uit.",
+      "g": [
+        [
+          "ontrafelen",
+          "to unravel"
+        ],
+        [
+          "op het punt van",
+          "on the verge of"
+        ],
+        [
+          "doorbraak",
+          "breakthrough"
+        ],
+        [
+          "afdrukken",
+          "rubbings (afdruk)"
+        ],
+        [
+          "prisma",
+          "prism"
+        ],
+        [
+          "Blijkbaar",
+          "Apparently"
+        ],
+        [
+          "wezens",
+          "entities, beings (wezen)"
+        ],
+        [
+          "ontsluiten",
+          "to unlock"
+        ],
+        [
+          "verborgen",
+          "hidden"
+        ],
+        [
+          "verschuivende",
+          "shifting (verschuiven)"
+        ],
+        [
+          "buitenlaag",
+          "outer layer"
+        ],
+        [
+          "aanwijzing",
+          "clue"
+        ],
+        [
+          "oppervlak",
+          "surface"
+        ],
+        [
+          "overgebracht",
+          "transferred (overbrengen)"
+        ],
+        [
+          "somber",
+          "grim, gloomy"
+        ]
+      ]
+    },
+    "8315": {
+      "t": "De oproep",
+      "d": "De glyfen tonen een gezant van de Qiraji die drie silithid ontmoet bij de botten van een grote draak. Boven de glyfen staat iets wat volgens mij een soort code moet zijn. Deze code zou best de sleutel kunnen zijn om de gezant op te roepen.$B$BIk maak een kopie van de glyfcode. Die moet jij in het zand tekenen bij de Bones of Grakkarond. Als ik gelijk heb, komen de Overlords, omdat ze denken dat er nieuwe gegevens klaar zijn om te verzenden. Sla ze neer en confronteer de gezant. Hij heeft de sleutel tot de kristallen...",
+      "o": "Geologist Larksbane in Cenarion Hold in Silithus wil dat je het Crystal Unlocking Mechanism van de Qiraji Emissary haalt.$B$BJe hebt de opdracht gekregen om de Glyphs of Calling naar de Bones of Grakkarond te brengen, ten zuiden van Cenarion Hold, en ze in het zand te tekenen. Als de Qiraji Emissary verschijnt, dood hem dan en haal het Crystal Unlocking Mechanism. Keer terug naar Geologist Larksbane als het je lukt.$B$BVerzamel een leger voor deze taak, $N!",
+      "p": "Je moet de kans grijpen als die zich voordoet, en toeslaan!",
+      "c": "Ik heb 20.000 jaar geschiedenis in mijn handen, $N!",
+      "g": [
+        [
+          "oproep",
+          "calling, summons"
+        ],
+        [
+          "tonen",
+          "show, illustrate (tonen)"
+        ],
+        [
+          "gezant",
+          "emissary"
+        ],
+        [
+          "botten",
+          "bones (bot)"
+        ],
+        [
+          "zou best ... kunnen zijn",
+          "might very well be"
+        ],
+        [
+          "op te roepen",
+          "to summon (oproepen)"
+        ],
+        [
+          "glyfcode",
+          "glyph code"
+        ],
+        [
+          "verzenden",
+          "to transmit, send"
+        ],
+        [
+          "Sla ze neer",
+          "Strike them down (neerslaan)"
+        ],
+        [
+          "confronteer",
+          "confront (confronteren)"
+        ],
+        [
+          "leger",
+          "army"
+        ],
+        [
+          "de kans grijpen",
+          "to seize the opportunity"
+        ],
+        [
+          "zich voordoet",
+          "presents itself (zich voordoen)"
+        ],
+        [
+          "toeslaan",
+          "to strike"
+        ]
+      ]
+    },
+    "8316": {
+      "t": "Oorlogsuitrusting",
+      "c": "Er komt oorlog, $N, en daarmee komen onbeschrijflijke verschrikkingen. Je hebt alles gedaan wat er van je gevraagd kon worden, en daarvoor verdien je een beloning.$B$BAls deze... deze profetie ooit uitkomt...$B$B<Geologist Larksbane wordt bleek.>$B$BDan zou de toekomst van ons allemaal ten einde kunnen zijn.$B$BDeze wapenrusting zal van onschatbare waarde zijn voor je veldtocht in deze woestijn.",
+      "g": [
+        [
+          "Oorlogsuitrusting",
+          "armaments of war"
+        ],
+        [
+          "onbeschrijflijke",
+          "untold, indescribable (onbeschrijflijk)"
+        ],
+        [
+          "verschrikkingen",
+          "horrors (verschrikking)"
+        ],
+        [
+          "profetie",
+          "prophecy"
+        ],
+        [
+          "uitkomt",
+          "comes to pass (uitkomen)"
+        ],
+        [
+          "bleek",
+          "pale"
+        ],
+        [
+          "ten einde",
+          "at an end"
+        ],
+        [
+          "wapenrusting",
+          "armaments, armour"
+        ],
+        [
+          "van onschatbare waarde",
+          "invaluable"
+        ],
+        [
+          "veldtocht",
+          "campaign"
+        ]
+      ]
+    },
+    "8318": {
+      "t": "Geheime communicatie",
+      "d": "Sommige cultisten van de Twilight's Hammer hebben briefjes bij zich waar onzin op geschreven staat. Ik wil dat je me een stapel daarvan brengt, $c.$B$BIk snap niet wat die onzin betekent, maar daar gaat het niet om! Met deze papiertjes communiceren hun verschillende groepen in het geheim. Hoe meer teksten we uit de omloop halen, hoe minder ze kunnen communiceren!",
+      "o": "Breng 10 Encrypted Twilight Texts naar Bor Wildmane in Cenarion Hold.",
+      "p": "Heb je wat teksten voor me meegebracht?",
+      "c": "Uitstekend! Ik berg ze op. Misschien zijn ze later nog nuttig.",
+      "g": [
+        [
+          "cultisten",
+          "cultists (cultist)"
+        ],
+        [
+          "briefjes",
+          "little papers, notes (briefje)"
+        ],
+        [
+          "onzin",
+          "gibberish, nonsense"
+        ],
+        [
+          "stapel",
+          "stack, pile"
+        ],
+        [
+          "daar gaat het niet om",
+          "that's not the point"
+        ],
+        [
+          "papiertjes",
+          "little papers (papiertje)"
+        ],
+        [
+          "in het geheim",
+          "secretly"
+        ],
+        [
+          "uit de omloop halen",
+          "take out of circulation"
+        ],
+        [
+          "berg ... op",
+          "stash away (opbergen)"
+        ]
+      ]
+    },
+    "8319": {
+      "t": "Encrypted Twilight Texts",
+      "p": "Blijf me teksten brengen. Binnenkort verdrijven we de Twilight's Hammer uit Silithus.",
+      "c": "Uitstekend werk! Ik zal een goed woordje voor je doen.",
+      "g": [
+        [
+          "verdrijven",
+          "drive out (verdrijven)"
+        ],
+        [
+          "een goed woordje voor je doen",
+          "put in a good word for you"
+        ],
+        [
+          "Binnenkort",
+          "soon"
+        ],
+        [
+          "Uitstekend",
+          "excellent"
+        ],
+        [
+          "Blijf",
+          "keep (blijven)"
+        ]
+      ]
+    },
+    "8320": {
+      "t": "Twilight Geolords",
+      "d": "De Twilight's Hammer, een krankzinnige sekte die uit is op vernietiging, heeft kampen opgezet in Silithus. Ze voeren er dag en nacht rituelen uit. We kennen hun plannen nog niet, maar we denken wel dat ze op een of andere manier verbonden zijn met de rode, kloppende kristallen die over de woestijn verspreid liggen.$B$BMisschien wordt hun geheim ooit opgelost, maar eerst moeten we iets doen aan hun directe dreiging. Ga naar hun kampen in het westen en zoek de Twilight geolords. Zij zijn de koppen van deze slangen; daar moeten we toeslaan!",
+      "o": "Dood 10 Twilight Geolords en keer dan terug naar Huum Wildmane in Cenarion Hold.",
+      "p": "Ga de woestijn in en zoek de Twilight geolords, $N. Kom bij me terug als ze gedood zijn.",
+      "c": "Die taak heb je goed uitgevoerd, $N. Door de Twilight geolords te doden heb je de sekte vast een zware slag toegebracht. Laten we hopen dat hun plannen nu vertraagd worden...",
+      "g": [
+        [
+          "krankzinnige",
+          "insane (krankzinnig)"
+        ],
+        [
+          "sekte",
+          "cult"
+        ],
+        [
+          "uit is op",
+          "is bent on (uit zijn op)"
+        ],
+        [
+          "vernietiging",
+          "destruction"
+        ],
+        [
+          "voeren ... uit",
+          "perform (uitvoeren)"
+        ],
+        [
+          "verbonden",
+          "linked (verbinden)"
+        ],
+        [
+          "kloppende",
+          "pulsing (kloppen)"
+        ],
+        [
+          "opgelost",
+          "solved (oplossen)"
+        ],
+        [
+          "dreiging",
+          "threat"
+        ],
+        [
+          "koppen",
+          "heads (kop)"
+        ],
+        [
+          "slangen",
+          "serpents (slang)"
+        ],
+        [
+          "toeslaan",
+          "to strike"
+        ],
+        [
+          "een zware slag toegebracht",
+          "dealt a grievous blow (toebrengen)"
+        ],
+        [
+          "vertraagd",
+          "slowed (vertragen)"
+        ]
+      ]
+    },
+    "8321": {
+      "t": "Vyral the Vile",
+      "d": "We hebben nog een uitvalsbasis van de Twilight's Hammer ontdekt. Die heet Twilight's Run: een grot die verstopt ligt in de noordoostelijke hoek van Silithus. De plaatselijke leider van de sekte, Vyral the Vile, waart rond in die grot. Hem moet je nu verslaan. Breng me daarna zijn zegelring.$B$BVeel geluk, $N. De verschrikkingen van Twilight's Run zijn echt geducht.",
+      "o": "Breng Vyral's Signet Ring naar Huum Wildmane in Cenarion Hold.",
+      "p": "$N, heb je Vyral the Vile al verslagen? Heb je zijn zegelring?",
+      "c": "Het is je gelukt! Vyral is dood! Dit kan alleen maar de ondergang betekenen voor de activiteiten van de Twilight Hammer in Silithus. Misschien lopen er nog meer van hen rond, maar van de slag die je de sekte vandaag hebt toegebracht, zullen ze niet makkelijk herstellen.",
+      "g": [
+        [
+          "uitvalsbasis",
+          "base of operations"
+        ],
+        [
+          "verstopt",
+          "tucked away, hidden (verstoppen)"
+        ],
+        [
+          "noordoostelijke",
+          "northeastern (noordoostelijk)"
+        ],
+        [
+          "plaatselijke",
+          "local (plaatselijk)"
+        ],
+        [
+          "waart rond",
+          "haunts (rondwaren)"
+        ],
+        [
+          "zegelring",
+          "signet ring"
+        ],
+        [
+          "verschrikkingen",
+          "horrors (verschrikking)"
+        ],
+        [
+          "geducht",
+          "formidable"
+        ],
+        [
+          "ondergang",
+          "doom, downfall"
+        ],
+        [
+          "slag",
+          "blow"
+        ],
+        [
+          "toegebracht",
+          "dealt (toebrengen)"
+        ],
+        [
+          "herstellen",
+          "to recover"
+        ]
+      ]
+    },
+    "8331": {
+      "t": "Aurel Goldleaf",
+      "d": "$N, we hadden gehoopt dat de activiteiten van de Twilight's Hammer in Silithus minder werden... maar helaas hadden we het mis. Door onze aanhoudende aanvallen op de sekte hebben we ontdekt dat een nog duisterdere macht, de Abyssal Council, de Hammer bestuurt. Dat doet die via de magische windstenen die verspreid staan tussen de kampen van de sekte. Je volgende actie, $N, is tegen de Abyssal Council gericht.$B$BSpreek met de vakvrouw Aurel Goldleaf, in het oostelijke deel van Cenarion Hold. Haar vaardigheid is nodig voor deze volgende zet.",
+      "o": "Spreek met Aurel Goldleaf in Cenarion Hold.",
+      "c": "Goedendag, $N. Ik hoorde dat je het tegen de Abyssal Council gaat opnemen? Als dat zo is, luister dan goed naar wat ik nu ga zeggen...",
+      "g": [
+        [
+          "helaas",
+          "regrettably"
+        ],
+        [
+          "hadden we het mis",
+          "we were mistaken (het mis hebben)"
+        ],
+        [
+          "aanhoudende",
+          "continued (aanhouden)"
+        ],
+        [
+          "duisterdere",
+          "darker (duister)"
+        ],
+        [
+          "bestuurt",
+          "controls (besturen)"
+        ],
+        [
+          "windstenen",
+          "wind stones (windsteen)"
+        ],
+        [
+          "gericht",
+          "aimed, directed (richten)"
+        ],
+        [
+          "vakvrouw",
+          "craftswoman"
+        ],
+        [
+          "vaardigheid",
+          "skill"
+        ],
+        [
+          "zet",
+          "move, gambit"
+        ],
+        [
+          "het tegen ... opnemen",
+          "to pit oneself against"
+        ]
+      ]
+    },
+    "8332": {
+      "t": "De hertogen van de raad",
+      "d": "We denken dat het mogelijk is om met een windsteen een hinderlaag te leggen voor een hertog van de Abyssal Council. Maar daarvoor moet je via de windsteen contact maken en de raad ervan overtuigen dat je een leider van middelste rang van de Twilight's Hammer bent.$B$BVoor zo'n zet is een namaak van het rangmedaillon van de sekte nodig. Ik kan het medaillon maken, maar ik heb een grote schitterende scherf nodig, en de emblemen die de Abyssal Templar draagt.$B$BBreng me die, en ik doe de rest.",
+      "o": "Breng 1 Large Brilliant Shard en 3 Abyssal Crests naar Aurel Goldleaf in Cenarion Hold.",
+      "p": "Heb je de scherf en de emblemen, $N? Ik heb ze nodig om het rangmedaillon van de twilight-cultist te maken.",
+      "c": "Ah, heel goed. Ik heb al aan het medaillon gewerkt. Met deze laatste ingrediënten ben ik over een paar tellen klaar...$B$BZo. Hier is het medaillon, $N.$B$BJe moet het dragen als je een van de windstenen van de Twilight's Hammer activeert. Doe het om, samen met de rest van de twilight-uitrusting, en de Abyssal Council zal je zien als een van hun ondergeschikte cultisten.",
+      "g": [
+        [
+          "hertogen",
+          "dukes (hertog)"
+        ],
+        [
+          "raad",
+          "council"
+        ],
+        [
+          "windsteen",
+          "wind stone"
+        ],
+        [
+          "hinderlaag",
+          "ambush"
+        ],
+        [
+          "overtuigen",
+          "to convince"
+        ],
+        [
+          "middelste rang",
+          "middle rank"
+        ],
+        [
+          "zet",
+          "gambit, move"
+        ],
+        [
+          "namaak",
+          "replica, imitation"
+        ],
+        [
+          "rangmedaillon",
+          "medallion of station (rank)"
+        ],
+        [
+          "schitterende",
+          "brilliant (schitterend)"
+        ],
+        [
+          "scherf",
+          "shard"
+        ],
+        [
+          "emblemen",
+          "crests (embleem)"
+        ],
+        [
+          "over een paar tellen",
+          "in a few moments"
+        ],
+        [
+          "uitrusting",
+          "trappings, gear"
+        ],
+        [
+          "ondergeschikte",
+          "underling, subordinate (ondergeschikt)"
+        ]
+      ]
+    },
+    "8333": {
+      "t": "Rangmedaillon",
+      "p": "Als je nog een rangmedaillon van een Twilight-cultist nodig hebt, help ik je graag. Maar ik heb dan wel weer een schitterende scherf en een paar Abyssal Crests nodig...",
+      "c": "Alsjeblieft, $N. Nog een Twilight-rangmedaillon. Gebruik het goed. Ik wens je veel geluk tegen de Abyssal Council!",
+      "g": [
+        [
+          "rangmedaillon",
+          "medallion of station"
+        ],
+        [
+          "schitterende",
+          "brilliant (schitterend)"
+        ],
+        [
+          "scherf",
+          "shard"
+        ],
+        [
+          "help ik je graag",
+          "I am happy to oblige"
+        ],
+        [
+          "Ik wens je veel geluk",
+          "I wish you luck"
+        ]
+      ]
+    },
+    "8341": {
+      "t": "De heren van de raad",
+      "d": "De heren van de Abyssal Council kunnen alleen opgeroepen worden via de grotere windstenen, en alleen de hoogste leden van de Twilight's Council mogen met hen spreken. Maar... ik heb een manier gevonden om je vermomming te verbeteren en de Abyssal Lords te misleiden!$B$BVoor de vermomming is een heersersring nodig, die alleen de hoogste leden van de sekte dragen. Ik maak er een voor je als je me grote schitterende scherven en Abyssal Signets brengt.",
+      "o": "Breng 5 Large Brilliant Shards en 3 Abyssal Signets naar Aurel Goldleaf in Cenarion Hold.",
+      "p": "Heb je de scherven en de zegels, $N? Ik heb ze nodig om de heersersring te maken.",
+      "c": "Bedankt. Nog heel even, dan is die ring klaar voor je...$B$BHier is hij. Nu ben je er klaar voor.$B$BDraag deze ring zeker, samen met een rangmedaillon en de rest van de twilight-uitrusting, als je een grotere windsteen activeert. Als je dat doet, denkt de Abyssal Council dat je een van hun dienaren bent. Dan kun je er misschien een in een hinderlaag lokken!",
+      "g": [
+        [
+          "heren",
+          "lords (heer)"
+        ],
+        [
+          "opgeroepen",
+          "summoned (oproepen)"
+        ],
+        [
+          "windstenen",
+          "wind stones (windsteen)"
+        ],
+        [
+          "vermomming",
+          "disguise"
+        ],
+        [
+          "misleiden",
+          "to fool, deceive"
+        ],
+        [
+          "heersersring",
+          "ring of lordship"
+        ],
+        [
+          "scherven",
+          "shards (scherf)"
+        ],
+        [
+          "zegels",
+          "signets (zegel)"
+        ],
+        [
+          "dienaren",
+          "servants (dienaar)"
+        ],
+        [
+          "hinderlaag",
+          "ambush"
+        ],
+        [
+          "lokken",
+          "to lure"
+        ]
+      ]
+    },
+    "8342": {
+      "t": "Twilight-heersersring",
+      "p": "$N, als je weer achter de Abyssal High Council aan wilt gaan, heb je nog een Twilight-heersersring nodig. Breng me meer scherven en zegels, dan maak ik er een voor je.",
+      "c": "Ah, ik zie dat je overtuiging sterk is. Niet velen zullen die raad van duivels het hoofd bieden!$B$BHier is je ring, $N. Mogen je wil en je geluk standvastig blijven.",
+      "g": [
+        [
+          "heersersring",
+          "ring of lordship"
+        ],
+        [
+          "achter ... aan gaan",
+          "to go after"
+        ],
+        [
+          "scherven",
+          "shards (scherf)"
+        ],
+        [
+          "zegels",
+          "signets (zegel)"
+        ],
+        [
+          "overtuiging",
+          "conviction"
+        ],
+        [
+          "duivels",
+          "fiends (duivel)"
+        ],
+        [
+          "het hoofd bieden",
+          "to face, stand up to"
+        ],
+        [
+          "standvastig",
+          "firm, steadfast"
+        ]
+      ]
+    },
+    "8343": {
+      "t": "De ontdekking van Goldleaf",
+      "d": "$N, Aurel Goldleaf denkt dat ze een manier heeft gevonden om een heersend lid van de Abyssal Council op te roepen en te verslaan! Zo'n taak is gevaarlijk, maar je hebt veel respect verdiend bij de Cenarion Circle. We weten: als iemand het kan, dan ben jij het.$B$BMoge het geluk met je zijn, $N. Spreek met Aurel als je er klaar voor bent.",
+      "o": "Spreek met Aurel Goldleaf in Cenarion Hold.",
+      "c": "Wat Huum zegt, is waar. Ik geloof dat ik weet hoe ik een heer van de Abyssal Council kan oproepen! Luister verder, dan leg ik het uit...",
+      "g": [
+        [
+          "ontdekking",
+          "discovery"
+        ],
+        [
+          "heersend",
+          "ruling (heersen)"
+        ],
+        [
+          "op te roepen",
+          "to summon (oproepen)"
+        ],
+        [
+          "verdiend",
+          "earned (verdienen)"
+        ],
+        [
+          "Moge het geluk met je zijn",
+          "May fortune go with you"
+        ],
+        [
+          "heer",
+          "lord"
+        ],
+        [
+          "leg ... uit",
+          "explain (uitleggen)"
+        ]
+      ]
+    },
+    "8348": {
+      "t": "Het zegel van de hertogen",
+      "d": "Huum vertelt me dat je hebt ontdekt hoe je de Abyssal Dukes kunt oproepen! Dat is een hele prestatie.$B$BWeet je wat ook een hele prestatie zou zijn? Een van die dingen flink in elkaar slaan. Dat maakt indruk op hun ondergeschikten, als je begrijpt wat ik bedoel. Breng zijn zegel mee als bewijs van je daad.",
+      "o": "Breng het Abyssal Signet naar Bor Wildmane in Cenarion Hold.",
+      "p": "Hoe ging het met de Abyssal Duke? Sloeg hij hard?",
+      "c": "Ik wist dat je een taaie $C was zodra ik je Cenarion Hold zag binnenlopen. Ga zo door!",
+      "g": [
+        [
+          "zegel",
+          "signet, seal"
+        ],
+        [
+          "hertogen",
+          "dukes (hertog)"
+        ],
+        [
+          "een hele prestatie",
+          "quite an accomplishment"
+        ],
+        [
+          "in elkaar slaan",
+          "to smash up, beat up"
+        ],
+        [
+          "maakt indruk op",
+          "makes an impression on (indruk maken)"
+        ],
+        [
+          "ondergeschikten",
+          "underlings (ondergeschikte)"
+        ],
+        [
+          "bewijs",
+          "proof"
+        ],
+        [
+          "daad",
+          "deed"
+        ],
+        [
+          "taaie",
+          "tough (taai)"
+        ],
+        [
+          "Ga zo door",
+          "Keep it up"
+        ]
+      ]
+    },
+    "8349": {
+      "t": "Bor Wildmane",
+      "d": "Nu je een medaillon hebt en een Abyssal Duke kunt oproepen, moet je met Bor Wildmane spreken. Hij geeft je een taak tegen de Abyssal Council.$B$BSucces, $N. En als je ooit meer medaillons nodig hebt, kom dan terug bij mij.",
+      "o": "Spreek met Bor Wildmane in Cenarion Hold.",
+      "c": "Goed om je weer te zien, $C! Dus je hebt een medaillon laten maken? Mooi -- dat heb je nodig voor je volgende opdracht...",
+      "g": [
+        [
+          "medaillon",
+          "medallion"
+        ],
+        [
+          "oproepen",
+          "to summon"
+        ],
+        [
+          "Succes",
+          "Good luck"
+        ],
+        [
+          "laten maken",
+          "had made"
+        ],
+        [
+          "opdracht",
+          "quest, assignment"
+        ]
+      ]
+    },
+    "8351": {
+      "t": "Bor wil je spreken",
+      "d": "Nu je je kunt vermommen als heersend lid van de Twilight Council, wil Bor Wildmane vast met je spreken. Ga naar hem toe en bereid je voor op een heel moeilijke missie...",
+      "o": "Spreek met Bor Wildmane in Cenarion Hold.",
+      "c": "Ja, dat klopt, $N. Ik heb een heel zware taak voor de boeg...",
+      "g": [
+        [
+          "vermommen",
+          "to disguise"
+        ],
+        [
+          "heersend",
+          "ruling (heersen)"
+        ],
+        [
+          "lid",
+          "member"
+        ],
+        [
+          "vast",
+          "surely, certainly"
+        ],
+        [
+          "bereid je voor",
+          "prepare yourself (zich voorbereiden)"
+        ],
+        [
+          "voor de boeg",
+          "ahead"
+        ]
+      ]
+    },
+    "8352": {
+      "t": "De scepter van de raad",
+      "d": "Huum en ik hadden het net over jou. Hij zegt dat je bijna klaar bent om een gevecht met een Abyssal Lord te proberen!$B$BIk moet je zeggen dat dit een heel gevaarlijke onderneming is. Je kunt beter versterking meenemen. En dan bedoel ik niet een of twee van je vrienden. Ik heb het over een eersteklas strijdmacht die klaar is voor de strijd. Als je vrienden net zo goed zijn als jij, kun je hem misschien zelfs verslaan!$B$BAls dat lukt - en ik wil bewijs, zoals altijd - geef ik je een echt geweldige beloning.",
+      "o": "Breng een Abyssal Scepter naar Bor Wildmane in Cenarion Hold.",
+      "p": "En, hoe ging het? Ik zou alles doen om mijn post te verlaten en zelf met een van die dingen te worstelen!",
+      "c": "Je... je hebt het gedaan! Je hebt het gedaan, $N! Hier! Neem dit aan. Het is de grootste kist die we hadden liggen, en ik heb hem gevuld met een deel van de beste spullen die we gevonden hebben.",
+      "g": [
+        [
+          "scepter",
+          "scepter"
+        ],
+        [
+          "raad",
+          "council"
+        ],
+        [
+          "onderneming",
+          "endeavour"
+        ],
+        [
+          "versterking",
+          "backup, reinforcements"
+        ],
+        [
+          "eersteklas",
+          "top-notch"
+        ],
+        [
+          "strijdmacht",
+          "fighting force"
+        ],
+        [
+          "bewijs",
+          "evidence"
+        ],
+        [
+          "post",
+          "post"
+        ],
+        [
+          "worstelen",
+          "to wrestle"
+        ],
+        [
+          "kist",
+          "chest"
+        ],
+        [
+          "spullen",
+          "stuff, things"
+        ]
+      ]
+    },
+    "8361": {
+      "t": "Abyssal-contacten",
+      "d": "We hebben gezien dat cultisten van de Twilight's Hammer rituelen uitvoeren om machtige elementaire edelen op te roepen. We weten niet of dit de wezens zijn die de cultisten aanbidden, of dat ze bemiddelaars zijn voor nog machtigere krachten. Eén ding is zeker: ze krijgen bevelen van deze elementalen.$B$BIk wil dat je een manier vindt om contact te maken met een Abyssal Templar en hem eens flink af te tuigen! Niets brengt de troepen zo in de war als het uitschakelen van de bevelslijn. Breng meteen ook bewijs mee.",
+      "o": "Bor Wildmane in Cenarion Hold in Silithus wil dat je een Abyssal Templar vernietigt en hem een Abyssal Crest brengt als bewijs van je daad.",
+      "p": "Heb je de klus geklaard?",
+      "c": "Ha! Het is je gelukt, $N! De Twilight's Hammer wordt binnenkort verpletterd!",
+      "g": [
+        [
+          "elementaire",
+          "elemental (elementair)"
+        ],
+        [
+          "edelen",
+          "nobles (edele)"
+        ],
+        [
+          "aanbidden",
+          "to worship"
+        ],
+        [
+          "bemiddelaars",
+          "intermediaries (bemiddelaar)"
+        ],
+        [
+          "elementalen",
+          "elementals (elementaal)"
+        ],
+        [
+          "af te tuigen",
+          "to beat up (aftuigen)"
+        ],
+        [
+          "in de war",
+          "in disarray"
+        ],
+        [
+          "uitschakelen",
+          "taking out"
+        ],
+        [
+          "bevelslijn",
+          "chain of command"
+        ],
+        [
+          "de klus geklaard",
+          "finished the job (een klus klaren)"
+        ],
+        [
+          "verpletterd",
+          "crushed (verpletteren)"
+        ]
+      ]
+    },
+    "8362": {
+      "t": "Abyssal Crests",
+      "p": "Je hebt bewezen dat je je kunt redden in een gevecht, $N. Laten we de druk op de Twilight's Hammer hoog houden. Ga nog meer Abyssal Templars bevechten. Dan beloon ik je met een paar spullen die Huum en ik in de strijd hebben gevonden.",
+      "c": "Goed gedaan! Dat zijn weer minder Templars om me zorgen over te maken.$B$BAlsjeblieft, $N. Ik hoop dat er iets nuttigs voor je tussen zit.",
+      "g": [
+        [
+          "je kunt redden",
+          "can handle yourself (zich redden)"
+        ],
+        [
+          "druk",
+          "pressure"
+        ],
+        [
+          "hoog houden",
+          "keep up"
+        ],
+        [
+          "bevechten",
+          "to fight"
+        ],
+        [
+          "beloon",
+          "reward (belonen)"
+        ],
+        [
+          "spullen",
+          "stuff"
+        ],
+        [
+          "me zorgen ... maken",
+          "to worry"
+        ],
+        [
+          "tussen zit",
+          "is in there (tussen zitten)"
+        ]
+      ]
+    },
+    "8363": {
+      "t": "Abyssal Signets",
+      "p": "Je hebt laten zien dat je een Abyssal Duke ruim aankunt, $N. Ik moedig goede gewoontes altijd graag aan. Breng me meer zegels, dan krijg je een beloning.",
+      "c": "Uitstekend, $N! Door die Dukes te verslaan, is de Twilight's Hammer een tijdje van slag. Zoals beloofd, hier is je beloning. Het zijn een paar van de betere spullen die Huum en ik hebben gevonden.",
+      "g": [
+        [
+          "ruim aankunt",
+          "are more than capable of taking on (aankunnen)"
+        ],
+        [
+          "moedig ... aan",
+          "promote, encourage (aanmoedigen)"
+        ],
+        [
+          "gewoontes",
+          "habits (gewoonte)"
+        ],
+        [
+          "zegels",
+          "signets (zegel)"
+        ],
+        [
+          "van slag",
+          "reeling, thrown off balance"
+        ],
+        [
+          "Zoals beloofd",
+          "As promised"
+        ]
+      ]
+    },
+    "8364": {
+      "t": "Abyssal Scepters",
+      "p": "Je hebt al mijn verwachtingen echt overtroffen, $N. Je neemt het op tegen tegenstanders waar Huum en ik lang en goed over zouden nadenken voordat we ze aanvielen.$B$BOp dit moment kan ik niet meer doen dan je inspanningen blijven belonen in de strijd tegen de Twilight's Hammer en hun opperheren.$B$BBreng me meer Abyssal Scepters, dan doe ik mijn best om je een passende beloning te geven.",
+      "c": "Ik wist dat je het zou klaarspelen, $N! Hier is je beloning.",
+      "g": [
+        [
+          "verwachtingen",
+          "expectations (verwachting)"
+        ],
+        [
+          "overtroffen",
+          "exceeded (overtreffen)"
+        ],
+        [
+          "Je neemt het op tegen",
+          "You take on (het opnemen tegen)"
+        ],
+        [
+          "tegenstanders",
+          "opponents (tegenstander)"
+        ],
+        [
+          "inspanningen",
+          "efforts (inspanning)"
+        ],
+        [
+          "opperheren",
+          "overlords (opperheer)"
+        ],
+        [
+          "passende",
+          "suitable (passend)"
+        ],
+        [
+          "klaarspelen",
+          "to pull off, come through"
+        ]
+      ]
+    }
+  },
+  "words": {
+    "abyssal-contacten": "abyssal contacts (contact)",
+    "activeert": "activate (activeren)",
+    "ademde": "breathed (ademen)",
+    "beschreef": "described (beschrijven)",
+    "binnenlopen": "to walk in",
+    "bulletin": "bulletin, newsletter",
+    "communiceren": "to communicate",
+    "geklaard": "done, finished (klaren)",
+    "hertog": "duke",
+    "machtigere": "more powerful (machtig)",
+    "omloop": "circulation",
+    "p": "P.S. (postscript, from p.s.)",
+    "plaatsvervanger": "deputy",
+    "tuigen": "(aftuigen) to beat up",
+    "tussenbeide": "in between (tussenbeide komen: to intervene)",
+    "twilight-cultist": "Twilight cultist",
+    "twilight-heersersring": "Twilight ring of lordship",
+    "twilight-rangmedaillon": "Twilight medallion of station",
+    "twilight-uitrusting": "Twilight trappings, gear",
+    "voordoet": "presents itself (zich voordoen)",
+    "waart": "haunts, roams (rondwaren)",
+    "wendt": "turns (zich wenden)"
+  },
+  "terms": {}
+}
