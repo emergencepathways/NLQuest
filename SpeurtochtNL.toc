@@ -62,6 +62,7 @@ Data\Batch_111_Mulgore.lua
 Data\Batch_112_Orgrimmar.lua
 Data\Batch_39_Uldaman_6_Voorquests.lua
 Data\Batch_113_Orgrimmar.lua
+Data\Batch_40_Stormwind_City.lua
 Data\Batch_114_Undercity.lua
 
 Display.lua
