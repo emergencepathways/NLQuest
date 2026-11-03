@@ -133,6 +133,7 @@ Data\Batch_145_First_Aid.lua
 Data\Batch_76_Blackrock_Spire_19_Voorquests.lua
 Data\Batch_146_Tanaris.lua
 Data\Batch_77_Blackrock_Spire_19_Voorquests.lua
+Data\Batch_147_Western_Plaguelands.lua
 Data\Batch_78_Blackrock_Spire_19_Voorquests.lua
 
 Display.lua
