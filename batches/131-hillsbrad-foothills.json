@@ -1,0 +1,1127 @@
+{
+  "quests": {
+    "524": {
+      "t": "Elixer van kwelling",
+      "d": "Hiernaast houden de Deathguards een paar gevangen boeren vast als gijzelaars. High Executor Darthalia dacht dat een van de militaire strategen uit Stormwind zich tussen hen verstopte. Blijkbaar is die militair gisteravond dood gevonden in de Plaguelands. Darthalia denkt altijd aan mij, dus ze besloot dat ik met de gevangenen mag doen wat ik wil.$b$bIk denk dat het tijd is om een feestje te geven voor die boeren. Dat wordt vast reuzegezellig!$b$bZet dit besmette vat op het kleed in hun kamer. Pestbier voor iedereen!",
+      "o": "Zet de Tainted Keg op het kleed voor de gevangen boeren.",
+      "p": "Er komt een muffe geur van het kleed.",
+      "c": "Je zet het besmette vat op het stoffige kleed.",
+      "g": [
+        [
+          "kwelling",
+          "agony, torment"
+        ],
+        [
+          "gijzelaars",
+          "hostages (gijzelaar)"
+        ],
+        [
+          "strategen",
+          "strategists (strateeg)"
+        ],
+        [
+          "verstopte",
+          "was hiding (zich verstoppen)"
+        ],
+        [
+          "blijkbaar",
+          "apparently"
+        ],
+        [
+          "besloot",
+          "decided (besluiten)"
+        ],
+        [
+          "reuzegezellig",
+          "great fun"
+        ],
+        [
+          "besmette",
+          "tainted, infected (besmet)"
+        ],
+        [
+          "vat",
+          "keg, barrel"
+        ],
+        [
+          "kleed",
+          "rug"
+        ],
+        [
+          "pestbier",
+          "plagued beer"
+        ],
+        [
+          "muffe",
+          "musty (muf)"
+        ],
+        [
+          "stoffige",
+          "dusty (stoffig)"
+        ]
+      ]
+    },
+    "541": {
+      "t": "De slag om Hillsbrad",
+      "d": "Dwergen die de mensen helpen? Vervloekt zijn die smerige kleine beesten.$b$bWe gaan de kracht van die zogenaamde Alliance testen. We zullen zien hoe graag die kleine enkeltrappers de mensen nog helpen als ze onze woede voelen. We weten precies waar hun vesting in dit gebied ligt.$b$bZe hebben een kazerne gebouwd in het zuidoosten van Hillsbrad, langs Thoradin's Wall. Die heet Dun Garok. De laatste opdracht van deze slag is het beleg van Dun Garok, $c. Captain Ironhill, hun leider, moet sterven.",
+      "o": "Ga naar Dun Garok en dood 10 Mountaineers, 8 Riflemen, 4 Priests en Captain Ironhill. Meld je daarna bij Darthalia in Tarren Mill.",
+      "p": "Is Dun Garok een te groot obstakel voor je, $C? En ik dacht nog wel dat je je in Hillsbrad dapper had bewezen.$B$BAls je deze opdracht niet aankunt, zoek ik iemand anders die betere resultaten haalt. En jij? Nou, ik weet zeker dat de Dark Lady altijd meer grafdelvers kan gebruiken in Tirisfal Glades.",
+      "c": "Je daden op het slagveld verdienen de hoogste lof.",
+      "g": [
+        [
+          "vervloekt",
+          "cursed, damn"
+        ],
+        [
+          "smerige",
+          "filthy (smerig)"
+        ],
+        [
+          "zogenaamde",
+          "so-called (zogenaamd)"
+        ],
+        [
+          "enkeltrappers",
+          "ankle-kickers (enkeltrapper)"
+        ],
+        [
+          "woede",
+          "wrath, anger"
+        ],
+        [
+          "vesting",
+          "stronghold, fortress"
+        ],
+        [
+          "kazerne",
+          "barracks"
+        ],
+        [
+          "beleg",
+          "siege"
+        ],
+        [
+          "obstakel",
+          "obstacle"
+        ],
+        [
+          "aankunt",
+          "can handle (aankunnen)"
+        ],
+        [
+          "grafdelvers",
+          "grave diggers (grafdelver)"
+        ],
+        [
+          "slagveld",
+          "battlefield"
+        ],
+        [
+          "lof",
+          "praise"
+        ]
+      ]
+    },
+    "547": {
+      "t": "Het zwaard van Humbert",
+      "d": "High Executor Darthalia stuurde me om Dun Garok van een afstand in de gaten te houden. Ik had mijn kamp net buiten het zicht opgezet. Maar 's ochtends moest ik water koken, dus ging ik weg om brandhout te zoeken.$b$bToen ik terugkwam in het kamp, was mijn uitrusting weg.$b$bBlijkbaar kwamen er een paar dwergenverkenners uit Dun Garok langs, en die hebben alles meegenomen. Ik heb mijn zwaard nodig! Als je het voor me terughaalt, ben ik je heel dankbaar. Er zijn daar zoveel dwergen... Het wordt moeilijk om de vieze kleine dief te vinden die het gestolen heeft.",
+      "o": "Haal het zwaard van Deathguard Humbert terug uit Dun Garok en breng het naar hem in Tarren Mill.",
+      "p": "Heb je mijn zwaard teruggevonden, $N? High Executor Darthalia hangt me op aan de dakbalken als ze ontdekt hoe dom ik ben geweest.",
+      "c": "Je hebt het gevonden!$b$bAh, ik voel me weer compleet nu ik mijn kostbare zwaard terug in mijn hand heb. Heel erg bedankt!",
+      "g": [
+        [
+          "in de gaten te houden",
+          "to keep watch (in de gaten houden)"
+        ],
+        [
+          "buiten het zicht",
+          "out of sight"
+        ],
+        [
+          "opgezet",
+          "set up (opzetten)"
+        ],
+        [
+          "brandhout",
+          "firewood"
+        ],
+        [
+          "uitrusting",
+          "gear, equipment"
+        ],
+        [
+          "dwergenverkenners",
+          "dwarven scouts (dwergenverkenner)"
+        ],
+        [
+          "terughaalt",
+          "get back (terughalen)"
+        ],
+        [
+          "dankbaar",
+          "grateful"
+        ],
+        [
+          "dakbalken",
+          "rafters (dakbalk)"
+        ],
+        [
+          "ontdekt",
+          "discovers (ontdekken)"
+        ],
+        [
+          "kostbare",
+          "precious (kostbaar)"
+        ]
+      ]
+    },
+    "550": {
+      "t": "De slag om Hillsbrad",
+      "d": "Je hebt met veel moed en doorzettingsvermogen gevochten in de slag om Hillsbrad. Daarom heb ik deze aanbeveling geschreven. Ik prijs daarin je heldendaden in de strijd, zodat het opperbevel ze erkent.$b$bBreng deze verzegelde aanbeveling naar Varimathras in de Undercity. Ga met trots, $c.",
+      "o": "Breng Darthalia's Sealed Commendation naar Varimathras in de Undercity.",
+      "p": "Wat brengt een $C helemaal van het slagveld naar de Undercity?",
+      "c": "Dus jij bent de beruchte $C die zo'n beslissende klap uitdeelde aan de troepen van de Alliance in de Hillsbrad Foothills? Het nieuws over je glorieuze daden kwam snel aan in de Undercity.$b$bJe hebt een mooie toekomst in de rangen van de Dark Lady als je in de strijd zulk leiderschap en zulke kennis blijft tonen.$b$bOnze grootste bedreiging is het Scourge-leger van de Lich King, dat uit het noorden komt. Maar het \"probleem\" met de mensen blijft onze strijdplannen hinderen. Jij hebt echter laten zien dat de mensen kunnen en zullen vallen.",
+      "g": [
+        [
+          "moed",
+          "valor, courage"
+        ],
+        [
+          "doorzettingsvermogen",
+          "perseverance"
+        ],
+        [
+          "aanbeveling",
+          "commendation, recommendation"
+        ],
+        [
+          "prijs",
+          "praise (prijzen)"
+        ],
+        [
+          "heldendaden",
+          "heroic deeds (heldendaad)"
+        ],
+        [
+          "opperbevel",
+          "high command"
+        ],
+        [
+          "erkent",
+          "recognizes (erkennen)"
+        ],
+        [
+          "verzegelde",
+          "sealed (verzegeld)"
+        ],
+        [
+          "beruchte",
+          "infamous (berucht)"
+        ],
+        [
+          "beslissende",
+          "decisive (beslissend)"
+        ],
+        [
+          "glorieuze",
+          "glorious (glorieus)"
+        ],
+        [
+          "rangen",
+          "ranks (rang)"
+        ],
+        [
+          "bedreiging",
+          "threat"
+        ],
+        [
+          "hinderen",
+          "to impede, to hinder"
+        ]
+      ]
+    },
+    "556": {
+      "t": "Stenen penningen",
+      "d": "De tovenaars van Dalaran hebben een bijzonder talent: ze kennen elementalen goed. Dat zijn machtige wezens uit andere dimensies. De tovenaars gebruiken magische penningen om deze elementalen te besturen. Magus Voidglare wil graag een paar van die penningen bestuderen.$B$BGa naar de gebieden van de tovenaars van Dalaran, ten westen van Hillsbrad, en verzamel de penningen.$B$BJe kunt de penningen bij elke inwoner van Dalaran vinden, maar ik raad je aan om in het interneringskamp te jagen. Dat is veiliger dan Dalaran zelf.",
+      "o": "Breng 10 Worn Stone Tokens naar Keeper Bel'varil in Tarren Mill.",
+      "p": "Heb je de Worn Stone Tokens, $N? De Magus wil hun geheimen graag ontdekken.",
+      "c": "Deze zijn prima. Het lijkt erop dat hun magie vervaagd is, maar het is beter als de eerste experimenten van de Magus gebeuren met inactieve voorbeelden zoals deze.$B$BBedankt, $N.",
+      "g": [
+        [
+          "penningen",
+          "tokens (penning)"
+        ],
+        [
+          "tovenaars",
+          "wizards (tovenaar)"
+        ],
+        [
+          "elementalen",
+          "elementals (elementaal)"
+        ],
+        [
+          "wezens",
+          "creatures (wezen)"
+        ],
+        [
+          "besturen",
+          "to control"
+        ],
+        [
+          "bestuderen",
+          "to study"
+        ],
+        [
+          "inwoner",
+          "citizen, inhabitant"
+        ],
+        [
+          "raad je aan",
+          "suggest to you (aanraden)"
+        ],
+        [
+          "interneringskamp",
+          "internment camp"
+        ],
+        [
+          "vervaagd",
+          "faded (vervagen)"
+        ],
+        [
+          "inactieve",
+          "inert, inactive (inactief)"
+        ]
+      ]
+    },
+    "676": {
+      "t": "De hamer kan vallen",
+      "d": "Zwakkelingen... allemaal. Jij daar, $c, waar kijk je naar? Denk je dat je iets bijzonders bent? Waarom bewijs je het dan niet?$B$BDe buitenpost Hammerfall in Arathi wordt aangevallen. Als we ze niet snel hulp sturen, gaan ze ten onder.$B$BMaar voordat je wegrent, kun je beter eerst je vaardigheden testen. Ten noordoosten van Stromgarde in Arathi ligt een ogerheuvel. Daar woont de Boulderfist-stam. Als je de ogers en de handhavers daar aankunt, meld je dan bij Drum Fel in Hammerfall.",
+      "o": "Dood 8 Boulderfist Ogres en 10 Boulderfist Enforcers. Zoek daarna Drum Fel in de buitenpost Hammerfall in de Arathi Highlands.",
+      "p": "Ik heb niet eens tijd om mijn bijl te slijpen, laat staan om de buitenpost te verlaten en die beesten te doden die mijn volk willen doden.$B$BJe lijkt nog niet eens de ervaring van een grunt te hebben, laat staan van een echte $c. Wat wil je, $N?",
+      "c": "Dus jij denkt dat je sterk genoeg bent om Hammerfall te helpen? Goed dan.$B$BOf Tallow stuurde je naar die ogerheuvel in de hoop dat je daar zou omkomen, of hij denkt dat je sterk genoeg bent om ons te helpen. Hoe dan ook, je bent nu hier. En ik heb meer soldaten nodig in onze strijd tegen de aanvallen die steeds maar doorgaan.$B$BAls je in Hammerfall wilt blijven, rust dan eerst uit. Kom weer met me praten als je klaar bent. Er is hier genoeg te vechten.",
+      "g": [
+        [
+          "zwakkelingen",
+          "weaklings (zwakkeling)"
+        ],
+        [
+          "bewijs",
+          "prove (bewijzen)"
+        ],
+        [
+          "buitenpost",
+          "outpost"
+        ],
+        [
+          "gaan ze ten onder",
+          "they will perish (ten onder gaan)"
+        ],
+        [
+          "vaardigheden",
+          "skills (vaardigheid)"
+        ],
+        [
+          "ogerheuvel",
+          "ogre mound"
+        ],
+        [
+          "stam",
+          "tribe"
+        ],
+        [
+          "handhavers",
+          "enforcers (handhaver)"
+        ],
+        [
+          "slijpen",
+          "to sharpen"
+        ],
+        [
+          "laat staan",
+          "let alone"
+        ],
+        [
+          "omkomen",
+          "to die, to perish"
+        ],
+        [
+          "hoe dan ook",
+          "either way"
+        ]
+      ]
+    },
+    "552": {
+      "t": "De wraak van Helcular",
+      "d": "Meester Helcular was bijna klaar met zijn verandering in een lich. Toen ontdekte een woedende menigte mensen zijn ritueelhol in de heuvels, en ze hebben hem wreed vermoord. En het werd nog erger: ze begroeven zijn lijk op de begraafplaats van Southshore.$b$bZo'n gebrek aan respect voor de grote tovenaar is onaanvaardbaar. Als zijn leerling zorg ik ervoor dat er een regen van wraak valt op het dorp Southshore.$b$bEerst hebben we Helcular's Rod nodig. Yeti's hebben zijn ritueelhol ingenomen. Een van die beesten heeft hem vast.",
+      "o": "Haal Helcular's Rod terug bij de Yeti en breng hem naar Novice Thaivand in Tarren Mill.",
+      "p": "Heb je Helcular's Rod al teruggevonden? Er zijn zoveel Yeti's in deze streek, dus het wordt heel moeilijk om hem te vinden. Maar we hebben hem nodig om verder te kunnen.",
+      "c": "Je hebt hem gevonden! Uitstekend, $N!",
+      "g": [
+        [
+          "wraak",
+          "revenge, vengeance"
+        ],
+        [
+          "woedende menigte",
+          "angry mob, lynch mob"
+        ],
+        [
+          "ritueelhol",
+          "ritual lair"
+        ],
+        [
+          "wreed",
+          "brutally, cruel"
+        ],
+        [
+          "begroeven",
+          "buried (begraven)"
+        ],
+        [
+          "lijk",
+          "corpse"
+        ],
+        [
+          "begraafplaats",
+          "cemetery"
+        ],
+        [
+          "gebrek aan respect",
+          "disregard, lack of respect"
+        ],
+        [
+          "onaanvaardbaar",
+          "unacceptable"
+        ],
+        [
+          "leerling",
+          "apprentice"
+        ],
+        [
+          "ingenomen",
+          "taken over (innemen)"
+        ],
+        [
+          "streek",
+          "region"
+        ]
+      ]
+    },
+    "553": {
+      "t": "De wraak van Helcular",
+      "d": "Hier, neem de Rod of Helcular. Je hebt hem nodig.$b$bHelcular maakte 3 ceremoniële brandstapels als deel van zijn machtigste spreuk. De Flame of Azel en de Flame of Veraz liggen in de Foothill Caverns. De Flame of Uzel ligt in een grot boven die grotten, verder naar het noorden in de bergen.$b$bDe Rod of Helcular moet bij elk van de drie vlammen worden opgeladen. Als het ritueel klaar is, steek je de staf in het graf van Helcular in Southshore. Dat is het zwaar bewaakte mensendorp in het zuiden. De wraak zal van ons zijn!",
+      "o": "Laad de Rod of Helcular op met de krachten van de Flame of Azel, de Flame of Veraz en de Flame of Uzel.$b$bSteek de opgeladen staf in het graf van Helcular in Southshore.",
+      "p": "Het graf van Helcular zit vol mystieke energie.",
+      "c": "Er komt een zwaar gerommel uit de grond.",
+      "o1": "Flame of Azel opgeladen",
+      "o2": "Flame of Veraz opgeladen",
+      "o3": "Flame of Uzel opgeladen",
+      "g": [
+        [
+          "ceremoniële",
+          "ceremonial (ceremonieel)"
+        ],
+        [
+          "brandstapels",
+          "pyres (brandstapel)"
+        ],
+        [
+          "spreuk",
+          "spell"
+        ],
+        [
+          "opgeladen",
+          "charged (opladen)"
+        ],
+        [
+          "ritueel",
+          "ritual"
+        ],
+        [
+          "steek",
+          "drive, stick (steken)"
+        ],
+        [
+          "staf",
+          "rod, staff"
+        ],
+        [
+          "graf",
+          "grave"
+        ],
+        [
+          "zwaar bewaakte",
+          "heavily guarded"
+        ],
+        [
+          "mystieke",
+          "mystical (mystiek)"
+        ],
+        [
+          "gerommel",
+          "rumbling"
+        ]
+      ]
+    },
+    "533": {
+      "t": "Infiltratie",
+      "d": "Eindelijk horen we nieuws en geruchten, en vinden we bewijs over waar Gol'dir is. De mensen verplaatsen hem steeds, maar we zoeken nu in een kleiner gebied. We richten ons op het grote kamp van de Syndicate, vlak ten noorden van hier.$b$bGa erheen, $n, en breng alle informatie mee die je te pakken kunt krijgen.",
+      "o": "Haal informatie over de verblijfplaats van Gol'dir voor Krusk in Tarren Mill.",
+      "p": "Heb je iets gevonden? Ik ben bang dat de kansen van Gol'dir elke dag slechter worden...",
+      "c": "Eindelijk weten we waar Gol'dir gevangen wordt gehouden. Het kamp is niet ver van hier. Hopelijk zijn ze niet zo goed voorbereid als toen ze ons de eerste keer gevangen namen.",
+      "g": [
+        [
+          "geruchten",
+          "rumors (gerucht)"
+        ],
+        [
+          "bewijs",
+          "evidence, proof"
+        ],
+        [
+          "verplaatsen",
+          "move (verplaatsen)"
+        ],
+        [
+          "we richten ons op",
+          "we focus on (zich richten op)"
+        ],
+        [
+          "te pakken kunt krijgen",
+          "can get your hands on (te pakken krijgen)"
+        ],
+        [
+          "verblijfplaats",
+          "whereabouts"
+        ],
+        [
+          "kansen",
+          "prospects, chances (kans)"
+        ],
+        [
+          "gevangen wordt gehouden",
+          "is being held captive (gevangen houden)"
+        ],
+        [
+          "voorbereid",
+          "prepared (voorbereiden)"
+        ]
+      ]
+    },
+    "544": {
+      "t": "Inbreken in de gevangenis",
+      "d": "Ik kwam naar Tarren Mill voor onderzoek, maar nu moet ik een crisis oplossen. Weet je, een paar maanden geleden zijn vier Forsaken uit de Undercity gevlucht. Ze keerden hun broeders de rug toe, maar wat nog erger is... ze bestalen de Dark Lady.$B$BDeze dieven braken in in een beveiligde kluis en stalen vier artefacten. Onze apothekers hadden die voorwerpen nodig voor bepaalde onderzoeken. Sylvanas wil deze artefacten terug.$B$BDe dieven vluchtten uit de Undercity naar Dalaran. Die tovenaars hebben ze in quarantaine gezet in het Lordamere Internment Camp.",
+      "o": "Vind de verraders en haal hun artefacten terug. Ga daarna terug naar Magus Voidglare in Tarren Mill.",
+      "p": "Heb je de dieven gevonden? En nog belangrijker: heb je gevonden wat ze gestolen hebben?",
+      "c": "Je hebt de Forsaken een grote dienst bewezen, $N. We hebben deze artefacten erg gemist.$B$BEn het is goed om te horen dat Kegan en de andere verraders hun straf hebben gekregen.",
+      "g": [
+        [
+          "onderzoek",
+          "research"
+        ],
+        [
+          "oplossen",
+          "to resolve, to solve"
+        ],
+        [
+          "gevlucht",
+          "fled (vluchten)"
+        ],
+        [
+          "keerden hun broeders de rug toe",
+          "turned their backs on their brethren"
+        ],
+        [
+          "bestalen",
+          "stole from (bestelen)"
+        ],
+        [
+          "beveiligde kluis",
+          "secure vault"
+        ],
+        [
+          "artefacten",
+          "artifacts (artefact)"
+        ],
+        [
+          "apothekers",
+          "apothecaries (apotheker)"
+        ],
+        [
+          "in quarantaine gezet",
+          "quarantined"
+        ],
+        [
+          "verraders",
+          "traitors (verrader)"
+        ],
+        [
+          "een grote dienst bewezen",
+          "done a great service"
+        ],
+        [
+          "straf",
+          "punishment, justice"
+        ]
+      ]
+    },
+    "557": {
+      "t": "Bindende armbanden",
+      "d": "De Magus is druk bezig met het bestuderen van de stenen penningen die je hebt verzameld. Maar ik weet dat hij later ook voorbeelden van hun tegenhanger wil hebben: bindende armbanden. Die worden om de polsen van echte elementalen gedaan. Zo binden ze de elementalen aan de dienst van de magiër.$B$BJaag op elementalen in de ruïnes van Dalaran en verzamel hun Bracers of Earth Binding. Dan zal de Magus tevreden zijn.",
+      "o": "Breng 4 Bracers of Earth Binding naar Keeper Bel'varil in Tarren Mill.",
+      "p": "Hallo, $N. Elementalen zijn een moeilijke prooi, maar ik weet dat je de taak aankunt. Heb je die bindende armbanden?",
+      "c": "Je hebt ze gevonden. Ik neem aan dat de elementalen er geen bezwaar tegen hadden dat je die armbanden afpakte?$B$BHm... De dood heeft niet alleen mijn hart stilgezet, maar blijkbaar ook mijn gevoel voor grappige timing gestolen.$B$BNou, bedankt, $N. Je dient de Magus goed, en daarmee ook de Dark Lady.",
+      "g": [
+        [
+          "tegenhanger",
+          "counterpart"
+        ],
+        [
+          "bindende",
+          "binding (binden)"
+        ],
+        [
+          "armbanden",
+          "bracers, bracelets (armband)"
+        ],
+        [
+          "polsen",
+          "wrists (pols)"
+        ],
+        [
+          "magiër",
+          "mage"
+        ],
+        [
+          "ruïnes",
+          "ruins (ruïne)"
+        ],
+        [
+          "tevreden",
+          "pleased, satisfied"
+        ],
+        [
+          "prooi",
+          "quarry, prey"
+        ],
+        [
+          "ik neem aan",
+          "I trust, I assume (aannemen)"
+        ],
+        [
+          "bezwaar",
+          "objection"
+        ],
+        [
+          "afpakte",
+          "took away (afpakken)"
+        ],
+        [
+          "stilgezet",
+          "stopped (stilzetten)"
+        ],
+        [
+          "daarmee",
+          "hence, with that"
+        ]
+      ]
+    },
+    "545": {
+      "t": "Patrouilles van Dalaran",
+      "d": "De tovenaars van Dalaran bouwden een enorme, magische koepel rond het hart van hun stad. Sommigen denken dat het was om zich te beschermen tegen het geweld van deze tijd. Anderen zeggen dat ze alleen maar alleen wilden zijn, om te studeren en plannen te smeden.$B$BHet kan me niet schelen wat de reden was. Wat me wel kan schelen: de verwoeste buitenwijken van hun stad, buiten de koepel, kunnen waardevolle magische schatten verbergen.$B$BMaar de tovenaars en hun elementaire slaven patrouilleren in dat gebied.$B$BJaag dus op hen, en kom terug als hun aantal flink kleiner is geworden.",
+      "o": "Dood 6 Dalaran Summoners en 12 Elemental Slaves. Ga daarna terug naar Magus Voidglare in Tarren Mill.",
+      "p": "Heb je de patrouilles van Dalaran rond hun ruïnes al uitgedund?",
+      "c": "Heel goed. Die ruïnes zijn nu veilig genoeg om te doorzoeken, als je voorzichtig bent.$B$BBedankt, $N.",
+      "g": [
+        [
+          "patrouilles",
+          "patrols (patrouille)"
+        ],
+        [
+          "koepel",
+          "dome"
+        ],
+        [
+          "geweld",
+          "violence"
+        ],
+        [
+          "plannen te smeden",
+          "to plot (plannen smeden)"
+        ],
+        [
+          "het kan me niet schelen",
+          "I don't care"
+        ],
+        [
+          "verwoeste",
+          "ruined (verwoest)"
+        ],
+        [
+          "buitenwijken",
+          "outskirts (buitenwijk)"
+        ],
+        [
+          "waardevolle",
+          "valuable (waardevol)"
+        ],
+        [
+          "schatten",
+          "treasures (schat)"
+        ],
+        [
+          "elementaire",
+          "elemental (elementair)"
+        ],
+        [
+          "patrouilleren",
+          "to patrol"
+        ],
+        [
+          "uitgedund",
+          "thinned (uitdunnen)"
+        ],
+        [
+          "doorzoeken",
+          "to search"
+        ]
+      ]
+    },
+    "503": {
+      "t": "Gol'dir",
+      "d": "Uit de documenten die je hebt gevonden, begrijp ik dat Gol'dir wordt vastgehouden in een grote basis van de Syndicate in het noorden, waarschijnlijk in de Alterac Mountains. Hij is al veel te lang gevangen en moet worden bevrijd.",
+      "o": "Bevrijd Gol'dir en ga daarna terug naar Krusk in Tarren Mill.",
+      "p": "Geef me de sleutel, $C. Ik maak het slot zelf open.",
+      "c": "Dank je, $N. Ik leidde de expeditie uit Durotar op bevel van de Warchief, maar zoals je ziet, liepen onze plannen nogal mis. Ze hebben me hier in dit dorp gevangen gehouden en me laten werken: lasten sjouwen, graven...$b$bWat ik heb geleden, is echter niet belangrijk. Er is belangrijke informatie die je moet afleveren bij degene die onze groep nu leidt.",
+      "e": "Vind de plek waar Gol'dir wordt vastgehouden",
+      "g": [
+        [
+          "vastgehouden",
+          "held (vasthouden)"
+        ],
+        [
+          "bevrijd",
+          "freed (bevrijden)"
+        ],
+        [
+          "slot",
+          "lock"
+        ],
+        [
+          "op bevel van",
+          "under the orders of"
+        ],
+        [
+          "liepen",
+          "went (lopen); liepen mis = went awry (mislopen)"
+        ],
+        [
+          "nogal",
+          "somewhat, rather"
+        ],
+        [
+          "lasten",
+          "burdens, loads (last)"
+        ],
+        [
+          "sjouwen",
+          "to haul, to lug"
+        ],
+        [
+          "geleden",
+          "suffered (lijden)"
+        ],
+        [
+          "afleveren",
+          "to deliver"
+        ],
+        [
+          "degene die",
+          "whoever, the one who"
+        ]
+      ]
+    },
+    "506": {
+      "t": "De erfenis van Blackmoore",
+      "d": "Een dag of twee geleden kreeg ik bezoek van de leider van deze Syndicate. Hij heette Aliden Perenolde en noemde zichzelf heer van dit land. Hij vertelde me in vertrouwen over zijn plannen: hij wilde de orks die tegen hem waren tot slaven maken, net zoals zijn vader en zijn leermeester, de gehate Blackmoore, van plan waren geweest.$b$bBelangrijker was dat hij zijn minnares meebracht, een tenger meisje dat Elysa heette. Om haar hals hing de hanger die de Warchief wil hebben.$b$bGa nu. Ik vind zelf mijn weg, als ik mijn zaken hier heb geregeld.",
+      "o": "Breng de informatie die Gol'dir heeft verzameld naar Krusk in Tarren Mill.",
+      "c": "Wat een brutaliteit van die arrogante mensen! We zullen ze laten zien dat de orks zich nooit aan hun wil zullen onderwerpen!$b$bDit wordt nu onze missie, naast het terugvinden van het sieraad dat de Warchief wil hebben. Het lijkt erop dat we het ene bereiken als we het andere doen.",
+      "g": [
+        [
+          "erfenis",
+          "legacy, inheritance"
+        ],
+        [
+          "in vertrouwen",
+          "in confidence"
+        ],
+        [
+          "leermeester",
+          "mentor"
+        ],
+        [
+          "gehate",
+          "despised, hated (gehaat)"
+        ],
+        [
+          "minnares",
+          "mistress"
+        ],
+        [
+          "tenger",
+          "slight, slender"
+        ],
+        [
+          "hanger",
+          "pendant"
+        ],
+        [
+          "zaken",
+          "business, affairs (zaak)"
+        ],
+        [
+          "brutaliteit",
+          "nerve, impudence"
+        ],
+        [
+          "arrogante",
+          "overbearing, arrogant (arrogant)"
+        ],
+        [
+          "onderwerpen",
+          "to submit (zich onderwerpen)"
+        ],
+        [
+          "sieraad",
+          "trinket, piece of jewelry"
+        ]
+      ]
+    },
+    "518": {
+      "t": "De Crown of Will",
+      "d": "Mug'Thol en zijn Crushridge-ogers hebben de ruïnes van Alterac overspoeld. Het wordt moeilijk om hem echt te straffen als we het aantal ogers niet eerst verminderen.$b$bAls we ze eerst verzwakt hebben, gaan we verder.$b$bBegrepen? Goed. Ga nu.",
+      "o": "Dood 14 Crushridge Maulers voor Melisara in Tarren Mill.",
+      "p": "Ik zie dat je taak nog niet af is, $N. Zal ik Sharlindra vertellen hoe onbekwaam je bent?",
+      "c": "De sneeuw kleurt rood van het bloed van de ogers. Maar we mogen niet stoppen tot de moed en het aantal van de Crushridge verpletterd zijn en fijngemalen in het vuil en de sneeuw.",
+      "g": [
+        [
+          "overspoeld",
+          "overrun (overspoelen)"
+        ],
+        [
+          "straffen",
+          "to punish"
+        ],
+        [
+          "verminderen",
+          "to reduce, to thin out"
+        ],
+        [
+          "verzwakt",
+          "weakened, softened up (verzwakken)"
+        ],
+        [
+          "begrepen",
+          "understood (begrijpen)"
+        ],
+        [
+          "onbekwaam",
+          "inept, incompetent"
+        ],
+        [
+          "kleurt",
+          "turns (a colour) (kleuren)"
+        ],
+        [
+          "moed",
+          "spirit, courage"
+        ],
+        [
+          "verpletterd",
+          "crushed (verpletteren)"
+        ],
+        [
+          "fijngemalen",
+          "ground (fijnmalen)"
+        ],
+        [
+          "vuil",
+          "dirt"
+        ]
+      ]
+    },
+    "566": {
+      "t": "GEZOCHT: Baron Vardus",
+      "d": "Op bevel van High Executor Darthalia wordt de mens die bekendstaat als Baron Vardus gezocht voor misdaden tegen de Forsaken. Het is bekend dat Vardus een hooggeplaatst lid is van de organisatie die de Syndicate heet.$b$bHij is voor het laatst gezien in de Uplands in de Alterac Mountains, ten noorden van Tarren Mill.$b$bHij wordt dood gezocht. Breng bewijs van zijn dood naar High Executor Darthalia om de beloning te krijgen.",
+      "o": "Dood Baron Vardus en breng zijn hoofd naar High Executor Darthalia in Tarren Mill.",
+      "p": "Ah, $N. Kom je misschien de beloning halen die op het hoofd van Baron Vardus staat?",
+      "c": "Je doet nuttig werk, $N. Nu Baron Vardus dood is, wordt het aantal leiders van de Syndicate kleiner. Hun verzet en de ergernis die ze geven, zullen niet lang meer duren.",
+      "g": [
+        [
+          "gezocht",
+          "wanted (zoeken)"
+        ],
+        [
+          "op bevel van",
+          "by order of"
+        ],
+        [
+          "bekendstaat als",
+          "is known as (bekendstaan)"
+        ],
+        [
+          "misdaden",
+          "crimes (misdaad)"
+        ],
+        [
+          "hooggeplaatst",
+          "high-ranking"
+        ],
+        [
+          "lid",
+          "member"
+        ],
+        [
+          "voor het laatst gezien",
+          "last spotted"
+        ],
+        [
+          "bewijs",
+          "evidence, proof"
+        ],
+        [
+          "beloning",
+          "reward, bounty"
+        ],
+        [
+          "nuttig",
+          "productive, useful"
+        ],
+        [
+          "verzet",
+          "resistance"
+        ],
+        [
+          "ergernis",
+          "irritation, annoyance"
+        ]
+      ]
+    },
+    "519": {
+      "t": "De Crown of Will",
+      "d": "Targ, Muckrake en Glommus zijn de luitenants van Mug'Thol. Ze zijn trouw aan hem, al weet niemand wat een oger trouw maakt.$b$bBreng me hun hoofden, $n. Daarna hoeven we alleen nog het hoofd van Mug'Thol eraf te halen, met kroon en al.",
+      "o": "Dood Targ, Muckrake en Glommus en breng hun hoofden naar Melisara in Tarren Mill.",
+      "p": "Ik wil hun hoofden, $N, geen smoesjes.",
+      "c": "...en ik dacht dat ogers al vies genoeg stonken.$b$bAls je me het hoofd van Mug'Thol brengt, laat ik ze alle vier op pieken boven Alterac zetten. Een passend monument voor wie tegen de wensen van de Dark Lady ingaat.",
+      "g": [
+        [
+          "luitenants",
+          "lieutenants (luitenant)"
+        ],
+        [
+          "trouw",
+          "loyal, loyalty"
+        ],
+        [
+          "al",
+          "though, although"
+        ],
+        [
+          "met kroon en al",
+          "crown and all"
+        ],
+        [
+          "smoesjes",
+          "excuses (smoesje)"
+        ],
+        [
+          "stonken",
+          "smelled bad (stinken)"
+        ],
+        [
+          "pieken",
+          "pikes (piek)"
+        ],
+        [
+          "passend",
+          "fitting"
+        ],
+        [
+          "ingaat",
+          "goes (against) (ingaan tegen)"
+        ]
+      ]
+    },
+    "507": {
+      "t": "Lord Aliden Perenolde",
+      "d": "Het is duidelijk dat Perenolde moet worden gedood. Zijn smerigheid moet van de wereld verdwijnen. Zijn landhuis ligt een eind ten noorden van hier, aan de oever van Lordamere Lake. Doe je plicht, $n. Haal daarna de hanger die de Warchief wil hebben, en kom hier terug.",
+      "o": "Dood Lord Aliden Perenolde en vraag zijn minnares, Elysa, naar de hanger van Taretha.",
+      "p": "W-wat wil je?",
+      "c": "Nee, nee, alsjeblieft, doe me geen pijn! Ik wilde jullie volk nooit kwaad doen, hij hield me hier tegen mijn wil! Alsjeblieft... spaar me!",
+      "g": [
+        [
+          "smerigheid",
+          "foulness, filth"
+        ],
+        [
+          "landhuis",
+          "manor"
+        ],
+        [
+          "een eind",
+          "a ways, some distance"
+        ],
+        [
+          "oever",
+          "shore"
+        ],
+        [
+          "plicht",
+          "duty"
+        ],
+        [
+          "hanger",
+          "pendant"
+        ],
+        [
+          "minnares",
+          "mistress"
+        ],
+        [
+          "kwaad doen",
+          "to harm"
+        ],
+        [
+          "tegen mijn wil",
+          "against my will"
+        ],
+        [
+          "spaar",
+          "spare (sparen)"
+        ]
+      ]
+    },
+    "520": {
+      "t": "De Crown of Will",
+      "d": "Nu de luitenants van Mug'Thol dood zijn, hoeven we alleen nog Mug'Thol te doden en de Crown of Will terug te halen. Ik twijfel er niet aan dat hij hem niet graag afgeeft. Waarschijnlijk verwacht hij je ook al, na het... vertrek... van zijn makkers.$b$bZoek Mug'Thol en breng me zijn hoofd en de kroon. Dan is het verzet van de Crushridge voorbij.",
+      "o": "Dood Mug'Thol en breng zijn hoofd en de Crown of Will naar Melisara in Tarren Mill.",
+      "p": "Drie hoofden heb ik, een vierde heb ik nodig. Het wordt dat van Mug'Thol, of het wordt dat van jou, $N. Dat beloof ik.",
+      "c": "Je hebt je plicht goed gedaan, $N. Het hoofd van Mug'Thol zal de hoogste top van de ruïnes van Alterac sieren, en de Deathguard zal de laatste resten van de Crushridge de grond in vegen.",
+      "g": [
+        [
+          "ik twijfel er niet aan",
+          "I have no doubt"
+        ],
+        [
+          "afgeeft",
+          "parts with, gives up (afgeven)"
+        ],
+        [
+          "verwacht",
+          "expects (verwachten)"
+        ],
+        [
+          "vertrek",
+          "departure"
+        ],
+        [
+          "makkers",
+          "fellows, mates (makker)"
+        ],
+        [
+          "verzet",
+          "resistance"
+        ],
+        [
+          "beloof",
+          "promise (beloven)"
+        ],
+        [
+          "top",
+          "peak"
+        ],
+        [
+          "sieren",
+          "to adorn"
+        ],
+        [
+          "resten",
+          "remnants (rest)"
+        ],
+        [
+          "vegen",
+          "to sweep"
+        ]
+      ]
+    },
+    "521": {
+      "t": "De Crown of Will",
+      "d": "Nu hoef je alleen nog de Crown of Will naar Sharlindra in de Undercity te brengen. Zij zorgt ervoor dat hij bij Lady Sylvanas komt. Ik waarschuw je: denk er niet aan om hem voor je eigen doelen te gebruiken, $n. Wat er met Mug'Thol is gebeurd, zou voorbeeld genoeg moeten zijn.",
+      "o": "Breng de Crown of Will naar Sharlindra in de Undercity.",
+      "p": "Ja? Heb je iets te melden?",
+      "c": "Dus dit is het relikwie dat de oger gebruikte om aan de wil van de Dark Lady te ontsnappen...$b$bVreemd dat zoiets eenvoudigs zo'n grote kracht kan hebben. En dat het in zulke onhandige handen terechtkwam. Goed gedaan, $N. Ik breng de kroon naar Lady Sylvanas en zorg ervoor dat ze hoort wat je hebt bereikt.",
+      "g": [
+        [
+          "waarschuw",
+          "warn (waarschuwen)"
+        ],
+        [
+          "doelen",
+          "purposes, goals (doel)"
+        ],
+        [
+          "voorbeeld genoeg",
+          "illustration enough"
+        ],
+        [
+          "melden",
+          "to report"
+        ],
+        [
+          "relikwie",
+          "relic"
+        ],
+        [
+          "ontsnappen",
+          "to escape, to duck"
+        ],
+        [
+          "eenvoudigs",
+          "simple (eenvoudig)"
+        ],
+        [
+          "onhandige",
+          "clumsy (onhandig)"
+        ],
+        [
+          "terechtkwam",
+          "ended up (terechtkomen)"
+        ],
+        [
+          "bereikt",
+          "accomplished (bereiken)"
+        ]
+      ]
+    }
+  },
+  "words": {
+    "bewaakte": "guarded (bewaken)",
+    "boulderfist-stam": "Boulderfist tribe",
+    "bouwden": "built (bouwen)",
+    "hals": "neck",
+    "hing": "hung (hangen)",
+    "inbreken": "to break in",
+    "infiltratie": "infiltration",
+    "ingaat": "goes (ingaan; ingaan tegen = to go against)",
+    "meebracht": "brought along (meebrengen)",
+    "mensendorp": "human town",
+    "quarantaine": "quarantine",
+    "strijdplannen": "battle plans (strijdplan)",
+    "tallow": "Tallow (a name)",
+    "timing": "timing",
+    "uitdeelde": "dealt, handed out (uitdelen)",
+    "w-wat": "w-what (stammering: wat)",
+    "wegrent": "run off (wegrennen)"
+  },
+  "terms": {}
+}
