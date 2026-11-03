@@ -1,6 +1,7 @@
 # Changelog
 
 ## Unreleased
+- Batch 97: Ahn'Qiraj tier-set quests from the Brood of Nozdormu (Deathdealer's, Striker's, Doomcaller's, Avenger's and Genesis pieces), Keyl Swiftclaw's Qiraji cloaks and two of Windcaller Yessendra's rings (26 quests, 4132 in total).
 - Batch 98: Ahn'Qiraj Cenarion Circle rings and weapons, C'Thun's end, the Emberstrife Onyxia attunement chain, Nefarius's Corruption, Concerted Efforts, Scourge Invasion and the fishing contest and rare fish quests (36 quests, 4106 in total).
 - Batch 92: Feralas, Tanaris, Western Plaguelands and Darkmoon Faire level 50–60 quests (the Morrowgrain chain with Quintis Jonespyre, An OOX of Your Own, Valorfist's Clear the Way and All Along the Watchtowers, the Scholomance Skeleton Key chain, the four Darkmoon card decks and the Darkmoon Faire ticket turn-ins) (28 quests, 4070 in total).
 - Batch 99: Scourge Invasion (Argent Dawn call to arms, letters from the front, Argent Quartermaster rewards), the Thunderfury and Atiesh legendary quests, and the Lunar Festival elders and Valadar Starsong (73 quests, 4042 in total).
