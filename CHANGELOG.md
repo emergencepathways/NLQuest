@@ -1,6 +1,7 @@
 # Changelog
 
 ## Unreleased
+- Batch 47: Profession quests for the Alliance: Cooking (Beer Basted Boar Ribs, Recipe of the Kaldorei, Easy Strider Living, Clamlette Surprise), First Aid (Alliance Trauma, Triage), Fishing (Gaffer Jacks, Electropellers, Nat Pagle, Angler Extreme) and Blacksmithing (Supplying the Front, Gearing Redridge, the armorsmith and weaponsmith quests, and the Galvan / Mithril Order chain to Expert Blacksmith) (26 quests, 1583 in total).
 - Batch 119: The Horde Hunter class quests from level 1 to 10 (Etched Tablet/Parchment/Note, The Hunter's Path, Taming the Beast and Training the Beast in Durotar and Mulgore) and the Horde Rogue class quests from level 1 to 16 (Encrypted Tablet/Parchment/Scroll, the Shattered Hand and Deathstalkers chains, Fenwick Thatros, Find the Shattered Hand) (30 quests, 1557 in total).
 - Batch 46: Warlock class quests from level 34 to 40 (the Enchanted Gold Bloodrobe chain, Summon Felsteed, and the Orb of Orahil chain with the felhound and infernal paths to the Orbs of Dar'Orahil and Noh'Orahil) (18 quests, 1527 in total).
 - Batch 45: The Mage class quests from level 38 to 40 (Hidden Secrets, Items of Power, Rituals of Power, Mage's Wand, Mana Surges, Celestial Power) and the Alliance Warlock class quests from level 1 to 31 (Tainted Letter/Memorandum, imp, voidwalker, succubus and felhunter summoning chains, Enchanted Gold Bloodrobe start) (25 quests, 1509 in total).
