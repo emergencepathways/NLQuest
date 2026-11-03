@@ -129,6 +129,7 @@ Data\Batch_73_Silithus.lua
 Data\Batch_74_Silithus.lua
 Data\Batch_144_The_Hinterlands.lua
 Data\Batch_75_Silithus.lua
+Data\Batch_145_First_Aid.lua
 
 Display.lua
 Reader.lua
