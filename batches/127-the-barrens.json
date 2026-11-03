@@ -1,0 +1,1596 @@
+{
+  "quests": {
+    "857": {
+      "t": "De Tear of the Moons",
+      "d": "De macht was van mij! In mijn eigen handen! En ik wil hem terug! Terug, zeg ik!$b$bDie vuile gravers hebben hem opgegraven... zo mooi was hij. Hij kreeg de naam Tear of the Moons, en hij was de eerste grote vondst die we bij Bael Modan deden.$b$bHij had van mij moeten zijn! Van mij, zeg ik!$b$bGeneral Twinbraid werd jaloers op de macht die hij me gaf. Hij sloot hem op in de Keep. Hij noemde hem vervloekt! De dwaas!$b$bAnderen wilden hem hebben, en die moesten tegengehouden worden! Die schoft Twinbraid heeft me weggejaagd.$b$bNu wil ik hem terug. Terug, zeg ik!",
+      "o": "Feegly the Exiled wil dat je de Tear of the Moons voor hem terughaalt.",
+      "p": "Waar is de Tear of the Moons? Ik heb hem nu nodig! Nodig, zeg ik!",
+      "c": "Eindelijk is de macht weer van mij! Van mij, zeg ik!",
+      "g": [
+        [
+          "macht",
+          "power"
+        ],
+        [
+          "vuile",
+          "dirty (vuil)"
+        ],
+        [
+          "gravers",
+          "diggers, excavators (graver)"
+        ],
+        [
+          "opgegraven",
+          "dug up, uncovered (opgraven)"
+        ],
+        [
+          "vondst",
+          "discovery, find"
+        ],
+        [
+          "jaloers",
+          "jealous"
+        ],
+        [
+          "sloot",
+          "locked (sluiten; opsluiten = lock away)"
+        ],
+        [
+          "vervloekt",
+          "cursed"
+        ],
+        [
+          "dwaas",
+          "fool"
+        ],
+        [
+          "tegengehouden",
+          "stopped (tegenhouden)"
+        ],
+        [
+          "schoft",
+          "bastard, scoundrel"
+        ],
+        [
+          "weggejaagd",
+          "driven off (wegjagen)"
+        ],
+        [
+          "terughaalt",
+          "gets back, retrieves (terughalen)"
+        ]
+      ]
+    },
+    "1145": {
+      "t": "De zwerm groeit",
+      "d": "Veel reizigers die door de Crossroads zijn gekomen, hebben me geholpen om eieren te verzamelen in het Field of Giants. Velen van hen vertellen verhalen over hoe dodelijk de wezens zijn. Ik heb genoeg gehoord om die insecten een veel grotere dreiging te vinden dan mijn meesters eerst dachten.$B$BIk heb een koerier nodig die naar Orgrimmar reist om Belgrom Rockmaul te ontmoeten. Het is geen eenvoudige zaak, dus er moet iemand gaan die de taak serieus neemt.$B$BBelgrom is meestal te vinden buiten het gildehuis van de krijgers.",
+      "o": "Breng Korran's Sealed Note naar Belgrom Rockmaul in Orgrimmar.",
+      "p": "Ik benijd je, $c. Je ziet eruit als iemand die al een tijdje buiten de muren van Orgrimmar is geweest.$B$BIk zou zelf ook reizen in naam van de Warchief, als Thrall mijn vaardigheden hier in de stad niet nodig had. Maar hij leidt ons goed, en ik vertrouw op zijn oordeel. Ik blijf hier zo lang als hij me nodig heeft.",
+      "c": "Ah, een briefje van Korran. Hij is al een hele tijd een trouwe dienaar. Ik vroeg me al af hoe zijn taken in de Crossroads gingen.",
+      "g": [
+        [
+          "zwerm",
+          "swarm"
+        ],
+        [
+          "reizigers",
+          "travelers (reiziger)"
+        ],
+        [
+          "dodelijk",
+          "deadly"
+        ],
+        [
+          "dreiging",
+          "threat"
+        ],
+        [
+          "koerier",
+          "courier"
+        ],
+        [
+          "eenvoudige zaak",
+          "simple matter"
+        ],
+        [
+          "gildehuis",
+          "guild house"
+        ],
+        [
+          "benijd",
+          "envy (benijden)"
+        ],
+        [
+          "vaardigheden",
+          "skills (vaardigheid)"
+        ],
+        [
+          "oordeel",
+          "judgement"
+        ],
+        [
+          "trouwe",
+          "loyal (trouw)"
+        ],
+        [
+          "dienaar",
+          "servant"
+        ],
+        [
+          "vroeg me af",
+          "wondered (zich afvragen)"
+        ]
+      ]
+    },
+    "421": {
+      "t": "Bewijs wat je waard bent",
+      "d": "Lady Sylvanas heeft Varimathras opgedragen om de landen van de mensen en de dwergen in het zuiden te veroveren.$b$bMaar dan is er die dwaas, Arugal. Hij is een bedrieger uit Dalaran, en nu een vervloekt beest van Shadowfang Keep. Hij liet zijn roekeloze magie grote schade aanrichten in Silverpine Forest. Dat is een belangrijk strategisch bolwerk.$b$bIk heb iemand nodig die goed kan vechten. Die persoon moet helpen om de rommel van Arugal op te ruimen. Bewijs jezelf aan mij: dood 5 Moonrage Whitescalps. Je vindt die ellendige beesten vaak vlak naast de weg, onderaan de heuvel.",
+      "o": "Dalar Dawnweaver in de Sepulcher wil dat je 5 Moonrage Whitescalps doodt.",
+      "p": "Als je jezelf aan mij wilt bewijzen, moet je 5 Moonrage Whitescalps doden. Doe je dat, dan zorg ik ervoor dat je vaardigheden voor waardigere opdrachten worden gebruikt.",
+      "c": "Je hebt me goed gediend, $c. Het is duidelijk dat je een waardige helper voor me zult zijn. Ik bereid me voor om Silverpine Forest te bevrijden van de vloek van Arugal.",
+      "g": [
+        [
+          "opgedragen",
+          "ordered, charged with (opdragen)"
+        ],
+        [
+          "veroveren",
+          "to conquer"
+        ],
+        [
+          "bedrieger",
+          "charlatan, fraud"
+        ],
+        [
+          "roekeloze",
+          "reckless (roekeloos)"
+        ],
+        [
+          "schade aanrichten",
+          "to wreak havoc, to cause damage"
+        ],
+        [
+          "bolwerk",
+          "stronghold"
+        ],
+        [
+          "rommel",
+          "mess"
+        ],
+        [
+          "ellendige",
+          "wretched (ellendig)"
+        ],
+        [
+          "waardigere",
+          "more worthy (waardig)"
+        ],
+        [
+          "gediend",
+          "served (dienen)"
+        ],
+        [
+          "vloek",
+          "curse"
+        ]
+      ]
+    },
+    "6321": {
+      "t": "Voorraden voor de Sepulcher",
+      "d": "Executor Hadrec vroeg me om onze uitrusting in de Sepulcher te tellen. De Scourge, en erger, loert in de bossen. Daarom wil hij niet dat de Deathguards uitrusting missen die ze misschien nodig hebben.$B$BIk zag dat we over het algemeen genoeg voorraad hebben. Maar we hebben wel meer wapens nodig. Die moeten de wapens vervangen die in het veld verloren zijn.$B$BHier is een bestelling met wat we nodig hebben, voor de wapenhandelaar Gordon Wendham in de Undercity. Breng de bestelling naar onze vleermuismeester, Karos Razok, en praat met hem over vervoer naar de Undercity.",
+      "o": "Breng Podrig's Order naar Karos Razok.",
+      "p": "Je lijkt hier voor officiële zaken te zijn...",
+      "c": "Ah, een bestelling voor voorraden. Je wilt hiermee vast naar de Undercity. En snel, want de Sepulcher mag niet te weinig voorraad hebben.",
+      "g": [
+        [
+          "voorraden",
+          "supplies (voorraad)"
+        ],
+        [
+          "uitrusting",
+          "equipment, gear"
+        ],
+        [
+          "loert",
+          "lurks (loeren)"
+        ],
+        [
+          "over het algemeen",
+          "in general"
+        ],
+        [
+          "vervangen",
+          "to replace"
+        ],
+        [
+          "bestelling",
+          "order"
+        ],
+        [
+          "wapenhandelaar",
+          "weapon dealer"
+        ],
+        [
+          "vleermuismeester",
+          "bat master"
+        ],
+        [
+          "vervoer",
+          "transport"
+        ],
+        [
+          "officiële zaken",
+          "official business"
+        ]
+      ]
+    },
+    "6322": {
+      "t": "Michael Garrett",
+      "d": "Ik heb de voorraden voor de Sepulcher in deze krat gedaan. Ben je al in de Sepulcher geweest en heb je met hun vleermuismeester gepraat? Dan mag je op een vleermuis terug naar hem vliegen.$B$BPraat met de vleermuismeester van de Undercity, Michael Garrett. Hij kan je een vleermuis naar de Sepulcher geven.",
+      "o": "Breng Gordon's Crate naar Michael Garrett.",
+      "p": "Als je ver moet reizen, dan is een vleermuis de beste keuze.",
+      "c": "Deze krat moet naar de Sepulcher in Silverpine? Dat is makkelijk. Onze vleermuizen vliegen er elke dag heen.",
+      "g": [
+        [
+          "voorraden",
+          "supplies (voorraad)"
+        ],
+        [
+          "krat",
+          "crate"
+        ],
+        [
+          "vleermuismeester",
+          "bat master"
+        ],
+        [
+          "vleermuis",
+          "bat"
+        ],
+        [
+          "keuze",
+          "choice, option"
+        ],
+        [
+          "vleermuizen",
+          "bats (vleermuis)"
+        ]
+      ]
+    },
+    "6323": {
+      "t": "Een rit naar de Undercity",
+      "d": "Een van mijn vleermuizen kan je naar de Undercity brengen, voor een klein bedrag. Praat nog eens met me als je klaar bent. Dan regelen we je vervoer.$B$BJe vindt Gordon Wendham in de Trade Quarter van de Undercity. Mijn vleermuis landt in diezelfde wijk.",
+      "o": "Koop een vleermuisrit naar de Undercity bij de vleermuismeester Karos Razok. Breng daarna Podrig's Order naar Gordon Wendham in de Undercity.",
+      "p": "Ik houd mijn wapens in topconditie. Ze zijn schoon en klaar voor gebruik.",
+      "c": "Een bestelling van de Sepulcher? Goed dan. Het is een eer om hen te dienen die onze Dark Lady dienen.",
+      "g": [
+        [
+          "rit",
+          "ride"
+        ],
+        [
+          "bedrag",
+          "amount, fee"
+        ],
+        [
+          "regelen",
+          "to arrange"
+        ],
+        [
+          "vervoer",
+          "transport"
+        ],
+        [
+          "wijk",
+          "quarter, district"
+        ],
+        [
+          "vleermuisrit",
+          "bat ride"
+        ],
+        [
+          "topconditie",
+          "top condition"
+        ],
+        [
+          "eer",
+          "honor"
+        ]
+      ]
+    },
+    "6324": {
+      "t": "Terug naar Podrig",
+      "d": "De vleermuismeester in de Sepulcher is Karos Razok. Heb je hem al ontmoet? Dan kan ik je een vleermuis geven om terug naar hem te vliegen.$B$BOnze vleermuizen vliegen altijd naar de Undercity. Maar voor verre plaatsen moet de rijder eerst zelf naar dat gebied gaan en met de vleermuismeester daar praten.$B$BJe hebt Karos in de Sepulcher ontmoet, dus je mag nu met vleermuizen daarheen vliegen. Praat nog eens met me als je klaar bent.",
+      "o": "Koop een vleermuisrit naar de Sepulcher bij de vleermuismeester Michael Garrett. Breng daarna Gordon's Crate naar Deathguard Podrig in de Sepulcher.",
+      "p": "$N, je bent terug. Heb je onze voorraden uit de Undercity?",
+      "c": "Goed gedaan, $N. Met deze wapens worden onze Deathguards niet onvoorbereid verrast.$B$BJe hebt onze Dark Lady een waardevolle dienst bewezen.",
+      "g": [
+        [
+          "verre",
+          "remote, distant (ver)"
+        ],
+        [
+          "rijder",
+          "rider"
+        ],
+        [
+          "gebied",
+          "area"
+        ],
+        [
+          "daarheen",
+          "there (to that place)"
+        ],
+        [
+          "onvoorbereid",
+          "unprepared"
+        ],
+        [
+          "verrast",
+          "caught by surprise (verrassen)"
+        ],
+        [
+          "waardevolle",
+          "valuable (waardevol)"
+        ],
+        [
+          "een dienst bewezen",
+          "done a service (een dienst bewijzen)"
+        ]
+      ]
+    },
+    "422": {
+      "t": "De dwaasheid van Arugal",
+      "d": "Ik begrijp niet hoe Arugal ooit in de Kirin Tor werd toegelaten. Zijn kennis van spreuken leek zo doorzichtig als een bolletje van geblazen glas.$b$bWat nu belangrijk is: ik moet precies weten welke magie Arugal gebruikte. Dan kan ik die tegen hem gebruiken en Silverpine Forest voor de Dark Lady veiligstellen.$b$bArugal verbleef eerst op de tarweboerderij net ten noorden van de brug. Een van de Deathstalkers zag daar wat spreukenboeken, maar kon ze niet meenemen. Haal voor mij de spreuk met de naam Remedy of Arugal uit die boeken.",
+      "o": "Haal de Remedy of Arugal voor Dalar Dawnweaver in de Sepulcher.",
+      "p": "Ik moet eerst de spreuk Remedy of Arugal bestuderen, $c. Pas dan weet ik waar we hier mee te maken hebben. Breng hem nu naar me, of ik moet een waardige dienaar voor mezelf zoeken.",
+      "c": "Dit is precies de spreuk die ik zocht, $c. Als je toewijding aan de zaak van de Dark Lady nooit faalt, dan zul je zien dat je een mooie toekomst hebt bij de Forsaken.",
+      "g": [
+        [
+          "dwaasheid",
+          "folly, foolishness"
+        ],
+        [
+          "toegelaten",
+          "accepted, admitted (toelaten)"
+        ],
+        [
+          "doorzichtig",
+          "transparent"
+        ],
+        [
+          "geblazen",
+          "blown (blazen)"
+        ],
+        [
+          "veiligstellen",
+          "to secure"
+        ],
+        [
+          "verbleef",
+          "stayed (verblijven)"
+        ],
+        [
+          "tarweboerderij",
+          "wheat farm"
+        ],
+        [
+          "spreukenboeken",
+          "spellbooks (spreukenboek)"
+        ],
+        [
+          "waar we mee te maken hebben",
+          "what we are dealing with"
+        ],
+        [
+          "toewijding",
+          "dedication"
+        ],
+        [
+          "faalt",
+          "fails (falen)"
+        ]
+      ]
+    },
+    "429": {
+      "t": "Wilde harten",
+      "d": "Mijn broer Quinn is zwaar gewond door de ghoul Ivar the Foul. Ik weet niet of hij goed zal genezen zonder hulp van magie. Ik ben geen apotheker, maar ik weet wel dat onze apothekers geneesdrankjes kunnen maken van de verkleurde harten van worgs.$B$BVerzamel zulke harten en breng ze naar Apothecary Renferrel in de Sepulcher, in het zuiden. Kom daarna met het drankje hier terug.$B$BJe vindt veel worgs tussen hier en Malden's Orchard in het oosten.",
+      "o": "Verzamel 6 discolored worg hearts en breng ze naar Apothecary Renferrel in de Sepulcher.",
+      "p": "Mijn tijd is kort, $c, want de Dark Lady heeft me een zware taak gegeven.",
+      "c": "<Renferrel neemt de harten aan.>$B$BHet is zorgwekkend om te horen dat onze Deathstalkers hun missie niet hebben volbracht.$B$BLaten we hopen dat zulke mislukkingen zeldzaam zijn.$B$BIk geef je zo het drankje. Maar hier is het recept. Als die Deathstalkers later weer hulp nodig hebben, kun je het misschien zelf geven.",
+      "g": [
+        [
+          "gewond",
+          "hurt, wounded"
+        ],
+        [
+          "genezen",
+          "to heal"
+        ],
+        [
+          "apotheker",
+          "apothecary"
+        ],
+        [
+          "geneesdrankjes",
+          "healing potions (geneesdrankje)"
+        ],
+        [
+          "verkleurde",
+          "discolored (verkleurd)"
+        ],
+        [
+          "drankje",
+          "potion"
+        ],
+        [
+          "zware taak",
+          "grave task"
+        ],
+        [
+          "zorgwekkend",
+          "troubling, worrying"
+        ],
+        [
+          "volbracht",
+          "accomplished (volbrengen)"
+        ],
+        [
+          "mislukkingen",
+          "failures (mislukking)"
+        ],
+        [
+          "zeldzaam",
+          "rare"
+        ]
+      ]
+    },
+    "430": {
+      "t": "Terug naar Quinn",
+      "d": "Hier is het drankje om Quinn Yorick te helpen herstellen.$B$BEn als je me nu wilt excuseren: ik moet verder met heel belangrijk werk...",
+      "o": "Breng Quinn's potion naar Quinn Yorick bij de Ivar Patch, ten noorden van de Sepulcher.",
+      "p": "Mijn zus vertelde dat je hier bent om ons te helpen. Is dat waar?",
+      "c": "<Quinn neemt het drankje aan en drinkt het op.>$B$BJa, ik voel dat het werkt. Ik kan straks weer reizen.$B$BJe hebt me een grote dienst bewezen, $N.",
+      "g": [
+        [
+          "drankje",
+          "potion"
+        ],
+        [
+          "herstellen",
+          "to recover"
+        ],
+        [
+          "excuseren",
+          "to excuse"
+        ],
+        [
+          "drinkt het op",
+          "drinks it (opdrinken)"
+        ],
+        [
+          "straks",
+          "soon"
+        ],
+        [
+          "een dienst bewezen",
+          "done a favor (een dienst bewijzen)"
+        ]
+      ]
+    },
+    "449": {
+      "t": "Het rapport van de Deathstalkers",
+      "d": "De wonden van Quinn genezen, maar ik wil ons rapport zo snel mogelijk naar High Executor Hadrec brengen. Er staat informatie in die heel belangrijk is voor de bezetting van Silverpine door de Forsaken.",
+      "o": "Breng het Deathstalker Report naar High Executor Hadrec in de Sepulcher.",
+      "p": "Heb je ontdekt wat er met de Deathstalkers is gebeurd?",
+      "c": "Ik had niet gerekend op zoveel Scourge in Silverpine Forest. En ook niet op de problemen die onze Deathstalkers hadden bij hun verkenning.$B$BJe hulp aan onze Deathstalkers was heel waardevol, $N. En je zult daarvoor geprezen worden.",
+      "g": [
+        [
+          "wonden",
+          "wounds (wond)"
+        ],
+        [
+          "genezen",
+          "are healing (genezen)"
+        ],
+        [
+          "rapport",
+          "report"
+        ],
+        [
+          "bezetting",
+          "occupation"
+        ],
+        [
+          "gerekend op",
+          "accounted for, expected (rekenen op)"
+        ],
+        [
+          "verkenning",
+          "scouting"
+        ],
+        [
+          "waardevol",
+          "valuable"
+        ],
+        [
+          "geprezen",
+          "praised, commended (prijzen)"
+        ]
+      ]
+    },
+    "425": {
+      "t": "Ivar the Foul",
+      "d": "Mijn broer Quinn en ik moesten Silverpine Forest verkennen en verslag uitbrengen aan High Executor Hadrec. Maar we kwamen niet ver. Toen we door deze boerderij liepen, werden we aangevallen door de ghoul Ivar the Foul.$B$BWe zijn ontsnapt aan Ivar, maar hij heeft Quinn zwaar toegetakeld. Quinn geneest door het drankje dat je hem gaf. Maar Ivar komt misschien terug voordat Quinn hersteld is.$B$BDood Ivar, zodat Quinn tijd heeft om te genezen. Ivar is meestal in de schuur daarginds. Hij wacht tot ik niet meer oplet.",
+      "o": "Dood Ivar the Foul en breng Ivar's Head naar Rane Yorick bij de Ivar Patch.",
+      "p": "Heb je Ivar the Foul gedood? Als je het niet voor mij en mijn broer doet, doe het dan voor de Forsaken.",
+      "c": "Ah, dank je. Ik ben je dankbaar, $N.$B$BEn ik zal je noemen in het rapport voor mijn meerderen.",
+      "g": [
+        [
+          "verkennen",
+          "to scout, to recon"
+        ],
+        [
+          "verslag uitbrengen",
+          "to report"
+        ],
+        [
+          "aangevallen",
+          "attacked (aanvallen)"
+        ],
+        [
+          "ontsnapt",
+          "escaped (ontsnappen)"
+        ],
+        [
+          "toegetakeld",
+          "mauled, badly hurt (toetakelen)"
+        ],
+        [
+          "hersteld",
+          "recovered (herstellen)"
+        ],
+        [
+          "schuur",
+          "barn"
+        ],
+        [
+          "daarginds",
+          "over there, yonder"
+        ],
+        [
+          "oplet",
+          "pays attention (opletten)"
+        ],
+        [
+          "dankbaar",
+          "grateful"
+        ],
+        [
+          "meerderen",
+          "superiors (meerdere)"
+        ]
+      ]
+    },
+    "428": {
+      "t": "Vermiste Deathstalkers",
+      "d": "Een paar weken geleden zijn twee van onze Deathstalkers, Rane en Quinn Yorick, op verkenningsmissie gestuurd door het noorden van Silverpine. We hebben niets meer van ze gehoord.$B$BMisschien zijn ze slachtoffer geworden van de Scourge. Maar als dat waar is, wil ik dat het bevestigd wordt. Zoek deze Deathstalkers.$B$BHun eerste doel was om de boerderijen in het noorden van Silverpine te verkennen. Begin daar met zoeken.",
+      "o": "Zoek de Deathstalkers Quinn en Rane Yorick.",
+      "c": "Je hebt ons gevonden! En geen moment te vroeg...",
+      "g": [
+        [
+          "vermiste",
+          "lost, missing (vermist)"
+        ],
+        [
+          "verkenningsmissie",
+          "reconnaissance mission"
+        ],
+        [
+          "slachtoffer",
+          "victim"
+        ],
+        [
+          "bevestigd",
+          "confirmed (bevestigen)"
+        ],
+        [
+          "doel",
+          "objective, goal"
+        ],
+        [
+          "verkennen",
+          "to scout"
+        ],
+        [
+          "geen moment te vroeg",
+          "not a moment too soon"
+        ]
+      ]
+    },
+    "447": {
+      "t": "Een recept voor de dood",
+      "d": "Arthas heeft veel te veel troepen. Maar met een New Plague kunnen we zowel het leger van de Scourge als de menselijke plaag voorgoed uitroeien.$b$bMijn onderzoek heeft bewezen dat spinnenbloed samen met een gif uit het hart van een grijze beer een dodelijk drankje oplevert. Verzamel monsters van de spinnen in de Skittering Dark in het noordwesten, en van de beren die door heel Silverpine Forest zwerven. Breng de ingrediënten naar Master Apothecary Faranell van de Royal Apothecary Society in de Undercity.",
+      "o": "Verzamel 6 Grizzled Bear Hearts en 6 monsters Skittering Blood en breng ze naar Master Apothecary Faranell in de Undercity.",
+      "p": "Gegroet, $c. Wat heb je te zoeken bij de Royal Apothecary Society?",
+      "c": "Wat goed van Apothecary Renferrel om je naar mij te sturen, $N. Deze monsters zullen de zaak zeker helpen. Ik ga meteen hun giftige en besmettelijke eigenschappen bestuderen.",
+      "g": [
+        [
+          "troepen",
+          "troops, forces (troep)"
+        ],
+        [
+          "leger",
+          "army"
+        ],
+        [
+          "plaag",
+          "plague, infestation"
+        ],
+        [
+          "voorgoed",
+          "for good, once and for all"
+        ],
+        [
+          "uitroeien",
+          "to eradicate"
+        ],
+        [
+          "gif",
+          "poison, toxin"
+        ],
+        [
+          "oplevert",
+          "results in (opleveren)"
+        ],
+        [
+          "monsters",
+          "samples (monster)"
+        ],
+        [
+          "zwerven",
+          "wander (zwerven)"
+        ],
+        [
+          "Gegroet",
+          "Hail, greetings"
+        ],
+        [
+          "giftige",
+          "toxic (giftig)"
+        ],
+        [
+          "besmettelijke",
+          "contagious (besmettelijk)"
+        ],
+        [
+          "eigenschappen",
+          "properties (eigenschap)"
+        ]
+      ]
+    },
+    "3221": {
+      "t": "Praat met Renferrel",
+      "d": "Terwijl je onze Deathstalkers hielp, heeft Apothecary Renferrel je laten oproepen. Hij gaf me geen details. Maar hij wilde met je praten over de wolvenharten die je hem had gegeven.",
+      "o": "Praat met Apothecary Renferrel in de Sepulcher.",
+      "c": "Ah, heel goed. Er is iets met de wolvenharten die je me eerder bracht. Daar moeten we aandacht aan besteden.",
+      "g": [
+        [
+          "terwijl",
+          "while"
+        ],
+        [
+          "oproepen",
+          "to summon"
+        ],
+        [
+          "wolvenharten",
+          "wolf hearts (wolvenhart)"
+        ],
+        [
+          "eerder",
+          "earlier"
+        ],
+        [
+          "aandacht besteden",
+          "to pay attention"
+        ]
+      ]
+    },
+    "423": {
+      "t": "De dwaasheid van Arugal",
+      "d": "Ik heb het werk van Arugal onderzocht, en mijn ergste vermoedens zijn bevestigd. Die oude prutser was niet eens goed genoeg om in Dalaran de po's schoon te maken. Laat staan om de Kirin Tor te vertegenwoordigen in hun moeilijkste uur. Dwazen!$b$bArugal gebruikte betoverde voorwerpen om zijn zwakke magie sterker te maken. Ik moet die voorwerpen zelf bekijken. Ga op pad en dood Moonrage Gluttons en Moonrage Darksouls, tot je genoeg van hun betoverde boeien hebt voor mijn onderzoek. Die smerige wezens zijn in het noorden en oosten gezien.",
+      "o": "Breng 6 Glutton Shackles en 3 Darksoul Shackles naar Dalar Dawnweaver in de Sepulcher.",
+      "p": "Ik heb 6 Glutton Shackles en 3 Darksoul Shackles nodig. Pas dan kan ik de situatie beoordelen en een definitieve oplossing voor Arugal bedenken. Doe nu wat ik vraag en dood Moonrage Gluttons en Moonrage Darksouls, tot je hebt wat ik nodig heb.",
+      "c": "Ik hoop dat ik genoeg energie uit zo'n klein aantal kan halen. Misschien had ik je meer boeien moeten laten halen.$b$bToch heb je veel vaardigheid laten zien bij het verzamelen hiervan, $C.",
+      "g": [
+        [
+          "vermoedens",
+          "suspicions (vermoeden)"
+        ],
+        [
+          "prutser",
+          "hack, bungler"
+        ],
+        [
+          "po's",
+          "chamber pots (po)"
+        ],
+        [
+          "laat staan",
+          "let alone"
+        ],
+        [
+          "vertegenwoordigen",
+          "to represent"
+        ],
+        [
+          "betoverde",
+          "enchanted (betoverd)"
+        ],
+        [
+          "voorwerpen",
+          "items, objects (voorwerp)"
+        ],
+        [
+          "boeien",
+          "shackles (boei)"
+        ],
+        [
+          "smerige",
+          "foul, filthy (smerig)"
+        ],
+        [
+          "beoordelen",
+          "to assess"
+        ],
+        [
+          "definitieve oplossing",
+          "final solution"
+        ],
+        [
+          "vaardigheid",
+          "skill"
+        ]
+      ]
+    },
+    "437": {
+      "t": "De Dead Fields",
+      "d": "Onze eerste verkenningsrapporten van Silverpine laten zien dat de rot hides een basis hebben op een oude boerderij in het noorden: de Dead Fields. We hebben kleine aanvallen op ze gedaan. Maar elke keer krijgen ze hulp van de banshee Nightlash. Zij gebruikt haar magie om onze troepen te verjagen.$B$BWe willen dat Nightlash vernietigd wordt.$B$BGa naar de Dead Fields en val de rot hides aan. Zie je Nightlash niet? Dood dan rot hides tot ze verschijnt, en versla haar daarna.$B$BHaar essentie verandert in stof. Breng me dat stof als bewijs.",
+      "o": "Dood rot hide gnolls bij de Dead Fields.$B$BAls Nightlash verschijnt, dood haar dan.$B$BBreng de Essence of Nightlash naar High Executor Hadrec in de Sepulcher.",
+      "p": "Heb je Nightlash verslagen, $N? Ons succes tegen de rot hides hangt af van haar vernietiging!",
+      "c": "Ik hoorde over je geslaagde aanval op de rot hides, $N, en deze essentie bewijst dat Nightlash dood is.$B$BDe Scourge heeft vandaag terrein verloren. Je waarde voor de Forsaken groeit.",
+      "e": "Ga de Dead Fields binnen",
+      "g": [
+        [
+          "verkenningsrapporten",
+          "scouting reports (verkenningsrapport)"
+        ],
+        [
+          "aanvallen",
+          "assaults, attacks (aanval)"
+        ],
+        [
+          "banshee",
+          "banshee: a wailing female spirit"
+        ],
+        [
+          "verjagen",
+          "to drive away, to rout"
+        ],
+        [
+          "vernietigd",
+          "destroyed (vernietigen)"
+        ],
+        [
+          "verschijnt",
+          "appears (verschijnen)"
+        ],
+        [
+          "versla",
+          "defeat (verslaan)"
+        ],
+        [
+          "essentie",
+          "essence"
+        ],
+        [
+          "stof",
+          "dust"
+        ],
+        [
+          "vernietiging",
+          "destruction"
+        ],
+        [
+          "geslaagde",
+          "successful (geslaagd)"
+        ],
+        [
+          "terrein verloren",
+          "lost ground (terrein verliezen)"
+        ]
+      ]
+    },
+    "477": {
+      "t": "Over de grens",
+      "d": "Zoals je misschien weet, blijft het stadje Ambermill een bron van menselijk verzet. Dat komt vooral door de steun van de tovenaars van Dalaran.$b$bIk weet niet wat hun plan is. Maar ze tonen interesse in een afgelegen dorpje als Ambermill, dus het moet belangrijker zijn dan het lijkt.$b$bZe sturen kratten per wagen uit Hillsbrad. Veel van die voorraden komen terecht in een klein kamp ten noorden van Pyrewood Village. Haal de inhoud van een krat en breng die naar mij.",
+      "o": "Haal de inhoud van een van de kratten van de tovenaars van Dalaran. Je vindt Pyrewood Village in het zuiden.",
+      "c": "<Je wrikt het deksel van de krat open en vindt allerlei voorwerpen die zorgvuldig zijn ingepakt. Bovenop ligt een bundel kaarten, geel van ouderdom. Ze lijken Silverpine Forest en andere delen van het westen van Lordaeron te tonen.$b$bOnder de kaarten ligt een geheimzinnige magische hanger.>",
+      "g": [
+        [
+          "grens",
+          "border"
+        ],
+        [
+          "bron",
+          "source"
+        ],
+        [
+          "verzet",
+          "opposition, resistance"
+        ],
+        [
+          "steun",
+          "support"
+        ],
+        [
+          "tovenaars",
+          "wizards (tovenaar)"
+        ],
+        [
+          "afgelegen",
+          "remote, backwater"
+        ],
+        [
+          "komen terecht",
+          "end up (terechtkomen)"
+        ],
+        [
+          "inhoud",
+          "contents"
+        ],
+        [
+          "wrikt open",
+          "pry open (openwrikken)"
+        ],
+        [
+          "deksel",
+          "lid"
+        ],
+        [
+          "zorgvuldig",
+          "carefully"
+        ],
+        [
+          "ouderdom",
+          "age, old age"
+        ],
+        [
+          "geheimzinnige",
+          "mysterious (geheimzinnig)"
+        ],
+        [
+          "hanger",
+          "pendant"
+        ]
+      ]
+    },
+    "481": {
+      "t": "De analyse van Dalar",
+      "d": "Breng de hanger naar Dalar Dawnweaver. Misschien kan hij meer licht werpen op de plannen van de tovenaars.",
+      "o": "Breng de hanger met runen naar Dalar Dawnweaver in de Sepulcher.",
+      "p": "Ja, $C? Wat is er?",
+      "c": "Interessant, nog meer sluwe plannen van de Kirin Tor, zo lijkt het. Dit is een krachtig artefact. Machtige tovenaars van de Kirin Tor gebruikten het vaak om magische energie te kanaliseren.$b$bZe brengen er zoveel naar Ambermill. Dat betekent dat ze met een groot project bezig moeten zijn.$b$bIk ga kijken of ik door hun schilden heen kan breken en kan ontdekken wat ze van plan zijn.",
+      "g": [
+        [
+          "hanger",
+          "pendant"
+        ],
+        [
+          "licht werpen op",
+          "to shed light on"
+        ],
+        [
+          "runen",
+          "runes (rune)"
+        ],
+        [
+          "sluwe",
+          "cunning (sluw)"
+        ],
+        [
+          "artefact",
+          "artifact"
+        ],
+        [
+          "kanaliseren",
+          "to channel"
+        ],
+        [
+          "schilden",
+          "shields (schild)"
+        ],
+        [
+          "van plan",
+          "intending, planning"
+        ]
+      ]
+    },
+    "482": {
+      "t": "De bedoelingen van Dalaran",
+      "d": "Natuurlijk! Hoe kon ik dat vergeten?$b$bAmbermill was een van de plekken die de Kirin Tor had uitgekozen. Dat kwam doordat er een slapend knooppunt van ley-energie ligt. De tovenaars zijn vast van plan om het knooppunt weer te activeren en de energie te gebruiken voor een groter doel.$b$bDat mogen we niet laten gebeuren...$b$bEr is veel kracht nodig om de ley-energie in het gebied te activeren. We kunnen ze vertragen door de hangers van de tovenaars af te pakken.$b$bGeef deze informatie door aan Allister. Hij beslist wat we gaan doen.",
+      "o": "Praat met Shadow Priest Allister in de Sepulcher.",
+      "c": "Je brengt slecht nieuws, $N. Als Dalar gelijk heeft, en ik heb geen reden om te denken van niet, dan moeten we snel handelen.$b$bIk moet met hem overleggen over ons aanvalsplan. Maar intussen moeten we hun voortgang vertragen.",
+      "g": [
+        [
+          "bedoelingen",
+          "intentions (bedoeling)"
+        ],
+        [
+          "uitgekozen",
+          "chosen, earmarked (uitkiezen)"
+        ],
+        [
+          "slapend",
+          "dormant, sleeping"
+        ],
+        [
+          "knooppunt",
+          "node"
+        ],
+        [
+          "activeren",
+          "to activate"
+        ],
+        [
+          "vertragen",
+          "to delay, to stall"
+        ],
+        [
+          "af te pakken",
+          "to take away (afpakken)"
+        ],
+        [
+          "geef door",
+          "pass on, relay (doorgeven)"
+        ],
+        [
+          "handelen",
+          "to act"
+        ],
+        [
+          "overleggen",
+          "to confer"
+        ],
+        [
+          "aanvalsplan",
+          "plan of attack"
+        ],
+        [
+          "voortgang",
+          "progress"
+        ]
+      ]
+    },
+    "99": {
+      "t": "De dwaasheid van Arugal",
+      "d": "Hoe beter ik de magie van Arugal begrijp, hoe meer ik die stumper veracht. Mijn onderzoek naar zijn zogenaamde remedie is bijna klaar.$b$bMijn kennis is compleet als ik weet welke betovering het vreemde gedrag in Pyrewood Village veroorzaakt. Overdag lijken de boeren mensen. Maar als de zon ondergaat, veranderen de dorpelingen in Moonrage Worgen.$b$bIk moet energie halen uit de betoverde boeien die Arugal op hen heeft gelegd. Breng me zes betoverde Pyrewood Shackles, $N.",
+      "o": "Breng 6 Pyrewood Shackles naar Dalar Dawnweaver in de Sepulcher.",
+      "p": "Heb je de Pyrewood Shackles al, $N?",
+      "c": "Je doorzettingsvermogen verdient lof. Met de kennis die je me hielp verzamelen, zal Arugal vallen en wordt zijn roekeloze magie ongedaan gemaakt. Proost op jou, $N.",
+      "g": [
+        [
+          "stumper",
+          "hapless fool"
+        ],
+        [
+          "veracht",
+          "despise (verachten)"
+        ],
+        [
+          "zogenaamde",
+          "so-called (zogenaamd)"
+        ],
+        [
+          "remedie",
+          "remedy"
+        ],
+        [
+          "betovering",
+          "enchantment"
+        ],
+        [
+          "gedrag",
+          "behavior"
+        ],
+        [
+          "overdag",
+          "by day"
+        ],
+        [
+          "dorpelingen",
+          "villagers, townsfolk (dorpeling)"
+        ],
+        [
+          "boeien",
+          "shackles (boei)"
+        ],
+        [
+          "doorzettingsvermogen",
+          "persistence"
+        ],
+        [
+          "verdient lof",
+          "is commendable (lof verdienen)"
+        ],
+        [
+          "ongedaan gemaakt",
+          "undone (ongedaan maken)"
+        ],
+        [
+          "Proost",
+          "Cheers"
+        ]
+      ]
+    },
+    "424": {
+      "t": "De dwaasheid van Arugal",
+      "d": "Het gaat inderdaad langer duren dan ik dacht om de duistere geheimen achter de betoveringen van Arugal te ontdekken.$b$bMaar intussen moet jij een klein probleem oplossen dat onze Deathstalkers hebben ontdekt. Het lijkt erop dat Arugal zijn magie heeft laten verspreiden naar de Deep Elem Mine, in de heuvels in het zuidoosten.$b$bDe mijn zou heel nuttig zijn voor de opmars van Varimathras.$b$bIk wil dat je de besmette voorman van de mijn onthoofdt: Grimson the Pale. Met zijn dood wordt de mijn van ons.",
+      "o": "Dood Grimson the Pale en breng zijn hoofd naar Dalar Dawnweaver in de Sepulcher.",
+      "p": "Is Grimson the Pale gedood? Varimathras zal niet blij zijn als we zijn bevel negeren.",
+      "c": "Uitstekend. De mijn zal onze troepen prachtige grondstoffen geven terwijl we ons over Silverpine en Azeroth verspreiden.",
+      "g": [
+        [
+          "inderdaad",
+          "indeed"
+        ],
+        [
+          "duistere",
+          "dark (duister)"
+        ],
+        [
+          "betoveringen",
+          "enchantments (betovering)"
+        ],
+        [
+          "intussen",
+          "in the meantime"
+        ],
+        [
+          "verspreiden",
+          "to spread"
+        ],
+        [
+          "opmars",
+          "advance"
+        ],
+        [
+          "besmette",
+          "tainted, infected (besmet)"
+        ],
+        [
+          "voorman",
+          "foreman"
+        ],
+        [
+          "onthoofdt",
+          "behead (onthoofden)"
+        ],
+        [
+          "bevel",
+          "order, bidding"
+        ],
+        [
+          "negeren",
+          "to ignore"
+        ],
+        [
+          "grondstoffen",
+          "resources (grondstof)"
+        ]
+      ]
+    },
+    "450": {
+      "t": "Een recept voor de dood",
+      "d": "Je kunt de Royal Apothecary Society nog meer van dienst zijn, $N.$b$bToen Arugal zijn ellendige magie over het bos uitsprak, vervloekte hij een van onze veelbelovendste leden: Apothecary Berard. Nu is Berard een hersenloze dienaar van Arugal, en hebben we niets aan hem. Maar zijn ontdekkingen kunnen wel waardevol zijn. Hij bestudeerde een oude plaag die heel lang geleden al het leven in het water van Lake Lordamere heeft gedood.$b$bHaal Berard's Journal uit zijn studeerkamer in de Pyrewood Village Inn en breng het naar Apothecary Renferrel.",
+      "o": "Haal het dagboek van Apothecary Berard uit Pyrewood Village en breng het naar Apothecary Renferrel in de Sepulcher.",
+      "p": "Ik zie dat je terug bent, $N.",
+      "c": "Het dagboek van Apothecary Berard! Jij bent echt dapper, $N. Laten we eens kijken wat Berard deed voordat hij gek werd...",
+      "g": [
+        [
+          "van dienst zijn",
+          "to be of service"
+        ],
+        [
+          "ellendige",
+          "wretched (ellendig)"
+        ],
+        [
+          "uitsprak",
+          "cast, spoke (uitspreken)"
+        ],
+        [
+          "vervloekte",
+          "cursed (vervloeken)"
+        ],
+        [
+          "veelbelovendste",
+          "most promising (veelbelovend)"
+        ],
+        [
+          "hersenloze",
+          "mindless (hersenloos)"
+        ],
+        [
+          "hebben we niets aan hem",
+          "he is useless to us"
+        ],
+        [
+          "ontdekkingen",
+          "findings (ontdekking)"
+        ],
+        [
+          "plaag",
+          "plague"
+        ],
+        [
+          "studeerkamer",
+          "study (room)"
+        ],
+        [
+          "dagboek",
+          "journal, diary"
+        ],
+        [
+          "dapper",
+          "brave"
+        ]
+      ]
+    },
+    "438": {
+      "t": "De Decrepit Ferry",
+      "d": "$N, we hebben een nieuw nest van de Scourge ontdekt: de Decrepit Ferry. De veerpont ligt ten oosten van de Sepulcher. Rot hides en andere ondoden patrouilleren daar veel.$B$BDe Scourge moet een reden hebben om dat gebied te bezetten. Ga naar de Decrepit Ferry en zoek uit waarom de Scourge daar is.",
+      "o": "Ga naar de Decrepit Ferry.$B$BZoek uit waarom de Scourge daar is.",
+      "c": "In deze boot ligt een stapel ingepakte lijken. En als je naar het oosten kijkt, over Lordamere Lake, zie je aan de overkant een steiger op Fenris Isle.$B$BWat er met de lijken gebeurt, moet op Fenris Isle te vinden zijn.",
+      "g": [
+        [
+          "nest",
+          "hive, nest"
+        ],
+        [
+          "veerpont",
+          "ferry"
+        ],
+        [
+          "ondoden",
+          "undead (ondode)"
+        ],
+        [
+          "patrouilleren",
+          "to patrol"
+        ],
+        [
+          "bezetten",
+          "to occupy"
+        ],
+        [
+          "zoek uit",
+          "find out (uitzoeken)"
+        ],
+        [
+          "stapel",
+          "pile, heap"
+        ],
+        [
+          "ingepakte",
+          "wrapped (ingepakt)"
+        ],
+        [
+          "lijken",
+          "corpses (lijk)"
+        ],
+        [
+          "overkant",
+          "other side"
+        ],
+        [
+          "steiger",
+          "dock, jetty"
+        ]
+      ]
+    },
+    "439": {
+      "t": "Aanwijzingen over de rot hides",
+      "d": "Tussen de lijken steekt een hand naar buiten, zonder doek eromheen. Het is de hand van een vrouw. Hij zit vol putjes van de plaag, maar is nog vrij vers.$B$BAan de hand zit een ring. Je haalt de ring eraf en bekijkt hem. Er staat iets in gegraveerd:$B$B\"Voor Deliah\"",
+      "o": "Breng Deliah's Ring naar High Executor Hadrec in de Sepulcher.",
+      "p": "$N. Je bent terug, dus ik neem aan dat je onderzoek iets heeft opgeleverd?",
+      "c": "Zeg je dat deze ring werd gedragen door een vrouw die pas is gedood?$B$BDe enige plek in de buurt waar zo'n lichaam vandaan kan komen, zijn de massagraven in Tirisfal. De Rot Hide Gnolls brengen die lijken vast naar Fenris Isle!",
+      "g": [
+        [
+          "aanwijzingen",
+          "clues (aanwijzing)"
+        ],
+        [
+          "steekt naar buiten",
+          "protrudes, sticks out (naar buiten steken)"
+        ],
+        [
+          "doek",
+          "cloth, wrapping"
+        ],
+        [
+          "putjes",
+          "pockmarks, little pits (putje)"
+        ],
+        [
+          "vrij vers",
+          "relatively fresh"
+        ],
+        [
+          "gegraveerd",
+          "engraved (graveren)"
+        ],
+        [
+          "neem aan",
+          "assume (aannemen)"
+        ],
+        [
+          "opgeleverd",
+          "produced, yielded (opleveren)"
+        ],
+        [
+          "gedragen",
+          "worn (dragen)"
+        ],
+        [
+          "massagraven",
+          "mass graves (massagraf)"
+        ]
+      ]
+    },
+    "440": {
+      "t": "De gegraveerde ring",
+      "d": "Wil je de man of geliefde vinden die Deliah haar ring gaf? Praat dan met Magistrate Sevren in Brill. Hij heeft vast gegevens over mensen die pas zijn overleden. Met wat geluk kan hij ontdekken wie Deliah is.$B$BMaar ik zou er niet op hopen. Wie haar de ring ook gaf, hij is waarschijnlijk dood. En als hij ondood is, kan Deliah hem waarschijnlijk niets meer schelen.",
+      "o": "Breng Deliah's Ring naar Magistrate Sevren in Brill.",
+      "p": "Hallo, $N. Wat brengt je terug naar Brill?",
+      "c": "Er woonde inderdaad een Deliah in Brill, nog niet zo lang geleden. Ze werd begraven in het massagraf. Maar als het waar is wat je zegt, dan hebben de Rot Hide Gnolls haar lichaam gestolen en naar Silverpine gebracht.$b$bDe Rot Hides moeten vernietigd worden, net als de hele Scourge. Ik vertrouw erop dat je daar werk van maakt.",
+      "g": [
+        [
+          "gegraveerde",
+          "engraved (gegraveerd)"
+        ],
+        [
+          "geliefde",
+          "beloved, loved one"
+        ],
+        [
+          "gegevens",
+          "records, data"
+        ],
+        [
+          "overleden",
+          "died (overlijden)"
+        ],
+        [
+          "ondood",
+          "undead"
+        ],
+        [
+          "kan hem niets schelen",
+          "he doesn't care (schelen)"
+        ],
+        [
+          "begraven",
+          "buried (begraven)"
+        ],
+        [
+          "massagraf",
+          "mass grave"
+        ],
+        [
+          "gestolen",
+          "stolen (stelen)"
+        ],
+        [
+          "werk van maakt",
+          "take steps, get on with it (werk maken van)"
+        ]
+      ]
+    },
+    "441": {
+      "t": "Raleigh en de Undercity",
+      "d": "Deliah had een man, Raleigh, die nu in de Undercity woont. Als de Deliah uit Brill de eigenaar van deze ring was, dan weet Raleigh dat.$B$BRaleigh is in de Trade Quarter van de Undercity.",
+      "o": "Breng Deliah's Ring naar Raleigh.",
+      "p": "Ken ik jou?",
+      "c": "Ja, deze ring was van mijn vrouw. Haar lot was het lot van iedereen die deze zware tijden niet overleeft. Ik voel niets bij haar dood. En ook niet bij jouw verhaal over de diefstal van haar lichaam.$b$bZulke gevoelens zijn al lang koud in mij. Maar er brandt nog wel een verlangen in mijn dode hart, $N.$b$bHet verlangen naar wraak.",
+      "g": [
+        [
+          "eigenaar",
+          "owner"
+        ],
+        [
+          "lot",
+          "fate"
+        ],
+        [
+          "overleeft",
+          "survives, endures (overleven)"
+        ],
+        [
+          "diefstal",
+          "theft, abduction"
+        ],
+        [
+          "gevoelens",
+          "feelings (gevoel)"
+        ],
+        [
+          "verlangen",
+          "desire, longing"
+        ],
+        [
+          "wraak",
+          "revenge"
+        ]
+      ]
+    },
+    "446": {
+      "t": "Thule Ravenclaw",
+      "d": "Deze ichor is gemaakt door een oude collega van me: Thule Ravenclaw. Hij was een jonge, veelbelovende magiër vóór de grote oorlog. Maar toen de Lich King aan de macht kwam, verraadde hij zijn broeders en sloot hij zich aan bij de Scourge.$B$BIk wist niet dat hij nog leeft. En ook niet dat hij de Rot Hides leidt in hun aanvallen op ons!$B$BIk ken veel van zijn spreuken, en ik kan helpen een drankje te maken dat ertegen werkt. Breng deze rol terug naar Apothecary Renferrel. Er staan de toverformules op die nodig zijn voor het drankje.",
+      "o": "Breng Bethor's Scroll naar Apothecary Renferrel in de Silverpine Sepulcher.",
+      "p": "Gegroet, $N. Wat had Bethor te zeggen?",
+      "c": "Er zit krachtige magie in deze rol. Ik heb zulke krachten nog nooit in een drankje gebruikt... Het wordt een krachtig mengsel. Het zal je goed helpen als je Thule aanvalt in zijn burcht op Fenris Isle.",
+      "g": [
+        [
+          "ichor",
+          "ichor: a strange fluid, like blood"
+        ],
+        [
+          "veelbelovende",
+          "promising (veelbelovend)"
+        ],
+        [
+          "magiër",
+          "mage"
+        ],
+        [
+          "verraadde",
+          "betrayed (verraden)"
+        ],
+        [
+          "broeders",
+          "brethren (broeder)"
+        ],
+        [
+          "sloot zich aan bij",
+          "allied with, joined (zich aansluiten bij)"
+        ],
+        [
+          "rol",
+          "scroll"
+        ],
+        [
+          "toverformules",
+          "incantations (toverformule)"
+        ],
+        [
+          "mengsel",
+          "mixture"
+        ],
+        [
+          "burcht",
+          "stronghold, castle"
+        ]
+      ]
+    },
+    "448": {
+      "t": "Meld je bij Hadrec",
+      "d": "Meld je bij High Executor Hadrec voordat je Fenris Isle aanvalt. Misschien heeft hij meer informatie of uitrusting die je nodig hebt.",
+      "o": "Meld je bij High Executor Hadrec in de Sepulcher.",
+      "c": "Als het waar is wat Bethor zegt, dan is Thule Ravenclaw een macht die we moeten aanpakken, en snel.$B$BOm je hierbij te helpen, mag je iets uit onze wapenvoorraad hier nemen...",
+      "g": [
+        [
+          "meld je",
+          "report (zich melden)"
+        ],
+        [
+          "aanvalt",
+          "attack (aanvallen)"
+        ],
+        [
+          "uitrusting",
+          "equipment"
+        ],
+        [
+          "macht",
+          "force, power"
+        ],
+        [
+          "aanpakken",
+          "to deal with"
+        ],
+        [
+          "wapenvoorraad",
+          "arsenal"
+        ]
+      ]
+    },
+    "479": {
+      "t": "Onderzoek in Ambermill",
+      "d": "Dalar probeert te ontdekken waar de spreuken van de tovenaars vandaan komen. Voorlopig moeten we hen zoveel mogelijk vertragen...$b$bDe bezweerders, magiërs en beschermers dragen zeker de hangers bij zich. Pak ze af en breng ze mee.$b$bNeem de hoofdweg naar het zuiden en dan de oostelijke afslag naar Ambermill.",
+      "o": "Haal 8 Dalaran Pendants voor Shadow Priest Allister in de Sepulcher.",
+      "p": "We moeten opschieten. Hun plannen mogen niet slagen, anders verliezen we misschien onze greep op Silverpine Forest.",
+      "c": "Dalar heeft ontdekt dat het weven van de magie al ver gevorderd is, ondanks de tegenslag.$b$bEen heel machtige tovenaar leidt de magische energie. Hij moet snel worden tegengehouden.",
+      "g": [
+        [
+          "voorlopig",
+          "for now"
+        ],
+        [
+          "vertragen",
+          "to slow down"
+        ],
+        [
+          "bezweerders",
+          "conjurers (bezweerder)"
+        ],
+        [
+          "beschermers",
+          "protectors (beschermer)"
+        ],
+        [
+          "hangers",
+          "pendants (hanger)"
+        ],
+        [
+          "afslag",
+          "fork, turn-off"
+        ],
+        [
+          "opschieten",
+          "to hurry"
+        ],
+        [
+          "slagen",
+          "to succeed"
+        ],
+        [
+          "greep",
+          "hold, grip"
+        ],
+        [
+          "weven",
+          "weaving"
+        ],
+        [
+          "ver gevorderd",
+          "far along"
+        ],
+        [
+          "tegenslag",
+          "setback"
+        ],
+        [
+          "tegengehouden",
+          "stopped (tegenhouden)"
+        ]
+      ]
+    },
+    "443": {
+      "t": "Ichor van de rot hides",
+      "d": "Voordat we Fenris Isle aanvallen, moeten we weten wie er achter de rot hide gnolls zit. Onze apothekers denken dat hun oorsprong ligt in de vreemde vloeistof die door hun lichamen stroomt.$B$BGa naar Fenris Isle, ten oosten van de Decrepit Ferry, en verzamel rot hide ichor van de gnolls die je daar vindt. Breng het naar Apothecary Renferrel. Hij staat buiten de Sepulcher.",
+      "o": "Breng 8 flessen rot hide ichor naar Apothecary Renferrel in de Sepulcher.",
+      "p": "Heb je de rot hide ichor, $N?",
+      "c": "Heel goed. Deze ichor helpt ons om te begrijpen wat de rot hides zijn, en laat ons misschien hun zwakte zien...$B$B...als ze er een hebben.",
+      "g": [
+        [
+          "ichor",
+          "ichor: a strange fluid, like blood"
+        ],
+        [
+          "oorsprong",
+          "origin"
+        ],
+        [
+          "vloeistof",
+          "fluid, liquid"
+        ],
+        [
+          "stroomt",
+          "flows (stromen)"
+        ],
+        [
+          "flessen",
+          "bottles (fles)"
+        ],
+        [
+          "zwakte",
+          "weakness"
+        ]
+      ]
+    },
+    "444": {
+      "t": "De oorsprong van de rot hides",
+      "d": "Ik heb de ichor die je bracht ingekookt en gescheiden in zijn basisdelen. Mijn resultaten zijn niet zeker. Maar ik heb wel vastgesteld dat er magie van heksenmeesters en necromanten is gebruikt om de ichor te maken.$B$BIk blijf de ichor bestuderen. Ondertussen wil ik dat je een monster naar Bethor Iceshard in de Undercity brengt. Bethor is geen apotheker, maar zijn kennis van magie kan helpen om het raadsel van de rot hides op te lossen.$B$BGa. Je vindt Bethor in de Magic Quarter van de Undercity.",
+      "o": "Breng de Sample Ichor naar Bethor Iceshard in de Undercity.",
+      "p": "Mijn onderzoek vraagt veel concentratie. Ik hoop dus dat je bezoek niet onbelangrijk is.",
+      "c": "In deze stof zitten krachtige spreuken. Sommige heb ik al heel, heel lang niet gezien...$B$BEen moment. Ik moet een spreuk van waarzeggerij uitspreken...",
+      "g": [
+        [
+          "oorsprong",
+          "origin"
+        ],
+        [
+          "ingekookt",
+          "reduced, boiled down (inkoken)"
+        ],
+        [
+          "gescheiden",
+          "separated (scheiden)"
+        ],
+        [
+          "basisdelen",
+          "base components (basisdeel)"
+        ],
+        [
+          "vastgesteld",
+          "determined (vaststellen)"
+        ],
+        [
+          "heksenmeesters",
+          "warlocks (heksenmeester)"
+        ],
+        [
+          "necromanten",
+          "necromancers (necromant)"
+        ],
+        [
+          "monster",
+          "sample"
+        ],
+        [
+          "raadsel",
+          "mystery, riddle"
+        ],
+        [
+          "onbelangrijk",
+          "unimportant, frivolous"
+        ],
+        [
+          "stof",
+          "substance"
+        ],
+        [
+          "waarzeggerij",
+          "divination"
+        ],
+        [
+          "uitspreken",
+          "to cast, to speak (a spell)"
+        ]
+      ]
+    }
+  },
+  "words": {
+    "algemeen": "general (over het algemeen = in general)",
+    "bestudeerde": "studied (bestuderen)",
+    "bolletje": "little ball, bauble (bol)",
+    "definitieve": "final, definitive (definitief)",
+    "diezelfde": "that same",
+    "discolored": "discolored (English item name: Discolored Worg Heart)",
+    "dorpje": "little village, hamlet (dorp)",
+    "ertegen": "against it",
+    "gevorderd": "advanced, progressed (vorderen)",
+    "helper": "helper, aide",
+    "landt": "lands (landen)",
+    "ley-energie": "ley energy: magical energy that flows along lines in the earth",
+    "moeilijkste": "most difficult, direst (moeilijk)",
+    "officiële": "official (officieel)",
+    "spinnenbloed": "spider blood",
+    "worg": "worg: a big, wild wolf from the Warcraft world"
+  },
+  "terms": {
+    "worgs": "worgs (worg): big, wild wolves from the Warcraft world"
+  }
+}

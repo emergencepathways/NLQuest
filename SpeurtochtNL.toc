@@ -90,6 +90,7 @@ Data\Batch_125_The_Barrens.lua
 Data\Batch_53_Tanaris.lua
 Data\Batch_126_The_Barrens.lua
 Data\Batch_54_Tanaris.lua
+Data\Batch_127_The_Barrens.lua
 Data\Batch_55_Tanaris.lua
 
 Display.lua
