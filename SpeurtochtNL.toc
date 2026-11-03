@@ -57,6 +57,7 @@ Data\Batch_33_Duskwood.lua
 Data\Batch_36_Badlands.lua
 Data\Batch_107_Valley_Of_Trials.lua
 Data\Batch_109_Tirisfal_Glades.lua
+Data\Batch_110_Tirisfal_Glades.lua
 
 Display.lua
 Reader.lua

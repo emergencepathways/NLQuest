@@ -1,0 +1,1456 @@
+{
+  "quests": {
+    "408": {
+      "t": "De familiecrypte",
+      "d": "Het gebied rond Agamand Mills is een steunpunt van de Scourge geworden. Hun sterkste plek is de Agamand Family Crypt. Daar heeft hun plaatselijke legerleider zijn hoofdkwartier: een skelet met de naam Captain Dargol. Met necromantie heeft hij de voorouders van de Agamands opgewekt, en hij wil ze tegen ons gebruiken.$B$BDit mag niet gebeuren, en jij moet het stoppen. Reis naar de Agamand Family Crypt en versla de opgewekte voorouders van de Agamands.$B$BEn breng me de schedel van Captain Dargol.",
+      "o": "Dood 8 Wailing Ancestors en 8 Rotting Ancestors.$B$BDood Captain Dargol en breng zijn schedel naar Magistrate Sevren in Brill.",
+      "p": "We hebben geen tijd te verliezen, $N. Met elk uur dat voorbijgaat, wordt de greep van de Scourge op Tirisfal Glades sterker.",
+      "c": "Met je daden heb je de Scourge een harde klap gegeven. En je overwinning blijft niet onopgemerkt - niet bij de Forsaken, en ook niet bij onze vijanden.$B$BZet de strijd voort, zoals wij allemaal doen, $N. Op een dag verjagen we de Lich King zelf van Azeroth!",
+      "g": [
+        [
+          "steunpunt",
+          "foothold"
+        ],
+        [
+          "plaatselijke",
+          "local (plaatselijk)"
+        ],
+        [
+          "legerleider",
+          "military leader"
+        ],
+        [
+          "hoofdkwartier",
+          "headquarters"
+        ],
+        [
+          "skelet",
+          "skeleton"
+        ],
+        [
+          "necromantie",
+          "necromancy"
+        ],
+        [
+          "voorouders",
+          "ancestors (voorouder)"
+        ],
+        [
+          "opgewekt",
+          "raised (opwekken)"
+        ],
+        [
+          "versla",
+          "defeat (verslaan)"
+        ],
+        [
+          "schedel",
+          "skull"
+        ],
+        [
+          "greep",
+          "grip, hold"
+        ],
+        [
+          "onopgemerkt",
+          "unnoticed"
+        ],
+        [
+          "verjagen",
+          "to drive away"
+        ]
+      ]
+    },
+    "5901": {
+      "t": "Een plaag over jullie",
+      "d": "Ik wil de Scarlet Crusade pijn en ellende bezorgen, en daarom wil ik hun kostbare houtzagerij van ze afpakken. Ik weet zeker dat het verlies van zo'n bron hen veel schade zal doen bij het verdedigen en herbouwen van de stad, voor hun eigen doeleinden. Help je me, $N?$B$BBegin met deze pot naar Plaguewood in de Eastern Plaguelands te brengen. Vul hem met de termieten die je in hun heuvels overal in het bos vindt. Kom terug als je er genoeg hebt.",
+      "o": "Gebruik de Empty Termite Jar op de Termite Mounds in Eastern Plaguelands. Als je 100 Plagueland Termites hebt verzameld, ga je terug naar Mickey Levine bij the Bulwark in Tirisfal Glades.",
+      "p": "Heb je de termieten al, $N? Voor een slimme $C als jij is het vast duidelijk.$B$BAls we er genoeg van hebben, zorgen we ervoor dat niemand de houtzagerij ooit nog kan gebruiken!",
+      "c": "Deze zijn prima, $N. Dank je.$B$BAls je klaar bent, kunnen we verder met de volgende stap.",
+      "g": [
+        [
+          "plaag",
+          "plague"
+        ],
+        [
+          "ellende",
+          "misery, strife"
+        ],
+        [
+          "bezorgen",
+          "to cause, to bring"
+        ],
+        [
+          "kostbare",
+          "precious (kostbaar)"
+        ],
+        [
+          "houtzagerij",
+          "lumber mill"
+        ],
+        [
+          "afpakken",
+          "to take away"
+        ],
+        [
+          "verlies",
+          "loss"
+        ],
+        [
+          "bron",
+          "resource, source"
+        ],
+        [
+          "herbouwen",
+          "to rebuild"
+        ],
+        [
+          "doeleinden",
+          "purposes (doeleinde)"
+        ],
+        [
+          "termieten",
+          "termites (termiet)"
+        ]
+      ]
+    },
+    "5902": {
+      "t": "Een plaag over jullie",
+      "d": "Nu we genoeg termieten hebben, breng je dit met staal versterkte vat naar de Northridge Lumber Mill ten zuiden van Hearthglen. Je vindt de houtzagerij ten westen van de weg die omhoog naar de stad loopt.$B$BZet het vat daar in het midden van de houtzagerij, op een hoge plek, bijvoorbeeld op een krat of zoiets.$B$BAls je het openmaakt, gaat de rest vanzelf. Kom daarna gewoon hier terug, dan beloon ik je voor je hulp.",
+      "o": "Zoek een geschikte plek in het midden van de Northridge Lumber Mill in Western Plaguelands om de Barrel of Plagueland Termites neer te zetten.",
+      "c": "De termieten worden duidelijk onrustig terwijl je het vat boven op de krat zet.",
+      "g": [
+        [
+          "versterkte",
+          "reinforced (versterken)"
+        ],
+        [
+          "vat",
+          "barrel"
+        ],
+        [
+          "houtzagerij",
+          "lumber mill"
+        ],
+        [
+          "krat",
+          "crate"
+        ],
+        [
+          "vanzelf",
+          "by itself"
+        ],
+        [
+          "beloon",
+          "reward (belonen)"
+        ],
+        [
+          "geschikte",
+          "suitable (geschikt)"
+        ],
+        [
+          "onrustig",
+          "restless"
+        ]
+      ]
+    },
+    "747": {
+      "t": "De jacht begint",
+      "d": "Je maakt een veelbelovende indruk, en je zult je bewijzen voor de stam. Misschien word je binnenkort welkom geheten in de grote stad Thunder Bluff. Maar eerst moet je je bewijzen voor mijn vader, Chief Hawkwind.$b$bHier op Red Cloud Mesa zijn we trots op onze scherpe jachtkunst. Tauren jagen omdat het nodig is, en voor de sport. Onze voorraad vlees is bijna op, en we hebben veren nodig voor kleding. Jaag op de plainstriders in de buurt en bewijs jezelf door het dorp nieuwe voorraad te brengen.",
+      "o": "Grull Hawkwind in Camp Narache wil dat je hem 7 Plainstrider Feathers en 7 stuks Plainstrider Meat brengt.",
+      "p": "Vlees en veren voor de stam brengen is de eerste stap om je als jager te bewijzen voor de Chief.",
+      "c": "De tauren van Narache danken je, $n. Je bent erg veelbelovend.",
+      "g": [
+        [
+          "veelbelovende",
+          "promising (veelbelovend)"
+        ],
+        [
+          "indruk",
+          "impression"
+        ],
+        [
+          "bewijzen",
+          "to prove"
+        ],
+        [
+          "stam",
+          "tribe"
+        ],
+        [
+          "welkom geheten",
+          "welcomed (welkom heten)"
+        ],
+        [
+          "jachtkunst",
+          "hunting skill"
+        ],
+        [
+          "voorraad",
+          "supply"
+        ],
+        [
+          "veren",
+          "feathers (veer)"
+        ],
+        [
+          "danken",
+          "thank (danken)"
+        ]
+      ]
+    },
+    "752": {
+      "t": "Een bescheiden taak",
+      "d": "Alle leden van de stam delen in de harmonie van het leven. We wonen samen en we werken samen.$b$bOnze toewijding aan elkaar brengt veel verantwoordelijkheid met zich mee. Ik vraag je nu om een bescheiden taak.$b$bMijn moeder ging vanochtend water halen bij de put ten zuidoosten van Narache. Dat is al een hele tijd geleden. Kun je misschien voor mij kijken hoe het met haar gaat? Dan zorg ik hier voor de zaken van de stam.",
+      "o": "Chief Hawkwind wil dat je zijn moeder zoekt bij de waterput ten zuidoosten van Camp Narache.",
+      "c": "Ben je helemaal hierheen gekomen om een oude vrouw te helpen? Nou nou, jij bent er eentje om te houden, hè?",
+      "g": [
+        [
+          "bescheiden",
+          "humble, modest"
+        ],
+        [
+          "leden",
+          "members (lid)"
+        ],
+        [
+          "harmonie",
+          "harmony"
+        ],
+        [
+          "toewijding",
+          "commitment, devotion"
+        ],
+        [
+          "verantwoordelijkheid",
+          "responsibility"
+        ],
+        [
+          "put",
+          "well"
+        ],
+        [
+          "ten zuidoosten van",
+          "to the southeast of"
+        ],
+        [
+          "zaken",
+          "matters, affairs (zaak)"
+        ],
+        [
+          "eentje om te houden",
+          "a keeper"
+        ]
+      ]
+    },
+    "750": {
+      "t": "De jacht gaat verder",
+      "d": "Een tauren die goed kan jagen, weet dat zijn prooi niet zomaar een trofee is. De dieren van de vlakten geven ons wat we nodig hebben om te overleven. Je maakt veel indruk op de oudsten als je een paar zeer waardevolle Mountain Cougar Pelts terugbrengt. Je vindt de dieren in de heuvels in het zuiden, waar ze op de loer liggen.$b$bOnze kinderen hebben kleding nodig, en onze tenten moeten gerepareerd worden.",
+      "o": "Grull Hawkwind in Camp Narache wil dat je hem 10 Mountain Cougar Pelts brengt.",
+      "p": "Als je huiden voor de stam kunt brengen, vertel ik mijn vader, Chief Hawkwind, over je gulle daden.",
+      "c": "De tauren van Narache danken je voor deze voorraad, $n. Met je jachtkunst word je vast ooit vereerd in Thunder Bluff.",
+      "g": [
+        [
+          "prooi",
+          "prey"
+        ],
+        [
+          "trofee",
+          "trophy"
+        ],
+        [
+          "vlakten",
+          "plains (vlakte)"
+        ],
+        [
+          "overleven",
+          "to survive"
+        ],
+        [
+          "oudsten",
+          "elders (oudste)"
+        ],
+        [
+          "waardevolle",
+          "valuable (waardevol)"
+        ],
+        [
+          "op de loer liggen",
+          "to lurk"
+        ],
+        [
+          "huiden",
+          "pelts, hides (huid)"
+        ],
+        [
+          "gulle",
+          "generous (gul)"
+        ],
+        [
+          "daden",
+          "deeds (daad)"
+        ],
+        [
+          "vereerd",
+          "revered (vereren)"
+        ]
+      ]
+    },
+    "753": {
+      "t": "Een bescheiden taak",
+      "d": "Ik heb in mijn leven veel paden bewandeld, en deze oude benen hebben niet meer de kracht van vroeger. Ik kan mijn taken voor de stam nog steeds doen. Soms heeft een oude vrouw alleen wat meer tijd nodig.$b$bMaar jij ziet eruit als een enthousiaste $c. Laten we die jonge energie eens testen. Pak een waterkruik bij de put en breng hem naar mijn zoon, de Chief, in Camp Narache.$b$bOnthoud: zelfs de meest bescheiden taak kan je erkenning van de oudsten opleveren.",
+      "o": "Pak een Water Pitcher bij de waterput.$b$bBreng de kruik terug naar Chief Hawkwind in Camp Narache, ten noordwesten van de waterput.",
+      "p": "Je ziet eruit alsof je terugkomt van de vlakten. Heb je nieuws van Greatmother Hawkwind?",
+      "c": "Ik zie dat je deze kruik hebt teruggebracht omdat de Greatmother het vroeg.$b$bJe bent bereid om anderen te helpen en te zorgen voor de tauren van Camp Narache. Daarom denk ik dat je de stam ooit trots zult maken in Thunder Bluff.",
+      "g": [
+        [
+          "paden",
+          "paths (pad)"
+        ],
+        [
+          "bewandeld",
+          "walked, travelled (bewandelen)"
+        ],
+        [
+          "enthousiaste",
+          "eager (enthousiast)"
+        ],
+        [
+          "waterkruik",
+          "water pitcher"
+        ],
+        [
+          "kruik",
+          "pitcher, jug"
+        ],
+        [
+          "bescheiden",
+          "humble"
+        ],
+        [
+          "erkenning",
+          "recognition"
+        ],
+        [
+          "opleveren",
+          "to bring, to yield"
+        ],
+        [
+          "bereid",
+          "willing"
+        ]
+      ]
+    },
+    "755": {
+      "t": "De Riten van de Earthmother",
+      "d": "Je bent bereid een bescheiden taak te doen voor de tauren van Narache, en je wilt graag leren. Dat zijn nobele eigenschappen, $n. Ik geloof dat je op een dag in Thunder Bluff geprezen wordt als een grote $c.$b$bMaar eerst moet je beginnen aan de Riten van de Earthmother. Er zijn er drie.$b$bDe eerste test is de Rite van Kracht. Ga naar Seer Graytongue en zeg hem dat Chief Hawkwind je stuurt.$b$bJe vindt het huis van de ziener recht ten zuiden van Camp Narache, verstopt in de heuvels.",
+      "o": "Ga naar Seer Graytongue. Hij woont in de heuvels recht ten zuiden van Camp Narache.",
+      "c": "Stuurt Chief Hawkwind je? Beginnen aan de Riten van de Earthmother is geen kleine taak...",
+      "g": [
+        [
+          "riten",
+          "rites (rite)"
+        ],
+        [
+          "bereid",
+          "willing"
+        ],
+        [
+          "nobele",
+          "noble (nobel)"
+        ],
+        [
+          "eigenschappen",
+          "qualities, traits (eigenschap)"
+        ],
+        [
+          "geprezen",
+          "praised (prijzen)"
+        ],
+        [
+          "kracht",
+          "strength"
+        ],
+        [
+          "ziener",
+          "seer"
+        ],
+        [
+          "recht ten zuiden van",
+          "directly south of"
+        ],
+        [
+          "verstopt",
+          "hidden, tucked away (verstoppen)"
+        ]
+      ]
+    },
+    "757": {
+      "t": "De Rite van Kracht",
+      "d": "De Riten van de Earthmother zijn de stappen die een jonge tauren moet zetten om respect te krijgen in Thunder Bluff.$b$bEerst moet je slagen voor de Rite van Kracht. In deze test bewijs je je moed door vijanden van de stam te doden.$b$bBristlebacks uit Brambleblade Ravine, in het oosten, dringen ons stamland binnen. Ze overvallen onze jachtgroepen en stelen 's nachts uit het dorp.$b$bLaat je moed zien: dood deze schurken en ga terug naar de Chief in Camp Narache. Neem hun riemen mee als bewijs van je daden.",
+      "o": "Dood Bristlebacks in Brambleblade Ravine en breng 12 Bristleback Belts naar Chief Hawkwind in Camp Narache.",
+      "p": "Ben je geslaagd voor de Rite van Kracht, $n? Ik wil bewijs van je moed tegen de vijand van onze stam, de Bristlebacks.",
+      "c": "Je bent geslaagd voor de eerste test van de Riten van de Earthmother. De stam zal trots zijn.",
+      "g": [
+        [
+          "slagen voor",
+          "to pass (a test)"
+        ],
+        [
+          "moed",
+          "bravery, valor"
+        ],
+        [
+          "dringen",
+          "push (binnendringen: to encroach)"
+        ],
+        [
+          "stamland",
+          "tribal land"
+        ],
+        [
+          "overvallen",
+          "ambush, raid"
+        ],
+        [
+          "jachtgroepen",
+          "hunting parties (jachtgroep)"
+        ],
+        [
+          "schurken",
+          "villains (schurk)"
+        ],
+        [
+          "riemen",
+          "belts (riem)"
+        ],
+        [
+          "bewijs",
+          "proof"
+        ],
+        [
+          "geslaagd",
+          "passed (slagen)"
+        ]
+      ]
+    },
+    "780": {
+      "t": "De Battleboars",
+      "d": "De Battleboars van Brambleblade Ravine, in het oosten, dringen onze jachtgronden binnen. De Bristleback Quilboars, met wie we in oorlog zijn, hebben ze getraind om gemeen te zijn.$b$bGa die akelige beesten doden en breng snuiten en flanken mee, zodat we stoofpot kunnen maken voor onze kleintjes.",
+      "o": "Grull Hawkwind in Camp Narache wil dat je Battleboars doodt en 8 Battleboar Snouts en 8 Battleboar Flanks terugbrengt.",
+      "p": "De Battleboars worden steeds agressiever. Heb je ze al een duidelijke boodschap gestuurd en snuiten en flanken meegebracht?",
+      "c": "Uitstekend. Met deze ingrediënten maken we een goede stoofpot. En het verlies van die zwijnen moet een goede les zijn voor die akelige Bristlebacks.",
+      "g": [
+        [
+          "jachtgronden",
+          "hunting grounds (jachtgrond)"
+        ],
+        [
+          "gemeen",
+          "mean, malicious"
+        ],
+        [
+          "akelige",
+          "vile, nasty (akelig)"
+        ],
+        [
+          "snuiten",
+          "snouts (snuit)"
+        ],
+        [
+          "flanken",
+          "flanks (flank)"
+        ],
+        [
+          "stoofpot",
+          "stew"
+        ],
+        [
+          "kleintjes",
+          "little ones, young (kleintje)"
+        ],
+        [
+          "agressiever",
+          "more aggressive (agressief)"
+        ],
+        [
+          "boodschap",
+          "message"
+        ],
+        [
+          "zwijnen",
+          "boars (zwijn)"
+        ]
+      ]
+    },
+    "781": {
+      "t": "Aanval op Camp Narache",
+      "d": "Je bekijkt de kaart goed. Dan begrijp je wat je hebt gevonden: de plannen van de oorlogsleider van de Bristlebacks voor een lange belegering van Camp Narache.$b$bChief Hawkwind kan deze informatie vast goed gebruiken!",
+      "o": "Breng de Bristleback Attack Plans naar Chief Hawkwind in Camp Narache.",
+      "p": "Je kijkt bezorgd, $n. Welk nieuws breng je?",
+      "c": "Dit is echt verontrustend! Maar met deze informatie kunnen we onze broeders uit Bloodhoof Village om hulp vragen om de aanval tegen te houden. Je hebt het leven van veel tauren gered, $n.",
+      "g": [
+        [
+          "oorlogsleider",
+          "warchief"
+        ],
+        [
+          "belegering",
+          "siege"
+        ],
+        [
+          "bezorgd",
+          "worried, concerned"
+        ],
+        [
+          "verontrustend",
+          "alarming"
+        ],
+        [
+          "broeders",
+          "brethren (broeder)"
+        ],
+        [
+          "tegen te houden",
+          "to stop, to thwart (tegenhouden)"
+        ],
+        [
+          "gered",
+          "saved (redden)"
+        ]
+      ]
+    },
+    "763": {
+      "t": "De Riten van de Earthmother",
+      "d": "Om verder te gaan met de Riten van de Earthmother moet je nog voor twee tests slagen. Het is tijd om meer ervaring op te doen, $n.$b$bReis naar Bloodhoof Village en zoek de Chief, Baine Bloodhoof, zoon van Cairne. Daar kun je je reis voortzetten en de acceptatie van de oudsten van Thunder Bluff verdienen.$b$bBreng deze totem naar Baine. Hij herkent mijn houtsnijwerk en zal je helpen op je pad.$b$bVolg de weg uit Camp Narache en reis snel. Wijk niet af, anders raak je de weg kwijt.",
+      "o": "Breng de Totem of Hawkwind naar Baine Bloodhoof in Bloodhoof Village. Volg de weg uit Camp Narache.",
+      "p": "Wat brengt je naar mijn dorp, $c?",
+      "c": "Nieuws van mijn goede vriend, Chief Hawkwind! Ah, aan zijn houtsnijwerk zie ik dat jij van een bijzondere soort bent.",
+      "g": [
+        [
+          "ervaring op te doen",
+          "to gain experience (ervaring opdoen)"
+        ],
+        [
+          "voortzetten",
+          "to continue"
+        ],
+        [
+          "acceptatie",
+          "acceptance"
+        ],
+        [
+          "oudsten",
+          "elders (oudste)"
+        ],
+        [
+          "herkent",
+          "recognizes (herkennen)"
+        ],
+        [
+          "houtsnijwerk",
+          "carvings, woodcarving"
+        ],
+        [
+          "Wijk niet af",
+          "Don't stray (afwijken)"
+        ],
+        [
+          "raak je de weg kwijt",
+          "you lose your way (de weg kwijtraken)"
+        ],
+        [
+          "soort",
+          "kind, breed"
+        ]
+      ]
+    },
+    "1656": {
+      "t": "Een onafgemaakte taak",
+      "d": "$N, alsjeblieft, ik smeek het je, kun je me helpen? Ik ben nog niet klaar met mijn taken hier op de Mesa - ik zit midden in mijn Rite van Kracht - en mijn vader vroeg me om deze vachten naar de herberg in Bloodhoof te brengen.$B$BIk ben lang niet uitgerust genoeg om mijn rite én deze taak voor mijn vader te doen. Wil jij voor mij verder gaan?$B$BDe herberg is gezellig en een perfecte plek om uit te rusten tijdens je lange reizen. Als je hem ziet, ben je het vast met me eens.",
+      "o": "Breng de Bundle of Furs naar Innkeeper Kauth in Bloodhoof Village.",
+      "p": "Ja, jongeling? Wat kan Kauth voor je doen?$B$BVoor sommigen is de reis hierheen vanaf de Mesa erg zwaar, maar voor anderen is dit een welkom gezicht. Wat is het voor jou, vraag ik me af?",
+      "c": "Ah, de vachten waar ik op wachtte. Dank je.$B$BZe zijn sneller gekomen dan ik had verwacht. Ze worden goede dekens voor iedereen die hier wil blijven.$B$BBlijf gerust zo lang als je wilt. Mijn herberg is altijd open en al ons volk is hier welkom. En onderschat een goede nachtrust niet. Die kan veel uitmaken als je op reis bent.",
+      "g": [
+        [
+          "onafgemaakte",
+          "unfinished (onafgemaakt)"
+        ],
+        [
+          "smeek",
+          "beg (smeken)"
+        ],
+        [
+          "vachten",
+          "furs (vacht)"
+        ],
+        [
+          "herberg",
+          "inn"
+        ],
+        [
+          "uitgerust",
+          "rested"
+        ],
+        [
+          "het met me eens",
+          "agree with me (het eens zijn)"
+        ],
+        [
+          "jongeling",
+          "young one"
+        ],
+        [
+          "dekens",
+          "blankets (deken)"
+        ],
+        [
+          "gerust",
+          "feel free, by all means"
+        ],
+        [
+          "onderschat",
+          "underestimate (onderschatten)"
+        ],
+        [
+          "nachtrust",
+          "night's rest"
+        ],
+        [
+          "uitmaken",
+          "to make a difference"
+        ]
+      ]
+    },
+    "3376": {
+      "t": "Breek Sharptusk!",
+      "d": "$N - ik heb over je gehoord, nieuwkomer. Misschien ben jij degene die ons helpt, waar anderen faalden.$B$BWij tauren hebben in dit land een thuis gemaakt, maar dat had een prijs. De Bristleback quilboars van Brambleblade Ravine, geleid door Chief Sharptusk Thornmantle, maken ons het leven moeilijk met hun voortdurende oorlog tegen ons. Ik geef je de opdracht: breng me het hoofd van de chief!$B$BJe vindt hem in de kloof in het oosten, in hun provisorische dorp.",
+      "o": "Breng het hoofd van Chief Sharptusk Thornmantle naar Brave Windfeather in Red Cloud Mesa.",
+      "p": "Sharptusk zal ons niet meer lastigvallen als je me bewijs van zijn dood brengt. Ik wil zijn hoofd, $N.$B$BWij tauren leven voor de jacht. En er is geen grotere jacht dan op iemand die slim genoeg is om misschien terug te jagen op ons. Als dit je lukt, jongeling, begin je te begrijpen wat ik bedoel.",
+      "c": "Door je snelle daden is vandaag recht gedaan, $N. Laat deze daad een waarschuwing zijn voor iedereen die ons thuis bedreigt.$B$BJe hebt deze beloning verdiend. Ze helpt je op je reis, jonge $c.",
+      "g": [
+        [
+          "nieuwkomer",
+          "newcomer"
+        ],
+        [
+          "faalden",
+          "failed (falen)"
+        ],
+        [
+          "geleid",
+          "led (leiden)"
+        ],
+        [
+          "voortdurende",
+          "continued, ongoing (voortdurend)"
+        ],
+        [
+          "opdracht",
+          "task, order"
+        ],
+        [
+          "kloof",
+          "ravine"
+        ],
+        [
+          "provisorische",
+          "makeshift (provisorisch)"
+        ],
+        [
+          "lastigvallen",
+          "to trouble, to bother"
+        ],
+        [
+          "recht gedaan",
+          "justice served (recht doen)"
+        ],
+        [
+          "waarschuwing",
+          "warning"
+        ],
+        [
+          "bedreigt",
+          "threatens (bedreigen)"
+        ],
+        [
+          "beloning",
+          "reward"
+        ]
+      ]
+    },
+    "748": {
+      "t": "Vergiftigd water",
+      "d": "Goblins en hun dienaren hebben onze heilige waterputten vervuild! Dat mogen we niet toestaan.$B$BOm elke put te reinigen, moet ik een reinigingstotem maken. Daarna moet jij de totem naar de put brengen en een reinigingsritueel uitvoeren.$B$BEerst maken we een reinigingstotem voor de Winterhoof Water Well. Daarvoor moet het land ons helpen. Jaag op Prairie Wolves voor hun poten en op Adult Plainstriders voor hun klauwen. Ze zijn in het zuidwesten.$B$BKom terug met de poten en klauwen, $N.",
+      "o": "Breng 6 Prairie Wolf Paws en 4 Plainstrider Talons naar Mull Thunderhorn in Bloodhoof.",
+      "p": "Heb je de poten en klauwen, $N?",
+      "c": "Goed gedaan, $N. Ik neem deze mee en bind hun kracht in een reinigingstotem.",
+      "g": [
+        [
+          "vergiftigd",
+          "poisoned (vergiftigen)"
+        ],
+        [
+          "dienaren",
+          "servants (dienaar)"
+        ],
+        [
+          "heilige",
+          "sacred, holy (heilig)"
+        ],
+        [
+          "vervuild",
+          "polluted, tainted (vervuilen)"
+        ],
+        [
+          "toestaan",
+          "to allow"
+        ],
+        [
+          "reinigen",
+          "to cleanse"
+        ],
+        [
+          "reinigingstotem",
+          "cleansing totem"
+        ],
+        [
+          "reinigingsritueel",
+          "cleansing ritual"
+        ],
+        [
+          "uitvoeren",
+          "to perform"
+        ],
+        [
+          "poten",
+          "paws (poot)"
+        ],
+        [
+          "klauwen",
+          "talons, claws (klauw)"
+        ],
+        [
+          "bind",
+          "bind (binden)"
+        ]
+      ]
+    },
+    "745": {
+      "t": "Het land delen",
+      "d": "$N, dit land heeft veel wonden door conflicten. Ik hoop dat je er niet zoveel zult zien als ik. Toch wil ik dat je één ervan opzoekt. Zo krijg je een idee van hoe erg zelfs een kleine dreiging voor het land kan zijn, als niemand haar tegenhoudt.$B$BPalemane gnolls wonen nu ten zuiden van Bloodhoof en in een grot in het westen. Ze hebben geen respect voor onze pogingen om met ze te praten, en ze doden zonder grenzen de dieren van Mulgore.$B$BWoorden zijn niet langer het antwoord.",
+      "o": "Dood 10 Palemane Tanners, 8 Palemane Skinners en 5 Palemane Poachers. Ga daarna terug naar Baine Bloodhoof in Bloodhoof Village.",
+      "p": "Als de Palemanes meer respect hadden gehad voor het land en zijn bewoners, was dit conflict nooit ontstaan.",
+      "c": "$N, het is goed dat je mijn taak serieus hebt genomen. Respect voor het land en zijn dieren is belangrijk. Dood en leven zijn een cirkel... iets wat nodig is. Het ene kan niet bestaan zonder het andere. Neem de tijd om hierover na te denken, en vergeet het nooit.",
+      "g": [
+        [
+          "wonden",
+          "wounds (wond)"
+        ],
+        [
+          "opzoekt",
+          "seek out (opzoeken)"
+        ],
+        [
+          "dreiging",
+          "threat"
+        ],
+        [
+          "tegenhoudt",
+          "stops, checks (tegenhouden)"
+        ],
+        [
+          "pogingen",
+          "attempts (poging)"
+        ],
+        [
+          "zonder grenzen",
+          "without limits, unbridled"
+        ],
+        [
+          "bewoners",
+          "inhabitants (bewoner)"
+        ],
+        [
+          "ontstaan",
+          "arisen, occurred (ontstaan)"
+        ],
+        [
+          "cirkel",
+          "circle"
+        ],
+        [
+          "bestaan",
+          "to exist"
+        ],
+        [
+          "na te denken",
+          "to ponder (nadenken)"
+        ]
+      ]
+    },
+    "754": {
+      "t": "Reiniging van Winterhoof",
+      "d": "Ik heb de totem gemaakt om de Winterhoof Water Well te reinigen. Nu moet jij hem naar de put brengen en een reinigingsritueel uitvoeren. Je vindt de put in het zuidoosten. Vieze goblins bewaken hem!$B$BHet wordt geen makkelijke taak, maar je moet het doen als we het water ooit weer willen gebruiken.$B$BVeel geluk, $N.",
+      "o": "Gebruik de Winterhoof Cleansing Totem bij de Winterhoof Water Well. Ga daarna terug naar Mull Thunderhorn.",
+      "c": "Het nieuws over je daad bereikte me net. De dieren bij de put drinken er al gretig van.$B$BJe hebt iets groots gedaan voor het land, $N. En je hebt iets groots gedaan voor het volk van de Tauren.",
+      "e": "Reinig de Winterhoof Water Well",
+      "g": [
+        [
+          "reiniging",
+          "cleansing"
+        ],
+        [
+          "reinigen",
+          "to cleanse"
+        ],
+        [
+          "reinigingsritueel",
+          "cleansing ritual"
+        ],
+        [
+          "uitvoeren",
+          "to perform"
+        ],
+        [
+          "vieze",
+          "foul, dirty (vies)"
+        ],
+        [
+          "bewaken",
+          "guard (bewaken)"
+        ],
+        [
+          "daad",
+          "deed"
+        ],
+        [
+          "bereikte",
+          "reached (bereiken)"
+        ],
+        [
+          "gretig",
+          "eagerly"
+        ]
+      ]
+    },
+    "761": {
+      "t": "Jacht op swoops",
+      "d": "De swoop is een slimme vogel, en moeilijk te vinden en te vangen. Een verzameling Swoop Quills is voor een jager een teken van slimheid en doorzettingsvermogen.$B$BAls je deze taak wilt doen, ga dan de vlakten op en jaag op de swoop.$B$BBreng me hun veren, en breng eer aan je clan.$B$BJe kunt de swoops overal in Mulgore vinden, maar je ogen moeten scherp zijn om ze te zien, en je hoeven moeten snel zijn om ze te vangen.",
+      "o": "Breng 8 Trophy Swoop Quills naar Harken Windtotem in Bloodhoof Village.",
+      "p": "Heb je de swoops gevonden, $N? Heb je hun veren?",
+      "c": "Ik weet dat het geen makkelijke taak was om deze veren te verzamelen, $N. Hiermee bewijs je dat je een $c van waarde bent. Het is goed dat je in Bloodhoof Village bent.",
+      "g": [
+        [
+          "vangen",
+          "to catch"
+        ],
+        [
+          "verzameling",
+          "collection"
+        ],
+        [
+          "teken",
+          "sign, badge"
+        ],
+        [
+          "slimheid",
+          "cleverness"
+        ],
+        [
+          "doorzettingsvermogen",
+          "determination, perseverance"
+        ],
+        [
+          "vlakten",
+          "plains (vlakte)"
+        ],
+        [
+          "veren",
+          "feathers, quills (veer)"
+        ],
+        [
+          "eer",
+          "honor"
+        ],
+        [
+          "hoeven",
+          "hooves (hoef)"
+        ],
+        [
+          "van waarde",
+          "of merit, of worth"
+        ]
+      ]
+    },
+    "767": {
+      "t": "De Rite van het Visioen",
+      "d": "De Rite van het Visioen is een van de Riten van de Earthmother. Die helpt je op weg om het respect van de oudsten van Thunder Bluff te verdienen.$b$bOns volk heeft geleerd dat het land onze heiligste gever is. Om mee te doen aan het visioenritueel, moet je praten met de spirituele leider van het dorp, Zarlman Two-Moons.",
+      "o": "Praat met Zarlman Two-Moons in Bloodhoof Village.",
+      "c": "Ik voelde al dat je naar me toe zou komen, $c. Ik herken altijd iemand die probeert te slagen voor de Riten van de Earthmother.",
+      "g": [
+        [
+          "visioen",
+          "vision"
+        ],
+        [
+          "riten",
+          "rites (rite)"
+        ],
+        [
+          "op weg helpen",
+          "to help on the way"
+        ],
+        [
+          "oudsten",
+          "elders (oudste)"
+        ],
+        [
+          "heiligste",
+          "most holy (heilig)"
+        ],
+        [
+          "gever",
+          "giver, provider"
+        ],
+        [
+          "visioenritueel",
+          "vision ritual"
+        ],
+        [
+          "spirituele",
+          "spiritual (spiritueel)"
+        ],
+        [
+          "herken",
+          "recognize (herkennen)"
+        ]
+      ]
+    },
+    "756": {
+      "t": "De totem van Thunderhorn",
+      "d": "Om de Thunderhorn Cleansing Totem te maken, moet je de klauwen verzamelen van de roofdieren van de vlakten van Mulgore. Jaag op Prairie Stalkers voor hun klauwen en op Flatland Cougars voor hun klauwen, en kom dan terug bij mij.$B$BJe vindt de Prairie Stalkers en Flatland Cougars in het oosten en het westen.",
+      "o": "Breng 6 Stalker Claws en 6 Cougar Claws naar Mull Thunderhorn.",
+      "p": "$N, heb je de klauwen waarvoor ik je stuurde? De Thunderhorn Water Well wordt met elk uur dat voorbijgaat meer vervuild!",
+      "c": "Dank je, $N. De zuiverheid waarmee deze dieren jagen, is heel belangrijk voor het maken van de volgende reinigingstotem.$B$BDe goblins zullen nooit het verschil leren tussen vechten tegen het land en in harmonie ermee leven.",
+      "g": [
+        [
+          "klauwen",
+          "claws (klauw)"
+        ],
+        [
+          "roofdieren",
+          "predators (roofdier)"
+        ],
+        [
+          "vlakten",
+          "plains (vlakte)"
+        ],
+        [
+          "vervuild",
+          "tainted (vervuilen)"
+        ],
+        [
+          "zuiverheid",
+          "purity"
+        ],
+        [
+          "reinigingstotem",
+          "cleansing totem"
+        ],
+        [
+          "verschil",
+          "difference"
+        ],
+        [
+          "harmonie",
+          "harmony"
+        ]
+      ]
+    },
+    "771": {
+      "t": "De Rite van het Visioen",
+      "d": "Om te slagen voor de Rite van het Visioen, moet je de ingrediënten verzamelen voor het Water of the Seers.$b$bIk heb putstenen nodig. Die vind je rond de waterputten in Mulgore. Daarmee meng ik Ambercorn, die onder de machtige bomen in ons land vallen.$b$bDeze ingrediënten bevatten magische elementen. Als je ze brouwt en drinkt bij het stamvuur, krijg je een visioen. Volg het, dan leidt het je naar de volgende stap van deze heilige zoektocht.",
+      "o": "Verzamel 2 Well Stones en 2 Ambercorn en breng ze terug naar Zarlman Two-Moons in Bloodhoof Village.",
+      "p": "Als je genoeg putstenen rond de waterputten en Ambercorn onder de bomen hebt verzameld, maak ik het Water of the Seers voor je klaar.",
+      "c": "Ik zie dat je hebt geleerd te verzamelen van ons heilige land, $n. Het duurt maar even om het Water of the Seers te brouwen.",
+      "g": [
+        [
+          "slagen voor",
+          "to pass (a test)"
+        ],
+        [
+          "ingrediënten",
+          "ingredients, reagents (ingrediënt)"
+        ],
+        [
+          "putstenen",
+          "well stones (putsteen)"
+        ],
+        [
+          "meng",
+          "mix, combine (mengen)"
+        ],
+        [
+          "machtige",
+          "mighty (machtig)"
+        ],
+        [
+          "bevatten",
+          "contain (bevatten)"
+        ],
+        [
+          "brouwt",
+          "brew (brouwen)"
+        ],
+        [
+          "stamvuur",
+          "tribal fire"
+        ],
+        [
+          "visioen",
+          "vision"
+        ],
+        [
+          "leidt",
+          "leads (leiden)"
+        ],
+        [
+          "zoektocht",
+          "quest"
+        ]
+      ]
+    },
+    "772": {
+      "t": "De Rite van het Visioen",
+      "d": "Ik geef je nu het Water of the Seers.$b$bAls je klaar bent, drink je het water bij het stamvuur. Als je het heilige water hebt gedronken, duurt het even voordat het visioen voor het vuur verschijnt.$b$bDan is het aan jou om het te volgen naar je lot....",
+      "o": "Drink het Water of the Seers voor het stamvuur in Bloodhoof Village en volg het visioen als het verschijnt.",
+      "c": "Wees niet bang, $n. Je bent geslaagd voor de Rite van het Visioen.",
+      "g": [
+        [
+          "stamvuur",
+          "tribal fire"
+        ],
+        [
+          "heilige",
+          "holy (heilig)"
+        ],
+        [
+          "gedronken",
+          "drunk, consumed (drinken)"
+        ],
+        [
+          "visioen",
+          "vision"
+        ],
+        [
+          "verschijnt",
+          "appears (verschijnen)"
+        ],
+        [
+          "het is aan jou",
+          "it is up to you"
+        ],
+        [
+          "lot",
+          "destiny, fate"
+        ],
+        [
+          "geslaagd",
+          "passed (slagen)"
+        ]
+      ]
+    },
+    "743": {
+      "t": "Gevaren van de Windfury",
+      "d": "Dank je dat je de tijd neemt om met me te praten, $N. Ik ben Ruul, krijger en leraar.$B$BJe bent duidelijk oud genoeg om je voor te bereiden op je beproevingen, als je veel verder buiten Mulgore op avontuur wilt gaan.$B$BAls je je kracht wilt testen, zoek dan eerst de Windfury-harpijen in het zuidoosten op. Ze nestelen langs de randen van de berg, uit de buurt van de weg.$B$BZe zijn een van onze natuurlijke vijanden hier in Mulgore, en ze zijn een goede maatstaf voor je vaardigheid.",
+      "o": "Breng 8 Windfury Talons naar Ruul Eagletalon in Bloodhoof Village.",
+      "p": "De Windfuries zijn dodelijke vijanden. Alleen hun honger naar vers vlees is net zo groot als hun kracht in de strijd.",
+      "c": "Goed gedaan, $N. Je lijkt goed voorbereid om verder te reizen. Moge de wind altijd in je rug staan.",
+      "g": [
+        [
+          "gevaren",
+          "dangers (gevaar)"
+        ],
+        [
+          "voor te bereiden",
+          "to prepare (voorbereiden)"
+        ],
+        [
+          "beproevingen",
+          "trials (beproeving)"
+        ],
+        [
+          "harpijen",
+          "harpies (harpij)"
+        ],
+        [
+          "nestelen",
+          "nest (nestelen)"
+        ],
+        [
+          "randen",
+          "edges (rand)"
+        ],
+        [
+          "uit de buurt van",
+          "away from"
+        ],
+        [
+          "maatstaf",
+          "gauge, measure"
+        ],
+        [
+          "vaardigheid",
+          "skill"
+        ],
+        [
+          "dodelijke",
+          "deadly (dodelijk)"
+        ],
+        [
+          "voorbereid",
+          "prepared (voorbereiden)"
+        ],
+        [
+          "Moge",
+          "May (mogen)"
+        ]
+      ]
+    },
+    "746": {
+      "t": "Graven van de dwergen",
+      "d": "Er zijn dwergen die in het noordwesten een opgraving voorbereiden. Ze denken dat er geheimen in de aarde liggen. Dat is waar, maar het land uithollen en ontheiligen is geen manier om zijn lessen te verdienen.$B$BVerzamel het graafgereedschap van de dwergen, sla het kapot en kom terug bij mij met het kapotte gereedschap.$B$BJe kunt het gereedschap kapotslaan bij een smidse. Er is er een in Thunder Bluff, maar elke smidse is goed genoeg - zelfs een smidse in het kamp van de dwergen.",
+      "o": "Verzamel 5 Prospector's Picks.$B$BSla bij een smidse de Prospector's Picks kapot om Broken Tools te maken.$B$BBreng 5 Broken Tools naar Baine Bloodhoof in Bloodhoof Village.",
+      "p": "Hallo, $N. Heb je de Broken Tools? Door het graven van de dwergen worden de kodo's van Mulgore woedend. Deze ontheiliging moet stoppen!",
+      "c": "Dank je, $N. Dit zal de dieren van Mulgore kalmeren. En als de geesten het willen, leren de dwergen hierdoor dat het uithollen van het land niet de weg naar kennis is.",
+      "g": [
+        [
+          "graven",
+          "digging (graven)"
+        ],
+        [
+          "opgraving",
+          "dig site, excavation"
+        ],
+        [
+          "voorbereiden",
+          "prepare (voorbereiden)"
+        ],
+        [
+          "uithollen",
+          "to hollow out"
+        ],
+        [
+          "ontheiligen",
+          "to defile"
+        ],
+        [
+          "graafgereedschap",
+          "digging tools"
+        ],
+        [
+          "kapotslaan",
+          "to smash"
+        ],
+        [
+          "smidse",
+          "forge"
+        ],
+        [
+          "woedend",
+          "furious, enraged"
+        ],
+        [
+          "ontheiliging",
+          "defilement"
+        ],
+        [
+          "kalmeren",
+          "to calm"
+        ],
+        [
+          "kennis",
+          "knowledge"
+        ]
+      ]
+    },
+    "749": {
+      "t": "De verwoeste karavaan",
+      "d": "Een paar dagen geleden vonden we een karavaan van de Venture Co. die onder bewaking reisde, op de noordoever van Stonebull Lake. We hadden in een eerder gevecht twee van onze mensen verloren, dus we vielen snel aan en vernietigden de karavaan.$b$bWe lieten hun voorraadkisten staan, omdat we dachten dat onze fakkels alles van waarde zouden vernietigen. Maar er zijn bergers van de Venture Co. gezien bij de verbrande wagens, dus misschien hadden we het mis.$b$bMisschien kun jij naar de karavaan gaan en bekijken wat er in de kisten zit.",
+      "o": "Morin Cloudstalker wil dat je bekijkt wat er in een voorraadkist bij de Ravaged Caravan zit.",
+      "c": "Op alle kanten van de kist staat het teken van de Venture Co. Mining Division. Op de zijkant van de doos staan zorgvuldig gedrukte aantekeningen. Ze laten zien dat de inhoud verwerkt moet worden in een van hun centrale fabrieken.",
+      "g": [
+        [
+          "verwoeste",
+          "ravaged (verwoesten)"
+        ],
+        [
+          "karavaan",
+          "caravan"
+        ],
+        [
+          "onder bewaking",
+          "under guard"
+        ],
+        [
+          "noordoever",
+          "northern shore"
+        ],
+        [
+          "vernietigden",
+          "destroyed (vernietigen)"
+        ],
+        [
+          "voorraadkisten",
+          "supply crates (voorraadkist)"
+        ],
+        [
+          "fakkels",
+          "torches (fakkel)"
+        ],
+        [
+          "bergers",
+          "salvagers (berger)"
+        ],
+        [
+          "zorgvuldig",
+          "carefully"
+        ],
+        [
+          "aantekeningen",
+          "notes (aantekening)"
+        ],
+        [
+          "inhoud",
+          "contents"
+        ],
+        [
+          "verwerkt",
+          "processed (verwerken)"
+        ],
+        [
+          "fabrieken",
+          "plants, factories (fabriek)"
+        ]
+      ]
+    },
+    "758": {
+      "t": "Reiniging van Thunderhorn",
+      "d": "De totem is klaar, $N. En weer is het jouw taak om het reinigingsritueel uit te voeren.$B$BGa naar de Thunderhorn Water Well, ten noorden van het dorp, en gebruik de Thunderhorn Cleansing Totem in je ritueel. Kom daarna terug bij mij.$B$BMogen de geesten je leiden.",
+      "o": "Gebruik de Thunderhorn Cleansing Totem bij de Thunderhorn Water Well. Ga daarna terug naar Mull.",
+      "p": "De Thunderhorn Water Well is nog steeds vervuild, $N. Alsjeblieft, je moet het ritueel uitvoeren!",
+      "c": "Voorouders van de Thunderhorn-clan spraken in een droom tot mij. Ze prezen je voor wat je bij hun put hebt gedaan.$B$BAls dank willen ze je dit geven...",
+      "e": "Reinig de Thunderhorn Water Well",
+      "g": [
+        [
+          "reiniging",
+          "cleansing"
+        ],
+        [
+          "reinigingsritueel",
+          "cleansing ritual"
+        ],
+        [
+          "uit te voeren",
+          "to perform (uitvoeren)"
+        ],
+        [
+          "Mogen",
+          "May (mogen)"
+        ],
+        [
+          "geesten",
+          "spirits (geest)"
+        ],
+        [
+          "leiden",
+          "to guide, to lead"
+        ],
+        [
+          "vervuild",
+          "tainted (vervuilen)"
+        ],
+        [
+          "voorouders",
+          "ancestors (voorouder)"
+        ],
+        [
+          "prezen",
+          "praised (prijzen)"
+        ]
+      ]
+    },
+    "766": {
+      "t": "Mazzranache",
+      "d": "Mijn grootvader vertelde me verhalen over zijn gevechten met een strider met de naam Mazzranache. Hij vertelde me over de demonische rode ogen, vlijmscherpe klauwen en giftige beet van het beest.$b$bHet lot wilde dat ik het tegenkwam toen ik over de vlakten reisde. Het nam een flinke hap uit mijn schouder. Het was net zo vreselijk als mijn grootvader had verteld. Ik heb een paar moeilijk te vinden lichaamsdelen van dieren nodig om de infectie van de beet te reinigen: het hart van een wolf, het dijbeen van een poema, een schub van een plainstrider en de spiermaag van een swoop.$b$bSchiet op, er is weinig tijd.",
+      "o": "Breng een Prairie Wolf Heart, Flatland Cougar Femur, Plainstrider Scale en Swoop Gizzard naar Maur Raincaller in Bloodhoof Village.",
+      "p": "Mijn koorts wordt erger, en mijn gedachten dwalen af naar wilde nachtmerries... Ik had moeten weten dat ik een beest niet aankon dat mijn grootvader niet kon verslaan...$b$bHeb je de ingrediënten voor het medicijn? Ik ben bang dat het mijn dood wordt als ik de infectie niet snel reinig.",
+      "c": "Ah, dank je, $n. Met de spullen die je hebt gebracht, kan ik het medicijn maken dat ik nodig heb om de verspreiding van de infectie te stoppen, en de infectie uiteindelijk helemaal te genezen. Ik heb mijn leven aan je te danken.$b$bMaar ik zal nooit die krijsende roep vergeten toen Mazzranache me overviel, en die flits van kleur toen zijn snavel omlaag kwam...$b$bWees voorzichtig op je reizen.",
+      "g": [
+        [
+          "demonische",
+          "demonic (demonisch)"
+        ],
+        [
+          "vlijmscherpe",
+          "razor-sharp (vlijmscherp)"
+        ],
+        [
+          "giftige beet",
+          "venomous bite"
+        ],
+        [
+          "Het lot wilde",
+          "As fortune would have it"
+        ],
+        [
+          "hap",
+          "bite, chunk"
+        ],
+        [
+          "lichaamsdelen",
+          "body parts (lichaamsdeel)"
+        ],
+        [
+          "dijbeen",
+          "femur, thigh bone"
+        ],
+        [
+          "schub",
+          "scale"
+        ],
+        [
+          "spiermaag",
+          "gizzard"
+        ],
+        [
+          "koorts",
+          "fever"
+        ],
+        [
+          "dwalen af",
+          "drift (afdwalen)"
+        ],
+        [
+          "aankon",
+          "could handle (aankunnen)"
+        ],
+        [
+          "verspreiding",
+          "spread"
+        ],
+        [
+          "genezen",
+          "to cure, to heal"
+        ],
+        [
+          "krijsende",
+          "screeching (krijsen)"
+        ],
+        [
+          "snavel",
+          "beak"
+        ]
+      ]
+    },
+    "759": {
+      "t": "De totem van Wildmane",
+      "d": "Er is nog maar één waterput over om te reinigen. Hij is genoemd naar de Wildmane-clan. Om deze put zuiver te maken, moet het land de tanden geven van een woest roofdier: de Prairie Wolf Alpha. Zoek de alfa's in het noorden en kom terug bij mij als je jacht klaar is.$B$BAlfa's lopen vaak rond aan de voet van onze machtige stad, Thunder Bluff.",
+      "o": "Breng 8 Prairie Alpha Teeth naar Mull Thunderhorn in Bloodhoof Village.",
+      "p": "$N. Heb je de tanden waar ik om vroeg?",
+      "c": "Heel goed, $N. In deze gave voel ik wat het land heeft opgeofferd, en mijn geest vult zich met verdriet, en met trots.",
+      "g": [
+        [
+          "reinigen",
+          "to cleanse"
+        ],
+        [
+          "genoemd naar",
+          "named after (noemen)"
+        ],
+        [
+          "zuiver",
+          "pure"
+        ],
+        [
+          "woest",
+          "fierce"
+        ],
+        [
+          "roofdier",
+          "predator"
+        ],
+        [
+          "alfa's",
+          "alphas (alfa)"
+        ],
+        [
+          "aan de voet van",
+          "at the base of"
+        ],
+        [
+          "machtige",
+          "mighty (machtig)"
+        ],
+        [
+          "gave",
+          "gift, offering"
+        ],
+        [
+          "opgeofferd",
+          "sacrificed (opofferen)"
+        ],
+        [
+          "verdriet",
+          "sadness, grief"
+        ]
+      ]
+    }
+  },
+  "words": {
+    "adult": "adult (in the mob name Adult Plainstrider)",
+    "bereiden": "to prepare (voorbereiden: zich voorbereiden op)",
+    "bewaking": "guard, watch",
+    "bijvoorbeeld": "for example",
+    "centrale": "central (centraal)",
+    "conflicten": "conflicts (conflict)",
+    "cougars": "cougars (in the mob name Flatland Cougar)",
+    "familiecrypte": "family crypt",
+    "flits": "flash, blaze",
+    "gedrukte": "printed (drukken)",
+    "geheten": "called, bidden (heten; welkom heten: to welcome)",
+    "giftige": "venomous, poisonous (giftig)",
+    "grootvader": "grandfather",
+    "hierdoor": "because of this, through this",
+    "infectie": "infection",
+    "kanten": "sides (kant)",
+    "openmaakt": "open (openmaken)",
+    "opgewekte": "raised (opwekken)",
+    "overviel": "came upon, attacked (overvallen)",
+    "plainstriders": "plainstriders (plainstrider)",
+    "poema": "cougar, puma",
+    "raak": "get, become (raken; de weg kwijtraken: to lose your way)",
+    "reinig": "cleanse (reinigen)",
+    "sport": "sport",
+    "staal": "steel",
+    "stalkers": "stalkers (in the mob name Prairie Stalker)",
+    "strider": "strider: a large plains bird like a plainstrider",
+    "swoops": "swoops (swoop)",
+    "tenten": "tents (tent)",
+    "thunderhorn-clan": "the Thunderhorn clan",
+    "vogel": "bird",
+    "voorraadkist": "supply crate",
+    "waterput": "water well",
+    "waterputten": "water wells (waterput)",
+    "wildmane-clan": "the Wildmane clan",
+    "windfury-harpijen": "Windfury harpies (harpij)"
+  },
+  "terms": {
+    "plainstrider": "plainstrider: a large flightless bird of the plains in the Warcraft world",
+    "swoop": "swoop: a large bird of prey that lives on the plains of Mulgore",
+    "quilboar": "quilboar: a race of spiky boar-people in the Warcraft world",
+    "gnoll": "gnoll: a hyena-like humanoid in the Warcraft world",
+    "kodo": "kodo: a huge, slow beast of burden in the Warcraft world"
+  }
+}
