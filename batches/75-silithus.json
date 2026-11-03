@@ -1,0 +1,1475 @@
+{
+  "quests": {
+    "8778": {
+      "t": "De Ironforge Brigade heeft explosieven nodig!",
+      "d": "De Ironforge Brigade heeft een ongewoon verzoek gedaan voor uiterst... instabiele... onderdelen.  Verzamel ze en breng ze naar Mr. Nozzlespring van de Ironforge Brigade.",
+      "o": "Breng 6 Oils of Immolation, 5 Goblin Rocket Fuel en 10 Dense Blasting Powder naar Arcanist Nozzlespring bij Hive'Zora in Silithus.  Je moet ook Logistics Task Briefing IV meebrengen om deze quest te voltooien.",
+      "p": "Heb je iets voor me, $N?",
+      "c": "Ah, ja!  Deze komen goed van pas! Hartelijk bedankt, $N!",
+      "g": [
+        [
+          "explosieven",
+          "explosives (explosief)"
+        ],
+        [
+          "ongewoon",
+          "unusual"
+        ],
+        [
+          "verzoek",
+          "request"
+        ],
+        [
+          "uiterst",
+          "extremely"
+        ],
+        [
+          "instabiele",
+          "unstable, volatile (instabiel)"
+        ],
+        [
+          "onderdelen",
+          "components, parts (onderdeel)"
+        ],
+        [
+          "komen goed van pas",
+          "will come in handy (van pas komen)"
+        ],
+        [
+          "hartelijk bedankt",
+          "many thanks, much obliged"
+        ]
+      ]
+    },
+    "8779": {
+      "t": "Materialen voor waarzeggerij",
+      "d": "Het onderzoek van Geologist Larksbane is enorm waardevol gebleken voor onze operaties in Silithus.  Onlangs heeft ze gevraagd om materialen voor waarzeggerij, die ze voor haar onderzoek wil gebruiken.$B$BVerzamel deze materialen en lever ze direct bij haar af, zodat ze haar onderzoek kan voortzetten.",
+      "o": "Breng 1 Large Brilliant Shard, 1 Large Radiant Shard en 1 Huge Emerald naar Geologist Larksbane in Cenarion Hold in Silithus.  Je moet ook Logistics Task Briefing V meebrengen om deze quest te voltooien.",
+      "g": [
+        [
+          "waarzeggerij",
+          "scrying, fortune-telling"
+        ],
+        [
+          "onderzoek",
+          "research, studies"
+        ],
+        [
+          "waardevol",
+          "valuable"
+        ],
+        [
+          "gebleken",
+          "proven (blijken)"
+        ],
+        [
+          "operaties",
+          "operations (operatie)"
+        ],
+        [
+          "onlangs",
+          "recently"
+        ],
+        [
+          "lever ze af",
+          "deliver them (afleveren)"
+        ],
+        [
+          "voortzetten",
+          "to continue"
+        ]
+      ]
+    },
+    "8780": {
+      "t": "Pantsersets voor het front",
+      "d": "De voorraad pantsersets van de Ironforge Brigade op het slagveld raakt gevaarlijk laag.  Haal een partij en lever die af bij Janela Stouthammer, bij de buitenpost van de Ironforge Brigade buiten Hive'Zora.",
+      "o": "Breng 8 Rugged Armor Kits en 8 Heavy Armor Kits naar Janela Stouthammer bij de Ironforge Brigade Outpost bij Hive'Zora in Silithus.  Je moet ook Logistics Task Briefing VII meebrengen om deze quest te voltooien.",
+      "g": [
+        [
+          "pantsersets",
+          "armor kits (pantserset)"
+        ],
+        [
+          "front",
+          "front line, the field"
+        ],
+        [
+          "voorraad",
+          "supply, stock"
+        ],
+        [
+          "slagveld",
+          "battlefield"
+        ],
+        [
+          "raakt gevaarlijk laag",
+          "is running dangerously low (raken)"
+        ],
+        [
+          "partij",
+          "batch, lot"
+        ],
+        [
+          "buitenpost",
+          "outpost"
+        ]
+      ]
+    },
+    "8781": {
+      "t": "Wapens voor het front",
+      "d": "De Ironforge Brigade is een waardige bondgenoot gebleken in onze strijd in Silithus.  Helaas zijn veel van hun voorraden onderweg hierheen verloren gegaan.  Regel een partij wapens en lever die af bij Janela Stouthammer bij Hive'Zora.",
+      "o": "Breng 2 Moonsteel Broadswords naar Janela Stouthammer bij de Ironforge Brigade Outpost buiten Hive'Zora.  Je moet ook Logistics Task Briefing VI meebrengen om deze quest te voltooien.",
+      "p": "Heb je iets voor me, $N?",
+      "c": "O, uitstekend! Nu hoef ik geen klachten over botte klingen meer aan te horen. Bedankt, $N.",
+      "g": [
+        [
+          "waardige",
+          "worthy (waardig)"
+        ],
+        [
+          "bondgenoot",
+          "ally"
+        ],
+        [
+          "strijd",
+          "fight, struggle"
+        ],
+        [
+          "helaas",
+          "unfortunately"
+        ],
+        [
+          "verloren gegaan",
+          "been lost (verloren gaan)"
+        ],
+        [
+          "regel",
+          "arrange, procure (regelen)"
+        ],
+        [
+          "klachten",
+          "complaints (klacht)"
+        ],
+        [
+          "botte",
+          "dull, blunt (bot)"
+        ],
+        [
+          "klingen",
+          "blades (kling)"
+        ],
+        [
+          "aan te horen",
+          "to have to listen to (aanhoren)"
+        ]
+      ]
+    },
+    "8782": {
+      "t": "Materiaal voor uniformen",
+      "d": "Door de laatste stroom vrijwilligers is er een tekort aan uniformen.  Regel een partij materiaal voor uniformen en breng die naar Windcaller Proudhorn.",
+      "o": "Breng 1 Mooncloth, 2 Bolts of Runecloth en 1 Ironweb Spider Silk naar Windcaller Proudhorn in Cenarion Hold in Silithus.  Je moet ook Logistics Task Briefing VIII meebrengen om deze quest te voltooien.",
+      "g": [
+        [
+          "stroom",
+          "stream, influx"
+        ],
+        [
+          "vrijwilligers",
+          "volunteers (vrijwilliger)"
+        ],
+        [
+          "tekort",
+          "shortage"
+        ],
+        [
+          "regel",
+          "arrange, procure (regelen)"
+        ],
+        [
+          "partij",
+          "batch, lot"
+        ],
+        [
+          "materiaal",
+          "material"
+        ]
+      ]
+    },
+    "8783": {
+      "t": "Buitengewone materialen",
+      "d": "Vargus, de smid van Cenarion Hold, heeft om betoverde materialen gevraagd.  Hij wil ze gebruiken om krachtige wapens voor onze troepen te smeden.  Haal ze en breng ze direct naar Vargus, zodat de troepen van Cenarion Hold goed uitgerust blijven.",
+      "o": "Breng 2 Enchanted Thorium Bars en 2 Enchanted Leather naar Vargus in Cenarion Hold in Silithus.  Je moet ook Logistics Task Briefing IX meebrengen om deze quest te voltooien.",
+      "g": [
+        [
+          "buitengewone",
+          "extraordinary (buitengewoon)"
+        ],
+        [
+          "smid",
+          "blacksmith"
+        ],
+        [
+          "betoverde",
+          "enchanted (betoveren)"
+        ],
+        [
+          "krachtige",
+          "powerful (krachtig)"
+        ],
+        [
+          "troepen",
+          "troops, forces (troep)"
+        ],
+        [
+          "smeden",
+          "to forge, to craft (metal)"
+        ],
+        [
+          "uitgerust",
+          "equipped (uitrusten)"
+        ]
+      ]
+    },
+    "8800": {
+      "t": "Cenarion-gevechtsuitrusting",
+      "d": "Terwijl je de taken voltooit die je in de oorlog krijgt, zul je met Vargus willen praten, de smid.  Laat hem alle insignes zien die je onderweg hebt verdiend. Hij geeft je uitrusting die past bij hoe sterk je je voor onze zaak inzet.",
+      "o": "Praat met Vargus in Cenarion Hold in Silithus.",
+      "c": "Heeft Kaldon je gestuurd? Goed dan, laten we eens kijken wat we voor je kunnen doen.",
+      "g": [
+        [
+          "gevechtsuitrusting",
+          "battlegear"
+        ],
+        [
+          "voltooit",
+          "complete (voltooien)"
+        ],
+        [
+          "smid",
+          "blacksmith"
+        ],
+        [
+          "insignes",
+          "badges (insigne)"
+        ],
+        [
+          "verdiend",
+          "earned (verdienen)"
+        ],
+        [
+          "uitrusting",
+          "gear, equipment"
+        ],
+        [
+          "zaak",
+          "cause"
+        ],
+        [
+          "je inzet",
+          "commit yourself (zich inzetten)"
+        ]
+      ]
+    },
+    "8804": {
+      "t": "Overlevingspakketten voor de woestijn",
+      "d": "Met de komst van nieuwe rekruten in Cenarion Hold komt ook het probleem om ze in leven te houden in de woestijn.  Uitdroging en talloze giftige wezens zijn een ernstige bedreiging voor onervaren vrijwilligers.  Verzamel de benodigdheden voor een overlevingspakket voor de woestijn en breng ze naar Calandrath in Cenarion Hold.",
+      "o": "Breng 4 Globes of Water, 4 Powerful Anti-Venom en 4 Smoked Desert Dumplings naar Calandrath in de herberg van Cenarion Hold in Silithus.  Je moet ook Logistics Task Briefing I meebrengen om deze quest te voltooien.",
+      "g": [
+        [
+          "overlevingspakketten",
+          "survival kits (overlevingspakket)"
+        ],
+        [
+          "komst",
+          "arrival"
+        ],
+        [
+          "rekruten",
+          "recruits (rekruut)"
+        ],
+        [
+          "in leven te houden",
+          "to keep alive (in leven houden)"
+        ],
+        [
+          "uitdroging",
+          "dehydration"
+        ],
+        [
+          "talloze",
+          "numerous, countless (talloos)"
+        ],
+        [
+          "giftige",
+          "poisonous (giftig)"
+        ],
+        [
+          "bedreiging",
+          "threat"
+        ],
+        [
+          "onervaren",
+          "inexperienced"
+        ],
+        [
+          "benodigdheden",
+          "necessary supplies"
+        ],
+        [
+          "herberg",
+          "inn"
+        ]
+      ]
+    },
+    "8805": {
+      "t": "Laarzen voor de wacht",
+      "d": "De bereden afdeling van de wacht van Cenarion Hold heeft een tekort aan sierlijke mithrillaarzen.  Regel een partij en lever die meteen af bij kapitein Vish Kozus in Cenarion Hold.",
+      "o": "Breng 3 Ornate Mithril Boots naar Vish Kozus, kapitein van de wacht in Cenarion Hold in Silithus.  Je moet ook Logistics Task Briefing II meebrengen om deze quest te voltooien.",
+      "g": [
+        [
+          "laarzen",
+          "boots (laars)"
+        ],
+        [
+          "wacht",
+          "guard"
+        ],
+        [
+          "bereden",
+          "mounted (on horseback)"
+        ],
+        [
+          "afdeling",
+          "division, unit"
+        ],
+        [
+          "tekort",
+          "shortage"
+        ],
+        [
+          "sierlijke",
+          "ornate, elegant (sierlijk)"
+        ],
+        [
+          "mithrillaarzen",
+          "mithril boots"
+        ],
+        [
+          "kapitein",
+          "captain"
+        ]
+      ]
+    },
+    "8806": {
+      "t": "Slijpstenen voor de wacht",
+      "d": "De wacht van Cenarion Hold heeft een tekort aan slijpstenen.  Regel een partij en lever die meteen af bij kapitein Vish Kozus in Cenarion Hold.",
+      "o": "Breng 10 Dense Grinding Stones, 10 Solid Grinding Stones en 10 Heavy Grinding Stones naar Vish Kozus, kapitein van de wacht in Cenarion Hold in Silithus.  Je moet ook Logistics Task Briefing III meebrengen om deze quest te voltooien.",
+      "g": [
+        [
+          "slijpstenen",
+          "grinding stones (slijpsteen)"
+        ],
+        [
+          "wacht",
+          "guard"
+        ],
+        [
+          "tekort",
+          "shortage"
+        ],
+        [
+          "regel",
+          "arrange, procure (regelen)"
+        ],
+        [
+          "partij",
+          "batch, lot"
+        ],
+        [
+          "kapitein",
+          "captain"
+        ]
+      ]
+    },
+    "8807": {
+      "t": "Materialen voor waarzeggerij",
+      "d": "Het onderzoek van Geologist Larksbane is enorm waardevol gebleken voor onze operaties in Silithus.  Onlangs heeft ze gevraagd om materialen voor waarzeggerij, die ze voor haar onderzoek wil gebruiken.$B$BVerzamel deze materialen en lever ze direct bij haar af, zodat ze haar onderzoek kan voortzetten.",
+      "o": "Breng 1 Large Brilliant Shard, 1 Large Radiant Shard en 1 Huge Emerald naar Geologist Larksbane in Cenarion Hold in Silithus.  Je moet ook Logistics Task Briefing V meebrengen om deze quest te voltooien.",
+      "g": [
+        [
+          "waarzeggerij",
+          "scrying, fortune-telling"
+        ],
+        [
+          "onderzoek",
+          "research, studies"
+        ],
+        [
+          "waardevol",
+          "valuable"
+        ],
+        [
+          "gebleken",
+          "proven (blijken)"
+        ],
+        [
+          "operaties",
+          "operations (operatie)"
+        ],
+        [
+          "onlangs",
+          "recently"
+        ],
+        [
+          "lever ze af",
+          "deliver them (afleveren)"
+        ],
+        [
+          "voortzetten",
+          "to continue"
+        ]
+      ]
+    },
+    "8808": {
+      "t": "Materiaal voor uniformen",
+      "d": "Door de laatste stroom vrijwilligers is er een tekort aan uniformen.  Regel een partij materiaal voor uniformen en breng die naar Windcaller Proudhorn.",
+      "o": "Breng 1 Mooncloth, 2 Bolts of Runecloth en 1 Ironweb Spider Silk naar Windcaller Proudhorn in Cenarion Hold in Silithus.  Je moet ook Logistics Task Briefing VIII meebrengen om deze quest te voltooien.",
+      "g": [
+        [
+          "stroom",
+          "stream, influx"
+        ],
+        [
+          "vrijwilligers",
+          "volunteers (vrijwilliger)"
+        ],
+        [
+          "tekort",
+          "shortage"
+        ],
+        [
+          "regel",
+          "arrange, procure (regelen)"
+        ],
+        [
+          "partij",
+          "batch, lot"
+        ],
+        [
+          "materiaal",
+          "material"
+        ]
+      ]
+    },
+    "8809": {
+      "t": "Buitengewone materialen",
+      "d": "Vargus, de smid van Cenarion Hold, heeft om betoverde materialen gevraagd.  Hij wil ze gebruiken om krachtige wapens voor onze troepen te smeden.  Haal ze en breng ze direct naar Vargus, zodat de troepen van Cenarion Hold goed uitgerust blijven.",
+      "o": "Breng 2 Enchanted Thorium Bars en 2 Enchanted Leather naar Vargus in Cenarion Hold in Silithus.  Je moet ook Logistics Task Briefing IX meebrengen om deze quest te voltooien.",
+      "g": [
+        [
+          "buitengewone",
+          "extraordinary (buitengewoon)"
+        ],
+        [
+          "smid",
+          "blacksmith"
+        ],
+        [
+          "betoverde",
+          "enchanted (betoveren)"
+        ],
+        [
+          "krachtige",
+          "powerful (krachtig)"
+        ],
+        [
+          "troepen",
+          "troops, forces (troep)"
+        ],
+        [
+          "smeden",
+          "to forge, to craft (metal)"
+        ],
+        [
+          "uitgerust",
+          "equipped (uitrusten)"
+        ]
+      ]
+    },
+    "8810": {
+      "t": "Verband voor het front",
+      "d": "Onze voorraad verband op het slagveld raakt gevaarlijk laag, door de verliezen die we onlangs hebben geleden.  Haal een partij EHBO-spullen en lever die af bij Windcaller Proudhorn in Cenarion Hold.",
+      "o": "Breng 30 Heavy Runecloth Bandages, 30 Heavy Silk Bandages en 30 Heavy Mageweave Bandages naar Windcaller Proudhorn in Cenarion Hold in Silithus.  Je moet ook Logistics Task Briefing X meebrengen om deze quest te voltooien.",
+      "g": [
+        [
+          "verband",
+          "bandages"
+        ],
+        [
+          "voorraad",
+          "supply, stock"
+        ],
+        [
+          "slagveld",
+          "battlefield"
+        ],
+        [
+          "raakt gevaarlijk laag",
+          "is running dangerously low (raken)"
+        ],
+        [
+          "verliezen",
+          "losses, casualties (verlies)"
+        ],
+        [
+          "geleden",
+          "suffered (lijden)"
+        ],
+        [
+          "EHBO-spullen",
+          "first-aid supplies"
+        ],
+        [
+          "partij",
+          "batch, lot"
+        ]
+      ]
+    },
+    "8829": {
+      "t": "Het ultieme bedrog",
+      "d": "De Twilight's Hammer werkt via ontelbare lagen van geheimhouding en bedrog.  Hun daden worden in onze wereld uitgevoerd, maar ze worden gepland op een plek die we nog niet hebben kunnen bereiken.$B$BWe denken nu dat de stenen waarmee de Twilight's Hammer hun meerderen oproept, reizen in twee richtingen mogelijk maken.  Om ze op die manier te proberen te gebruiken, moeten we tot in het kleinste detail het gewaad van een Twilight-gezant namaken.$B$BVerzamel de benodigde materialen en breng ze naar Aurel Goldleaf, $N.  ",
+      "o": "Breng een Skin of Shadow, 3 Frayed Abomination Stitchings en 1 Twilight Cultist Robe naar Aurel Goldleaf in Cenarion Hold in Silithus.  Je moet ook Logistics Task Briefing XI meebrengen om deze quest te voltooien.$b",
+      "g": [
+        [
+          "ultieme",
+          "ultimate (ultiem)"
+        ],
+        [
+          "bedrog",
+          "deception, deceit"
+        ],
+        [
+          "ontelbare",
+          "countless, innumerable (ontelbaar)"
+        ],
+        [
+          "lagen",
+          "layers (laag)"
+        ],
+        [
+          "geheimhouding",
+          "secrecy"
+        ],
+        [
+          "daden",
+          "deeds, actions (daad)"
+        ],
+        [
+          "uitgevoerd",
+          "carried out (uitvoeren)"
+        ],
+        [
+          "meerderen",
+          "superiors (meerdere)"
+        ],
+        [
+          "oproept",
+          "summons (oproepen)"
+        ],
+        [
+          "tot in het kleinste detail",
+          "down to the last detail"
+        ],
+        [
+          "gewaad",
+          "robe"
+        ],
+        [
+          "gezant",
+          "emissary, envoy"
+        ],
+        [
+          "namaken",
+          "to replicate, to copy"
+        ],
+        [
+          "benodigde",
+          "necessary, required"
+        ]
+      ]
+    },
+    "8857": {
+      "t": "Geheimen van de Colossus - Ashi",
+      "d": "Ik zoek doorgewinterde avonturiers die bereid en in staat zijn om een vers monster van het omhulsel van de gevallen Colossus of Ashi naar Oglethorpe in Booty Bay te brengen. Nee, nee, ik wil echt niet dat je ook maar in de buurt van het lijk van dat ding komt. Neem gewoon een van mijn monsters mee en schiet een beetje op. Als ze verrot zijn, heeft hij er niets aan!",
+      "o": "Breng de Colossus of Ashi's Husk naar Oglethorpe Obnoticus in Booty Bay.$b",
+      "p": "Ja? Wat heb je daar?",
+      "c": "O, de kippen die ik van dit wonderlijke omhulsel ga maken! Goed gedaan, mijn $gjongen:meid;!",
+      "g": [
+        [
+          "doorgewinterde",
+          "battle-hardened, seasoned (doorgewinterd)"
+        ],
+        [
+          "bereid",
+          "willing"
+        ],
+        [
+          "in staat",
+          "able, capable"
+        ],
+        [
+          "monster",
+          "sample (here: not 'monster')"
+        ],
+        [
+          "omhulsel",
+          "husk, shell"
+        ],
+        [
+          "gevallen",
+          "fallen"
+        ],
+        [
+          "lijk",
+          "corpse"
+        ],
+        [
+          "schiet een beetje op",
+          "make it snappy (opschieten)"
+        ],
+        [
+          "verrot",
+          "rotten"
+        ],
+        [
+          "wonderlijke",
+          "wondrous (wonderlijk)"
+        ]
+      ]
+    },
+    "8858": {
+      "t": "Geheimen van de Colossus - Regal",
+      "d": "Er is niks wat ik liever zou doen dan dit insectenomhulsel in die dikke kop van Oilfist te proppen... Alleen zit ik hier vast, monsters te verzamelen van die uit de kluiten gewassen kakkerlak. Zo groot als dat ding is, zit ik hier tot in de kleine uurtjes.$B$BBreng dit monster voor me naar Oilfist, en snel een beetje, $c. Hij betaalt VEEL!$B$BJawel, Thorium Point - dat ligt in de Searing Gorge.",
+      "o": "Breng de Colossus of Regal's Husk naar Overseer Oilfist in Searing Gorge.$b",
+      "p": "Hmmm...",
+      "c": "Uitstekend. Van deze chitine kunnen we vast ongelooflijk sterk pantser maken. Hier zijn de rijkdommen die je beloofd zijn.",
+      "g": [
+        [
+          "insectenomhulsel",
+          "bug husk"
+        ],
+        [
+          "proppen",
+          "to stuff, to cram"
+        ],
+        [
+          "zit vast",
+          "am stuck (vastzitten)"
+        ],
+        [
+          "monsters",
+          "samples (monster)"
+        ],
+        [
+          "uit de kluiten gewassen",
+          "overgrown, oversized"
+        ],
+        [
+          "kakkerlak",
+          "cockroach"
+        ],
+        [
+          "tot in de kleine uurtjes",
+          "until the wee hours"
+        ],
+        [
+          "chitine",
+          "chitin (insect shell material)"
+        ],
+        [
+          "pantser",
+          "armor"
+        ],
+        [
+          "rijkdommen",
+          "riches (rijkdom)"
+        ],
+        [
+          "beloofd",
+          "promised (beloven)"
+        ]
+      ]
+    },
+    "8859": {
+      "t": "Geheimen van de Colossus - Zora",
+      "d": "Mijn dienaren werden bijna gedood toen ze dit monster probeerden te bemachtigen. Je moet je echt haasten! Lord Maxwell Tyrosus wacht vol ongeduld op een vers monster van het omhulsel. Hij gelooft dat de geheimen van deze Colossus ons kunnen helpen in de oorlog tegen de Scourge!$B$BWaarom ben je hier nog!? Naar Light's Hope! Ja, je wordt rijkelijk beloond voor je moeite...$b",
+      "o": "Breng de Colossus of Zora's Husk naar Lord Maxwell Tyrosus in Light's Hope Chapel in de Eastern Plaguelands.$b",
+      "p": "Je lijkt een beetje zwaar te lopen, vriend.",
+      "c": "Uitstekend, en precies op tijd! Goed gedaan, $gjongen:meid;.",
+      "g": [
+        [
+          "dienaren",
+          "servants (dienaar)"
+        ],
+        [
+          "bemachtigen",
+          "to obtain, to secure"
+        ],
+        [
+          "haasten",
+          "to hurry (zich haasten)"
+        ],
+        [
+          "vol ongeduld",
+          "eagerly, impatiently"
+        ],
+        [
+          "monster",
+          "sample"
+        ],
+        [
+          "omhulsel",
+          "husk, shell"
+        ],
+        [
+          "rijkelijk",
+          "handsomely, richly"
+        ],
+        [
+          "beloond",
+          "rewarded (belonen)"
+        ],
+        [
+          "moeite",
+          "effort, trouble"
+        ]
+      ]
+    },
+    "9248": {
+      "t": "Een bescheiden offer",
+      "d": "Ishnu-alah, $r. Laat me het bewijs zien dat een Lord of the Abyssal Council is gedood, dan beloon ik je met een voorwerp dat je zal helpen in je gevechten tegen de Qiraji.",
+      "o": "Aurel Goldleaf in Cenarion Hold in Silithus wil dat je haar 1 Abyssal Scepter brengt. Je moet ook Honored zijn bij de Cenarion Circle.",
+      "p": "Fandu-dath-belore? O, neem me niet kwalijk, $N. Ik herkende je niet. Heb je de scepter?$b",
+      "c": "Ande'thoras-ethil. Het betekent 'Mogen je zorgen kleiner worden' in mijn moedertaal.$B$BDraag de ring met trots en in goede gezondheid, $N.",
+      "g": [
+        [
+          "bescheiden",
+          "humble, modest"
+        ],
+        [
+          "offer",
+          "offering"
+        ],
+        [
+          "bewijs",
+          "proof"
+        ],
+        [
+          "gedood",
+          "killed (doden)"
+        ],
+        [
+          "beloon",
+          "reward (belonen)"
+        ],
+        [
+          "voorwerp",
+          "object, item"
+        ],
+        [
+          "neem me niet kwalijk",
+          "pardon me"
+        ],
+        [
+          "herkende",
+          "recognized (herkennen)"
+        ],
+        [
+          "mogen",
+          "may (wish)"
+        ],
+        [
+          "moedertaal",
+          "native tongue"
+        ],
+        [
+          "met trots",
+          "proudly"
+        ]
+      ]
+    },
+    "9338": {
+      "t": "Trouw aan de Cenarion Circle",
+      "p": "Ook als je de materiële beloningen die we aanbieden niet nodig hebt, staan deze insignes nog steeds voor ons wederzijds vertrouwen en onze vriendschap.$B$BBreng ze naar mij.  Ik zal je dienst goed noteren als je meer doet dan je plicht.",
+      "c": "Je eert ons, $N. Met je blijvende inzet zullen we alle obstakels overwinnen.",
+      "g": [
+        [
+          "trouw",
+          "allegiance, loyalty"
+        ],
+        [
+          "materiële",
+          "material (materieel)"
+        ],
+        [
+          "beloningen",
+          "rewards (beloning)"
+        ],
+        [
+          "insignes",
+          "badges (insigne)"
+        ],
+        [
+          "staan voor",
+          "stand for, mark"
+        ],
+        [
+          "wederzijds",
+          "mutual"
+        ],
+        [
+          "dienst",
+          "service"
+        ],
+        [
+          "noteren",
+          "to note down"
+        ],
+        [
+          "plicht",
+          "duty"
+        ],
+        [
+          "eert",
+          "honor (eren)"
+        ],
+        [
+          "inzet",
+          "effort, commitment"
+        ],
+        [
+          "obstakels",
+          "obstacles (obstakel)"
+        ],
+        [
+          "overwinnen",
+          "to overcome"
+        ]
+      ]
+    },
+    "9415": {
+      "t": "Meld je bij Marshal Bluewall",
+      "d": "Zijn jullie de nieuwe rekruten van Marshal Bluewall? Natuurlijk zijn jullie dat.$b$bWaar wachten jullie op? Goede soldaten sterven in de woestijn. Hebben jullie geen zin om je bij hen aan te sluiten?$b$bVooruit, op weg, en droog onderweg niet uit.",
+      "o": "Spreek met Marshal Bluewall in het kamp van de Alliance bij Hive'Zora.",
+      "c": "De Alliance heeft iedereen nodig die kan vechten. De Horde krijgt een gestage stroom versterkingen uit het noorden van het continent, en het is moeilijk om bij te blijven.$B$BIk zal je uitleggen hoe het ervoor staat.",
+      "g": [
+        [
+          "meld je",
+          "report (zich melden)"
+        ],
+        [
+          "rekruten",
+          "recruits (rekruut)"
+        ],
+        [
+          "sterven",
+          "to die"
+        ],
+        [
+          "aan te sluiten",
+          "to join (zich aansluiten)"
+        ],
+        [
+          "droog niet uit",
+          "don't dry out (uitdrogen)"
+        ],
+        [
+          "gestage",
+          "steady (gestaag)"
+        ],
+        [
+          "versterkingen",
+          "reinforcements (versterking)"
+        ],
+        [
+          "bij te blijven",
+          "to keep up (bijblijven)"
+        ],
+        [
+          "hoe het ervoor staat",
+          "what the situation is"
+        ]
+      ]
+    },
+    "9419": {
+      "t": "De woestijn uitkammen",
+      "d": "We ontdekten onlangs dat de Horde de woestijn van Silithus afzoekt naar grondstoffen, maar we schonken er weinig aandacht aan. We dachten dat het de moeite niet waard was om grote aantallen in deze snikhete woestijn te stationeren.$b$bMaar toen werd ontdekt hoe belangrijk de grondstoffen zijn, en nu moeten we haastig een achterstand inhalen.$b$bAls ik op je hulp kan rekenen, moet je de woestijn in gaan, de silithyst terughalen en die hier brengen.",
+      "o": "Vind Silithyst en lever het af bij de Silithyst Extractor, en spreek daarna met Marshal Bluewall in het kamp van de Alliance bij Hive'Zora.",
+      "p": "Wees voorzichtig daarbuiten, maar ook snel. We hebben geen tijd te verliezen.",
+      "c": "Het Licht zij dank, het is je gelukt.$B$BHadden we hier maar eerder mee kunnen beginnen, dan was onze nood nu niet zo groot. We moeten voorkomen dat de rijkdom van de woestijn in handen van de Horde valt.",
+      "o1": "Lever Silithyst in",
+      "g": [
+        [
+          "uitkammen",
+          "to scour, to comb"
+        ],
+        [
+          "afzoekt",
+          "searches (afzoeken)"
+        ],
+        [
+          "grondstoffen",
+          "resources, raw materials (grondstof)"
+        ],
+        [
+          "schonken er weinig aandacht aan",
+          "paid little mind to it (aandacht schenken)"
+        ],
+        [
+          "de moeite niet waard",
+          "not worth it"
+        ],
+        [
+          "snikhete",
+          "sweltering (snikheet)"
+        ],
+        [
+          "stationeren",
+          "to station"
+        ],
+        [
+          "haastig",
+          "hastily"
+        ],
+        [
+          "een achterstand inhalen",
+          "to catch up"
+        ],
+        [
+          "rekenen op",
+          "to count on"
+        ],
+        [
+          "Het Licht zij dank",
+          "Thank the Light"
+        ],
+        [
+          "nood",
+          "need, distress"
+        ],
+        [
+          "voorkomen",
+          "to prevent"
+        ],
+        [
+          "rijkdom",
+          "wealth, bounty"
+        ]
+      ]
+    },
+    "1124": {
+      "t": "Woestenij",
+      "d": "Ten westen van Un'Goro Crater, via de noordwestelijke bergkam, ligt een ruige woestenij: Silithus.  Weinigen weten dat daar een oude oorlog werd gevoerd tussen de nachtelfen en een kwaadaardige, vreemde macht.  Het kwaad werd opgesloten, maar nu vermoeden we dat er krachten bezig zijn om deze... onbeschrijflijke verschrikking te wekken.$B$BZoek Layo Starstrike op, een van onze agenten in Silithus. Je vindt hem bij Valor's Rest, de laatste rustplaats voor de gevallenen van de woestenij.  Geef hem deze brief, dan zal hij je ook vertrouwen.",
+      "o": "Spreek met Layo Starstrike bij de begraafplaats Valor's Rest in Silithus en laat hem Rabine's Letter zien.",
+      "p": "Dit is een gevaarlijk land om zo onbezorgd te zijn, $c.  Wat brengt je naar de woestenij van Silithus?",
+      "c": "Rabine heeft je gestuurd?  Nou, voel je hier welkom... voor zover dit troosteloze, verlaten land iemand welkom kan heten.$B$BIk leefde nog niet in de tijd van de grote beproevingen die hier plaatsvonden, maar sommige delen van deze woestijn lijken wel griezelige beelden van dat vergeten verleden.  Met jouw hulp kan de Cenarion Circle misschien definitief een einde maken aan een bedreiging die generaties geleden al had moeten sterven.",
+      "g": [
+        [
+          "woestenij",
+          "wasteland"
+        ],
+        [
+          "bergkam",
+          "ridge"
+        ],
+        [
+          "ruige",
+          "harsh, rough (ruig)"
+        ],
+        [
+          "gevoerd",
+          "waged (voeren)"
+        ],
+        [
+          "kwaadaardige",
+          "malign, evil (kwaadaardig)"
+        ],
+        [
+          "opgesloten",
+          "sealed, locked up (opsluiten)"
+        ],
+        [
+          "vermoeden",
+          "suspect"
+        ],
+        [
+          "onbeschrijflijke",
+          "unspeakable, indescribable (onbeschrijflijk)"
+        ],
+        [
+          "verschrikking",
+          "horror"
+        ],
+        [
+          "wekken",
+          "to wake, to stir"
+        ],
+        [
+          "rustplaats",
+          "resting place"
+        ],
+        [
+          "onbezorgd",
+          "carefree, casual"
+        ],
+        [
+          "troosteloze",
+          "desolate (troosteloos)"
+        ],
+        [
+          "beproevingen",
+          "tribulations, trials (beproeving)"
+        ],
+        [
+          "griezelige",
+          "eerie (griezelig)"
+        ]
+      ]
+    },
+    "1185": {
+      "t": "Onder de chitine zat...",
+      "c": "Hé, jij weer! Nou ja, ik bedoel jij - de jij die $N is! Ja - die jij!$B$BHé, laat me opnieuw beginnen!$B$BDat voorwerp dat je in Silithus hebt gevonden - het was echt een boek. Het was een dagboek, geschreven in een heel oud dialect van wat we nu de Darnassische taal noemen. Het gaat even duren, maar ik ga het heel grondig bekijken. Ik vond dat je moest weten dat wat je hebt gevonden heel waardevol was voor de Circle.$B$BDe holmoeder is helemaal enthousiast en zo!",
+      "g": [
+        [
+          "chitine",
+          "chitin (insect shell material)"
+        ],
+        [
+          "voorwerp",
+          "object"
+        ],
+        [
+          "dagboek",
+          "journal, diary"
+        ],
+        [
+          "dialect",
+          "dialect"
+        ],
+        [
+          "Darnassische",
+          "Darnassian"
+        ],
+        [
+          "grondig",
+          "thoroughly"
+        ],
+        [
+          "waardevol",
+          "valuable"
+        ],
+        [
+          "holmoeder",
+          "den mother"
+        ]
+      ]
+    },
+    "6845": {
+      "t": "Oude geheimen ontrafelen",
+      "d": "Hoe dan ook, kom binnenkort nog eens bij me langs... tenminste, als je wilt weten wat hierin stond.  Zodra ik ontdek wat het is, en of het echt een boek is, vertel ik je dat graag.$B$BIntussen zou ik even langsgaan bij de holmoeder van dit kleine berenkamp, Rabine.  Hij wil vast weten wat voor gekke streken jij hebt uitgehaald.  Laat de holmoeder nooit wachten, $N... tenzij je met honing overgoten wilt worden.$B$BHet is echt gebeurd, geloof me.",
+      "o": "Spreek met Rabine Saturna in het dorp Nighthaven, Moonglade.",
+      "c": "Ah, $N - ik hoopte al dat je langs zou komen. Fijn om te zien dat het goed met je gaat.$b$bIk hoorde dat je terug zou komen uit het veld, en ik wilde je persoonlijk de dank van de Cenarion Circle laten weten voor de hulp die je ons tot nu toe hebt gegeven. Er zijn vast nog meer geheimen in Silithus te ontdekken; wat je bij Umber hebt afgeleverd, zal heel interessant blijken zodra het onthuld is. Neem dit alsjeblieft aan als blijk van onze blijvende waardering voor je hulp.$b$bDank je, vrijgevige $C.",
+      "g": [
+        [
+          "ontrafelen",
+          "to uncover, to unravel"
+        ],
+        [
+          "tenminste",
+          "at least, that is"
+        ],
+        [
+          "zodra",
+          "as soon as"
+        ],
+        [
+          "intussen",
+          "in the meantime"
+        ],
+        [
+          "holmoeder",
+          "den mother"
+        ],
+        [
+          "streken",
+          "antics, tricks (streek)"
+        ],
+        [
+          "uitgehaald",
+          "pulled, got up to (uithalen)"
+        ],
+        [
+          "overgoten",
+          "doused (overgieten)"
+        ],
+        [
+          "onthuld",
+          "uncovered, revealed (onthullen)"
+        ],
+        [
+          "als blijk van",
+          "as a token of"
+        ],
+        [
+          "waardering",
+          "appreciation"
+        ],
+        [
+          "vrijgevige",
+          "generous (vrijgevig)"
+        ]
+      ]
+    },
+    "5526": {
+      "t": "Scherven van de Felvine",
+      "d": "Je kennis van Eldre'Thalas - Dire Maul - in Feralas komt nu van pas, $N.  In het oostelijke deel van de verwoeste stad heeft Alzzin the Wildshaper zijn verdorven heerschappij gevestigd.  Ga daar zo snel mogelijk heen en trotseer alle uitdagingen die je te wachten staan.$B$BHet Fruit of Fertility, nu verdorven tot de Felvine, zou dicht bij Alzzin moeten zijn.  Als hij valt, vang dan zoveel van de essentie van de Felvine als je kunt.  Sluit die op in de Reliquary en breng hem naar mij.$B$BVeel geluk, en de snelheid van Cenarion.",
+      "o": "Vind de Felvine in Dire Maul en bemachtig er een scherf van.  Waarschijnlijk lukt dat alleen als Alzzin the Wildshaper sterft.  Gebruik de Reliquary of Purity om de scherf er veilig in op te sluiten, en breng hem terug naar Rabine Saturna in Nighthaven, Moonglade.",
+      "p": "Met de Sealed Reliquary of Purity in ons bezit kunnen we niet alleen een verdorven bedreiging uit de wereld verwijderen, maar die ook bestuderen onder ons zorgvuldige toezicht. Misschien kunnen we zelfs nieuwe manieren bedenken om de smet van verdorvenheid te bestrijden die Azeroth altijd bedreigt.$b$bIk weet dat Milli het niet anders had gewild...",
+      "c": "Het is volbracht, dappere $C, en daarmee staat de Cenarion Circle bij je in de schuld. Hoewel de oorlog nog lang niet voorbij is, is er een grote slag gewonnen tegen wie onze ondergang willen brengen.$b$bNeem dit alsjeblieft aan als blijk van onze blijvende dankbaarheid. Weet dat je hier welkom bent als held van de Cenarion Circle, vanwege je grote daad, $N. Dank je.",
+      "g": [
+        [
+          "scherven",
+          "shards (scherf)"
+        ],
+        [
+          "komt van pas",
+          "comes into play, comes in handy (van pas komen)"
+        ],
+        [
+          "verwoeste",
+          "ruined (verwoest)"
+        ],
+        [
+          "verdorven",
+          "corrupt(ed)"
+        ],
+        [
+          "heerschappij",
+          "dominion, rule"
+        ],
+        [
+          "trotseer",
+          "brave, defy (trotseren)"
+        ],
+        [
+          "essentie",
+          "essence"
+        ],
+        [
+          "bemachtig",
+          "acquire (bemachtigen)"
+        ],
+        [
+          "bezit",
+          "possession"
+        ],
+        [
+          "toezicht",
+          "watch, supervision"
+        ],
+        [
+          "smet",
+          "taint, stain"
+        ],
+        [
+          "verdorvenheid",
+          "corruption"
+        ],
+        [
+          "volbracht",
+          "done, accomplished (volbrengen)"
+        ],
+        [
+          "in de schuld",
+          "in debt"
+        ],
+        [
+          "ondergang",
+          "doom, downfall"
+        ]
+      ]
+    },
+    "5527": {
+      "t": "Een Reliquary of Purity",
+      "d": "De eerste stap is een houder vinden die een uiterst verderfelijke stof kan bevatten, zonder dat degene die hem vasthoudt er nadelige gevolgen van ondervindt.  Ik ken maar één soort voorwerp dat iets zo walgelijks als de Felvine zou kunnen bevatten: een Reliquary of Purity.$B$BDiep in de woestenij van Silithus liggen de resten van het nachtelfendorp Southwind.  Ik weet dat er vele, vele jaren geleden een was.  Als we willen slagen, moet je die ruïnes uitkammen in de hoop hem terug te vinden.",
+      "o": "Reis naar Silithus en zoek naar een Reliquary of Purity in de ruïnes van Southwind Village.  Als je hem vindt, breng hem dan terug naar Rabine Saturna in Nighthaven, Moonglade.",
+      "p": "Een Reliquary of Purity is op zich al een artefact.  Er zijn er maar weinig gemaakt, en men dacht dat bijna allemaal in de loop van de tijd verloren waren gegaan.$B$BIk geef toe dat ik al een tijdje van die in Southwind afweet.  Eerlijk gezegd, met de groeiende onrust in Silithus wilde ik onze geheimen precies dat houden: geheim.  Rondneuzen zou alleen de argwaan van onze vijanden wekken.$B$BHelaas is de tijd van stilzitten voorbij, vooral met de situatie in Eldre'Thalas. ",
+      "c": "Je bent inderdaad zo vindingrijk als velen zeggen. De Cenarion Circle mag zich gelukkig prijzen dat jij voor ons werkt.$b$bNu de Reliquary weer in onze handen is, ben ik gerust. Ik vraag je met een geruster gevoel om niet alleen een kwaadaardige demon te verslaan, maar daarbij ook een gevaarlijk voorwerp mee terug te brengen...",
+      "g": [
+        [
+          "houder",
+          "container"
+        ],
+        [
+          "verderfelijke",
+          "corrupting, pernicious (verderfelijk)"
+        ],
+        [
+          "bevatten",
+          "to contain, to hold"
+        ],
+        [
+          "nadelige gevolgen",
+          "ill effects"
+        ],
+        [
+          "ondervindt",
+          "experiences, suffers (ondervinden)"
+        ],
+        [
+          "walgelijks",
+          "vile, disgusting (walgelijk)"
+        ],
+        [
+          "resten",
+          "remnants (rest)"
+        ],
+        [
+          "uitkammen",
+          "to scour, to comb"
+        ],
+        [
+          "op zich",
+          "in itself"
+        ],
+        [
+          "onrust",
+          "turmoil, unrest"
+        ],
+        [
+          "rondneuzen",
+          "poking around"
+        ],
+        [
+          "argwaan",
+          "suspicion"
+        ],
+        [
+          "stilzitten",
+          "sitting still, complacency"
+        ],
+        [
+          "vindingrijk",
+          "resourceful"
+        ],
+        [
+          "zich gelukkig prijzen",
+          "to count oneself lucky"
+        ]
+      ]
+    },
+    "8447": {
+      "t": "Ontwakende legenden",
+      "d": "Het water van Lake Elune'ara zou de nachtmerries die dit voorwerp omhullen moeten oplossen. Geef me even de tijd om de reiniging uit te voeren, $N.",
+      "o": "Wacht tot Keeper Remulos in de Moonglade het Nightmare Engulfed Object heeft gereinigd.",
+      "c": "Neem zijn ring, $N. Die heeft zijn doel voor Malfurion gediend. Nu zal hij een nieuw doel voor jou dienen...",
+      "e": "Ontwakende legenden.",
+      "g": [
+        [
+          "ontwakende",
+          "waking (ontwaken)"
+        ],
+        [
+          "legenden",
+          "legends (legende)"
+        ],
+        [
+          "nachtmerries",
+          "nightmares (nachtmerrie)"
+        ],
+        [
+          "omhullen",
+          "engulf, envelop"
+        ],
+        [
+          "oplossen",
+          "to dissolve"
+        ],
+        [
+          "reiniging",
+          "cleansing"
+        ],
+        [
+          "uit te voeren",
+          "to perform (uitvoeren)"
+        ],
+        [
+          "gereinigd",
+          "cleansed (reinigen)"
+        ],
+        [
+          "gediend",
+          "served (dienen)"
+        ]
+      ]
+    },
+    "8735": {
+      "t": "De verdorvenheid van de Nightmare",
+      "d": "Je moet naar de vier droomportalen van Azeroth reizen. Uit elk ervan moet je een fragment van de verdorvenheid van de Nightmare halen. Het drakenvolk dat in die gebieden woont, draagt zulke fragmenten bij zich. Kom bij me terug als je deze fragmenten hebt verzameld.",
+      "o": "Reis naar de vier Emerald Dream-portalen in Azeroth en verzamel bij elk een Fragment of the Nightmare's Corruption. Keer terug naar Keeper Remulos in de Moonglade als je deze taak hebt voltooid.$b",
+      "p": "<Remulos is diep in gedachten verzonken.>",
+      "c": "Ben je er klaar voor? Is de wereld klaar voor wat we op het punt staan op te roepen? Ik weet het niet... Ik ben door mijn plicht aan Malfurion gebonden. Plicht en eer...",
+      "g": [
+        [
+          "verdorvenheid",
+          "corruption"
+        ],
+        [
+          "droomportalen",
+          "dream portals (droomportaal)"
+        ],
+        [
+          "drakenvolk",
+          "dragonkin"
+        ],
+        [
+          "gebieden",
+          "areas (gebied)"
+        ],
+        [
+          "bij zich",
+          "on them, with them"
+        ],
+        [
+          "in gedachten verzonken",
+          "lost in thought"
+        ],
+        [
+          "op het punt staan",
+          "to be about to"
+        ],
+        [
+          "op te roepen",
+          "to invoke, to summon (oproepen)"
+        ],
+        [
+          "plicht",
+          "duty"
+        ],
+        [
+          "gebonden",
+          "bound (binden)"
+        ],
+        [
+          "eer",
+          "honor"
+        ]
+      ]
+    },
+    "8736": {
+      "t": "De Nightmare openbaart zich",
+      "d": "We moeten ons inhouden tegenover Eranikus. We moeten hem verlossen, niet vernietigen.$B$BTyrande is al onderweg om ons bij deze taak te helpen. We moeten de klappen van de draak doorstaan en Nighthaven redden van de zekere ondergang.$B$BWees op je hoede! Jij en je bondgenoten zijn onze enige hoop.$b",
+      "o": "Verdedig Nighthaven tegen Eranikus. Laat Keeper Remulos niet sterven. Dood Eranikus niet. Verdedig jezelf. Wacht op Tyrande.$b",
+      "c": "Hij is verlost, $n. Hij keert nu terug naar de Droom om recht te zetten wat hij alleen verkeerd heeft gedaan. Eranikus zal een machtige bondgenoot zijn voor Malfurion en mijn vader.$b$bDeze wapens zijn voor jou, $n; ik heb ze van Ysera zelf gekregen. Je doet er goed aan ze te gebruiken in je gevechten tegen de Qiraji.",
+      "e": "De verlossing van Eranikus",
+      "g": [
+        [
+          "openbaart zich",
+          "manifests, reveals itself (zich openbaren)"
+        ],
+        [
+          "ons inhouden",
+          "use restraint (zich inhouden)"
+        ],
+        [
+          "verlossen",
+          "to redeem, to save"
+        ],
+        [
+          "vernietigen",
+          "to destroy"
+        ],
+        [
+          "klappen",
+          "blows (klap)"
+        ],
+        [
+          "doorstaan",
+          "to weather, to endure"
+        ],
+        [
+          "zekere ondergang",
+          "certain destruction"
+        ],
+        [
+          "op je hoede",
+          "on guard"
+        ],
+        [
+          "bondgenoten",
+          "allies (bondgenoot)"
+        ],
+        [
+          "recht te zetten",
+          "to right, to put right (rechtzetten)"
+        ],
+        [
+          "machtige",
+          "powerful (machtig)"
+        ],
+        [
+          "verlossing",
+          "redemption"
+        ]
+      ]
+    },
+    "8741": {
+      "t": "De kampioen keert terug",
+      "d": "De hoeder wacht op je terugkeer, $N. Breng de groene scepterscherf naar Anachronos in de Caverns of Time.$b",
+      "o": "Breng de Green Scepter Shard naar Anachronos in de Caverns of Time in Tanaris.$b",
+      "g": [
+        [
+          "kampioen",
+          "champion"
+        ],
+        [
+          "keert terug",
+          "returns (terugkeren)"
+        ],
+        [
+          "hoeder",
+          "keeper"
+        ],
+        [
+          "terugkeer",
+          "return"
+        ],
+        [
+          "scepterscherf",
+          "scepter shard"
+        ]
+      ]
+    }
+  },
+  "words": {
+    "achterstand": "backlog, lag (catching up)",
+    "afweet": "know about (afweten)",
+    "berenkamp": "bear camp",
+    "cenarion-gevechtsuitrusting": "Cenarion battlegear",
+    "definitief": "final, for good",
+    "dream-portalen": "Dream portals (portaal)",
+    "honing": "honey",
+    "meebrengen": "to bring along",
+    "nachtelfendorp": "night elf village",
+    "nadelige": "harmful, adverse (nadelig)",
+    "openbaart": "reveals, manifests (openbaren)",
+    "richtingen": "directions (richting)",
+    "schonken": "gave, paid (schenken)",
+    "twilight-gezant": "Twilight emissary",
+    "uniformen": "uniforms (uniform)",
+    "uurtjes": "hours (uurtje, small hours)"
+  },
+  "terms": {
+    "silithyst": "silithyst: a glowing mineral from Silithus that the Alliance and Horde fight over"
+  }
+}
