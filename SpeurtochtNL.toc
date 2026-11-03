@@ -102,6 +102,7 @@ Data\Batch_59_Felwood.lua
 Data\Batch_131_Hillsbrad_Foothills.lua
 Data\Batch_60_Felwood.lua
 Data\Batch_132_Thousand_Needles.lua
+Data\Batch_61_Sunken_Temple_24_Voorquests.lua
 
 Display.lua
 Reader.lua
