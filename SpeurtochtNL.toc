@@ -75,6 +75,7 @@ Data\Batch_118_Class_Warrior.lua
 Data\Batch_45_Class_Mage.lua
 Data\Batch_46_Class_Warlock.lua
 Data\Batch_119_Class_Hunter.lua
+Data\Batch_120_Class_Rogue.lua
 
 Display.lua
 Reader.lua
