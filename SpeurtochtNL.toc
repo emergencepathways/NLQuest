@@ -47,6 +47,12 @@ Data\Batch_28_Thousand_Needles.lua
 Data\Batch_29_Desolace.lua
 Data\Batch_30_Desolace.lua
 Data\Batch_31_Stranglethorn_Vale.lua
+Data\Batch_108_Durotar.lua
+Data\Batch_34_Dustwallow_Marsh.lua
+Data\Batch_35_Swamp_Of_Sorrows.lua
+Data\Batch_37_Tanaris.lua
+Data\Batch_38_Searing_Gorge.lua
+Data\Batch_32_Stranglethorn_Vale.lua
 Data\Batch_33_Duskwood.lua
 
 Display.lua
