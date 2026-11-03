@@ -143,6 +143,7 @@ Data\Batch_150_Alterac_Valley.lua
 Data\Batch_151_Dire_Maul.lua
 Data\Batch_81_Onyxia_S_Lair_2_Voorquests.lua
 Data\Batch_152_Battlegrounds.lua
+Data\Batch_153_Silithus.lua
 Data\Batch_83_Class_Rogue.lua
 
 Display.lua

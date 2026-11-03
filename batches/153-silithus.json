@@ -1,0 +1,981 @@
+{
+ "quests": {
+  "8787": {
+   "t": "Pantserkits voor het veld",
+   "d": "De dappere vrijwilligers van het Orgrimmar Legion zijn in Silithus aangekomen om ons te helpen in onze strijd. Hun voorraad pantserkits is tijdens de reis op de een of andere manier verloren gegaan. Haal een partij pantserkits en lever ze af bij Merok Longstride, bij het kamp van het Orgrimmar Legion.",
+   "o": "Breng 8 Rugged Armor Kits en 8 Heavy Armor Kits naar Merok Longstride bij Hive'Regal. Je moet ook Logistics Task Briefing VII meebrengen om deze quest te voltooien.",
+   "p": "Heb je iets voor me, $N?",
+   "c": "Ah, ja... Ik zal deze onder de troepen verdelen, $N. Het Orgrimmar Legion dankt je!",
+   "g": [
+    [
+     "vrijwilligers",
+     "volunteers (vrijwilliger)"
+    ],
+    [
+     "voorraad",
+     "supply, stock"
+    ],
+    [
+     "pantserkits",
+     "armor kits (pantserkit)"
+    ],
+    [
+     "op de een of andere manier",
+     "somehow"
+    ],
+    [
+     "verloren gegaan",
+     "got lost (verloren gaan)"
+    ],
+    [
+     "partij",
+     "batch, lot"
+    ],
+    [
+     "lever ze af",
+     "deliver them (afleveren)"
+    ],
+    [
+     "voltooien",
+     "complete, finish"
+    ],
+    [
+     "verdelen",
+     "distribute, divide"
+    ],
+    [
+     "troepen",
+     "troops (troep)"
+    ]
+   ]
+  },
+  "9416": {
+   "t": "Meld je bij General Kirika",
+   "d": "Jij bent vast een van de nieuwe rekruten van General Kirika. Werd tijd dat je kwam. Lichamen slijten snel in de woestijn.$b$bDe dwergen krijgen elke dag versterking, en we kunnen het ons niet veroorloven terrein te verliezen in onze strijd om grondstoffen in Silithus.$b$bHaal je instructies bij de General. Het is niet mijn taak om je te trainen, alleen om je te vinden.",
+   "o": "Spreek met General Kirika in het kamp van de Horde bij Hive'Regal.",
+   "c": "Goed dat je er bent, maar we hebben geen tijd om te verspillen aan kletspraatjes. Je hebt instructies nodig, en dan moet je erop uit.$b$bLuister goed.",
+   "g": [
+    [
+     "Meld je",
+     "report (zich melden)"
+    ],
+    [
+     "rekruten",
+     "recruits (rekruut)"
+    ],
+    [
+     "Werd tijd",
+     "about time (het werd tijd)"
+    ],
+    [
+     "slijten",
+     "wear down, wear out"
+    ],
+    [
+     "versterking",
+     "reinforcements"
+    ],
+    [
+     "veroorloven",
+     "afford (zich veroorloven)"
+    ],
+    [
+     "terrein",
+     "ground, terrain"
+    ],
+    [
+     "grondstoffen",
+     "resources, raw materials (grondstof)"
+    ],
+    [
+     "verspillen",
+     "waste"
+    ],
+    [
+     "kletspraatjes",
+     "small talk, chit-chat (kletspraatje)"
+    ],
+    [
+     "erop uit",
+     "out there, out into the field (erop uit gaan)"
+    ]
+   ]
+  },
+  "9422": {
+   "t": "De woestijn doorzoeken",
+   "d": "Al een tijd halen we kristallen uit de woestijn van Silithus. De enige gevaren kwamen van de wezens die hier wonen, en van het zand, het stof en de drukkende hitte.$b$bMaar nu lijkt de Alliance door te hebben wat we hier hebben gevonden. Het is nu een race tussen ons om de natuurlijke grondstoffen te veroveren en ze bij de ander weg te houden.$b$bIk heb elk paar handen nodig dat beschikbaar is. Ik hoop dat ik de jouwe heb.",
+   "o": "Vind Silithyst en lever het af bij de Silithyst Extractor. Spreek daarna met General Kirika in het kamp van de Horde bij Hive'Regal.",
+   "p": "Pas op voor de gevaren van de woestijn, $n. Nu de Alliance tussen de duinen op de loer ligt, kan elke stap je laatste zijn.",
+   "c": "Goed gedaan, $n. Deze grondstoffen gaan naar onze voorraden, en elk beetje is winst voor ons en verlies voor onze vijand.$b$b",
+   "o1": "Lever Silithyst af",
+   "g": [
+    [
+     "doorzoeken",
+     "search, scour"
+    ],
+    [
+     "drukkende",
+     "oppressive, stifling (drukkend)"
+    ],
+    [
+     "hitte",
+     "heat"
+    ],
+    [
+     "door te hebben",
+     "to have caught on (doorhebben)"
+    ],
+    [
+     "veroveren",
+     "capture, conquer"
+    ],
+    [
+     "weg te houden",
+     "keep away (weghouden)"
+    ],
+    [
+     "beschikbaar",
+     "available"
+    ],
+    [
+     "duinen",
+     "dunes (duin)"
+    ],
+    [
+     "op de loer ligt",
+     "lurks (op de loer liggen)"
+    ],
+    [
+     "voorraden",
+     "stockpiles, supplies (voorraad)"
+    ],
+    [
+     "winst",
+     "gain, profit"
+    ],
+    [
+     "verlies",
+     "loss"
+    ]
+   ]
+  },
+  "172": {
+   "t": "Children's Week",
+   "d": "Wil je ons hier in het weeshuis helpen? Zegen je, vriend; je hulp tijdens Children's Week is van onschatbare waarde.$B$BNeem dit fluitje. Je kunt het maar korte tijd gebruiken - meestal niet langer dan Children's Week zelf. Als je het gebruikt, kun je praten met het kind waarvoor je beloofd hebt te zorgen. Als je het nog een keer gebruikt, stuur je het kind weg.$B$BGebruik het fluitje vooral, $N, en ontmoet je beschermeling! Het kind wil je vast heel graag ontmoeten.",
+   "o": "Gebruik de Orcish Orphan Whistle om te praten met het kind waarvoor je tijdens Children's Week zorgt.",
+   "c": "Zug zug! Ik heet Grunth, en jij zorgt dus voor mij? Je bent een avonturier, zoals mijn mama en papa waren. Mijn verzorgster zegt dat ze met eer zijn gestorven in de strijd. Ik ben blij je te ontmoeten.$B$BIk hoop dat we veel dingen samen gaan doen. Er zijn dingen die ik graag wil doen, en de verzorgster zegt dat je deze week een soort grote $gbroer:zus; voor me bent. Dat zou ik superleuk vinden.",
+   "g": [
+    [
+     "weeshuis",
+     "orphanage"
+    ],
+    [
+     "Zegen je",
+     "bless you (zegenen)"
+    ],
+    [
+     "onschatbare waarde",
+     "invaluable worth (onschatbaar)"
+    ],
+    [
+     "fluitje",
+     "(little) whistle"
+    ],
+    [
+     "meestal",
+     "usually, typically"
+    ],
+    [
+     "beloofd",
+     "promised (beloven)"
+    ],
+    [
+     "stuur je het kind weg",
+     "you dismiss the child (wegsturen)"
+    ],
+    [
+     "vooral",
+     "by all means, especially"
+    ],
+    [
+     "beschermeling",
+     "ward, protégé"
+    ],
+    [
+     "verzorgster",
+     "carer, matron"
+    ],
+    [
+     "eer",
+     "honor"
+    ],
+    [
+     "superleuk",
+     "really great, so much fun"
+    ]
+   ]
+  },
+  "910": {
+   "t": "Naar de haven",
+   "d": "Ik heb verhalen gehoord over de machtige schepen die tussen Ratchet en Booty Bay varen! Het zou zo gaaf zijn om op de oceaan te varen en in veel grote zeeslagen te vechten. Misschien word ik later een machtige zeeman van de Horde! Jaaa!$B$BWil je me alsjeblieft meenemen naar de haven van Ratchet? Ik beloof dat ik niet het water in ga en geen problemen maak - ik wil alleen de grote boten zien en het zoute zeewater ruiken! Jaaa!",
+   "o": "Breng je beschermeling naar de haven van Ratchet in the Barrens.",
+   "p": "Zijn we er al?",
+   "c": "Wauw, de oceaan is ENORM! Er waren ook heel veel meeuwen en zo - het is net zo lawaaiig en druk als ik dacht. Er zijn ook piraten in de buurt - zo gaaf!$B$BBedankt dat je me naar Ratchet hebt gebracht, $N. Dat was echt geweldig!",
+   "e": "Ga naar de haven van Ratchet in the Barrens.",
+   "g": [
+    [
+     "haven",
+     "harbor, docks"
+    ],
+    [
+     "gaaf",
+     "cool, awesome"
+    ],
+    [
+     "zeeslagen",
+     "sea battles (zeeslag)"
+    ],
+    [
+     "zeeman",
+     "sailor"
+    ],
+    [
+     "zoute",
+     "salty (zout)"
+    ],
+    [
+     "ruiken",
+     "smell"
+    ],
+    [
+     "beschermeling",
+     "ward, protégé"
+    ],
+    [
+     "meeuwen",
+     "seagulls (meeuw)"
+    ],
+    [
+     "lawaaiig",
+     "noisy"
+    ],
+    [
+     "druk",
+     "busy, bustling"
+    ]
+   ]
+  },
+  "911": {
+   "t": "Poort naar de grens",
+   "d": "Ze zeggen dat Ashenvale de nieuwe grens is, en dat de Mor'shan Rampart in the Barrens de poort ernaartoe is. Het zou zo gaaf zijn om een pionier te zijn en alles wat je nodig hebt uit de ongetemde wildernis te halen! Ze zeggen dat de Horde en de Alliance daar in de toekomst het vaakst zullen botsen, en daar wil ik bij zijn, $N!$B$BWil je me alsjeblieft naar de Mor'shan Rampart brengen, zodat ik kan zien hoe de grens eruitziet? Ik wil zien waar de Horde die stinkende nachtelfen wegjaagt!",
+   "o": "Breng je beschermeling naar de Mor'shan Rampart in het noorden van the Barrens, vlak voordat je Ashenvale binnengaat.",
+   "p": "Zijn we er al?",
+   "c": "Wauw, in Ashenvale beleef je echte avonturen! Heb jij ooit in Ashenvale gevochten, $N? Als ik later een held word, wil ik naar Ashenvale komen en vechten voor de glorie van de Horde!$B$BBedankt dat je me naar de grens hebt gebracht, $N. Je bent de beste!",
+   "e": "Ga naar de Mor'shan Rampart in the Barrens.",
+   "g": [
+    [
+     "grens",
+     "frontier, border"
+    ],
+    [
+     "poort",
+     "gateway, gate"
+    ],
+    [
+     "ernaartoe",
+     "to it, towards it"
+    ],
+    [
+     "pionier",
+     "pioneer"
+    ],
+    [
+     "ongetemde",
+     "untamed (ongetemd)"
+    ],
+    [
+     "wildernis",
+     "wilderness, wilds"
+    ],
+    [
+     "botsen",
+     "clash"
+    ],
+    [
+     "stinkende",
+     "smelly (stinkend)"
+    ],
+    [
+     "wegjaagt",
+     "drives out (wegjagen)"
+    ],
+    [
+     "binnengaat",
+     "enter (binnengaan)"
+    ],
+    [
+     "beleef",
+     "experience (beleven)"
+    ],
+    [
+     "glorie",
+     "glory"
+    ]
+   ]
+  },
+  "915": {
+   "t": "Ik schreeuw, jij schreeuwt...",
+   "d": "IJSJE! O alsjeblieft alsjeblieft alsjeblieft, kun je wat ijs voor me halen?! Aardbei is mijn lievelingssmaak, en er is geen beter aardbeienijs op de wereld dan Tigule and Foror's Strawberry Ice Cream! Het is mijn lievelingsijs van de hele wereld!$B$BIk heb het lang geleden één keer gehad, toen ik bij de racebaan van de Shimmering Flats was, maar ik hoorde dat ze het nu misschien in de stad verkopen! Alsjeblieft? Alsjeblieft, alsjeblieft? Met Tigule and Foror's Strawberry Ice Cream erop??!?!",
+   "o": "Haal wat Strawberry Ice Cream voor je beschermeling. De jongen lijkt het ijs van het merk Tigule and Foror het liefst te hebben.",
+   "p": "Ik zou willen dat ze meer smaken ijs maakten dan alleen aardbei, maar ik heb maar geluk dat aardbei mijn lievelingssmaak is!",
+   "c": "Mmmmmmmmm! Ik ben dol op hun aardbeienijs! Als Tigule en Foror één ding kunnen, dan is het ijs maken!$B$BHeel erg bedankt, $N - dit is de lekkerste traktatie ooit!",
+   "g": [
+    [
+     "schreeuw",
+     "scream (schreeuwen)"
+    ],
+    [
+     "ijsje",
+     "ice cream (cone)"
+    ],
+    [
+     "aardbei",
+     "strawberry"
+    ],
+    [
+     "lievelingssmaak",
+     "favorite flavor"
+    ],
+    [
+     "aardbeienijs",
+     "strawberry ice cream"
+    ],
+    [
+     "racebaan",
+     "race track"
+    ],
+    [
+     "merk",
+     "brand"
+    ],
+    [
+     "het liefst",
+     "most of all, prefer (liefst)"
+    ],
+    [
+     "smaken",
+     "flavors (smaak)"
+    ],
+    [
+     "geluk",
+     "luck"
+    ],
+    [
+     "dol op",
+     "crazy about, love (dol zijn op)"
+    ],
+    [
+     "traktatie",
+     "treat"
+    ]
+   ]
+  },
+  "925": {
+   "t": "De hoefafdruk van Cairne",
+   "d": "Ze zeggen dat Cairne Bloodhoof een van de grootste helden is die de Horde ooit heeft gehad. Als ik groot ben, wil ik ook een held van de Horde worden!$B$BKen jij Cairne, $N? Wil je iets voor me doen, alsjeblieft? Kun je zijn hoefafdruk voor me halen? Ik weet niet hoe ik het hem moet vragen, en hij heeft waarschijnlijk geen tijd voor iemand zoals ik... maar jij! Jij bent een avonturier, net als hij! Ik wed dat hij jou zomaar zijn hoefafdruk geeft!$B$BAlsjeblieft?",
+   "o": "Reis naar Thunder Bluff en probeer de hoefafdruk van Cairne Bloodhoof voor je beschermeling te krijgen.",
+   "p": "Toen de orcs alleen waren en geen vrienden hadden, verwelkomden de tauren hen in een vreemd land. Ze deelden met hen zonder er iets voor terug te vragen. Dat is eer, $N.",
+   "c": "WAUW! Je hebt Cairnes hoefafdruk voor me gehaald! Heel erg bedankt! En wauw... hij heeft er een persoonlijk berichtje op geschreven - voor mij! Ik wist wel dat hij echt cool zou zijn, ik wist het gewoon! Misschien bedank ik hem ooit zelf... als ik een held van de Horde word!$B$BJe bent de beste, $N. Bedankt dat je zo lief voor me bent.",
+   "g": [
+    [
+     "hoefafdruk",
+     "hoofprint"
+    ],
+    [
+     "waarschijnlijk",
+     "probably"
+    ],
+    [
+     "wed",
+     "bet (wedden)"
+    ],
+    [
+     "zomaar",
+     "just like that, easily"
+    ],
+    [
+     "verwelkomden",
+     "welcomed (verwelkomen)"
+    ],
+    [
+     "vreemd",
+     "strange, foreign"
+    ],
+    [
+     "deelden",
+     "shared (delen)"
+    ],
+    [
+     "terug te vragen",
+     "to ask in return (terugvragen)"
+    ],
+    [
+     "persoonlijk",
+     "personal"
+    ],
+    [
+     "berichtje",
+     "little message (bericht)"
+    ],
+    [
+     "ooit",
+     "someday, ever"
+    ]
+   ]
+  },
+  "1800": {
+   "t": "De troonzaal van Lordaeron",
+   "d": "De verzorgsters in mijn tehuis vertellen 's avonds machtige verhalen over gevechten en oude geschiedenis als we braaf zijn en onze klusjes doen. Eén verhaal ging over hoe Lordaeron viel, en hoe de slechte Arthas zijn eigen vader doodde om koning te worden.$B$BHij had geen eer, $N! Als ik groot ben en een machtige krijger van de Horde word, laat mijn zwaard zich leiden door eer - nooit door het kwaad!$B$BWil je me alsjeblieft meenemen naar de troonzaal? Die ligt vlak voor de plek waar je naar beneden gaat, de Undercity in.",
+   "o": "Breng je beschermeling naar de oude Lordaeron Throne Room, die vlak voor de afdaling naar de Undercity ligt.$b",
+   "p": "Zijn we er al?",
+   "c": "Wat een enge troonzaal, $N! Hij stond leeg, maar het voelde alsof daar een groot kwaad is gebeurd. Ik voelde me boos... maar ik voelde me ook verdrietig. Ik begrijp waarom de verzorgsters ons zulke verhalen vertellen; ik zal mijn volk nooit zo verraden!$B$BBedankt dat je me naar de troonzaal hebt gebracht, $N. Ik heb veel geleerd.",
+   "e": "Ga naar de oude Lordaeron Throne Room, die vlak voor de afdaling naar de Undercity ligt.",
+   "g": [
+    [
+     "troonzaal",
+     "throne room"
+    ],
+    [
+     "verzorgsters",
+     "carers, matrons (verzorgster)"
+    ],
+    [
+     "tehuis",
+     "home (institution)"
+    ],
+    [
+     "braaf",
+     "good, well-behaved"
+    ],
+    [
+     "klusjes",
+     "chores (klusje)"
+    ],
+    [
+     "zich leiden",
+     "be guided (leiden)"
+    ],
+    [
+     "het kwaad",
+     "evil"
+    ],
+    [
+     "afdaling",
+     "descent"
+    ],
+    [
+     "eng",
+     "scary"
+    ],
+    [
+     "verdrietig",
+     "sad"
+    ],
+    [
+     "verraden",
+     "betray"
+    ]
+   ]
+  },
+  "5502": {
+   "t": "Een beschermer van de Horde",
+   "d": "Je bent zo ontzettend lief voor me geweest, $N. Ik had nooit gedacht dat ik zoveel plezier zou hebben tijdens Children's Week. Dank je. Ik ga niet verdrietig zijn over wat er met me is gebeurd - mijn ouders zeiden altijd dat ik boven alle slechte dingen moest uitstijgen die gebeuren. Ik word een held... net als jij.$B$BHet spijt me het te zeggen, maar het is tijd om naar huis te gaan. Laten we teruggaan, dan vertel ik de verzorgster wat een geweldig iemand je bent!",
+   "o": "Breng je beschermeling terug naar het weeshuis van Orgrimmar door de Orcish Orphan Whistle in te leveren bij Orphan Matron Battlewail in the Valley of Honor.",
+   "p": "Fijn je weer te zien, $N. Heb je de taken gedaan die je vrijwillig op je hebt genomen tijdens Children's Week?",
+   "c": "Mogen de geesten je zegenen, $N. Je hebt meer voor Grunth gedaan dan de meesten ooit zouden bedenken om voor hem te doen. Dank je - jij bent het toonbeeld van wat het betekent om een held van de Horde te zijn.$B$BAlsjeblieft - kom ons nog eens bezoeken als je tijd hebt. Ik weet dat Grunth dat leuk zou vinden, en ik ook.$B$BGrunth heeft zoveel plezier met je gehad, $N. Hij wilde je een van zijn lievelingsdieren geven, zodat je aan hem blijft denken.",
+   "g": [
+    [
+     "beschermer",
+     "warden, protector"
+    ],
+    [
+     "ontzettend",
+     "extremely, so very"
+    ],
+    [
+     "uitstijgen",
+     "rise above (uitstijgen boven)"
+    ],
+    [
+     "Het spijt me",
+     "I'm sorry (spijten)"
+    ],
+    [
+     "in te leveren",
+     "to hand in (inleveren)"
+    ],
+    [
+     "vrijwillig",
+     "voluntarily"
+    ],
+    [
+     "op je hebt genomen",
+     "have taken on (op zich nemen)"
+    ],
+    [
+     "zegenen",
+     "bless"
+    ],
+    [
+     "bedenken",
+     "think of, come up with"
+    ],
+    [
+     "toonbeeld",
+     "epitome, model"
+    ],
+    [
+     "lievelingsdieren",
+     "favorite pets (lievelingsdier)"
+    ]
+   ]
+  },
+  "6163": {
+   "t": "Ramstein",
+   "d": "Ik werd overweldigd. Precies op deze hoeve stond ik... ik hield stand om Lordaeron te verdedigen. De boerderij en alles erop werd overvallen door een gigantische golf van de Scourge.$B$BHet ellendige wezen. Het vuil. Het zweefde boven me, met ingewanden die uit zijn wijd open borstholte hingen.$B$BIk werd wakker als Scourge. Zo lang was ik hulpeloos. Mijn geest was samengesmolten met die van de Lich King.$B$BZij kwam me halen... ergens, op de een of andere manier, wist ik dat ze zou komen. Vrij.$B$BEn nu moet ik mijn wraak hebben - wraak op dat wat mijn leven van me afnam. Vernietig het.",
+   "o": "Reis naar Stratholme en dood Ramstein the Gorger. Neem zijn hoofd mee als aandenken voor Nathanos.",
+   "p": "Nadat Sylvanas me had bevrijd, joeg ik maandenlang op het beest door deze woeste landen. Het vluchtte naar de veiligheid van Stratholme. De smeerlap...",
+   "c": "Ik vraag me af... heeft het om genade gesmeekt? Zou het weten wat genade is?$B$B<Nathanos spuugt.>$B$BIk hang de kop van dit beest aan mijn muur.$B$BJe hebt een plek verdiend onder mijn kampioenen, $N.$B$B<Nathanos salueert.>",
+   "g": [
+    [
+     "overweldigd",
+     "overwhelmed (overweldigen)"
+    ],
+    [
+     "hoeve",
+     "farmstead"
+    ],
+    [
+     "hield stand",
+     "held my ground (standhouden)"
+    ],
+    [
+     "overvallen",
+     "overrun, attacked by surprise (overvallen)"
+    ],
+    [
+     "ellendige",
+     "wretched (ellendig)"
+    ],
+    [
+     "zweefde",
+     "hovered (zweven)"
+    ],
+    [
+     "ingewanden",
+     "entrails, guts"
+    ],
+    [
+     "borstholte",
+     "chest cavity"
+    ],
+    [
+     "hulpeloos",
+     "helpless"
+    ],
+    [
+     "samengesmolten",
+     "merged, fused (samensmelten)"
+    ],
+    [
+     "wraak",
+     "vengeance, revenge"
+    ],
+    [
+     "aandenken",
+     "souvenir, keepsake"
+    ],
+    [
+     "woeste",
+     "wild, desolate (woest)"
+    ],
+    [
+     "smeerlap",
+     "bastard, scumbag"
+    ],
+    [
+     "gesmeekt",
+     "begged (smeken)"
+    ],
+    [
+     "salueert",
+     "salutes (salueren)"
+    ]
+   ]
+  },
+  "8481": {
+   "t": "De wortel van alle kwaad",
+   "d": "$N, dankzij jou hebben we een manier bedacht om de wortel van alle kwaad voor de Winterfall-stam op te roepen: de demon die hen verdorven maakt en over hen heerst!$B$BBreng deze fakkel naar de ingang van de persoonlijke grot van High Chief Winterfall en zet hem daar in de grond. Daardoor wordt de demon gedwongen zich te laten zien en te komen kijken. Op dat moment moeten jij en je bondgenoten hem neerslaan! Alleen de essentie van de verslagen demon kan het lange genezingsproces van de Winterfall-stam beginnen... en de redding van Timbermaw Hold.",
+   "o": "Zet de Demon Summoning Torch neer in de ingang van de grot van High Chief Winterfall in het furbolgdorp van de Winterfall. Versla de demon en haal de Essence of Xandivious op voor Gorn One Eye in Timbermaw Hold.",
+   "p": "Je bent bij ons teruggekomen, $N... betekent dit dat de demon is gedood?",
+   "c": "Je... je hebt ons gered! Doordat je de demon Xandivious hebt verslagen, is Timbermaw Hold nog jaren veilig. Je bent echt een held onder ons soort.$B$BNeem dit alsjeblieft aan, met onze zegen. Het genezingsproces bij de furbolgs zal langzaam gaan - en het conflict gaat nog door - maar je hebt de Winterfall iets gegeven wat ze voor vandaag nooit hadden.$B$BZe hebben een kans om te overleven.",
+   "g": [
+    [
+     "wortel",
+     "root"
+    ],
+    [
+     "bedacht",
+     "devised, thought up (bedenken)"
+    ],
+    [
+     "op te roepen",
+     "to summon (oproepen)"
+    ],
+    [
+     "verdorven",
+     "corrupt, depraved"
+    ],
+    [
+     "heerst",
+     "rules, dominates (heersen)"
+    ],
+    [
+     "fakkel",
+     "torch"
+    ],
+    [
+     "gedwongen",
+     "forced (dwingen)"
+    ],
+    [
+     "bondgenoten",
+     "allies (bondgenoot)"
+    ],
+    [
+     "neerslaan",
+     "strike down"
+    ],
+    [
+     "essentie",
+     "essence"
+    ],
+    [
+     "genezingsproces",
+     "healing process"
+    ],
+    [
+     "redding",
+     "salvation, rescue"
+    ],
+    [
+     "zegen",
+     "blessing"
+    ],
+    [
+     "overleven",
+     "survive"
+    ]
+   ]
+  },
+  "8485": {
+   "t": "Vrede tot stand brengen",
+   "d": "Je daden gaan verder dan het verhaal van een eenvoudige held, $N. Als jij een vertegenwoordiger van je volk bent, dan is je volk een volk waarmee we vrede willen sluiten.$B$BBreng dit geschenk alsjeblieft naar de warchief van de orcs, die in het land Durotar woont; ik geloof dat jullie deze stad Orgrimmar noemen. Vroeger heeft hij geprobeerd namens zijn Horde contact met ons te zoeken. Het is nu alleen maar passend om jou te erkennen als de sleutel in de pogingen van je Horde om vrede tot stand te brengen.",
+   "o": "Breng de Timbermaw Offering of Peace naar Thrall in Orgrimmar.",
+   "p": "De warchief begroet je, $C. Je daden maken de Horde sterker in deze moeilijke tijden. Welnu, wat kom je bij me doen?",
+   "c": "Dit is inderdaad een zeer gelukkige wending. Als er een blijvende vrede met deze wezens zou komen, zou dat ons zeker een voordeel geven bij het beschermen van Kalimdor tegen dreigingen van buitenaf. Ik zal de andere leiders van de Horde hier meteen van op de hoogte brengen, en er zullen meer diplomaten worden gestuurd!$B$BEn jij, $N... je hebt moed getoond, zowel in diplomatie als in actie. Ik dank je, net als de hele Horde.",
+   "g": [
+    [
+     "tot stand brengen",
+     "bring about, broker"
+    ],
+    [
+     "daden",
+     "deeds (daad)"
+    ],
+    [
+     "vertegenwoordiger",
+     "representative"
+    ],
+    [
+     "vrede sluiten",
+     "make peace"
+    ],
+    [
+     "geschenk",
+     "gift, offering"
+    ],
+    [
+     "namens",
+     "on behalf of"
+    ],
+    [
+     "passend",
+     "fitting, appropriate"
+    ],
+    [
+     "erkennen",
+     "acknowledge, recognize"
+    ],
+    [
+     "pogingen",
+     "efforts, attempts (poging)"
+    ],
+    [
+     "begroet",
+     "greets (begroeten)"
+    ],
+    [
+     "wending",
+     "turn (of events)"
+    ],
+    [
+     "blijvende",
+     "lasting (blijvend)"
+    ],
+    [
+     "dreigingen",
+     "threats (dreiging)"
+    ],
+    [
+     "op de hoogte brengen",
+     "inform, notify"
+    ],
+    [
+     "moed",
+     "courage"
+    ]
+   ]
+  },
+  "8387": {
+   "t": "Indringers van Alterac Valley",
+   "d": "De strijd om Alterac woedt door! Je moet teruggaan naar Alterac Valley en de indringers nog een keer uit het gebied van de Frostwolf verdrijven, $N!",
+   "o": "Breng 3 Alterac Valley Marks of Honor naar een Horde Warbringer buiten de slagvelden.",
+   "p": "De strijd om Alterac woedt door! Je moet teruggaan naar Alterac Valley en de indringers nog een keer uit het gebied van de Frostwolf verdrijven, $N!",
+   "c": "Goed werk, $N! Je mag trots op jezelf zijn. De indringers van de Alliance moeten uit Alterac worden verdreven!",
+   "g": [
+    [
+     "indringers",
+     "invaders (indringer)"
+    ],
+    [
+     "woedt door",
+     "rages on (doorwoeden)"
+    ],
+    [
+     "gebied",
+     "territory, area"
+    ],
+    [
+     "verdrijven",
+     "drive out, expel"
+    ],
+    [
+     "slagvelden",
+     "battlegrounds (slagveld)"
+    ],
+    [
+     "trots",
+     "proud"
+    ],
+    [
+     "verdreven",
+     "expelled, driven out (verdrijven)"
+    ]
+   ]
+  },
+  "8053": {
+   "t": "Paragons of Power: De armbeschermers van de vrijdenker",
+   "d": "Jij bent een heiden. Heidenen hebben een plaats in de stam. Heidenen zijn de vrijdenkers van Zandalar. Vrijdenkers zijn niet bang voor onderdrukking. Vrijdenkers sterven voor waar ze in geloven. Wij weten dat jij zou sterven voor waar jij in gelooft. Dat verdient onze erkenning. Dat geeft je een kans om jezelf verder te bewijzen.$B$BWe moeten de Paragons of Power hebben. Ga naar Zul'Gurub. Dood de dienaren van Hakkar. Kom terug als je hebt wat ik zoek. Eis de eerste strijduitrusting van een vrijdenker van Zandalar op.$B$BGa.",
+   "o": "Breng Primal Hakkari Bindings naar Jin'rokh the Breaker. Je moet ook een reputatie van Friendly of hoger hebben bij de Zandalar Tribe.$B$BJin'rokh the Breaker is te vinden op Yojamba Isle, Stranglethorn Vale.",
+   "p": "Ben je terug? Heb je de Paragons of Power? Verspil je mijn tijd?$B$BIk hoop het niet, heiden.",
+   "c": "Je eert ons zeer. Het bloed van de dienaren van Hakkar druipt van je handen. Je bent een vriend van de stam.$B$BDraag deze armbeschermers. Het zijn de armbeschermers van de vrijdenker. Dit bedoel ik met echte kracht.",
+   "g": [
+    [
+     "armbeschermers",
+     "armguards, bracers (armbeschermer)"
+    ],
+    [
+     "vrijdenker",
+     "freethinker"
+    ],
+    [
+     "heiden",
+     "heathen"
+    ],
+    [
+     "onderdrukking",
+     "oppression"
+    ],
+    [
+     "erkenning",
+     "acknowledgement, recognition"
+    ],
+    [
+     "bewijzen",
+     "prove"
+    ],
+    [
+     "dienaren",
+     "minions, servants (dienaar)"
+    ],
+    [
+     "Eis",
+     "claim (opeisen)"
+    ],
+    [
+     "strijduitrusting",
+     "battle gear"
+    ],
+    [
+     "Verspil",
+     "waste (verspillen)"
+    ],
+    [
+     "eert",
+     "honor (eren)"
+    ],
+    [
+     "druipt",
+     "drips (druipen)"
+    ]
+   ]
+  },
+  "8054": {
+   "t": "Paragons of Power: De riem van de vrijdenker",
+   "d": "Jouw overtuigingen zijn vreemd voor ons, heiden. De oude Zandalar werden ooit als ketters gebrandmerkt. Dat was toen het Gurubashi Empire sterk was. Heidenen durfden de priester van Hakkar uit te dagen. Daarna werden heidenen opgejaagd en gedood als ongedierte. Die heidenen twijfelden nooit in hun strijd tegen de Blood God. Wij eren de prijs die zij betaalden. Zij zijn de vrijdenkers.$B$BVernietig de dienaren van Hakkar in Zul'Gurub. Breng me de Paragons of Power die ik zoek. Succes wordt groot beloond.$B$BGa.",
+   "o": "Breng een Primal Hakkari Shawl naar Jin'rokh the Breaker. Je moet ook een reputatie van Honored of hoger hebben bij de Zandalar Tribe.$B$BJin'rokh the Breaker is te vinden op Yojamba Isle, Stranglethorn Vale.",
+   "p": "Betekent jouw komst de overwinning? Heb je de Paragons? Druip je van de resten van je vijanden?",
+   "c": "Jouw eer in de stam is zeker. Je hebt veel doden op je naam in Zul'Gurub. Vijanden vallen voor je overtuigingen. Vijanden vallen voor je kracht.$B$BDit is de riem van de vrijdenker. Het is een symbool van eer. Het is krachtige mojo. Nu is hij van jou.",
+   "g": [
+    [
+     "riem",
+     "belt"
+    ],
+    [
+     "overtuigingen",
+     "beliefs, convictions (overtuiging)"
+    ],
+    [
+     "ketters",
+     "heretics (ketter)"
+    ],
+    [
+     "gebrandmerkt",
+     "branded (brandmerken)"
+    ],
+    [
+     "uit te dagen",
+     "to challenge (uitdagen)"
+    ],
+    [
+     "opgejaagd",
+     "hunted (opjagen)"
+    ],
+    [
+     "ongedierte",
+     "vermin"
+    ],
+    [
+     "twijfelden",
+     "wavered, doubted (twijfelen)"
+    ],
+    [
+     "beloond",
+     "rewarded (belonen)"
+    ],
+    [
+     "komst",
+     "arrival, presence"
+    ],
+    [
+     "resten",
+     "remains (rest)"
+    ],
+    [
+     "op je naam",
+     "to your name"
+    ]
+   ]
+  },
+  "8055": {
+   "t": "Paragons of Power: Het borstharnas van de vrijdenker",
+   "d": "Strijduitrusting geeft je macht in de stam. Zo worden de vrijdenkers geëerd. Zij zijn fanatici. Ze vullen hun borstharnassen met krachtige mojo. Als hun overtuigingen wankelen tegenover de vijand, dan wankelt hun borstharnas niet.$B$BJe moet bij ons zeer vereerd zijn om zo'n borstharnas te bezitten. Ga naar Zul'Gurub. Neem de Paragons of Power die ik nodig heb. Neem de Paragons zo pijnlijk mogelijk af van de dwazen daarbinnen. Breng ze naar mij. Bewijs eens en voor altijd wat je waard bent als vrijdenker.",
+   "o": "Breng een Primal Hakkari Tabard naar Jin'rokh the Breaker. Je moet ook een reputatie van Revered of hoger hebben bij de Zandalar Tribe.$B$BJin'rokh the Breaker is te vinden op Yojamba Isle, Stranglethorn Vale.",
+   "p": "Heb je de Paragons? Er zit mojo in. We moeten ze hebben. Jij zult ons helpen.",
+   "c": "Je hebt gedaan wat maar weinigen ooit konden. Je hebt de dienaren van Hakkar op hun knieën gekregen. Je hebt ze laten zien wat een vrijdenker kan. Je hebt ons laten zien hoe een ketter vereerd kan worden in de stam. Je hebt meer dan echte kracht. Jij BENT echte kracht.$B$BNeem het borstharnas, vrijdenker. Verpletter wie zich tegen je verzet.",
+   "g": [
+    [
+     "borstharnas",
+     "breastplate"
+    ],
+    [
+     "geëerd",
+     "honored (eren)"
+    ],
+    [
+     "fanatici",
+     "zealots, fanatics (fanaticus)"
+    ],
+    [
+     "wankelen",
+     "falter, waver"
+    ],
+    [
+     "tegenover",
+     "in the face of, opposite"
+    ],
+    [
+     "vereerd",
+     "revered (vereren)"
+    ],
+    [
+     "bezitten",
+     "possess, own"
+    ],
+    [
+     "pijnlijk",
+     "painful(ly)"
+    ],
+    [
+     "dwazen",
+     "fools (dwaas)"
+    ],
+    [
+     "eens en voor altijd",
+     "once and for all"
+    ],
+    [
+     "op hun knieën",
+     "to their knees (knie)"
+    ],
+    [
+     "Verpletter",
+     "crush (verpletteren)"
+    ],
+    [
+     "verzet",
+     "opposes (zich verzetten)"
+    ]
+   ]
+  }
+ },
+ "words": {
+  "borstharnassen": "breastplates (borstharnas)",
+  "cairnes": "Cairne's",
+  "cool": "cool",
+  "druip": "drip (druipen)",
+  "furbolgdorp": "furbolg village",
+  "hingen": "hung (hangen)",
+  "jaaa": "yeah!",
+  "ketter": "heretic",
+  "lievelingsijs": "favorite ice cream",
+  "schreeuwt": "screams (schreeuwen)",
+  "vaakst": "most often (vaak)",
+  "vrijdenkers": "freethinkers (vrijdenker)",
+  "welnu": "well then, now",
+  "winterfall-stam": "Winterfall tribe",
+  "zeewater": "sea water"
+ },
+ "terms": {}
+}
