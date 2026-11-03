@@ -1,6 +1,7 @@
 # Changelog
 
 ## Unreleased
+- Batch 46: Warlock class quests from level 34 to 40 (the Enchanted Gold Bloodrobe chain, Summon Felsteed, and the Orb of Orahil chain with the felhound and infernal paths to the Orbs of Dar'Orahil and Noh'Orahil) (18 quests, 1527 in total).
 - Batch 45: The Mage class quests from level 38 to 40 (Hidden Secrets, Items of Power, Rituals of Power, Mage's Wand, Mana Surges, Celestial Power) and the Alliance Warlock class quests from level 1 to 31 (Tainted Letter/Memorandum, imp, voidwalker, succubus and felhunter summoning chains, Enchanted Gold Bloodrobe start) (25 quests, 1509 in total).
 - Batch 118: Warrior class quests for the Horde, levels 1 to 30 (class letters, Path of Defense, Ulag the Cleaver, Agamand Heirlooms, Trial at the Field of Giants, the Brutal Armor chain) (27 quests, 1484 in total).
 - Batch 44: In Nightmares from The Barrens (level 25), Ironforge from level 15 to 37 (Find Bingles, the Sully Balloo and A King's Tribute chain, Reclaimers' Business in Desolace, Gnome Improvement, Ironband Wants You!), the Warrior Cyclonian quests (level 37 to 40), the Paladin Tome of Nobility quests (level 40) and the Alliance Mage class quests from level 1 to 38 (Glyphic Letter/Rune/Memorandum, Jennea Cannon and Bink, Investigate the Blue Recluse, High Sorcerer Andromath, Get the Scoop, Journey to the Marsh) (34 quests, 1457 in total).

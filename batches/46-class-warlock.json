@@ -1,0 +1,966 @@
+{
+  "quests": {
+    "4781": {
+      "t": "Onderdelen voor de Enchanted Gold Bloodrobe",
+      "d": "Je volgende taak is net zo eenvoudig als je eerste, maar je hebt er hulp bij nodig.$B$BIk heb gouddraad nodig om de mantel te borduren. Maar gouddraad is moeilijk te krijgen, en maar weinig mensen weten hoe je het maakt. Gelukkig kent iemand die trouw is aan onze zaak het geheim. Hij wil graag helpen wie in onze rangen opklimt.$B$BBreng een Gold Bar naar Xizk Goodstitch in Booty Bay. Hij is een meesterkleermaker en spint de draad graag voor je. Goudstaven worden gesmolten door ervaren mijnwerkers. Vraag een mijnwerker om hulp.",
+      "o": "Breng een Gold Bar naar Xizk Goodstitch in Stranglethorn Vale.",
+      "p": "Goudstaven, ja... ja. Breng me er een, dan kijken we wat we kunnen doen om draad voor je te spinnen. Tot dan raad ik je aan om je best te doen om machtiger te worden. Je zwaarste beproevingen komen nog. En geloof me... je zult wensen dat je beter voorbereid was, hoe machtig je ook denkt te zijn.",
+      "c": "Perfect, $N. Fijn dat je zo snel een mijnwerker hebt gevonden die je kon helpen. Of heb je het werk zelf gedaan? Hoe dan ook, je hebt het goed gedaan. Dit is perfect voor de draad.$B$BHet maken duurt even, dus je moet later terugkomen. Eigenlijk stuur ik het naar een prinses die we in een toren hebben opgesloten. Haar enige taak is gouddraad spinnen... nee, echt waar. Ik meen het... oké, niet echt.",
+      "g": [
+        [
+          "onderdelen",
+          "components, parts (onderdeel)"
+        ],
+        [
+          "gouddraad",
+          "gold thread"
+        ],
+        [
+          "borduren",
+          "to embroider"
+        ],
+        [
+          "mantel",
+          "cloak"
+        ],
+        [
+          "trouw",
+          "loyal"
+        ],
+        [
+          "zaak",
+          "cause"
+        ],
+        [
+          "rangen",
+          "ranks (rang)"
+        ],
+        [
+          "opklimt",
+          "rises, climbs up (opklimmen)"
+        ],
+        [
+          "meesterkleermaker",
+          "master tailor"
+        ],
+        [
+          "spint",
+          "spins (spinnen)"
+        ],
+        [
+          "goudstaven",
+          "gold bars (goudstaaf)"
+        ],
+        [
+          "gesmolten",
+          "smelted (smelten)"
+        ],
+        [
+          "mijnwerkers",
+          "miners (mijnwerker)"
+        ],
+        [
+          "beproevingen",
+          "trials (beproeving)"
+        ],
+        [
+          "opgesloten",
+          "locked up (opsluiten)"
+        ]
+      ]
+    },
+    "4782": {
+      "t": "Onderdelen voor de Enchanted Gold Bloodrobe",
+      "d": "Ga terug naar Menara. Zeg haar dat het even duurt, maar dat ik haar niet in de steek laat... en jou ook niet. Zeg haar dat je eerst de rest van je onderdelen moet verzamelen. Dan is de draad wel klaar. Je kunt hem dan komen ophalen.$B$BSucces, $N. O, en doe Strahad de groeten van me als je daar bent. Die ouwe gek... zet zomaar een toren vlak naast Ratchet... gestoord.",
+      "o": "Ga terug naar Menara Voidrender in The Barrens.",
+      "c": "Goed, je bent terug, $N. En waar is de draad?$B$BAh, ik begrijp het. Dat is goed. De goblin en zijn broer hebben ons nog nooit teleurgesteld. Het is wel te begrijpen dat hij hem nog niet klaar had. Het zij zo... we hebben in de tussentijd andere dingen te doen.$B$BBen je klaar voor de volgende stap?",
+      "g": [
+        [
+          "in de steek laat",
+          "let down, abandon (in de steek laten)"
+        ],
+        [
+          "onderdelen",
+          "components (onderdeel)"
+        ],
+        [
+          "doe Strahad de groeten",
+          "say hello to Strahad (de groeten doen)"
+        ],
+        [
+          "ouwe gek",
+          "old coot"
+        ],
+        [
+          "zomaar",
+          "just like that"
+        ],
+        [
+          "vlak naast",
+          "right next to"
+        ],
+        [
+          "gestoord",
+          "crazy"
+        ],
+        [
+          "teleurgesteld",
+          "disappointed, failed (teleurstellen)"
+        ],
+        [
+          "het zij zo",
+          "so be it"
+        ],
+        [
+          "in de tussentijd",
+          "in the meantime"
+        ]
+      ]
+    },
+    "4965": {
+      "t": "Kennis van de Orb of Orahil",
+      "d": "Zo, zo, zo... fijn om te zien dat je machtiger wordt, $N. Ik denk dat je ongeveer klaar bent om met Menara Voidrender in The Barrens te praten. Als je haar nog niet hebt gesproken, dan zal ik je iets vertellen. Ik geloof niet dat ik ooit een andere expert heb ontmoet in het maken van voorwerpen, vooral bollen, die zelfs een demon zo makkelijk kunnen opsluiten om onze wil te dienen.$B$BAls je interesse hebt: ze is in Strahad's toren boven Ratchet in The Barrens.",
+      "o": "Praat met Menara Voidrender in The Barrens.",
+      "c": "Ah, je zoekt dus iets... wezenlijkers. Daar kan ik je mee helpen, als je echt klaar bent.$B$BHet is een welkome verandering om iemand van onze soort te zien die meer macht zoekt in andere vormen dan alleen kennis.$B$BDus, voel je je klaar, $N?",
+      "g": [
+        [
+          "machtiger",
+          "more powerful (machtig)"
+        ],
+        [
+          "voorwerpen",
+          "items, objects (voorwerp)"
+        ],
+        [
+          "bollen",
+          "orbs, spheres (bol)"
+        ],
+        [
+          "opsluiten",
+          "to imprison, lock up"
+        ],
+        [
+          "dienen",
+          "to serve"
+        ],
+        [
+          "wezenlijkers",
+          "something more substantial (wezenlijk)"
+        ],
+        [
+          "welkome",
+          "welcome (welkom)"
+        ],
+        [
+          "soort",
+          "kind"
+        ]
+      ]
+    },
+    "4968": {
+      "t": "Kennis van de Orb of Orahil",
+      "d": "Hmm, je bent zo ver gekomen... echt verbazingwekkend. Ik had gedacht dat de verdorvenheid van het kanaliseren van arcane magie al diep in je ziel was gedrongen en je gek had gemaakt. Zullen we dan proberen je nog verder te brengen?$B$BAls je je vaardigheid wilt testen, zoek dan Menara Voidrender op, boven Ratchet in Strahad's toren. Zij zal je leiden.",
+      "o": "Praat met Menara Voidrender in The Barrens.",
+      "c": "Ah, je zoekt dus iets... wezenlijkers. Daar kan ik je mee helpen, als je echt klaar bent.$B$BHet is een welkome verandering om iemand van onze soort te zien die meer macht zoekt in andere vormen dan alleen kennis.$B$BDus, voel je je klaar, $N?",
+      "g": [
+        [
+          "verbazingwekkend",
+          "astonishing"
+        ],
+        [
+          "verdorvenheid",
+          "corruption (moral)"
+        ],
+        [
+          "kanaliseren",
+          "channeling"
+        ],
+        [
+          "arcane",
+          "arcane"
+        ],
+        [
+          "gedrongen",
+          "seeped, pushed in (dringen)"
+        ],
+        [
+          "vaardigheid",
+          "skill"
+        ],
+        [
+          "leiden",
+          "to guide, lead"
+        ],
+        [
+          "wezenlijkers",
+          "something more substantial (wezenlijk)"
+        ],
+        [
+          "welkome",
+          "welcome (welkom)"
+        ]
+      ]
+    },
+    "4783": {
+      "t": "Onderdelen voor de Enchanted Gold Bloodrobe",
+      "d": "De volgende onderdelen vind je in Desolace, ver ten westen van The Barrens en zelfs van de Stonetalon Mountains.$B$BDaar heerst sinds de Sundering nog steeds chaos. Zowel je kracht als je sluwheid worden daar op de proef gesteld. Je komt wezens van haat tegen, en ook wezens van de Burning Legion.$B$BBreng me het bloed van de Hatefury-saters in het noordoosten. En breng me een Lesser Infernal Stone van de kleine infernals in Mannoroc Coven.$B$BWe gebruiken ze allebei om je gewaad te maken.",
+      "o": "Breng 10 Vials of Hatefury Blood en 1 Lesser Infernal Stone naar Menara Voidrender in The Barrens.",
+      "p": "Desolace is geen vriendelijk gebied: naga's, reuzen, saters, de Burning Legion... dat alles, en centaurenclans die met elkaar in oorlog zijn, maakt het land gevaarlijk als je niet voorzichtig bent.$B$BZoals ik al zei: het stelt niet alleen je kracht en sluwheid op de proef, maar ook je geduld. Wees op je hoede in dat land, $N.",
+      "c": "Uitstekend, $N. Hier kan ik goed mee verder. Ik maak ze nu klaar, terwijl jij doorgaat met je laatste twee onderdelen. Ben je klaar?",
+      "g": [
+        [
+          "ten westen van",
+          "to the west of"
+        ],
+        [
+          "heerst",
+          "reigns (heersen)"
+        ],
+        [
+          "sluwheid",
+          "cunning"
+        ],
+        [
+          "op de proef gesteld",
+          "put to the test (op de proef stellen)"
+        ],
+        [
+          "wezens",
+          "creatures (wezen)"
+        ],
+        [
+          "haat",
+          "hatred"
+        ],
+        [
+          "saters",
+          "satyrs (sater)"
+        ],
+        [
+          "gewaad",
+          "robe"
+        ],
+        [
+          "reuzen",
+          "giants (reus)"
+        ],
+        [
+          "centaurenclans",
+          "centaur clans"
+        ],
+        [
+          "geduld",
+          "patience"
+        ],
+        [
+          "op je hoede",
+          "on your guard, wary"
+        ]
+      ]
+    },
+    "4784": {
+      "t": "Onderdelen voor de Enchanted Gold Bloodrobe",
+      "d": "Ik heb nu nog maar drie dingen nodig, $N. Dan kunnen we je gewaad afmaken.$B$BTen eerste de fijne gouddraad die Xizk voor je maakt. Ga terug naar hem in Booty Bay en haal hem op.$B$BTen tweede: breng me twee smeulende kolen van de vuurelementalen in de Arathi Highlands. Als ik het me goed herinner, zijn ze in het westen, bij Thoradin's Wall.$B$BTen slotte een Soul Shard die je zelf hebt gemaakt.$B$BAls je alle onderdelen hebt, kom dan terug naar de toren. Dan maak ik het gewaad voor je af.",
+      "o": "Breng wat Fine Gold Thread, 2 Smoldering Coals en een Soul Shard naar Menara Voidrender in The Barrens.",
+      "p": "Binnenkort, $N. Dat beloof ik je. Het gewaad zal meer dan genoeg zijn voor wat je nodig hebt. En het geeft je zeker een voordeel tegenover je tegenstanders.",
+      "c": "Uitstekend, $N! De onderdelen zijn verzameld en we zijn klaar.$B$BIk weet zeker dat je tevreden zult zijn.",
+      "g": [
+        [
+          "gewaad",
+          "robe"
+        ],
+        [
+          "afmaken",
+          "to finish"
+        ],
+        [
+          "gouddraad",
+          "gold thread"
+        ],
+        [
+          "smeulende",
+          "smoldering (smeulen)"
+        ],
+        [
+          "kolen",
+          "coals (kool)"
+        ],
+        [
+          "vuurelementalen",
+          "fire elementals (vuurelementaal)"
+        ],
+        [
+          "herinner",
+          "remember (zich herinneren)"
+        ],
+        [
+          "ten slotte",
+          "finally"
+        ],
+        [
+          "voordeel",
+          "advantage, edge"
+        ],
+        [
+          "tegenstanders",
+          "opponents (tegenstander)"
+        ],
+        [
+          "tevreden",
+          "pleased, satisfied"
+        ]
+      ]
+    },
+    "4785": {
+      "t": "Fijne gouddraad",
+      "c": "Alsjeblieft, $N. En doe Menara de groeten van ons.$B$BWe verwachten grote dingen van je. Misschien wordt jouw naam hardop uitgesproken als de Legion op de knieën gaat, en wordt je macht geprezen. Ik kan niet wachten!",
+      "g": [
+        [
+          "gouddraad",
+          "gold thread"
+        ],
+        [
+          "doe Menara de groeten",
+          "say hello to Menara (de groeten doen)"
+        ],
+        [
+          "verwachten",
+          "expect"
+        ],
+        [
+          "hardop",
+          "aloud"
+        ],
+        [
+          "uitgesproken",
+          "spoken (uitspreken)"
+        ],
+        [
+          "op de knieën",
+          "to its knees"
+        ],
+        [
+          "geprezen",
+          "praised (prijzen)"
+        ]
+      ]
+    },
+    "4786": {
+      "t": "Het voltooide gewaad",
+      "d": "Ik zet het gewaad nu voor je in elkaar. Het duurt maar een paar momenten. Ga niet ver weg.",
+      "o": "Wacht tot Menara Voidrender je gewaad af heeft en praat dan opnieuw met haar.",
+      "p": "Een moment, $n...",
+      "c": "Het is klaar, $N. Alsjeblieft. Draag het met trots.$B$BJe hebt hard gewerkt en ik zie grote dingen in je toekomst. Onthoud: er is veel wilskracht en doorzettingsvermogen nodig om je te verzetten tegen de verdorvenheid die bij ons pad hoort. Zolang je wil van jezelf blijft, zul je veel succes hebben.",
+      "e": "Wacht tot Menara Voidrender je voorwerp af heeft",
+      "g": [
+        [
+          "voltooide",
+          "completed (voltooien)"
+        ],
+        [
+          "gewaad",
+          "robe"
+        ],
+        [
+          "zet in elkaar",
+          "put together (in elkaar zetten)"
+        ],
+        [
+          "trots",
+          "pride"
+        ],
+        [
+          "wilskracht",
+          "willpower"
+        ],
+        [
+          "doorzettingsvermogen",
+          "fortitude, perseverance"
+        ],
+        [
+          "je te verzetten tegen",
+          "to defy, resist (zich verzetten tegen)"
+        ],
+        [
+          "verdorvenheid",
+          "corruption (moral)"
+        ],
+        [
+          "voorwerp",
+          "item, object"
+        ]
+      ]
+    },
+    "1799": {
+      "t": "Fragmenten van de Orb of Orahil",
+      "d": "Goed, dan beginnen we.$B$BHet eerste wat je moet doen, is binnen met mijn acolieten praten. Kies een van hun paden om te volgen. Zij leggen je meer uit.$B$BTen tweede moet je naar Desolace reizen en een Infernal Orb vinden bij een van de heksenmeesters van Mannoroc Coven. Die bol ga je reinigen met de hulp van een magiër die Tabetha heet, diep in het zuiden van Dustwallow Marsh. Ze zal je helpen vanwege onze gezamenlijke geschiedenis.$B$BNogmaals: kom pas terug als je allebei de dingen hebt gedaan die ik je heb gevraagd.",
+      "o": "Praat met Menara's acolieten in de toren boven Ratchet en kies een van hun paden om te volgen.$B$BBreng daarna een Infernal Orb naar Tabetha in Dustwallow Marsh.",
+      "p": "En omdat je natuurlijk geen magiër bent, vraag ik me af of ik je wel kan vertrouwen. Ik ruik de kracht van het arcane aan je. Maar je lijkt te zijn ontsnapt aan de stank van verdorvenheid die zo graag bij jouw soort hoort.$B$BJa, een $C... een $C komt mij om hulp vragen.$B$BNou, wat kan ik voor je doen, $N?",
+      "c": "O, Menara heeft je dus gestuurd. Prima... dan mag je voorlopig mijn gast zijn. Maar je zult wel voor iets dringends hier zijn. Misschien zoek je verloren macht? Misschien vergis ik me. Misschien is de verdorvenheid toch niet zo ver van je af.",
+      "g": [
+        [
+          "fragmenten",
+          "fragments (fragment)"
+        ],
+        [
+          "acolieten",
+          "acolytes (acoliet)"
+        ],
+        [
+          "heksenmeesters",
+          "warlocks (heksenmeester)"
+        ],
+        [
+          "reinigen",
+          "to cleanse"
+        ],
+        [
+          "magiër",
+          "mage"
+        ],
+        [
+          "vanwege",
+          "because of"
+        ],
+        [
+          "gezamenlijke",
+          "shared, common (gezamenlijk)"
+        ],
+        [
+          "ontsnapt",
+          "escaped, eluded (ontsnappen)"
+        ],
+        [
+          "stank",
+          "stench"
+        ],
+        [
+          "verdorvenheid",
+          "corruption (moral)"
+        ],
+        [
+          "voorlopig",
+          "for the time being"
+        ],
+        [
+          "dringends",
+          "something pressing, urgent (dringend)"
+        ],
+        [
+          "vergis",
+          "am mistaken (zich vergissen)"
+        ]
+      ]
+    },
+    "4487": {
+      "t": "Felsteed oproepen",
+      "d": "Ah, goed, je bent er. Ik heb een $g succubus:infernal; achter je aan gestuurd om je aandacht te trekken, maar je bent er blijkbaar al voordat die je vond. Geeft niet.$B$BEr wordt de laatste tijd gepraat over je groeiende macht. Dat is goed voor jou, en misschien slecht voor anderen. Maar dat doet er niet toe. Waar het om gaat: ik vind dat je jezelf hebt bewezen. Daarom verdien je... hehe... een soort zegen.$B$BBoven Ratchet in The Barrens vind je een man die Strahad heet. Ik geloof dat jullie elkaar al eerder zijn tegengekomen.",
+      "o": "Praat met Strahad Farsan in Ratchet.",
+      "c": "Zo, je hebt besloten me weer met je aanwezigheid te vereren. Wat aardig van je.$B$BMijn acolieten vroegen zich af of je ooit zou komen. Ik zei dat daar geen twijfel over was. Als het om macht gaat, word je aangetrokken als een mot door een vlam.",
+      "g": [
+        [
+          "oproepen",
+          "to summon"
+        ],
+        [
+          "aandacht te trekken",
+          "to get attention (aandacht trekken)"
+        ],
+        [
+          "blijkbaar",
+          "apparently"
+        ],
+        [
+          "doet er niet toe",
+          "doesn't matter (er niet toe doen)"
+        ],
+        [
+          "bewezen",
+          "proven (bewijzen)"
+        ],
+        [
+          "verdien",
+          "deserve (verdienen)"
+        ],
+        [
+          "zegen",
+          "blessing"
+        ],
+        [
+          "tegengekomen",
+          "come across, met (tegenkomen)"
+        ],
+        [
+          "aanwezigheid",
+          "presence"
+        ],
+        [
+          "vereren",
+          "to grace, honour"
+        ],
+        [
+          "twijfel",
+          "doubt"
+        ],
+        [
+          "aangetrokken",
+          "drawn, attracted (aantrekken)"
+        ],
+        [
+          "mot",
+          "moth"
+        ]
+      ]
+    },
+    "4488": {
+      "t": "Felsteed oproepen",
+      "d": "Ah, $N, je vereert ons met je aanwezigheid. Wat heerlijk!$B$BIk hoop niet dat je ook verwacht dat we je op je wenken bedienen. Je wordt dan misschien snel machtiger, maar je bent nog een jong hondje als het gaat om echte kennis en begrip. Als je niet oppast, overweldigt de verdorvenheid jou en je zwakke wil.$B$BMaar ter zake: Strahad wil met je praten. Hij woont nog steeds in zijn toren boven Ratchet in The Barrens. Ik raad je aan niet te lang te wachten.",
+      "o": "Praat met Strahad Farsan in Ratchet.",
+      "c": "Zo, je hebt besloten me weer met je aanwezigheid te vereren. Wat aardig van je.$B$BMijn acolieten vroegen zich af of je ooit zou komen. Ik zei dat daar geen twijfel over was. Als het om macht gaat, word je aangetrokken als een mot door een vlam.",
+      "g": [
+        [
+          "vereert",
+          "grace, honour (vereren)"
+        ],
+        [
+          "aanwezigheid",
+          "presence"
+        ],
+        [
+          "op je wenken bedienen",
+          "wait on you hand and foot"
+        ],
+        [
+          "jong hondje",
+          "pup"
+        ],
+        [
+          "begrip",
+          "understanding"
+        ],
+        [
+          "overweldigt",
+          "overwhelms (overweldigen)"
+        ],
+        [
+          "verdorvenheid",
+          "corruption (moral)"
+        ],
+        [
+          "ter zake",
+          "to the point"
+        ],
+        [
+          "twijfel",
+          "doubt"
+        ],
+        [
+          "aangetrokken",
+          "drawn, attracted (aantrekken)"
+        ],
+        [
+          "mot",
+          "moth"
+        ]
+      ]
+    },
+    "4490": {
+      "t": "Felsteed oproepen",
+      "d": "Ik wil je belonen voor je geduld en je harde werk. Maar weet dit: het vermogen om een Felsteed op te roepen wordt in de toekomst veel moeilijker. Je zult het moeten verdienen... en dat wordt niet makkelijk.$B$BGa voor nu met de kracht om zo'n wezen op te roepen, en gebruik die zoals jij wilt.",
+      "o": "Praat met Strahad Farsan in Ratchet om te leren hoe je een Felsteed oproept.",
+      "c": "Succes, $N. Ik kijk ernaar uit je in de toekomst weer te zien.",
+      "g": [
+        [
+          "oproepen",
+          "to summon"
+        ],
+        [
+          "belonen",
+          "to reward"
+        ],
+        [
+          "geduld",
+          "patience"
+        ],
+        [
+          "vermogen",
+          "ability"
+        ],
+        [
+          "op te roepen",
+          "to summon (oproepen)"
+        ],
+        [
+          "verdienen",
+          "to earn"
+        ],
+        [
+          "wezen",
+          "creature"
+        ],
+        [
+          "kijk ernaar uit",
+          "look forward to it (uitkijken naar)"
+        ]
+      ]
+    },
+    "4961": {
+      "t": "Reiniging van de Orb of Orahil",
+      "d": "Ah, een bol van een oproeper. Hier moet de besmetting vandaan komen. We moeten de demon erin uitdrijven als je hem wilt gebruiken. Dat kan ik makkelijk doen.$B$BJij hebt het moeilijke werk. Je moet de demon doden zodra ik hem vrijlaat.$B$BEn je moet snel zijn. Als je er te lang over doet, gaat hij terug in de bol en moeten we opnieuw beginnen!$B$BDus maak je klaar, $N. Bereid je sterkste spreuken voor, houd je drankjes bij de hand, en haal een vriend als je er een hebt. Want dit wordt geen pretje.",
+      "o": "Dood de Demon of the Orb en praat dan met Tabetha.",
+      "p": "Je moet die demon doden om hem voorgoed uit de bol te verwijderen, $N.",
+      "c": "Goed gedaan, $N! Je hebt die demon een les geleerd die hij niet snel zal vergeten. Je hebt grote kracht en vaardigheid getoond. Nu is het denk ik tijd om met je gereinigde bol terug te gaan naar Menara, zodat je hem goed kunt gebruiken.$B$BSucces, $C. Misschien kruisen onze paden elkaar nog eens.",
+      "g": [
+        [
+          "reiniging",
+          "cleansing"
+        ],
+        [
+          "oproeper",
+          "summoner"
+        ],
+        [
+          "besmetting",
+          "taint, contamination"
+        ],
+        [
+          "uitdrijven",
+          "to exorcise, drive out"
+        ],
+        [
+          "vrijlaat",
+          "release (vrijlaten)"
+        ],
+        [
+          "spreuken",
+          "spells (spreuk)"
+        ],
+        [
+          "drankjes",
+          "potions (drankje)"
+        ],
+        [
+          "bij de hand",
+          "at hand, handy"
+        ],
+        [
+          "geen pretje",
+          "not going to be pretty, no fun"
+        ],
+        [
+          "voorgoed",
+          "permanently, for good"
+        ],
+        [
+          "verwijderen",
+          "to remove"
+        ],
+        [
+          "gereinigde",
+          "cleansed (reinigen)"
+        ],
+        [
+          "kruisen",
+          "cross (kruisen)"
+        ]
+      ]
+    },
+    "4962": {
+      "t": "Scherf van een felhound",
+      "d": "Zo, je hebt ervoor gekozen om de ziel van een felhound te vangen. Goed.$B$BNeem deze robijn. Daarmee kun je de ziel van het wezen vangen. Hij werkt ongeveer zoals spreuken die je al kent: als het wezen bijna dood is, gebruik je de edelsteen. Dan doet hij de rest van het werk voor je.$B$BIk raad je aan om naar Desolace te gaan en het te proberen bij een van de felhounds daar. Die zijn heel geschikt.$B$BAls het je gelukt is, breng dan zowel de gevangen geest als je robijn naar Menara.",
+      "o": "Neem de Felhas Ruby en gebruik hem op een van de Felhounds in Desolace. Breng daarna de Felhas Ruby en de Imprisoned Felhound Spirit terug naar Menara Voidrender in The Barrens.",
+      "p": "Ja, $N? Heb je gekozen? Infernal of felhound?$B$BElke keuze is persoonlijk en moet passen bij je sterke en zwakke punten. Het komt wel vaker voor dat een $C zichzelf nog verder versterkt, in plaats van aan te vullen waar het aan ontbreekt. Soms is een vijand overweldigen net zo'n sterke tactiek als een evenwichtiger spreukenwerper worden.",
+      "c": "Ah, de geest van een felhound. Goed gedaan, $N.$B$BAls ik zowel de geest als de gereinigde bol heb, voeg ik ze voor je samen. Maar niet eerder.",
+      "g": [
+        [
+          "scherf",
+          "shard"
+        ],
+        [
+          "robijn",
+          "ruby"
+        ],
+        [
+          "edelsteen",
+          "gem"
+        ],
+        [
+          "geschikt",
+          "suitable"
+        ],
+        [
+          "gevangen",
+          "captured (vangen)"
+        ],
+        [
+          "versterkt",
+          "strengthens, enhances (versterken)"
+        ],
+        [
+          "aan te vullen",
+          "to make up for, supplement (aanvullen)"
+        ],
+        [
+          "ontbreekt",
+          "is lacking (ontbreken)"
+        ],
+        [
+          "overweldigen",
+          "to overpower"
+        ],
+        [
+          "tactiek",
+          "tactic"
+        ],
+        [
+          "evenwichtiger",
+          "more balanced (evenwichtig)"
+        ],
+        [
+          "spreukenwerper",
+          "spell caster"
+        ],
+        [
+          "gereinigde",
+          "cleansed (reinigen)"
+        ],
+        [
+          "voeg samen",
+          "merge (samenvoegen)"
+        ]
+      ]
+    },
+    "4963": {
+      "t": "Scherf van een infernal",
+      "d": "Zo, je hebt ervoor gekozen om de ziel van een infernal te vangen. Goed.$B$BNeem deze smaragd. Daarmee kun je de ziel van het wezen vangen. Hij werkt ongeveer zoals spreuken die je al kent: als het wezen bijna dood is, gebruik je de edelsteen. Dan doet hij de rest van het werk voor je.$B$BIk raad je aan om naar Desolace te gaan en het te proberen bij een van de infernals daar. Die zijn heel geschikt.$B$BAls het je gelukt is, breng dan zowel de gevangen geest als je smaragd naar Menara.",
+      "o": "Neem de Infus Emerald en gebruik hem op een van de Infernals in Desolace. Breng daarna de Infus Emerald en de Imprisoned Infernal Spirit terug naar Menara Voidrender in The Barrens.",
+      "p": "Ja, $N? Heb je gekozen? Infernal of felhound?$B$BElke keuze is persoonlijk en moet passen bij je sterke en zwakke punten. Het komt wel vaker voor dat een $C zichzelf nog verder versterkt, in plaats van aan te vullen waar het aan ontbreekt. Soms is een vijand overweldigen net zo'n sterke tactiek als een evenwichtiger spreukenwerper worden.",
+      "c": "Ah, de geest van een infernal. Goed gedaan, $N.$B$BAls ik zowel de geest als de gereinigde bol heb, voeg ik ze voor je samen. Maar niet eerder.",
+      "g": [
+        [
+          "scherf",
+          "shard"
+        ],
+        [
+          "smaragd",
+          "emerald"
+        ],
+        [
+          "edelsteen",
+          "gem"
+        ],
+        [
+          "geschikt",
+          "suitable"
+        ],
+        [
+          "gevangen",
+          "captured (vangen)"
+        ],
+        [
+          "versterkt",
+          "strengthens, enhances (versterken)"
+        ],
+        [
+          "aan te vullen",
+          "to make up for, supplement (aanvullen)"
+        ],
+        [
+          "ontbreekt",
+          "is lacking (ontbreken)"
+        ],
+        [
+          "overweldigen",
+          "to overpower"
+        ],
+        [
+          "tactiek",
+          "tactic"
+        ],
+        [
+          "evenwichtiger",
+          "more balanced (evenwichtig)"
+        ],
+        [
+          "spreukenwerper",
+          "spell caster"
+        ],
+        [
+          "gereinigde",
+          "cleansed (reinigen)"
+        ],
+        [
+          "voeg samen",
+          "merge (samenvoegen)"
+        ]
+      ]
+    },
+    "4964": {
+      "t": "De voltooide Orb of Dar'Orahil",
+      "d": "Ik begin meteen met het maken van je bol en met het plaatsen van je nieuwe demon erin. Als het klaar is, mag je kiezen of je het als staf of als bol wilt hebben. Ik heb het altijd belangrijk gevonden om rekening te houden met het wapen dat een heksenmeester kiest... ik zie geen reden om daarmee te stoppen.",
+      "o": "Wacht tot Menara Voidrender de Orb of Dar'Orahil af heeft en praat dan opnieuw met haar.",
+      "c": "Het is klaar, $N. Zeg me maar wat je liever hebt: een staf waarvoor je beide handen nodig hebt, of een bol, zodat je een dolk of zwaard als wapen kunt gebruiken.$B$BHet was een grote prestatie van je om een felhound aan te pakken. Ik weet zeker dat je voorwerp je in de toekomst goed zal dienen. Blijf hard werken aan de kunsten, $N. Ik wacht op verhalen over je avonturen.",
+      "e": "Wacht tot Menara Voidrender je voorwerp af heeft",
+      "g": [
+        [
+          "voltooide",
+          "completed (voltooien)"
+        ],
+        [
+          "plaatsen",
+          "placing, infusing"
+        ],
+        [
+          "staf",
+          "staff"
+        ],
+        [
+          "rekening te houden met",
+          "to take into account, cater to (rekening houden met)"
+        ],
+        [
+          "heksenmeester",
+          "warlock"
+        ],
+        [
+          "dolk",
+          "dagger"
+        ],
+        [
+          "prestatie",
+          "feat, achievement"
+        ],
+        [
+          "aan te pakken",
+          "to tackle (aanpakken)"
+        ],
+        [
+          "dienen",
+          "to serve"
+        ],
+        [
+          "kunsten",
+          "arts (kunst)"
+        ],
+        [
+          "avonturen",
+          "adventures, exploits (avontuur)"
+        ]
+      ]
+    },
+    "4975": {
+      "t": "De voltooide Orb of Noh'Orahil",
+      "d": "Ik begin meteen met het maken van je bol en met het plaatsen van je nieuwe demon erin. Als het klaar is, mag je kiezen of je het als staf of als bol wilt hebben. Ik heb het altijd belangrijk gevonden om rekening te houden met het wapen dat een heksenmeester kiest... ik zie geen reden om daarmee te stoppen.",
+      "o": "Wacht tot Menara Voidrender de Orb of Noh'Orahil af heeft en praat dan opnieuw met haar.",
+      "c": "Het is klaar, $N. Zeg me maar wat je liever hebt: een staf waarvoor je beide handen nodig hebt, of een bol, zodat je een dolk of zwaard als wapen kunt gebruiken.$B$BHet was een grote prestatie van je om de infernal aan te pakken, en deze beloning past goed bij je. Ik wens je verder veel succes in de kunsten, $N.",
+      "e": "Wacht tot Menara Voidrender je voorwerp af heeft",
+      "g": [
+        [
+          "voltooide",
+          "completed (voltooien)"
+        ],
+        [
+          "plaatsen",
+          "placing, infusing"
+        ],
+        [
+          "staf",
+          "staff"
+        ],
+        [
+          "rekening te houden met",
+          "to take into account, cater to (rekening houden met)"
+        ],
+        [
+          "heksenmeester",
+          "warlock"
+        ],
+        [
+          "dolk",
+          "dagger"
+        ],
+        [
+          "prestatie",
+          "feat, achievement"
+        ],
+        [
+          "aan te pakken",
+          "to tackle (aanpakken)"
+        ],
+        [
+          "beloning",
+          "reward"
+        ],
+        [
+          "kunsten",
+          "arts (kunst)"
+        ]
+      ]
+    },
+    "4976": {
+      "t": "De gereinigde bol terugbrengen",
+      "d": "Breng de gereinigde bol terug naar Menara in Ratchet, $N. Doe haar de groeten van me en wees voorzichtig. Ik hoop echt dat je de verleiding en de verdorvenheid kunt weerstaan die zeker zullen komen als je je pad volgt.$B$BSucces.",
+      "o": "Breng de Cleansed Infernal Orb terug naar Menara Voidrender in The Barrens.",
+      "p": "Hoe gaat je zoektocht naar Tabetha en de bol, $N?$B$BTabetha is meer dan nuttig geweest als het gaat om zaken van het arcane. Ik weet zeker dat ze je graag helpt als je haar kunt vinden.",
+      "c": "Goed gedaan, $N. Hier kan ik goed mee verder.$B$BHet enige wat je nog moet doen, is kiezen welke demon ik in de gereinigde bol moet opsluiten. Doe dat, en je krijgt een prachtig nieuw voorwerp om te hanteren.",
+      "g": [
+        [
+          "gereinigde",
+          "cleansed (reinigen)"
+        ],
+        [
+          "doe haar de groeten",
+          "give her my regards (de groeten doen)"
+        ],
+        [
+          "verleiding",
+          "temptation"
+        ],
+        [
+          "verdorvenheid",
+          "corruption (moral)"
+        ],
+        [
+          "weerstaan",
+          "to withstand, resist"
+        ],
+        [
+          "zoektocht",
+          "search"
+        ],
+        [
+          "nuttig",
+          "useful"
+        ],
+        [
+          "zaken",
+          "matters (zaak)"
+        ],
+        [
+          "opsluiten",
+          "to imprison"
+        ],
+        [
+          "prachtig",
+          "magnificent"
+        ],
+        [
+          "hanteren",
+          "to wield, handle"
+        ]
+      ]
+    }
+  },
+  "words": {
+    "hondje": "little dog, pup (hond)",
+    "wenken": "beck and call (wenk: hint, sign)",
+    "zake": "(ter zake) to the point (old dative of zaak)"
+  },
+  "terms": {
+    "infernal": "infernal: a huge burning demon of the Burning Legion that falls from the sky like a meteor (Warcraft)",
+    "infernals": "infernals: plural of infernal, huge burning demons of the Burning Legion (Warcraft)",
+    "felhound": "felhound: a demonic hound of the Burning Legion that feeds on magic (Warcraft)",
+    "felhounds": "felhounds: plural of felhound, demonic hounds of the Burning Legion (Warcraft)",
+    "naga's": "naga: snake-like sea creatures, once night elves (Warcraft)"
+  }
+}
