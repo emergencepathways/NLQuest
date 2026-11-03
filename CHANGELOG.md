@@ -1,6 +1,7 @@
 # Changelog
 
 ## Unreleased
+- Batch 89: The Ahn'Qiraj War effort finished (Runecloth Bandages, Rainbow Fin Albacore, Roast Raptor and Spotted Yellowtail collection quests, The Alliance/Horde Needs Your Help!, Thirty Signets for War Supplies) and Arathi Basin (Mark of Honor and Resource Crate turn-ins, Claiming Arathi Basin, The Battle for Arathi Basin, Control Four/Five Bases, Arathor Advanced Care Package) (24 quests, 3799 in total).
 - Batch 88: The Ahn'Qiraj War effort in Ironforge and Dun Morogh (Twenty Signets for War Supplies and every Alliance Needs (More) ... collection quest: Copper, Iron and Thorium Bars, Stranglekelp, Purple Lotus, Arthas' Tears, Light, Medium and Thick Leather, Linen, Silk and Runecloth Bandages) (24 quests, 3775 in total).
 - Batch 103: Naxxramas (The Fate of Ramaladni, Omarion's Handbook and Craftsman Wilhelm's Icebane, Glacial, Polar and Icy Scale crafting quests), Onyxia's Lair (The Forging of Quel'Serrar) and the Alliance Commendation Signet reputation turn-ins (34 quests, 3751 in total).
 - Batch 87: Ironforge at level 60 (Anthion's Parting Words and Saving the Best for Last for every class set, Back to the Beginning), Maraudon (Twisted Evils, Vyletongue Corruption, The Pariah's Instructions, Legends of Maraudon, The Scepter of Celebras, Corruption of Earth and Seed, Seed of Life), Uldaman's The Platinum Discs, Erelas Ambersky's wildkin chain and Starfall, and Loch Modan's Proof of Deed (26 quests, 3717 in total).

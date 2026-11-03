@@ -154,6 +154,7 @@ Data\Batch_104_Ruins_Of_Ahn_Qiraj.lua
 Data\Batch_87_Ironforge.lua
 Data\Batch_103_Naxxramas.lua
 Data\Batch_88_Ahn_Qiraj_War.lua
+Data\Batch_89_Ahn_Qiraj_War.lua
 
 Display.lua
 Reader.lua
