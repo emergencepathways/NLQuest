@@ -1,6 +1,7 @@
 # Changelog
 
 ## Unreleased
+- Batch 116: Horde shaman class quests from level 1 to 20 (Rune-Inscribed Tablet, Parchment and Note, the Call of Earth chains in the Valley of Trials and Camp Narache, Call of Fire to the Shrine of the Dormant Flame, Earth Sapta and Fire Sapta, Call of Water) (23 quests, 1374 in total).
 - Batch 42: Northshire and Elwynn Forest from level 1 to 10 (A Threat Within to Report to Goldshire, Milly's Harvest chain, the Stonefield and Maclure chains from Lost Necklace and Young Lovers to Goldtooth and The Escape, Kobold Candles to Shipment to Stormwind, the Rolf and Malakai murloc chain, Princess Must Die!, A Bundle of Trouble, Riverpaw Gnoll Bounty), plus Vital Supplies from Stormwind City (level 45) (40 quests, 1351 in total).
 - Batch 115: Thunder Bluff from level 29 to 60 (The Sacred Flame, Melor Stonehoof's hunts Steelsnap and Frostmaw, The Platinum Discs to A Future Task, the Un'Goro Soil and Morrowgrain Research chain, The New Frontier and Rabine Saturna, Plainsrunning, and the cloth donations) (22 quests, 1311 in total).
 - Batch 41: Stormwind City from level 31 to 43 (The Missing Diplomat chain from Dashel Stonefist through Menethil and Theramore to Lady Jaina Proudmoore, Infiltrating the Castle to The Attack!, Malin's Request, James Hyal, Southshore to Return to Milton, A Meal Served Cold, The Perenolde Tiara, Mazen's Behest, and In Search of The Temple to To The Hinterlands) (25 quests, 1289 in total).
