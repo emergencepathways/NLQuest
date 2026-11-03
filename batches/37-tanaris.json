@@ -1,0 +1,1117 @@
+{
+  "quests": {
+    "1690": {
+      "t": "Gerechtigheid voor de Wastewander",
+      "d": "Hé, jij daar! Het is tijd dat je de Gadgetzan Water Company eens flink helpt.$B$BDe Wastewander-nomaden in de woestijn van Tanaris hebben bijna alle waterputten in beslag genomen! Als we er niet bij kunnen, is onze watervoorraad in een mum van tijd opgedroogd. Als je bij ons in een goed blaadje wilt komen, help je ons om gerechtigheid te brengen bij die nomaden!$B$BGa hiervandaan naar het oosten en versla tien Wastewander Bandits en Thieves. Meld je daarna meteen weer bij mij. Gerechtigheid wacht op geen enkele man... goblin... bah, ga nou maar gewoon!",
+      "o": "Versla 10 Wastewander Bandits en Thieves ten oosten van Gadgetzan. Meld je daarna bij Chief Engineer Bilgewhizzle.",
+      "p": "Nu al terug? Ik hoop dat je die Wastewander Bandits en Thieves gerechtigheid op goblinmanier hebt gebracht, zoals ik je had gevraagd!",
+      "c": "Dat noem ik nou efficiënt! Je hebt het aantal nomaden zo ver teruggebracht dat we kunnen gaan nadenken over hoe we die waterputten terugwinnen.$B$BDe Gadgetzan Water Company bedankt je voor je hulp, maar we zijn nog lang niet klaar met die smerige nomaden. Luister goed - dit hebben we nu nodig...",
+      "g": [
+        [
+          "gerechtigheid",
+          "justice"
+        ],
+        [
+          "nomaden",
+          "nomads (nomade)"
+        ],
+        [
+          "waterputten",
+          "water wells (waterput)"
+        ],
+        [
+          "in beslag genomen",
+          "seized (in beslag nemen)"
+        ],
+        [
+          "watervoorraad",
+          "water supply"
+        ],
+        [
+          "in een mum van tijd",
+          "in no time"
+        ],
+        [
+          "opgedroogd",
+          "dried up (opdrogen)"
+        ],
+        [
+          "in een goed blaadje",
+          "in someone's good graces"
+        ],
+        [
+          "efficiënt",
+          "efficient"
+        ],
+        [
+          "teruggebracht",
+          "brought down, reduced (terugbrengen)"
+        ],
+        [
+          "terugwinnen",
+          "to win back"
+        ],
+        [
+          "smerige",
+          "foul, filthy (smerig)"
+        ]
+      ]
+    },
+    "1691": {
+      "t": "Meer gerechtigheid voor de Wastewander",
+      "d": "Nu moet je de sterkere groepen van de Wastewander-nomaden aanpakken. Je hebt tot nu toe goed werk gedaan. Maar als we die waterputten willen terugnemen, is het logisch om dat tegen zo weinig mogelijk nomaden te doen!$B$BDeze keer moet je hun schurken, sluipmoordenaars en schaduwmagiërs verslaan. Je vindt ze ten oosten en ten zuidoosten van hier.$B$BIk ga niet tegen je liegen - het is een gemeen stelletje. Maar als je dit voor ons doet, zijn we op weg om terug te nemen wat echt van ons is!",
+      "o": "Versla 10 Wastewander Shadow Mages, 8 Wastewander Rogues en 6 Wastewander Assassins voor Chief Engineer Bilgewhizzle in Gadgetzan.",
+      "p": "En, heb je die nomaden kunnen uitschakelen zoals ik vroeg? De Gadgetzan Water Company maakt plannen op basis van jouw succes hier! Laat ons nu niet in de steek...",
+      "c": "Werk van topkwaliteit, $n... echt top! Je hebt het aantal nomaden zo ver teruggebracht dat we nu echt de strijd naar hen toe kunnen brengen!$B$BAls je het nog niet gedaan hebt, praat dan met Spigot Operator Luglunket hier. Hij geeft een beloning voor alle Wastewander-waterzakken die je misschien bent tegengekomen terwijl je die nomaden hun straf gaf!",
+      "g": [
+        [
+          "aanpakken",
+          "to take on, deal with"
+        ],
+        [
+          "terugnemen",
+          "to take back"
+        ],
+        [
+          "logisch",
+          "logical, makes sense"
+        ],
+        [
+          "schurken",
+          "rogues, villains (schurk)"
+        ],
+        [
+          "sluipmoordenaars",
+          "assassins (sluipmoordenaar)"
+        ],
+        [
+          "schaduwmagiërs",
+          "shadow mages (schaduwmagiër)"
+        ],
+        [
+          "liegen",
+          "to lie"
+        ],
+        [
+          "stelletje",
+          "bunch, lot"
+        ],
+        [
+          "uitschakelen",
+          "to take out"
+        ],
+        [
+          "op basis van",
+          "based on"
+        ],
+        [
+          "in de steek",
+          "let down (in de steek laten)"
+        ],
+        [
+          "waterzakken",
+          "water pouches (waterzak)"
+        ]
+      ]
+    },
+    "1707": {
+      "t": "Beloning voor waterzakken",
+      "d": "Gegroet, $n - ik heet Luglunket, en we hebben een belangrijke klus voor je, als je dat ziet zitten! Hoera!$B$BAls ervaren kraanbediener zou niets me blijer maken dan alle Wastewander-waterzakken aan te nemen die je in de woestijn vindt. Het is toch al ons water - de nomaden hebben het gewoon gestolen, dat is alles! De Gadgetzan Water Company geeft je een officieel hulppakket voor elke vijf die je inlevert. Maar het belangrijkste is: je helpt Gadgetzan om zichzelf te helpen!",
+      "o": "Breng 5 Wastewander Water Pouches naar Spigot Operator Luglunket in Gadgetzan.",
+      "p": "Heb je de vijf Wastewander-waterzakken die we nodig hebben? Zo ja, dan krijg je het Gadgetzan Water Company Care Package, Model 103-XB!",
+      "c": "Uitstekend - hoe meer waterzakken we terugkrijgen, hoe verder we allemaal van een ramp af zijn! Blijf ze brengen, dan zorg ik dat je een beloning krijgt voor elke vijf waterzakken die je me brengt.",
+      "g": [
+        [
+          "gegroet",
+          "greetings"
+        ],
+        [
+          "klus",
+          "job, task"
+        ],
+        [
+          "als je dat ziet zitten",
+          "if you're up for it (zien zitten)"
+        ],
+        [
+          "ervaren",
+          "experienced, seasoned"
+        ],
+        [
+          "kraanbediener",
+          "spigot operator"
+        ],
+        [
+          "officieel",
+          "official"
+        ],
+        [
+          "hulppakket",
+          "care package"
+        ],
+        [
+          "inlevert",
+          "turn in (inleveren)"
+        ],
+        [
+          "terugkrijgen",
+          "to get back, reclaim"
+        ],
+        [
+          "ramp",
+          "disaster"
+        ]
+      ]
+    },
+    "1878": {
+      "t": "Beloning voor waterzakken",
+      "p": "Ben je er weer, $n? Als je nog vijf Wastewander-waterzakken hebt, dan heb ik een hulppakket met jouw naam erop!",
+      "c": "Uitstekend - hoe meer waterzakken we terugkrijgen, hoe verder we allemaal van een ramp af zijn! Blijf ze brengen, dan zorg ik dat je een beloning krijgt voor elke vijf waterzakken die je me brengt.",
+      "g": [
+        [
+          "waterzakken",
+          "water pouches (waterzak)"
+        ],
+        [
+          "hulppakket",
+          "care package"
+        ],
+        [
+          "terugkrijgen",
+          "to get back, reclaim"
+        ],
+        [
+          "ramp",
+          "disaster"
+        ],
+        [
+          "beloning",
+          "reward"
+        ]
+      ]
+    },
+    "3520": {
+      "t": "Screecher-geesten",
+      "d": "Ik zoek de geesten van de vale screechers van Feralas. Ze zijn neven van een oude, oude god, en hun geesten zijn met hem verbonden.$B$BNeem deze braamstaf mee en ga naar Feralas. Zoek vale screechers in het zuiden en het midden van Feralas en versla ze. Zwaai daarna met mijn braamstaf over hun gevallen lichamen. Zo lok je hun geest naar buiten. Raak de geest aan en verzamel zijn essentie.$B$BKom terug met mijn braamstaf en met de verzamelde essentie. Dan vertel ik je meer over de oude god waarover ik sprak.",
+      "o": "Vang de geesten van 3 screechers in Feralas. Ga daarna terug naar Yeh'kinya in Steamwheedle Port.",
+      "p": "Heb je de essentie van de screecher-geesten verzameld, $N?",
+      "c": "Je hebt het goed gedaan, $N. Misschien is het nu tijd om meer te onthullen...$B$BEr bestaat een oude voorspelling onder de trollen: de dode god Hakkar, de Soulflayer, zal op een dag terugkeren naar deze wereld. Sommigen zeggen dat de komst van Hakkar vreugde en glorie zal brengen voor alle trollen. Anderen geloven dat zijn wederopstanding het einde van alles betekent.$B$BIk geloof deze mythe niet, maar ik weet wel dat de essentie van Hakkar grote kracht bezit. Die kracht moet worden weggehouden bij wie er misbruik van zou maken...",
+      "o1": "Screecher-geesten verzameld",
+      "g": [
+        [
+          "neven",
+          "cousins (neef)"
+        ],
+        [
+          "verbonden",
+          "linked, connected (verbinden)"
+        ],
+        [
+          "braamstaf",
+          "bramble wand"
+        ],
+        [
+          "zwaai",
+          "wave (zwaaien)"
+        ],
+        [
+          "lok",
+          "coax, lure (lokken)"
+        ],
+        [
+          "essentie",
+          "essence"
+        ],
+        [
+          "onthullen",
+          "to reveal"
+        ],
+        [
+          "voorspelling",
+          "prophecy, prediction"
+        ],
+        [
+          "vreugde",
+          "joy"
+        ],
+        [
+          "wederopstanding",
+          "resurrection"
+        ],
+        [
+          "mythe",
+          "myth"
+        ],
+        [
+          "bezit",
+          "holds, possesses (bezitten)"
+        ],
+        [
+          "weggehouden",
+          "kept away (weghouden)"
+        ],
+        [
+          "misbruik",
+          "abuse, misuse"
+        ]
+      ]
+    },
+    "2872": {
+      "t": "De schuld van Stoley",
+      "d": "Mijn oude maat Stoley is me een heel speciale fles rum schuldig. Hij staat achter de bar in Steamwheedle Port in Tanaris, Kalimdor. Hij heeft me beloofd dat de rum daar sterker is dan alles wat we in Booty Bay kunnen vinden. Hij is er zo zeker van dat hij zegt: als ik die rum probeer en het niet met hem eens ben, dan betaalt hij me het dubbele van wat hij me schuldig is!$B$BNou, ik denk dat hij niet meer zo zeker is als de laatste keer dat we elkaar spraken. Nu durft hij me die rum niet te geven. Maar ik krabbel nooit terug bij een weddenschap, dus waarom ga jij niet namens mij met hem praten...",
+      "o": "Praat met Stoley in Steamwheedle Port.",
+      "c": "Ah, dus je hebt met MacKinley gepraat?$B$BHet is niet wat hij denkt! Ik ben niet bang om hem wat Steamwheedle Bilge Rum te geven...$B$BIk heb gewoon geen rum om hem te geven!",
+      "g": [
+        [
+          "schuld",
+          "debt"
+        ],
+        [
+          "maat",
+          "buddy, mate"
+        ],
+        [
+          "schuldig",
+          "owes (schuldig zijn)"
+        ],
+        [
+          "beloofd",
+          "promised (beloven)"
+        ],
+        [
+          "het dubbele",
+          "double (the amount)"
+        ],
+        [
+          "durft",
+          "dares (durven)"
+        ],
+        [
+          "krabbel nooit terug",
+          "never back down (terugkrabbelen)"
+        ],
+        [
+          "weddenschap",
+          "bet, wager"
+        ],
+        [
+          "namens",
+          "on behalf of"
+        ]
+      ]
+    },
+    "2873": {
+      "t": "De lading van Stoley",
+      "d": "Ik ben \"Sea Wolf\" MacKinley in Booty Bay rum schuldig om een weddenschap af te handelen, maar mijn rum is op! Captain Cuergo heeft mijn laatste lading gestolen. Hij heeft die verstopt in dat ommuurde piratenstadje in het zuiden.$B$BAls je mijn lading rum kunt vinden en bij mij terugbrengen, dan kan ik MacKinley bewijzen dat de drank van Kalimdor die van Booty Bay ver achter zich laat!",
+      "o": "Breng Stoley's Shipment naar Stoley in Steamwheedle Port.",
+      "p": "Heb je mijn lading rum gevonden, $N?",
+      "c": "Geweldig, bedankt voor de lading! Nu kunnen MacKinley en ik eindelijk onze weddenschap afhandelen.",
+      "g": [
+        [
+          "lading",
+          "shipment, cargo"
+        ],
+        [
+          "afhandelen",
+          "to settle"
+        ],
+        [
+          "weddenschap",
+          "bet, wager"
+        ],
+        [
+          "verstopt",
+          "hidden, stowed (verstoppen)"
+        ],
+        [
+          "ommuurde",
+          "walled (ommuurd)"
+        ],
+        [
+          "piratenstadje",
+          "pirate town"
+        ],
+        [
+          "bewijzen",
+          "to prove"
+        ],
+        [
+          "drank",
+          "booze, drink"
+        ],
+        [
+          "ver achter zich laat",
+          "beats by far (ver achter zich laten)"
+        ]
+      ]
+    },
+    "2874": {
+      "t": "Bezorgen bij MacKinley",
+      "d": "Nogmaals bedankt voor je hulp, $N. Hier is een fles Steamwheedle bilge rum. Breng die naar MacKinley. Dan kan hij eindelijk ophouden met zijn gekke ideeën over de drank van Booty Bay.",
+      "o": "Breng Stoley's Bottle naar \"Sea Wolf\" MacKinley in Booty Bay.",
+      "p": "Is Stoley over de brug gekomen met mijn drank?",
+      "c": "Hm, eens proberen...$B$BNiet te geloven! Dit spul is... vreselijk! Dat is geweldig!$B$BNou, dan mag Stoley het geld houden dat hij me schuldig is. Hij houdt woord over Steamwheedle bilge rum. Dat spul is zo dik als grind en het brandt als lava!",
+      "g": [
+        [
+          "bezorgen",
+          "to deliver"
+        ],
+        [
+          "nogmaals",
+          "once again"
+        ],
+        [
+          "ophouden",
+          "to stop"
+        ],
+        [
+          "over de brug gekomen",
+          "coughed up, handed over (over de brug komen)"
+        ],
+        [
+          "niet te geloven",
+          "unbelievable"
+        ],
+        [
+          "spul",
+          "stuff"
+        ],
+        [
+          "vreselijk",
+          "terrible"
+        ],
+        [
+          "houdt woord",
+          "keeps his word (woord houden)"
+        ],
+        [
+          "grind",
+          "gravel"
+        ]
+      ]
+    },
+    "2875": {
+      "t": "GEZOCHT: Andre Firebeard",
+      "d": "De gemene piraat Andre Firebeard wordt gezocht voor misdaden tegen Steamwheedle en Gadgetzan.$B$BVolgens besluit van de bestuursraad mag iedereen die dit leest dodelijk geweld gebruiken bij de arrestatie van Andre en zijn handlangers.$B$BVolgens een verder besluit geldt het volgende: als Andre tijdens zijn rechtszaak overleden is of op een andere manier verhinderd is, mag zijn hoofd hem vervangen. Wie dat hoofd aflevert bij Security Chief Bilgewhizzle, sluit daarmee een bindend en uitbetaalbaar contract.",
+      "o": "Breng Andre's Head naar Security Chief Bilgewhizzle in Steamwheedle Port.",
+      "p": "Je kijkt een beetje versuft. Heb je onze juridische documenten gelezen?",
+      "c": "Ah, het hoofd van Andre. Dus hij komt toch nog naar zijn rechtszaak!$B$BHeel erg bedankt, $N. Als je hier even tekent, kan ik je betalen voor je diensten.$B$BMaak je geen zorgen over de kleine lettertjes. Die zijn onschuldig, en... ik denk dat er geen vergrootglas bestaat dat klein genoeg is om ze te lezen.",
+      "g": [
+        [
+          "gezocht",
+          "wanted (zoeken)"
+        ],
+        [
+          "misdaden",
+          "crimes (misdaad)"
+        ],
+        [
+          "besluit",
+          "decree, decision"
+        ],
+        [
+          "bestuursraad",
+          "governing council"
+        ],
+        [
+          "dodelijk geweld",
+          "lethal force"
+        ],
+        [
+          "arrestatie",
+          "arrest, apprehension"
+        ],
+        [
+          "handlangers",
+          "accomplices, abettors (handlanger)"
+        ],
+        [
+          "rechtszaak",
+          "trial, hearing"
+        ],
+        [
+          "overleden",
+          "deceased (overlijden)"
+        ],
+        [
+          "verhinderd",
+          "unable to attend, indisposed (verhinderen)"
+        ],
+        [
+          "bindend",
+          "binding"
+        ],
+        [
+          "uitbetaalbaar",
+          "payable"
+        ],
+        [
+          "versuft",
+          "dazed"
+        ],
+        [
+          "juridische",
+          "legal (juridisch)"
+        ],
+        [
+          "kleine lettertjes",
+          "small print"
+        ],
+        [
+          "vergrootglas",
+          "magnifying glass"
+        ]
+      ]
+    },
+    "2876": {
+      "t": "Vaarschema's",
+      "d": "Deze rol bevat de schema's van ladingen tussen Steamwheedle Port en Booty Bay. Er staan zowel vroegere als toekomstige ladingen in, met de namen van de schepen. Naast de reizen van sommige schepen staan grote X'en, en naast andere staan notities als \"GROTE BUIT\" en \"ZWAAR GEVECHT\".$B$BIemand in Steamwheedle Port zou dit document graag willen zien.",
+      "o": "Meld de Ship Schedules bij iemand met gezag in Steamwheedle Port.",
+      "p": "Je bent buiten adem. Heb je me iets te vertellen?",
+      "c": "O jee, dit lijkt wel een lijst met vertrek- en aankomsttijden van schepen, met precieze data en tijden en alles!  Als de kapitein van een piratenschip dit in handen kreeg, zou hij de dag van zijn leven hebben!$B$BZeg je dat je dit van een piraat hebt? Nou, dat is verontrustend nieuws...$B$BDank je, $N. Ik ben blij dat je het van hem hebt afgepakt, en ik ben blij dat die piraat nu in het zand bijt!",
+      "g": [
+        [
+          "vaarschema's",
+          "ship schedules (vaarschema)"
+        ],
+        [
+          "rol",
+          "scroll"
+        ],
+        [
+          "bevat",
+          "contains (bevatten)"
+        ],
+        [
+          "zowel",
+          "both (zowel ... als)"
+        ],
+        [
+          "notities",
+          "notes, annotations (notitie)"
+        ],
+        [
+          "buit",
+          "loot"
+        ],
+        [
+          "gezag",
+          "authority"
+        ],
+        [
+          "buiten adem",
+          "out of breath"
+        ],
+        [
+          "vertrek- en aankomsttijden",
+          "departure and arrival times"
+        ],
+        [
+          "de dag van zijn leven",
+          "a field day, the time of his life"
+        ],
+        [
+          "verontrustend",
+          "disturbing"
+        ],
+        [
+          "afgepakt",
+          "taken away (afpakken)"
+        ],
+        [
+          "in het zand bijt",
+          "is eating dirt, bites the dust (in het zand bijten)"
+        ]
+      ]
+    },
+    "8365": {
+      "t": "Piratenhoeden ahoy!",
+      "d": "Ben jij de hulp die het Cartel heeft gestuurd? Nou ja, je zult wel goed genoeg zijn. Luister goed, $c. Zoals je weet, koop ik modieuze kleding in voor de elite van de Azerothiaanse samenleving. Koningen en koninginnen, Warchiefs en, nou ja, hoe de Horde hun koninginnen ook noemt: ze dragen allemaal wat ik in de mode vind. En ze betalen er de hoofdprijs voor, en dat is het mooiste.$B$BDus dit gaat er gebeuren. Je gaat naar Lost Rigger Cove en je zorgt dat je een heleboel piratenhoeden krijgt, op welke manier dan ook. Denk je dat je dat aankunt?",
+      "o": "Haughty Modiste wil dat je 20 Southsea Pirate Hats verzamelt en ze bij haar terugbrengt in Steamwheedle Port in Tanaris.",
+      "p": "Heb je alle 20 hoeden? Ik geloof je niet, laat ze eens zien. Ze kunnen maar beter in perfecte staat zijn!",
+      "c": "O, je bent een schat, ook al duurde het langer dan ik gewend ben. Met deze lading verdien ik flink wat geld, als ik de hoeden heb schoongemaakt en een persoonlijk tintje heb gegeven. En omdat ik goed werk altijd graag beloon, krijg je hier iets van mij. Ik raad je aan om een deel ervan aan een bad uit te geven, schatje.",
+      "g": [
+        [
+          "modieuze",
+          "fashionable (modieus)"
+        ],
+        [
+          "koop ik ... in",
+          "I procure, buy in (inkopen)"
+        ],
+        [
+          "Azerothiaanse",
+          "Azerothian"
+        ],
+        [
+          "samenleving",
+          "society"
+        ],
+        [
+          "in de mode",
+          "in style, in fashion"
+        ],
+        [
+          "de hoofdprijs",
+          "through the nose, top price"
+        ],
+        [
+          "op welke manier dan ook",
+          "by whatever means"
+        ],
+        [
+          "aankunt",
+          "can handle (aankunnen)"
+        ],
+        [
+          "in perfecte staat",
+          "in pristine condition"
+        ],
+        [
+          "een schat",
+          "a darling"
+        ],
+        [
+          "gewend",
+          "accustomed, used to"
+        ],
+        [
+          "een persoonlijk tintje",
+          "a personal touch"
+        ],
+        [
+          "raad ... aan",
+          "suggest, advise (aanraden)"
+        ]
+      ]
+    },
+    "8366": {
+      "t": "De Southsea onder druk zetten",
+      "d": "Argh! Ze willen het onmogelijke van me!$B$BHet Steamwheedle Cartel wil dat ik de Southsea-piraten een lesje leer. Het probleem is: ik kan niet op twee plaatsen tegelijk zijn. Ik moet hier blijven om de vrede te bewaren.$B$BDe laatste tijd trekken de piraten zich niets aan van het beschermingsgeld dat het cartel ze regelmatig betaalt. Daarom wil ik je tijdelijk tot hulpsheriff benoemen. Dan kun je daarheen gaan en ze eens laten zien hoe het zit.$B$BJe vindt ze in Lost Rigger Cove, niet zo ver naar het zuiden. Bedankt, $N, ik sta bij je in het krijt!",
+      "o": "Security Chief Bilgewhizzle van Steamwheedle Port in Tanaris wil dat je 10 Southsea Pirates, 10 Southsea Freebooters, 10 Southsea Dock Workers en 10 Southsea Swashbucklers doodt.",
+      "p": "Nu al terug? Ik hoop dat je die Southsea-boeven een lesje hebt geleerd dat ze niet snel zullen vergeten.",
+      "c": "$N! Jij bent $gde man:de vrouw;!!!$B$BIk weet zeker dat het Cartel me nu niet meer zo op de huid zit, nu jij dat Southsea-tuig hebt aangepakt. Eens kijken, wat kan ik je als beloning geven? Wat dacht je van wat geld, en dan mag je voor de moeite een van deze dingen uitkiezen?",
+      "g": [
+        [
+          "onder druk zetten",
+          "to put pressure on, shake down"
+        ],
+        [
+          "een lesje leer",
+          "teach a lesson (een lesje leren)"
+        ],
+        [
+          "tegelijk",
+          "at the same time"
+        ],
+        [
+          "de vrede te bewaren",
+          "to keep the peace (de vrede bewaren)"
+        ],
+        [
+          "trekken ... zich niets aan van",
+          "disregard (zich niets aantrekken van)"
+        ],
+        [
+          "beschermingsgeld",
+          "protection money"
+        ],
+        [
+          "tijdelijk",
+          "temporarily"
+        ],
+        [
+          "hulpsheriff",
+          "deputy"
+        ],
+        [
+          "benoemen",
+          "to appoint"
+        ],
+        [
+          "in het krijt",
+          "in debt, owe one (bij iemand in het krijt staan)"
+        ],
+        [
+          "boeven",
+          "hoodlums, crooks (boef)"
+        ],
+        [
+          "op de huid zit",
+          "breathes down my neck (op de huid zitten)"
+        ],
+        [
+          "tuig",
+          "scum, riffraff"
+        ]
+      ]
+    },
+    "1450": {
+      "t": "Gryphon Master Talonaxe",
+      "d": "Dus jij bent een veredelde $gloopjongen:loopmeid; voor een of andere ouwe vent van de Explorers' League, hè?$b$bNou, luister jij eens naar mij, $c. Ik weet niet met wie jouw oude maatje daar beneden in Azeroth rondvloog. Zie ik eruit als Gryphon Master Talonaxe? Nou?$b$bAls je zo geïnteresseerd bent in de vluchtopdrachten, waarom vraag je het dan niet aan de griffioenmeester? Als ik je hier nog veel langer zie rondhangen, zet ik je aan het echte werk.$b$bEn nu opschieten.",
+      "o": "Praat met Gryphon Master Talonaxe in de Aerie Peak Aviary.",
+      "c": "Ah, ja. Natuurlijk weet ik nog dat ik een van mijn griffioenrijders stuurde om Brohann Caskbelly een handje te helpen.$b$bIk heb altijd een zwak gehad voor de Explorers' League. Mijn vader hielp trouwens bij het eerste opgravingsteam dat Uldaman ontdekte.$b$bIk stuurde met Brohann de rijder mee die ik toen voor mijn beste griffioenrijder hield. Het was een kerel die Rhapsody Shindigger heette.$b$bEn wat was dat een griffioenjockey! Nou ja, tot...",
+      "g": [
+        [
+          "veredelde",
+          "glorified (veredeld)"
+        ],
+        [
+          "loopjongen",
+          "errand boy"
+        ],
+        [
+          "loopmeid",
+          "errand girl"
+        ],
+        [
+          "ouwe vent",
+          "old geezer"
+        ],
+        [
+          "maatje",
+          "buddy"
+        ],
+        [
+          "vluchtopdrachten",
+          "flight assignments (vluchtopdracht)"
+        ],
+        [
+          "griffioenmeester",
+          "gryphon master"
+        ],
+        [
+          "rondhangen",
+          "to hang around, idle"
+        ],
+        [
+          "opschieten",
+          "to hurry up, get a move on"
+        ],
+        [
+          "een handje te helpen",
+          "to lend a hand (een handje helpen)"
+        ],
+        [
+          "een zwak",
+          "a soft spot (een zwak hebben voor)"
+        ],
+        [
+          "opgravingsteam",
+          "excavation team"
+        ],
+        [
+          "kerel",
+          "chap, fellow"
+        ],
+        [
+          "griffioenjockey",
+          "gryphon jockey"
+        ]
+      ]
+    },
+    "1451": {
+      "t": "Rhapsody Shindigger",
+      "d": "Rhapsody hield nogal van de drank. Begrijp me niet verkeerd -- alle dwergen hier bij de volière houden van een goed biertje op het juiste moment.$b$bMaar die ouwe Shindigger voelde zich bij de drank zo thuis als een griffioen in de lucht. En dat was ook verdomd jammer. Niemand kon vliegen zoals Rhapsody.$b$bHet eerste teken van problemen was toen hij strompelend terugkwam van die missie met jouw maatje Brohann. Daarna ging het snel bergafwaarts. We moesten hem ontslaan.$b$bHet laatste wat ik hoorde, is dat hij ten oosten van hier een brouwkamp heeft opgezet...",
+      "o": "Zoek Rhapsody Shindigger op in The Hinterlands.",
+      "c": "Hik!$b$bIk kijk je recht aan, maar je blijft maar op en neer dobberen. Ik word er duizelig van. Hoho!$b$bHik!$b$bWow! Voelde je dat? De grond schudt, vriend. Ik heb een drankje nodig.$b$bHik!",
+      "g": [
+        [
+          "begrijp me niet verkeerd",
+          "don't get me wrong"
+        ],
+        [
+          "volière",
+          "aviary"
+        ],
+        [
+          "voelde zich ... thuis",
+          "took to, felt at home (zich thuis voelen)"
+        ],
+        [
+          "verdomd jammer",
+          "a damned shame"
+        ],
+        [
+          "strompelend",
+          "stumbling (strompelen)"
+        ],
+        [
+          "bergafwaarts",
+          "downhill"
+        ],
+        [
+          "ontslaan",
+          "to let go, dismiss"
+        ],
+        [
+          "brouwkamp",
+          "brew camp"
+        ],
+        [
+          "hik",
+          "hiccup"
+        ],
+        [
+          "dobberen",
+          "to bob"
+        ],
+        [
+          "duizelig",
+          "dizzy"
+        ],
+        [
+          "schudt",
+          "shakes (schudden)"
+        ]
+      ]
+    },
+    "1452": {
+      "t": "De Kalimdor Kocktail van Rhapsody",
+      "d": "Hik!$b$bDus die gekke Brohann heeft je gestuurd? Tjonge, wat hebben wij een avontuur beleefd... Hik!$b$bAls je wilt dat ik vertel wat er in het moeras gebeurde, heb ik eerst iets sterks te drinken nodig. Het was geen mooi gezicht, snap je. Hik!$b$bWeet je wat... breng me wat ik nodig heb om een Kalimdor Kocktail in elkaar te flansen, dan vertel ik je er alles over.$b$bIk heb wat Roc-spiermagen uit Tanaris nodig... en eens kijken... wat Groddoc- en Ironfur-levers uit Feralas...$b$bEen lekker sterke Kalimdor Kocktail... daar ga ik wel van praten!",
+      "o": "Rhapsody Shindigger in The Hinterlands wil dat je hem 3 Roc Gizzards, 3 Groddoc Livers en 3 Ironfur Livers brengt.",
+      "p": "Heb je ooit een Rhapsody Malt gehad? Een van mijn beste brouwsels, al zeg ik het zelf. Hik!$b$bMaar als ik de verschrikkingen van die noodlottige vlucht boven... hik... het moeras opnieuw moet beleven, dan heb ik iets nodig dat een tikje sterker is. Hik!$b$bJe hebt zeker nog niet die spiermagen en levers gevonden die ik nodig heb om mijn Kalimdor Kocktail dat beetje extra kick te geven?$b$bHik!",
+      "c": "Ik zie dat je helemaal geen moeite had om me te brengen wat ik nodig heb! Dat moet een flinke klus geweest zijn, daar in het verre Kalimdor.$b$bHet duurt maar even voordat ik uit deze spiermagen en levers heb gehaald wat ik nodig heb. Hik!$b$bDan kan ik een woest sterk drankje stoken en je eindelijk vertellen wat je wilt weten.$b$bHik!$b$bIk krijg al rillingen als ik alleen maar aan dat ouwe moeras denk.$b$bHik!$b$bIk flans snel even een drankje in elkaar.",
+      "g": [
+        [
+          "tjonge",
+          "my, boy (exclamation)"
+        ],
+        [
+          "beleefd",
+          "experienced (beleven)"
+        ],
+        [
+          "moeras",
+          "swamp"
+        ],
+        [
+          "geen mooi gezicht",
+          "not a pretty scene"
+        ],
+        [
+          "in elkaar te flansen",
+          "to whip up (in elkaar flansen)"
+        ],
+        [
+          "spiermagen",
+          "gizzards (spiermaag)"
+        ],
+        [
+          "levers",
+          "livers (lever)"
+        ],
+        [
+          "brouwsels",
+          "brews (brouwsel)"
+        ],
+        [
+          "verschrikkingen",
+          "horrors (verschrikking)"
+        ],
+        [
+          "noodlottige",
+          "fateful (noodlottig)"
+        ],
+        [
+          "een tikje",
+          "a wee bit"
+        ],
+        [
+          "stoken",
+          "to distil"
+        ],
+        [
+          "rillingen",
+          "shivers (rilling)"
+        ],
+        [
+          "flans ... in elkaar",
+          "whip up (in elkaar flansen)"
+        ]
+      ]
+    },
+    "1469": {
+      "t": "Het verhaal van Rhapsody",
+      "d": "Voor de vlucht dronk ik een heel vat stout leeg. Hik!$b$bEn wat een vlucht was dat. Ik zoefde rond en Brohann volgde me. Maar ik zag geen tempel. Hik!$b$bNou ja, ik zag geen tempel tot ik een beetje te aangeschoten raakte en van mijn rijdier viel. Ik plonsde zo het water in en werd naar beneden gezogen. Opeens was ik omringd door een stel griezelige trollen. Ik ben daar snel weggezwommen, hoor! Ik heb zelfs dit trollensouvenir meegenomen. Hier, breng het naar Brohann en zeg hem dat zijn tempel echt daar beneden ligt. Hik!",
+      "o": "Breng het Atal'ai Tablet Fragment naar Brohann Caskbelly in Stormwind.",
+      "p": "Eindelijk ben je terug, $n. Het is al een hele tijd geleden dat we elkaar spraken. Ik dacht al dat je mijn opdracht misschien vergeten was.$b$bHeb je die sluwe griffioenrijder gevonden? Had hij iets te melden?",
+      "c": "Rhapsody Shindigger! Dat klopt... hoe kon ik zo'n naam vergeten?$b$bDus hij wist al die tijd van het zinken van de tempel? Nou, dat had je zeker wat loopwerk kunnen besparen.$b$bMaar dit artefact van de Atal'ai! Nou, dat is een flinke vondst!",
+      "g": [
+        [
+          "vat",
+          "keg, barrel"
+        ],
+        [
+          "zoefde",
+          "zipped, whizzed (zoeven)"
+        ],
+        [
+          "aangeschoten",
+          "tipsy"
+        ],
+        [
+          "rijdier",
+          "mount"
+        ],
+        [
+          "plonsde",
+          "plunged, splashed (plonzen)"
+        ],
+        [
+          "gezogen",
+          "sucked (zuigen)"
+        ],
+        [
+          "omringd",
+          "surrounded (omringen)"
+        ],
+        [
+          "griezelige",
+          "creepy (griezelig)"
+        ],
+        [
+          "sluwe",
+          "wily, sly (sluw)"
+        ],
+        [
+          "te melden",
+          "to report (melden)"
+        ],
+        [
+          "zinken",
+          "sinking"
+        ],
+        [
+          "loopwerk",
+          "leg work"
+        ],
+        [
+          "besparen",
+          "to save, spare"
+        ],
+        [
+          "vondst",
+          "find, discovery"
+        ]
+      ]
+    },
+    "2880": {
+      "t": "Beloning voor trollenkettingen",
+      "d": "Begrijp dit goed, $r - wij horen NIET bij de Alliance! De Wildhammers zijn onafhankelijk. Bij ons bewijs je je waarde met daden, niet met het geklets van mensen die met kletspraat hun luie houding opblazen!$B$BAls je hier vrienden zoekt, bewijs dan eerst wat je waard bent! De smerige trollen die de heuvels van de Hinterlands overspoelen, hebben soms stammenkettingen bij zich. Breng er vijf naar mij, dan schrijven we dat op als een stap in de goede richting voor jou.",
+      "o": "Breng 5 Troll Tribal Necklaces naar Fraggar Thundermantle in Aerie Peak.",
+      "p": "Ik wil vijf van die stammenkettingen die de trollen bij zich dragen. Moet ik het nog duidelijker uitleggen? Als je er een doodt, heb je een goede kans dat je er een krijgt!$B$BBewijs je waarde aan de Wildhammers!",
+      "c": "Zo mag ik het horen! Zie je - deze kettingen bewijzen dat je bereid bent om je handen vuil te maken. Wij Wildhammers vinden dat belangrijk bij wie we mee omgaan.$B$BAls je zo doorgaat, kom je toch nog bij ons in een goed blaadje.",
+      "g": [
+        [
+          "trollenkettingen",
+          "troll necklaces (trollenketting)"
+        ],
+        [
+          "onafhankelijk",
+          "independent"
+        ],
+        [
+          "waarde",
+          "worth"
+        ],
+        [
+          "daden",
+          "deeds (daad)"
+        ],
+        [
+          "geklets",
+          "blather, chatter"
+        ],
+        [
+          "kletspraat",
+          "jibber-jabber, idle talk"
+        ],
+        [
+          "houding",
+          "attitude"
+        ],
+        [
+          "opblazen",
+          "to puff up, bolster"
+        ],
+        [
+          "overspoelen",
+          "to overrun, choke"
+        ],
+        [
+          "stammenkettingen",
+          "tribal necklaces (stammenketting)"
+        ],
+        [
+          "zo mag ik het horen",
+          "that's what I'm talking about"
+        ],
+        [
+          "je handen vuil te maken",
+          "to get your hands dirty"
+        ],
+        [
+          "omgaan",
+          "to associate (omgaan met)"
+        ],
+        [
+          "in een goed blaadje",
+          "in someone's good graces"
+        ]
+      ]
+    },
+    "2881": {
+      "t": "Beloning voor trollenkettingen",
+      "p": "Je hebt het al gedaan, maar we nemen nog steeds alle stammenkettingen van trollen aan die je vindt en wilt inleveren. Als je ze bij mij inlevert, wordt je aanzien bij de Wildhammers steeds beter. Als jij voor ons wilt vechten, dan willen wij voor jou vechten!$B$BIk heb vijf stammenkettingen van trollen nodig, anders tellen ze niet, $n.",
+      "c": "Zo mag ik het horen! Zie je - deze kettingen bewijzen dat je bereid bent om je handen vuil te maken. Wij Wildhammers vinden dat belangrijk bij wie we mee omgaan.$B$BAls je zo doorgaat, kom je toch nog bij ons in een goed blaadje.",
+      "g": [
+        [
+          "stammenkettingen",
+          "tribal necklaces (stammenketting)"
+        ],
+        [
+          "inleveren",
+          "to turn in"
+        ],
+        [
+          "aanzien",
+          "standing, reputation"
+        ],
+        [
+          "tellen",
+          "to count"
+        ],
+        [
+          "je handen vuil te maken",
+          "to get your hands dirty"
+        ],
+        [
+          "omgaan",
+          "to associate (omgaan met)"
+        ],
+        [
+          "in een goed blaadje",
+          "in someone's good graces"
+        ]
+      ]
+    },
+    "2988": {
+      "t": "Witherbark-kooien",
+      "d": "De zoon van onze machtigste griffioen is verdwenen! Sharpbeak, de erfgenaam van Swiftwing, is een paar dagen geleden kwijtgeraakt toen hij met zijn ouders aan het jagen was. We denken dat de trollen hem hebben meegenomen.$B$BJe moet ons helpen! Doorzoek de kooien in de twee trollendorpen van de Witherbark om te zien of Sharpbeak daar is.",
+      "o": "Doorzoek de kooien in de twee Witherbark-dorpen en ga daarna terug naar Gryphon Master Talonaxe.",
+      "p": "Heb je de kooien doorzocht, $N? We moeten Sharpbeak vinden!",
+      "c": "Was Sharpbeak niet in de dorpen? Hm... dit is somber nieuws. Die griffioen is voorbestemd om de volgende generatie griffioenen te leiden. Als hij verloren is, dan zullen de kracht en de geest van onze vloot enorm lijden.",
+      "o1": "Doorzoek de eerste kooi",
+      "o2": "Doorzoek de tweede kooi",
+      "o3": "Doorzoek de derde kooi",
+      "g": [
+        [
+          "kooien",
+          "cages (kooi)"
+        ],
+        [
+          "machtigste",
+          "mightiest (machtig)"
+        ],
+        [
+          "griffioen",
+          "gryphon"
+        ],
+        [
+          "erfgenaam",
+          "heir"
+        ],
+        [
+          "kwijtgeraakt",
+          "lost (kwijtraken)"
+        ],
+        [
+          "doorzoek",
+          "search (doorzoeken)"
+        ],
+        [
+          "somber",
+          "grim, gloomy"
+        ],
+        [
+          "voorbestemd",
+          "destined"
+        ],
+        [
+          "generatie",
+          "generation"
+        ],
+        [
+          "vloot",
+          "fleet"
+        ],
+        [
+          "lijden",
+          "to suffer"
+        ]
+      ]
+    }
+  },
+  "words": {
+    "aankomsttijden": "arrival times (aankomsttijd)",
+    "bad": "bath",
+    "beleven": "to relive, experience",
+    "beslag": "seizure (in beslag nemen: to seize)",
+    "blaadje": "leaf, sheet (in een goed blaadje: in someone's good graces)",
+    "blijer": "happier (blij)",
+    "data": "dates (datum)",
+    "document": "document",
+    "dronk": "drank (drinken)",
+    "dubbele": "double (dubbel)",
+    "duidelijker": "clearer (duidelijk)",
+    "flans": "whip up (in elkaar flansen)",
+    "flansen": "to whip up (in elkaar flansen)",
+    "goblinmanier": "goblin style",
+    "griffioenrijder": "gryphon rider",
+    "griffioenrijders": "gryphon riders (griffioenrijder)",
+    "handje": "little hand (een handje helpen: to lend a hand)",
+    "hiervandaan": "from here",
+    "hoeden": "hats (hoed)",
+    "ironfur-levers": "Ironfur livers (lever)",
+    "kettingen": "necklaces, chains (ketting)",
+    "kick": "kick, thrill",
+    "koninginnen": "queens (koningin)",
+    "krabbel": "back down (terugkrabbelen)",
+    "lava": "lava",
+    "luie": "lazy (lui)",
+    "mode": "fashion",
+    "onmogelijke": "impossible (onmogelijk)",
+    "piratenhoeden": "pirate hats (piratenhoed)",
+    "piratenschip": "pirate ship",
+    "precieze": "precise, accurate (precies)",
+    "raak": "touch (aanraken)",
+    "rijder": "rider",
+    "roc-spiermagen": "roc gizzards (spiermaag)",
+    "rondvloog": "flew around (rondvliegen)",
+    "schoongemaakt": "cleaned (schoonmaken)",
+    "screecher-geesten": "screecher spirits (geest)",
+    "southsea-boeven": "Southsea hoodlums (boef)",
+    "southsea-piraten": "Southsea pirates (piraat)",
+    "southsea-tuig": "Southsea scum (tuig)",
+    "sterks": "strong (iets sterks: something strong)",
+    "tekent": "signs (tekenen)",
+    "tikje": "a little bit (een tikje)",
+    "tintje": "touch, tint (een persoonlijk tintje: a personal touch)",
+    "topkwaliteit": "top quality",
+    "trollendorpen": "troll villages (trollendorp)",
+    "trollensouvenir": "troll souvenir",
+    "uitkiezen": "to choose, pick out",
+    "vent": "guy, fellow",
+    "verdomd": "damned",
+    "verzamelde": "collected (verzamelen)",
+    "wastewander-nomaden": "Wastewander nomads (nomade)",
+    "wastewander-waterzakken": "Wastewander water pouches (waterzak)",
+    "weggezwommen": "swum away (wegzwemmen)",
+    "witherbark-dorpen": "Witherbark villages (dorp)",
+    "witherbark-kooien": "Witherbark cages (kooi)",
+    "wow": "whoa, wow",
+    "x'en": "X's (crosses)"
+  },
+  "terms": {}
+}

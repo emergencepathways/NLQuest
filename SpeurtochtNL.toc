@@ -49,6 +49,13 @@ Data\Batch_30_Desolace.lua
 Data\Batch_31_Stranglethorn_Vale.lua
 Data\Batch_108_Durotar.lua
 Data\Batch_34_Dustwallow_Marsh.lua
+Data\Batch_35_Swamp_Of_Sorrows.lua
+Data\Batch_37_Tanaris.lua
+Data\Batch_38_Searing_Gorge.lua
+Data\Batch_32_Stranglethorn_Vale.lua
+Data\Batch_33_Duskwood.lua
+Data\Batch_36_Badlands.lua
+Data\Batch_107_Valley_Of_Trials.lua
 Data\Batch_109_Tirisfal_Glades.lua
 
 Display.lua

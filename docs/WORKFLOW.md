@@ -36,17 +36,21 @@ A batch is "free" when it isn't on main yet and has no `batch-NN` branch on GitH
 
 ### The auto-merge
 
-`.github/workflows/batch-automerge.yml` runs on every push to a `batch-*` branch, one run at a time:
+`.github/workflows/batch-automerge.yml` runs `tools/automerge.py`, a merge queue. It starts on every push to a
+`batch-*` branch, every 30 minutes as a safety net, and by hand (*Actions → Batch auto-merge → Run workflow*).
+Each run takes **every** `batch-NN` branch that isn't on main yet, lowest number first:
 
-1. opens the pull request, with the commit message as title and notes;
+1. opens its pull request, with the commit message as title and notes;
 2. merges main into the branch and takes main's copy of the three files every batch touches
    (`SpeurtochtNL.toc`, `Data/Namen.lua`, `CHANGELOG.md`), then rebuilds them for this batch with
    `tools/sync_batch.py NN` (re-import, names list, CHANGELOG line from `changes/NN.md` with the counts);
-3. runs the importer checks and the test harness;
-4. merges the pull request, and comments with a link to the run.
+3. runs the test harness;
+4. pushes the synced branch and merges it into main with a merge commit. GitHub marks the pull request
+   as merged by itself, and comments with a link to the run.
 
-If a step fails, the pull request stays open with a comment explaining why and GitHub emails the owner.
-Pushing a fix to the branch retries; so does *Actions → Batch auto-merge → Run workflow* with the branch name.
+If a batch fails, its pull request gets one comment with the actual error and the queue moves on to the
+next batch. GitHub emails the owner the first time; the 30-minute retries of the same problem stay quiet.
+Pushing a fix to the branch retries at once.
 Every batch keeps its pull request page with the notes and the full diff, so nothing is lost by skipping
 manual review: it can be read at any time under *Pull requests → Closed*.
 
