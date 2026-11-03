@@ -83,6 +83,7 @@ Data\Batch_49_Arathi_Basin.lua
 Data\Batch_122_Class_Warlock.lua
 Data\Batch_50_Other_Invasion.lua
 Data\Batch_123_Class_Druid.lua
+Data\Batch_51_Mulgore.lua
 Data\Batch_124_Ragefire_Chasm.lua
 
 Display.lua
