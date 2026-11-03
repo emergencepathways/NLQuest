@@ -1,20 +1,19 @@
-# Speurtocht.NL - turn every pushed batch-NN branch into a merged pull request.
+# Speurtocht.NL - merge queue for translated batches.
 #
-# On each push to a batch-NN branch:
-#   1. open a pull request for it (title and notes come from the batch commit)
-#   2. merge main into the branch; take main's copy of the three shared files
-#      (SpeurtochtNL.toc, Data/Namen.lua, CHANGELOG.md) and rebuild them for this
-#      batch with tools/sync_batch.py, so two lanes never conflict
-#   3. run the importer checks and the offline test harness
-#   4. if everything passes, merge the pull request into main
-# If anything fails, the pull request stays open with a comment saying why,
-# and GitHub emails you about the failed run.
+# Runs tools/automerge.py, which takes every batch-NN branch that isn't on main yet
+# (lowest number first) and, for each one: opens its pull request, syncs it with
+# main, rebuilds the shared files (SpeurtochtNL.toc, Data/Namen.lua, CHANGELOG.md),
+# runs the importer checks and the test harness, and merges it into main.
+# A batch that fails gets one comment with the real error on its pull request and
+# the queue moves on; nothing else is held up.
 #
-# Runs one at a time (concurrency group), so two lanes finishing together
-# simply queue: the second one syncs against main after the first has merged.
+# Starts on every push to a batch-NN branch, every 30 minutes as a safety net
+# (so nothing stays stuck if a run was skipped), and by hand from the Actions tab.
+# Only one run at a time; since each run handles the whole queue, a run that
+# GitHub drops from the waiting line loses nothing.
 #
-# Needs, once, in the repo settings: Settings > Actions > General >
-#   Workflow permissions: "Read and write permissions" and
+# Needs, once, in Settings > Actions > General > Workflow permissions:
+#   "Read and write permissions" and
 #   "Allow GitHub Actions to create and approve pull requests".
 
 name: Batch auto-merge
@@ -22,11 +21,9 @@ name: Batch auto-merge
 on:
   push:
     branches: ["batch-*"]
+  schedule:
+    - cron: "17,47 * * * *"
   workflow_dispatch:
-    inputs:
-      branch:
-        description: "Batch branch to retry, e.g. batch-32"
-        required: true
 
 concurrency:
   group: batch-automerge
@@ -37,102 +34,18 @@ permissions:
   pull-requests: write
 
 jobs:
-  merge:
+  queue:
     runs-on: ubuntu-latest
     env:
       GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-      BRANCH: ${{ github.event.inputs.branch || github.ref_name }}
     steps:
       - uses: actions/checkout@v4
         with:
-          ref: ${{ github.event.inputs.branch || github.ref_name }}
+          ref: main
           fetch-depth: 0
 
       - name: Install Lua 5.1
         run: sudo apt-get update -qq && sudo apt-get install -y -qq lua5.1 > /dev/null
 
-      - name: Work out the batch
-        id: batch
-        run: |
-          n="${BRANCH#batch-}"
-          n=$((10#$n))
-          echo "n=$n" >> "$GITHUB_OUTPUT"
-          git config user.name "github-actions[bot]"
-          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          git fetch -q origin main
-          # the batch commits: everything on this branch that main doesn't have yet
-          first=$(git rev-list --reverse origin/main..HEAD | head -1)
-          if [ -z "$first" ]; then echo "Nothing on $BRANCH that main doesn't already have."; echo "skip=1" >> "$GITHUB_OUTPUT"; exit 0; fi
-          git log -1 --format=%s "$first" > /tmp/pr_title.txt
-          {
-            git log -1 --format=%b "$first"
-            for c in $(git rev-list --reverse origin/main..HEAD | tail -n +2); do
-              if [ "$(git rev-list --parents -n1 "$c" | wc -w)" -eq 2 ]; then
-                echo; echo "**Follow-up:** $(git log -1 --format=%s "$c")"; git log -1 --format=%b "$c"
-              fi
-            done
-            echo
-            echo "---"
-            echo "Checked and merged automatically by the *Batch auto-merge* workflow (importer READY, test harness 0 failures)."
-          } > /tmp/pr_body.md
-
-      - name: Open the pull request
-        if: steps.batch.outputs.skip != '1'
-        id: pr
-        run: |
-          pr=$(gh pr list --head "$BRANCH" --state open --json number --jq '.[0].number')
-          if [ -z "$pr" ]; then
-            gh pr create --base main --head "$BRANCH" --title "$(cat /tmp/pr_title.txt)" --body-file /tmp/pr_body.md
-            pr=$(gh pr list --head "$BRANCH" --state open --json number --jq '.[0].number')
-          else
-            gh pr edit "$pr" --body-file /tmp/pr_body.md
-          fi
-          echo "number=$pr" >> "$GITHUB_OUTPUT"
-
-      - name: Sync with main and rebuild the shared files
-        if: steps.batch.outputs.skip != '1'
-        run: |
-          git merge --no-ff --no-commit origin/main || true
-          git checkout origin/main -- SpeurtochtNL.toc Data/Namen.lua CHANGELOG.md
-          left=$(git diff --name-only --diff-filter=U)
-          if [ -n "$left" ]; then
-            echo "These files conflict with main and need a person: $left" | tee /tmp/fail.txt
-            exit 1
-          fi
-          python3 tools/sync_batch.py "${{ steps.batch.outputs.n }}" 2>&1 | tee /tmp/sync.txt
-          test "${PIPESTATUS[0]}" -eq 0 || { tail -40 /tmp/sync.txt > /tmp/fail.txt; exit 1; }
-          git add -A
-          if [ -f .git/MERGE_HEAD ]; then
-            git commit -q -m "Batch ${{ steps.batch.outputs.n }}: sync with main"
-          elif ! git diff --cached --quiet; then
-            git commit -q -m "Batch ${{ steps.batch.outputs.n }}: rebuild shared files"
-          fi
-
-      - name: Run the offline tests
-        if: steps.batch.outputs.skip != '1'
-        run: |
-          lua5.1 tools/test_harness.lua > /tmp/tests.txt 2>&1 && tail -1 /tmp/tests.txt && exit 0
-          { grep FAIL /tmp/tests.txt | head -30; tail -1 /tmp/tests.txt; } | tee /tmp/fail.txt
-          exit 1
-
-      - name: Merge into main
-        if: steps.batch.outputs.skip != '1'
-        run: |
-          git push -q origin "HEAD:$BRANCH"
-          gh pr merge "${{ steps.pr.outputs.number }}" --merge
-          gh pr comment "${{ steps.pr.outputs.number }}" --body "Merged automatically. Run: ${{ github.server_url }}/${{ github.repository }}/actions/runs/${{ github.run_id }}"
-
-      - name: Explain the failure on the pull request
-        if: failure() && steps.pr.outputs.number != ''
-        run: |
-          {
-            echo "**Not merged automatically.** The branch stays open until this is fixed."
-            echo
-            echo '```'
-            cat /tmp/fail.txt 2>/dev/null || echo "See the run log."
-            echo '```'
-            echo "Run: ${{ github.server_url }}/${{ github.repository }}/actions/runs/${{ github.run_id }}"
-            echo
-            echo "To fix: in a new chat, say \"Fix batch ${{ steps.batch.outputs.n }}\". Pushing the fix to $BRANCH retries automatically."
-          } > /tmp/comment.md
-          gh pr comment "${{ steps.pr.outputs.number }}" --body-file /tmp/comment.md
+      - name: Merge every waiting batch
+        run: python3 tools/automerge.py

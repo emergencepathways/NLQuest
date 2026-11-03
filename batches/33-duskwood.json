@@ -1,0 +1,1299 @@
+{
+  "quests": {
+    "222": {
+      "t": "Worgen in de bossen",
+      "d": "Wat je eerder hebt gedaan, heeft me ervan overtuigd dat je klaar bent voor de sterkste worgen die de bossen onveilig maken.$b$bVan de worgen die zich hier gevestigd hebben, zijn de Vile Fangs en de Tainted Ones het gevaarlijkst gebleken. Ze wonen nu bij een paar grotten en in de mijn in het zuiden.$b$bVan ver weg kun je zelfs het licht van hun kampvuren zien...",
+      "o": "Dood 8 Nightbane Vile Fang en 8 Nightbane Tainted One worgen voor Calor in Darkshire.",
+      "p": "Angstaanjagende beesten, hè? Maar wees niet bang, $N. Wie voor het Licht staat, zal nooit vallen!",
+      "c": "$N, eerlijk gezegd dacht ik niet dat je zo ver zou komen. Maar je bent duidelijk een $c om rekening mee te houden. Sterker nog: als je officieel wilt meedoen aan de strijd van Master Carevin, schrijf ik graag een aanbevelingsbrief voor je.",
+      "g": [
+        [
+          "overtuigd",
+          "convinced (overtuigen)"
+        ],
+        [
+          "onveilig maken",
+          "to infest, make unsafe"
+        ],
+        [
+          "gevestigd",
+          "settled (zich vestigen)"
+        ],
+        [
+          "gebleken",
+          "proven, turned out (blijken)"
+        ],
+        [
+          "grotten",
+          "caves (grot)"
+        ],
+        [
+          "mijn",
+          "mine"
+        ],
+        [
+          "kampvuren",
+          "bonfires (kampvuur)"
+        ],
+        [
+          "angstaanjagende",
+          "intimidating, frightening"
+        ],
+        [
+          "om rekening mee te houden",
+          "to be reckoned with"
+        ],
+        [
+          "sterker nog",
+          "in fact, what's more"
+        ],
+        [
+          "officieel",
+          "formally, officially"
+        ],
+        [
+          "aanbevelingsbrief",
+          "letter of recommendation"
+        ]
+      ]
+    },
+    "223": {
+      "t": "Worgen in de bossen",
+      "d": "Alsjeblieft, $n. Breng dit bericht naar Master Carevin.$b$b<Hij haalt snel een stuk verbleekt perkament tevoorschijn en geeft het aan je.>$b$bNog een paar mensen zoals jij, en we zijn met meer dan de Night Watch! Misschien kunnen we dan het werk afmaken dat wij, met z'n weinigen, nu doen.",
+      "o": "Breng Calor's note naar Jonathan Carevin.",
+      "p": "Ja, wat is er? Maak het kort, ik heb dringende zaken te regelen.",
+      "c": "Sorry voor mijn koude ontvangst, $N. Maar zoals je vast wel ziet, ben ik een heel drukke man. Ik zie dat je indruk hebt gemaakt op Calor -- en geloof me, dat is niet niks -- en dat hij je heeft aanbevolen.$b$bEr lopen hier louche types rond, $N, en we kunnen de hulp gebruiken van iedereen die zich heeft bewezen. We vechten tegen demonen, de ondoden en iedereen die hen helpt. Wees waakzaam, wees voorzichtig, en vertrouw niemand die onze zaak niet wil helpen.$b$bGlorie onder het Licht.",
+      "g": [
+        [
+          "verbleekt",
+          "faded (verbleken)"
+        ],
+        [
+          "perkament",
+          "parchment"
+        ],
+        [
+          "tevoorschijn",
+          "out (into view)"
+        ],
+        [
+          "met z'n weinigen",
+          "the few of us"
+        ],
+        [
+          "dringende zaken",
+          "pressing matters"
+        ],
+        [
+          "ontvangst",
+          "reception"
+        ],
+        [
+          "indruk hebt gemaakt",
+          "have impressed (indruk maken)"
+        ],
+        [
+          "dat is niet niks",
+          "that is no small feat"
+        ],
+        [
+          "aanbevolen",
+          "recommended (aanbevelen)"
+        ],
+        [
+          "louche",
+          "shady, unsavory"
+        ],
+        [
+          "zich heeft bewezen",
+          "has proven themselves (zich bewijzen)"
+        ],
+        [
+          "waakzaam",
+          "vigilant"
+        ],
+        [
+          "zaak",
+          "cause"
+        ]
+      ]
+    },
+    "55": {
+      "t": "Morbent Fel",
+      "d": "Morbent Fel verstopt zich in zijn schuilplaats: het huis boven op de heuvel in het oosten, dat uitkijkt over de begraafplaats van Raven Hill. Zijn tijd in dit land is bijna voorbij...$B$BGebruik Morbent's Bane tegen hem. Daarmee werkt zijn beschermende magie niet meer.$B$BDood hem. Dood hem, en red ons van zijn kwaad. Wees het instrument van mijn wraak, en een held van Duskwood!",
+      "o": "Gebruik Morbent's Bane op Morbent Fel, dood Morbent Fel en breng Morbent's Bane daarna terug naar Sven in zijn kamp.",
+      "p": "Is Morbent Fel verslagen?!",
+      "c": "Morbent Fel is verslagen. De duistere ruiters zijn nog vrij, maar een klein deel van waar ik tegen alle hoop in op had gehoopt, is uitgekomen.$b$bJe hebt het onmogelijke gedaan. Je daden zullen voor altijd voortleven in de legendes van Duskwood.$b$bGa, $N. En misschien brengt het lot je ooit bij me terug...",
+      "g": [
+        [
+          "schuilplaats",
+          "hiding place, lair"
+        ],
+        [
+          "uitkijkt over",
+          "overlooks (uitkijken over)"
+        ],
+        [
+          "begraafplaats",
+          "cemetery"
+        ],
+        [
+          "beschermende",
+          "protective"
+        ],
+        [
+          "kwaad",
+          "evil, wickedness"
+        ],
+        [
+          "wraak",
+          "revenge"
+        ],
+        [
+          "verslagen",
+          "defeated (verslaan)"
+        ],
+        [
+          "ruiters",
+          "riders (ruiter)"
+        ],
+        [
+          "tegen alle hoop in",
+          "beyond hope"
+        ],
+        [
+          "is uitgekomen",
+          "has come true (uitkomen)"
+        ],
+        [
+          "daden",
+          "deeds (daad)"
+        ],
+        [
+          "voortleven",
+          "to live on"
+        ],
+        [
+          "het lot",
+          "fate"
+        ]
+      ]
+    },
+    "98": {
+      "t": "De legende van Stalvan",
+      "d": "Stalvan Mistmantle leidde een verdorven leven. Onschuldige slachtoffers stierven door zijn hand. Hij is ongetwijfeld schuldig aan talloze misdaden. Nu bedreigt die gek Darkshire. Alleen het Licht weet welke smerige daden hij van plan is. Ga naar zijn huisje net ten noorden van de stad, $c, en executeer Stalvan, voor eens en altijd.$b$bAls het gedaan is, ga dan naar Madame Eva en laat haar zijn familiering zien. Het was tenslotte haar voorgevoel dat tot deze gruwelijke ontdekking leidde. Maar dankzij haar is Darkshire veiliger.",
+      "o": "Dood Stalvan Mistmantle en laat Madame Eva zijn familiering zien.",
+      "p": "Ja, $N?",
+      "c": "Ik weet het, $N: Stalvan is dood. Ik voelde een golf van hoop door het besmette bos gaan. Duskwood is voor eens en altijd vrij van zijn bloeddorst. Mijn vreugde wordt wel getemperd door gedachten aan iedereen die slachtoffer werd van dat vreselijke beest. Toch ben je een dappere en slimme $c.",
+      "g": [
+        [
+          "verdorven",
+          "depraved"
+        ],
+        [
+          "slachtoffers",
+          "victims (slachtoffer)"
+        ],
+        [
+          "ongetwijfeld",
+          "undoubtedly"
+        ],
+        [
+          "schuldig",
+          "guilty"
+        ],
+        [
+          "talloze",
+          "countless"
+        ],
+        [
+          "misdaden",
+          "crimes (misdaad)"
+        ],
+        [
+          "smerige",
+          "sordid, filthy (smerig)"
+        ],
+        [
+          "executeer",
+          "execute (executeren)"
+        ],
+        [
+          "voor eens en altijd",
+          "once and for all"
+        ],
+        [
+          "voorgevoel",
+          "premonition"
+        ],
+        [
+          "gruwelijke",
+          "gruesome (gruwelijk)"
+        ],
+        [
+          "besmette",
+          "tainted (besmet)"
+        ],
+        [
+          "bloeddorst",
+          "blood thirst"
+        ],
+        [
+          "getemperd",
+          "dampened, hampered (temperen)"
+        ]
+      ]
+    },
+    "225": {
+      "t": "Het verweerde graf",
+      "d": "Op de verweerde grafsteen staat alleen:$b$bMORGAN LADIMORE$b$b<Als je beter kijkt, zie je dat de aarde op het graf kortgeleden is omgewoeld. Een flinke hoeveelheid aarde lijkt verplaatst te zijn...>",
+      "o": "Praat met Sirra Von'Indi in Darkshire.",
+      "c": "Morgan Ladimore?$b$bAh, ja, natuurlijk. Zijn verhaal was lang en treurig. Ik kende hem goed, voordat hij naar de oorlog vertrok. Maar toen heb ik hem voor het laatst gezien. Hij was een nobele en goede man, maar het is slecht met hem afgelopen.$b$bHier, ik moet hier iets hebben dat het verhaal beter kan vertellen dan mijn eigen herinneringen...",
+      "g": [
+        [
+          "verweerde",
+          "weathered (verweerd)"
+        ],
+        [
+          "grafsteen",
+          "grave marker"
+        ],
+        [
+          "kortgeleden",
+          "recently"
+        ],
+        [
+          "omgewoeld",
+          "disturbed, dug up (omwoelen)"
+        ],
+        [
+          "flinke hoeveelheid",
+          "good amount"
+        ],
+        [
+          "verplaatst",
+          "displaced, moved (verplaatsen)"
+        ],
+        [
+          "treurig",
+          "sorrowful, sad"
+        ],
+        [
+          "nobele",
+          "noble (nobel)"
+        ],
+        [
+          "het is slecht met hem afgelopen",
+          "he suffered a bad end"
+        ],
+        [
+          "herinneringen",
+          "recollections, memories (herinnering)"
+        ]
+      ]
+    },
+    "227": {
+      "t": "Morgan Ladimore",
+      "d": "<Hij zoekt tussen de boekenplanken en pakt een in leer gebonden boek.>$b$bAls je meer wilt weten, kun je het Althea vragen. Zij heeft de laatste tijd de... problemen... met hem afgehandeld.",
+      "o": "Praat met Commander Althea Ebonlocke in Darkshire.",
+      "c": "Morgan Ladimore? Nooit van gehoord...$b$bO, je bedoelt Mor'Ladim! Je kent het verhaal zeker nog niet?$b$bNou, ik vertel je de korte versie. Een rondzwervende ondode die zichzelf Mor'Ladim noemt, zwerft door Duskwood. Voor zover wij weten, is het het ondode lichaam van Morgan Ladimore, die jij blijkbaar kent. Hij bezorgt ons allerlei problemen: hij valt Watchmen op patrouille aan en doodt mensen.$b$b<Ze bekijkt je van top tot teen.>$b$bJe lijkt me bekwaam genoeg. Misschien kun jij hem te ruste leggen.",
+      "g": [
+        [
+          "boekenplanken",
+          "bookshelves (boekenplank)"
+        ],
+        [
+          "in leer gebonden",
+          "leatherbound"
+        ],
+        [
+          "de laatste tijd",
+          "of late, lately"
+        ],
+        [
+          "afgehandeld",
+          "handled, dealt with (afhandelen)"
+        ],
+        [
+          "rondzwervende",
+          "wandering (rondzwerven)"
+        ],
+        [
+          "zwerft",
+          "wanders (zwerven)"
+        ],
+        [
+          "voor zover wij weten",
+          "from what we've gathered"
+        ],
+        [
+          "blijkbaar",
+          "apparently"
+        ],
+        [
+          "bezorgt",
+          "causes (bezorgen)"
+        ],
+        [
+          "van top tot teen",
+          "from head to toe"
+        ],
+        [
+          "bekwaam",
+          "capable"
+        ],
+        [
+          "te ruste leggen",
+          "to lay to rest"
+        ]
+      ]
+    },
+    "228": {
+      "t": "Mor'Ladim",
+      "d": "Volgens mijn verkenners zwerft Mor'Ladim door heel Duskwood. Hij volgt een vreemd, kronkelend pad over de begraafplaats. We hebben hem begraven voorbij het huis op de heuvel, weet je waar dat is?$b$bIk kan niets doen om je te helpen, maar ik wens je veel succes.",
+      "o": "Dood Mor'Ladim en breng zijn schedel daarna terug naar Commander Althea Ebonlocke in Darkshire.",
+      "p": "Ik neem het je niet kwalijk als je moeite met hem hebt, $N. We zijn een paar van onze sterkste Watchers kwijtgeraakt aan Mor'Ladim.",
+      "c": "Heb je hem gedood? Dat is niet niks, $N! Namens de mensen van Darkshire en de Night Watch dank ik je.$B$BAh... er is wel nog één kleine kwestie...",
+      "g": [
+        [
+          "verkenners",
+          "scouts (verkenner)"
+        ],
+        [
+          "kronkelend",
+          "meandering, winding"
+        ],
+        [
+          "begraafplaats",
+          "cemetery"
+        ],
+        [
+          "begraven",
+          "buried (begraven)"
+        ],
+        [
+          "schedel",
+          "skull"
+        ],
+        [
+          "ik neem het je niet kwalijk",
+          "I don't blame you"
+        ],
+        [
+          "kwijtgeraakt",
+          "lost (kwijtraken)"
+        ],
+        [
+          "namens",
+          "on behalf of"
+        ],
+        [
+          "kwestie",
+          "matter, issue"
+        ]
+      ]
+    },
+    "229": {
+      "t": "De dochter die nog leefde",
+      "d": "Ik had je dit eerder moeten vertellen...$b$bHoe zeg ik dit...$b$bMorgan dacht misschien dat zijn hele familie dood was. Maar in werkelijkheid is zijn dochter Sarah Ladimore nu een Watcher. Ze heeft het altijd moeilijk gehad met de... omstandigheden... rond de dood van haar vader. Misschien kun jij haar het nieuws gaan vertellen.",
+      "o": "Praat met Watcher Sarah Ladimore in Darkshire.",
+      "c": "Ja? Mijn vader...$B$B<Ze kijkt naar beneden.>$B$BIk wou... dat ik iets voor hem had kunnen doen... Had ik maar met hem gepraat voordat hij...",
+      "g": [
+        [
+          "in werkelijkheid",
+          "in fact, in reality"
+        ],
+        [
+          "het moeilijk gehad met",
+          "been troubled by"
+        ],
+        [
+          "omstandigheden",
+          "circumstances (omstandigheid)"
+        ],
+        [
+          "ik wou dat",
+          "I wish"
+        ],
+        [
+          "had ik maar",
+          "if only I had"
+        ]
+      ]
+    },
+    "231": {
+      "t": "De liefde van een dochter",
+      "d": "Hier, neem dit en leg het op zijn graf. Misschien... weet hij dan op de een of andere manier dat het goed met me gaat. En dat niemand van ons hem verantwoordelijk houdt voor wat er gebeurd is.$b$b<Ze heeft nu tranen in haar ogen. Ze schuift een ring van haar rechterhand en drukt hem in je handen.>$b$bEn... dank je, $n.",
+      "o": "Breng de ring van Sarah Ladimore naar het graf van Morgan Ladimore.",
+      "p": "Laat me met rust...",
+      "c": "<Een spookachtige stem klinkt op de wind...>$B$BIs dit...? Sarah? Zou ze nog leven? Het gewicht is van mijn schouders genomen...$B$B$N. Neem mijn zwaard, Archeus. Nu mijn ziel rust vindt, heb ik het niet meer nodig. Het is gesmeed om goed te doen. Ik heb bewezen dat ik het niet waard ben om het te dragen, maar misschien draag jij het Licht ermee verder.$B$BLys, mijn liefste...",
+      "g": [
+        [
+          "op de een of andere manier",
+          "somehow"
+        ],
+        [
+          "verantwoordelijk houdt",
+          "holds responsible (verantwoordelijk houden)"
+        ],
+        [
+          "tranen",
+          "tears (traan)"
+        ],
+        [
+          "schuift",
+          "slides (schuiven)"
+        ],
+        [
+          "drukt",
+          "presses (drukken)"
+        ],
+        [
+          "laat me met rust",
+          "leave me be"
+        ],
+        [
+          "spookachtige",
+          "ghostly (spookachtig)"
+        ],
+        [
+          "gewicht",
+          "weight"
+        ],
+        [
+          "ziel",
+          "soul"
+        ],
+        [
+          "gesmeed",
+          "forged (smeden)"
+        ],
+        [
+          "het niet waard",
+          "unworthy of it"
+        ]
+      ]
+    },
+    "254": {
+      "t": "Graven in de aarde",
+      "c": "Je graaft door de half losse aarde op het graf... en vindt de resten van een doodskist.$B$BIn de kist voel je het trillende gekras van vingers met klauwen en het knarsen van rotte tanden...$B$BOpen je de kist en haal je het Embalmer's Heart eruit?",
+      "g": [
+        [
+          "graaft",
+          "dig (graven)"
+        ],
+        [
+          "resten",
+          "remains (rest)"
+        ],
+        [
+          "doodskist",
+          "coffin"
+        ],
+        [
+          "trillende",
+          "vibrating (trillen)"
+        ],
+        [
+          "gekras",
+          "scraping, scratching"
+        ],
+        [
+          "klauwen",
+          "claws (klauw)"
+        ],
+        [
+          "knarsen",
+          "gnashing"
+        ],
+        [
+          "rotte",
+          "rotten (rot)"
+        ]
+      ]
+    },
+    "1395": {
+      "t": "Voorraden voor Nethergarde",
+      "d": "Deze krat met krachtstenen moet naar Nethergarde Keep, in de Blasted Lands. De stenen houden hun kracht niet lang vast, dus we kunnen ze niet met de volgende karavaan meesturen.$B$BJij moet ze brengen, en wel snel.$B$BBreng ze naar Quartermaster Lungertz in Nethergarde Keep. Om bij het fort te komen, reis je naar het oosten door Deadwind Pass, dan naar het oosten door de Swamp of Sorrows, en daarna naar het zuiden door de Blasted Lands.$B$BWees voorzichtig, $N. Je reist door gevaarlijke gebieden, maar je mag niet falen.",
+      "o": "Breng de Crate of Powerstones naar Quartermaster Lungertz, voordat de krachtstenen uitgewerkt zijn.",
+      "p": "Hallo! Let maar niet op alle drukte, dit is gewoon een normale dag in Nethergarde Keep.$B$BHeb je iets voor me?",
+      "c": "Ah, de krachtstenen! De magiërs zullen blij zijn als ze die zien!$B$BHartelijk dank, $N. Ik weet dat je reis vanuit Darkshire niet makkelijk was.",
+      "g": [
+        [
+          "voorraden",
+          "supplies (voorraad)"
+        ],
+        [
+          "krat",
+          "crate"
+        ],
+        [
+          "krachtstenen",
+          "powerstones (krachtsteen)"
+        ],
+        [
+          "karavaan",
+          "caravan"
+        ],
+        [
+          "meesturen",
+          "to send along, ship with"
+        ],
+        [
+          "en wel snel",
+          "and quickly at that"
+        ],
+        [
+          "fort",
+          "keep, fort"
+        ],
+        [
+          "falen",
+          "to fail"
+        ],
+        [
+          "uitgewerkt",
+          "expired, worn off (uitwerken)"
+        ],
+        [
+          "let maar niet op",
+          "don't mind"
+        ],
+        [
+          "drukte",
+          "commotion, bustle"
+        ],
+        [
+          "magiërs",
+          "mages (magiër)"
+        ]
+      ]
+    },
+    "505": {
+      "t": "Huurmoordenaars van het Syndicate",
+      "d": "Ik ben de nieuwe magistraat van Southshore. Ik ben kort geleden aangesteld, na de moord op de vorige magistraat. De moordenaars zijn nooit gevonden, maar door ons onderzoek weten we bijna zeker dat ze zijn ingehuurd door het Syndicate. Dat is een groep dieven onder leiding van schurkachtige edelen uit het gevallen koninkrijk Alterac.$B$BHet Syndicate heeft een kamp ten noorden van Tarren Mill, dat door de Horde bezet is. Onze laatste aanwijzingen leidden naar dat kamp. Dood de leden van het Syndicate die je daar vindt.",
+      "o": "Dood 12 Syndicate Footpads en 8 Syndicate Thieves en ga daarna terug naar Magistrate Henry Maleb in Southshore.",
+      "p": "Je hebt die boeven van het Syndicate gedood, neem ik aan?",
+      "c": "Dank je, $N. Misschien sluipen ze hier nog rond, maar we hopen dat een paar van de dieven en straatrovers die je hebt gedood, verantwoordelijk waren voor de dood van de vorige magistraat. Maar ook als dat niet zo is: het Syndicate is een vloek voor dit land en een smet op het menselijk ras.$B$BSouthshore is blij met hun dood.",
+      "g": [
+        [
+          "huurmoordenaars",
+          "assassins (huurmoordenaar)"
+        ],
+        [
+          "magistraat",
+          "magistrate"
+        ],
+        [
+          "aangesteld",
+          "appointed, assigned (aanstellen)"
+        ],
+        [
+          "onderzoek",
+          "investigation"
+        ],
+        [
+          "ingehuurd",
+          "hired (inhuren)"
+        ],
+        [
+          "onder leiding van",
+          "led by"
+        ],
+        [
+          "schurkachtige",
+          "villainous (schurkachtig)"
+        ],
+        [
+          "edelen",
+          "nobles (edele)"
+        ],
+        [
+          "bezet",
+          "occupied"
+        ],
+        [
+          "aanwijzingen",
+          "clues (aanwijzing)"
+        ],
+        [
+          "boeven",
+          "thugs, crooks (boef)"
+        ],
+        [
+          "sluipen",
+          "to lurk, sneak"
+        ],
+        [
+          "straatrovers",
+          "footpads (straatrover)"
+        ],
+        [
+          "smet",
+          "stain"
+        ]
+      ]
+    },
+    "510": {
+      "t": "Onheilspellende plannen",
+      "d": "Tussen deze documenten zit een lijst met gevraagde voorraden. Daarop staan gewone spullen (eten, wapens, kleding), maar ook bijzondere uitrusting (maskers, olie, gif).$B$BMaar het opvallendste is hoe dringend het verzoek is. Deze voorraden waren snel nodig voor wat het document een \"belangrijke missie tegen Southshore\" noemt.",
+      "o": "Breng de Foreboding Plans naar Magistrate Maleb in Southshore.",
+      "p": "$N, je ziet er bezorgd uit. Wil je me iets vertellen?",
+      "c": "<Maleb leest de documenten.>$B$BDit is heel verontrustend, $N. Uit de informatie in deze documenten, en uit wat het Syndicate eerder heeft gedaan, moeten we aannemen dat die bende moordenaars Southshore de oorlog heeft verklaard.",
+      "g": [
+        [
+          "onheilspellende",
+          "foreboding (onheilspellend)"
+        ],
+        [
+          "voorraden",
+          "supplies (voorraad)"
+        ],
+        [
+          "uitrusting",
+          "gear, equipment"
+        ],
+        [
+          "opvallendste",
+          "most notable (opvallend)"
+        ],
+        [
+          "dringend",
+          "urgent"
+        ],
+        [
+          "verzoek",
+          "request"
+        ],
+        [
+          "bezorgd",
+          "anxious, worried"
+        ],
+        [
+          "verontrustend",
+          "troubling"
+        ],
+        [
+          "aannemen",
+          "to assume"
+        ],
+        [
+          "bende",
+          "band, gang"
+        ],
+        [
+          "de oorlog heeft verklaard",
+          "has declared war"
+        ]
+      ]
+    },
+    "511": {
+      "t": "Versleutelde brief",
+      "d": "Een van de brieven op deze tafel is versleuteld en onleesbaar.",
+      "o": "Breng de Encrypted Letter naar Loremaster Dibbs in Southshore.",
+      "p": "Ja, $N? Heb je iets met me te bespreken?",
+      "c": "Wat is dit? Wacht even... laat me het eens beter bekijken.$B$B...$B$BHm, ik heb deze vorm van versleuteling nog nooit gezien. Maar ik moet toegeven dat mijn kennis op dat gebied zeker niet volledig is.",
+      "g": [
+        [
+          "versleuteld",
+          "encrypted"
+        ],
+        [
+          "onleesbaar",
+          "unreadable, inscrutable"
+        ],
+        [
+          "bespreken",
+          "to discuss"
+        ],
+        [
+          "versleuteling",
+          "encryption"
+        ],
+        [
+          "toegeven",
+          "to admit"
+        ],
+        [
+          "kennis",
+          "knowledge"
+        ],
+        [
+          "gebied",
+          "area, field"
+        ],
+        [
+          "volledig",
+          "complete"
+        ]
+      ]
+    },
+    "514": {
+      "t": "Brief voor Stormpike",
+      "d": "Ik heb een collega in Ironforge die deze brief misschien kan ontcijferen. Ga naar de bibliotheek in de Hall of Explorers in Ironforge en praat met Prospector Stormpike. Zeg dat ik je stuur en laat hem de brief zien. Als iemand ten noorden van Blackrock Spire dit kan lezen, is hij het.",
+      "o": "Breng de Cleverly Encrypted Letter naar Prospector Stormpike in Ironforge.",
+      "p": "Dibbs uit Southshore heeft je gestuurd, hè? Hoe gaat het met die oude boekenwurm?",
+      "c": "Ah, versleuteling! Een specialiteit van me. Even kijken...",
+      "g": [
+        [
+          "collega",
+          "colleague"
+        ],
+        [
+          "ontcijferen",
+          "to decrypt, decipher"
+        ],
+        [
+          "bibliotheek",
+          "library"
+        ],
+        [
+          "boekenwurm",
+          "bookworm"
+        ],
+        [
+          "versleuteling",
+          "encryption"
+        ],
+        [
+          "specialiteit",
+          "specialty"
+        ]
+      ]
+    },
+    "525": {
+      "t": "Meer raadsels",
+      "d": "Ik heb de brief ontcijferd, maar ik weet niet wat ik ervan moet denken. Heb je dit gevonden bij dieven in de heuvels van Alterac? Heel vreemd...$B$BJe moet dit naar de magistraat van Southshore brengen. De brief is raadselachtig, maar zijn stad ligt het dichtst bij Alterac. Als er gevaar dreigt, moet hij het weten.",
+      "o": "Breng de Decrypted Letter naar Magistrate Maleb in Southshore.",
+      "p": "$N. Ben je weer door de heuvels en de bergen gereisd? Welk nieuws breng je?",
+      "c": "<Maleb leest de brief.>$B$BIs dit de vertaling van een brief die je in een kamp van het Syndicate hebt gevonden? Dit is niet geschreven door een dief, en zelfs niet door een edelman van Alterac.$B$BHet lijkt erop dat het Syndicate banden heeft met een andere macht. Ik huiver bij de gedachte wat dat zou kunnen zijn.",
+      "g": [
+        [
+          "raadsels",
+          "mysteries (raadsel)"
+        ],
+        [
+          "ontcijferd",
+          "decrypted (ontcijferen)"
+        ],
+        [
+          "wat ik ervan moet denken",
+          "what to make of it"
+        ],
+        [
+          "raadselachtig",
+          "cryptic"
+        ],
+        [
+          "het dichtst",
+          "the closest"
+        ],
+        [
+          "dreigt",
+          "is brewing, threatens (dreigen)"
+        ],
+        [
+          "vertaling",
+          "translation"
+        ],
+        [
+          "edelman",
+          "nobleman"
+        ],
+        [
+          "banden",
+          "ties (band)"
+        ],
+        [
+          "macht",
+          "power"
+        ],
+        [
+          "huiver",
+          "shudder (huiveren)"
+        ]
+      ]
+    },
+    "500": {
+      "t": "Premie op de Crushridge",
+      "d": "De Crushridge-ogers hebben een ogerheuvel gegraven in de Alterac Mountains, vlak bij de verwoeste stad Alterac. En volgens mijn verkenners hebben ze ook die ruïnes ingenomen.$B$BWe mogen niet toestaan dat ze het zich daarboven gemakkelijk maken. Als ze denken dat ze daar veilig zijn, trekken ze daarna naar beneden, de uitlopers van de bergen in. En dan staan ze recht voor onze deur!$B$BGa naar het noorden, naar de Alterac Mountains, en jaag op ogers. Breng me de Dirty Knucklebones die ze bij zich hebben, dan verdien je een mooie premie.",
+      "o": "Verzamel 9 Dirty Knucklebones van Crushridge-ogers in de Alterac Mountains. Breng ze naar Marshal Redpath in Southshore.",
+      "p": "$N, jaag je nog op ogers? Heb je de knokkels die je voor me moest verzamelen?",
+      "c": "Heel goed, $N. Je hebt vast een hele hoop ogers neergehakt om al deze knokkels te krijgen.$B$BDaarmee houden we ze wel van ons lijf. In elk geval voor een tijdje.",
+      "g": [
+        [
+          "premie",
+          "bounty"
+        ],
+        [
+          "ogers",
+          "ogres (oger)"
+        ],
+        [
+          "ogerheuvel",
+          "ogre mound"
+        ],
+        [
+          "verwoeste",
+          "ruined (verwoest)"
+        ],
+        [
+          "verkenners",
+          "scouts (verkenner)"
+        ],
+        [
+          "ruïnes",
+          "ruins (ruïne)"
+        ],
+        [
+          "ingenomen",
+          "taken over (innemen)"
+        ],
+        [
+          "toestaan",
+          "to allow"
+        ],
+        [
+          "het zich gemakkelijk maken",
+          "to get comfortable, cozy"
+        ],
+        [
+          "uitlopers",
+          "foothills (uitloper)"
+        ],
+        [
+          "knokkels",
+          "knucklebones (knokkel)"
+        ],
+        [
+          "neergehakt",
+          "hacked down (neerhakken)"
+        ],
+        [
+          "van ons lijf houden",
+          "to keep at arm's length, out of our hair"
+        ]
+      ]
+    },
+    "512": {
+      "t": "Dode edelen",
+      "d": "Ik vrees dat de leiders van het Syndicate erop uit zijn om Southshore te vernietigen. We moeten deze leiders hard raken voordat hun plannen werkelijkheid worden.$B$BGa naar de ruïnes van Strahnbrad, in de Alterac Mountains in het noorden. We denken dat het Syndicate die plek als hoofdkwartier gebruikt.$B$BWe weten dat deze bende moordenaars geleid wordt door vroegere edelen van Alterac. Misschien vermommen ze zich als gewone agenten van het Syndicate, maar aan de zegelring die hij draagt, weet je dat je een edelman hebt gedood.$B$BBreng me die zegelringen.",
+      "o": "Breng 7 Alterac Signet Rings naar Magistrate Maleb in Southshore.",
+      "p": "Heb je op het Syndicate gejaagd? Heb je die ringen?",
+      "c": "Als we het Syndicate zijn edelen afnemen, kan het niet meer doortastend optreden. Dan is het niets meer dan een bende boeven.$B$BJe dient je Alliance goed, $N.",
+      "g": [
+        [
+          "vrees",
+          "fear (vrezen)"
+        ],
+        [
+          "erop uit zijn",
+          "to be bent on"
+        ],
+        [
+          "vernietigen",
+          "to destroy, ruin"
+        ],
+        [
+          "werkelijkheid worden",
+          "to be realized, come true"
+        ],
+        [
+          "hoofdkwartier",
+          "headquarters"
+        ],
+        [
+          "geleid",
+          "run, led (leiden)"
+        ],
+        [
+          "vroegere",
+          "former (vroeger)"
+        ],
+        [
+          "vermommen",
+          "to disguise"
+        ],
+        [
+          "zegelring",
+          "signet ring"
+        ],
+        [
+          "afnemen",
+          "to strip of, take away"
+        ],
+        [
+          "doortastend",
+          "decisively"
+        ],
+        [
+          "optreden",
+          "to act"
+        ],
+        [
+          "dient",
+          "serve (dienen)"
+        ]
+      ]
+    },
+    "522": {
+      "t": "Het contract van de huurmoordenaar",
+      "d": "Dit is een contract voor de moord op Magistrate Henry Maleb. Het is verzegeld en gestempeld met rode lak, met een opvallende zegelring.",
+      "o": "Breng het Assassin's Contract naar Magistrate Maleb in Southshore.",
+      "p": "Je bent buiten adem! Heb je iets te melden?",
+      "c": "<Maleb bekijkt het contract.>$B$BDat verklaart de laatste aanval op Southshore. Het Syndicate moet het op mij gemunt hebben, net als op de vorige magistraat!",
+      "g": [
+        [
+          "huurmoordenaar",
+          "assassin"
+        ],
+        [
+          "verzegeld",
+          "sealed (verzegelen)"
+        ],
+        [
+          "gestempeld",
+          "stamped (stempelen)"
+        ],
+        [
+          "lak",
+          "sealing wax"
+        ],
+        [
+          "opvallende",
+          "distinctive (opvallend)"
+        ],
+        [
+          "buiten adem",
+          "out of breath"
+        ],
+        [
+          "melden",
+          "to report"
+        ],
+        [
+          "verklaart",
+          "explains (verklaren)"
+        ],
+        [
+          "het op iemand gemunt hebben",
+          "to be after someone"
+        ]
+      ]
+    },
+    "504": {
+      "t": "De Crushridge Warmongers",
+      "d": "Nu je de Crushridge-ogers hebt leren kennen, wil ik dat je ze echt een bloedneus slaat...$B$BGa naar de Ruins of Alterac en zoek de Crushridge Warmongers op. Ik wil dat je er flink wat van neerhaalt. Alleen zo leren die bruten dat ze uit de buurt van het gebied van de Alliance moeten blijven.",
+      "o": "Dood 15 Crushridge Warmongers en ga daarna terug naar Marshal Redpath in Southshore.",
+      "p": "Je moet nog meer Warmongers doden, $N. Je hoort boven in de bergen aan je taak te werken, niet hier beneden met je wapen opgeborgen.",
+      "c": "Heel goed. Hier is je beloning.$B$BEn toen je op die Warmongers jaagde, hoe zag de stad Alterac eruit? Hij is er slecht aan toe, denk ik. Ogers staan niet bekend om hun netheid.$B$BGelukkig helpt jouw werk om ze uit de buurt van Southshore te houden.",
+      "g": [
+        [
+          "ogers",
+          "ogres (oger)"
+        ],
+        [
+          "een bloedneus slaat",
+          "bloody their noses (een bloedneus slaan)"
+        ],
+        [
+          "flink wat",
+          "a good number"
+        ],
+        [
+          "neerhaalt",
+          "cut down (neerhalen)"
+        ],
+        [
+          "bruten",
+          "brutes (bruut)"
+        ],
+        [
+          "uit de buurt",
+          "away, at a distance"
+        ],
+        [
+          "gebied",
+          "territory, area"
+        ],
+        [
+          "opgeborgen",
+          "stowed (opbergen)"
+        ],
+        [
+          "beloning",
+          "reward"
+        ],
+        [
+          "er slecht aan toe",
+          "in bad shape"
+        ],
+        [
+          "staan niet bekend om",
+          "are not known for"
+        ],
+        [
+          "netheid",
+          "cleanliness"
+        ]
+      ]
+    },
+    "523": {
+      "t": "Het einde van de baron",
+      "d": "Het contract dat je hebt gevonden, is ondertekend door Baron Vardus. Hij is een edelman uit het vroegere koninkrijk Alterac, bekend om zijn kille hart en wrede gewoontes. Het verbaast me niet dat iemand als de baron hierachter zat.$B$BZoek deze man. Zoek hem en breng hem voor het gerecht. Hij moet ergens in een van de schuilplaatsen van het Syndicate zitten, misschien in de ruïnes van Strahnbrad, of misschien in het dal ten noorden daarvan.",
+      "o": "Breng de Head of Baron Vardus naar Magistrate Maleb in Southshore.",
+      "p": "Baron Vardus kan toch niet denken dat Southshore hem ongestraft zijn boeven op ons af laat sturen. Ik wil zijn hoofd!",
+      "c": "Dank je, $N. Mijn hoofd rust wat makkelijker, nu ik weet dat die schurk het zijne kwijt is.",
+      "g": [
+        [
+          "ondertekend",
+          "signed (ondertekenen)"
+        ],
+        [
+          "edelman",
+          "nobleman"
+        ],
+        [
+          "kille",
+          "cold (kil)"
+        ],
+        [
+          "wrede",
+          "brutal, cruel (wreed)"
+        ],
+        [
+          "gewoontes",
+          "practices, habits (gewoonte)"
+        ],
+        [
+          "verbaast",
+          "surprises (verbazen)"
+        ],
+        [
+          "voor het gerecht brengen",
+          "to bring to justice"
+        ],
+        [
+          "schuilplaatsen",
+          "haunts, hiding places (schuilplaats)"
+        ],
+        [
+          "dal",
+          "valley"
+        ],
+        [
+          "ongestraft",
+          "with impunity"
+        ],
+        [
+          "schurk",
+          "villain"
+        ]
+      ]
+    },
+    "537": {
+      "t": "Duistere raad",
+      "d": "De brief die je me bracht, is geschreven door een wezen dat zichzelf Nagaz noemt, een lid van de Argus Wake. Ik weet niet wat die Argus Wake is, maar als ze samenwerken met het Syndicate, moeten ze een bedreiging zijn.$B$BIk wil dat je Nagaz vindt, en de Argus Shadow Mages die in die brief genoemd worden. Ik wil dat je ze vindt en doodt.$B$BZoek in de Uplands, waar het Syndicate het sterkst is. Dat gebied ligt ten noorden van Strahnbrad.$B$BMet een beetje geluk vind je daar deze gezanten van de Argus Wake.",
+      "o": "Dood 4 Argus Shadow Mages.$B$BBreng de Head of Nagaz naar Magistrate Maleb in Southshore.",
+      "p": "Heb je de gezanten van de Argus Wake gevonden?",
+      "c": "Goed gedaan, $N. De Argus Wake klinkt niet als een groep die we het Syndicate willen laten leiden.$B$BEn misschien heb je hun leider hier vernietigd, maar Nagaz was slechts de dienaar van iemand anders. De Argus Wake zou zich wel eens diep door het continent Azeroth kunnen uitstrekken.$B$BOf zelfs door de hele wereld.",
+      "g": [
+        [
+          "raad",
+          "council"
+        ],
+        [
+          "wezen",
+          "being, creature"
+        ],
+        [
+          "samenwerken",
+          "to be allied, work together"
+        ],
+        [
+          "bedreiging",
+          "threat"
+        ],
+        [
+          "genoemd",
+          "mentioned (noemen)"
+        ],
+        [
+          "met een beetje geluk",
+          "with luck"
+        ],
+        [
+          "gezanten",
+          "envoys (gezant)"
+        ],
+        [
+          "vernietigd",
+          "destroyed (vernietigen)"
+        ],
+        [
+          "slechts",
+          "merely"
+        ],
+        [
+          "dienaar",
+          "servant"
+        ],
+        [
+          "zich uitstrekken",
+          "to extend, run"
+        ]
+      ]
+    },
+    "551": {
+      "t": "Het betoverde perkament",
+      "d": "Op dit perkament ligt een betovering, waardoor het niet te ontcijferen is. Maar één woord bovenaan het papier is te lezen:$B$B$B      Nagaz$B$B",
+      "o": "Breng het Ensorcelled Parchment naar Loremaster Dibbs in Southshore.",
+      "p": "O. Heb je iets wat ik moet bekijken? Een stukje kennis uit de bergen, hoop ik...",
+      "c": "Nog meer versleutelde berichten?$B$BIk wou dat ik het talent had om alle vreemde stukjes tekst te ontcijferen die uit Alterac naar beneden komen. Maar ik ben bang dat ik de kennis mis.",
+      "g": [
+        [
+          "betoverde",
+          "ensorcelled, enchanted (betoverd)"
+        ],
+        [
+          "perkament",
+          "parchment"
+        ],
+        [
+          "betovering",
+          "spell, enchantment"
+        ],
+        [
+          "waardoor",
+          "which makes, rendering"
+        ],
+        [
+          "ontcijferen",
+          "to decipher"
+        ],
+        [
+          "bovenaan",
+          "at the top"
+        ],
+        [
+          "kennis",
+          "lore, knowledge"
+        ],
+        [
+          "versleutelde",
+          "encrypted (versleuteld)"
+        ],
+        [
+          "ik wou dat",
+          "I wish"
+        ]
+      ]
+    },
+    "554": {
+      "t": "Stormpike ontcijfert",
+      "d": "Prospector Stormpike is een meester in het ontsleutelen en ontcijferen. Als je het perkament dat je gevonden hebt naar hem brengt, kan hij het met een beetje geluk begrijpen. Stormpike studeert nu in het hoofdkwartier van de Prospectors in Ironforge.$B$BEn als je hem ziet, zeg hem dan dat je met mij gepraat hebt. Ik heb hem de laatste tijd heel wat werk bezorgd.",
+      "o": "Breng het Ensorcelled Parchment naar Prospector Stormpike in Ironforge.",
+      "p": "Nog meer onderbrekingen?$B$BAh, op dit perkament ligt een heel ingewikkelde, fijn geweven betovering. Ik kan hem natuurlijk ontwarren, maar dat gaat tijd kosten. En tijd is heel waardevol voor me...$B$BMisschien koop ik het gewoon van je?",
+      "c": "Een wijze beslissing. Ik denk niet dat er naast mij nog een geleerde is met de vaardigheden om deze rol te vertalen. En als de inhoud interessant blijkt, wees niet bang. Dan laat ik je halen.",
+      "g": [
+        [
+          "ontsleutelen",
+          "decryption, to decrypt"
+        ],
+        [
+          "ontcijferen",
+          "deciphering, to decipher"
+        ],
+        [
+          "hoofdkwartier",
+          "headquarters"
+        ],
+        [
+          "bezorgd",
+          "given, sent (bezorgen)"
+        ],
+        [
+          "onderbrekingen",
+          "interruptions (onderbreking)"
+        ],
+        [
+          "ingewikkelde",
+          "intricate (ingewikkeld)"
+        ],
+        [
+          "geweven",
+          "woven (weven)"
+        ],
+        [
+          "ontwarren",
+          "to untangle"
+        ],
+        [
+          "waardevol",
+          "valuable"
+        ],
+        [
+          "geleerde",
+          "scholar"
+        ],
+        [
+          "vaardigheden",
+          "skills (vaardigheid)"
+        ],
+        [
+          "rol",
+          "scroll"
+        ],
+        [
+          "inhoud",
+          "contents"
+        ],
+        [
+          "laat ik je halen",
+          "I will send for you"
+        ]
+      ]
+    }
+  },
+  "words": {
+    "bedoelt": "mean (bedoelen)",
+    "beslissing": "decision",
+    "bloedneus": "bloody nose",
+    "crushridge-ogers": "Crushridge ogres (oger)",
+    "daarop": "on it, on that",
+    "document": "document",
+    "familiering": "family ring",
+    "gebonden": "bound (binden)",
+    "gedachte": "thought",
+    "gemunt": "aimed, minted (munten; het gemunt hebben op = to be after)",
+    "gevaarlijkst": "most dangerous (gevaarlijk)",
+    "gevraagde": "requested (vragen)",
+    "golf": "wave",
+    "hartelijk": "warm, hearty (hartelijk dank = many thanks)",
+    "hierachter": "behind this",
+    "hoeveelheid": "amount, quantity",
+    "huisje": "cottage, little house (huis)",
+    "instrument": "instrument",
+    "jaagde": "hunted (jagen)",
+    "leidden": "led (leiden)",
+    "liefste": "dearest, love",
+    "lys": "Lys (a name)",
+    "maskers": "masks (masker)",
+    "menselijk": "human",
+    "moord": "murder, assassination",
+    "normale": "normal (normaal)",
+    "onmogelijke": "impossible (onmogelijk)",
+    "ontcijfert": "deciphers (ontcijferen)",
+    "onveilig": "unsafe",
+    "prospectors": "prospectors (prospector)",
+    "stierven": "died (sterven)",
+    "teen": "toe",
+    "uitstrekken": "to extend, stretch out",
+    "verklaard": "declared (verklaren)",
+    "z'n": "zijn (informal: his, their)",
+    "zegelringen": "signet rings (zegelring)"
+  },
+  "terms": {
+    "worgen": "worgen: wolf-men from the Warcraft world"
+  }
+}
