@@ -1,0 +1,2046 @@
+{
+  "quests": {
+    "7632": {
+      "t": "Het oude blad",
+      "d": "De opperhuid van het blad gloeit felgroen. Het oppervlak is erg ruw en gerimpeld, waardoor je verschillende nerven en plooien kunt zien.$B$BAls je moest raden, zou je zeggen dat dit blad van iets ouds en machtigs komt.$B$BMisschien moet je de oorspronkelijke eigenaar van dit blad zoeken?",
+      "o": "Zoek de eigenaar van het Ancient Petrified Leaf. Succes, $N; het is een grote wereld.",
+      "p": "<Vartrus kreunt.>",
+      "c": "Natuurlijk herken ik mijn eigen bladeren. Kijk nou! Het is in perfecte staat.$B$BWat goed van je dat je het terugbrengt, $C.$B$BMisschien kun jij ons van dienst zijn, en wij jou.",
+      "g": [
+        [
+          "opperhuid",
+          "epidermis, outer skin"
+        ],
+        [
+          "gloeit",
+          "glows (gloeien)"
+        ],
+        [
+          "oppervlak",
+          "surface"
+        ],
+        [
+          "gerimpeld",
+          "wrinkled, rugose"
+        ],
+        [
+          "nerven",
+          "veins of a leaf (nerf)"
+        ],
+        [
+          "plooien",
+          "folds, wrinkles (plooi)"
+        ],
+        [
+          "raden",
+          "to guess"
+        ],
+        [
+          "oorspronkelijke",
+          "original (oorspronkelijk)"
+        ],
+        [
+          "eigenaar",
+          "owner"
+        ],
+        [
+          "kreunt",
+          "groans (kreunen)"
+        ],
+        [
+          "herken",
+          "recognize (herkennen)"
+        ],
+        [
+          "van dienst zijn",
+          "to be of service"
+        ]
+      ]
+    },
+    "7633": {
+      "t": "Een kennismaking",
+      "c": "Je ijver en eerlijkheid zijn ons opgevallen, $C.$B$BWij zijn de Ancients: beschermers van dit eens zo grote woud. Onze lichamen werden 10.000 jaar geleden vernietigd, toen Archimonde en de Burning Legion naar Hyjal oprukten. Onze geesten zijn echter heel gebleven.$B$BEr zijn taken die we je kunnen geven. Als je die voltooit, zullen de geheimen van de Ancients voor je opengaan.$B$BWeet dit: als je deze taken voltooit, hoef je alleen naar deze rots terug te keren, en dan zullen we je roep beantwoorden.",
+      "g": [
+        [
+          "kennismaking",
+          "introduction, getting acquainted"
+        ],
+        [
+          "ijver",
+          "diligence"
+        ],
+        [
+          "eerlijkheid",
+          "honesty, integrity"
+        ],
+        [
+          "opgevallen",
+          "noticed (opvallen)"
+        ],
+        [
+          "beschermers",
+          "protectors (beschermer)"
+        ],
+        [
+          "woud",
+          "forest"
+        ],
+        [
+          "oprukten",
+          "advanced, marched (oprukken)"
+        ],
+        [
+          "echter",
+          "however"
+        ],
+        [
+          "heel gebleven",
+          "remained intact"
+        ],
+        [
+          "voltooit",
+          "complete (voltooien)"
+        ],
+        [
+          "geheimen",
+          "secrets (geheim)"
+        ],
+        [
+          "roep",
+          "call"
+        ],
+        [
+          "beantwoorden",
+          "to answer"
+        ]
+      ]
+    },
+    "7495": {
+      "t": "Overwinning voor de Alliance",
+      "d": "Je hebt het onmogelijke gedaan. De broedmoeder van de Black Dragonflight ligt dood aan je voeten. Neem haar hoofd en breng het naar de Highlord.",
+      "o": "Breng de Head of Onyxia naar Highlord Bolvar Fordragon in Stormwind.",
+      "p": "Bij Uthers baard!",
+      "c": "Zoveel jaren werd ik gevangen gehouden door haar betoverende blik. Eindelijk zie ik dat er recht is gedaan en dat de eer van Stormwind is hersteld! Vandaag vieren we deze glorieuze overwinning!",
+      "g": [
+        [
+          "overwinning",
+          "victory"
+        ],
+        [
+          "onmogelijke",
+          "the impossible (onmogelijk)"
+        ],
+        [
+          "broedmoeder",
+          "brood mother"
+        ],
+        [
+          "baard",
+          "beard"
+        ],
+        [
+          "betoverende",
+          "captivating, bewitching (betoveren)"
+        ],
+        [
+          "blik",
+          "gaze, look"
+        ],
+        [
+          "recht is gedaan",
+          "justice has been done"
+        ],
+        [
+          "eer",
+          "honour"
+        ],
+        [
+          "hersteld",
+          "restored (herstellen)"
+        ],
+        [
+          "vieren",
+          "to celebrate"
+        ],
+        [
+          "glorieuze",
+          "glorious (glorieus)"
+        ]
+      ]
+    },
+    "7635": {
+      "t": "Een goede boogpees",
+      "d": "Vartrus kan je misschien de staf geven om een boog van de Ancients te maken, maar alleen ik kan de pees betoveren die nodig is om de boog af te maken.$B$BHet is een eenvoudige taak, nietig wezen. Dood een volwassen zwarte draak en haal de pees van zijn botten. Breng die pees naar mij, en ik zal het materiaal betoveren tot een bijna onverwoestbare boogpees.",
+      "o": "Stoma the Ancient heeft je gevraagd hem een Mature Black Dragon Sinew te brengen. Als je deze pees vindt, breng hem dan terug naar Stoma in Felwood.",
+      "p": "Ik weet zeker dat het niet moeilijk voor je zal zijn om een zwarte draak te vinden en te doden, $N. Verspil mijn tijd niet met nutteloos gepraat.",
+      "c": "Dit was wel een heel smerige draak. De pees stinkt naar het kwaad.$B$BGeef me even de tijd om het vuil uit dit vlees te verwijderen en de juiste betoveringen aan te brengen.",
+      "g": [
+        [
+          "boogpees",
+          "bowstring"
+        ],
+        [
+          "staf",
+          "stave, staff"
+        ],
+        [
+          "pees",
+          "sinew; bowstring"
+        ],
+        [
+          "betoveren",
+          "to enchant"
+        ],
+        [
+          "nietig",
+          "puny, insignificant"
+        ],
+        [
+          "wezen",
+          "being, creature"
+        ],
+        [
+          "volwassen",
+          "mature, adult"
+        ],
+        [
+          "onverwoestbare",
+          "indestructible (onverwoestbaar)"
+        ],
+        [
+          "verspil",
+          "waste (verspillen)"
+        ],
+        [
+          "nutteloos",
+          "useless, idle"
+        ],
+        [
+          "gepraat",
+          "chatter, talk"
+        ],
+        [
+          "smerige",
+          "foul, filthy (smerig)"
+        ],
+        [
+          "het kwaad",
+          "evil"
+        ],
+        [
+          "aan te brengen",
+          "to apply (aanbrengen)"
+        ]
+      ]
+    },
+    "8288": {
+      "t": "Slechts één mag opstaan",
+      "d": "Er is geen tijd te verliezen! Er moet een held gevonden worden! Voor de taak die ik geef, is een leger nodig. Maar slechts één uit de menigte van mogelijke kampioenen mag opstaan om de last en de verantwoordelijkheid van een bondgenoot van het Brood op zich te nemen.$B$BIn het hol van de Lord of Blackrock leeft een zeer wreed beest. Broodlord Lashlayer bewaakt de Halls of Strife en blokkeert de weg naar het binnenste heiligdom van Nefarian. Dood dit smerige gedrocht en breng zijn hoofd naar mij. Doe dit, en je kunt aan de volgende stap van je reis beginnen.",
+      "o": "Breng de Head of the Broodlord Lashlayer terug naar Baristolth of the Shifting Sands in Cenarion Hold in Silithus.",
+      "p": "Je moet de gunst van het Brood of Nozdormu verdienen.",
+      "c": "Zou jij de eerste kunnen zijn die in duizend jaar de gunst van de Bronze Flight verdient?",
+      "g": [
+        [
+          "slechts",
+          "only, merely"
+        ],
+        [
+          "menigte",
+          "crowd, throng"
+        ],
+        [
+          "kampioenen",
+          "champions (kampioen)"
+        ],
+        [
+          "last",
+          "burden"
+        ],
+        [
+          "verantwoordelijkheid",
+          "responsibility"
+        ],
+        [
+          "bondgenoot",
+          "ally"
+        ],
+        [
+          "op zich te nemen",
+          "to take upon oneself (op zich nemen)"
+        ],
+        [
+          "hol",
+          "lair, den"
+        ],
+        [
+          "wreed",
+          "cruel"
+        ],
+        [
+          "blokkeert",
+          "blocks (blokkeren)"
+        ],
+        [
+          "binnenste",
+          "innermost"
+        ],
+        [
+          "heiligdom",
+          "sanctum, sanctuary"
+        ],
+        [
+          "gedrocht",
+          "monstrosity, aberration"
+        ],
+        [
+          "gunst",
+          "favour"
+        ]
+      ]
+    },
+    "8789": {
+      "t": "Keizerlijke Qiraji-wapens",
+      "d": "We hebben duizend jaar lang niet stilgezeten, $N.$B$BWe hebben gezien hoe deze beesten hun eigen soortgenoten verslinden zodra die geen nut meer hebben. We hebben geluisterd terwijl ze plannen smeedden om onze wereld te vernietigen. En we hebben gehoord van het verraad binnen hun eigen rijen.$B$BEr zijn zwakke plekken, en we weten hoe we die in ons voordeel kunnen gebruiken.$B$BZoek hun ceremoniële wapens en breng ze naar mij. Samen met het element dat ontstaat uit de instabiliteit van hun eigen God, zullen ze een kracht van afrekening worden.",
+      "o": "Arygos in de Temple of Ahn'Qiraj maakt Elementium Infused Armaments voor je als je hem Imperial Qiraji Armaments en 3 Elementium Ore brengt.",
+      "p": "Zoek wat ik gevraagd heb. Je zult meer worden dan de som van je delen, kampioen.",
+      "c": "Doordrenkt met Elementium zullen deze wapens met ongelooflijk gemak door de Qiraji en hun God snijden.",
+      "g": [
+        [
+          "keizerlijke",
+          "imperial (keizerlijk)"
+        ],
+        [
+          "stilgezeten",
+          "sat still, been idle (stilzitten)"
+        ],
+        [
+          "soortgenoten",
+          "own kind (soortgenoot)"
+        ],
+        [
+          "verslinden",
+          "devour, feast on"
+        ],
+        [
+          "nut",
+          "use, utility"
+        ],
+        [
+          "plannen smeedden",
+          "plotted, schemed (plannen smeden)"
+        ],
+        [
+          "verraad",
+          "treachery, betrayal"
+        ],
+        [
+          "rijen",
+          "ranks (rij)"
+        ],
+        [
+          "zwakke plekken",
+          "weaknesses, weak spots"
+        ],
+        [
+          "voordeel",
+          "advantage"
+        ],
+        [
+          "ceremoniële",
+          "ceremonial (ceremonieel)"
+        ],
+        [
+          "instabiliteit",
+          "instability, volatility"
+        ],
+        [
+          "afrekening",
+          "reckoning"
+        ],
+        [
+          "som",
+          "sum"
+        ],
+        [
+          "doordrenkt",
+          "infused, soaked (doordrenken)"
+        ]
+      ]
+    },
+    "8790": {
+      "t": "Keizerlijke Qiraji-regalia",
+      "d": "Arygos vermoedt dat het element dat ontstaat uit de conflicten tussen de Old Gods en hun dienaren, onder de juiste omstandigheden ook zeer dodelijk voor hen is. Ik heb het over Elementium, sterveling.$B$BZoek Imperial Qiraji Regalia en het giftige element en breng ze naar mij, dan zal ik wapens van grote kracht doordrenken.$b",
+      "o": "Merithra of the Dream in de Temple of Ahn'Qiraj maakt Elementium Infused Armaments voor je als je haar Imperial Qiraji Regalia en 3 Elementium Ore brengt.$b",
+      "p": "Jij zult hen neerslaan en ons van deze ketenen bevrijden.",
+      "c": "Gebruik het voorwerp goed, $N. Laat hen de pijn voelen die ze zo graag anderen aandoen.",
+      "g": [
+        [
+          "regalia",
+          "regalia, ceremonial insignia"
+        ],
+        [
+          "vermoedt",
+          "suspects, theorizes (vermoeden)"
+        ],
+        [
+          "dienaren",
+          "servants, minions (dienaar)"
+        ],
+        [
+          "omstandigheden",
+          "conditions, circumstances (omstandigheid)"
+        ],
+        [
+          "dodelijk",
+          "deadly"
+        ],
+        [
+          "sterveling",
+          "mortal"
+        ],
+        [
+          "giftige",
+          "toxic, poisonous (giftig)"
+        ],
+        [
+          "doordrenken",
+          "to infuse, to soak"
+        ],
+        [
+          "neerslaan",
+          "to strike down"
+        ],
+        [
+          "ketenen",
+          "chains, bonds (keten)"
+        ],
+        [
+          "bevrijden",
+          "to free"
+        ],
+        [
+          "aandoen",
+          "to inflict on"
+        ]
+      ]
+    },
+    "8183": {
+      "t": "Het hart van Hakkar",
+      "d": "Het Heart of Hakkar brandt van binnenuit. Hoewel de Soulflayer verslagen is, zit de kern van zijn macht nog altijd in dit vervloekte orgaan.",
+      "o": "Breng het Heart of Hakkar naar Molthor op Yojamba Isle.",
+      "p": "$N, de stank van een kwade ziel hangt om je heen. Ben je vervloekt door de Soulflayer?",
+      "c": "Ah, het Heart of Hakkar. Dus de Soulflayer is gedood! Onze wereld is gered!$B$B$N, je dienst aan ons kan niet genoeg geprezen worden. Je bent werkelijk een held van dit rijk!",
+      "g": [
+        [
+          "van binnenuit",
+          "from within"
+        ],
+        [
+          "hoewel",
+          "although"
+        ],
+        [
+          "verslagen",
+          "defeated (verslaan)"
+        ],
+        [
+          "kern",
+          "kernel, core"
+        ],
+        [
+          "vervloekte",
+          "cursed (vervloekt)"
+        ],
+        [
+          "orgaan",
+          "organ"
+        ],
+        [
+          "stank",
+          "reek, stench"
+        ],
+        [
+          "kwade",
+          "evil (kwaad)"
+        ],
+        [
+          "gered",
+          "saved (redden)"
+        ],
+        [
+          "geprezen",
+          "praised (prijzen)"
+        ],
+        [
+          "werkelijk",
+          "truly, really"
+        ],
+        [
+          "rijk",
+          "realm"
+        ]
+      ]
+    },
+    "8184": {
+      "t": "Aanwezigheid van macht",
+      "d": "Zanza kan de oude trollenbetoveringen maken met de juiste onderdelen. $B$BHet eerste is een primal Hakkari idol, dat je moet afpakken van de machtigste luitenants van de Hakkari: Jin'do en de Bloodlord.$B$BHet tweede is een punctured voodoo doll. Die kun je vinden in de hopen afval die overal op deze smerige plek liggen. Kijk in de jinxed hoodoo piles.",
+      "o": "Breng me deze dingen, dan maak ik een krachtige betovering voor je!",
+      "p": "Breng me deze dingen, dan maak ik een krachtige betovering voor je!",
+      "c": "Gebruik het goed, $C. Toon de Hakkari geen genade!",
+      "g": [
+        [
+          "aanwezigheid",
+          "presence"
+        ],
+        [
+          "trollenbetoveringen",
+          "troll enchantments (trollenbetovering)"
+        ],
+        [
+          "onderdelen",
+          "components, parts (onderdeel)"
+        ],
+        [
+          "afpakken",
+          "to take from, to seize"
+        ],
+        [
+          "machtigste",
+          "most powerful (machtig)"
+        ],
+        [
+          "luitenants",
+          "lieutenants (luitenant)"
+        ],
+        [
+          "hopen",
+          "piles, heaps (hoop)"
+        ],
+        [
+          "afval",
+          "refuse, rubbish"
+        ],
+        [
+          "smerige",
+          "foul, filthy (smerig)"
+        ],
+        [
+          "krachtige",
+          "powerful (krachtig)"
+        ],
+        [
+          "betovering",
+          "enchantment"
+        ],
+        [
+          "genade",
+          "mercy"
+        ]
+      ]
+    },
+    "8185": {
+      "t": "Zegel van de syncretist",
+      "d": "Zanza kan de oude trollenbetoveringen maken met de juiste onderdelen. $B$BHet eerste is een primal Hakkari idol, dat je moet afpakken van de machtigste luitenants van de Hakkari: Jin'do en de Bloodlord.$B$BHet tweede is een punctured voodoo doll. Die kun je vinden in de hopen afval die overal op deze smerige plek liggen. Kijk in de jinxed hoodoo piles.",
+      "o": "Breng me deze dingen, dan maak ik een krachtige betovering voor je!",
+      "p": "Zanza kan de oude trollenbetoveringen maken met de juiste onderdelen.$B$BHet eerste is een primal Hakkari idol, dat je moet afpakken van de machtigste luitenants van de Hakkari: Jin'do en de Bloodlord.$B$BHet tweede is een punctured voodoo doll. Die kun je vinden in de hopen afval die overal op deze smerige plek liggen. Kijk in de jinxed hoodoo piles.$B$BBreng me deze dingen, dan maak ik een krachtige betovering voor je!$b",
+      "c": "Gebruik het goed, $C. Toon de Hakkari geen genade!",
+      "g": [
+        [
+          "zegel",
+          "sigil, seal"
+        ],
+        [
+          "syncretist",
+          "syncretist: someone who blends different beliefs"
+        ],
+        [
+          "trollenbetoveringen",
+          "troll enchantments (trollenbetovering)"
+        ],
+        [
+          "onderdelen",
+          "components, parts (onderdeel)"
+        ],
+        [
+          "afpakken",
+          "to take from, to seize"
+        ],
+        [
+          "machtigste",
+          "most powerful (machtig)"
+        ],
+        [
+          "luitenants",
+          "lieutenants (luitenant)"
+        ],
+        [
+          "hopen",
+          "piles, heaps (hoop)"
+        ],
+        [
+          "afval",
+          "refuse, rubbish"
+        ],
+        [
+          "smerige",
+          "foul, filthy (smerig)"
+        ],
+        [
+          "krachtige",
+          "powerful (krachtig)"
+        ],
+        [
+          "betovering",
+          "enchantment"
+        ],
+        [
+          "genade",
+          "mercy"
+        ]
+      ]
+    },
+    "8186": {
+      "t": "Omhelzing van de dood",
+      "d": "Zanza kan de oude trollenbetoveringen maken met de juiste onderdelen. $B$BHet eerste is een primal Hakkari idol, dat je moet afpakken van de machtigste luitenants van de Hakkari: Jin'do en de Bloodlord.$B$BHet tweede is een punctured voodoo doll. Die kun je vinden in de hopen afval die overal op deze smerige plek liggen. Kijk in de jinxed hoodoo piles.",
+      "o": "Breng me deze dingen, dan maak ik een krachtige betovering voor je!",
+      "p": "Breng me deze dingen, dan maak ik een krachtige betovering voor je!",
+      "c": "Gebruik het goed, $C. Toon de Hakkari geen genade!",
+      "g": [
+        [
+          "omhelzing",
+          "embrace"
+        ],
+        [
+          "trollenbetoveringen",
+          "troll enchantments (trollenbetovering)"
+        ],
+        [
+          "onderdelen",
+          "components, parts (onderdeel)"
+        ],
+        [
+          "afpakken",
+          "to take from, to seize"
+        ],
+        [
+          "machtigste",
+          "most powerful (machtig)"
+        ],
+        [
+          "luitenants",
+          "lieutenants (luitenant)"
+        ],
+        [
+          "hopen",
+          "piles, heaps (hoop)"
+        ],
+        [
+          "afval",
+          "refuse, rubbish"
+        ],
+        [
+          "smerige",
+          "foul, filthy (smerig)"
+        ],
+        [
+          "krachtige",
+          "powerful (krachtig)"
+        ],
+        [
+          "betovering",
+          "enchantment"
+        ],
+        [
+          "genade",
+          "mercy"
+        ]
+      ]
+    },
+    "8187": {
+      "t": "Roep van de valk",
+      "d": "Zanza kan de oude trollenbetoveringen maken met de juiste onderdelen. $B$BHet eerste is een primal Hakkari idol, dat je moet afpakken van de machtigste luitenants van de Hakkari: Jin'do en de Bloodlord.$B$BHet tweede is een punctured voodoo doll. Die kun je vinden in de hopen afval die overal op deze smerige plek liggen. Kijk in de jinxed hoodoo piles.",
+      "o": "Breng me deze dingen, dan maak ik een krachtige betovering voor je!",
+      "p": "Breng me deze dingen, dan maak ik een krachtige betovering voor je!",
+      "c": "Gebruik het goed, $C. Toon de Hakkari geen genade!",
+      "g": [
+        [
+          "roep",
+          "call"
+        ],
+        [
+          "valk",
+          "falcon"
+        ],
+        [
+          "trollenbetoveringen",
+          "troll enchantments (trollenbetovering)"
+        ],
+        [
+          "onderdelen",
+          "components, parts (onderdeel)"
+        ],
+        [
+          "afpakken",
+          "to take from, to seize"
+        ],
+        [
+          "machtigste",
+          "most powerful (machtig)"
+        ],
+        [
+          "luitenants",
+          "lieutenants (luitenant)"
+        ],
+        [
+          "hopen",
+          "piles, heaps (hoop)"
+        ],
+        [
+          "afval",
+          "refuse, rubbish"
+        ],
+        [
+          "smerige",
+          "foul, filthy (smerig)"
+        ],
+        [
+          "krachtige",
+          "powerful (krachtig)"
+        ],
+        [
+          "betovering",
+          "enchantment"
+        ],
+        [
+          "genade",
+          "mercy"
+        ]
+      ]
+    },
+    "8188": {
+      "t": "Waakzame omhelzing van de vodouisant",
+      "d": "Zanza kan de oude trollenbetoveringen maken met de juiste onderdelen. $B$BHet eerste is een primal Hakkari idol, dat je moet afpakken van de machtigste luitenants van de Hakkari: Jin'do en de Bloodlord.$B$BHet tweede is een punctured voodoo doll. Die kun je vinden in de hopen afval die overal op deze smerige plek liggen. Kijk in de jinxed hoodoo piles.",
+      "o": "Breng me deze dingen, dan maak ik een krachtige betovering voor je!",
+      "p": "Breng me deze dingen, dan maak ik een krachtige betovering voor je!",
+      "c": "Gebruik het goed, $C. Toon de Hakkari geen genade!",
+      "g": [
+        [
+          "waakzame",
+          "vigilant (waakzaam)"
+        ],
+        [
+          "omhelzing",
+          "embrace"
+        ],
+        [
+          "vodouisant",
+          "voodoo priest"
+        ],
+        [
+          "trollenbetoveringen",
+          "troll enchantments (trollenbetovering)"
+        ],
+        [
+          "onderdelen",
+          "components, parts (onderdeel)"
+        ],
+        [
+          "afpakken",
+          "to take from, to seize"
+        ],
+        [
+          "machtigste",
+          "most powerful (machtig)"
+        ],
+        [
+          "luitenants",
+          "lieutenants (luitenant)"
+        ],
+        [
+          "hopen",
+          "piles, heaps (hoop)"
+        ],
+        [
+          "afval",
+          "refuse, rubbish"
+        ],
+        [
+          "smerige",
+          "foul, filthy (smerig)"
+        ],
+        [
+          "krachtige",
+          "powerful (krachtig)"
+        ],
+        [
+          "betovering",
+          "enchantment"
+        ],
+        [
+          "genade",
+          "mercy"
+        ]
+      ]
+    },
+    "8189": {
+      "t": "Aanwezigheid van zicht",
+      "d": "Zanza kan de oude trollenbetoveringen maken met de juiste onderdelen. $B$BHet eerste is een primal Hakkari idol, dat je moet afpakken van de machtigste luitenants van de Hakkari: Jin'do en de Bloodlord.$B$BHet tweede is een punctured voodoo doll. Die kun je vinden in de hopen afval die overal op deze smerige plek liggen. Kijk in de jinxed hoodoo piles.",
+      "o": "Breng me deze dingen, dan maak ik een krachtige betovering voor je!",
+      "p": "Breng me deze dingen, dan maak ik een krachtige betovering voor je!",
+      "c": "Gebruik het goed, $C. Toon de Hakkari geen genade!",
+      "g": [
+        [
+          "aanwezigheid",
+          "presence"
+        ],
+        [
+          "zicht",
+          "sight"
+        ],
+        [
+          "trollenbetoveringen",
+          "troll enchantments (trollenbetovering)"
+        ],
+        [
+          "onderdelen",
+          "components, parts (onderdeel)"
+        ],
+        [
+          "afpakken",
+          "to take from, to seize"
+        ],
+        [
+          "machtigste",
+          "most powerful (machtig)"
+        ],
+        [
+          "luitenants",
+          "lieutenants (luitenant)"
+        ],
+        [
+          "hopen",
+          "piles, heaps (hoop)"
+        ],
+        [
+          "afval",
+          "refuse, rubbish"
+        ],
+        [
+          "smerige",
+          "foul, filthy (smerig)"
+        ],
+        [
+          "krachtige",
+          "powerful (krachtig)"
+        ],
+        [
+          "betovering",
+          "enchantment"
+        ],
+        [
+          "genade",
+          "mercy"
+        ]
+      ]
+    },
+    "8191": {
+      "t": "Profetische aura",
+      "d": "Zanza kan de oude trollenbetoveringen maken met de juiste onderdelen. $B$BHet eerste is een primal Hakkari idol, dat je moet afpakken van de machtigste luitenants van de Hakkari: Jin'do en de Bloodlord.$B$BHet tweede is een punctured voodoo doll. Die kun je vinden in de hopen afval die overal op deze smerige plek liggen. Kijk in de jinxed hoodoo piles.",
+      "o": "Breng me deze dingen, dan maak ik een krachtige betovering voor je!",
+      "p": "Zanza kan de oude trollenbetoveringen maken met de juiste onderdelen.$B$BHet eerste is een primal Hakkari idol, dat je moet afpakken van de machtigste luitenants van de Hakkari: Jin'do en de Bloodlord.$B$BHet tweede is een punctured voodoo doll. Die kun je vinden in de hopen afval die overal op deze smerige plek liggen. Kijk in de jinxed hoodoo piles.$B$BBreng me deze dingen, dan maak ik een krachtige betovering voor je!$b",
+      "c": "Gebruik het goed, $C. Toon de Hakkari geen genade!",
+      "g": [
+        [
+          "profetische",
+          "prophetic (profetisch)"
+        ],
+        [
+          "trollenbetoveringen",
+          "troll enchantments (trollenbetovering)"
+        ],
+        [
+          "onderdelen",
+          "components, parts (onderdeel)"
+        ],
+        [
+          "afpakken",
+          "to take from, to seize"
+        ],
+        [
+          "machtigste",
+          "most powerful (machtig)"
+        ],
+        [
+          "luitenants",
+          "lieutenants (luitenant)"
+        ],
+        [
+          "hopen",
+          "piles, heaps (hoop)"
+        ],
+        [
+          "afval",
+          "refuse, rubbish"
+        ],
+        [
+          "smerige",
+          "foul, filthy (smerig)"
+        ],
+        [
+          "krachtige",
+          "powerful (krachtig)"
+        ],
+        [
+          "betovering",
+          "enchantment"
+        ],
+        [
+          "genade",
+          "mercy"
+        ]
+      ]
+    },
+    "9023": {
+      "t": "Het perfecte gif",
+      "d": "Mijn broer en ik leiden de gifzaken vanuit het landhuis Ravenholdt.$B$BLord Ravenholdt heeft me opgedragen een nieuw en zeer effectief gifmengsel op te sporen dat gemaakt kan worden van de gifzakken van de bewoners van Zul'Gurub en de Ruins of Ahn'Qiraj.$B$BIn die vervloekte ruïnes wonen twee bijzonder giftige beesten die misschien hebben wat we zoeken, $c. Breng me een gifzak van de beesten Kurinnaxx en Venoxis, en we zullen je eeuwig dankbaar zijn.",
+      "o": "Dirk Thunderwood in Cenarion Hold wil dat je hem Venoxis's Venom Sac en Kurinnaxx's Venom Sac brengt.",
+      "p": "Dit is geen snelle roof waarbij je even iets grijpt, $N. Je zult vrienden moeten meenemen.",
+      "c": "Ravenholdt bedankt je, held! Kies maar uit!",
+      "g": [
+        [
+          "gif",
+          "poison"
+        ],
+        [
+          "landhuis",
+          "manor"
+        ],
+        [
+          "opgedragen",
+          "tasked, ordered (opdragen)"
+        ],
+        [
+          "gifmengsel",
+          "poison compound"
+        ],
+        [
+          "op te sporen",
+          "to track down (opsporen)"
+        ],
+        [
+          "gifzakken",
+          "venom sacs (gifzak)"
+        ],
+        [
+          "bewoners",
+          "inhabitants (bewoner)"
+        ],
+        [
+          "ruïnes",
+          "ruins (ruïne)"
+        ],
+        [
+          "bijzonder",
+          "particularly, special"
+        ],
+        [
+          "giftige",
+          "venomous, poisonous (giftig)"
+        ],
+        [
+          "eeuwig",
+          "eternally"
+        ],
+        [
+          "roof",
+          "robbery, grab"
+        ],
+        [
+          "grijpt",
+          "grabs (grijpen)"
+        ]
+      ]
+    },
+    "5892": {
+      "t": "Voorraden uit Irondeep",
+      "d": "Voordat de gevechten begonnen, hebben we voorraden voor Dun Baldar in de Irondeep-mijn opgeslagen. De troggs die daar naar boven kwamen, waren niet zo'n probleem toen we nog extra troepen hadden om de mijn te bewaken. Maar nu we tegen de Horde vechten, kunnen we Irondeep niet onder controle houden.$B$BWe hebben de voorraden in Irondeep nodig, $N. Ga de mijn in en breng me er een lading van.",
+      "o": "Breng 10 Irondeep Supplies naar de Alliance Quartermaster in Dun Baldar.",
+      "p": "Heb je de voorraden, $N? We kunnen er nooit genoeg hebben!",
+      "c": "Goed gedaan! Ik zal deze voorraden goed gebruiken! Bedankt, $N!",
+      "g": [
+        [
+          "voorraden",
+          "supplies (voorraad)"
+        ],
+        [
+          "gevechten",
+          "fighting, battles (gevecht)"
+        ],
+        [
+          "opgeslagen",
+          "stored (opslaan)"
+        ],
+        [
+          "mijn",
+          "mine"
+        ],
+        [
+          "troepen",
+          "troops (troep)"
+        ],
+        [
+          "bewaken",
+          "to guard"
+        ],
+        [
+          "onder controle houden",
+          "to maintain control"
+        ],
+        [
+          "lading",
+          "load"
+        ]
+      ]
+    },
+    "6982": {
+      "t": "Voorraden uit Coldtooth",
+      "d": "De Coldtooth-mijn is een opslagplaats van de Horde. Ik kan het eten dat ze hun troepen geven niet verdragen, en hun wapens en wapenrusting zijn in een vreselijke staat! Maar... in tijden als deze, nu voorraden zo belangrijk zijn, kunnen we gebruiken wat zij hebben.$B$BGa de Coldtooth-mijn in en breng hun voorraden mee terug. Dat helpt de Alliance om strijdklaar te blijven, en het neemt uitrusting die hard nodig is weg bij de krijgers van de Horde.$B$BSucces, $N. De mijn ligt ver in het zuiden, diep in het gebied van de Horde.",
+      "o": "Breng 10 Coldtooth Supplies naar de Alliance Quartermaster in Dun Baldar.",
+      "p": "Ben je in de Coldtooth-mijn geweest, $N? Heb je de voorraden waar ik om vroeg?",
+      "c": "Ah, je hebt ze. Goed werk, $N! Deze voorraden ruiken een beetje muf, omdat ze zo lang in die donkere mijn hebben gelegen, maar we gebruiken ze toch.$B$BBedankt, $N. Wat je doet, is van levensbelang om onze strijdkrachten op peil te houden.",
+      "g": [
+        [
+          "opslagplaats",
+          "storage depot"
+        ],
+        [
+          "verdragen",
+          "to stomach, to bear"
+        ],
+        [
+          "wapenrusting",
+          "armour"
+        ],
+        [
+          "vreselijke",
+          "atrocious, terrible (vreselijk)"
+        ],
+        [
+          "strijdklaar",
+          "ready for battle, in fighting shape"
+        ],
+        [
+          "uitrusting",
+          "equipment"
+        ],
+        [
+          "gebied",
+          "territory, area"
+        ],
+        [
+          "muf",
+          "musty"
+        ],
+        [
+          "van levensbelang",
+          "vital"
+        ],
+        [
+          "strijdkrachten",
+          "fighting forces"
+        ],
+        [
+          "op peil te houden",
+          "to keep up to standard, to maintain"
+        ]
+      ]
+    },
+    "6781": {
+      "t": "Meer pantserresten",
+      "p": "$N, we hebben meer pantserresten nodig om onze troepen te bevoorraden!",
+      "c": "Dit zijn goede stukken, $N. Ik kan ze gebruiken om nieuwe uitrusting voor onze troepen te maken.$B$BAls mijn voorraad hoog genoeg wordt, gaan onze ervaren gevechtseenheden misschien het veld op!",
+      "g": [
+        [
+          "pantserresten",
+          "armour scraps (pantserrest)"
+        ],
+        [
+          "bevoorraden",
+          "to supply"
+        ],
+        [
+          "uitrusting",
+          "equipment"
+        ],
+        [
+          "voorraad",
+          "supply, stock"
+        ],
+        [
+          "ervaren",
+          "experienced, seasoned"
+        ],
+        [
+          "gevechtseenheden",
+          "fighting units (gevechtseenheid)"
+        ],
+        [
+          "het veld op",
+          "onto the (battle)field"
+        ]
+      ]
+    },
+    "6846": {
+      "t": "Begin de aanval!",
+      "p": "Mijn troepen zijn bevoorraad en klaar om aan te vallen. We hebben alleen nog bevelen van Noreg Stormpike nodig, en dan stuur ik ze de strijd in!",
+      "c": "Ah, de bevelen! Er staat dat ik mag aanvallen wanneer ik wil, en wat ik wil is... nu!",
+      "g": [
+        [
+          "aanval",
+          "attack"
+        ],
+        [
+          "bevoorraad",
+          "supplied (bevoorraden)"
+        ],
+        [
+          "aan te vallen",
+          "to attack (aanvallen)"
+        ],
+        [
+          "bevelen",
+          "orders (bevel)"
+        ],
+        [
+          "de strijd in",
+          "into the fray, into battle"
+        ],
+        [
+          "er staat",
+          "it says"
+        ]
+      ]
+    },
+    "6848": {
+      "t": "Het Alziende Oog van Master Ryson",
+      "d": "Jouw oorlog in het hart van Alterac betekent niets voor het Syndicate, $c. Wij doen wat we altijd hebben gedaan: wachten tot er een duidelijke winnaar opstaat uit de as en het puin van deze waanzin, en dan toeslaan.$B$BDaarom zijn we hier nu echter niet. Het All Seeing Eye is verloren gegaan: de Winterax-trollen van deze streek hebben het meegenomen.$B$BHaal het Eye terug, en onze diensten zijn van jou, voor de tijd die jouw kant nog rest.$B$BKom terug naar mij zodra je het oog hebt, zodat ik je kan onderzoeken.$B$B<Master Ryson grijnst.>",
+      "o": "Haal Master Ryson's All Seeing Eye terug uit de Winterax-grotten en breng het terug naar Master Ryson.$B$BWees gewaarschuwd: men zegt dat er op Master Ryson's All Seeing Eye een vreselijke vloek rust!",
+      "e": "Master Ryson's All Seeing Eye teruggevonden",
+      "g": [
+        [
+          "alziende",
+          "all-seeing"
+        ],
+        [
+          "winnaar",
+          "victor, winner"
+        ],
+        [
+          "as",
+          "ashes"
+        ],
+        [
+          "puin",
+          "rubble"
+        ],
+        [
+          "waanzin",
+          "madness"
+        ],
+        [
+          "toeslaan",
+          "to strike"
+        ],
+        [
+          "echter",
+          "however"
+        ],
+        [
+          "verloren gegaan",
+          "been lost (verloren gaan)"
+        ],
+        [
+          "streek",
+          "region"
+        ],
+        [
+          "diensten",
+          "services (dienst)"
+        ],
+        [
+          "rest",
+          "remains (resten)"
+        ],
+        [
+          "onderzoeken",
+          "to examine"
+        ],
+        [
+          "grijnst",
+          "grins (grijnzen)"
+        ],
+        [
+          "gewaarschuwd",
+          "warned (waarschuwen)"
+        ],
+        [
+          "vloek",
+          "curse"
+        ]
+      ]
+    },
+    "6862": {
+      "t": "De draagbare shredder van Zinfizzlex",
+      "p": "Ik wil net zo graag als jij mijn draagbare shredder uitproberen, $r, maar voordat ik de bouwset kan maken, heb ik materialen nodig - heel veel materialen! $b$bOm precies te zijn: ik heb een berg thorium, mithril en ijzer nodig. Ook heb ik per apparaat één stoomzaag nodig. Die moet je bij de houtzagerij halen. $b$bToen ik hier rondsnuffelde (voordat ik gevangen werd), zag ik een stapel stoomzagen in het houthakkerskamp van de Stormpike. $b$bMaster Engineer Zinfizzlex wil dat je hem het volgende brengt:",
+      "g": [
+        [
+          "draagbare",
+          "portable (draagbaar)"
+        ],
+        [
+          "uitproberen",
+          "to try out"
+        ],
+        [
+          "bouwset",
+          "kit"
+        ],
+        [
+          "om precies te zijn",
+          "to be exact"
+        ],
+        [
+          "ijzer",
+          "iron"
+        ],
+        [
+          "apparaat",
+          "unit, device"
+        ],
+        [
+          "stoomzaag",
+          "steamsaw"
+        ],
+        [
+          "houtzagerij",
+          "lumber mill, sawmill"
+        ],
+        [
+          "rondsnuffelde",
+          "nosed around (rondsnuffelen)"
+        ],
+        [
+          "stapel",
+          "pile, stack"
+        ],
+        [
+          "houthakkerskamp",
+          "lumber camp"
+        ]
+      ]
+    },
+    "6881": {
+      "t": "Ivus, Heer van het Woud",
+      "p": "De Frostwolf Clan wordt beschermd door een smet van elementaire energie. Hun sjamanen bemoeien zich met krachten die ons zeker allemaal zullen vernietigen als niemand hen tegenhoudt.$b$bDe schade is te groot geworden om door de Circle beheerst te worden! Ivus moet worden opgeroepen om ons te helpen.$b$bDe soldaten van de Frostwolf dragen elementaire amuletten die Storm Crystals heten. We kunnen die amuletten gebruiken om Ivus op te roepen. Trek erop uit en neem de kristallen, $n!",
+      "c": "Goed gedaan, $N. Ik zal de kracht van dit amulet gebruiken om de magie te versterken die al verzameld is. Wanneer er genoeg kracht is verzameld, zal ik de verzamelde energie bundelen en de Heer van het Woud oproepen om onze zaak te steunen.",
+      "g": [
+        [
+          "smet",
+          "taint, stain"
+        ],
+        [
+          "elementaire",
+          "elemental (elementair)"
+        ],
+        [
+          "sjamanen",
+          "shamans (sjamaan)"
+        ],
+        [
+          "bemoeien zich met",
+          "meddle in (zich bemoeien met)"
+        ],
+        [
+          "tegenhoudt",
+          "stops, holds back (tegenhouden)"
+        ],
+        [
+          "beheerst",
+          "controlled (beheersen)"
+        ],
+        [
+          "opgeroepen",
+          "called, summoned (oproepen)"
+        ],
+        [
+          "amuletten",
+          "charms, amulets (amulet)"
+        ],
+        [
+          "trek erop uit",
+          "venture forth (erop uittrekken)"
+        ],
+        [
+          "versterken",
+          "to augment, to strengthen"
+        ],
+        [
+          "bundelen",
+          "to focus, to bundle"
+        ],
+        [
+          "zaak",
+          "cause"
+        ],
+        [
+          "steunen",
+          "to support"
+        ]
+      ]
+    },
+    "6941": {
+      "t": "Roep van de lucht - de vloot van Vipore",
+      "p": "De elite-eenheden van de Frostwolf die de linies bewaken, moeten worden aangepakt, soldaat! Ik geef jou de taak om die kudde wilden uit te dunnen. Kom terug met medailles van hun luitenants en legionairs. Als ik vind dat er genoeg van dat tuig is afgehandeld, zet ik de luchtaanval in.",
+      "c": "Het eskader is binnenkort klaar. Ga door met je inspanningen!",
+      "g": [
+        [
+          "vloot",
+          "fleet"
+        ],
+        [
+          "eenheden",
+          "units (eenheid)"
+        ],
+        [
+          "linies",
+          "(battle) lines (linie)"
+        ],
+        [
+          "aangepakt",
+          "dealt with (aanpakken)"
+        ],
+        [
+          "kudde",
+          "herd"
+        ],
+        [
+          "wilden",
+          "savages (wilde)"
+        ],
+        [
+          "uit te dunnen",
+          "to thin out (uitdunnen)"
+        ],
+        [
+          "medailles",
+          "medals (medaille)"
+        ],
+        [
+          "legionairs",
+          "legionnaires (legionair)"
+        ],
+        [
+          "tuig",
+          "riff-raff, rabble"
+        ],
+        [
+          "afgehandeld",
+          "dealt with (afhandelen)"
+        ],
+        [
+          "luchtaanval",
+          "air strike"
+        ],
+        [
+          "eskader",
+          "squadron, flight"
+        ],
+        [
+          "inspanningen",
+          "efforts (inspanning)"
+        ]
+      ]
+    },
+    "6942": {
+      "t": "Roep van de lucht - de vloot van Slidore",
+      "p": "Mijn griffioenen staan klaar om de frontlinies aan te vallen, maar ze kunnen pas aanvallen als de linies zijn uitgedund.$b$bDe Frostwolf-krijgers die de frontlinies moeten vasthouden, dragen trots medailles voor hun dienst op hun borst. Ruk die medailles van hun rottende lijken en breng ze hier.$b$bZodra de frontlinie genoeg is uitgedund, geef ik het bevel om de lucht in te gaan! Dood van boven!",
+      "c": "Blijf ze brengen, soldaat! De griffioenen van de Aerie zijn in een mum van tijd klaar om aan te vallen!",
+      "g": [
+        [
+          "griffioenen",
+          "gryphons (griffioen)"
+        ],
+        [
+          "frontlinies",
+          "front lines (frontlinie)"
+        ],
+        [
+          "uitgedund",
+          "thinned out (uitdunnen)"
+        ],
+        [
+          "vasthouden",
+          "to hold"
+        ],
+        [
+          "trots",
+          "proudly, proud"
+        ],
+        [
+          "borst",
+          "chest"
+        ],
+        [
+          "ruk",
+          "rip, tear (rukken)"
+        ],
+        [
+          "rottende",
+          "rotting (rotten)"
+        ],
+        [
+          "lijken",
+          "corpses (lijk)"
+        ],
+        [
+          "bevel",
+          "order, command"
+        ],
+        [
+          "in een mum van tijd",
+          "in no time at all"
+        ]
+      ]
+    },
+    "6943": {
+      "t": "Roep van de lucht - de vloot van Ichman",
+      "p": "Ze hebben weinig moed meer, soldaat. Na onze laatste mislukte luchtaanval op de Horde weigeren ze te vliegen! Het is aan jou om hun moreel op te krikken.$b$bGa terug naar het slagveld en sla toe in het hart van het commando van de Frostwolf. Schakel hun commandanten en bewakers uit. Kom bij me terug met zoveel van hun medailles als je in je rugzak kunt proppen! Ik beloof je: wanneer mijn griffioenen de buit zien en het bloed van onze vijanden ruiken, zullen ze weer vliegen! Ga nu!",
+      "c": "Zie je het? Kijk naar hen, soldaat! Ze draaien bij... Binnenkort zal het eskader van Ichman weer toeslaan in het hart van de vallei! Stormpike zal de lucht beheersen!",
+      "g": [
+        [
+          "moed",
+          "courage, spirit"
+        ],
+        [
+          "mislukte",
+          "failed (mislukken)"
+        ],
+        [
+          "weigeren",
+          "refuse"
+        ],
+        [
+          "moreel",
+          "morale"
+        ],
+        [
+          "op te krikken",
+          "to boost, to bolster (opkrikken)"
+        ],
+        [
+          "slagveld",
+          "battlefield"
+        ],
+        [
+          "schakel uit",
+          "take down (uitschakelen)"
+        ],
+        [
+          "bewakers",
+          "guardians, guards (bewaker)"
+        ],
+        [
+          "proppen",
+          "to stuff, to cram"
+        ],
+        [
+          "buit",
+          "loot, bounty"
+        ],
+        [
+          "draaien bij",
+          "are coming around (bijdraaien)"
+        ],
+        [
+          "eskader",
+          "squadron, flight"
+        ],
+        [
+          "beheersen",
+          "to rule, to control"
+        ]
+      ]
+    },
+    "7026": {
+      "t": "Tuigen voor de ramruiters",
+      "o": "null",
+      "p": "De Stormpike Brigade kan niet zonder zadel de strijd in stormen! We hebben tuigen nodig voor onze rijdieren; we zijn tenslotte geen wilden.$B$BWe zouden makkelijk de rammen kunnen doden die bij onze basis rondlopen om het leer te krijgen dat nodig is voor een tuig, maar dat zou idioot zijn. We hebben die rammen nodig als rijdieren.$B$BJe moet de basis van onze vijand aanvallen, de wolven doden die de Frostwolf als rijdier gebruikt en hun huiden nemen. Breng hun huiden naar mij, zodat er tuigen voor de cavalerie gemaakt kunnen worden. Ga!",
+      "c": "Goed gedaan, soldaat. Ik laat het je weten wanneer ik genoeg huiden heb verzameld.$B$BGa door!",
+      "g": [
+        [
+          "tuigen",
+          "harnesses (tuig)"
+        ],
+        [
+          "ramruiters",
+          "ram riders (ramruiter)"
+        ],
+        [
+          "zonder zadel",
+          "bareback"
+        ],
+        [
+          "stormen",
+          "to charge, to storm"
+        ],
+        [
+          "rijdieren",
+          "mounts (rijdier)"
+        ],
+        [
+          "tenslotte",
+          "after all"
+        ],
+        [
+          "rammen",
+          "rams (ram)"
+        ],
+        [
+          "leer",
+          "leather"
+        ],
+        [
+          "huiden",
+          "hides (huid)"
+        ],
+        [
+          "cavalerie",
+          "cavalry"
+        ],
+        [
+          "verzameld",
+          "stockpiled, collected (verzamelen)"
+        ]
+      ]
+    },
+    "7027": {
+      "t": "Lege stallen",
+      "d": "Kijk toch eens naar de stallen, $N! Leeg! De Stormpike Brigade heeft geen rammen om op te rijden; de cavalerie bestaat niet meer.$B$BJe moet ons helpen, soldaat. Neem deze trainingshalsband en trek de wildernis van deze vallei in. Zoek de Alterac-rammen die overal in het gebied rondlopen en vang er een met de halsband. Wanneer je een ram hebt gevangen, breng hem dan naar mij, dan zet ik hem in onze stal.$B$BAls we genoeg rammen hebben, krijgt de commandant van de ramruiters bericht. Met jouw hulp zal de cavalerie herboren worden!",
+      "o": "Zoek een Alterac Ram in Alterac Valley. Gebruik de Stormpike Training Collar wanneer je bij de Alterac Ram bent om het beest te 'temmen'. Als hij getemd is, volgt de Alterac Ram je terug naar de Stable Master. Spreek met de Stable Master om de vangst te laten meetellen.$b",
+      "p": "Zonder jouw hulp zouden de Stormpike Ram Riders geen rijdieren hebben om mee de strijd in te gaan. Je bewijst ons een grote dienst!",
+      "c": "De stallen zijn in een mum van tijd vol. Ga zo door!",
+      "e": "Ram gevangen en teruggebracht",
+      "g": [
+        [
+          "stallen",
+          "stables (stal)"
+        ],
+        [
+          "cavalerie",
+          "cavalry"
+        ],
+        [
+          "trainingshalsband",
+          "training collar"
+        ],
+        [
+          "wildernis",
+          "wilds, wilderness"
+        ],
+        [
+          "vang",
+          "catch, snare (vangen)"
+        ],
+        [
+          "bericht",
+          "notice, message"
+        ],
+        [
+          "herboren",
+          "reborn"
+        ],
+        [
+          "temmen",
+          "to tame"
+        ],
+        [
+          "getemd",
+          "tamed (temmen)"
+        ],
+        [
+          "vangst",
+          "capture, catch"
+        ],
+        [
+          "meetellen",
+          "to count"
+        ],
+        [
+          "je bewijst ons een grote dienst",
+          "you do us a great service"
+        ],
+        [
+          "in een mum van tijd",
+          "in no time at all"
+        ]
+      ]
+    },
+    "7081": {
+      "t": "De begraafplaatsen van Alterac Valley",
+      "d": "De begraafplaatsen in Alterac Valley zijn zeer gewilde gebieden. Zowel de Horde als de Alliance vecht woest om deze heilige grond. Ben jij er klaar voor om aan dat gevecht mee te doen, $N?$B$BIk wil dat je een begraafplaats van de vijand aanvalt. Zoek een begraafplaats met een banier van de Horde in het midden en trek die uit de grond! Doe dat, en je taak is voltooid....$B$BMaar als je de begraafplaats ook een paar minuten kunt vasthouden, dan komen onze troepen je snel aflossen.",
+      "o": "Val een begraafplaats aan en keer dan terug naar Sergeant Durgen Stormpike in de Alterac Mountains.",
+      "p": "$N, je hebt nog geen begraafplaats aangevallen. Kom terug als deze taak voltooid is!",
+      "c": "Goed gedaan! Begraafplaatsen zijn van levensbelang voor onze controle over Alterac Valley. Als je er een verovert, help je de heerschappij van de Alliance hier te verzekeren.$B$BGa nu, $N. Ga terug de strijd in, en als je een begraafplaats ziet die in handen van de Horde is... je weet wat je moet doen!",
+      "o1": "Begraafplaats aangevallen",
+      "g": [
+        [
+          "begraafplaatsen",
+          "graveyards (begraafplaats)"
+        ],
+        [
+          "gewilde",
+          "prized, sought-after (gewild)"
+        ],
+        [
+          "woest",
+          "savagely, fiercely"
+        ],
+        [
+          "heilige",
+          "sacred (heilig)"
+        ],
+        [
+          "banier",
+          "banner"
+        ],
+        [
+          "vasthouden",
+          "to hold"
+        ],
+        [
+          "aflossen",
+          "to relieve"
+        ],
+        [
+          "van levensbelang",
+          "vital"
+        ],
+        [
+          "verovert",
+          "capture, conquer (veroveren)"
+        ],
+        [
+          "heerschappij",
+          "sovereignty, rule"
+        ],
+        [
+          "verzekeren",
+          "to ensure, to secure"
+        ],
+        [
+          "in handen van",
+          "under the control of"
+        ]
+      ]
+    },
+    "7102": {
+      "t": "Torens en bunkers",
+      "d": "Torens en bunkers zijn belangrijke verdedigingsposities, dus we moeten er zoveel mogelijk vasthouden! Ik wil dat je een toren of een bunker in Alterac Valley aanvalt.$B$BGa daarvoor een toren binnen met een banier van de Horde erbovenop. Binnen zie je nog een vijandelijke banier. Trek die banier eruit, en er verschijnt een witte banier van de Alliance op zijn plaats. Goed gedaan!$B$BDan is je opdracht voor mij voltooid. Maar als je het gebied lang genoeg vasthoudt en de Horde het niet terugneemt, wordt het vernietigd!",
+      "o": "Vernietig de banier bij een toren of bunker van de vijand en keer dan terug naar Sergeant Durgen Stormpike in de Alterac Mountains.",
+      "p": "Je hebt nog geen toren aangevallen, $N! Waar wacht je nog op?",
+      "c": "Ik heb een rapport van het front gekregen waarin staat dat je hebt geholpen een vijandelijke banier te veroveren. Goed gedaan, $N! Nu hun troepen voor afstandsgevechten niet op hun plek staan, kunnen we de frontlinie naar voren schuiven!",
+      "o1": "Banier vernietigd",
+      "g": [
+        [
+          "verdedigingsposities",
+          "defensive positions (verdedigingspositie)"
+        ],
+        [
+          "vasthouden",
+          "to hold"
+        ],
+        [
+          "erbovenop",
+          "on top of it"
+        ],
+        [
+          "vijandelijke",
+          "enemy (vijandelijk)"
+        ],
+        [
+          "verschijnt",
+          "appears (verschijnen)"
+        ],
+        [
+          "opdracht",
+          "mission, task"
+        ],
+        [
+          "vernietigd",
+          "destroyed (vernietigen)"
+        ],
+        [
+          "rapport",
+          "report"
+        ],
+        [
+          "veroveren",
+          "to capture, to secure"
+        ],
+        [
+          "afstandsgevechten",
+          "ranged combat (afstandsgevecht)"
+        ],
+        [
+          "frontlinie",
+          "front line"
+        ],
+        [
+          "schuiven",
+          "to move, to push"
+        ]
+      ]
+    },
+    "7121": {
+      "t": "De kwartiermeester",
+      "d": "$N, onze kwartiermeester heeft me opgedragen om nieuwe rekruten naar hem toe te sturen. Hij heeft voorraden nodig uit de opslagplaatsen in de mijnen van Alterac, en hij stuurt je er waarschijnlijk op uit om ze te halen.$B$BVolg de weg. Je vindt onze kwartiermeester in het westen.",
+      "o": "Spreek met de Stormpike Quartermaster.",
+      "c": "Het is goed om hier verse troepen te zien, $N, maar met een beetje geluk kom je snel in actie en ben je niet lang meer vers!$B$BSpreek me nog eens aan. Ik heb taken die ik met je moet bespreken....",
+      "g": [
+        [
+          "kwartiermeester",
+          "quartermaster"
+        ],
+        [
+          "opgedragen",
+          "charged, ordered (opdragen)"
+        ],
+        [
+          "rekruten",
+          "recruits (rekruut)"
+        ],
+        [
+          "voorraden",
+          "supplies (voorraad)"
+        ],
+        [
+          "opslagplaatsen",
+          "caches, stores (opslagplaats)"
+        ],
+        [
+          "mijnen",
+          "mines (mijn)"
+        ],
+        [
+          "waarschijnlijk",
+          "probably"
+        ],
+        [
+          "stuurt je er op uit",
+          "sends you out (eropuit sturen)"
+        ],
+        [
+          "verse",
+          "fresh (vers)"
+        ],
+        [
+          "bespreken",
+          "to discuss"
+        ]
+      ]
+    },
+    "7122": {
+      "t": "Verover een mijn",
+      "d": "De mijnen in Alterac Valley bevatten meer dan alleen mineralen. Zowel de Frostwolf als de Stormpike hebben extra voorraden verborgen in de Irondeep- en Coldtooth-mijnen... dat is geen slecht idee, als we ze maar onder controle konden houden!$B$BVerover een mijn en keer dan terug naar mij. Om een mijn te veroveren, ga je een mijn binnen die niet van ons is en dood je de leider. Als je dat doet, is de mijn van ons, en sturen we troepen om hem te beschermen!",
+      "o": "Verover een mijn die de Stormpike niet in handen heeft en keer dan terug naar Sergeant Durgen Stormpike in de Alterac Mountains.",
+      "p": "Je hebt de mijn nog niet veroverd, $N!$B$BAls we een mijn in handen hebben, is het veel makkelijker om er mineralen en voorraden uit te halen.",
+      "c": "Het is je gelukt! Goed gedaan, $N!$B$BAls we een mijn in handen hebben en er troepen gelegerd zijn, is het veel makkelijker om er mineralen en voorraden uit te halen.",
+      "o1": "Mijn veroverd",
+      "g": [
+        [
+          "verover",
+          "capture (veroveren)"
+        ],
+        [
+          "bevatten",
+          "hold, contain"
+        ],
+        [
+          "mineralen",
+          "minerals (mineraal)"
+        ],
+        [
+          "verborgen",
+          "cached, hidden (verbergen)"
+        ],
+        [
+          "onder controle houden",
+          "to maintain control"
+        ],
+        [
+          "beschermen",
+          "to protect"
+        ],
+        [
+          "in handen heeft",
+          "controls (in handen hebben)"
+        ],
+        [
+          "veroverd",
+          "captured (veroveren)"
+        ],
+        [
+          "gelegerd",
+          "stationed (legeren)"
+        ]
+      ]
+    },
+    "7141": {
+      "t": "De strijd om Alterac",
+      "d": "De Explorers' League denkt dat er artefacten in Alterac Valley liggen, maar de orcs van de Frostwolf laten ons niet op onderzoek gaan. We mogen niet toestaan dat de Horde ons wetenschappelijke werk tegenhoudt! Versla de generaal van de Frostwolf, Drek'Thar. Als hij dood is, raken de orcs hun voordeel kwijt.$B$BDrek'Thar zit in Frostwolf Keep, in het zuiden van Alterac Valley. Versla hem en keer dan terug naar mij.",
+      "o": "Ga Alterac Valley binnen, versla Drek'thar, de generaal van de Horde, en keer dan terug naar Prospector Stonehewer in de Alterac Mountains.",
+      "p": "Ga, $N. Ga naar Alterac Valley en versla de generaal van de orcs!",
+      "c": "Goed gedaan, $N! Nu de Horde na de dood van hun generaal een bloedneus heeft opgelopen, hebben we de ademruimte die we nodig hebben om op onderzoek te gaan!",
+      "e": "Versla Drek'thar.",
+      "g": [
+        [
+          "artefacten",
+          "artifacts (artefact)"
+        ],
+        [
+          "op onderzoek gaan",
+          "to explore, to investigate"
+        ],
+        [
+          "toestaan",
+          "to allow"
+        ],
+        [
+          "wetenschappelijke",
+          "scholarly, scientific (wetenschappelijk)"
+        ],
+        [
+          "tegenhoudt",
+          "stops (tegenhouden)"
+        ],
+        [
+          "versla",
+          "defeat (verslaan)"
+        ],
+        [
+          "generaal",
+          "general"
+        ],
+        [
+          "voordeel kwijt",
+          "lose their edge (voordeel kwijtraken)"
+        ],
+        [
+          "bloedneus",
+          "bloody nose"
+        ],
+        [
+          "opgelopen",
+          "suffered, got (oplopen)"
+        ],
+        [
+          "ademruimte",
+          "breathing room"
+        ]
+      ]
+    },
+    "7162": {
+      "t": "Proefterrein",
+      "d": "Je bent net op tijd, $c. Deze wilden van de Frostwolf geven het gewoon niet op! We moeten hun de macht van de Stormpike laten zien. Ze moeten buigen voor onze superioriteit.$B$BVoordat je naar het slagveld gaat, wil je je vast bij de rangen van de Stormpike aansluiten.$B$BTen zuidwesten van Dun Baldar vind je de Icewing Caverns. Diep in de grotten staat een Stormpike Banner. Trek erop uit en haal die banier terug. Breng hem naar mij, en dan heb je het insigne van een Stormpike-rekruut verdiend.",
+      "o": "Reis naar de Icewing Caverns ten zuidwesten van Dun Baldar in Alterac Valley en haal de Stormpike Banner terug. Breng de Stormpike Banner naar Lieutenant Haggerdin in de Alterac Mountains.",
+      "p": "Pas op voor de harpijen in deze streek, $c. Ze denken er niet twee keer over na om je keel open te rijten!",
+      "c": "Neem dit insigne en draag het met trots, $N. Naarmate je rang bij de Stormpike stijgt, groeit ook het insigne. Kom bij me terug wanneer je meer eer bij de Stormpike verdient, en dan vervang ik je insigne door andere, krachtigere insignes.$B$BMisschien word je ooit een legende op dit slagveld. Als die dag ooit komt, krijg je het Eye of Command.",
+      "g": [
+        [
+          "proefterrein",
+          "proving grounds"
+        ],
+        [
+          "wilden",
+          "savages (wilde)"
+        ],
+        [
+          "buigen",
+          "to bow"
+        ],
+        [
+          "superioriteit",
+          "superiority"
+        ],
+        [
+          "slagveld",
+          "battlefield"
+        ],
+        [
+          "rangen",
+          "ranks (rang)"
+        ],
+        [
+          "aansluiten",
+          "to join"
+        ],
+        [
+          "trek erop uit",
+          "venture forth (erop uittrekken)"
+        ],
+        [
+          "insigne",
+          "insignia, badge"
+        ],
+        [
+          "rekruut",
+          "recruit, initiate"
+        ],
+        [
+          "harpijen",
+          "harpies (harpij)"
+        ],
+        [
+          "open te rijten",
+          "to rip open (openrijten)"
+        ],
+        [
+          "naarmate",
+          "as, in proportion as"
+        ],
+        [
+          "vervang",
+          "replace (vervangen)"
+        ],
+        [
+          "legende",
+          "legend"
+        ]
+      ]
+    },
+    "7168": {
+      "t": "Sta op en word erkend",
+      "p": "De meesten leven niet lang genoeg om boven hun eigen middelmatigheid uit te stijgen. Jij hebt bewezen dat je een voorbeeldige soldaat bent, $c. De tijd is gekomen.$B$BLaat je insigne zien.",
+      "c": "Laat onze vijanden zien dat een soldaat met rang hen heeft neergeslagen! Vecht voor de glorie van Stormpike!$b",
+      "g": [
+        [
+          "erkend",
+          "recognized (erkennen)"
+        ],
+        [
+          "middelmatigheid",
+          "mediocrity"
+        ],
+        [
+          "uit te stijgen",
+          "to rise above (uitstijgen boven)"
+        ],
+        [
+          "bewezen",
+          "proven (bewijzen)"
+        ],
+        [
+          "voorbeeldige",
+          "exemplary (voorbeeldig)"
+        ],
+        [
+          "insigne",
+          "insignia, badge"
+        ],
+        [
+          "rang",
+          "rank"
+        ],
+        [
+          "neergeslagen",
+          "struck down (neerslaan)"
+        ],
+        [
+          "glorie",
+          "glory"
+        ]
+      ]
+    },
+    "7169": {
+      "t": "Geëerd binnen de wacht",
+      "p": "De basis gonst van het nieuws over je daden in het Field of Strife! Je hebt onze vijand zware slagen toegebracht en hun moreel gebroken! Daarom heb je een eervolle rang bij de Stormpike verdiend.$B$BLaat je insigne zien.",
+      "c": "De koning weet van je heldendaden aan het front, $c. Ga door met je standvastige verdediging van de Stormpike Guard!",
+      "g": [
+        [
+          "geëerd",
+          "honoured (eren)"
+        ],
+        [
+          "wacht",
+          "guard"
+        ],
+        [
+          "gonst",
+          "buzzes (gonzen)"
+        ],
+        [
+          "daden",
+          "deeds, exploits (daad)"
+        ],
+        [
+          "slagen",
+          "blows (slag)"
+        ],
+        [
+          "toegebracht",
+          "dealt, inflicted (toebrengen)"
+        ],
+        [
+          "moreel",
+          "morale"
+        ],
+        [
+          "eervolle",
+          "honourable (eervol)"
+        ],
+        [
+          "heldendaden",
+          "heroic deeds (heldendaad)"
+        ],
+        [
+          "standvastige",
+          "steadfast, stalwart (standvastig)"
+        ],
+        [
+          "verdediging",
+          "defence"
+        ]
+      ]
+    }
+  },
+  "words": {
+    "alterac-rammen": "Alterac rams (ram)",
+    "coldtooth-mijnen": "Coldtooth mines (mijn)",
+    "doll": "doll (English item name: pop)",
+    "effectief": "effective",
+    "elite-eenheden": "elite units (eenheid)",
+    "felgroen": "bright green",
+    "frostwolf-krijgers": "Frostwolf warriors (krijger)",
+    "gifzaken": "poison business, poison operations (gifzaak)",
+    "hoodoo": "hoodoo: folk magic (English object name)",
+    "idol": "idol (English item name: afgodsbeeld)",
+    "jinxed": "jinxed, cursed (English object name: behekst)",
+    "krikken": "to jack up (opkrikken: to boost)",
+    "machtigs": "something powerful (machtig)",
+    "opengaan": "to open (up)",
+    "ouds": "something old (oud)",
+    "piles": "piles (English object name: hopen)",
+    "punctured": "punctured, pierced (English item name: doorprikt)",
+    "qiraji-regalia": "Qiraji regalia",
+    "qiraji-wapens": "Qiraji weapons (wapen)",
+    "rijten": "to tear (openrijten: to rip open)",
+    "smeedden": "forged (smeden); plannen smeden: to plot",
+    "stormpike-rekruut": "Stormpike recruit (rekruut)",
+    "terugneemt": "takes back (terugnemen)",
+    "uthers": "Uther's",
+    "winterax-grotten": "Winterax caves (grot)"
+  },
+  "terms": {
+    "ancients": "Ancients: ancient tree-like spirits who guard the forests in Warcraft"
+  }
+}
