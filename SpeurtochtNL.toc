@@ -71,6 +71,7 @@ Data\Batch_116_Class_Shaman.lua
 Data\Batch_43_Elwynn_Forest.lua
 Data\Batch_117_Class_Shaman.lua
 Data\Batch_44_The_Barrens.lua
+Data\Batch_45_Class_Mage.lua
 
 Display.lua
 Reader.lua
