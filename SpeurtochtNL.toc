@@ -99,6 +99,7 @@ Data\Batch_129_Stonetalon_Mountains.lua
 Data\Batch_58_Un_Goro_Crater.lua
 Data\Batch_130_Ashenvale.lua
 Data\Batch_59_Felwood.lua
+Data\Batch_60_Felwood.lua
 
 Display.lua
 Reader.lua
