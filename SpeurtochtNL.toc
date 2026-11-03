@@ -161,6 +161,7 @@ Data\Batch_101_Naxxramas.lua
 Data\Batch_91_Darnassus.lua
 Data\Batch_100_Lunar_Festival.lua
 Data\Batch_99_Invasion.lua
+Data\Batch_92_Zone_1116.lua
 Data\Batch_98_Ahn_Qiraj.lua
 
 Display.lua
