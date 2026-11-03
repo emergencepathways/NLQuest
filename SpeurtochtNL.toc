@@ -117,6 +117,7 @@ Data\Batch_67_Western_Plaguelands.lua
 Data\Batch_138_Desolace.lua
 Data\Batch_68_Western_Plaguelands.lua
 Data\Batch_139_Arathi_Highlands.lua
+Data\Batch_69_Eastern_Plaguelands.lua
 
 Display.lua
 Reader.lua
