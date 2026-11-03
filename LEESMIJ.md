@@ -20,21 +20,62 @@ Speurtocht.NL laat de teksten van quests in het Nederlands zien. De rest van het
 
 **Met een addonmanager:** zoek **Speurtocht.NL** in de CurseForge-app of in WowUp en klik op Install. Updates komen dan vanzelf.
 
-**Met de hand:**
+**Met de hand:** klik op je systeem om de stappen te zien.
 
-1. Download **[SpeurtochtNL.zip](https://github.com/emergencepathways/NLQuest/releases/latest/download/SpeurtochtNL.zip)** (altijd de nieuwste versie) en pak het uit. Je krijgt een map met de naam `SpeurtochtNL`.
-   Gebruik niet de groene knop **Code › Download ZIP** op GitHub: dan krijg je een map met de naam `NLQuest-main`, en die laadt het spel niet.
-2. Kopieer die map naar de AddOns-map van het spel:
-   - **Windows:** `C:\Program Files (x86)\World of Warcraft\_classic_era_\Interface\AddOns\`
-   - **macOS:** `/Applications/World of Warcraft/_classic_era_/Interface/AddOns/`
-   - **Linux (Steam/Proton):**
-     ```
-     ~/.local/share/Steam/steamapps/compatdata/<nummer>/pfx/drive_c/Program Files (x86)/World of Warcraft/_classic_era_/Interface/AddOns/
-     ```
-   Voor Forever gebruik je de map van Forever in plaats van `_classic_era_`. Die map verschijnt als je Forever hebt geïnstalleerd en één keer hebt gestart. Is er nog geen map `AddOns`? Maak hem dan zelf.
-3. Controleer dat het bestand op `AddOns/SpeurtochtNL/SpeurtochtNL.toc` staat, en niet een map dieper.
-4. Open in het personagescherm **AddOns** en zet een vinkje bij **Speurtocht.NL**. Staat er "out of date"? Zet dan een vinkje bij **Load out of date AddOns**. Dat gebeurt als Blizzard het spel bijwerkt voordat de addon is bijgewerkt.
-5. Staat er nog een oude versie met de naam **NederQuest** in de AddOns-map? Verwijder die. Anders werken beide versies tegelijk.
+<details>
+<summary><b>🪟 Windows</b></summary>
+
+<br>
+
+1. Download **[SpeurtochtNL.zip](https://github.com/emergencepathways/NLQuest/releases/latest/download/SpeurtochtNL.zip)** (altijd de nieuwste versie).
+2. Klik met de rechtermuisknop op het zip-bestand en kies **Alles uitpakken…**. Je krijgt een map met de naam `SpeurtochtNL`.
+3. Open de Verkenner en ga naar de AddOns-map van het spel:
+   ```
+   C:\Program Files (x86)\World of Warcraft\_classic_era_\Interface\AddOns\
+   ```
+   Staat WoW ergens anders? Klik in de Battle.net-app op het tandwiel naast **Play** › **Show in Explorer**, en open dan `_classic_era_\Interface\AddOns`.
+4. Kopieer de map `SpeurtochtNL` naar `AddOns`.
+
+</details>
+
+<details>
+<summary><b>🍎 macOS</b></summary>
+
+<br>
+
+1. Download **[SpeurtochtNL.zip](https://github.com/emergencepathways/NLQuest/releases/latest/download/SpeurtochtNL.zip)** (altijd de nieuwste versie).
+2. Dubbelklik op het zip-bestand in **Downloads**. Je krijgt een map met de naam `SpeurtochtNL`.
+3. Kies in de Finder **Ga › Ga naar map…** en plak:
+   ```
+   /Applications/World of Warcraft/_classic_era_/Interface/AddOns/
+   ```
+4. Sleep de map `SpeurtochtNL` naar `AddOns`.
+
+</details>
+
+<details>
+<summary><b>🐧 Linux</b></summary>
+
+<br>
+
+1. Download **[SpeurtochtNL.zip](https://github.com/emergencepathways/NLQuest/releases/latest/download/SpeurtochtNL.zip)** (altijd de nieuwste versie).
+2. Pak het uit, bijvoorbeeld met `unzip SpeurtochtNL.zip`. Je krijgt een map met de naam `SpeurtochtNL`.
+3. Zoek de AddOns-map van het spel. Met **Steam/Proton** is dat:
+   ```
+   ~/.local/share/Steam/steamapps/compatdata/<nummer>/pfx/drive_c/Program Files (x86)/World of Warcraft/_classic_era_/Interface/AddOns/
+   ```
+   Met **Lutris** of **Wine** is het meestal `~/Games/<naam>/drive_c/Program Files (x86)/World of Warcraft/_classic_era_/Interface/AddOns/`, of hetzelfde pad in `~/.wine/`.
+4. Kopieer de map `SpeurtochtNL` naar `AddOns`.
+
+</details>
+
+**Op elk systeem:**
+
+- Gebruik niet de groene knop **Code › Download ZIP** op GitHub: dan krijg je een map met de naam `NLQuest-main`, en die laadt het spel niet.
+- Voor **Forever** gebruik je de map van Forever in plaats van `_classic_era_`. Die map verschijnt als je Forever hebt geïnstalleerd en één keer hebt gestart. Is er nog geen map `AddOns`? Maak hem dan zelf.
+- Controleer dat het bestand op `AddOns/SpeurtochtNL/SpeurtochtNL.toc` staat, en niet een map dieper.
+- Open in het personagescherm **AddOns** en zet een vinkje bij **Speurtocht.NL**. Staat er "out of date"? Zet dan een vinkje bij **Load out of date AddOns**. Dat gebeurt als Blizzard het spel bijwerkt voordat de addon is bijgewerkt.
+- Staat er nog een oude versie met de naam **NederQuest** in de AddOns-map? Verwijder die. Anders werken beide versies tegelijk.
 
 Heb je de addon met de hand geïnstalleerd? Dan staat Speurtocht.NL in WowUp en de CurseForge-app als "unknown", en wordt hij niet bijgewerkt. Wil je automatische updates? Verwijder dan de map en installeer de addon via de app.
 

@@ -20,21 +20,62 @@ Speurtocht.NL shows quest text in Dutch and leaves the rest of the game in Engli
 
 **With an addon manager:** search for **Speurtocht.NL** in the CurseForge app or WowUp and click Install. Updates then arrive by themselves.
 
-**By hand:**
+**By hand:** click your system to see the steps.
 
-1. Download **[SpeurtochtNL.zip](https://github.com/emergencepathways/NLQuest/releases/latest/download/SpeurtochtNL.zip)** (always the newest version) and unzip it. You get a folder called `SpeurtochtNL`.
-   Don't use the green **Code › Download ZIP** button on GitHub: that gives a folder called `NLQuest-main`, which the game won't load.
-2. Copy that folder into the game's AddOns folder:
-   - **Windows:** `C:\Program Files (x86)\World of Warcraft\_classic_era_\Interface\AddOns\`
-   - **macOS:** `/Applications/World of Warcraft/_classic_era_/Interface/AddOns/`
-   - **Linux (Steam/Proton):**
-     ```
-     ~/.local/share/Steam/steamapps/compatdata/<number>/pfx/drive_c/Program Files (x86)/World of Warcraft/_classic_era_/Interface/AddOns/
-     ```
-   For Forever, use the Forever game folder instead of `_classic_era_`. It appears after you install Forever and start it once. If the `AddOns` folder doesn't exist yet, create it.
-3. Check the folder sits at `AddOns/SpeurtochtNL/SpeurtochtNL.toc`, not one level deeper.
-4. On the character screen, open **AddOns** and make sure **Speurtocht.NL** is ticked. If it says "out of date", tick **Load out of date AddOns**. That happens when Blizzard updates the game before the addon is updated.
-5. If an older version called **NederQuest** is in the AddOns folder, delete it. Otherwise both versions run at the same time.
+<details>
+<summary><b>🪟 Windows</b></summary>
+
+<br>
+
+1. Download **[SpeurtochtNL.zip](https://github.com/emergencepathways/NLQuest/releases/latest/download/SpeurtochtNL.zip)** (always the newest version).
+2. Right-click the zip and choose **Extract All…**. You get a folder called `SpeurtochtNL`.
+3. Open File Explorer and go to the game's AddOns folder:
+   ```
+   C:\Program Files (x86)\World of Warcraft\_classic_era_\Interface\AddOns\
+   ```
+   Installed WoW somewhere else? In the Battle.net app, click the gear next to **Play** › **Show in Explorer**, then open `_classic_era_\Interface\AddOns`.
+4. Copy the `SpeurtochtNL` folder into `AddOns`.
+
+</details>
+
+<details>
+<summary><b>🍎 macOS</b></summary>
+
+<br>
+
+1. Download **[SpeurtochtNL.zip](https://github.com/emergencepathways/NLQuest/releases/latest/download/SpeurtochtNL.zip)** (always the newest version).
+2. Double-click the zip in **Downloads**. You get a folder called `SpeurtochtNL`.
+3. In Finder, choose **Go › Go to Folder…** and paste:
+   ```
+   /Applications/World of Warcraft/_classic_era_/Interface/AddOns/
+   ```
+4. Drag the `SpeurtochtNL` folder into `AddOns`.
+
+</details>
+
+<details>
+<summary><b>🐧 Linux</b></summary>
+
+<br>
+
+1. Download **[SpeurtochtNL.zip](https://github.com/emergencepathways/NLQuest/releases/latest/download/SpeurtochtNL.zip)** (always the newest version).
+2. Unzip it, for example with `unzip SpeurtochtNL.zip`. You get a folder called `SpeurtochtNL`.
+3. Find the game's AddOns folder. With **Steam/Proton** it is:
+   ```
+   ~/.local/share/Steam/steamapps/compatdata/<number>/pfx/drive_c/Program Files (x86)/World of Warcraft/_classic_era_/Interface/AddOns/
+   ```
+   With **Lutris** or **Wine** it is usually `~/Games/<name>/drive_c/Program Files (x86)/World of Warcraft/_classic_era_/Interface/AddOns/`, or the same path under `~/.wine/`.
+4. Copy the `SpeurtochtNL` folder into `AddOns`.
+
+</details>
+
+**On every system:**
+
+- Don't use the green **Code › Download ZIP** button on GitHub: that gives a folder called `NLQuest-main`, which the game won't load.
+- For **Forever**, use the Forever game folder instead of `_classic_era_`. It appears after you install Forever and start it once. If the `AddOns` folder doesn't exist yet, create it.
+- Check the folder sits at `AddOns/SpeurtochtNL/SpeurtochtNL.toc`, not one level deeper.
+- On the character screen, open **AddOns** and make sure **Speurtocht.NL** is ticked. If it says "out of date", tick **Load out of date AddOns**. That happens when Blizzard updates the game before the addon is updated.
+- If an older version called **NederQuest** is in the AddOns folder, delete it. Otherwise both versions run at the same time.
 
 If you installed by hand, WowUp and the CurseForge app list Speurtocht.NL as "unknown" and won't update it. To get automatic updates, remove the folder and install it through the app instead.
 
