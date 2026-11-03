@@ -70,6 +70,7 @@ Data\Batch_42_Stormwind_City.lua
 Data\Batch_116_Class_Shaman.lua
 Data\Batch_43_Elwynn_Forest.lua
 Data\Batch_117_Class_Shaman.lua
+Data\Batch_44_The_Barrens.lua
 
 Display.lua
 Reader.lua
