@@ -1,6 +1,7 @@
 # Changelog
 
 ## Unreleased
+- Batch 92: Feralas, Tanaris, Western Plaguelands and Darkmoon Faire level 50–60 quests (the Morrowgrain chain with Quintis Jonespyre, An OOX of Your Own, Valorfist's Clear the Way and All Along the Watchtowers, the Scholomance Skeleton Key chain, the four Darkmoon card decks and the Darkmoon Faire ticket turn-ins) (28 quests, 4070 in total).
 - Batch 99: Scourge Invasion (Argent Dawn call to arms, letters from the front, Argent Quartermaster rewards), the Thunderfury and Atiesh legendary quests, and the Lunar Festival elders and Valadar Starsong (73 quests, 4042 in total).
 - Batch 100: Lunar Festival (Moonglade invitation, Ironforge/Stormwind/Darnassus harbingers, Coins of Ancestry vendor quests), Midsummer Fire Festival (Wild Fires, flame-stealing quests), Molten Core attunement and Thorium Brotherhood favor, and Naxxramas (Echoes of War, Dreadnaught and Redemption armor) (40 quests, 3969 in total).
 - Batch 91: Darnassus and Stormwind City level 50–60 quests (A Call to Arms: The Plaguelands!, The New Frontier chain to Rabine Saturna, March of the Silithid, Calm Before the Storm, Jonespyre's Request, Good Natured Emma, The First and the Last chain, The Lord of Blackrock, cloth donations) and the Tailoring Shadoweaver and Undermarket quests (32 quests, 3929 in total).
