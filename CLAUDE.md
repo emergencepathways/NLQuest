@@ -29,7 +29,7 @@ git add -A && git commit               # subject "Batch NN: <zones> (<n> quests)
 git push -u origin batch-NN
 ```
 
-After the push, GitHub's *Batch auto-merge* workflow opens the pull request (its description is the commit
+After the push, GitHub's *Batch auto-merge* workflow (`tools/automerge.py`, a merge queue) opens the pull request (its description is the commit
 body, so the Added / Changed / Corrected notes must be in the commit), syncs the branch with main, rebuilds
 `SpeurtochtNL.toc`, `Data/Namen.lua` and `CHANGELOG.md`, runs the checks and merges. There is no need to
 check that earlier batches are merged, and no manual merge step.
@@ -41,7 +41,9 @@ The session may push branches and commits, but not tags or branch deletions.
 never pick the same batch. If it says a lane is finished, that lane helps the other one from its far end;
 if it prints ALL DONE, tell the user.
 
-### "Fix batch NN" (the auto-merge left a comment saying it couldn't merge)
+### "Fix batch NN" (the auto-merge left a comment with the error on its pull request)
+
+Read that comment first (`gh pr view batch-NN --comments` or the GitHub API); it holds the real error.
 
 ```bash
 git fetch origin && git switch batch-NN && git merge origin/main
@@ -76,6 +78,6 @@ One batch per turn (~4,000 English words). Read only `work/batch_NN.txt` for sou
 - `Core.lua Text.lua Display.lua Reader.lua Vocab.lua Report.lua Capture.lua Options.lua`: the addon.
 - `Data/`: translations. `Batch_NN_*.lua` are generated from `batches/NN-*.json` — edit the JSON, never the Lua.
 - `route.txt` → `tools/plan_batches.py` → `source/batches.json` (the plan). `source/catalog.json` = English source (VMaNGOS).
-- `tools/`: pipeline, Anki sync, capture conversion, test harness, `sync_batch.py` (merge-time rebuild). `docs/`: STYLE.md, WORKFLOW.md.
+- `tools/`: pipeline, Anki sync, capture conversion, test harness, `automerge.py` + `sync_batch.py` (the merge queue). `docs/`: STYLE.md, WORKFLOW.md.
 - `changes/NN.md`: per-batch CHANGELOG fragments. `.github/workflows/batch-automerge.yml`: the auto-merge.
 - Releases: bump version in `Core.lua` and `SpeurtochtNL.toc`, move CHANGELOG "Unreleased" to a version heading.
