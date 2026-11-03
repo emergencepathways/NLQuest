@@ -1,0 +1,1622 @@
+{
+ "quests": {
+  "4102": {
+   "t": "Felwood reinigen",
+   "d": "Planten geven leven aan Felwood, maar ook zij lijden onder de besmetting van het verderf. Ik weet hoe ik ze kan reinigen, maar die kennis kan ik niet delen met mensen die ik niet ken of niet vertrouw. Bewijs me dat je de zaak van de Cenarion Circle echt wilt steunen!$B$BIn het noorden liggen de Irontree Caverns. De Warpwood-elementalen daar zijn niet meer te reinigen. Ik vraag je om hun sap naar mij te brengen - het heet Blood Amber - zodat ik het kan bestuderen. Ik hoop zo andere vormen van leven hier te redden.",
+   "o": "Breng 15 Blood Amber naar Maybess Riverbreeze in Felwood.",
+   "p": "Ik weet dat Felwood lijdt, $N - en ik lijd met het bos mee! Ik moet trouw blijven aan mijn overtuiging. Als mijn kennis in de verkeerde handen zou vallen, zou dat een ramp zijn voor heel Felwood.$B$BBreng me de Blood Amber van de gedode Warpwood-elementalen. Dan vertrouw ik je genoeg om je te laten helpen een middel tegen het verderf in te zetten.",
+   "c": "Met deze Blood Amber gaan we een manier zoeken om het verderf in Felwood te verslaan. Je hebt me bewezen dat je bereid bent alles te doen wat nodig is voor de Cenarion Circle. Nu vertrouw ik je, vriend.$B$BHet lijkt misschien vreemd dat je je hebt bewezen door de elementalen te doden. Maar het doel - talloze denkende wezens redden - moet de middelen rechtvaardigen. Jij en ik kunnen ons nu richten op het behoud van leven, met de zalven die ik kan maken.$B$B$N, het is tijd om Felwood te reinigen.",
+   "g": [
+    [
+     "reinigen",
+     "to cleanse, purify"
+    ],
+    [
+     "besmetting",
+     "taint, contamination"
+    ],
+    [
+     "verderf",
+     "corruption, ruin"
+    ],
+    [
+     "elementalen",
+     "elementals (elementaal)"
+    ],
+    [
+     "sap",
+     "sap"
+    ],
+    [
+     "overtuiging",
+     "conviction"
+    ],
+    [
+     "ramp",
+     "disaster"
+    ],
+    [
+     "gedode",
+     "slain (doden)"
+    ],
+    [
+     "middel",
+     "means, remedy"
+    ],
+    [
+     "bereid",
+     "willing"
+    ],
+    [
+     "talloze",
+     "countless (talloos)"
+    ],
+    [
+     "rechtvaardigen",
+     "to justify"
+    ],
+    [
+     "behoud",
+     "preservation"
+    ],
+    [
+     "zalven",
+     "salves (zalf)"
+    ]
+   ]
+  },
+  "4108": {
+   "t": "Zalf via de jacht",
+   "p": "Met een Cenarion Beacon kun je een corrupted soul shard zien bij de besmette dieren die voor het grotere goed worden gedood. Ik maal die scherven tot een bruikbaar ingrediënt voor Cenarion plant salve. Met die zalf maken we verdorven planten weer gezond.$b$bIn ruil voor deze scherven geef ik je een paar Cenarion plant salves die ik al heb klaargemaakt.",
+   "c": "Goed dan, hier zijn je Cenarion plant salves. Doorzoek Felwood naar verdorven planten, $n! Waar ze ook zijn, gebruik de zalf die ik je heb gegeven om ze te zuiveren.",
+   "g": [
+    [
+     "zalf",
+     "salve, ointment"
+    ],
+    [
+     "besmette",
+     "tainted (besmet)"
+    ],
+    [
+     "gedood",
+     "killed (doden)"
+    ],
+    [
+     "maal",
+     "grind (malen)"
+    ],
+    [
+     "scherven",
+     "shards (scherf)"
+    ],
+    [
+     "bruikbaar",
+     "usable"
+    ],
+    [
+     "ingrediënt",
+     "ingredient, reagent"
+    ],
+    [
+     "verdorven",
+     "corrupted"
+    ],
+    [
+     "in ruil voor",
+     "in exchange for"
+    ],
+    [
+     "klaargemaakt",
+     "prepared (klaarmaken)"
+    ],
+    [
+     "doorzoek",
+     "search, scour (doorzoeken)"
+    ],
+    [
+     "zuiveren",
+     "to purify"
+    ]
+   ]
+  },
+  "4109": {
+   "t": "Zalf via mijnbouw",
+   "p": "Als je een Cenarion beacon bij je hebt terwijl je in Felwood erts delft, kun je tainted vitriol zien. Dat bederft een ader van ruw metaal. Ik weet hoe ik dat vitriool kan zuiveren en er een ingrediënt voor Cenarion plant salve van kan maken. Die zalf gebruik je daarna op planten in het wild die gered moeten worden.$b$bAls je tainted vitriol hebt verzameld, geef ik je wat Cenarion plant salve die ik al heb klaargemaakt.",
+   "c": "Goed dan, hier is wat Cenarion plant salve. Als je meer vitriool vindt wanneer je in Felwood erts delft, bewaar het dan voor mij! Hoe meer je ervan vindt, hoe meer zalf ik kan maken.",
+   "g": [
+    [
+     "mijnbouw",
+     "mining"
+    ],
+    [
+     "erts",
+     "ore"
+    ],
+    [
+     "delft",
+     "mine, dig (delven)"
+    ],
+    [
+     "bederft",
+     "spoils, corrupts (bederven)"
+    ],
+    [
+     "ader",
+     "vein"
+    ],
+    [
+     "ruw",
+     "raw"
+    ],
+    [
+     "vitriool",
+     "vitriol"
+    ],
+    [
+     "zuiveren",
+     "to purify"
+    ],
+    [
+     "in het wild",
+     "in the wild"
+    ],
+    [
+     "gered",
+     "saved (redden)"
+    ],
+    [
+     "bewaar",
+     "keep, hold on to (bewaren)"
+    ]
+   ]
+  },
+  "4110": {
+   "t": "Zalf via verzamelen",
+   "p": "Met een Cenarion beacon kan een ervaren kruidenzoeker het verraderlijke fel creep zien - een kwaadaardig product van het verderf in Felwood. Door mijn werk hier heb ik geleerd hoe ik fel creep kan zuiveren tot een reinigend ingrediënt... voor wat we nu Cenarion plant salve noemen.$b$bAls je in Felwood kruiden plukt, kom je fel creep tegen, zolang je de beacon bij je hebt. In ruil voor wat je me brengt, geef ik je kant-en-klare Cenarion plant salve.",
+   "c": "Uitstekend werk, $n - zodra we het gezuiverd hebben, helpt elk stukje hiervan ons om Felwood terug te nemen. Hier, neem een paar doses Cenarion plant salve en ga het bos in. Het terugwinnen van het land op het verderf wacht op geen enkele $r!",
+   "g": [
+    [
+     "ervaren",
+     "experienced"
+    ],
+    [
+     "kruidenzoeker",
+     "herbalist"
+    ],
+    [
+     "verraderlijke",
+     "insidious, treacherous (verraderlijk)"
+    ],
+    [
+     "kwaadaardig",
+     "malicious, evil"
+    ],
+    [
+     "verderf",
+     "corruption"
+    ],
+    [
+     "reinigend",
+     "cleansing"
+    ],
+    [
+     "plukt",
+     "pick (plukken)"
+    ],
+    [
+     "zolang",
+     "as long as"
+    ],
+    [
+     "kant-en-klare",
+     "ready-made (kant-en-klaar)"
+    ],
+    [
+     "gezuiverd",
+     "purified (zuiveren)"
+    ],
+    [
+     "doses",
+     "doses (dosis)"
+    ],
+    [
+     "terugwinnen",
+     "reclaiming, winning back"
+    ]
+   ]
+  },
+  "4111": {
+   "t": "Zalf via villen",
+   "p": "Met een Cenarion beacon kan een goed getrainde viller stukken besmette huid zien op de buit die in Felwood is verzameld. Ik verwerk deze schijnbaar nutteloze stukken tot een dikke pasta, een versnellend middel voor Cenarion plant salve. Zorg dat je een beacon bij je hebt als je hier in Felwood je buit vilt!$b$bAls je besmette stukken huid verzamelt, breng ze dan naar mij. Dan geef ik je een paar Cenarion plant salves die ik al heb gemaakt.",
+   "c": "Dit is precies wat ik nodig heb. Hier - neem deze plant salves en gebruik ze om Felwood terug te winnen op het verderf. We moeten volhouden, $n!",
+   "g": [
+    [
+     "villen",
+     "skinning, to skin"
+    ],
+    [
+     "viller",
+     "skinner"
+    ],
+    [
+     "besmette",
+     "tainted (besmet)"
+    ],
+    [
+     "buit",
+     "loot, bounty"
+    ],
+    [
+     "verwerk",
+     "process, turn into (verwerken)"
+    ],
+    [
+     "schijnbaar",
+     "seemingly"
+    ],
+    [
+     "nutteloze",
+     "useless (nutteloos)"
+    ],
+    [
+     "pasta",
+     "paste"
+    ],
+    [
+     "versnellend",
+     "quickening, speeding up"
+    ],
+    [
+     "vilt",
+     "skin (villen)"
+    ],
+    [
+     "terug te winnen",
+     "to reclaim (terugwinnen)"
+    ],
+    [
+     "volhouden",
+     "to persevere"
+    ]
+   ]
+  },
+  "4112": {
+   "t": "Zalf via onttoveren",
+   "p": "De kracht van een onttoverd magisch voorwerp voel je aan de essentie die het oplevert. Ik heb een manier bedacht om ruwe essentie, die betoveraars gebruiken, om te zetten in een geschikt ingrediënt voor Cenarion plant salve. Hiervoor heb je geen Cenarion beacon nodig: elk onttoverd voorwerp dat lesser nether essences oplevert, is goed.$b$bIk heb maar één lesser nether essence nodig. In ruil daarvoor geef ik je Cenarion plant salves. De essentie is heel krachtig - een klein beetje helpt echt al veel!",
+   "c": "Hier zijn wat Cenarion plant salves - ik heb hiervoor maar één lesser nether essence nodig, $n. Essentie is veruit het krachtigste wat ik kan gebruiken om zwaarden in ploegscharen te veranderen, zogezegd. Als je meer zalf nodig hebt, kom me dan hier opzoeken!",
+   "g": [
+    [
+     "onttoveren",
+     "disenchanting, to disenchant"
+    ],
+    [
+     "onttoverd",
+     "disenchanted"
+    ],
+    [
+     "essentie",
+     "essence"
+    ],
+    [
+     "oplevert",
+     "yields (opleveren)"
+    ],
+    [
+     "bedacht",
+     "devised (bedenken)"
+    ],
+    [
+     "betoveraars",
+     "enchanters (betoveraar)"
+    ],
+    [
+     "om te zetten",
+     "to convert (omzetten)"
+    ],
+    [
+     "geschikt",
+     "suitable"
+    ],
+    [
+     "krachtig",
+     "potent, powerful"
+    ],
+    [
+     "veruit",
+     "by far"
+    ],
+    [
+     "ploegscharen",
+     "plowshares (ploegschaar)"
+    ],
+    [
+     "zogezegd",
+     "so to speak, as it were"
+    ]
+   ]
+  },
+  "5887": {
+   "t": "Zalf via de jacht",
+   "p": "Met een Cenarion Beacon kun je een corrupted soul shard zien bij de besmette dieren die voor het grotere goed worden gedood. Ik maal die scherven tot een bruikbaar ingrediënt voor Cenarion plant salve. Met die zalf maken we verdorven planten weer gezond.$b$bIn ruil voor deze scherven geef ik je een paar Cenarion plant salves die ik al heb klaargemaakt.",
+   "c": "Goed dan, hier zijn je Cenarion plant salves. Doorzoek Felwood naar verdorven planten, $n! Waar ze ook zijn, gebruik de zalf die ik je heb gegeven om ze te zuiveren.",
+   "g": [
+    [
+     "zalf",
+     "salve, ointment"
+    ],
+    [
+     "besmette",
+     "tainted (besmet)"
+    ],
+    [
+     "gedood",
+     "killed (doden)"
+    ],
+    [
+     "maal",
+     "grind (malen)"
+    ],
+    [
+     "scherven",
+     "shards (scherf)"
+    ],
+    [
+     "bruikbaar",
+     "usable"
+    ],
+    [
+     "ingrediënt",
+     "ingredient, reagent"
+    ],
+    [
+     "verdorven",
+     "corrupted"
+    ],
+    [
+     "in ruil voor",
+     "in exchange for"
+    ],
+    [
+     "klaargemaakt",
+     "prepared (klaarmaken)"
+    ],
+    [
+     "doorzoek",
+     "search, scour (doorzoeken)"
+    ],
+    [
+     "zuiveren",
+     "to purify"
+    ]
+   ]
+  },
+  "5888": {
+   "t": "Zalf via mijnbouw",
+   "p": "Als je een Cenarion beacon bij je hebt terwijl je in Felwood erts delft, kun je tainted vitriol zien. Dat bederft een ader van ruw metaal. Ik weet hoe ik dat vitriool kan zuiveren en er een ingrediënt voor Cenarion plant salve van kan maken. Die zalf gebruik je daarna op planten in het wild die gered moeten worden.$b$bAls je tainted vitriol hebt verzameld, geef ik je wat Cenarion plant salve die ik al heb klaargemaakt.",
+   "c": "Goed dan, hier is wat Cenarion plant salve. Als je meer vitriool vindt wanneer je in Felwood erts delft, bewaar het dan voor mij! Hoe meer je ervan vindt, hoe meer zalf ik kan maken.",
+   "g": [
+    [
+     "mijnbouw",
+     "mining"
+    ],
+    [
+     "erts",
+     "ore"
+    ],
+    [
+     "delft",
+     "mine, dig (delven)"
+    ],
+    [
+     "bederft",
+     "spoils, corrupts (bederven)"
+    ],
+    [
+     "ader",
+     "vein"
+    ],
+    [
+     "ruw",
+     "raw"
+    ],
+    [
+     "vitriool",
+     "vitriol"
+    ],
+    [
+     "zuiveren",
+     "to purify"
+    ],
+    [
+     "in het wild",
+     "in the wild"
+    ],
+    [
+     "gered",
+     "saved (redden)"
+    ],
+    [
+     "bewaar",
+     "keep, hold on to (bewaren)"
+    ]
+   ]
+  },
+  "5889": {
+   "t": "Zalf via verzamelen",
+   "p": "Met een Cenarion beacon kan een ervaren kruidenzoeker het verraderlijke fel creep zien - een kwaadaardig product van het verderf in Felwood. Door mijn werk hier heb ik geleerd hoe ik fel creep kan zuiveren tot een reinigend ingrediënt... voor wat we nu Cenarion plant salve noemen.$b$bAls je in Felwood kruiden plukt, kom je fel creep tegen, zolang je de beacon bij je hebt. In ruil voor wat je me brengt, geef ik je kant-en-klare Cenarion plant salve.",
+   "c": "Uitstekend werk, $n - zodra we het gezuiverd hebben, helpt elk stukje hiervan ons om Felwood terug te nemen. Hier, neem een paar doses Cenarion plant salve en ga het bos in. Het terugwinnen van het land op het verderf wacht op geen enkele $r!",
+   "g": [
+    [
+     "ervaren",
+     "experienced"
+    ],
+    [
+     "kruidenzoeker",
+     "herbalist"
+    ],
+    [
+     "verraderlijke",
+     "insidious, treacherous (verraderlijk)"
+    ],
+    [
+     "kwaadaardig",
+     "malicious, evil"
+    ],
+    [
+     "verderf",
+     "corruption"
+    ],
+    [
+     "reinigend",
+     "cleansing"
+    ],
+    [
+     "plukt",
+     "pick (plukken)"
+    ],
+    [
+     "zolang",
+     "as long as"
+    ],
+    [
+     "kant-en-klare",
+     "ready-made (kant-en-klaar)"
+    ],
+    [
+     "gezuiverd",
+     "purified (zuiveren)"
+    ],
+    [
+     "doses",
+     "doses (dosis)"
+    ],
+    [
+     "terugwinnen",
+     "reclaiming, winning back"
+    ]
+   ]
+  },
+  "5890": {
+   "t": "Zalf via villen",
+   "p": "Met een Cenarion beacon kan een goed getrainde viller stukken besmette huid zien op de buit die in Felwood is verzameld. Ik verwerk deze schijnbaar nutteloze stukken tot een dikke pasta, een versnellend middel voor Cenarion plant salve. Zorg dat je een beacon bij je hebt als je hier in Felwood je buit vilt!$b$bAls je besmette stukken huid verzamelt, breng ze dan naar mij. Dan geef ik je een paar Cenarion plant salves die ik al heb gemaakt.",
+   "c": "Dit is precies wat ik nodig heb. Hier - neem deze plant salves en gebruik ze om Felwood terug te winnen op het verderf. We moeten volhouden, $n!",
+   "g": [
+    [
+     "villen",
+     "skinning, to skin"
+    ],
+    [
+     "viller",
+     "skinner"
+    ],
+    [
+     "besmette",
+     "tainted (besmet)"
+    ],
+    [
+     "buit",
+     "loot, bounty"
+    ],
+    [
+     "verwerk",
+     "process, turn into (verwerken)"
+    ],
+    [
+     "schijnbaar",
+     "seemingly"
+    ],
+    [
+     "nutteloze",
+     "useless (nutteloos)"
+    ],
+    [
+     "pasta",
+     "paste"
+    ],
+    [
+     "versnellend",
+     "quickening, speeding up"
+    ],
+    [
+     "vilt",
+     "skin (villen)"
+    ],
+    [
+     "terug te winnen",
+     "to reclaim (terugwinnen)"
+    ],
+    [
+     "volhouden",
+     "to persevere"
+    ]
+   ]
+  },
+  "5891": {
+   "t": "Zalf via onttoveren",
+   "p": "De kracht van een onttoverd magisch voorwerp voel je aan de essentie die het oplevert. Ik heb een manier bedacht om ruwe essentie, die betoveraars gebruiken, om te zetten in een geschikt ingrediënt voor Cenarion plant salve. Hiervoor heb je geen Cenarion beacon nodig: elk onttoverd voorwerp dat lesser nether essences oplevert, is goed.$b$bIk heb maar één lesser nether essence nodig. In ruil daarvoor geef ik je Cenarion plant salves. De essentie is heel krachtig - een klein beetje helpt echt al veel!",
+   "c": "Hier zijn wat Cenarion plant salves - ik heb hiervoor maar één lesser nether essence nodig, $n. Essentie is veruit het krachtigste wat ik kan gebruiken om zwaarden in ploegscharen te veranderen, zogezegd. Als je meer zalf nodig hebt, kom me dan hier opzoeken!",
+   "g": [
+    [
+     "onttoveren",
+     "disenchanting, to disenchant"
+    ],
+    [
+     "onttoverd",
+     "disenchanted"
+    ],
+    [
+     "essentie",
+     "essence"
+    ],
+    [
+     "oplevert",
+     "yields (opleveren)"
+    ],
+    [
+     "bedacht",
+     "devised (bedenken)"
+    ],
+    [
+     "betoveraars",
+     "enchanters (betoveraar)"
+    ],
+    [
+     "om te zetten",
+     "to convert (omzetten)"
+    ],
+    [
+     "geschikt",
+     "suitable"
+    ],
+    [
+     "krachtig",
+     "potent, powerful"
+    ],
+    [
+     "veruit",
+     "by far"
+    ],
+    [
+     "ploegscharen",
+     "plowshares (ploegschaar)"
+    ],
+    [
+     "zogezegd",
+     "so to speak, as it were"
+    ]
+   ]
+  },
+  "4521": {
+   "t": "Wilde bewakers",
+   "d": "Winterspring ligt net voorbij Timbermaw, ten noordoosten van Felwood. Ben je daar al eens geweest?$B$BIk heb gehoord dat het gebied vol zit met wezens die wildkin heten. Van deze beesten is bekend dat ze geheimen bewaken: geheimen van de nachtelfen.$B$BWe moeten uitzoeken wat er misschien verborgen ligt in Winterspring.$B$BIk heb gehoord dat je de ragged owlbeasts net ten zuiden van de weg kunt vinden. Er zijn ook andere, raging owlbeasts genoemd, die je in het midden van Winterspring kunt vinden. Ruim ze op en krijg zo toegang tot het land.",
+   "o": "Trull Failbane in Felwood wil dat je 15 Raging Owlbeasts en 15 Ragged Owlbeasts doodt.",
+   "p": "Kom terug naar mij als je de taak hebt volbracht die ik je gaf.",
+   "c": "Dit is uitstekend nieuws, $N. Nu deze beesten uit de weg zijn, kunnen we verder Winterspring in trekken. Ben je klaar voor meer?",
+   "g": [
+    [
+     "bewakers",
+     "guardians (bewaker)"
+    ],
+    [
+     "ten noordoosten van",
+     "northeast of"
+    ],
+    [
+     "vol zit met",
+     "is full of (vol zitten met)"
+    ],
+    [
+     "bewaken",
+     "to guard"
+    ],
+    [
+     "nachtelfen",
+     "night elves (nachtelf)"
+    ],
+    [
+     "uitzoeken",
+     "to find out"
+    ],
+    [
+     "verborgen",
+     "hidden"
+    ],
+    [
+     "ruim ... op",
+     "clear out (opruimen)"
+    ],
+    [
+     "toegang",
+     "access"
+    ],
+    [
+     "volbracht",
+     "completed (volbrengen)"
+    ],
+    [
+     "uit de weg",
+     "out of the way"
+    ]
+   ]
+  },
+  "4741": {
+   "t": "Wilde bewakers",
+   "d": "In de noordelijke delen van Winterspring worden de wildkin nog woester. We moeten daar doorgaan met onze maatregelen.$B$BJaag op de moontouched owlbeasts in Winterspring en verken het gebied waar ze leven.$B$BDit is gevaarlijk terrein, maar ik weet dat je de uitdaging aankunt. Kom terug naar mij als je 13 van de wildkin hebt gedood.",
+   "o": "Trull Failbane in Felwood wil dat je jaagt op 13 Moontouched Owlbeasts.",
+   "p": "Zeg me niet dat je te bang bent! Op weg!",
+   "c": "Ik voel dat je plezier hebt in je werk. En ik geloof dat we iets op het spoor zijn.",
+   "g": [
+    [
+     "noordelijke",
+     "northern (noordelijk)"
+    ],
+    [
+     "woester",
+     "fiercer (woest)"
+    ],
+    [
+     "maatregelen",
+     "measures (maatregel)"
+    ],
+    [
+     "jaag op",
+     "hunt (jagen op)"
+    ],
+    [
+     "verken",
+     "explore (verkennen)"
+    ],
+    [
+     "terrein",
+     "ground, terrain"
+    ],
+    [
+     "uitdaging",
+     "challenge"
+    ],
+    [
+     "aankunt",
+     "can handle (aankunnen)"
+    ],
+    [
+     "op het spoor zijn",
+     "to be onto something"
+    ]
+   ]
+  },
+  "4721": {
+   "t": "Wilde bewakers",
+   "d": "Boodschappers zijn teruggekomen uit Winterspring. Ze melden dat er in het zuiden van Winterspring een reeks kleine grotten is. Rond die grotten lijken wildkin te leven. Als ze daar iets waardevols bewaken, dan vinden we het volgens mij op deze plek.$B$BDeze wezens zullen een grotere uitdaging zijn dan de vorige soorten, $N. Ze lijken gek geworden doordat ze blootstaan aan precies datgene wat ze proberen te beschermen.",
+   "o": "Trull Failbane in Felwood wil dat je jaagt op 10 Berserk Owlbeasts in Winterspring.",
+   "p": "Je kent je bevelen, $N.",
+   "c": "Voor hard werken heb ik veel respect, $N. Nu kunnen we verder met onze plannen voor Winterspring.",
+   "g": [
+    [
+     "boodschappers",
+     "runners, messengers (boodschapper)"
+    ],
+    [
+     "melden",
+     "report"
+    ],
+    [
+     "reeks",
+     "series"
+    ],
+    [
+     "grotten",
+     "caves (grot)"
+    ],
+    [
+     "waardevols",
+     "valuable (waardevol)"
+    ],
+    [
+     "soorten",
+     "kinds, types (soort)"
+    ],
+    [
+     "blootstaan aan",
+     "to be exposed to"
+    ],
+    [
+     "datgene wat",
+     "that which"
+    ],
+    [
+     "bevelen",
+     "orders (bevel)"
+    ]
+   ]
+  },
+  "3517": {
+   "t": "Kennis stelen",
+   "d": "Ik geef toe, $N, ik heb het beste gemaakt van mijn situatie in Azshara. De straf van Belgrom heeft ook zijn voordelen gehad.$B$BVoordat ik vertrok, heb ik wat onderzoek gedaan. Je zou verbaasd zijn hoeveel waardevolle spullen er rondslingeren.$B$BIk vertel je meer over mijn zaakjes, en ik geef je zelfs een deel van de winst, als je me helpt er een paar te verzamelen.$B$BIn de Ruins of Eldarath, in het oosten, liggen tabletten die ik nodig heb. Alle vier zijn ze vernoemd naar tovenaars van de Highborne. Haal ze voor me, dan praten we verder.",
+   "o": "Vind het Tablet of Beth'Amara, het Tablet of Jin'yael, het Tablet of Markri en het Tablet of Sael'hai en keer dan terug naar Jediga in Azshara.",
+   "p": "De tabletten die je voor me verzamelt, moeten bij de juiste partijen een flinke duit opbrengen. Als je ze gevonden hebt, vertel ik je bij wie we ze moeten afleveren. Maar ik ben niet gek... je krijgt je deel pas als ik bewijs heb dat ze zijn afgeleverd.$B$BDus aan de slag - we hebben niet de hele dag. Misschien moet ik iemand anders zoeken om me te helpen.",
+   "c": "Perfect, $N, en ook nog in goede staat. Hiermee krijgen we een goede prijs van alle betrokken partijen.$B$BLaten we hier niet langer treuzelen dan nodig is. We hebben geld te verdienen.",
+   "g": [
+    [
+     "geef toe",
+     "admit (toegeven)"
+    ],
+    [
+     "straf",
+     "punishment"
+    ],
+    [
+     "voordelen",
+     "benefits (voordeel)"
+    ],
+    [
+     "verbaasd",
+     "surprised"
+    ],
+    [
+     "rondslingeren",
+     "lie around"
+    ],
+    [
+     "zaakjes",
+     "deals, little business (zaakje)"
+    ],
+    [
+     "winst",
+     "profit"
+    ],
+    [
+     "vernoemd naar",
+     "named after"
+    ],
+    [
+     "een flinke duit",
+     "a pretty penny"
+    ],
+    [
+     "afleveren",
+     "to deliver"
+    ],
+    [
+     "aan de slag",
+     "get to work"
+    ],
+    [
+     "staat",
+     "condition"
+    ],
+    [
+     "betrokken",
+     "concerned, involved"
+    ],
+    [
+     "treuzelen",
+     "to dawdle"
+    ]
+   ]
+  },
+  "3518": {
+   "t": "Levering aan Magatha",
+   "d": "Het eerste tablet gaat naar een taurenvrouw... ze heet Magatha. Ze is een van de oudsten in Thunder Bluff, en ze steunt het bondgenootschap tussen de tauren en de Forsaken. Meer dan wie ook van de oudsten vindt zij dat de tauren en hun gewoonten de Forsaken kunnen helpen om een weg terug te vinden naar het mens-zijn.$B$BBreng haar het Tablet of Beth'Amara. Het tablet is misschien de schakel die ze nodig heeft om een manier te vinden om de Forsaken te helpen... of dat beweert ze tenminste.",
+   "o": "Breng het Tablet of Beth'Amara naar Magatha in Thunder Bluff.",
+   "p": "Ja, $N. Wat kan ik voor je doen? Ik heb veel zaken die mijn aandacht vragen, dus wees alsjeblieft snel.",
+   "c": "Ah, eindelijk, het Tablet of Beth'Amara. Ik vroeg me al af of mijn samenwerking met Jediga mislukt was, of dat de arme orc haar dood had gevonden in Azshara. Ik ben blij dat het haar gelukt is.$B$BBeth'Amara was een van de invloedrijkste alchemisten van de Highborne. Men zei dat deze tovenaar onder andere het omzetten van metalen volledig beheerste.",
+   "g": [
+    [
+     "levering",
+     "delivery"
+    ],
+    [
+     "oudsten",
+     "elders (oudste)"
+    ],
+    [
+     "steunt",
+     "supports (steunen)"
+    ],
+    [
+     "bondgenootschap",
+     "alliance"
+    ],
+    [
+     "gewoonten",
+     "ways, customs (gewoonte)"
+    ],
+    [
+     "mens-zijn",
+     "being human"
+    ],
+    [
+     "schakel",
+     "link"
+    ],
+    [
+     "beweert",
+     "claims (beweren)"
+    ],
+    [
+     "samenwerking",
+     "partnership"
+    ],
+    [
+     "mislukt",
+     "failed (mislukken)"
+    ],
+    [
+     "invloedrijkste",
+     "most influential (invloedrijk)"
+    ],
+    [
+     "omzetten",
+     "transmuting, converting"
+    ],
+    [
+     "beheerste",
+     "mastered (beheersen)"
+    ]
+   ]
+  },
+  "3541": {
+   "t": "Levering aan Jes'rimon",
+   "d": "Ik heb een heler in Orgrimmar. Hij woont in The Drag. Hij is moeilijk te vinden als je niet weet waar je moet zoeken. Maar als je in een van de hoogste gebouwen daar kijkt, vind je hem zonder problemen.$B$BDoe me wel een plezier: ga niet aan heel Kalimdor rondschreeuwen dat hij daar zit en wat zijn zaken zijn - dat zou slecht zijn voor ons allebei.$B$BHij geeft ons meer dan een eerlijke prijs voor het Tablet of Jin'yael. Ik weet niet waarom, maar je had moeten zien hoe opgewonden hij was toen hij hoorde waar het was.",
+   "o": "Breng het Tablet of Jin'yael naar Jes'rimon in Orgrimmar.",
+   "p": "Ja, wat heb jij nodig, man? Ik heb vandaag veel dingen om voor te zorgen, en jij staat niet op mijn agenda. Val me lastig, en ik zorg dat dat verandert.",
+   "c": "Ahhh, Jediga stuurt haar pakketje helemaal uit Azshara. Goed. Hier wacht ik op.$B$BJediga, dat is een mooie vrouw... dodelijk ook. Wat wil je nog meer?$B$BKijk eens... het tablet is in perfecte staat. Jij bent een goede boodschapper, $N.",
+   "g": [
+    [
+     "heler",
+     "fence (receiver of stolen goods)"
+    ],
+    [
+     "doe me een plezier",
+     "do me a favour"
+    ],
+    [
+     "rondschreeuwen",
+     "shout around"
+    ],
+    [
+     "eerlijke",
+     "fair (eerlijk)"
+    ],
+    [
+     "opgewonden",
+     "excited"
+    ],
+    [
+     "zorgen voor",
+     "to take care of"
+    ],
+    [
+     "val me lastig",
+     "pester me (lastigvallen)"
+    ],
+    [
+     "pakketje",
+     "package, parcel"
+    ],
+    [
+     "dodelijk",
+     "deadly"
+    ],
+    [
+     "boodschapper",
+     "messenger"
+    ]
+   ]
+  },
+  "3542": {
+   "t": "Levering aan Andron Gant",
+   "d": "Andron Gant is mijn volgende contact. Hij zit meestal in de Undercity... vlak bij het Apothecarium.$B$BHij was wat loslippiger toen het ging over waarvoor hij het tablet wilde. Blijkbaar willen een paar magiërs van de Undercity sommige arcane spreuken bestuderen die de Highborne gebruikten. Ze denken dat dit tablet hen daarbij helpt. Markri was bedreven in het oproepen van wezens, vooral elementalen.$B$BNeem het Tablet of Markri mee en kom dan terug naar mij voor jouw deel van de beloning.",
+   "o": "Breng het Tablet of Markri naar Andron Gant in Undercity.",
+   "p": "Nou... <hic>... wat een verrassing, hè? Een avonturier... <hic>!$B$BWat kan ik voor je doen... <hic>?",
+   "c": "Hier, neem wat munten... koop voor jezelf... <hic>... een nieuw harnas of zo....$B$BDit brengt bij de juiste... <hic> mensen wel een glimmend goudstuk of twee op.",
+   "g": [
+    [
+     "loslippiger",
+     "more loose-lipped (loslippig)"
+    ],
+    [
+     "blijkbaar",
+     "apparently"
+    ],
+    [
+     "magiërs",
+     "mages (magiër)"
+    ],
+    [
+     "arcane",
+     "arcane"
+    ],
+    [
+     "spreuken",
+     "spells (spreuk)"
+    ],
+    [
+     "bedreven in",
+     "adept at"
+    ],
+    [
+     "oproepen",
+     "summoning, to summon"
+    ],
+    [
+     "elementalen",
+     "elementals (elementaal)"
+    ],
+    [
+     "beloning",
+     "reward"
+    ],
+    [
+     "harnas",
+     "armour"
+    ],
+    [
+     "glimmend",
+     "shiny"
+    ],
+    [
+     "goudstuk",
+     "gold coin"
+    ]
+   ]
+  },
+  "3561": {
+   "t": "Levering aan Archmage Xylem",
+   "d": "Dit laatste tablet gaat naar iemand die heel gevaarlijk is, $N. Luister goed als ik zeg dat ik deze persoon veel minder vertrouw dan wie ook die ik je heb gevraagd te ontmoeten.$B$BArchmage Xylem heeft een toren in de heuvels boven Azshara. Hij is een mens, maar hij gedraagt zich als geen enkel mens dat ik heb ontmoet... of gedood. Hij straalt macht uit, en ik durf hem niet te vragen wat hij met het tablet van plan is.$B$BHij kwam naar mij toe, maar zei dat zijn lijfwacht Sanath me naar de toren zou helpen als ik klaar was om hem te ontmoeten. Zoek in het noorden naar Sanath.",
+   "o": "Breng het Tablet of Sael'hai naar Archmage Xylem in Azshara.",
+   "p": "Waarmee kan ik je helpen, $N?",
+   "c": "Ah, het Tablet of Sael'hai... wat heb ik er lang naar verlangd om het te bestuderen.$B$BDank je, $N. Je mag Jediga zeggen dat ze het goed gedaan heeft. Dit is de betaling die ze vroeg zeker waard.",
+   "g": [
+    [
+     "heuvels",
+     "hills (heuvel)"
+    ],
+    [
+     "gedraagt zich",
+     "behaves (zich gedragen)"
+    ],
+    [
+     "straalt ... uit",
+     "exudes (uitstralen)"
+    ],
+    [
+     "macht",
+     "power"
+    ],
+    [
+     "durf",
+     "dare (durven)"
+    ],
+    [
+     "van plan",
+     "planning, intending"
+    ],
+    [
+     "lijfwacht",
+     "bodyguard"
+    ],
+    [
+     "verlangd",
+     "longed (verlangen)"
+    ],
+    [
+     "betaling",
+     "payment"
+    ]
+   ]
+  },
+  "3562": {
+   "t": "Magatha's betaling aan Jediga",
+   "d": "Breng dit briefje naar Jediga. Zeg haar dat de betaling hier voor haar klaarligt als ze terugkomt. En zeg haar dat ik tevreden ben over haar werk.$B$BGa snel, $N. Zeg je meesteres dat ik hier op haar wacht.",
+   "o": "Bezorg Magatha's Note bij Jediga in Azshara.",
+   "p": "En, wat zei Magatha? Die oude heks... ik wed dat ze niet bepaald beleefd was.",
+   "c": "Ah, mooi. Ze was veel redelijker dan ik verwachtte... tenminste tegen jou. Ik verwachtte half dat ze je zou laten straffen voor mijn brutaliteit, omdat ik iemand in mijn plaats stuurde. Ze moet dat tablet wel heel graag willen. Interessant.$b$bIets om een andere keer over na te denken.",
+   "g": [
+    [
+     "briefje",
+     "note"
+    ],
+    [
+     "klaarligt",
+     "is ready (klaarliggen)"
+    ],
+    [
+     "tevreden",
+     "pleased, satisfied"
+    ],
+    [
+     "meesteres",
+     "mistress, master (f.)"
+    ],
+    [
+     "heks",
+     "crone, witch"
+    ],
+    [
+     "ik wed",
+     "I bet (wedden)"
+    ],
+    [
+     "niet bepaald",
+     "not exactly"
+    ],
+    [
+     "redelijker",
+     "more reasonable (redelijk)"
+    ],
+    [
+     "straffen",
+     "to punish"
+    ],
+    [
+     "brutaliteit",
+     "insolence"
+    ],
+    [
+     "bezorg",
+     "deliver (bezorgen)"
+    ]
+   ]
+  },
+  "3563": {
+   "t": "Jes'rimons betaling aan Jediga",
+   "d": "Breng deze brief naar Jediga. Laat haar weten dat onze afspraak voordelig was en dat ik blij ben met haar werk.$B$BZeg haar dat ze snel terug moet komen naar Orgrimmar, en dat Jes'rimon dan goed voor haar zorgt.$B$BZeg haar dat, en misschien heb ik in de toekomst je diensten weer nodig, $N.",
+   "o": "Bezorg Jes'rimon's Note bij Jediga in Azshara.",
+   "p": "Heb je Jes'rimon al gesproken?$B$BHij is een everzwijn onder de trollen, maar zijn informatie klopt meestal en zijn klussen betalen goed.$B$BAls je zijn houding kunt verdragen, kun je goed geld verdienen aan zijn zaken.",
+   "c": "Ik zie aan zijn briefje dat hij meer dan tevreden was.... een beetje te tevreden.$B$BMisschien neem ik ooit de tijd om hem te laten weten hoe erg ik zijn avances ook waardeer. Nou, dan is er tenminste één reden om ernaar uit te kijken meer tijd in Azshara door te brengen.$B$BHier is jouw deel van onze betaling.",
+   "g": [
+    [
+     "afspraak",
+     "deal, agreement"
+    ],
+    [
+     "voordelig",
+     "beneficial, profitable"
+    ],
+    [
+     "diensten",
+     "services (dienst)"
+    ],
+    [
+     "everzwijn",
+     "boar"
+    ],
+    [
+     "klopt",
+     "is correct (kloppen)"
+    ],
+    [
+     "klussen",
+     "jobs (klus)"
+    ],
+    [
+     "houding",
+     "attitude"
+    ],
+    [
+     "verdragen",
+     "to stand, tolerate"
+    ],
+    [
+     "avances",
+     "advances (romantic)"
+    ],
+    [
+     "waardeer",
+     "appreciate (waarderen)"
+    ],
+    [
+     "ernaar uitkijken",
+     "to look forward to it"
+    ]
+   ]
+  },
+  "3564": {
+   "t": "Androns betaling aan Jediga",
+   "d": "Hier... breng... <hic> dit naar Jediga. Veel succes!",
+   "o": "Bezorg Andron's Note bij Jediga in Azshara.",
+   "p": "Heb je Andron al ontmoet? Hij komt zelden buiten de Undercity, dus ik denk niet dat hij moeilijk te vinden is.",
+   "c": "Perfect... wacht eens even.$b$bHaha! Wat heb je tegen hem gezegd toen je het tablet bracht, $N? Hij heeft ons veel te veel betaald! Niet dat ik klaag. Heb je gezegd dat de afspraak veranderd was? Of was hij weer dronken?$b$bMaakt niet uit... hier, neem er ook nog een extra deel bij.",
+   "g": [
+    [
+     "succes",
+     "good luck"
+    ],
+    [
+     "zelden",
+     "rarely"
+    ],
+    [
+     "wacht eens even",
+     "wait a minute"
+    ],
+    [
+     "betaald",
+     "paid (betalen)"
+    ],
+    [
+     "klaag",
+     "complain (klagen)"
+    ],
+    [
+     "afspraak",
+     "deal"
+    ],
+    [
+     "dronken",
+     "drunk"
+    ],
+    [
+     "maakt niet uit",
+     "doesn't matter"
+    ]
+   ]
+  },
+  "3981": {
+   "t": "Commander Gor'shak",
+   "d": "Arme Gargal... hij zag het niet eens aankomen. BAM! De pijl kwam precies midden boven op zijn hoofd terecht. Hij was al geen genie, maar nu...$B$B<Galamav trekt een grimas.>$B$BToen we de pijl eruit trokken, zagen we een opgerold briefje aan de schacht. Op het briefje stond een ruwe tekening van een orc achter tralies, met de handtekening van Commander Gor'shak erbij.$B$BAls hij nog leeft in de Depths, moet jij hem vinden.$B$BEen val, zeg je? Nou, wat dacht je, suffe hoeven! Daarom ga jij juist!$b",
+   "o": "Vind Commander Gor'shak in Blackrock Depths.$B$BJe herinnert je dat er op de ruwe tekening van de orc tralies over het portret waren getekend. Misschien moet je zoeken naar een soort gevangenis.",
+   "c": "We hebben niet veel tijd. Luister goed, $R. Wat ik je ga vertellen is geheim en alleen voor jouw oren bestemd.",
+   "g": [
+    [
+     "pijl",
+     "arrow"
+    ],
+    [
+     "terecht",
+     "landed (terechtkomen: kwam ... terecht)"
+    ],
+    [
+     "trekt een grimas",
+     "grimaces (een grimas trekken)"
+    ],
+    [
+     "opgerold",
+     "rolled up"
+    ],
+    [
+     "schacht",
+     "shaft"
+    ],
+    [
+     "ruwe",
+     "crude (ruw)"
+    ],
+    [
+     "tralies",
+     "bars (of a cell)"
+    ],
+    [
+     "handtekening",
+     "signature"
+    ],
+    [
+     "val",
+     "trap"
+    ],
+    [
+     "suffe",
+     "dim, dopey (suf)"
+    ],
+    [
+     "hoeven",
+     "hooves (hoef)"
+    ],
+    [
+     "gevangenis",
+     "prison"
+    ],
+    [
+     "bestemd",
+     "intended, meant"
+    ]
+   ]
+  },
+  "3982": {
+   "t": "Wat is er aan de hand?",
+   "d": "Ik ben hier in opdracht van Thrall gestuurd. Denk je echt dat deze sukkels mij konden vangen? Ik heb me laten vangen, zodat ik informatie kon verzamelen.$B$B<Gor'shak fluistert.>$B$BDe prinses van Ironforge is ontvoerd door Emperor Thaurissan. Princess Bronzebeard is in deze stad! Ik wed dat het hart van de oude Magni bijna stilstond toen hij dat nieuws hoorde.$B$B<Gor'shak lacht.>$B$BSst! Hoor je dat? Er komen wachters aan! VERDEDIG JEZELF!",
+   "o": "Verdedig Gor'shak.",
+   "p": "Verdedig jezelf, dwaas!",
+   "c": "Dat was op het nippertje. Ze weten nu dat je hier bent... er komen er zeker meer.",
+   "e": "Overleef de stormloop",
+   "g": [
+    [
+     "in opdracht van",
+     "on the orders of"
+    ],
+    [
+     "sukkels",
+     "buffoons, fools (sukkel)"
+    ],
+    [
+     "vangen",
+     "to capture"
+    ],
+    [
+     "fluistert",
+     "whispers (fluisteren)"
+    ],
+    [
+     "ontvoerd",
+     "kidnapped (ontvoeren)"
+    ],
+    [
+     "ik wed",
+     "I bet (wedden)"
+    ],
+    [
+     "stilstond",
+     "stopped (stilstaan)"
+    ],
+    [
+     "wachters",
+     "guards (wachter)"
+    ],
+    [
+     "verdedig",
+     "defend (verdedigen)"
+    ],
+    [
+     "dwaas",
+     "fool"
+    ],
+    [
+     "op het nippertje",
+     "a close call, just in time"
+    ],
+    [
+     "overleef",
+     "survive (overleven)"
+    ],
+    [
+     "stormloop",
+     "onslaught, rush"
+    ]
+   ]
+  },
+  "4001": {
+   "t": "Wat is er aan de hand?",
+   "d": "Tot nu toe heb ik maar weinig contact gehad met de dwerg Kharan, in de cel aan de overkant van de gang. Wel heb ik hem ervan overtuigd dat ik - of liever: -wij- - hem geen kwaad willen doen.$B$BGa met hem praten en verzamel zoveel mogelijk informatie over de prinses en haar ontvoerders. Breng die informatie naar de Warchief.$B$BThrall wil niet dat de prinses iets overkomt. Hij heeft juist een groots plan, waarin ze veilig wordt teruggebracht naar Ironforge. Kharan weet dit allemaal al... Ga!$b",
+   "o": "Spreek met Kharan Mighthammer en verzamel informatie over de ontvoering van Princess Moira Bronzebeard. Breng die informatie naar Thrall in Orgrimmar.$B$BJe herinnert je dat Gor'shak zei dat Kharan vlakbij in een cel wordt vastgehouden.$b",
+   "p": "Wat brengt jou naar deze heilige grond?",
+   "c": "Dit is een kans voor de Horde om het politieke klimaat van onze door oorlog verscheurde wereld voor altijd te veranderen. Luister goed, $N.$B$BFalen is bij deze missie geen optie.",
+   "e": "Informatie verzameld van Kharan",
+   "g": [
+    [
+     "aan de overkant van",
+     "across"
+    ],
+    [
+     "gang",
+     "hall, corridor"
+    ],
+    [
+     "overtuigd",
+     "convinced (overtuigen)"
+    ],
+    [
+     "kwaad doen",
+     "to do harm"
+    ],
+    [
+     "ontvoerders",
+     "captors, kidnappers (ontvoerder)"
+    ],
+    [
+     "overkomt",
+     "happens to (overkomen)"
+    ],
+    [
+     "groots",
+     "grand"
+    ],
+    [
+     "ontvoering",
+     "kidnapping"
+    ],
+    [
+     "vastgehouden",
+     "held (vasthouden)"
+    ],
+    [
+     "heilige",
+     "hallowed, holy (heilig)"
+    ],
+    [
+     "klimaat",
+     "climate"
+    ],
+    [
+     "verscheurde",
+     "torn (verscheuren)"
+    ],
+    [
+     "falen",
+     "failure, to fail"
+    ]
+   ]
+  },
+  "4002": {
+   "t": "De oostelijke koninkrijken",
+   "d": "Je brengt uitstekende informatie, $N.$B$BAls Warchief is het mijn plicht om te doen wat het beste is voor de Horde. Om ervoor te zorgen dat de generaties na ons niet tot een hopeloos bestaan worden gedwongen.$B$BDe kans om onze toekomstige bondgenootschappen vorm te geven is ons samen in de schoot gevallen. Als we de dwergen helpen, kan dat onze banden in de Eastern Kingdoms sterk verbeteren. Daarom mag je niet falen!$B$BBen je er klaar voor?",
+   "o": "Spreek met Thrall als je klaar bent voor de missie die hij heeft gepland.",
+   "c": "Vanaf hier is er geen weg terug, $N.",
+   "g": [
+    [
+     "oostelijke",
+     "eastern (oostelijk)"
+    ],
+    [
+     "koninkrijken",
+     "kingdoms (koninkrijk)"
+    ],
+    [
+     "plicht",
+     "duty"
+    ],
+    [
+     "hopeloos",
+     "hopeless"
+    ],
+    [
+     "bestaan",
+     "existence"
+    ],
+    [
+     "gedwongen",
+     "forced (dwingen)"
+    ],
+    [
+     "bondgenootschappen",
+     "alliances (bondgenootschap)"
+    ],
+    [
+     "vorm te geven",
+     "to shape (vormgeven)"
+    ],
+    [
+     "in de schoot gevallen",
+     "fallen into our laps"
+    ],
+    [
+     "banden",
+     "ties, relationships (band)"
+    ],
+    [
+     "falen",
+     "to fail"
+    ]
+   ]
+  },
+  "7201": {
+   "t": "Het laatste element",
+   "d": "Er is werk voor wie zich in de diepte waagt, $N.$B$BDe Dark Irons beheersen het maken van extreem sterke golems.$B$BDe eerste berichten van onze spionnen wijzen erop dat de dwergen een unieke krachtbron gebruiken. Die geeft hun scheppingen een ongeëvenaarde dodelijke kracht.$B$BStel je eens voor wat we met onze gedrochten zouden kunnen doen als we deze essentie van de elementen in handen kregen! Zet die stad op zijn kop als het moet, maar kom niet terug voordat je de essentie hebt gevonden! De betaling is het risico waard.",
+   "o": "Reis naar Blackrock Depths en haal 10 Essence of the Elements terug. Je eerste ingeving is om de golems en golemmakers te doorzoeken. Je herinnert je ook dat Vivian Lagrave iets mompelde over elementalen.$b",
+   "p": "Laat ze aan me zien!",
+   "c": "Prachtig! Ik laat deze meteen per koerier naar de Undercity sturen!$B$BEn jij - hier is je betaling, zoals beloofd. Houd het wisselgeld maar, smerig beest!",
+   "g": [
+    [
+     "waagt",
+     "ventures (zich wagen)"
+    ],
+    [
+     "beheersen",
+     "master (beheersen)"
+    ],
+    [
+     "spionnen",
+     "spies (spion)"
+    ],
+    [
+     "wijzen erop",
+     "indicate (wijzen op)"
+    ],
+    [
+     "krachtbron",
+     "power source"
+    ],
+    [
+     "scheppingen",
+     "creations (schepping)"
+    ],
+    [
+     "ongeëvenaarde",
+     "incomparable (ongeëvenaard)"
+    ],
+    [
+     "gedrochten",
+     "abominations (gedrocht)"
+    ],
+    [
+     "in handen kregen",
+     "got our hands on (in handen krijgen)"
+    ],
+    [
+     "op zijn kop",
+     "upside down"
+    ],
+    [
+     "ingeving",
+     "inclination, idea"
+    ],
+    [
+     "mompelde",
+     "muttered (mompelen)"
+    ],
+    [
+     "koerier",
+     "courier"
+    ],
+    [
+     "wisselgeld",
+     "change (money)"
+    ],
+    [
+     "smerig",
+     "filthy"
+    ]
+   ]
+  },
+  "4133": {
+   "t": "Vivian Lagrave",
+   "d": "Shadowmaster Vivian Lagrave heeft jouw diensten nodig. Ze is in de Badlands, in de orc-buitenpost Kargath. Daar volgt ze geruchten over een bepaald brouwsel van de Dark Iron-dwergen uit Blackrock Depths.$B$BSpreek met Vivian. Ze wacht op je.",
+   "o": "Spreek met Shadowmaster Vivian Lagrave in Kargath.",
+   "c": "Dank je dat je gekomen bent, $N. Deze plek heeft wel een kale charme, maar mist het comfort van het Apothecarium.$b$bGenoeg beleefdheden. Ter zake, ja?",
+   "g": [
+    [
+     "diensten",
+     "services (dienst)"
+    ],
+    [
+     "buitenpost",
+     "outpost"
+    ],
+    [
+     "geruchten",
+     "rumours (gerucht)"
+    ],
+    [
+     "bepaald",
+     "certain"
+    ],
+    [
+     "brouwsel",
+     "brew"
+    ],
+    [
+     "kale",
+     "stark, bare (kaal)"
+    ],
+    [
+     "mist",
+     "lacks (missen)"
+    ],
+    [
+     "comfort",
+     "amenities, comfort"
+    ],
+    [
+     "beleefdheden",
+     "pleasantries (beleefdheid)"
+    ],
+    [
+     "ter zake",
+     "to business"
+    ]
+   ]
+  },
+  "4134": {
+   "t": "Het verloren Thunderbrew-recept",
+   "d": "Het gerucht gaat dat de Dark Iron Hurley Blackbreath een recept voor bier heeft gestolen. Van dit bier, Thunderbrew Lager, wordt gezegd dat het wie het drinkt veel kracht en moed geeft. We willen de drank bestuderen. Misschien vinden we andere toepassingen voor zijn goede eigenschappen... toepassingen die beter passen bij de doelen van de Forsaken.$B$BDaal af in Blackrock Depths, vind Hurley, neem hem het recept voor Thunderbrew Lager af en breng het naar mij.$B$BEn om hem te vinden, moet je hem misschien lokken door zijn kostbare bier te bedreigen.",
+   "o": "Breng het Lost Thunderbrew Recipe naar Vivian Lagrave in Kargath.",
+   "p": "Heb je het recept voor de Thunderbrew Lager, $N?",
+   "c": "Heel goed. Ik stuur dit recept naar het Apothecarium om het te laten bestuderen, en na verloop van tijd ontrafelen we zijn geheimen. Op een dag worden de goede eigenschappen van deze drank misschien gebruikt tegen de dwergen van de Alliance!$b$bDat vind ik vreselijk grappig. Misschien heeft de dood invloed op je gevoel voor humor... wat denk jij?",
+   "g": [
+    [
+     "het gerucht gaat",
+     "it is rumoured"
+    ],
+    [
+     "gestolen",
+     "stolen (stelen)"
+    ],
+    [
+     "moed",
+     "courage"
+    ],
+    [
+     "toepassingen",
+     "applications (toepassing)"
+    ],
+    [
+     "eigenschappen",
+     "properties, virtues (eigenschap)"
+    ],
+    [
+     "daal af",
+     "delve, go down (afdalen)"
+    ],
+    [
+     "neem hem ... af",
+     "take from him (afnemen)"
+    ],
+    [
+     "lokken",
+     "to entice, lure"
+    ],
+    [
+     "kostbare",
+     "precious (kostbaar)"
+    ],
+    [
+     "bedreigen",
+     "to threaten"
+    ],
+    [
+     "na verloop van tijd",
+     "in time"
+    ],
+    [
+     "ontrafelen",
+     "unravel, unlock (ontrafelen)"
+    ],
+    [
+     "vreselijk",
+     "terribly"
+    ],
+    [
+     "invloed",
+     "effect, influence"
+    ]
+   ]
+  }
+ },
+ "words": {
+  "androns": "Andron's (name + possessive s)",
+  "bam": "wham, bang",
+  "bedreven": "skilled, adept",
+  "blootstaan": "to be exposed (aan: to)",
+  "daal": "go down (afdalen)",
+  "duit": "penny, coin (een flinke duit: a pretty penny)",
+  "golemmakers": "golem makers (golemmaker)",
+  "grimas": "grimace",
+  "hic": "hic (hiccup sound)",
+  "jes'rimons": "Jes'rimon's (name + possessive s)",
+  "nippertje": "op het nippertje: just in time, a close call",
+  "optie": "option",
+  "orc-buitenpost": "orc outpost",
+  "schoot": "lap (in de schoot vallen: fall into one's lap)",
+  "taurenvrouw": "tauren woman",
+  "thunderbrew-recept": "Thunderbrew recipe",
+  "trokken": "pulled (trekken)",
+  "vernoemd": "named (vernoemen naar: to name after)"
+ },
+ "terms": {
+  "wildkin": "wildkin: owl-like magical beasts from the Warcraft world",
+  "owlbeasts": "owlbeasts: Warcraft owl-bear creatures (part of English mob names)",
+  "fel creep": "fel creep: a corrupted growth found by herbalists in Felwood",
+  "golems": "golems: constructed stone or metal creatures"
+ }
+}
