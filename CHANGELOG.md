@@ -1,6 +1,7 @@
 # Changelog
 
 ## Unreleased
+- Batch 48: Profession and battleground quests for the Alliance: Leatherworking (Moonglow Vest and Pratt McGrubben's Wild Leather chain to Master of the Wild Leather), Herbalism (Root Samples), Alchemy (Elixirs for the Bladeleafs), Engineering (Flash Bomb Recipe) and Warsong Gulch (Fight for Warsong Gulch, Vanquish the Invaders!, Talismans of Merit, Ribbons of Sacrifice, Zombie Cleansing) (26 quests, 1640 in total).
 - Batch 120: Rogue and Priest class quests for the Horde from level 1 to 26 (the Shattered Hand chain from Kaplak to Hinott's Assistance, Plundering the Plunderers, Tools of the Trade, the Hallowed Tablet and Scroll, and the troll and Forsaken priest spell quests) (31 quests, 1614 in total).
 - Batch 47: Profession quests for the Alliance: Cooking (Beer Basted Boar Ribs, Recipe of the Kaldorei, Easy Strider Living, Clamlette Surprise), First Aid (Alliance Trauma, Triage), Fishing (Gaffer Jacks, Electropellers, Nat Pagle, Angler Extreme) and Blacksmithing (Supplying the Front, Gearing Redridge, the armorsmith and weaponsmith quests, and the Galvan / Mithril Order chain to Expert Blacksmith) (26 quests, 1583 in total).
 - Batch 119: The Horde Hunter class quests from level 1 to 10 (Etched Tablet/Parchment/Note, The Hunter's Path, Taming the Beast and Training the Beast in Durotar and Mulgore) and the Horde Rogue class quests from level 1 to 16 (Encrypted Tablet/Parchment/Scroll, the Shattered Hand and Deathstalkers chains, Fenwick Thatros, Find the Shattered Hand) (30 quests, 1557 in total).

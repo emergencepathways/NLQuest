@@ -77,6 +77,7 @@ Data\Batch_46_Class_Warlock.lua
 Data\Batch_119_Class_Hunter.lua
 Data\Batch_47_Profession_Cooking.lua
 Data\Batch_120_Class_Rogue.lua
+Data\Batch_48_Profession_Leatherworking.lua
 
 Display.lua
 Reader.lua
