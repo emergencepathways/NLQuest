@@ -124,6 +124,7 @@ Data\Batch_71_Eastern_Plaguelands.lua
 Data\Batch_141_Dustwallow_Marsh.lua
 Data\Batch_72_Winterspring.lua
 Data\Batch_142_Badlands.lua
+Data\Batch_143_Feralas.lua
 
 Display.lua
 Reader.lua
