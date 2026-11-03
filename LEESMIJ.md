@@ -1,3 +1,5 @@
+<img src="docs/logo.png" alt="Logo van Speurtocht.NL" width="128" align="right">
+
 # Speurtocht.NL — Nederlandse questteksten voor World of Warcraft
 
 *English version: see [README.md](README.md)*

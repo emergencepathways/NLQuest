@@ -1,3 +1,5 @@
+<img src="docs/logo.png" alt="Speurtocht.NL logo" width="128" align="right">
+
 # Speurtocht.NL — Dutch quest text for World of Warcraft
 
 *Nederlandse versie: zie [LEESMIJ.md](LEESMIJ.md)*
@@ -201,6 +203,8 @@ Commands are not case-sensitive.
 | `tools/anki_sync.py`, `tools/install_autosync.sh` | Sends saved words to Anki via AnkiConnect, optionally as a background service |
 | `tools/build_lexicon.py` | Builds `Data/Namen.lua` and checks every Dutch word has a meaning |
 | `Data/Termen.lua` | Warcraft fantasy terms with explanations |
+| `.pkgmeta`, `.github/workflows/curseforge.yml` | CurseForge publishing with the BigWigs packager: Actions › **Publish to CurseForge** › Run workflow |
+| `Media/icon.tga`, `docs/logo.png` | In-game addon icon (64×64) and the project logo |
 | `tools/package.py` | Builds `SpeurtochtNL.zip` for players; `.github/workflows/release.yml` publishes it after every merge |
 | `tools/test_harness.lua` | Offline test in a mock WoW environment: `lua5.1 tools/test_harness.lua` |
 

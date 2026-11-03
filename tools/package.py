@@ -5,7 +5,7 @@ The zip holds one folder, SpeurtochtNL/, so it unzips straight into
 Interface/AddOns/ with the name the game needs (the green "Code > Download ZIP"
 button on GitHub gives a folder called NLQuest-main, which WoW won't load).
 
-Only the addon goes in: the Lua files, the TOC, Data/, the two read-me files,
+Only the addon goes in: the Lua files, the TOC, Data/, Media/ (the icon), the two read-me files,
 and the three Anki tools the read-me tells players to run. The translation
 pipeline (batches/, source/, the other tools) stays out.
 
@@ -47,9 +47,10 @@ def toc_version():
 def collect():
     files = {ADDON + ".toc"}
     files.update(n for n in os.listdir(ROOT) if n.endswith(".lua"))
-    for dirpath, _dirs, names in os.walk(os.path.join(ROOT, "Data")):
-        for n in names:
-            files.add(os.path.relpath(os.path.join(dirpath, n), ROOT).replace(os.sep, "/"))
+    for folder in ("Data", "Media"):
+        for dirpath, _dirs, names in os.walk(os.path.join(ROOT, folder)):
+            for n in names:
+                files.add(os.path.relpath(os.path.join(dirpath, n), ROOT).replace(os.sep, "/"))
     files.update(p for p in TOP_FILES + ANKI_TOOLS if os.path.isfile(os.path.join(ROOT, p)))
 
     missing = [p for p in toc_files() if p not in files]

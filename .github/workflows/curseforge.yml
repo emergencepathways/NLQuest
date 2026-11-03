@@ -1,0 +1,78 @@
+# Speurtocht.NL - publish a version to CurseForge (BigWigs packager).
+#
+# How to publish: Actions tab > "Publish to CurseForge" > Run workflow (on main).
+#   - "release" publishes the version in SpeurtochtNL.toc (## Version:) as tag v<version>.
+#     Bump the version first (Core.lua + SpeurtochtNL.toc); a version can only be published once.
+#   - "beta" publishes a test build (v<version>-beta.<n>) without needing a new version number.
+# Pushing a tag that starts with "v" by hand does the same.
+#
+# The zip is built from .pkgmeta (one SpeurtochtNL/ folder) and the CurseForge changelog
+# is CHANGELOG.md. The GitHub "latest-build" download (release.yml) is separate and unchanged.
+#
+# Needs, once (Settings > Secrets and variables > Actions):
+#   secret   CF_API_KEY               - token from https://legacy.curseforge.com/account/api-tokens
+#   variable CURSEFORGE_PROJECT_ID    - the "Project ID" shown on the CurseForge project page
+#   variable CURSEFORGE_GAME_VERSIONS - optional; only if CurseForge rejects the game versions
+#                                       read from the TOC (e.g. "1.15.8"). Comma-separated.
+
+name: Publish to CurseForge
+
+on:
+  workflow_dispatch:
+    inputs:
+      kind:
+        description: "release (the version in the TOC) or beta (a test build)"
+        type: choice
+        options: [release, beta]
+        default: release
+  push:
+    tags: ["v*"]
+
+concurrency:
+  group: curseforge
+  cancel-in-progress: false
+
+permissions:
+  contents: write
+
+jobs:
+  publish:
+    runs-on: ubuntu-latest
+    env:
+      CF_API_KEY: ${{ secrets.CF_API_KEY }}
+      PROJECT_ID: ${{ vars.CURSEFORGE_PROJECT_ID }}
+      GAME_VERSIONS: ${{ vars.CURSEFORGE_GAME_VERSIONS }}
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+
+      - name: Check the CurseForge settings
+        run: |
+          [ -n "$CF_API_KEY" ] || { echo "::error::Add the secret CF_API_KEY (Settings > Secrets and variables > Actions)."; exit 1; }
+          [ -n "$PROJECT_ID" ] || { echo "::error::Add the variable CURSEFORGE_PROJECT_ID (Settings > Secrets and variables > Actions > Variables)."; exit 1; }
+
+      - name: Tag this version
+        if: github.event_name == 'workflow_dispatch'
+        run: |
+          version=$(sed -n 's/^## Version: *//p' SpeurtochtNL.toc | tr -d '\r')
+          core=$(sed -n 's/^NQ\.version *= *"\([^"]*\)".*/\1/p' Core.lua | head -1)
+          if [ -n "$core" ] && [ "$core" != "$version" ]; then
+            echo "::error::Version mismatch: SpeurtochtNL.toc says $version, Core.lua says $core."; exit 1
+          fi
+          if [ "${{ inputs.kind }}" = "beta" ]; then
+            tag="v${version}-beta.${GITHUB_RUN_NUMBER}"
+          else
+            tag="v${version}"
+            if git ls-remote --exit-code --tags origin "refs/tags/$tag" > /dev/null; then
+              echo "::error::$tag is already published. Bump ## Version in SpeurtochtNL.toc and Core.lua first, or run a beta."; exit 1
+            fi
+          fi
+          git tag "$tag"
+          git push origin "refs/tags/$tag"
+          echo "Publishing $tag"
+
+      - name: Package and upload
+        uses: BigWigsMods/packager@v2
+        with:
+          args: -p ${{ vars.CURSEFORGE_PROJECT_ID }} ${{ vars.CURSEFORGE_GAME_VERSIONS != '' && format('-g {0}', vars.CURSEFORGE_GAME_VERSIONS) || '' }}

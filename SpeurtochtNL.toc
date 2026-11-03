@@ -5,7 +5,7 @@
 ## Author: Emergence Pathways
 ## Version: 0.2.1
 ## SavedVariables: SpeurtochtNLDB, SpeurtochtNLVocab, SpeurtochtNLCapture
-## IconTexture: Interface\Icons\INV_Misc_Book_09
+## IconTexture: Interface\AddOns\SpeurtochtNL\Media\icon
 
 Core.lua
 Text.lua

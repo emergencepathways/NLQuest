@@ -81,4 +81,4 @@ One batch per turn (~4,000 English words). Read only `work/batch_NN.txt` for sou
 - `tools/`: pipeline, Anki sync, capture conversion, test harness, `automerge.py` + `sync_batch.py` (the merge queue). `docs/`: STYLE.md, WORKFLOW.md.
 - `changes/NN.md`: per-batch CHANGELOG fragments. `.github/workflows/batch-automerge.yml`: the auto-merge.
 - Player download: `.github/workflows/release.yml` runs `tools/package.py` after every merge and puts `SpeurtochtNL.zip` (one `SpeurtochtNL/` folder) on the `latest-build` release. No manual step.
-- Releases: bump version in `Core.lua` and `SpeurtochtNL.toc`, move CHANGELOG "Unreleased" to a version heading.
+- Releases: bump version in `Core.lua` and `SpeurtochtNL.toc`, move CHANGELOG "Unreleased" to a version heading. Publishing to CurseForge is the owner's click: Actions › "Publish to CurseForge" (`.github/workflows/curseforge.yml`, zip contents from `.pkgmeta`; keep it in step with `tools/package.py`).

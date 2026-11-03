@@ -1,16 +1,35 @@
-# Packaging for CurseForge / WowUp releases (BigWigs packager).
-# Only the addon itself goes into the zip players download.
+# Packaging for CurseForge (BigWigs packager, run by .github/workflows/curseforge.yml).
+# Only the addon goes into the zip players download: the Lua files, the TOC, Data/,
+# Media/, README/LEESMIJ and the three Anki tools the read-me tells players to run.
+# Keep this in step with tools/package.py, which builds the GitHub download.
 package-as: SpeurtochtNL
 
+manual-changelog:
+  filename: CHANGELOG.md
+  markup-type: markdown
+
 ignore:
-  - tools
   - source
   - batches
+  - changes
   - docs
   - work
+  - dist
   - route.txt
   - ROADMAP.md
   - CHANGELOG.md
   - CLAUDE.md
-  - .github
-  - changes
+  - tools/anki_export.py
+  - tools/automerge.py
+  - tools/build_catalog.py
+  - tools/build_lexicon.py
+  - tools/build_manifest.py
+  - tools/capture_to_json.py
+  - tools/extract_vanilla_quests.py
+  - tools/import_batch.py
+  - tools/next_batch.py
+  - tools/package.py
+  - tools/plan_batches.py
+  - tools/roadmap_v1.json
+  - tools/sync_batch.py
+  - tools/test_harness.lua
