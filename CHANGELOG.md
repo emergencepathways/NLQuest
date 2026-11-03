@@ -1,6 +1,7 @@
 # Changelog
 
 ## Unreleased
+- Batch 126: The Barrens from level 20 to 29 for the Horde (Counterattack!, Lost in Battle, Mangletooth's blessings and the Betrayal from Within chain, Gann Stonespire's Bael Modan chain, the Jorn Skyseer hunts, Egg Hunt, Chen's Empty Keg, Weapons of Choice, In Nightmares, Horde Presence, A New Ore Sample) (28 quests, 1905 in total).
 - Batch 53: Tanaris from level 46 to 54 (the Gadgetzan Water Company surveys and the silithid chain up to Pawn Captures Queen, Caliph Scorpidsting, the Super Egg-O-Matic, OOX-17/TN, Gahz'ridian, the Noggenfogger Elixir chain, the Dunemaul Compound, Tooga's Quest, The Stone Watcher, Thistleshrub Valley, The Stone Circle, Super Sticky) (26 quests, 1877 in total).
 - Batch 125: The Barrens from level 15 to 20 for the Horde (the Darsok Swiftdagger harpy chain, the Kolkar leaders, Tonga's oasis chain, the hunter's path with Sergra Darkthorn and Jorn Skyseer, the samophlange chain, Northwatch Hold and Gilthares Firebough, Consumed by Hatred, Report to Kadrak and The Warsong Reports) (29 quests, 1851 in total).
 - Batch 52: Feralas from level 47 to 55 (the sprite darter hatchling chain, the Gammerita snapshot chain, Zorbin Fandazzle's zapped giants and water cores, Pratt McGrubben's yeti hides, Wandering Shay, the Stave of Equinex and Morrow Stone, The Sunken Temple, The Videre Elixir, Corrupted Songflower) (18 quests, 1822 in total).
