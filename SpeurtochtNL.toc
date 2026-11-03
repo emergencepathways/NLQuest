@@ -138,6 +138,7 @@ Data\Batch_78_Blackrock_Spire_19_Voorquests.lua
 Data\Batch_148_Felwood.lua
 Data\Batch_79_Scholomance_7_Voorquests.lua
 Data\Batch_149_Blackrock_Depths.lua
+Data\Batch_80_Stratholme.lua
 
 Display.lua
 Reader.lua
