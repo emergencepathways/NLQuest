@@ -1,6 +1,7 @@
 # Changelog
 
 ## Unreleased
+- Batch 125: The Barrens from level 15 to 20 for the Horde (the Darsok Swiftdagger harpy chain, the Kolkar leaders, Tonga's oasis chain, the hunter's path with Sergra Darkthorn and Jorn Skyseer, the samophlange chain, Northwatch Hold and Gilthares Firebough, Consumed by Hatred, Report to Kadrak and The Warsong Reports) (29 quests, 1851 in total).
 - Batch 52: Feralas from level 47 to 55 (the sprite darter hatchling chain, the Gammerita snapshot chain, Zorbin Fandazzle's zapped giants and water cores, Pratt McGrubben's yeti hides, Wandering Shay, the Stave of Equinex and Morrow Stone, The Sunken Temple, The Videre Elixir, Corrupted Songflower) (18 quests, 1822 in total).
 - Batch 124: Ragefire Chasm dungeon quests (Testing an Enemy's Strength, the Lost Satchel chain, The Power to Destroy..., Hidden Enemies, Slaying the Beast) and the early Barrens for the Horde (wind rider delivery chains, Plainstrider Menace, The Zhevra, Raptor Thieves, The Forgotten Pools, Chen's Empty Keg, Fungal Spores, ...) (28 quests, 1804 in total).
 - Batch 51: Leftover quests for the Alliance lane: Mulgore (The Ravaged Caravan, The Demon Scarred Cloak), Tirisfal Glades (Wanted: Maggot Eye, The Dormant Shade, Candles of Beckoning), Silverpine Forest (Escorting Erland, Maps and Runes, Pyrewood Ambush, the Alaric chain), Rocknot's Ale, Water Sapta, and Feralas at level 46–47 (The Mark of Quality, the Raschal and Zukk'ash chain, Feralas: A History, the Moonweaver chain, the sprite darter egg chain) (26 quests, 1776 in total).
