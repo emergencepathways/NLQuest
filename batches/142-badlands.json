@@ -1,0 +1,1588 @@
+{
+ "quests": {
+  "728": {
+   "t": "Naar de Undercity voor Yagyin's Digest",
+   "d": "De tablet vertelt veel. Maar niet genoeg! Lang niet genoeg!$B$BEr is een boek, een samenvatting die Yagyin lang geleden heeft geschreven. De... mensen voor wie ik ben gevlucht... zij bewaren dit boek op veel plaatsen. En de meest geleerden onder hen bestuderen het. Er staat enorm veel kennis in. Kennis om ons te beschermen!$B$BGa naar Keeper Bel'dugur in de Undercity van Lordaeron. Laat hem dit zegel zien, dan denkt hij dat je een van hen bent. Vraag hem om Yagyin's Digest... en breng het naar mij!",
+   "o": "Breng de Sigil of the Hammer naar Keeper Bel'dugur in de Undercity.",
+   "p": "Ah, ik zie een enthousiaste $C. Ben je hier om iets te leren van mijn verzameling? Goed!$B$BMaar let op: kennis geeft de sterken macht... maar de zwakken maakt ze gek.",
+   "c": "Wees discreet met je tekens, $C. Er zijn mensen die niet geloven dat onze belofte rechtvaardig is.$B$BEn er zijn mensen die ons zouden willen zien falen, als ze van ons wisten.$B$BWe moeten altijd voorzichtig zijn. En waakzaam. En geduldig.",
+   "g": [
+    [
+     "samenvatting",
+     "digest, summary"
+    ],
+    [
+     "gevlucht",
+     "fled (vluchten)"
+    ],
+    [
+     "bewaren",
+     "to keep, to store"
+    ],
+    [
+     "geleerden",
+     "learned ones, scholars"
+    ],
+    [
+     "bestuderen",
+     "to study"
+    ],
+    [
+     "kennis",
+     "knowledge"
+    ],
+    [
+     "zegel",
+     "seal, sigil"
+    ],
+    [
+     "enthousiaste",
+     "eager (enthousiast)"
+    ],
+    [
+     "verzameling",
+     "collection"
+    ],
+    [
+     "discreet",
+     "discreet"
+    ],
+    [
+     "rechtvaardig",
+     "righteous, just"
+    ],
+    [
+     "belofte",
+     "pledge, promise"
+    ],
+    [
+     "falen",
+     "to fail"
+    ],
+    [
+     "waakzaam",
+     "watchful"
+    ],
+    [
+     "geduldig",
+     "patient"
+    ]
+   ]
+  },
+  "1419": {
+   "t": "Coyotedieven",
+   "d": "Heb je al veel dagen in de Badlands doorgebracht, $c? Heb je de hitte gevoeld? Heb je gevochten tegen de beesten die over de stoffige vlaktes zwerven? Het wordt tijd dat je dat doet.$B$BCrag coyotes zijn een taai ras. Taai, en brutaal genoeg om Kargath binnen te sluipen en van onze voedselvoorraad te stelen. Help de buitenpost van deze dieven af!$B$BJaag op crag coyotes, $N. Jaag op ze en breng me hun kaakbeenderen. Breng me er genoeg, en misschien geloof ik je dan als je zegt dat je de Badlands kent.",
+   "o": "Breng 30 Coyote Jawbones naar Neeka Bloodscar in Kargath.",
+   "p": "Heb je de kaakbeenderen?",
+   "c": "Dat is een mooie verzameling kaakbeenderen, $N. Nu scheuren die coyotes niet meer door onze voorraden op zoek naar restjes.$B$BGoed gedaan. De coyotes van de Badlands zijn geen makkelijke prooi. Wat je hebt gedaan, laat me zien dat je het hier misschien wel overleeft.",
+   "g": [
+    [
+     "doorgebracht",
+     "spent (doorbrengen)"
+    ],
+    [
+     "stoffige",
+     "dusty (stoffig)"
+    ],
+    [
+     "vlaktes",
+     "plains (vlakte)"
+    ],
+    [
+     "zwerven",
+     "to roam, to wander"
+    ],
+    [
+     "taai",
+     "tough"
+    ],
+    [
+     "ras",
+     "breed"
+    ],
+    [
+     "brutaal",
+     "bold, cheeky"
+    ],
+    [
+     "sluipen",
+     "to creep, to sneak"
+    ],
+    [
+     "voedselvoorraad",
+     "food supply"
+    ],
+    [
+     "buitenpost",
+     "outpost"
+    ],
+    [
+     "kaakbeenderen",
+     "jawbones (kaakbeen)"
+    ],
+    [
+     "restjes",
+     "scraps (restje)"
+    ],
+    [
+     "prooi",
+     "prey"
+    ],
+    [
+     "overleeft",
+     "survive (overleven)"
+    ]
+   ]
+  },
+  "1420": {
+   "t": "Meld je bij Helgrum",
+   "d": "Ik heb een nieuw verslag geschreven voor Helgrum in Stonard. Breng het naar hem.$B$BEn als je jezelf een koerier noemt, raak dan niet de weg kwijt. En laat je niet verslaan door een vijand.",
+   "o": "Breng Neeka's Report naar Helgrum the Swift in Stonard.",
+   "p": "Je bent terug. Heb je een verslag?",
+   "c": "Dank je, $N. In Neeka's verslag zie ik dat de Alliance ook zijn eigen problemen heeft. En misschien ontdekken we dat we sommige vijanden met elkaar delen.",
+   "g": [
+    [
+     "meld je",
+     "report (zich melden)"
+    ],
+    [
+     "verslag",
+     "report"
+    ],
+    [
+     "koerier",
+     "courier, runner"
+    ],
+    [
+     "de weg kwijt",
+     "lose your way (de weg kwijtraken)"
+    ],
+    [
+     "verslaan",
+     "to defeat"
+    ],
+    [
+     "ontdekken",
+     "to discover"
+    ],
+    [
+     "delen",
+     "to share"
+    ]
+   ]
+  },
+  "782": {
+   "t": "Gebroken bondgenootschappen",
+   "d": "Tijdens de Second War was de Horde bondgenoot van de draak Deathwing. Daardoor weten we dat twee van zijn luitenanten, Blacklash en Hematus, opgesloten zijn in Lethlor Ravine, ver in het oosten. We moeten onze verdorven bondgenoten van vroeger het zwijgen opleggen, zodat de Horde haar eer terugkrijgt!$B$BWe hebben Tho'grun en zijn groep ogre-huurlingen ingehuurd om ons te helpen het Sign of the Earth te krijgen. Dat is een sleutel die je nodig hebt om de gevangenis van de draken te openen. Maar Tho'grun heeft ons verraden. Hij heeft ons overmeesterd en het voor zichzelf genomen. Ga naar Camp Boff en neem het terug!",
+   "o": "Dood Boss Tho'grun en breng het Sign of the Earth naar Gorn in Kargath.",
+   "p": "Het verraad van Tho'grun... is het een wonder dat de ogres geen deel meer uitmaken van de Horde? Ik zal blij zijn als hij dood is en het Sign of the Earth terug is.$B$BAls je hem nog niet hebt gedood, verspil dan geen tijd en ga naar Camp Boff. Het ligt ten zuidoosten van Kargath.",
+   "c": "Nu Tho'grun dood is en zijn lijk wordt kaalgepikt door de woestijnwind en de aasgieren, raken de ogres in verwarring. Het is maar een kleine overwinning, maar ze zal leiden tot een veel grotere.$B$BHet Sign of the Earth is nu in ons bezit, en we kunnen de gevangenis van de zwarte draken in Lethlor openen. We zullen ze bevrijden uit hun eindeloze gevangenschap, al is het alleen om ze naar hun ondergang te sturen!",
+   "g": [
+    [
+     "bondgenootschappen",
+     "alliances (bondgenootschap)"
+    ],
+    [
+     "bondgenoot",
+     "ally"
+    ],
+    [
+     "luitenanten",
+     "lieutenants (luitenant)"
+    ],
+    [
+     "opgesloten",
+     "imprisoned (opsluiten)"
+    ],
+    [
+     "verdorven",
+     "depraved"
+    ],
+    [
+     "het zwijgen opleggen",
+     "to silence"
+    ],
+    [
+     "eer",
+     "honour"
+    ],
+    [
+     "huurlingen",
+     "mercenaries (huurling)"
+    ],
+    [
+     "verraden",
+     "betrayed (verraden)"
+    ],
+    [
+     "overmeesterd",
+     "overwhelmed (overmeesteren)"
+    ],
+    [
+     "verraad",
+     "betrayal"
+    ],
+    [
+     "kaalgepikt",
+     "picked clean (kaalpikken)"
+    ],
+    [
+     "aasgieren",
+     "scavenging buzzards, vultures (aasgier)"
+    ],
+    [
+     "bezit",
+     "possession"
+    ],
+    [
+     "gevangenschap",
+     "imprisonment"
+    ],
+    [
+     "ondergang",
+     "doom, downfall"
+    ]
+   ]
+  },
+  "2203": {
+   "t": "Ingrediënten uit de Badlands II",
+   "d": "Je hebt me erg goed geholpen, $c. Ik zou je graag belonen met het recept voor het brouwsel dat ik je eerder gaf... maar ik wil je eerst een taak geven die vrij gevaarlijk is. Luister naar mijn verzoek.$B$BIn dit kistje zitten drie lege thaumaturgievaten. Er zit een afstemmingsaura in die het bloed van een scorched guardian dragon opzuigt. Als je er één op het beest gebruikt, wordt het erg kwaad, dus wees gewaarschuwd. Breng ze naar mij als ze alle drie gevuld zijn.$B$BDoe dit, en het recept is van jou.",
+   "o": "Gebruik de empty thaumaturgy vessels op scorched guardian dragons in de Badlands. Breng ze naar Jarkal Mossmeld in Kargath als ze gevuld zijn.",
+   "p": "Heb je de vaten gebruikt om het bloed van de scorched guardian dragon te halen dat ik nodig heb? Ja, ik weet dat het een gevaarlijke taak is... maar het recept voor mijn herstellende brouwsel wacht op je succes. Risico en beloning, vriend... risico en beloning...",
+   "c": "Van de ene alchemist aan de andere: ik groet je. Hier, neem dit recept en prent het goed in je geheugen. Moge het je hetzelfde succes en dezelfde beloningen brengen als het mij door de jaren heen heeft gebracht.",
+   "g": [
+    [
+     "belonen",
+     "to reward"
+    ],
+    [
+     "recept",
+     "recipe"
+    ],
+    [
+     "brouwsel",
+     "brew"
+    ],
+    [
+     "verzoek",
+     "request"
+    ],
+    [
+     "kistje",
+     "lockbox, small chest (kist)"
+    ],
+    [
+     "thaumaturgievaten",
+     "thaumaturgy vessels (thaumaturgievat)"
+    ],
+    [
+     "afstemmingsaura",
+     "attunement aura"
+    ],
+    [
+     "opzuigt",
+     "drains, sucks up (opzuigen)"
+    ],
+    [
+     "gewaarschuwd",
+     "warned (waarschuwen)"
+    ],
+    [
+     "gevuld",
+     "filled (vullen)"
+    ],
+    [
+     "herstellende",
+     "restorative (herstellend)"
+    ],
+    [
+     "beloning",
+     "reward"
+    ],
+    [
+     "prent het in je geheugen",
+     "commit it to memory (inprenten)"
+    ],
+    [
+     "Moge",
+     "may (mogen)"
+    ]
+   ]
+  },
+  "793": {
+   "t": "Gebroken bondgenootschappen",
+   "d": "Het Seal of the Earth wordt vastgehouden door drie runestenen, die zich in de Pillars of Diamond, Opal en Amethyst in Lethlor Ravine bevinden. Met het Sign of the Earth kun je de runestenen weghalen en het Seal of the Earth openen.$b$bMaar wees op je hoede, $n: met de zwarte draken Blacklash en Hematus valt niet te spotten. Zorg dat ze sterven en breng hun boeien naar mij.$B$BOm de kloof te bereiken, reis je naar het uiterste oosten van de Badlands. Maar wees voorzichtig, want in de kloof wonen talloze draken.",
+   "o": "Gebruik het Sign of the Earth om de Pillars of Diamond, Opal en Amethyst te activeren en de Runestones te krijgen.$b$bLeg de runestenen in het zegel om Blacklash en Hematus te bevrijden.$b$bDood ze en breng Blacklash's Bindings, de Chains of Hematus en het Sign of the Earth naar Gorn.",
+   "p": "Er zijn weinig vijanden dodelijker dan het drakenvolk, en er waren weinig draken die zo woest vochten als Blacklash en Hematus.",
+   "c": "De zwarte drakenvlucht blijft zich verbinden met de afvallige Blackrock-orks, en beide moeten in het gareel worden gebracht, of verwijderd. Nu Blacklash en Hematus dood zijn, kunnen we onze aandacht op het westen richten, op Blackrock Spire.",
+   "g": [
+    [
+     "vastgehouden",
+     "held (vasthouden)"
+    ],
+    [
+     "runestenen",
+     "runestones (runesteen)"
+    ],
+    [
+     "bevinden",
+     "are located (zich bevinden)"
+    ],
+    [
+     "wees op je hoede",
+     "be wary"
+    ],
+    [
+     "valt niet te spotten",
+     "are not to be trifled with (spotten met)"
+    ],
+    [
+     "boeien",
+     "bindings, shackles (boei)"
+    ],
+    [
+     "kloof",
+     "ravine"
+    ],
+    [
+     "uiterste",
+     "farthest, extreme"
+    ],
+    [
+     "talloze",
+     "countless (talloos)"
+    ],
+    [
+     "drakenvolk",
+     "dragonkind"
+    ],
+    [
+     "woest",
+     "ferociously, fiercely"
+    ],
+    [
+     "drakenvlucht",
+     "dragonflight"
+    ],
+    [
+     "afvallige",
+     "renegade (afvallig)"
+    ],
+    [
+     "in het gareel worden gebracht",
+     "be brought into line"
+    ],
+    [
+     "aandacht",
+     "attention"
+    ]
+   ]
+  },
+  "795": {
+   "t": "Het Seal of the Earth",
+   "p": "Hier ligt het Seal of the Earth, met drie uitgesneden nissen voor de Amethyst Runestone, de Opal Runestone en de Diamond Runestone.",
+   "c": "Terwijl je de runestenen in de passende nissen legt, schudt de aarde met een hevig gerommel, en het zegel breekt.",
+   "g": [
+    [
+     "uitgesneden",
+     "recessed, cut out (uitsnijden)"
+    ],
+    [
+     "nissen",
+     "alcoves, recesses (nis)"
+    ],
+    [
+     "passende",
+     "matching (passend)"
+    ],
+    [
+     "schudt",
+     "shakes (schudden)"
+    ],
+    [
+     "hevig",
+     "violent, heavy"
+    ],
+    [
+     "gerommel",
+     "rumbling"
+    ],
+    [
+     "zegel",
+     "seal"
+    ]
+   ]
+  },
+  "3821": {
+   "t": "Dreadmaul Rock",
+   "d": "Sha'ni werd meer dan drie weken geleden gestuurd om berichten te onderzoeken over vreemde rituele activiteiten bij de Firegut-ogres van de Burning Steppes.$B$BGoretooth zegt dat hij niets meer heeft gehoord van iemand uit dat peloton, en dat ik het beter kan loslaten en me op mijn taak moet richten. Kun je het geloven? Ze is mijn vrouw!$B$BIk kan mijn post niet verlaten, $N, maar ik moet weten wat er met Sha'ni is gebeurd. Reis naar de Burning Steppes en zoek haar.",
+   "o": "Trek naar de Burning Steppes en ontdek wat er met Sha'ni Proudtusk is gebeurd.",
+   "c": "Mijn arme Thal'trak.$B$BWe waren van plan om bij mijn moeder en vader in de Hinterlands te gaan wonen als onze diensttijd voorbij was. Nu zijn die plannen verwoest!",
+   "g": [
+    [
+     "berichten",
+     "reports (bericht)"
+    ],
+    [
+     "onderzoeken",
+     "to investigate"
+    ],
+    [
+     "rituele",
+     "ritualistic (ritueel)"
+    ],
+    [
+     "activiteiten",
+     "activities (activiteit)"
+    ],
+    [
+     "peloton",
+     "platoon"
+    ],
+    [
+     "loslaten",
+     "to let go, move on"
+    ],
+    [
+     "me richten",
+     "focus (zich richten op)"
+    ],
+    [
+     "post",
+     "post"
+    ],
+    [
+     "verlaten",
+     "to leave"
+    ],
+    [
+     "trek",
+     "venture (trekken)"
+    ],
+    [
+     "van plan",
+     "planning"
+    ],
+    [
+     "diensttijd",
+     "tour of duty"
+    ],
+    [
+     "verwoest",
+     "ruined (verwoesten)"
+    ]
+   ]
+  },
+  "4062": {
+   "t": "De opkomst van de machines",
+   "d": "G.L.A.$B$BDat zijn de 'initialen' die in de elementaire scherven zijn gedrukt. Onder de initialen staat een soort rangteken. De machines die je in de Burning Steppes hebt vernietigd, waren van 'Rang IV'. Ik neem aan dat dat een lage rang is.$B$BBreng dit monster van de scherf naar Lotwil Veriatus in het kamp in het oosten. Hij is een vrij bekende geleerde op het gebied van de elementaire wetenschappen. Misschien kan hij ons helpen bij onze zoektocht.",
+   "o": "Breng het Elemental Shard Sample naar Lotwil Veriatus.$B$BJe herinnert je dat Theodora zei dat Lotwil in een kamp in het oosten zat.$b",
+   "p": "Wat heb je daar, $R?",
+   "c": "<Lotwil wordt lijkbleek.>$b$bIk... ik ken deze tekens.",
+   "g": [
+    [
+     "opkomst",
+     "rise"
+    ],
+    [
+     "initialen",
+     "initials"
+    ],
+    [
+     "elementaire",
+     "elemental (elementair)"
+    ],
+    [
+     "scherven",
+     "shards (scherf)"
+    ],
+    [
+     "gedrukt",
+     "imprinted, pressed (drukken)"
+    ],
+    [
+     "rangteken",
+     "rank marking"
+    ],
+    [
+     "vernietigd",
+     "destroyed (vernietigen)"
+    ],
+    [
+     "neem aan",
+     "assume (aannemen)"
+    ],
+    [
+     "monster",
+     "sample"
+    ],
+    [
+     "geleerde",
+     "scholar"
+    ],
+    [
+     "wetenschappen",
+     "sciences (wetenschap)"
+    ],
+    [
+     "zoektocht",
+     "search"
+    ],
+    [
+     "lijkbleek",
+     "deathly pale, white as a sheet"
+    ],
+    [
+     "tekens",
+     "markings, signs (teken)"
+    ]
+   ]
+  },
+  "1372": {
+   "t": "Niets dan de waarheid",
+   "d": "Onze expeditie werd op bevel van Varimathras gestuurd om het lagere Azeroth te verkennen.$b$bToen ik op verkenning was, zag ik een menselijke Infiltrator die Beggar's Haunt bespioneerde. Voordat ik hem kon arresteren, hebben een paar van onze orkse... broeders... hem gevangengenomen. Ze hebben hem meegenomen naar Stonard, hun vesting in de Swamp of Sorrows.$b$bIk wil onze orkse bondgenoten... helpen. Ze hebben ons kamp hier niet gezien, maar toch wil ik ze een handje helpen.$b$bWerk samen met Faustin hier om een... waarheidsserum te maken voor onze vriend in Stonard.",
+   "o": "Spreek met Apothecary Faustin in Beggar's Haunt.",
+   "c": "Zraedus vertelde me net over die nieuwsgierige kleine Infiltrator, voordat je kwam.$b$bDat is inderdaad een flink probleem. Het laatste wat we nodig hebben, is een bemoeial die rondsnuffelt bij Beggar's Haunt.$b$bIk weet zeker dat de orks van Stonard staan te popelen om te horen wat onze vriend te zeggen heeft. Omdat ze onze bondgenoten zijn, ahum, moeten we ze helpen om alle informatie uit de mens te krijgen die ze kunnen.$b$bWerk met me samen, $n, dan brengen we een waarheidsserum naar Stonard.$b$bVoor de Horde!$b$b...zei ik dat goed?",
+   "g": [
+    [
+     "op bevel van",
+     "at the behest of"
+    ],
+    [
+     "verkennen",
+     "to survey, to scout"
+    ],
+    [
+     "bespioneerde",
+     "was spying on (bespioneren)"
+    ],
+    [
+     "arresteren",
+     "to apprehend, to arrest"
+    ],
+    [
+     "orkse",
+     "orcish (orks)"
+    ],
+    [
+     "broeders",
+     "brethren (broeder)"
+    ],
+    [
+     "gevangengenomen",
+     "captured (gevangennemen)"
+    ],
+    [
+     "vesting",
+     "stronghold"
+    ],
+    [
+     "een handje helpen",
+     "to lend a hand"
+    ],
+    [
+     "waarheidsserum",
+     "truth serum"
+    ],
+    [
+     "nieuwsgierige",
+     "nosey (nieuwsgierig)"
+    ],
+    [
+     "bemoeial",
+     "busybody"
+    ],
+    [
+     "rondsnuffelt",
+     "sniffs around (rondsnuffelen)"
+    ],
+    [
+     "staan te popelen",
+     "are anxious, can't wait (popelen)"
+    ]
+   ]
+  },
+  "1383": {
+   "t": "Niets dan de waarheid",
+   "d": "Ik heb precies het juiste serum in gedachten. Het gaat met de waarheid om op precies de manier waarop je met de waarheid hoort om te gaan.$B$BVoor dit brouwsel heb ik een paar Shadow Panther-harten uit het moeras nodig. Ik heb ook de betoverde schimmel nodig van de Mire Lord die daar woont. Ik weet zeker dat iemand die zo bekwaam is als jij, $N, hem kan overtuigen om er wat van af te staan.$B$BHet moeilijke deel wordt het vinden van een Deepstrider-tumor uit het verre Desolace. Heel zelden worden de reuzen daar ziek, en dan groeit er een tumor.$B$BEn nu: op pad!",
+   "o": "Apothecary Faustin in Beggar's Haunt heeft 5 Shadow Panther Hearts, Mire Lord Fungus en een Deep Strider Tumor nodig.",
+   "p": "Die Infiltrator in Stonard gaat vast.... open... als hij mijn speciale serum drinkt. Haha!$b$bDe ingrediënten zijn helemaal niet makkelijk te krijgen. Er zijn genoeg Shadow Panthers in het moeras, maar genoeg harten verzamelen voor ons doel kan zwaar zijn. En de Mire Lord kan echt een lastig beest zijn.$b$bEn de Deepstrider-tumoren zijn vreselijk moeilijk te vinden. Maar de chemische reactie die ik eruit kan halen, is ongeëvenaard.",
+   "c": "Prachtig, $n! En precies op tijd. Zraedus zegt dat de Infiltrator hersteld is van zijn wonden en klaar is om door de orks ondervraagd te worden.$b$bGeef me even een moment om het gif-- ik bedoel, om het waarheidsserum klaar te maken.",
+   "g": [
+    [
+     "in gedachten",
+     "in mind"
+    ],
+    [
+     "hoort",
+     "should, ought to (horen)"
+    ],
+    [
+     "betoverde",
+     "enchanted (betoveren)"
+    ],
+    [
+     "schimmel",
+     "fungus"
+    ],
+    [
+     "bekwaam",
+     "able, capable"
+    ],
+    [
+     "overtuigen",
+     "to persuade"
+    ],
+    [
+     "af te staan",
+     "to part with (afstaan)"
+    ],
+    [
+     "reuzen",
+     "giants (reus)"
+    ],
+    [
+     "op pad",
+     "off you go"
+    ],
+    [
+     "ingrediënten",
+     "ingredients (ingrediënt)"
+    ],
+    [
+     "doel",
+     "purpose"
+    ],
+    [
+     "lastig",
+     "fussy, difficult"
+    ],
+    [
+     "ongeëvenaard",
+     "second to none, unequalled"
+    ],
+    [
+     "hersteld",
+     "recovered (herstellen)"
+    ],
+    [
+     "ondervraagd",
+     "questioned (ondervragen)"
+    ],
+    [
+     "gif",
+     "poison"
+    ]
+   ]
+  },
+  "1388": {
+   "t": "Niets dan de waarheid",
+   "d": "Alles gaat volgens plan, $n. Geef dit waarheidsserum aan Deathstalker Zraedus. Hij laat je zien hoe je het... op de juiste manier toedient.$b$bHaha!",
+   "o": "Geef Faustin's Truth Serum aan Deathstalker Zraedus in Beggar's Haunt.",
+   "p": "Ik hoop dat je je nuttig hebt gemaakt voor onze beste vriend, Apothecary Faustin.",
+   "c": "Ik wist wel dat de oude Faustin iets goeds zou bedenken! Je was zonder twijfel een enorme hulp.$b$bLaten we nu ter zake komen, zullen we?",
+   "g": [
+    [
+     "volgens plan",
+     "according to plan"
+    ],
+    [
+     "waarheidsserum",
+     "truth serum"
+    ],
+    [
+     "op de juiste manier",
+     "properly"
+    ],
+    [
+     "toedient",
+     "administer (toedienen)"
+    ],
+    [
+     "nuttig",
+     "useful"
+    ],
+    [
+     "bedenken",
+     "to come up with"
+    ],
+    [
+     "zonder twijfel",
+     "no doubt"
+    ],
+    [
+     "enorme",
+     "tremendous (enorm)"
+    ],
+    [
+     "ter zake komen",
+     "get down to business"
+    ]
+   ]
+  },
+  "1391": {
+   "t": "Niets dan de waarheid",
+   "d": "We moeten met een zekere voorzichtigheid te werk gaan. Je gaat daar natuurlijk niet zomaar naar binnen wandelen om die dwaas over te halen om Faustin's brouwsel te drinken, toch?$b$bMaar als er één ding is waar die mensen geen nee tegen kunnen zeggen, dan is het drank. Ik neem Faustin's serum en meng het door dit bier. Ik garandeer je dat die arme sukkel geen moment zal aarzelen als het gaat om een biertje achterover te slaan.$b$bHaast je naar Stonard in de Swamp of Sorrows, $n. En hou onze kleine missie mooi stil...",
+   "o": "Breng Zraedus's Brew naar Infiltrator Marksen in Stonard.",
+   "p": "Heb alsjeblieft medelijden met me! Ik heb informatie die verder gaat dan de grenzen van bondgenootschappen. Ik ben geen aanhanger van de Horde, maar er is politiek verraad aan de gang dat onthuld moet worden!",
+   "c": "Een drankje voor mij? Wat aardig. Ze hebben me al dagen niets laten drinken. Laat me dit even opdrinken, en dan vertel ik je wat ik te weten ben gekomen....",
+   "g": [
+    [
+     "voorzichtigheid",
+     "discretion, caution"
+    ],
+    [
+     "te werk gaan",
+     "to operate, to proceed"
+    ],
+    [
+     "dwaas",
+     "fool"
+    ],
+    [
+     "over te halen",
+     "to convince (overhalen)"
+    ],
+    [
+     "drank",
+     "booze, drink"
+    ],
+    [
+     "garandeer",
+     "guarantee (garanderen)"
+    ],
+    [
+     "sukkel",
+     "sap, dope"
+    ],
+    [
+     "aarzelen",
+     "to hesitate"
+    ],
+    [
+     "achterover te slaan",
+     "to chug, to knock back (achteroverslaan)"
+    ],
+    [
+     "haast je",
+     "make haste (zich haasten)"
+    ],
+    [
+     "medelijden",
+     "mercy, pity"
+    ],
+    [
+     "aanhanger",
+     "sympathizer, supporter"
+    ],
+    [
+     "verraad",
+     "treachery"
+    ],
+    [
+     "onthuld",
+     "revealed (onthullen)"
+    ],
+    [
+     "te weten ben gekomen",
+     "have learned (te weten komen)"
+    ]
+   ]
+  },
+  "2862": {
+   "t": "Oorlog tegen de Woodpaw",
+   "d": "De gnolls... ze zijn meer dan alleen lastig. Ze zijn een voortdurende bedreiging voor het bestaan van dit kamp! Het maakt niet uit of ze oorspronkelijk uit Feralas komen of niet. Als we niet vastberadener tegen ze optreden, worden we uit de hele streek verdreven.$B$BDe aanvallen van de gnolls op het kamp zijn de laatste tijd heftiger geworden. We hebben je hulp nodig om hun aantal te verkleinen. Breng me tien van hun manen, dan beloon ik je royaal voor je moeite.$B$BGa!",
+   "o": "Breng 10 Woodpaw Gnoll Manes naar Hadoken Swiftstrider in Camp Mojache.",
+   "p": "We drijven ze terug, en toch blijven ze aanvallen! Iemand of iets moet ze tot razernij drijven... o, je bent terug, hè $n? Heb je de manen die ik nodig heb voor de beloning?",
+   "c": "Dit bewijst dat je goed begonnen bent, $n. Je vaardigheden als soldaat verdienen lof.$B$BJe bent niet de enige die ik deze taak geef. Velen voor jou hebben tegen ze gevochten, en vroeger hielden we ze met onze inspanningen op afstand. Maar de laatste tijd proberen ze veel vaker naar het noorden door te dringen, ons gebied in. Hun aanvallen zijn ook wreder geworden... bijna alsof ze wanhopig zijn.$B$BMaar ik heb een plan, $n, waarmee we misschien voorgoed met ze kunnen afrekenen...",
+   "g": [
+    [
+     "voortdurende",
+     "constant (voortdurend)"
+    ],
+    [
+     "bedreiging",
+     "threat"
+    ],
+    [
+     "bestaan",
+     "existence"
+    ],
+    [
+     "oorspronkelijk",
+     "originally, indigenous"
+    ],
+    [
+     "vastberadener",
+     "more resolutely (vastberaden)"
+    ],
+    [
+     "optreden",
+     "to take action"
+    ],
+    [
+     "verdreven",
+     "driven out (verdrijven)"
+    ],
+    [
+     "heftiger",
+     "more fevered, fiercer (heftig)"
+    ],
+    [
+     "manen",
+     "manes"
+    ],
+    [
+     "royaal",
+     "handsomely, generously"
+    ],
+    [
+     "razernij",
+     "frenzy"
+    ],
+    [
+     "lof",
+     "praise"
+    ],
+    [
+     "inspanningen",
+     "efforts (inspanning)"
+    ],
+    [
+     "wreder",
+     "more savage (wreed)"
+    ],
+    [
+     "wanhopig",
+     "desperate"
+    ]
+   ]
+  },
+  "2863": {
+   "t": "Alfa-aanval",
+   "d": "Het plan is om verschillende leiders van de gnolls - Alphas, zoals ze zichzelf noemen - snel na elkaar uit te schakelen. Als we ze zo snel en precies kunnen verwoesten, ontstaat er chaos in hun gelederen. Misschien dringt het dan ook tot hun dikke, door vlooien gebeten koppen door dat we ze kunnen en zullen vernietigen!$B$BIk wil dat jij de boodschapper van mijn wil bent. Schakel binnen een uur vijf van hun Alphas uit om dit te laten werken, $N, anders blijven we in deze patstelling zitten!",
+   "o": "Dood 5 Woodpaw Alphas en keer binnen een uur terug naar Hadoken Swiftstrider.",
+   "p": "De tijd raakt op, $n! Als je hier niet bent om te melden dat je de Alphas hebt uitgeschakeld, dan verspil je tijd!",
+   "c": "Je hebt gedaan wat ik vroeg, en daarvoor groet ik je. Neem deze kleine beloning aan als vergoeding voor je moeite, $n.$B$BNu hun aantal kleiner is en hun leiders gedood zijn, zullen de gnolls wel twee keer nadenken voordat ze het kamp bestormen. Maar daarmee is het probleem nog niet opgelost...$B$BEr moet een reden zijn waarom de gnolls zo razend zijn geworden. Voordat ze de kans krijgen om zich te hergroeperen, wil ik weten wat de oorzaak is.",
+   "g": [
+    [
+     "uit te schakelen",
+     "to take down (uitschakelen)"
+    ],
+    [
+     "verwoesten",
+     "to devastate"
+    ],
+    [
+     "gelederen",
+     "ranks (gelid)"
+    ],
+    [
+     "dringt tot ... door",
+     "sinks in (doordringen)"
+    ],
+    [
+     "vlooien",
+     "fleas (vlo)"
+    ],
+    [
+     "boodschapper",
+     "messenger"
+    ],
+    [
+     "patstelling",
+     "impasse, stalemate"
+    ],
+    [
+     "raakt op",
+     "is running out (opraken)"
+    ],
+    [
+     "vergoeding",
+     "compensation"
+    ],
+    [
+     "bestormen",
+     "to storm"
+    ],
+    [
+     "opgelost",
+     "solved (oplossen)"
+    ],
+    [
+     "razend",
+     "frenzied, furious"
+    ],
+    [
+     "hergroeperen",
+     "to regroup"
+    ],
+    [
+     "oorzaak",
+     "cause"
+    ]
+   ]
+  },
+  "2902": {
+   "t": "Onderzoek bij de Woodpaw",
+   "d": "Gnolls zijn niet het scherpste mes in de la, maar ze hebben vast wel een soort opgeschreven strategie over wat ze de laatste tijd doen. Als we die plannen vinden, dan weten we beter waarom ze zo opgefokt zijn.$B$BIk wil dat je teruggaat naar de Woodpaw en alles zoekt wat op hun gevechtsplannen lijkt. Ze moeten iets hebben; hun aanvallen waren te goed gecoördineerd om zonder plannen te zijn uitgevoerd. Vind ze, en kom bij me terug als je ze hebt.",
+   "o": "Vind de gevechtsplannen van de gnolls ergens in de gnollkampen ten zuiden van Camp Mojache.",
+   "c": "Als je de kaart bekijkt, zie je dat het de gevechtsplannen zijn die Hadoken Swiftstrider wil hebben. Er staan veel pijlen op de kaart, die misschien troepenbewegingen voorstellen. Maar de meeste lijken naar het zuiden te gaan, en niet naar het noorden, waar Camp Mojache ligt.$B$BOp een ander deel van de kaart staat een tekening van wat volgens jou een groot soort insect is, met allerlei streepjes eronder. Als je naar de gnolls kijkt, stelt het misschien hun verliezen tegen de onbekende beestjes voor...",
+   "g": [
+    [
+     "onderzoek",
+     "investigation"
+    ],
+    [
+     "niet het scherpste mes in de la",
+     "not the sharpest tool in the shed"
+    ],
+    [
+     "opgeschreven",
+     "documented, written down (opschrijven)"
+    ],
+    [
+     "opgefokt",
+     "worked up"
+    ],
+    [
+     "gevechtsplannen",
+     "battle plans (gevechtsplan)"
+    ],
+    [
+     "gecoördineerd",
+     "coordinated (coördineren)"
+    ],
+    [
+     "uitgevoerd",
+     "carried out (uitvoeren)"
+    ],
+    [
+     "pijlen",
+     "arrows (pijl)"
+    ],
+    [
+     "troepenbewegingen",
+     "troop movements"
+    ],
+    [
+     "voorstellen",
+     "to represent"
+    ],
+    [
+     "streepjes",
+     "tick marks (streepje)"
+    ],
+    [
+     "verliezen",
+     "losses (verlies)"
+    ],
+    [
+     "beestjes",
+     "bugs (beestje)"
+    ]
+   ]
+  },
+  "2903": {
+   "t": "De gevechtsplannen",
+   "d": "Je hebt de gevechtsplannen van de gnolls gevonden. Nu hoef je de plannen alleen nog terug te brengen naar Hadoken Swiftstrider in Camp Mojache. Misschien kan hij of iemand anders daar beter begrijpen wat de gnolls van plan zijn.",
+   "o": "Breng de Woodpaw Battle Plans naar Hadoken Swiftstrider in Camp Mojache.",
+   "p": "Welkom terug, $n. Heb je echt bewijs gevonden van de plannen van de gnolls?",
+   "c": "Ah, dit is precies wat we nodig hadden. Ik ben niet zo goed in het ontcijferen van de meeste krabbels op deze kaart, maar ik heb in mijn tijd genoeg gevechtsplannen gezien om te begrijpen wat er met de gnolls aan de hand is. Het lijkt erop dat ze nu op twee fronten oorlog voeren. Eén front is tegen ons... maar het grootste deel van hun kracht lijkt naar een vijand in het zuiden te gaan.$B$BEr is hier meer aan de hand dan je op het eerste gezicht zou denken. Misschien wordt het tijd om uit te zoeken wie die andere vijand echt is.",
+   "g": [
+    [
+     "gevechtsplannen",
+     "battle plans (gevechtsplan)"
+    ],
+    [
+     "van plan",
+     "up to, planning"
+    ],
+    [
+     "bewijs",
+     "evidence, proof"
+    ],
+    [
+     "ontcijferen",
+     "to decipher"
+    ],
+    [
+     "krabbels",
+     "scrawlings (krabbel)"
+    ],
+    [
+     "aan de hand",
+     "going on"
+    ],
+    [
+     "fronten",
+     "fronts (front)"
+    ],
+    [
+     "kracht",
+     "energy, strength"
+    ],
+    [
+     "op het eerste gezicht",
+     "at first sight"
+    ],
+    [
+     "uit te zoeken",
+     "to figure out (uitzoeken)"
+    ]
+   ]
+  },
+  "2975": {
+   "t": "De ogres van Feralas",
+   "d": "Je kunt de gevolgen van de Gordunni-ogrestam in deze streek moeilijk over het hoofd zien. Kijk om je heen, $N; alleen al hun aanwezigheid laat littekens na op dit land. We moeten ze terugdringen voordat ze zich nog verder in Feralas uitbreiden.$B$BVolg de rivier naar het noorden, dan vind je hun buitenpost. Verklein hun aantal, $N. We moeten ze laten zien dat hun soort hier niet welkom is.",
+   "o": "Rok Orhan in Camp Mojache wil dat je 10 Gordunni Ogres, 10 Gordunni Ogre-Magi en 5 Gordunni Brutes doodt.",
+   "p": "Wees snel, $N. Of is de taak die ik je gaf te moeilijk?",
+   "c": "Uitstekend, $N. Na verloop van tijd zal het land genezen. We mogen niet opgeven.",
+   "g": [
+    [
+     "gevolgen",
+     "effects (gevolg)"
+    ],
+    [
+     "ogrestam",
+     "ogre tribe"
+    ],
+    [
+     "over het hoofd zien",
+     "to overlook"
+    ],
+    [
+     "aanwezigheid",
+     "presence"
+    ],
+    [
+     "littekens",
+     "scars (litteken)"
+    ],
+    [
+     "terugdringen",
+     "to push back"
+    ],
+    [
+     "uitbreiden",
+     "to expand"
+    ],
+    [
+     "buitenpost",
+     "outpost"
+    ],
+    [
+     "verklein",
+     "decrease (verkleinen)"
+    ],
+    [
+     "na verloop van tijd",
+     "in time"
+    ],
+    [
+     "genezen",
+     "to heal"
+    ],
+    [
+     "opgeven",
+     "to give up"
+    ]
+   ]
+  },
+  "2978": {
+   "t": "De Gordunni-rol",
+   "d": "Je raapt de vuile rol op en ziet dat er een soort bijeenkomst of ceremonie op staat. Rok Orhan zou interesse hebben in deze rol, en in wat die voor de Gordunni zou kunnen betekenen.",
+   "o": "Breng de Gordunni Scroll naar Rok Orhan in Camp Mojache.",
+   "p": "Wat is dit?",
+   "c": "Deze rol... Heb je die in de Gordunni Outpost gevonden?",
+   "g": [
+    [
+     "rol",
+     "scroll"
+    ],
+    [
+     "raapt op",
+     "pick up (oprapen)"
+    ],
+    [
+     "vuile",
+     "soiled, dirty (vuil)"
+    ],
+    [
+     "bijeenkomst",
+     "meeting"
+    ],
+    [
+     "ceremonie",
+     "ceremony"
+    ],
+    [
+     "interesse",
+     "interest"
+    ],
+    [
+     "betekenen",
+     "to mean"
+    ]
+   ]
+  },
+  "2987": {
+   "t": "Gordunni-kobalt",
+   "d": "Ik ben net in Feralas aangekomen, en ik heb gehoord dat de Gordunni-ogres die hier in de wildernis wonen interessante mineralen hebben. Wie weet wat ze ermee doen, maar ze beschermen dat spul wel heel goed! Ze laten het niet zomaar rondslingeren; nee, ze begraven het, zodat mensen zoals ik er niet aan kunnen komen.$B$BAls je wilt, geef ik je mijn schep. Ga naar de Gordunni Outpost ten noorden van hier en graaf wat Gordunni-kobalt voor me op. Zoek naar de blauwe gloed, en begin dan te graven!",
+   "o": "Orwin Gizzmick in Camp Mojache wil 12 monsters van Gordunni Cobalt.",
+   "p": "Ga daarheen en begin te graven!$B$BIk moet nog overal heen en veel mensen zien -- tijd is geld!",
+   "c": "Perfect! Ik neem deze mee op mijn verdere reis, $N. Ik weet zeker dat ik iemand vind die een flinke prijs voor dit kobalt wil betalen.$B$BHier, neem dit voor je moeite.",
+   "g": [
+    [
+     "kobalt",
+     "cobalt"
+    ],
+    [
+     "wildernis",
+     "wilds, wilderness"
+    ],
+    [
+     "mineralen",
+     "minerals (mineraal)"
+    ],
+    [
+     "spul",
+     "stuff"
+    ],
+    [
+     "rondslingeren",
+     "to lie around"
+    ],
+    [
+     "begraven",
+     "to bury"
+    ],
+    [
+     "schep",
+     "shovel"
+    ],
+    [
+     "graaf op",
+     "dig up (opgraven)"
+    ],
+    [
+     "gloed",
+     "glow"
+    ],
+    [
+     "monsters",
+     "samples (monster)"
+    ],
+    [
+     "flinke",
+     "pretty, hefty (flink)"
+    ]
+   ]
+  },
+  "2980": {
+   "t": "De ogres van Feralas",
+   "d": "Nu je hebt bewezen dat je een echte vechter bent, vertrouw ik erop dat je de moed hebt om verder te gaan met deze taak.$B$BReis naar de High Wilderness, ten zuidwesten van hier. Daar staan verlaten en verwoeste gebouwen, op land dat ooit van de nachtelfen was. Zoek deze ruïnes. Als je de verdorde bomen en het ontheiligde land ziet, vind je de Gordunni. Drijf ze terug.$B$BDeze ogres zijn veel sterker dan degene die je eerder hebt bevochten, $N. Wees op je hoede.",
+   "o": "Rok Orhan in Camp Mojache wil dat je 10 Gordunni Shaman, 10 Gordunni Warlocks en 5 Gordunni Maulers doodt.",
+   "p": "Heb je de ruïnes gevonden, $N?",
+   "c": "Je hebt bewezen dat je een betrouwbare bondgenoot bent op wie ik kan rekenen, $N.",
+   "g": [
+    [
+     "bewezen",
+     "proven (bewijzen)"
+    ],
+    [
+     "moed",
+     "courage"
+    ],
+    [
+     "verlaten",
+     "abandoned"
+    ],
+    [
+     "verwoeste",
+     "destroyed (verwoest)"
+    ],
+    [
+     "nachtelfen",
+     "night elves (nachtelf)"
+    ],
+    [
+     "ruïnes",
+     "ruins (ruïne)"
+    ],
+    [
+     "verdorde",
+     "withered (verdord)"
+    ],
+    [
+     "ontheiligde",
+     "desecrated (ontheiligen)"
+    ],
+    [
+     "bevochten",
+     "fought (bevechten)"
+    ],
+    [
+     "wees op je hoede",
+     "be aware, be careful"
+    ],
+    [
+     "betrouwbare",
+     "trustworthy (betrouwbaar)"
+    ],
+    [
+     "rekenen op",
+     "to depend on"
+    ]
+   ]
+  },
+  "2973": {
+   "t": "De glans van een nieuwe mantel",
+   "d": "Gegroet, $c. Ik ben met mijn metgezellen naar Feralas gereisd voor een opdracht van onze meesters in Orgrimmar.$B$BMijn levenspartner Korrin geniet enorm van nieuwe kleren, dus ik wil een nieuwe mantel voor haar maken, versierd met de ragfijne vleugels van feeëndraken. Kun je me helpen? De sprite darters met de prachtige vleugels die ik wil, zitten ten westen van Camp Mojache.",
+   "o": "Breng 10 Iridescent Sprite Darter Wings naar Krueg Skullsplitter in Camp Mojache.",
+   "p": "De sprite darters kunnen gevaarlijke beestjes zijn als ze geprovoceerd worden. Wees voorzichtig met ze, $c. En wees nog voorzichtiger met nachtelfen in de buurt. Die irritante dwazen houden zich ook graag op in de bossen.$B$BLaat het me weten als je genoeg vleugels hebt. Ik zorg ervoor dat je goed beloond wordt!",
+   "c": "Geweldig, $c! Deze zijn prima. Het zijn er genoeg voor een mantel voor Korrin, en misschien zelfs meer! Dank je.$B$BIk hoop dat de tocht niet te gevaarlijk was? Feralas staat er niet om bekend dat het vergevingsgezind is, maar jij hebt het duidelijk goed genoeg gedaan.$B$BNogmaals bedankt, $c.",
+   "g": [
+    [
+     "glans",
+     "sheen, shine"
+    ],
+    [
+     "mantel",
+     "cloak"
+    ],
+    [
+     "gegroet",
+     "well met, greetings"
+    ],
+    [
+     "metgezellen",
+     "companions (metgezel)"
+    ],
+    [
+     "levenspartner",
+     "life-mate"
+    ],
+    [
+     "geniet",
+     "takes pleasure (genieten)"
+    ],
+    [
+     "versierd",
+     "adorned (versieren)"
+    ],
+    [
+     "ragfijne",
+     "gossamer, delicate (ragfijn)"
+    ],
+    [
+     "feeëndraken",
+     "faerie dragons (feeëndraak)"
+    ],
+    [
+     "geprovoceerd",
+     "provoked (provoceren)"
+    ],
+    [
+     "irritante",
+     "pestering, annoying (irritant)"
+    ],
+    [
+     "houden zich op",
+     "hang about (zich ophouden)"
+    ],
+    [
+     "staat er niet om bekend",
+     "is not known for (bekendstaan)"
+    ],
+    [
+     "vergevingsgezind",
+     "forgiving"
+    ]
+   ]
+  },
+  "2974": {
+   "t": "Een grimmige ontdekking",
+   "d": "Wat!? Ben je tauren tegengekomen in deze streek? Je maakt een grapje! Hoe zagen ze eruit!?$B$BDe Grimtotem-clan! Heb je een paar van hen gevonden? Belgrom, een van onze meesters, is in hun soort geïnteresseerd... hij heeft zelfs een premie op ze gezet.$B$BJe moet teruggaan, $c. Ga terug en breng me hun hoorns... stapels, als het lukt. Met de Grimtotem valt niet te spotten, en je mag ze niet onderschatten. Ga terug en dood ze; laat de rivieren in Feralas rood kleuren van hun duistere bloed.",
+   "o": "Breng 20 Grimtotem Horns naar Krueg Skullsplitter in Camp Mojache.",
+   "p": "Neem mijn woorden serieus, $c: de Grimtotem-clan is slecht. Als je hebt ontdekt waar ze zitten, dan is het aan jou om terug te gaan en de eerste klap tegen hun clan uit te delen... voordat ze ons eigen land binnenvallen en onze eigen dorpen platbranden, of ons land plunderen.",
+   "c": "Dit zijn goede hoorns, $c. Goed gedaan. Ik neem ze van je over en vertel het Belgrom meteen als we terug zijn in Orgrimmar. Je hebt me nu twee keer geholpen, en daarom heb je mijn erkenning. Misschien kan ik jou in de toekomst helpen! Veel succes.",
+   "g": [
+    [
+     "grimmige",
+     "grim (grimmig)"
+    ],
+    [
+     "ontdekking",
+     "discovery"
+    ],
+    [
+     "tegengekomen",
+     "came across (tegenkomen)"
+    ],
+    [
+     "premie",
+     "bounty"
+    ],
+    [
+     "hoorns",
+     "horns (hoorn)"
+    ],
+    [
+     "stapels",
+     "piles (stapel)"
+    ],
+    [
+     "onderschatten",
+     "to underestimate"
+    ],
+    [
+     "de eerste klap uitdelen",
+     "to strike the first blow"
+    ],
+    [
+     "binnenvallen",
+     "to invade"
+    ],
+    [
+     "platbranden",
+     "to burn down, to raze"
+    ],
+    [
+     "plunderen",
+     "to pilfer, to plunder"
+    ],
+    [
+     "erkenning",
+     "recognition, mark"
+    ]
+   ]
+  },
+  "2976": {
+   "t": "Een grimmige ontdekking",
+   "d": "Wat?!$B$BAh, dus ik heb het over een premie gehad, hè? Nou, dat zal me leren om mijn mond open te doen, niet?$B$BJij hebt het werk gedaan, dus het is eigenlijk niet meer dan eerlijk dat jij de grootste beloning krijgt. Neem de hoorns; ik laat ze voor je in een kist doen. Zoek Belgrom Rockmaul in de Valley of Honor. Hij wil weten wat je hebt gezien, en hij beloont je voor je harde werk.$B$BHet ga je goed, $c, en nogmaals bedankt voor alles wat je hebt gedaan.",
+   "o": "Breng de Crate of Grimtotem Horns naar Belgrom Rockmaul in Orgrimmar.",
+   "p": "Snel, $c, ik moet vandaag nog veel afmaken.",
+   "c": "De Grimtotem!? Dit is interessant. Zeg je dat je ze tegenkwam toen je in Feralas aan het jagen was? Echt waar?$B$BMijn collega's zullen je nieuws willen horen, $c. Vertel me meer, dan tel ik ondertussen je geld uit.$B$BEn voor je gaat: weet dat ik je dankbaar ben voor de informatie die je me vandaag hebt gegeven.",
+   "g": [
+    [
+     "premie",
+     "bounty"
+    ],
+    [
+     "dat zal me leren",
+     "that'll teach me"
+    ],
+    [
+     "niet meer dan eerlijk",
+     "only right, only fair"
+    ],
+    [
+     "kist",
+     "crate"
+    ],
+    [
+     "het ga je goed",
+     "be well, farewell"
+    ],
+    [
+     "afmaken",
+     "to complete, to finish"
+    ],
+    [
+     "tegenkwam",
+     "came across (tegenkomen)"
+    ],
+    [
+     "collega's",
+     "peers, colleagues (collega)"
+    ],
+    [
+     "ondertussen",
+     "meanwhile"
+    ],
+    [
+     "tel uit",
+     "count out (uittellen)"
+    ],
+    [
+     "dankbaar",
+     "grateful"
+    ]
+   ]
+  },
+  "3121": {
+   "t": "Een vreemd verzoek",
+   "d": "Neeru Fireblade in Orgrimmar heeft wat ik nodig heb om hier te beginnen! Hij heeft een brouwsel gemengd dat ik nodig heb voor mijn... nou ja, dat zie je wel.$B$BEn nu op weg -- naar Orgrimmar. Hier, neem dit mee. Het is een gekrompen hoofd dat ik Neeru heb beloofd in ruil voor de kruiden. Het is het hoofd van een arme dwerg die ik in het bos tegenkwam. Ik weet zeker dat Neeru er blij mee zal zijn.$B$BJe vindt Neeru in de Cleft of Shadow.",
+   "o": "Breng het Shrunken Head naar Neeru Fireblade in Orgrimmar.",
+   "p": "Ja?",
+   "c": "Ik wachtte al tot Uzer'i dit zou brengen...$B$BIk geef je het kruidenmengsel dat ik heb klaargemaakt voor zijn... nou ja, experimenten...",
+   "g": [
+    [
+     "verzoek",
+     "request"
+    ],
+    [
+     "brouwsel",
+     "concoction, brew"
+    ],
+    [
+     "gemengd",
+     "mixed (mengen)"
+    ],
+    [
+     "gekrompen",
+     "shrunken (krimpen)"
+    ],
+    [
+     "in ruil voor",
+     "in exchange for"
+    ],
+    [
+     "kruiden",
+     "herbs (kruid)"
+    ],
+    [
+     "dwerg",
+     "dwarf"
+    ],
+    [
+     "tegenkwam",
+     "came across (tegenkomen)"
+    ],
+    [
+     "kruidenmengsel",
+     "herb mixture"
+    ],
+    [
+     "klaargemaakt",
+     "prepared (klaarmaken)"
+    ]
+   ]
+  },
+  "3122": {
+   "t": "Terug naar Witch Doctor Uzer'i",
+   "d": "Hier zijn de kruiden, $N. Breng ze naar Witch Doctor Uzer'i.$B$BZeg hem alsjeblieft dat ik tevreden ben met het gekrompen hoofd.",
+   "o": "Breng Neeru's Herb Pouch naar Witch Doctor Uzer'i in Feralas.",
+   "p": "Heb je met Neeru gesproken?",
+   "c": "Dit is precies wat ik nodig heb om het muisek-vat klaar te maken, $N. Binnenkort zien we of mijn nieuwste bezweringen zo krachtig zijn als ik had gehoopt.$B$BEven een moment, alsjeblieft. Ik moet het ritueel uitvoeren en de kruiden aanbrengen.",
+   "g": [
+    [
+     "kruiden",
+     "herbs (kruid)"
+    ],
+    [
+     "tevreden",
+     "satisfied"
+    ],
+    [
+     "gekrompen",
+     "shrunken (krimpen)"
+    ],
+    [
+     "vat",
+     "vessel"
+    ],
+    [
+     "bezweringen",
+     "incantations (bezwering)"
+    ],
+    [
+     "krachtig",
+     "powerful"
+    ],
+    [
+     "ritueel",
+     "ritual"
+    ],
+    [
+     "uitvoeren",
+     "to perform"
+    ],
+    [
+     "aanbrengen",
+     "to apply"
+    ]
+   ]
+  },
+  "3125": {
+   "t": "Muisek van een feeëndraak",
+   "d": "$N, nu moet je een wezen voor me vangen dat er heel breekbaar uit kan zien, maar het gaat ons juist om zijn krachtige geest. De feeëndraken waar ik het over heb, zijn bondgenoten van de nachtelfen geweest. We moeten er een vangen, zodat de Horde ook kan profiteren van deze geestkracht.$B$BHier is de muisek, $N. Dood 8 sprite darters of sprite dragons, en vang hun muisek. Je vindt ze ten westen van hier.",
+   "o": "Dood 8 Sprite Darters of Sprite Dragons. Gebruik het Muisek Vessel om de gevallen Faerie Dragons te laten krimpen en te vangen.",
+   "p": "Is het je gelukt om de muisek van de feeëndraken te vangen?",
+   "c": "Dank je, $N. Nu kunnen we de geestelijke krachten van de feeëndraak gebruiken.$B$BIk hoop dat je bereid bent om nog een taak voor me te doen.",
+   "g": [
+    [
+     "feeëndraak",
+     "faerie dragon"
+    ],
+    [
+     "wezen",
+     "creature"
+    ],
+    [
+     "breekbaar",
+     "fragile"
+    ],
+    [
+     "het gaat ons om",
+     "what we are after"
+    ],
+    [
+     "geest",
+     "spirit"
+    ],
+    [
+     "bondgenoten",
+     "allies (bondgenoot)"
+    ],
+    [
+     "profiteren",
+     "to benefit"
+    ],
+    [
+     "geestkracht",
+     "strength of spirit"
+    ],
+    [
+     "gevallen",
+     "fallen"
+    ],
+    [
+     "krimpen",
+     "to shrink"
+    ],
+    [
+     "geestelijke",
+     "spiritual (geestelijk)"
+    ],
+    [
+     "bereid",
+     "willing"
+    ]
+   ]
+  }
+ },
+ "words": {
+  "achterover": "backwards (achteroverslaan: to knock back a drink)",
+  "alfa-aanval": "alpha strike",
+  "coyotedieven": "coyote thieves (coyote + dief)",
+  "coyotes": "coyotes (coyote)",
+  "deepstrider-tumor": "Deepstrider tumour",
+  "deepstrider-tumoren": "Deepstrider tumours (tumor)",
+  "firegut-ogres": "Firegut ogres (ogre)",
+  "gordunni-kobalt": "Gordunni cobalt",
+  "gordunni-ogres": "Gordunni ogres (ogre)",
+  "gordunni-ogrestam": "Gordunni ogre tribe (stam)",
+  "gordunni-rol": "Gordunni scroll (rol)",
+  "muisek-vat": "muisek vessel (vat)",
+  "ogre-huurlingen": "ogre mercenaries (huurling)",
+  "panther-harten": "panther hearts (hart)",
+  "sterken": "the strong (sterk)",
+  "strategie": "strategy",
+  "wandelen": "to walk, to waltz",
+  "woestijnwind": "desert wind",
+  "zwijgen": "silence; to be silent"
+ },
+ "terms": {}
+}
