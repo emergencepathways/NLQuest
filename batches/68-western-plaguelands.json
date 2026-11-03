@@ -1,0 +1,1568 @@
+{
+  "quests": {
+    "5521": {
+      "t": "Chromatische mantel van de Dawn",
+      "d": "$Gbroeder:zuster; $N, jouw daden voor de Argent Dawn zijn veel te talrijk om makkelijk op te sommen. Als passend eerbetoon sta ik je een van onze speciale Chromatic Mantles of the Dawn af. Deze versie beschermt de drager tegelijk tegen alle vormen van magie die je kunt weerstaan. Chromatic Mantles of the Dawn zijn alleen bestemd voor de machtigste helden van de Dawn!$B$BBreng me vijfentwintig valor tokens als teken van eerbetoon, en ik geef je de mooiste van al onze mantels.",
+      "o": "Breng 25 Argent Dawn Valor Tokens naar Quartermaster Lightspark in Chillwind Camp, Western Plaguelands.",
+      "p": "Gegroet, machtige $C! Heb je de valor tokens meegebracht waar ik om vroeg? Zodra je ze aan me geeft, krijg je van mij je eigen Chromatic Mantle of the Dawn.",
+      "c": "Zeer indrukwekkend, $N. De Chromatic Mantle of the Dawn is nu van jou!$B$BZolang je de status Exalted bij de Argent Dawn behoudt, kun je extra Chromatic Mantles kopen. Ze liggen dan meteen voor je klaar bij elke kwartiermeester van de Dawn.",
+      "g": [
+        [
+          "daden",
+          "deeds (daad)"
+        ],
+        [
+          "talrijk",
+          "numerous"
+        ],
+        [
+          "op te sommen",
+          "to list, to recount (opsommen)"
+        ],
+        [
+          "passend",
+          "fitting"
+        ],
+        [
+          "eerbetoon",
+          "tribute"
+        ],
+        [
+          "sta ... af",
+          "part with, give up (afstaan)"
+        ],
+        [
+          "drager",
+          "wearer"
+        ],
+        [
+          "tegelijk",
+          "at the same time"
+        ],
+        [
+          "weerstaan",
+          "to resist"
+        ],
+        [
+          "bestemd voor",
+          "reserved for, meant for"
+        ],
+        [
+          "machtigste",
+          "mightiest (machtig)"
+        ],
+        [
+          "behoudt",
+          "keep, maintain (behouden)"
+        ],
+        [
+          "kwartiermeester",
+          "quartermaster"
+        ]
+      ]
+    },
+    "5524": {
+      "t": "Chromatische mantel van de Dawn",
+      "d": "$Gbroeder:zuster; $N, jouw daden voor de Argent Dawn zijn veel te talrijk om makkelijk op te sommen. Als passend eerbetoon sta ik je een van onze speciale Chromatic Mantles of the Dawn af. Deze versie beschermt de drager tegelijk tegen alle vormen van magie die je kunt weerstaan. Chromatic Mantles of the Dawn zijn alleen bestemd voor de machtigste helden van de Dawn!$B$BBreng me vijfentwintig valor tokens als teken van eerbetoon, en ik geef je de mooiste van al onze mantels.",
+      "o": "Breng 25 Argent Dawn Valor Tokens naar Quartermaster Hasana in The Bulwark, naar Quartermaster Lightspark in Chillwind Camp, Western Plaguelands, of naar Quartermaster Breechlock in Light's Hope Chapel, Eastern Plaguelands.",
+      "p": "Gegroet, machtige $C! Heb je de valor tokens meegebracht waar ik om vroeg? Zodra je ze aan me geeft, krijg je van mij je eigen Chromatic Mantle of the Dawn.",
+      "c": "Zeer indrukwekkend, $N. De Chromatic Mantle of the Dawn is nu van jou!$B$BZolang je de status Exalted bij de Argent Dawn behoudt, kun je extra Chromatic Mantles kopen. Ze liggen dan meteen voor je klaar bij elke kwartiermeester van de Dawn.",
+      "g": [
+        [
+          "daden",
+          "deeds (daad)"
+        ],
+        [
+          "talrijk",
+          "numerous"
+        ],
+        [
+          "op te sommen",
+          "to list, to recount (opsommen)"
+        ],
+        [
+          "passend",
+          "fitting"
+        ],
+        [
+          "eerbetoon",
+          "tribute"
+        ],
+        [
+          "sta ... af",
+          "part with, give up (afstaan)"
+        ],
+        [
+          "drager",
+          "wearer"
+        ],
+        [
+          "tegelijk",
+          "at the same time"
+        ],
+        [
+          "weerstaan",
+          "to resist"
+        ],
+        [
+          "bestemd voor",
+          "reserved for, meant for"
+        ],
+        [
+          "behoudt",
+          "keep, maintain (behouden)"
+        ],
+        [
+          "kwartiermeester",
+          "quartermaster"
+        ]
+      ]
+    },
+    "5803": {
+      "t": "De scarabee van Araj",
+      "d": "Araj the Summoner heerst over Andorhal vanuit het hart van de verwoeste stad. We weten dat hij vroeger de leider van Scholomance was, voordat hij de stad voor zichzelf opeiste. Om de sleutel af te maken, hebben we zijn zegel nodig, dat een scarabee wordt genoemd. Dat moet als kop op de sleutel komen.$B$BGa naar het hart van Andorhal en breek zijn greep op de stad, nu hij naar buiten is gelokt. Pak zijn scarabee uit zijn gevallen phylactery zodra hij vernietigd is!$B$BDe Key to Scholomance wacht op je, $N!",
+      "o": "Vernietig Araj the Summoner en breng Araj's Scarab naar Alchemist Arbington in Chillwind Point, Western Plaguelands.",
+      "p": "Je bent al zo ver gekomen, $N. Alleen de vernietiging van het lichaam van Araj the Summoner geeft ons de middelen om de sleutel af te maken. Haal de scarabee van Araj, hoe dan ook, en breng hem naar mij. Dan smelt ik hem als kop aan de sleutel vast.",
+      "c": "Ja, dit is hem! Ik... ik sta opnieuw versteld van je sluwheid en moed. Het is gewoon niet te bevatten hoe ver je wilt gaan om te winnen.$b$bLaat mij nu mijn kleine rol hierin spelen. Ik heb een speciaal oplosmiddel gemaakt. Daarmee kan ik de scarabee als kop op de sleutel vastzetten. Zo krijgt de sleutel de kracht om de afgesloten deur van Scholomance te doorbreken.$b$bDit duurt maar heel even...",
+      "g": [
+        [
+          "scarabee",
+          "scarab"
+        ],
+        [
+          "heerst",
+          "rules, lords over (heersen)"
+        ],
+        [
+          "verwoeste",
+          "ruined (verwoest)"
+        ],
+        [
+          "opeiste",
+          "claimed (opeisen)"
+        ],
+        [
+          "zegel",
+          "seal, signet"
+        ],
+        [
+          "greep",
+          "grip, hold"
+        ],
+        [
+          "gelokt",
+          "drawn, lured (lokken)"
+        ],
+        [
+          "hoe dan ook",
+          "by hook or by crook, one way or another"
+        ],
+        [
+          "smelt ... vast",
+          "fuse on (vastsmelten)"
+        ],
+        [
+          "sta ... versteld",
+          "am amazed (versteld staan)"
+        ],
+        [
+          "sluwheid",
+          "cunning"
+        ],
+        [
+          "niet te bevatten",
+          "mind-boggling, beyond understanding"
+        ],
+        [
+          "oplosmiddel",
+          "solvent"
+        ],
+        [
+          "doorbreken",
+          "to breach, break through"
+        ]
+      ]
+    },
+    "5861": {
+      "t": "Zoek Myranda",
+      "d": "$N, je hebt alles gedaan wat ik je tot nu toe heb gevraagd. Er is nog maar één stap over in je zoektocht naar verlossing.$B$BJe moet de voorwerpen die je hebt verzameld aan Taelan geven. Helaas zullen Taelan en zijn Scarlet Crusaders je aanvallen zodra ze je zien.$B$BEr is maar één manier om mijn boodschap te bezorgen, en dat is met een bedrieglijke vermomming.$B$BIn het zuiden vind je het graf van Uther. Daar woont nu Myranda, een oude en betrouwbare vertrouwelinge van mij. Zoek haar op. Laat haar de voorwerpen zien, dan zal ze je helpen.",
+      "o": "Reis naar Uther's Tomb, in de zuidelijke Plaguelands. Laat Myranda the Hag Tirion's Gift zien.",
+      "p": "Ik wist dat deze dag zou komen.",
+      "c": "Ik was de meest vertrouwde raadgeefster van Tirion toen hij de rang van Lord of Mardenholde had. Ik verzette me openlijk tegen het oordeel van de Order of the Silver Hand, en ik werd verbannen vanwege mijn brutaliteit.$B$BHij heeft in zijn leven veel verdriet en teleurstelling meegemaakt, $r. Ben je bereid het onrecht recht te zetten dat de Fordrings is aangedaan?",
+      "g": [
+        [
+          "verlossing",
+          "redemption"
+        ],
+        [
+          "bezorgen",
+          "to deliver"
+        ],
+        [
+          "bedrieglijke",
+          "deceptive (bedrieglijk)"
+        ],
+        [
+          "vermomming",
+          "disguise, guise"
+        ],
+        [
+          "graf",
+          "tomb, grave"
+        ],
+        [
+          "vertrouwelinge",
+          "confidant (f.)"
+        ],
+        [
+          "raadgeefster",
+          "advisor (f.)"
+        ],
+        [
+          "rang",
+          "rank"
+        ],
+        [
+          "oordeel",
+          "verdict, judgement"
+        ],
+        [
+          "verbannen",
+          "banished"
+        ],
+        [
+          "brutaliteit",
+          "insolence, cheek"
+        ],
+        [
+          "teleurstelling",
+          "disappointment"
+        ],
+        [
+          "onrecht",
+          "injustice, wrong"
+        ],
+        [
+          "recht te zetten",
+          "to put right (rechtzetten)"
+        ],
+        [
+          "aangedaan",
+          "done to, inflicted on (aandoen)"
+        ],
+        [
+          "verzette me",
+          "dissented, opposed (zich verzetten)"
+        ]
+      ]
+    },
+    "5862": {
+      "t": "Scarlet list",
+      "d": "Ik ben wat je een illusionist zou noemen. Misschien kan ik een illusie maken waarmee je Hearthglen binnen kunt komen. Maar wees gewaarschuwd: mijn krachten hebben hun grenzen.$B$BAls je te ver van deze streek weg reist, houdt de werking van de illusie op. De spreuk zelf kost me veel concentratie en kracht. Daarom kan ik het effect maar korte tijd volhouden.$B$BPraat weer met me als je klaar bent.",
+      "o": "Praat met Myranda om de Scarlet Illusion te krijgen. Reis onder de Scarlet Illusion naar Hearthglen en geef Tirion's Gift aan Highlord Taelan Fordring.$B$BHearthglen ligt in het noorden. Taelan zou in Mardenholde Keep moeten zijn.",
+      "p": "Ben jij de versterking uit Tyr's Hand?",
+      "c": "Wat is dit, soldaat?$B$B<Taelan maakt de doos open en begint de inhoud te bekijken.>$B$BDit... dit kan niet waar zijn. Maar alles wat je me hebt laten zien...$B$B<Taelan zakt op één knie en zijn hart gaat sneller kloppen. De woede van eeuwen staat op het punt over deze stad los te barsten.>",
+      "g": [
+        [
+          "list",
+          "ruse, subterfuge"
+        ],
+        [
+          "wees gewaarschuwd",
+          "be warned"
+        ],
+        [
+          "grenzen",
+          "limits (grens)"
+        ],
+        [
+          "streek",
+          "region, area"
+        ],
+        [
+          "werking",
+          "effect, working"
+        ],
+        [
+          "houdt ... op",
+          "stops, ceases (ophouden)"
+        ],
+        [
+          "spreuk",
+          "spell"
+        ],
+        [
+          "volhouden",
+          "to sustain, keep up"
+        ],
+        [
+          "versterking",
+          "reinforcements"
+        ],
+        [
+          "inhoud",
+          "contents"
+        ],
+        [
+          "zakt",
+          "sinks, drops (zakken)"
+        ],
+        [
+          "woede",
+          "fury, rage"
+        ],
+        [
+          "eeuwen",
+          "ages, centuries (eeuw)"
+        ],
+        [
+          "staat op het punt",
+          "is about to"
+        ],
+        [
+          "los te barsten",
+          "to break loose (losbarsten)"
+        ]
+      ]
+    },
+    "6184": {
+      "t": "Flint Shadowmore",
+      "d": "De enige informatie die we tot nu toe hebben, is dus dat Nathanos Marris misschien gedood is door deze Blightcaller. We nemen aan dat de Blightcaller dezelfde schurk is die mijn agenten uit de weg heeft geruimd.$B$BFlint Shadowmore, nog een agent van SI:7, is gestationeerd in het kamp van de Alliance in Chillwind Point in de Western Plaguelands. Zoek hem op. Hij zal je bijpraten over de huidige situatie in de Plaguelands en je een opdracht geven.$B$BVeel succes, $N.",
+      "o": "Reis naar Chillwind Camp in de Western Plaguelands en ontmoet je contactpersoon, Flint Shadowmore.$b",
+      "c": "De eerste missie is simpel, $N. Je gaat erin, je komt eruit. Verkenning...",
+      "g": [
+        [
+          "tot nu toe",
+          "thus far, so far"
+        ],
+        [
+          "nemen aan",
+          "assume (aannemen)"
+        ],
+        [
+          "schurk",
+          "fiend, villain"
+        ],
+        [
+          "uit de weg heeft geruimd",
+          "has disposed of (uit de weg ruimen)"
+        ],
+        [
+          "gestationeerd",
+          "stationed"
+        ],
+        [
+          "bijpraten",
+          "to debrief, bring up to date"
+        ],
+        [
+          "huidige",
+          "current (huidig)"
+        ],
+        [
+          "opdracht",
+          "assignment"
+        ],
+        [
+          "contactpersoon",
+          "contact"
+        ],
+        [
+          "verkenning",
+          "reconnaissance, recon"
+        ]
+      ]
+    },
+    "5142": {
+      "t": "De kleine Pamela",
+      "d": "Zo velen van ons stierven in de slag om Darrowshire. Zo velen stierven... en erger.$B$BToen de slag begon, verstopte ik mijn nichtje Pamela, en ik weet niet wat er met haar is gebeurd. Ik ben maar een dwalende geest, maar mijn hart wil nog steeds weten wat het lot van Pamela is.$B$BAlsjeblieft, goede $c. Wil je naar Darrowshire gaan en haar zoeken? Het ligt in het oosten, voorbij Gahrron's Withering.",
+      "o": "Vind Pamela Redpath.",
+      "c": "Hallo. Ik ben Pamela, hoe heet jij?",
+      "g": [
+        [
+          "velen",
+          "many (people)"
+        ],
+        [
+          "slag",
+          "battle"
+        ],
+        [
+          "erger",
+          "worse"
+        ],
+        [
+          "verstopte",
+          "hid (verstoppen)"
+        ],
+        [
+          "nichtje",
+          "niece"
+        ],
+        [
+          "dwalende",
+          "wandering (dwalen)"
+        ],
+        [
+          "geest",
+          "spirit, ghost"
+        ],
+        [
+          "lot",
+          "fate"
+        ],
+        [
+          "voorbij",
+          "beyond, past"
+        ]
+      ]
+    },
+    "5149": {
+      "t": "De pop van Pamela",
+      "d": "Mijn tante Marlene zei dat ik hier in ons huis moest blijven, omdat mijn vader moest gaan vechten. Mijn vader is de dapperste man van de hele wereld!$B$BMaar ik ben hier al heel lang, en hij is me niet komen halen. Soms komen er slechte mensen die tegen me fluisteren. Dan wil ik dat mijn papa ze wegjaagt, maar hij is er niet!$B$BEn soms, als het donker wordt, wil ik met mijn pop spelen. Maar dat kan niet, want ik heb hem in de stad laten liggen.$B$BWil je mijn pop voor me zoeken?",
+      "o": "Vind de pop van Pamela.",
+      "p": "Heb je mijn pop gevonden?",
+      "c": "Je hebt hem gevonden! Je hebt mijn pop gevonden! O, dank je wel!",
+      "g": [
+        [
+          "pop",
+          "doll"
+        ],
+        [
+          "tante",
+          "aunt, auntie"
+        ],
+        [
+          "dapperste",
+          "bravest (dapper)"
+        ],
+        [
+          "komen halen",
+          "come to get, come for"
+        ],
+        [
+          "fluisteren",
+          "to whisper"
+        ],
+        [
+          "wegjaagt",
+          "chases away (wegjagen)"
+        ],
+        [
+          "laten liggen",
+          "left behind"
+        ]
+      ]
+    },
+    "5211": {
+      "t": "De verdedigers van Darrowshire",
+      "d": "Veel verdedigers vielen in de slag om Darrowshire. En velen dwalen weer rond als afschuwelijke dienaren van de Scourge! Zoek deze arme zielen en maak een einde aan hun ellende!$B$BJaag op cannibal ghouls, gibbering ghouls en diseased flayers. Veel van deze monsters waren ooit de goede inwoners van Darrowshire. Als je hun lichamen nu vernietigt, worden hun zielen bevrijd.$B$BJe vindt ze in Plaguewood en Corin's Crossing, en in andere bolwerken van de Scourge in de Eastern Plaguelands.",
+      "o": "Bevrijd 15 Darrowshire Spirits en ga terug naar Carlin Redpath.",
+      "p": "De arme verdedigers van Darrowshire roepen naar me in mijn dromen, $N. Je moet ze bevrijden!",
+      "c": "Het is goed om te horen dat je de gekwelde zielen van mijn broeders hebt gevonden en bevrijd. Mijn hart zal minder huilen, nu ik weet dat in elk geval een deel van de verdedigers van Darrowshire niet langer wegzinkt in de walgelijke onderworpenheid aan de Scourge.",
+      "o1": "Darrowshire Spirits bevrijd",
+      "g": [
+        [
+          "verdedigers",
+          "defenders (verdediger)"
+        ],
+        [
+          "dwalen ... rond",
+          "roam (ronddwalen)"
+        ],
+        [
+          "afschuwelijke",
+          "ghastly (afschuwelijk)"
+        ],
+        [
+          "dienaren",
+          "servants (dienaar)"
+        ],
+        [
+          "ellende",
+          "misery"
+        ],
+        [
+          "inwoners",
+          "inhabitants, folk (inwoner)"
+        ],
+        [
+          "bevrijd",
+          "freed (bevrijden)"
+        ],
+        [
+          "bolwerken",
+          "strongholds (bolwerk)"
+        ],
+        [
+          "gekwelde",
+          "tortured (kwellen)"
+        ],
+        [
+          "broeders",
+          "brethren (broeder)"
+        ],
+        [
+          "in elk geval",
+          "at least"
+        ],
+        [
+          "wegzinkt",
+          "wallows, sinks away (wegzinken)"
+        ],
+        [
+          "walgelijke",
+          "vile (walgelijk)"
+        ],
+        [
+          "onderworpenheid",
+          "subservience"
+        ]
+      ]
+    },
+    "5503": {
+      "t": "De aanstelling van de Argent Dawn",
+      "c": "Iedereen die namens de Argent Dawn tegen het kwaad vecht, moet onze aanstelling dragen. Wie die draagt, verdient het recht om de beloningen te halen die onze kwartiermeesters te bieden hebben.$B$BZolang je de aanstelling hebt, kun je Scourgestones verzamelen van gedode Scourge. Dit zijn insignes die ze soms bij zich hebben. Verzamel deze insignes en breng ze naar mij. Voor elke set die je inlevert, krijg je ons teken van heldenmoed: de Argent Dawn Valor Token.$B$BVervul je lot, $C, en doe vandaag mee aan de strijd!",
+      "g": [
+        [
+          "aanstelling",
+          "commission, appointment"
+        ],
+        [
+          "namens",
+          "on behalf of"
+        ],
+        [
+          "kwaad",
+          "evil"
+        ],
+        [
+          "beloningen",
+          "rewards (beloning)"
+        ],
+        [
+          "kwartiermeesters",
+          "quartermasters (kwartiermeester)"
+        ],
+        [
+          "gedode",
+          "slain (doden)"
+        ],
+        [
+          "insignes",
+          "insignia (insigne)"
+        ],
+        [
+          "inlevert",
+          "turn in (inleveren)"
+        ],
+        [
+          "heldenmoed",
+          "heroism"
+        ],
+        [
+          "vervul",
+          "fulfil, achieve (vervullen)"
+        ],
+        [
+          "strijd",
+          "fight, battle"
+        ]
+      ]
+    },
+    "5508": {
+      "t": "Corruptor's Scourgestones",
+      "p": "Een Corruptor's Scourgestone is het insigne van de opperheren van de Scourge. Een machtig wezen dat gezag heeft over de Scourge, heeft er altijd een. Zo'n kwaadaardig wezen doden zou de zaak van de Argent Dawn zeker vooruithelpen, en alle goede zaken!$B$BNamens de Argent Dawn geef ik je een valor token in ruil voor maar één van deze insignes. Wees voorzichtig als je er een probeert te krijgen, $N. Met zulke machtige wezens valt niet te spotten.",
+      "c": "Gefeliciteerd, $N. Het doet me genoegen je een Argent Dawn valor token te geven!$B$BAls je op deze manier een valor token verdient, laat dat zien dat je een echte held bent voor de zaak van het goede. We waarderen alle moeite die we tegen de Scourge inzetten, maar wie een van hun leiders verslaat, brengt ze echt een verpletterende nederlaag toe!$B$BVoor de Dawn, mijn $gbroeder:zuster;!",
+      "g": [
+        [
+          "insigne",
+          "insignia, badge"
+        ],
+        [
+          "opperheren",
+          "overlords (opperheer)"
+        ],
+        [
+          "gezag",
+          "authority"
+        ],
+        [
+          "kwaadaardig",
+          "malevolent, evil"
+        ],
+        [
+          "zaak",
+          "cause"
+        ],
+        [
+          "vooruithelpen",
+          "to advance, help forward"
+        ],
+        [
+          "in ruil voor",
+          "in exchange for"
+        ],
+        [
+          "valt niet te spotten",
+          "are not to be trifled with"
+        ],
+        [
+          "het doet me genoegen",
+          "I am pleased"
+        ],
+        [
+          "waarderen",
+          "to value, appreciate"
+        ],
+        [
+          "inzetten",
+          "to bring to bear, use"
+        ],
+        [
+          "verpletterende",
+          "crushing (verpletterend)"
+        ],
+        [
+          "nederlaag",
+          "defeat"
+        ]
+      ]
+    },
+    "5509": {
+      "t": "Invader's Scourgestones",
+      "p": "Een Invader's Scourgestone is het insigne van de elitetroepen van de Scourge. Je vindt ze soms bij de sterkere troepen die in de Plaguelands zijn geplaatst. Zo'n wezen doden is echt een uitdaging, maar wel een waar je van moet genieten als je de opdracht hebt het kwaad te verslaan.$B$BDe Argent Dawn biedt op dit moment een valor token in ruil voor tien van deze insignes. Breng ze hier naar mij, dan zorg ik dat je je verdiende beloning krijgt.",
+      "c": "Gefeliciteerd, $N. Het doet me genoegen je een Argent Dawn valor token te geven!$B$BElke valor token die we aan waardige ontvangers geven, is een teken dat het tij keert tegen de Scourge. Steeds meer helden vechten tegen de Scourge in hun eigen landen. Daarom zal de Argent Dawn zeker vooraan staan als het tijd is om oorlog te voeren tegen het ultieme kwaad van de Scourge. Ik hoop dat de moed die je nodig had om je token te krijgen, je dan ook de overwinning zal brengen.",
+      "g": [
+        [
+          "elitetroepen",
+          "elite troops"
+        ],
+        [
+          "geplaatst",
+          "positioned, stationed (plaatsen)"
+        ],
+        [
+          "uitdaging",
+          "challenge"
+        ],
+        [
+          "genieten",
+          "to relish, enjoy"
+        ],
+        [
+          "verdiende",
+          "just, deserved (verdienen)"
+        ],
+        [
+          "waardige",
+          "worthy (waardig)"
+        ],
+        [
+          "ontvangers",
+          "recipients (ontvanger)"
+        ],
+        [
+          "het tij keert",
+          "the tide is turning"
+        ],
+        [
+          "vooraan staan",
+          "be at the forefront"
+        ],
+        [
+          "oorlog te voeren",
+          "to wage war (oorlog voeren)"
+        ],
+        [
+          "ultieme",
+          "ultimate (ultiem)"
+        ],
+        [
+          "overwinning",
+          "victory"
+        ]
+      ]
+    },
+    "5510": {
+      "t": "Minion's Scourgestones",
+      "p": "Een Minion's Scourgestone is het insigne van de gewone soldaten van de Scourge. Je vindt ze soms bij de zwakkere troepen die in de Plaguelands zijn geplaatst, al moet je het woord \"zwakker\" zeker in de juiste context zien. De Scourge mag je nooit onderschatten, waar ze ook zijn.$B$BDe Argent Dawn biedt op dit moment een valor token in ruil voor twintig van deze insignes. Die ruil doe ik graag, als je tenminste genoeg scourgestones hebt verdiend!",
+      "c": "Gefeliciteerd, $N. Het doet me genoegen je een Argent Dawn valor token te geven!$B$BDe tokens hebben twee doelen. Eén: je kunt ze gebruiken om je positie binnen de Argent Dawn te verbeteren. Daarmee krijg je misschien keuzes en beloningen die alleen voor onze geëerde en vereerde bondgenoten zijn. Twee: je kunt ze, samen met geld, aan onze kwartiermeesters geven als betaling voor enkele van de kostbaarste voorwerpen van de Dawn.$B$BWat je ook kiest, weet dat je je aanstelling verdient. Goed gedaan!",
+      "g": [
+        [
+          "gewone soldaten",
+          "rank and file"
+        ],
+        [
+          "zwakkere",
+          "weaker (zwak)"
+        ],
+        [
+          "al",
+          "although (here)"
+        ],
+        [
+          "onderschatten",
+          "to underestimate"
+        ],
+        [
+          "ruil",
+          "exchange"
+        ],
+        [
+          "tenminste",
+          "at least, provided"
+        ],
+        [
+          "doelen",
+          "purposes (doel)"
+        ],
+        [
+          "positie",
+          "standing, position"
+        ],
+        [
+          "geëerde",
+          "honoured (eren)"
+        ],
+        [
+          "vereerde",
+          "revered (vereren)"
+        ],
+        [
+          "bondgenoten",
+          "allies (bondgenoot)"
+        ],
+        [
+          "betaling",
+          "payment"
+        ],
+        [
+          "kostbaarste",
+          "most prized, most precious (kostbaar)"
+        ],
+        [
+          "aanstelling",
+          "commission"
+        ]
+      ]
+    },
+    "5601": {
+      "t": "Zusje Pamela",
+      "d": "Ik vluchtte uit Lordaeron tijdens de grote oorlog. Ik had geluk dat ik kon ontsnappen voordat de Scourge over mijn vaderland trok en het veranderde in een besmette nachtmerrie! Ik had geluk, maar mijn familie niet. Ik vrees dat ze allemaal zijn omgekomen in de slag om Darrowshire.$B$BDarrowshire is een dorp in de Eastern Kingdoms. Het ligt in de zuidelijke heuvels van wat nu de Eastern Plaguelands is. Wil je daarheen gaan en mijn familie zoeken? Ik mis ze zo erg, vooral mijn kleine zusje Pamela.$B$BAlsjeblieft, vind haar voor me!",
+      "o": "Vind Pamela Redpath in Darrowshire.",
+      "c": "Waar is mijn zus Jessica? Ze is al zo lang geleden weggegaan, toen ik nog een klein meisje was. Ze huilde zo erg toen ze wegging. Ik weet niet waarom ze huilde! Misschien was ze gevallen en had ze haar teen gestoten.$B$BToen Jessica hier was, speelden we spelletjes, dansten we en plukten we mooie bloemen rond het huis. En soms verstopten we ons als we papa naar huis zagen komen. Dan sprongen we tevoorschijn en verrasten we hem!$B$BKom terug, Jessica! Als jij terugkomt, komt papa misschien ook terug, en dan kunnen we weer allemaal samen spelen...",
+      "g": [
+        [
+          "vluchtte",
+          "fled (vluchten)"
+        ],
+        [
+          "ontsnappen",
+          "to escape"
+        ],
+        [
+          "vaderland",
+          "homeland"
+        ],
+        [
+          "trok",
+          "swept, moved (trekken)"
+        ],
+        [
+          "besmette",
+          "plagued, infected (besmet)"
+        ],
+        [
+          "nachtmerrie",
+          "nightmare"
+        ],
+        [
+          "vrees",
+          "fear (vrezen)"
+        ],
+        [
+          "omgekomen",
+          "killed, perished (omkomen)"
+        ],
+        [
+          "zusje",
+          "little sister"
+        ],
+        [
+          "teen gestoten",
+          "stubbed a toe (stoten)"
+        ],
+        [
+          "plukten",
+          "picked (plukken)"
+        ],
+        [
+          "sprongen ... tevoorschijn",
+          "jumped out"
+        ],
+        [
+          "verrasten",
+          "surprised (verrassen)"
+        ]
+      ]
+    },
+    "6021": {
+      "t": "Zaeldarr the Outcast",
+      "d": "Kun je het geloven? Na alle ellende die we hebben in de Plaguelands... moeten we ons ook nog zorgen maken over dieven. En niet zomaar gewone dieven: trollendieven.$B$BEn niet zomaar gewone trollendieven. Dode trollendieven!$B$BHun leider is een grote, dode trol die Zaeldarr the Outcast heet. Ze komen hier 's nachts en stelen lichamen uit de put hieronder. Dan nemen ze die mee naar hun kwaadaardige schuilplaats van dode trollen: de Undercroft, in het westen.$B$BGa daarheen en schakel Zaeldarr uit, $N. Ik word doodziek van zijn streken!",
+      "o": "Breng Zaeldarr's Head naar Caretaker Alen in Light's Hope Chapel.",
+      "p": "Heb je de schuilplaats gevonden, $N? Heb je Zaeldarr aangepakt?",
+      "c": "Geweldig, je hebt hem te pakken! En ik hoop dat je zijn bende ook een lesje hebt geleerd!",
+      "g": [
+        [
+          "ellende",
+          "trouble, misery"
+        ],
+        [
+          "zorgen maken",
+          "to worry"
+        ],
+        [
+          "dieven",
+          "thieves (dief)"
+        ],
+        [
+          "put",
+          "pit"
+        ],
+        [
+          "schuilplaats",
+          "hideout"
+        ],
+        [
+          "schakel ... uit",
+          "take out (uitschakelen)"
+        ],
+        [
+          "doodziek",
+          "sick to death"
+        ],
+        [
+          "streken",
+          "mischief, tricks (streek)"
+        ],
+        [
+          "aangepakt",
+          "dealt with, taken care of (aanpakken)"
+        ],
+        [
+          "te pakken",
+          "got (him)"
+        ],
+        [
+          "bende",
+          "gang"
+        ],
+        [
+          "een lesje geleerd",
+          "taught a lesson"
+        ]
+      ]
+    },
+    "6164": {
+      "t": "Het bonnenboek van Augustus",
+      "d": "Ik ben klaar om zaken te doen! Wat wil je?$B$BO wacht... Ik kan mijn winkel niet openen zonder mijn bonnenboek. Hoe moet ik alles bijhouden zonder mijn bonnenboek?$B$BIk heb het vast ergens in de stad laten liggen. Ik had een kamer in de herberg... het boek moet daar zijn.$B$BBreng me mijn boek. Alsjeblieft, breng het naar me! Breng me mijn boek, dan zul je zien! Dan open ik mijn winkel en zul je zien dat mijn prijzen KRANKZINNIG zijn!",
+      "o": "Breng Augustus' Receipt Book naar Augustus the Touched in Terrordale.",
+      "p": "Heb je mijn bonnenboek? Ik kan niet wachten om weer zaken te doen!",
+      "c": "Daar is het! En o jee! Ik was vergeten hoe vol het was!$B$BDit is een prachtige dag, $N! Fantastisch! Krankzinnig goed, zeg ik!",
+      "g": [
+        [
+          "zaken te doen",
+          "to do business (zaken doen)"
+        ],
+        [
+          "bonnenboek",
+          "receipt book"
+        ],
+        [
+          "bijhouden",
+          "to keep track of"
+        ],
+        [
+          "vast",
+          "surely, must have"
+        ],
+        [
+          "laten liggen",
+          "left behind"
+        ],
+        [
+          "herberg",
+          "inn"
+        ],
+        [
+          "krankzinnig",
+          "insane"
+        ],
+        [
+          "o jee",
+          "oh my"
+        ]
+      ]
+    },
+    "5152": {
+      "t": "Tante Marlene",
+      "d": "O, ik ben zo eenzaam! Waar is mijn familie? Tante Marlene zei dat ik hier moest blijven, maar toen ging ze weg en kwam ze nooit meer terug! En mijn papa... heb jij hem gezien?$B$BMisschien weet Tante Marlene waar hij is. Ze woont bij Andorhal, in een huis in het zuiden. Ik denk dat het op een heuvel was... ze zei dat het op een heuvel was.$B$BAlsjeblieft, $N. Jij bent mijn nieuwe vriend! Wil je met mijn tante praten voor mij?",
+      "o": "Praat met Marlene, ten zuiden van de Ruins of Andorhal.",
+      "c": "Heb je Pamela gezien? Hoe gaat het met haar? Leeft ze nog?? O nee! Arme Pamela! Ze was zo jong, en zo'n vrolijk kind...$B$BZe weet niet wat er met haar vader is gebeurd, hè? Met mijn broer Joseph?$B$BNee... ze kon niet begrijpen wat er met Joseph gebeurde. En zelfs als ze het wel kon, zou ik het niet over mijn hart verkrijgen om het haar te vertellen...",
+      "g": [
+        [
+          "eenzaam",
+          "lonely"
+        ],
+        [
+          "heuvel",
+          "hill"
+        ],
+        [
+          "ten zuiden van",
+          "south of"
+        ],
+        [
+          "leeft",
+          "is alive (leven)"
+        ],
+        [
+          "arme",
+          "poor (arm)"
+        ],
+        [
+          "vrolijk",
+          "happy, cheerful"
+        ],
+        [
+          "zelfs als",
+          "even if"
+        ],
+        [
+          "het niet over mijn hart verkrijgen",
+          "not have the heart (to do something)"
+        ]
+      ]
+    },
+    "5153": {
+      "t": "Een vreemde historica",
+      "d": "Ik wou dat Joseph weer bij zijn dochter kon zijn, maar dat kan niet. Zijn ziel werd verdraaid door de Scourge, en hij werd een monster. O, hij is gedoemd!$B$BMaar misschien kunnen we zijn lot veranderen.$B$BZoek bij de graven buiten naar het grafmonument van Joseph. Zijn lichaam ligt er niet, want dat werd jaren geleden vertrapt en vernietigd. Maar onder het monument ligt zijn trouwring. Breng die ring naar Chromie... een vreemde gnoom met heel vreemde krachten.$B$BChromie verblijft in de verwoeste herberg in de noordwestelijke hoek van Andorhal.",
+      "o": "Breng Joseph's Wedding Ring naar Chromie.",
+      "p": "Je bezoek komt op een opvallend goed moment. Je komt toch niet uit de toekomst?",
+      "c": "Wat is dit? Een trouwring? Laat eens zien...$B$BAh! Deze ring zat ooit aan de hand van een groot man, maar er is veel tragedie in het verleden van die man.$B$BBen je hier om hem te helpen? Voor hem is het nu veel te laat... maar misschien kunnen we hem in het verleden helpen!",
+      "g": [
+        [
+          "historica",
+          "historian (f.)"
+        ],
+        [
+          "ik wou dat",
+          "I wish"
+        ],
+        [
+          "verdraaid",
+          "twisted (verdraaien)"
+        ],
+        [
+          "gedoemd",
+          "doomed"
+        ],
+        [
+          "graven",
+          "graves (graf)"
+        ],
+        [
+          "grafmonument",
+          "grave monument"
+        ],
+        [
+          "vertrapt",
+          "trampled (vertrappen)"
+        ],
+        [
+          "trouwring",
+          "wedding ring"
+        ],
+        [
+          "verblijft",
+          "is staying (verblijven)"
+        ],
+        [
+          "noordwestelijke",
+          "northwest (noordwestelijk)"
+        ],
+        [
+          "opvallend",
+          "remarkably, strikingly"
+        ],
+        [
+          "toekomst",
+          "future"
+        ],
+        [
+          "verleden",
+          "past"
+        ]
+      ]
+    },
+    "5168": {
+      "t": "De helden van Darrowshire",
+      "d": "De helden van Darrowshire hebben een plek in mijn hart, en het boek dat je me bracht, de Annals of Darrowshire, vertelt hun verhalen.$B$BHet vertelt over de paladijn Davil Lightfire, en hoe de Crusade zijn libram naar het stadhuis van Hearthglen bracht.$B$BDe tekst spreekt ook over mijn broer, Captain Redpath. Na zijn verraad werd zijn schild gebarsten en weggegooid. Nu ligt het op de meest onwaarschijnlijke plek: bij de schuur van Gahrron's Withering.$B$BVerzamel deze relikwieën, $N. Want ze zijn omringd door lot en tragedie.",
+      "o": "Breng Davil's Libram en Redpath's Shield naar Carlin Redpath.",
+      "p": "Heb je de relikwieën, $N?",
+      "c": "Je hebt het libram en het schild!$b$bHun geschiedenis is verweven met de geschiedenis van Darrowshire. En op de een of andere manier weet ik dat het lot ze weer samen zal brengen.",
+      "g": [
+        [
+          "paladijn",
+          "paladin"
+        ],
+        [
+          "stadhuis",
+          "town hall"
+        ],
+        [
+          "verraad",
+          "betrayal"
+        ],
+        [
+          "gebarsten",
+          "cracked (barsten)"
+        ],
+        [
+          "weggegooid",
+          "discarded (weggooien)"
+        ],
+        [
+          "onwaarschijnlijke",
+          "unlikely (onwaarschijnlijk)"
+        ],
+        [
+          "schuur",
+          "barn"
+        ],
+        [
+          "relikwieën",
+          "relics (relikwie)"
+        ],
+        [
+          "omringd",
+          "surrounded (omringen)"
+        ],
+        [
+          "verweven",
+          "entwined, interwoven"
+        ],
+        [
+          "op de een of andere manier",
+          "somehow"
+        ]
+      ]
+    },
+    "5210": {
+      "t": "Broeder Carlin",
+      "d": "De Annals of Darrowshire heeft door mijn magie aan het eind nieuwe bladzijden gekregen, en nu gaat de geschiedenis verder dan de slag. Een van de extra stukken vertelt over nog een Redpath, Carlin, die het verraad van Joseph heeft overleefd. Carlin is nu in de Plaguelands in het oosten, bij Light's Hope Chapel.$B$BNeem het boek mee en praat met hem.",
+      "o": "Breng de Extended Annals of Darrowshire naar Carlin Redpath in de Eastern Plaguelands.",
+      "p": "Kom je uit het westen? Hoe gaat het met de rest van Lordaeron? Ik weet dat Andorhal verloren is, maar heeft de Scourge het mooie Tirisfal al bereikt?",
+      "c": "Wat is dit voor boek? De Annals of Darrowshire? Dat was mijn thuis vóór de oorlog... mijn thuis vóór de slag die het verwoestte! Waarom heb je dit boek naar me gebracht?$B$BMaar kijk hier! Aan het eind staan bladzijden die verhalen vertellen over de dagen na de slag! Hier staat een stuk over mij! En een over mijn broer Joseph! Is dit boek waar?$B$BWe moeten de waarheid ontdekken!",
+      "g": [
+        [
+          "bladzijden",
+          "pages (bladzijde)"
+        ],
+        [
+          "stukken",
+          "passages (stuk)"
+        ],
+        [
+          "verraad",
+          "betrayal"
+        ],
+        [
+          "overleefd",
+          "survived (overleven)"
+        ],
+        [
+          "verloren",
+          "lost"
+        ],
+        [
+          "bereikt",
+          "reached (bereiken)"
+        ],
+        [
+          "verwoestte",
+          "destroyed (verwoesten)"
+        ],
+        [
+          "waarheid",
+          "truth"
+        ],
+        [
+          "ontdekken",
+          "to discover"
+        ]
+      ]
+    },
+    "5241": {
+      "t": "Oom Carlin",
+      "d": "Soms, als het nacht is, hoor ik mijn oom Carlin huilen. Het klinkt alsof hij ver weg is, in het oosten.$B$BIk hoop dat hij niet om mij huilt! $N, wil je mijn oom zoeken en hem zeggen dat het goed met me gaat?$B$BAls je hem vindt, zeg dan dat ik op hem wacht. En dat ik het verhaal wil horen dat hij altijd vertelde... dat over de konijnen en de bessenjam! Dat verhaal is zo grappig!",
+      "o": "Vind Carlin Redpath.",
+      "c": "Heb je Pamela gezien? Leeft ze nog?$B$BIs ze dood? Nee! O, Pamela! Waarom lijdt je geest nog in deze wereld? Waarom ben jij gestorven, terwijl het geluk mij in leven houdt? Ik zou meteen met je ruilen en als geest door het dode Darrowshire dwalen, helemaal alleen!$B$BAh, maar dit nieuws kan het lot niet veranderen. Dank je, $N. Nu brandt mijn plicht, mijn plicht tot wraak, even fel als altijd.",
+      "g": [
+        [
+          "oom",
+          "uncle"
+        ],
+        [
+          "het klinkt alsof",
+          "it sounds like"
+        ],
+        [
+          "konijnen",
+          "rabbits (konijn)"
+        ],
+        [
+          "bessenjam",
+          "berry jam"
+        ],
+        [
+          "lijdt",
+          "suffers (lijden)"
+        ],
+        [
+          "geest",
+          "spirit"
+        ],
+        [
+          "terwijl",
+          "while"
+        ],
+        [
+          "in leven houdt",
+          "keeps alive"
+        ],
+        [
+          "ruilen",
+          "to switch, swap"
+        ],
+        [
+          "dwalen",
+          "to wander"
+        ],
+        [
+          "plicht",
+          "duty"
+        ],
+        [
+          "wraak",
+          "revenge"
+        ],
+        [
+          "fel",
+          "fiercely, hot"
+        ]
+      ]
+    },
+    "5246": {
+      "t": "Scherven van het verleden",
+      "d": "Ik besefte niet... Vergeef me mijn harde woorden, $c.$B$BOver de fouten van mijn voorouders wil ik liever niet lang nadenken. Maar als je verzoek echt oprecht is, dan zal ik je helpen.$B$B<Aurora bekijkt de scherven.>$B$BIk denk dat dit de Crystal of Zin-Malor is, een artefact dat sterke arcane krachten kan bevatten en beheersen. Het had voor het goede gebruikt kunnen worden, maar door de kwade bedoelingen van wie het stal, is het in stukken gebroken.$B$BGa naar de Temple of Zin-Malor in Azshara. Ik kan alleen maar hopen dat het boek er nog is.",
+      "o": "Vind de Sacred Highborne Writings in de Temple of Zin-Malor in Azshara en breng ze naar Aurora Skycaller bij de Northpass Tower in de Eastern Plaguelands.",
+      "p": "Alleen in de bladzijden van de heilige geschriften kan ik ontdekken of ik je wel of niet kan helpen...",
+      "c": "Deze bladzijden zijn heel, heel veel jaren niet aangeraakt...",
+      "g": [
+        [
+          "scherven",
+          "fragments, shards (scherf)"
+        ],
+        [
+          "besefte",
+          "realized (beseffen)"
+        ],
+        [
+          "vergeef",
+          "forgive (vergeven)"
+        ],
+        [
+          "voorouders",
+          "ancestors (voorouder)"
+        ],
+        [
+          "verzoek",
+          "request"
+        ],
+        [
+          "oprecht",
+          "genuine, sincere"
+        ],
+        [
+          "artefact",
+          "artifact"
+        ],
+        [
+          "bevatten",
+          "to contain"
+        ],
+        [
+          "beheersen",
+          "to control"
+        ],
+        [
+          "kwade bedoelingen",
+          "evil intentions"
+        ],
+        [
+          "heilige geschriften",
+          "sacred writings"
+        ],
+        [
+          "aangeraakt",
+          "touched (aanraken)"
+        ]
+      ]
+    },
+    "5542": {
+      "t": "Demonenhonden",
+      "d": "Als je hier blijft, vraag ik alleen dat je je kost verdient. We hebben veel lastpakken die wel wat 'discipline' kunnen gebruiken.$B$BJe kunt beginnen met de Plaguehounds en hun zwakke jongen.$B$BIk kan je niet veel teruggeven, maar als het je lukt, krijg je zeker een warme maaltijd en een gesprek.",
+      "o": "Dood 20 Plaguehound Runts, 5 Plaguehounds en 5 Frenzied Plaguehounds. Ga terug naar Tirion Fordring als de taak klaar is.",
+      "p": "Heb geen medelijden met de demonenhonden, $r. Het zijn gruwelen!",
+      "c": "Goed gedaan, $N. Kom. Rust uit. Laten we eten en praten over lang vervlogen dagen!",
+      "g": [
+        [
+          "demonenhonden",
+          "demon dogs"
+        ],
+        [
+          "je kost verdient",
+          "earn your keep (de kost verdienen)"
+        ],
+        [
+          "lastpakken",
+          "nuisances (lastpak)"
+        ],
+        [
+          "zwakke jongen",
+          "runts"
+        ],
+        [
+          "maaltijd",
+          "meal"
+        ],
+        [
+          "medelijden",
+          "pity"
+        ],
+        [
+          "gruwelen",
+          "abominations (gruwel)"
+        ],
+        [
+          "lang vervlogen",
+          "long past"
+        ]
+      ]
+    },
+    "5543": {
+      "t": "Bloedrode luchten",
+      "d": "Wee hen die dwaas de Plaguelands in dwalen. Allerlei smerigheid woont in deze bossen: van de fanatieke Scarlet Crusade, die iedereen doodt die het teken van de Crusade niet draagt, tot de moorddadige Scourge, die alleen hun aantal willen vergroten door meer ondoden aan hun rijen toe te voegen.$B$BZelfs de dieren zijn veranderd in roofzuchtige beesten die mensen eten. Ik vraag je om de wezens te vernietigen die vanuit de lucht aanvallen: de Plaguebats.",
+      "o": "Dood 30 Plaguebats en ga terug naar Tirion Fordring.",
+      "p": "Onderschat het gevleugelde ongedierte niet, $r. De pest heeft ze bovennatuurlijke krachten gegeven.",
+      "c": "Je bent een stralend voorbeeld van fatsoen, $r! Het is lang geleden dat ik het bloed van helden door mijn aderen heb voelen stromen. Je dappere daden beuren me op!",
+      "g": [
+        [
+          "wee hen",
+          "woe to those"
+        ],
+        [
+          "dwaas",
+          "foolishly"
+        ],
+        [
+          "smerigheid",
+          "foulness, filth"
+        ],
+        [
+          "fanatieke",
+          "fanatical (fanatiek)"
+        ],
+        [
+          "moorddadige",
+          "murderous (moorddadig)"
+        ],
+        [
+          "vergroten",
+          "to increase, bolster"
+        ],
+        [
+          "rijen",
+          "ranks (rij)"
+        ],
+        [
+          "roofzuchtige",
+          "rapacious (roofzuchtig)"
+        ],
+        [
+          "gevleugelde",
+          "winged (gevleugeld)"
+        ],
+        [
+          "ongedierte",
+          "vermin"
+        ],
+        [
+          "bovennatuurlijke",
+          "supernatural (bovennatuurlijk)"
+        ],
+        [
+          "fatsoen",
+          "decency"
+        ],
+        [
+          "aderen",
+          "veins (ader)"
+        ],
+        [
+          "beuren ... op",
+          "lift (my) spirits (opbeuren)"
+        ]
+      ]
+    },
+    "5544": {
+      "t": "Aaswormenvlees",
+      "d": "Mijn voedselvoorraad raakt op, $r. Ik schaam me om toe te geven dat ik misschien niet genoeg eten heb om met je te delen.$B$BKun je een oude man helpen met een eenvoudige taak? Hier in de buurt zijn de aaswormen het enige soort dier waar de verwoesting van de pest geen vat op heeft. Het vlees van de wormen smaakt nogal flauw, maar je kunt het makkelijk bewaren, zelfs maandenlang. Ik heb een paar honderd pond nodig om mijn voorraad aan te vullen voor de komende winter!",
+      "o": "Zoek de Carrion Grubs en Devourers in deze streek. Dood ze en verzamel hun vlees. Ga terug naar Tirion Fordring als je 15 Slabs of Carrion Worm Meat hebt verzameld.$b",
+      "p": "Je went wel aan de smaak, $r.",
+      "c": "Moge het Licht over je waken! Wees gezegend, jonge $gman:vrouw;.",
+      "g": [
+        [
+          "aaswormen",
+          "carrion worms (aasworm)"
+        ],
+        [
+          "voedselvoorraad",
+          "food supply"
+        ],
+        [
+          "raakt op",
+          "is running low (opraken)"
+        ],
+        [
+          "schaam me",
+          "am ashamed (zich schamen)"
+        ],
+        [
+          "toe te geven",
+          "to admit (toegeven)"
+        ],
+        [
+          "verwoesting",
+          "ravages, destruction"
+        ],
+        [
+          "geen vat op heeft",
+          "has no hold on, does not affect"
+        ],
+        [
+          "flauw",
+          "bland"
+        ],
+        [
+          "bewaren",
+          "to preserve, keep"
+        ],
+        [
+          "aan te vullen",
+          "to restock (aanvullen)"
+        ],
+        [
+          "went",
+          "get used to (wennen)"
+        ],
+        [
+          "moge",
+          "may"
+        ],
+        [
+          "waken",
+          "to watch over"
+        ],
+        [
+          "gezegend",
+          "blessed"
+        ]
+      ]
+    },
+    "5742": {
+      "t": "Verlossing",
+      "d": "Je hebt hard gewerkt, vriend. Laat je vermoeide botten rusten, en laat mij me eerst netjes voorstellen.$b",
+      "o": "Luister naar wat Tirion Fordring te zeggen heeft.",
+      "p": "Alsjeblieft, vriend, ga zitten en luister naar mijn verhaal.",
+      "c": "De verlossing van de Fordrings wordt een zware taak. Ben je er klaar voor?",
+      "e": "Het verhaal van Tirion",
+      "g": [
+        [
+          "verlossing",
+          "redemption"
+        ],
+        [
+          "vermoeide",
+          "weary (vermoeid)"
+        ],
+        [
+          "botten",
+          "bones (bot)"
+        ],
+        [
+          "netjes",
+          "properly"
+        ],
+        [
+          "voorstellen",
+          "to introduce"
+        ],
+        [
+          "zware",
+          "difficult, heavy (zwaar)"
+        ]
+      ]
+    },
+    "5181": {
+      "t": "De schurken van Darrowshire",
+      "d": "De Annals of Darrowshire vertelt over de schurken van die slag. Het vertelt hoe de ghoulheer Horgus the Ravager tijdens de slag werd vernietigd door troepen van de Alliance. Zijn lichaam werd in een meer gegooid, ten noordwesten van Corin's Crossing, en zijn schedel ligt daar nog.$B$BMarduk the Black werd nooit verslagen, maar zijn beroemde zwaard werd gebroken en raakte kwijt. Het ligt op de bodem van de kloof ten westen van Corin's Crossing.$B$BHaal deze voorwerpen op, $N. Ik weet niet waarom, maar ik weet zeker dat hun lot bij jou ligt.",
+      "o": "Breng de Skull of Horgus en de Shattered Sword of Marduk naar Carlin Redpath in Light's Hope Chapel.",
+      "p": "Heb je de schedel en het zwaard gevonden, $N?",
+      "c": "Je hebt ze gevonden! Goed gedaan, $N! Deze relikwieën hebben een kracht die ik niet helemaal begrijp, een kracht die jij ooit zult gebruiken.$b$bZe brengen ook donkere herinneringen bij me boven: herinneringen aan dood en verraad, en aan de laatste nacht van Darrowshire...",
+      "g": [
+        [
+          "schurken",
+          "villains (schurk)"
+        ],
+        [
+          "ghoulheer",
+          "ghoul lord"
+        ],
+        [
+          "schedel",
+          "skull"
+        ],
+        [
+          "verslagen",
+          "defeated (verslaan)"
+        ],
+        [
+          "beroemde",
+          "fabled, famous (beroemd)"
+        ],
+        [
+          "raakte kwijt",
+          "was lost (kwijtraken)"
+        ],
+        [
+          "bodem",
+          "bottom"
+        ],
+        [
+          "kloof",
+          "gorge"
+        ],
+        [
+          "relikwieën",
+          "relics (relikwie)"
+        ],
+        [
+          "herinneringen",
+          "memories (herinnering)"
+        ],
+        [
+          "brengen ... boven",
+          "bring up (bovenbrengen)"
+        ],
+        [
+          "verraad",
+          "treachery, betrayal"
+        ]
+      ]
+    },
+    "5247": {
+      "t": "Scherven van het verleden",
+      "d": "Ik kan je helpen, als je het artefact echt opnieuw wilt maken.$B$BOm de stukken weer aan elkaar te maken, heb ik voorwerpen nodig met sterke magische eigenschappen. Een Enchanted Thorium Bar en vijf Crystal Restore... Je moet ook wat water halen van een plek die misschien onwaarschijnlijk lijkt... Zoek de dire pool langs Eldreth Row in Dire Maul in Feralas, en vul dit flesje.$B$BTerwijl je weg bent, probeer ik uit deze bladzijden de kennis te halen die ik nodig heb om de schade aan het relikwie te herstellen.",
+      "o": "Breng een Enchanted Thorium Bar, 5 Crystal Restore en een Vial of Dire Water naar Aurora Skycaller bij de Northpass Tower in de Eastern Plaguelands.",
+      "p": "Het relikwie mag alleen in handen komen van de meest betrouwbare mensen. Het mag niet nog een keer gestolen worden...",
+      "c": "Met deze elementen kan ik de scherven aan elkaar smelten... hopelijk tot wat ze vroeger waren.",
+      "g": [
+        [
+          "artefact",
+          "artifact"
+        ],
+        [
+          "eigenschappen",
+          "qualities, properties (eigenschap)"
+        ],
+        [
+          "onwaarschijnlijk",
+          "unlikely"
+        ],
+        [
+          "flesje",
+          "vial, small bottle"
+        ],
+        [
+          "kennis",
+          "knowledge"
+        ],
+        [
+          "schade",
+          "damage"
+        ],
+        [
+          "relikwie",
+          "relic"
+        ],
+        [
+          "herstellen",
+          "to repair"
+        ],
+        [
+          "betrouwbare",
+          "trustworthy (betrouwbaar)"
+        ],
+        [
+          "smelten",
+          "to fuse, melt"
+        ],
+        [
+          "hopelijk",
+          "hopefully"
+        ]
+      ]
+    }
+  },
+  "words": {
+    "aaswormenvlees": "carrion worm meat",
+    "beuren": "lift (opbeuren: to cheer up)",
+    "cannibal": "cannibal (part of an English enemy name)",
+    "chromatische": "chromatic (chromatisch)",
+    "context": "context",
+    "dansten": "danced (dansen)",
+    "discipline": "discipline",
+    "flayers": "flayers (part of an English enemy name)",
+    "gestoten": "bumped, stubbed (stoten)",
+    "gibbering": "gibbering (part of an English enemy name)",
+    "illusionist": "illusionist",
+    "luchten": "skies (lucht)",
+    "maandenlang": "for months",
+    "schaam": "am ashamed (zich schamen)",
+    "sommen": "(op te sommen) to list, recount (opsommen)",
+    "trollendieven": "troll thieves (trollendief)",
+    "vastzetten": "to secure, fix in place",
+    "vervlogen": "long gone, past (vervliegen)",
+    "vijfentwintig": "twenty-five",
+    "wee": "woe",
+    "weggegaan": "gone away, left (weggaan)",
+    "verzette": "opposed, resisted (zich verzetten)"
+  },
+  "terms": {
+    "phylactery": "phylactery: the vessel in which a lich keeps its soul (Warcraft)",
+    "libram": "libram: a holy book used by paladins in the Warcraft world"
+  }
+}
