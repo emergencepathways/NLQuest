@@ -159,6 +159,7 @@ Data\Batch_102_Naxxramas.lua
 Data\Batch_90_Arathi_Basin.lua
 Data\Batch_101_Naxxramas.lua
 Data\Batch_91_Darnassus.lua
+Data\Batch_100_Lunar_Festival.lua
 
 Display.lua
 Reader.lua
