@@ -1,0 +1,1883 @@
+{
+ "quests": {
+  "9229": {
+   "t": "Het lot van Ramaladni",
+   "d": "Ramaladni was een krijger van de Brotherhood - een leerling van Highlord Mograine, nog voordat de Dawn zelfs bestond! Toen het nieuws van Mograines dood hem bereikte, namen haat en woede het van hem over.$B$BBegrijp dit, $N: als woede en wraak de teugels in handen nemen, houdt een man op een man te zijn. De man wordt dan de belichaming van de gevoelens die hem beheersen. En zo zou Ramaladni, de geest van de wraak, Naxxramas binnengaan om wraak te nemen... en nooit terugkeren.$B$BGa Naxxramas binnen en ontdek wat er van Ramaladni geworden is.",
+   "o": "Ga Naxxramas binnen en ontdek het lot van Ramaladni.",
+   "p": "Is er nieuws over Ramaladni?",
+   "c": "Het is zijn ring! Maar hij is kapot. Is er geen ander spoor van Ramaladni gevonden?$B$B<Korfax trekt een grimas.>$B$BDit belooft weinig goeds voor Ramaladni. Maar de ring... die is misschien nog te redden.",
+   "g": [
+    [
+     "lot",
+     "fate"
+    ],
+    [
+     "leerling",
+     "pupil, student"
+    ],
+    [
+     "bestond",
+     "existed (bestaan)"
+    ],
+    [
+     "bereikte",
+     "reached (bereiken)"
+    ],
+    [
+     "haat",
+     "hatred"
+    ],
+    [
+     "wraak",
+     "revenge, retribution"
+    ],
+    [
+     "de teugels in handen nemen",
+     "to take the reins"
+    ],
+    [
+     "houdt op",
+     "stops, ceases (ophouden)"
+    ],
+    [
+     "belichaming",
+     "embodiment, personification"
+    ],
+    [
+     "beheersen",
+     "to control, to rule"
+    ],
+    [
+     "spoor",
+     "trace, sign"
+    ],
+    [
+     "trekt een grimas",
+     "grimaces (een grimas trekken)"
+    ],
+    [
+     "belooft weinig goeds",
+     "does not bode well"
+    ],
+    [
+     "te redden",
+     "salvageable, can be saved"
+    ]
+   ]
+  },
+  "9230": {
+   "t": "Ramaladni's ijzige greep",
+   "d": "Deze ring repareren kan behoorlijk lastig blijken, $N. Weet je, hij is gemaakt van precies de runen die zich vormen in de gebouwen van de Scourge - zoals Naxxramas. Er zijn ook nog andere materialen nodig, maar je moet je vooral richten op die bevroren runen. Breng me wat ik nodig heb, en ik geef de ring zijn oude glorie terug.",
+   "o": "Korfax bij Light's Hope Chapel in de Eastern Plaguelands wil dat je hem 1 Frozen Rune, 1 Blue Sapphire en 1 Arcanite Bar brengt.$b",
+   "p": "Bevroren runen zijn waarschijnlijk te vinden in Naxxramas.",
+   "c": "Ramaladni zelf had het niet beter kunnen doen! Hier is de ring, zoals beloofd.",
+   "g": [
+    [
+     "ijzige",
+     "icy (ijzig)"
+    ],
+    [
+     "greep",
+     "grasp, grip"
+    ],
+    [
+     "behoorlijk",
+     "quite, rather"
+    ],
+    [
+     "lastig",
+     "difficult, tricky"
+    ],
+    [
+     "blijken",
+     "to turn out, to prove"
+    ],
+    [
+     "runen",
+     "runes (rune)"
+    ],
+    [
+     "zich vormen",
+     "to form"
+    ],
+    [
+     "richten op",
+     "to focus on"
+    ],
+    [
+     "bevroren",
+     "frozen"
+    ],
+    [
+     "glorie",
+     "glory"
+    ]
+   ]
+  },
+  "9232": {
+   "t": "Het enige liedje dat ik ken...",
+   "d": "Dus jij vindt jezelf een held van de Dawn, hè? Ik heb onze beste soldaten onder de voet gelopen zien worden door het voetvolk van Kel'Thuzad! Hoe goed zou iemand die er zo weinig van snapt het er in Naxxramas vanaf kunnen brengen?$B$B<Wilhelm zucht.>$B$BBah, welke keus heb ik? Jij bent het beste wat ik heb; dan kan ik je net zo goed helpen.$B$BOmarion heeft me één recept nagelaten. Het is het enige liedje dat ik ken... Ik kan een paar varianten van deze broek maken; jij moet alleen de materialen leveren.",
+   "o": "Craftsman Wilhelm bij Light's Hope Chapel in de Eastern Plaguelands wil dat je hem 2 Frozen Runes, 2 Essence of Water, 2 Blue Sapphires en 30 goudstukken brengt.",
+   "p": "Je bent Omarion zeker niet tegengekomen?",
+   "c": "<Wilhelm veegt het zweet van zijn voorhoofd.>$B$BDat was zwaar werk! Veel plezier met de broek, $C. Dan ga je tenminste dood in een schone broek.",
+   "g": [
+    [
+     "onder de voet gelopen",
+     "rolled over, trampled"
+    ],
+    [
+     "voetvolk",
+     "foot soldiers, rank and file"
+    ],
+    [
+     "snapt",
+     "understands, gets (snappen)"
+    ],
+    [
+     "het er vanaf brengen",
+     "to fare, to manage"
+    ],
+    [
+     "zucht",
+     "sighs (zuchten)"
+    ],
+    [
+     "net zo goed",
+     "just as well"
+    ],
+    [
+     "nagelaten",
+     "left behind (nalaten)"
+    ],
+    [
+     "varianten",
+     "variations (variant)"
+    ],
+    [
+     "leveren",
+     "to supply, to deliver"
+    ],
+    [
+     "tegengekomen",
+     "run into, met (tegenkomen)"
+    ],
+    [
+     "veegt",
+     "wipes (vegen)"
+    ],
+    [
+     "zweet",
+     "sweat"
+    ],
+    [
+     "voorhoofd",
+     "forehead, brow"
+    ],
+    [
+     "tenminste",
+     "at least"
+    ]
+   ]
+  },
+  "9233": {
+   "t": "Het handboek van Omarion",
+   "d": "Wilhelm,$B$BAls je dit leest, ben ik gestorven - eindelijk. Ik wil dat je weet dat mijn laatste gedachten om jou draaiden, en om je onkunde als het om ambachten gaat. Helaas is de drager van dit handboek er nog slechter aan toe dan jij, als het om vakwerk gaat.$B$BOver het boek: dit is de rest van mijn recepten. Maak voor de drager van dit boek wat die maar vraagt. Ik weet zeker dat je een flinke prijs vraagt voor je diensten, want je bent tenslotte een schoft.$B$BMet minachting,$B$BOmarion",
+   "o": "Breng Omarion's Handbook naar Craftsman Wilhelm bij Light's Hope Chapel in de Eastern Plaguelands.$b",
+   "p": "Is dat wat ik denk dat het is?$B$B<Wilhelm lijkt te kwijlen.>",
+   "c": "Hij was vast echt niet goed bij zijn hoofd toen hij dit schreef! Omarion en ik - wij waren twee handen op één buik!$B$BHoe dan ook, dit opent zeker nieuwe mogelijkheden, $N. Ik kan nu meer voorwerpen maken - voor een kleine vergoeding en de kosten van het materiaal, natuurlijk.",
+   "g": [
+    [
+     "handboek",
+     "handbook"
+    ],
+    [
+     "gedachten",
+     "thoughts (gedachte)"
+    ],
+    [
+     "draaiden om",
+     "revolved around (draaien om)"
+    ],
+    [
+     "onkunde",
+     "ineptitude, lack of skill"
+    ],
+    [
+     "ambachten",
+     "trades, crafts (ambacht)"
+    ],
+    [
+     "drager",
+     "bearer, carrier"
+    ],
+    [
+     "er slechter aan toe",
+     "in worse shape"
+    ],
+    [
+     "vakwerk",
+     "craftsmanship, skilled work"
+    ],
+    [
+     "flinke",
+     "hefty, considerable (flink)"
+    ],
+    [
+     "schoft",
+     "bastard, scoundrel"
+    ],
+    [
+     "minachting",
+     "disdain, contempt"
+    ],
+    [
+     "kwijlen",
+     "to drool"
+    ],
+    [
+     "niet goed bij zijn hoofd",
+     "off his rocker, not right in the head"
+    ],
+    [
+     "twee handen op één buik",
+     "thick as thieves"
+    ],
+    [
+     "vergoeding",
+     "fee, payment"
+    ]
+   ]
+  },
+  "9234": {
+   "t": "Icebane-handschoenen",
+   "d": "Dankzij jou en Omarion, moge hij rusten in vrede, kan ik nu Icebane-handschoenen maken. Je hoeft me alleen de materialen te brengen en een kleine vergoeding te betalen voor het maakwerk.",
+   "o": "Craftsman Wilhelm bij Light's Hope Chapel in de Eastern Plaguelands wil 5 Frozen Runes, 12 Thorium Bars, 2 Arcanite Bars, 2 Essences of Water en 200 goud.",
+   "p": "Heb je de materialen meegebracht?",
+   "c": "Hier is je bestelling, $N. Geleverd zoals beloofd!",
+   "g": [
+    [
+     "dankzij",
+     "thanks to"
+    ],
+    [
+     "moge hij rusten in vrede",
+     "may he rest in peace"
+    ],
+    [
+     "vergoeding",
+     "fee"
+    ],
+    [
+     "maakwerk",
+     "crafting work"
+    ],
+    [
+     "materialen",
+     "materials (materiaal)"
+    ],
+    [
+     "bestelling",
+     "order"
+    ],
+    [
+     "geleverd",
+     "delivered (leveren)"
+    ],
+    [
+     "handschoenen",
+     "gauntlets, gloves"
+    ]
+   ]
+  },
+  "9235": {
+   "t": "Icebane-polsbeschermers",
+   "d": "Dankzij jou en Omarion (moge hij rusten in vrede) kan ik nu Icebane-polsbeschermers maken. Je hoeft me alleen de materialen te brengen en een kleine vergoeding te betalen voor het maakwerk.",
+   "o": "Craftsman Wilhelm bij Light's Hope Chapel in de Eastern Plaguelands wil 4 Frozen Runes, 12 Thorium Bars, 2 Arcanite Bars, 2 Essence of Water en 200 goud.",
+   "p": "Heb je de materialen meegebracht?",
+   "c": "Hier is je bestelling, $N. Geleverd zoals beloofd!",
+   "g": [
+    [
+     "dankzij",
+     "thanks to"
+    ],
+    [
+     "moge hij rusten in vrede",
+     "may he rest in peace"
+    ],
+    [
+     "vergoeding",
+     "fee"
+    ],
+    [
+     "maakwerk",
+     "crafting work"
+    ],
+    [
+     "materialen",
+     "materials (materiaal)"
+    ],
+    [
+     "bestelling",
+     "order"
+    ],
+    [
+     "geleverd",
+     "delivered (leveren)"
+    ],
+    [
+     "polsbeschermers",
+     "bracers, wrist guards"
+    ]
+   ]
+  },
+  "9236": {
+   "t": "Icebane-borstplaat",
+   "d": "Dankzij jou en Omarion (moge hij rusten in vrede) kan ik nu een Icebane-borstplaat maken. Je hoeft me alleen de materialen te brengen en een kleine vergoeding te betalen voor het maakwerk.",
+   "o": "Craftsman Wilhelm bij Light's Hope Chapel in de Eastern Plaguelands wil 8 Frozen Runes, 16 Thorium Bars, 2 Arcanite Bars, 4 Essence of Water en 300 goud. Je hebt ook de reputatie Exalted bij de Argent Dawn nodig.$b",
+   "p": "Heb je de materialen meegebracht?",
+   "c": "Hier is je bestelling, $N. Geleverd zoals beloofd!",
+   "g": [
+    [
+     "dankzij",
+     "thanks to"
+    ],
+    [
+     "moge hij rusten in vrede",
+     "may he rest in peace"
+    ],
+    [
+     "vergoeding",
+     "fee"
+    ],
+    [
+     "maakwerk",
+     "crafting work"
+    ],
+    [
+     "materialen",
+     "materials (materiaal)"
+    ],
+    [
+     "bestelling",
+     "order"
+    ],
+    [
+     "geleverd",
+     "delivered (leveren)"
+    ],
+    [
+     "borstplaat",
+     "breastplate"
+    ],
+    [
+     "reputatie",
+     "reputation"
+    ]
+   ]
+  },
+  "9237": {
+   "t": "Glacial-mantel",
+   "d": "Dankzij jou en Omarion, moge hij rusten in vrede, kan ik nu een Glacial-mantel maken. Je hoeft me alleen de materialen te brengen en een kleine vergoeding te betalen voor het maakwerk.",
+   "o": "Craftsman Wilhelm bij Light's Hope Chapel in de Eastern Plaguelands wil 5 Frozen Runes, 4 Bolts of Runecloth, 2 Essences of Water, 4 Ironweb Spider Silks en 200 goud. Je moet ook de reputatie Exalted hebben bij de Argent Dawn.",
+   "p": "Heb je de materialen meegebracht?",
+   "c": "Hier is je bestelling, $N. Geleverd zoals beloofd!",
+   "g": [
+    [
+     "dankzij",
+     "thanks to"
+    ],
+    [
+     "moge hij rusten in vrede",
+     "may he rest in peace"
+    ],
+    [
+     "vergoeding",
+     "fee"
+    ],
+    [
+     "maakwerk",
+     "crafting work"
+    ],
+    [
+     "materialen",
+     "materials (materiaal)"
+    ],
+    [
+     "bestelling",
+     "order"
+    ],
+    [
+     "geleverd",
+     "delivered (leveren)"
+    ],
+    [
+     "mantel",
+     "cloak"
+    ],
+    [
+     "reputatie",
+     "reputation"
+    ]
+   ]
+  },
+  "9238": {
+   "t": "Glacial-polsbanden",
+   "d": "Dankzij jou en Omarion, moge hij rusten in vrede, kan ik nu Glacial-polsbanden maken. Je hoeft me alleen de materialen te brengen en een kleine vergoeding te betalen voor het maakwerk.",
+   "o": "Craftsman Wilhelm bij Light's Hope Chapel in de Eastern Plaguelands wil 4 Frozen Runes, 2 Bolts of Runecloth, 2 Essences of Water, 2 Ironweb Spider Silks en 200 goud.",
+   "c": "Dat is een gezicht dat ik niet zo snel weer verwachtte te zien.$B$BDit is echt goed nieuws, $N, op meer manieren dan je je kunt voorstellen.",
+   "g": [
+    [
+     "dankzij",
+     "thanks to"
+    ],
+    [
+     "moge hij rusten in vrede",
+     "may he rest in peace"
+    ],
+    [
+     "vergoeding",
+     "fee"
+    ],
+    [
+     "maakwerk",
+     "crafting work"
+    ],
+    [
+     "polsbanden",
+     "wristbands"
+    ],
+    [
+     "gezicht",
+     "face"
+    ],
+    [
+     "verwachtte",
+     "expected (verwachten)"
+    ],
+    [
+     "op meer manieren",
+     "in more ways"
+    ],
+    [
+     "voorstellen",
+     "to imagine (zich voorstellen)"
+    ]
+   ]
+  },
+  "9239": {
+   "t": "Glacial-handschoenen",
+   "d": "Dankzij jou en Omarion, moge hij rusten in vrede, kan ik nu Glacial-handschoenen maken. Je hoeft me alleen de materialen te brengen en een kleine vergoeding te betalen voor het maakwerk.",
+   "o": "Craftsman Wilhelm bij Light's Hope Chapel in de Eastern Plaguelands wil 5 Frozen Runes, 4 Bolts of Runecloth, 4 Essences of Water, 2 Ironweb Spider Silks en 200 goud.",
+   "p": "Heb je de materialen meegebracht?",
+   "c": "Hier is je bestelling, $N. Geleverd zoals beloofd!",
+   "g": [
+    [
+     "dankzij",
+     "thanks to"
+    ],
+    [
+     "moge hij rusten in vrede",
+     "may he rest in peace"
+    ],
+    [
+     "vergoeding",
+     "fee"
+    ],
+    [
+     "maakwerk",
+     "crafting work"
+    ],
+    [
+     "materialen",
+     "materials (materiaal)"
+    ],
+    [
+     "bestelling",
+     "order"
+    ],
+    [
+     "geleverd",
+     "delivered (leveren)"
+    ],
+    [
+     "handschoenen",
+     "gauntlets, gloves"
+    ]
+   ]
+  },
+  "9240": {
+   "t": "Glacial-vest",
+   "d": "Dankzij jou en Omarion, moge hij rusten in vrede, kan ik nu een Glacial-vest maken. Je hoeft me alleen de materialen te brengen en een kleine vergoeding te betalen voor het maakwerk.",
+   "o": "Craftsman Wilhelm bij Light's Hope Chapel in de Eastern Plaguelands wil 8 Frozen Runes, 8 Bolts of Runecloth, 6 Essences of Water, 4 Ironweb Spider Silks en 300 goud. Je moet ook de reputatie Exalted hebben bij de Argent Dawn.",
+   "p": "Heb je de materialen meegebracht?",
+   "c": "Hier is je bestelling, $N. Geleverd zoals beloofd!",
+   "g": [
+    [
+     "dankzij",
+     "thanks to"
+    ],
+    [
+     "moge hij rusten in vrede",
+     "may he rest in peace"
+    ],
+    [
+     "vergoeding",
+     "fee"
+    ],
+    [
+     "maakwerk",
+     "crafting work"
+    ],
+    [
+     "materialen",
+     "materials (materiaal)"
+    ],
+    [
+     "bestelling",
+     "order"
+    ],
+    [
+     "geleverd",
+     "delivered (leveren)"
+    ],
+    [
+     "vest",
+     "vest"
+    ],
+    [
+     "reputatie",
+     "reputation"
+    ]
+   ]
+  },
+  "9241": {
+   "t": "Polar-polsbeschermers",
+   "d": "Dankzij jou en Omarion (moge hij rusten in vrede) kan ik nu Polar-polsbeschermers maken. Je hoeft me alleen de materialen te brengen en een kleine vergoeding te betalen voor het maakwerk.",
+   "o": "Craftsman Wilhelm bij Light's Hope Chapel in de Eastern Plaguelands wil 4 Frozen Runes, 12 Enchanted Leather, 3 Essence of Water, 3 Cured Rugged Hides en 200 goud. $b",
+   "p": "Heb je de materialen meegebracht?",
+   "c": "Hier is je bestelling, $N. Geleverd zoals beloofd!",
+   "g": [
+    [
+     "dankzij",
+     "thanks to"
+    ],
+    [
+     "moge hij rusten in vrede",
+     "may he rest in peace"
+    ],
+    [
+     "vergoeding",
+     "fee"
+    ],
+    [
+     "maakwerk",
+     "crafting work"
+    ],
+    [
+     "materialen",
+     "materials (materiaal)"
+    ],
+    [
+     "bestelling",
+     "order"
+    ],
+    [
+     "geleverd",
+     "delivered (leveren)"
+    ],
+    [
+     "polsbeschermers",
+     "bracers, wrist guards"
+    ]
+   ]
+  },
+  "9242": {
+   "t": "Polar-handschoenen",
+   "d": "Dankzij jou en Omarion (moge hij rusten in vrede) kan ik nu Polar-handschoenen maken. Je hoeft me alleen de materialen te brengen en een kleine vergoeding te betalen voor het maakwerk.",
+   "o": "Craftsman Wilhelm bij Light's Hope Chapel in de Eastern Plaguelands wil 5 Frozen Runes, 12 Enchanted Leather, 3 Essence of Water, 3 Cured Rugged Hides en 200 goud.",
+   "p": "Heb je de materialen meegebracht?",
+   "c": "Hier is je bestelling, $N. Geleverd zoals beloofd!",
+   "g": [
+    [
+     "dankzij",
+     "thanks to"
+    ],
+    [
+     "moge hij rusten in vrede",
+     "may he rest in peace"
+    ],
+    [
+     "vergoeding",
+     "fee"
+    ],
+    [
+     "maakwerk",
+     "crafting work"
+    ],
+    [
+     "materialen",
+     "materials (materiaal)"
+    ],
+    [
+     "bestelling",
+     "order"
+    ],
+    [
+     "geleverd",
+     "delivered (leveren)"
+    ],
+    [
+     "handschoenen",
+     "gauntlets, gloves"
+    ]
+   ]
+  },
+  "9243": {
+   "t": "Polar-tuniek",
+   "d": "Dankzij jou en Omarion, moge hij rusten in vrede, kan ik nu een Polar-tuniek maken. Je hoeft me alleen de materialen te brengen en een kleine vergoeding te betalen voor het maakwerk.",
+   "o": "Craftsman Wilhelm bij Light's Hope Chapel in de Eastern Plaguelands wil 8 Frozen Runes, 16 Enchanted Leathers, 5 Essences of Water, 5 Cured Rugged Hides en 300 goud. Je moet ook de reputatie Exalted hebben bij de Argent Dawn.",
+   "p": "Heb je de materialen meegebracht?",
+   "c": "Hier is je bestelling, $N. Geleverd zoals beloofd!",
+   "g": [
+    [
+     "dankzij",
+     "thanks to"
+    ],
+    [
+     "moge hij rusten in vrede",
+     "may he rest in peace"
+    ],
+    [
+     "vergoeding",
+     "fee"
+    ],
+    [
+     "maakwerk",
+     "crafting work"
+    ],
+    [
+     "materialen",
+     "materials (materiaal)"
+    ],
+    [
+     "bestelling",
+     "order"
+    ],
+    [
+     "geleverd",
+     "delivered (leveren)"
+    ],
+    [
+     "tuniek",
+     "tunic"
+    ],
+    [
+     "reputatie",
+     "reputation"
+    ]
+   ]
+  },
+  "9244": {
+   "t": "Icy Scale-polsbeschermers",
+   "d": "Dankzij jou en Omarion, moge hij rusten in vrede, kan ik nu Icy Scale-polsbeschermers maken. Je hoeft me alleen de materialen te brengen en een kleine vergoeding te betalen voor het maakwerk.",
+   "o": "Craftsman Wilhelm bij Light's Hope Chapel in de Eastern Plaguelands wil 4 Frozen Runes, 16 Heavy Scorpid Scales, 5 Essences of Water, 3 Cured Rugged Hides en 200 goud.",
+   "p": "Heb je de materialen meegebracht?",
+   "c": "Hier is je bestelling, $N. Geleverd zoals beloofd!",
+   "g": [
+    [
+     "dankzij",
+     "thanks to"
+    ],
+    [
+     "moge hij rusten in vrede",
+     "may he rest in peace"
+    ],
+    [
+     "vergoeding",
+     "fee"
+    ],
+    [
+     "maakwerk",
+     "crafting work"
+    ],
+    [
+     "materialen",
+     "materials (materiaal)"
+    ],
+    [
+     "bestelling",
+     "order"
+    ],
+    [
+     "geleverd",
+     "delivered (leveren)"
+    ],
+    [
+     "polsbeschermers",
+     "bracers, wrist guards"
+    ]
+   ]
+  },
+  "9245": {
+   "t": "Icy Scale-handschoenen",
+   "d": "Dankzij jou en Omarion (moge hij rusten in vrede) kan ik nu Icy Scale-handschoenen maken. Je hoeft me alleen de materialen te brengen en een kleine vergoeding te betalen voor het maakwerk.",
+   "o": "Craftsman Wilhelm bij Light's Hope Chapel in de Eastern Plaguelands wil 5 Frozen Runes, 16 Heavy Scorpid Scale, 5 Essence of Water, 3 Cured Rugged Hides en 200 goud.",
+   "p": "Heb je de materialen meegebracht?",
+   "c": "Hier is je bestelling, $N. Geleverd zoals beloofd!",
+   "g": [
+    [
+     "dankzij",
+     "thanks to"
+    ],
+    [
+     "moge hij rusten in vrede",
+     "may he rest in peace"
+    ],
+    [
+     "vergoeding",
+     "fee"
+    ],
+    [
+     "maakwerk",
+     "crafting work"
+    ],
+    [
+     "materialen",
+     "materials (materiaal)"
+    ],
+    [
+     "bestelling",
+     "order"
+    ],
+    [
+     "geleverd",
+     "delivered (leveren)"
+    ],
+    [
+     "handschoenen",
+     "gauntlets, gloves"
+    ]
+   ]
+  },
+  "9246": {
+   "t": "Icy Scale-borstplaat",
+   "d": "Dankzij jou en Omarion (moge hij rusten in vrede) kan ik nu een Icy Scale-borstplaat maken. Je hoeft me alleen de materialen te brengen en een kleine vergoeding te betalen voor het maakwerk.",
+   "o": "Craftsman Wilhelm bij Light's Hope Chapel in de Eastern Plaguelands wil 8 Frozen Runes, 24 Heavy Scorpid Scale, 7 Essence of Water, 5 Cured Rugged Hides en 300 goud. Je moet ook de reputatie Exalted hebben bij de Argent Dawn.",
+   "p": "Heb je de materialen meegebracht?",
+   "c": "Hier is je bestelling, $N. Geleverd zoals beloofd!",
+   "g": [
+    [
+     "dankzij",
+     "thanks to"
+    ],
+    [
+     "moge hij rusten in vrede",
+     "may he rest in peace"
+    ],
+    [
+     "vergoeding",
+     "fee"
+    ],
+    [
+     "maakwerk",
+     "crafting work"
+    ],
+    [
+     "materialen",
+     "materials (materiaal)"
+    ],
+    [
+     "bestelling",
+     "order"
+    ],
+    [
+     "geleverd",
+     "delivered (leveren)"
+    ],
+    [
+     "borstplaat",
+     "breastplate"
+    ],
+    [
+     "reputatie",
+     "reputation"
+    ]
+   ]
+  },
+  "7509": {
+   "t": "Het smeden van Quel'Serrar",
+   "d": "Neem het onverhitte oude zwaard mee naar het hol van Onyxia en ga het gevecht met haar aan.$B$BOm het zwaard te verhitten, zul je een list moeten gebruiken. Tijdens het gevecht zal ze zeker proberen je te verbranden met haar vurige adem. Je moet het onverhitte oude zwaard in de buurt in de grond steken en hopen dat haar vurige adem het zwaard verhit. Als je dat overleeft, pak je het nu verhitte oude zwaard op en maak je de draak af.$B$BSteek het verhitte oude zwaard in haar smeulende lijk om er het behandelde oude zwaard van te maken.",
+   "o": "Je moet Onyxia vuur laten spuwen op de Unfired Ancient Blade. Als dat gelukt is, pak je de Heated Ancient Blade op. Let op: een Heated Ancient Blade blijft niet voor altijd heet - haast is geboden.$B$BDe laatste stap voordat je bij mij terugkomt, is het beest doden en de Heated Ancient Blade in haar lijk steken.$B$BDoe dit, en Quel'Serrar wordt van jou.",
+   "p": "Misschien zal op een dag een ander het veelkleurige zwaard hanteren.",
+   "c": "<Lydros mompelt iets onverstaanbaars.>$B$BZoals beloofd, $C: het zwaard Quel'Serrar.",
+   "g": [
+    [
+     "smeden",
+     "forging (smeden)"
+    ],
+    [
+     "onverhitte",
+     "unfired, unheated (onverhit)"
+    ],
+    [
+     "hol",
+     "lair, den"
+    ],
+    [
+     "list",
+     "trick, ruse"
+    ],
+    [
+     "verhitten",
+     "to heat"
+    ],
+    [
+     "verbranden",
+     "to burn, to incinerate"
+    ],
+    [
+     "vurige",
+     "fiery (vurig)"
+    ],
+    [
+     "adem",
+     "breath"
+    ],
+    [
+     "overleeft",
+     "survive (overleven)"
+    ],
+    [
+     "maak je af",
+     "finish off (afmaken)"
+    ],
+    [
+     "smeulende",
+     "smoldering (smeulen)"
+    ],
+    [
+     "lijk",
+     "corpse"
+    ],
+    [
+     "spuwen",
+     "to spit, to breathe (fire)"
+    ],
+    [
+     "haast is geboden",
+     "time is of the essence"
+    ],
+    [
+     "hanteren",
+     "to wield, to handle"
+    ],
+    [
+     "mompelt",
+     "murmurs (mompelen)"
+    ],
+    [
+     "onverstaanbaars",
+     "something unintelligible (onverstaanbaar)"
+    ]
+   ]
+  },
+  "8811": {
+   "t": "Eén Commendation Signet",
+   "p": "Avonturiers die maar één Commendation Signet hebben, kunnen die bij mij inruilen voor een beetje erkenning bij Darnassus.$B$BHoud er wel rekening mee dat het beter is om een stapel van tien tegelijk in te leveren; je inspanningen krijgen dan meer erkenning. We bieden het inruilen van één Commendation Signet aan als dienst voor wie er niet genoeg heeft voor een volle stapel van tien.$B$BDat gezegd hebbende: ik sta klaar om je te helpen als je toch één Commendation Signet wilt inleveren.",
+   "c": "Goed dan - je daden zijn in de archieven opgenomen, en je krijgt de erkenning die je verdient voor je inspanningen. Ga zo door, $c.$B$BAls je nog meer Commendation Signets wilt inleveren, kan ik je daar verder mee helpen.",
+   "g": [
+    [
+     "inruilen",
+     "to exchange, to trade in"
+    ],
+    [
+     "erkenning",
+     "recognition"
+    ],
+    [
+     "houd er rekening mee",
+     "bear in mind"
+    ],
+    [
+     "stapel",
+     "stack, pile"
+    ],
+    [
+     "tegelijk",
+     "at once, at the same time"
+    ],
+    [
+     "inleveren",
+     "to hand in"
+    ],
+    [
+     "inspanningen",
+     "efforts (inspanning)"
+    ],
+    [
+     "dienst",
+     "service"
+    ],
+    [
+     "dat gezegd hebbende",
+     "with that being said"
+    ],
+    [
+     "daden",
+     "deeds (daad)"
+    ],
+    [
+     "archieven",
+     "records, archives (archief)"
+    ],
+    [
+     "opgenomen",
+     "entered, recorded (opnemen)"
+    ],
+    [
+     "verdient",
+     "deserve (verdienen)"
+    ]
+   ]
+  },
+  "8812": {
+   "t": "Eén Commendation Signet",
+   "p": "Avonturiers die maar één Commendation Signet hebben, kunnen die bij mij inruilen voor een beetje erkenning bij de Gnomeregan Exiles.$B$BHoud er wel rekening mee dat het beter is om een stapel van tien tegelijk in te leveren; je inspanningen krijgen dan meer erkenning. We bieden het inruilen van één Commendation Signet aan als dienst voor wie er niet genoeg heeft voor een volle stapel van tien.$B$BDat gezegd hebbende: ik sta klaar om je te helpen als je toch één Commendation Signet wilt inleveren.",
+   "c": "Goed dan - je daden zijn in de archieven opgenomen, en je krijgt de erkenning die je verdient voor je inspanningen. Ga zo door, $c.$B$BAls je nog meer Commendation Signets wilt inleveren, kan ik je daar verder mee helpen.",
+   "g": [
+    [
+     "inruilen",
+     "to exchange, to trade in"
+    ],
+    [
+     "erkenning",
+     "recognition"
+    ],
+    [
+     "houd er rekening mee",
+     "bear in mind"
+    ],
+    [
+     "stapel",
+     "stack, pile"
+    ],
+    [
+     "tegelijk",
+     "at once, at the same time"
+    ],
+    [
+     "inleveren",
+     "to hand in"
+    ],
+    [
+     "inspanningen",
+     "efforts (inspanning)"
+    ],
+    [
+     "dienst",
+     "service"
+    ],
+    [
+     "dat gezegd hebbende",
+     "with that being said"
+    ],
+    [
+     "daden",
+     "deeds (daad)"
+    ],
+    [
+     "archieven",
+     "records, archives (archief)"
+    ],
+    [
+     "opgenomen",
+     "entered, recorded (opnemen)"
+    ],
+    [
+     "verdient",
+     "deserve (verdienen)"
+    ]
+   ]
+  },
+  "8813": {
+   "t": "Eén Commendation Signet",
+   "p": "Avonturiers die maar één Commendation Signet hebben, kunnen die bij mij inruilen voor een beetje erkenning bij Ironforge.$B$BHoud er wel rekening mee dat het beter is om een stapel van tien tegelijk in te leveren; je inspanningen krijgen dan meer erkenning. We bieden het inruilen van één Commendation Signet aan als dienst voor wie er niet genoeg heeft voor een volle stapel van tien.$B$BDat gezegd hebbende: ik sta klaar om je te helpen als je toch één Commendation Signet wilt inleveren.",
+   "c": "Goed dan - je daden zijn in de archieven opgenomen, en je krijgt de erkenning die je verdient voor je inspanningen. Ga zo door, $c.$B$BAls je nog meer Commendation Signets wilt inleveren, kan ik je daar verder mee helpen.",
+   "g": [
+    [
+     "inruilen",
+     "to exchange, to trade in"
+    ],
+    [
+     "erkenning",
+     "recognition"
+    ],
+    [
+     "houd er rekening mee",
+     "bear in mind"
+    ],
+    [
+     "stapel",
+     "stack, pile"
+    ],
+    [
+     "tegelijk",
+     "at once, at the same time"
+    ],
+    [
+     "inleveren",
+     "to hand in"
+    ],
+    [
+     "inspanningen",
+     "efforts (inspanning)"
+    ],
+    [
+     "dienst",
+     "service"
+    ],
+    [
+     "dat gezegd hebbende",
+     "with that being said"
+    ],
+    [
+     "daden",
+     "deeds (daad)"
+    ],
+    [
+     "archieven",
+     "records, archives (archief)"
+    ],
+    [
+     "opgenomen",
+     "entered, recorded (opnemen)"
+    ],
+    [
+     "verdient",
+     "deserve (verdienen)"
+    ]
+   ]
+  },
+  "8814": {
+   "t": "Eén Commendation Signet",
+   "p": "Avonturiers die maar één Commendation Signet hebben, kunnen die bij mij inruilen voor een beetje erkenning bij Stormwind.$B$BHoud er wel rekening mee dat het beter is om een stapel van tien tegelijk in te leveren; je inspanningen krijgen dan meer erkenning. We bieden het inruilen van één Commendation Signet aan als dienst voor wie er niet genoeg heeft voor een volle stapel van tien.$B$BDat gezegd hebbende: ik sta klaar om je te helpen als je toch één Commendation Signet wilt inleveren.",
+   "c": "Goed dan - je daden zijn in de archieven opgenomen, en je krijgt de erkenning die je verdient voor je inspanningen. Ga zo door, $c.$B$BAls je nog meer Commendation Signets wilt inleveren, kan ik je daar verder mee helpen.",
+   "g": [
+    [
+     "inruilen",
+     "to exchange, to trade in"
+    ],
+    [
+     "erkenning",
+     "recognition"
+    ],
+    [
+     "houd er rekening mee",
+     "bear in mind"
+    ],
+    [
+     "stapel",
+     "stack, pile"
+    ],
+    [
+     "tegelijk",
+     "at once, at the same time"
+    ],
+    [
+     "inleveren",
+     "to hand in"
+    ],
+    [
+     "inspanningen",
+     "efforts (inspanning)"
+    ],
+    [
+     "dienst",
+     "service"
+    ],
+    [
+     "dat gezegd hebbende",
+     "with that being said"
+    ],
+    [
+     "daden",
+     "deeds (daad)"
+    ],
+    [
+     "archieven",
+     "records, archives (archief)"
+    ],
+    [
+     "opgenomen",
+     "entered, recorded (opnemen)"
+    ],
+    [
+     "verdient",
+     "deserve (verdienen)"
+    ]
+   ]
+  },
+  "8819": {
+   "t": "Tien Commendation Signets",
+   "p": "Ik neem Commendation Signets aan van avonturiers die ze tijdens hun plicht hebben gekregen. Voor elke set van tien die je mij geeft, zorg ik ervoor dat je daden bij Darnassus flink erkend worden. Ik neem ook losse exemplaren aan, maar die leveren veel minder erkenning op. We zijn veel meer geïnteresseerd in grotere plichtsdaden, al wordt geen enkele daad genegeerd.$B$BDat gezegd hebbende: ik neem je Commendation Signets graag aan als je klaar bent om een set in te leveren.",
+   "c": "Uitstekend! Je hebt geen klein offer gebracht om deze Commendation Signets te verdienen, en je krijgt de erkenning die past bij je dienst. Het zijn avonturiers zoals jij, $N, die echt het verschil maken.$B$BLaat me weten als je nog meer Commendation Signets wilt inleveren; ik help je graag met alle die je wilt inruilen.",
+   "g": [
+    [
+     "plicht",
+     "duty"
+    ],
+    [
+     "flink",
+     "considerably, well"
+    ],
+    [
+     "erkend",
+     "recognised (erkennen)"
+    ],
+    [
+     "losse exemplaren",
+     "single ones, loose copies"
+    ],
+    [
+     "leveren op",
+     "yield, bring in (opleveren)"
+    ],
+    [
+     "plichtsdaden",
+     "feats of duty (plichtsdaad)"
+    ],
+    [
+     "genegeerd",
+     "ignored (negeren)"
+    ],
+    [
+     "dat gezegd hebbende",
+     "with that being said"
+    ],
+    [
+     "uitstekend",
+     "excellent"
+    ],
+    [
+     "offer",
+     "sacrifice"
+    ],
+    [
+     "verdienen",
+     "to earn, to deserve"
+    ],
+    [
+     "past bij",
+     "suits, is appropriate to (passen bij)"
+    ],
+    [
+     "het verschil maken",
+     "to make a difference"
+    ],
+    [
+     "inruilen",
+     "to exchange, to trade in"
+    ]
+   ]
+  },
+  "8820": {
+   "t": "Tien Commendation Signets",
+   "p": "Ik neem Commendation Signets aan van avonturiers die ze tijdens hun plicht hebben gekregen. Voor elke set van tien die je mij geeft, zorg ik ervoor dat je daden bij de Gnomeregan Exiles flink erkend worden. Ik neem ook losse exemplaren aan, maar die leveren veel minder erkenning op. We zijn veel meer geïnteresseerd in grotere plichtsdaden, al wordt geen enkele daad genegeerd.$B$BDat gezegd hebbende: ik neem je Commendation Signets graag aan als je klaar bent om een set in te leveren.",
+   "c": "Uitstekend! Je hebt geen klein offer gebracht om deze Commendation Signets te verdienen, en je krijgt de erkenning die past bij je dienst. Het zijn avonturiers zoals jij, $N, die echt het verschil maken.$B$BLaat me weten als je nog meer Commendation Signets wilt inleveren; ik help je graag met alle die je wilt inruilen.",
+   "g": [
+    [
+     "plicht",
+     "duty"
+    ],
+    [
+     "flink",
+     "considerably, well"
+    ],
+    [
+     "erkend",
+     "recognised (erkennen)"
+    ],
+    [
+     "losse exemplaren",
+     "single ones, loose copies"
+    ],
+    [
+     "leveren op",
+     "yield, bring in (opleveren)"
+    ],
+    [
+     "plichtsdaden",
+     "feats of duty (plichtsdaad)"
+    ],
+    [
+     "genegeerd",
+     "ignored (negeren)"
+    ],
+    [
+     "dat gezegd hebbende",
+     "with that being said"
+    ],
+    [
+     "uitstekend",
+     "excellent"
+    ],
+    [
+     "offer",
+     "sacrifice"
+    ],
+    [
+     "verdienen",
+     "to earn, to deserve"
+    ],
+    [
+     "past bij",
+     "suits, is appropriate to (passen bij)"
+    ],
+    [
+     "het verschil maken",
+     "to make a difference"
+    ],
+    [
+     "inruilen",
+     "to exchange, to trade in"
+    ]
+   ]
+  },
+  "8821": {
+   "t": "Tien Commendation Signets",
+   "p": "Ik neem Commendation Signets aan van avonturiers die ze tijdens hun plicht hebben gekregen. Voor elke set van tien die je mij geeft, zorg ik ervoor dat je daden bij Ironforge flink erkend worden. Ik neem ook losse exemplaren aan, maar die leveren veel minder erkenning op. We zijn veel meer geïnteresseerd in grotere plichtsdaden, al wordt geen enkele daad genegeerd.$B$BDat gezegd hebbende: ik neem je Commendation Signets graag aan als je klaar bent om een set in te leveren.",
+   "c": "Uitstekend! Je hebt geen klein offer gebracht om deze Commendation Signets te verdienen, en je krijgt de erkenning die past bij je dienst. Het zijn avonturiers zoals jij, $N, die echt het verschil maken.$B$BLaat me weten als je nog meer Commendation Signets wilt inleveren; ik help je graag met alle die je wilt inruilen.",
+   "g": [
+    [
+     "plicht",
+     "duty"
+    ],
+    [
+     "flink",
+     "considerably, well"
+    ],
+    [
+     "erkend",
+     "recognised (erkennen)"
+    ],
+    [
+     "losse exemplaren",
+     "single ones, loose copies"
+    ],
+    [
+     "leveren op",
+     "yield, bring in (opleveren)"
+    ],
+    [
+     "plichtsdaden",
+     "feats of duty (plichtsdaad)"
+    ],
+    [
+     "genegeerd",
+     "ignored (negeren)"
+    ],
+    [
+     "dat gezegd hebbende",
+     "with that being said"
+    ],
+    [
+     "uitstekend",
+     "excellent"
+    ],
+    [
+     "offer",
+     "sacrifice"
+    ],
+    [
+     "verdienen",
+     "to earn, to deserve"
+    ],
+    [
+     "past bij",
+     "suits, is appropriate to (passen bij)"
+    ],
+    [
+     "het verschil maken",
+     "to make a difference"
+    ],
+    [
+     "inruilen",
+     "to exchange, to trade in"
+    ]
+   ]
+  },
+  "8822": {
+   "t": "Tien Commendation Signets",
+   "p": "Ik neem Commendation Signets aan van avonturiers die ze tijdens hun plicht hebben gekregen. Voor elke set van tien die je mij geeft, zorg ik ervoor dat je daden bij Stormwind flink erkend worden. Ik neem ook losse exemplaren aan, maar die leveren veel minder erkenning op. We zijn veel meer geïnteresseerd in grotere plichtsdaden, al wordt geen enkele daad genegeerd.$B$BDat gezegd hebbende: ik neem je Commendation Signets graag aan als je klaar bent om een set in te leveren.",
+   "c": "Uitstekend! Je hebt geen klein offer gebracht om deze Commendation Signets te verdienen, en je krijgt de erkenning die past bij je dienst. Het zijn avonturiers zoals jij, $N, die echt het verschil maken.$B$BLaat me weten als je nog meer Commendation Signets wilt inleveren; ik help je graag met alle die je wilt inruilen.",
+   "g": [
+    [
+     "plicht",
+     "duty"
+    ],
+    [
+     "flink",
+     "considerably, well"
+    ],
+    [
+     "erkend",
+     "recognised (erkennen)"
+    ],
+    [
+     "losse exemplaren",
+     "single ones, loose copies"
+    ],
+    [
+     "leveren op",
+     "yield, bring in (opleveren)"
+    ],
+    [
+     "plichtsdaden",
+     "feats of duty (plichtsdaad)"
+    ],
+    [
+     "genegeerd",
+     "ignored (negeren)"
+    ],
+    [
+     "dat gezegd hebbende",
+     "with that being said"
+    ],
+    [
+     "uitstekend",
+     "excellent"
+    ],
+    [
+     "offer",
+     "sacrifice"
+    ],
+    [
+     "verdienen",
+     "to earn, to deserve"
+    ],
+    [
+     "past bij",
+     "suits, is appropriate to (passen bij)"
+    ],
+    [
+     "het verschil maken",
+     "to make a difference"
+    ],
+    [
+     "inruilen",
+     "to exchange, to trade in"
+    ]
+   ]
+  },
+  "8830": {
+   "t": "Eén Commendation Signet",
+   "p": "Avonturiers die maar één Commendation Signet hebben, kunnen die bij mij inruilen voor een beetje erkenning bij Darnassus.$B$BHoud er wel rekening mee dat het beter is om een stapel van tien tegelijk in te leveren; je inspanningen krijgen dan meer erkenning. We bieden het inruilen van één Commendation Signet aan als dienst voor wie er niet genoeg heeft voor een volle stapel van tien.$B$BDat gezegd hebbende: ik sta klaar om je te helpen als je toch één Commendation Signet wilt inleveren.",
+   "c": "Goed dan - je daden zijn in de archieven opgenomen, en je krijgt de erkenning die je verdient voor je inspanningen. Ga zo door, $c.$B$BAls je nog meer Commendation Signets wilt inleveren, kan ik je daar verder mee helpen.",
+   "g": [
+    [
+     "inruilen",
+     "to exchange, to trade in"
+    ],
+    [
+     "erkenning",
+     "recognition"
+    ],
+    [
+     "houd er rekening mee",
+     "bear in mind"
+    ],
+    [
+     "stapel",
+     "stack, pile"
+    ],
+    [
+     "tegelijk",
+     "at once, at the same time"
+    ],
+    [
+     "inleveren",
+     "to hand in"
+    ],
+    [
+     "inspanningen",
+     "efforts (inspanning)"
+    ],
+    [
+     "dienst",
+     "service"
+    ],
+    [
+     "dat gezegd hebbende",
+     "with that being said"
+    ],
+    [
+     "daden",
+     "deeds (daad)"
+    ],
+    [
+     "archieven",
+     "records, archives (archief)"
+    ],
+    [
+     "opgenomen",
+     "entered, recorded (opnemen)"
+    ],
+    [
+     "verdient",
+     "deserve (verdienen)"
+    ]
+   ]
+  },
+  "8831": {
+   "t": "Tien Commendation Signets",
+   "p": "Ik neem Commendation Signets aan van avonturiers die ze tijdens hun plicht hebben gekregen. Voor elke set van tien die je mij geeft, zorg ik ervoor dat je daden bij Darnassus flink erkend worden. Ik neem ook losse exemplaren aan, maar die leveren veel minder erkenning op. We zijn veel meer geïnteresseerd in grotere plichtsdaden, al wordt geen enkele daad genegeerd.$B$BDat gezegd hebbende: ik neem je Commendation Signets graag aan als je klaar bent om een set in te leveren.",
+   "c": "Uitstekend! Je hebt geen klein offer gebracht om deze Commendation Signets te verdienen, en je krijgt de erkenning die past bij je dienst. Het zijn avonturiers zoals jij, $N, die echt het verschil maken.$B$BLaat me weten als je nog meer Commendation Signets wilt inleveren; ik help je graag met alle die je wilt inruilen.",
+   "g": [
+    [
+     "plicht",
+     "duty"
+    ],
+    [
+     "flink",
+     "considerably, well"
+    ],
+    [
+     "erkend",
+     "recognised (erkennen)"
+    ],
+    [
+     "losse exemplaren",
+     "single ones, loose copies"
+    ],
+    [
+     "leveren op",
+     "yield, bring in (opleveren)"
+    ],
+    [
+     "plichtsdaden",
+     "feats of duty (plichtsdaad)"
+    ],
+    [
+     "genegeerd",
+     "ignored (negeren)"
+    ],
+    [
+     "dat gezegd hebbende",
+     "with that being said"
+    ],
+    [
+     "uitstekend",
+     "excellent"
+    ],
+    [
+     "offer",
+     "sacrifice"
+    ],
+    [
+     "verdienen",
+     "to earn, to deserve"
+    ],
+    [
+     "past bij",
+     "suits, is appropriate to (passen bij)"
+    ],
+    [
+     "het verschil maken",
+     "to make a difference"
+    ],
+    [
+     "inruilen",
+     "to exchange, to trade in"
+    ]
+   ]
+  },
+  "8834": {
+   "t": "Eén Commendation Signet",
+   "p": "Avonturiers die maar één Commendation Signet hebben, kunnen die bij mij inruilen voor een beetje erkenning bij Ironforge.$B$BHoud er wel rekening mee dat het beter is om een stapel van tien tegelijk in te leveren; je inspanningen krijgen dan meer erkenning. We bieden het inruilen van één Commendation Signet aan als dienst voor wie er niet genoeg heeft voor een volle stapel van tien.$B$BDat gezegd hebbende: ik sta klaar om je te helpen als je toch één Commendation Signet wilt inleveren.",
+   "c": "Goed dan - je daden zijn in de archieven opgenomen, en je krijgt de erkenning die je verdient voor je inspanningen. Ga zo door, $c.$B$BAls je nog meer Commendation Signets wilt inleveren, kan ik je daar verder mee helpen.",
+   "g": [
+    [
+     "inruilen",
+     "to exchange, to trade in"
+    ],
+    [
+     "erkenning",
+     "recognition"
+    ],
+    [
+     "houd er rekening mee",
+     "bear in mind"
+    ],
+    [
+     "stapel",
+     "stack, pile"
+    ],
+    [
+     "tegelijk",
+     "at once, at the same time"
+    ],
+    [
+     "inleveren",
+     "to hand in"
+    ],
+    [
+     "inspanningen",
+     "efforts (inspanning)"
+    ],
+    [
+     "dienst",
+     "service"
+    ],
+    [
+     "dat gezegd hebbende",
+     "with that being said"
+    ],
+    [
+     "daden",
+     "deeds (daad)"
+    ],
+    [
+     "archieven",
+     "records, archives (archief)"
+    ],
+    [
+     "opgenomen",
+     "entered, recorded (opnemen)"
+    ],
+    [
+     "verdient",
+     "deserve (verdienen)"
+    ]
+   ]
+  },
+  "8835": {
+   "t": "Tien Commendation Signets",
+   "p": "Ik neem Commendation Signets aan van avonturiers die ze tijdens hun plicht hebben gekregen. Voor elke set van tien die je mij geeft, zorg ik ervoor dat je daden bij Ironforge flink erkend worden. Ik neem ook losse exemplaren aan, maar die leveren veel minder erkenning op. We zijn veel meer geïnteresseerd in grotere plichtsdaden, al wordt geen enkele daad genegeerd.$B$BDat gezegd hebbende: ik neem je Commendation Signets graag aan als je klaar bent om een set in te leveren.",
+   "c": "Uitstekend! Je hebt geen klein offer gebracht om deze Commendation Signets te verdienen, en je krijgt de erkenning die past bij je dienst. Het zijn avonturiers zoals jij, $N, die echt het verschil maken.$B$BLaat me weten als je nog meer Commendation Signets wilt inleveren; ik help je graag met alle die je wilt inruilen.",
+   "g": [
+    [
+     "plicht",
+     "duty"
+    ],
+    [
+     "flink",
+     "considerably, well"
+    ],
+    [
+     "erkend",
+     "recognised (erkennen)"
+    ],
+    [
+     "losse exemplaren",
+     "single ones, loose copies"
+    ],
+    [
+     "leveren op",
+     "yield, bring in (opleveren)"
+    ],
+    [
+     "plichtsdaden",
+     "feats of duty (plichtsdaad)"
+    ],
+    [
+     "genegeerd",
+     "ignored (negeren)"
+    ],
+    [
+     "dat gezegd hebbende",
+     "with that being said"
+    ],
+    [
+     "uitstekend",
+     "excellent"
+    ],
+    [
+     "offer",
+     "sacrifice"
+    ],
+    [
+     "verdienen",
+     "to earn, to deserve"
+    ],
+    [
+     "past bij",
+     "suits, is appropriate to (passen bij)"
+    ],
+    [
+     "het verschil maken",
+     "to make a difference"
+    ],
+    [
+     "inruilen",
+     "to exchange, to trade in"
+    ]
+   ]
+  },
+  "8836": {
+   "t": "Eén Commendation Signet",
+   "p": "Avonturiers die maar één Commendation Signet hebben, kunnen die bij mij inruilen voor een beetje erkenning bij Stormwind.$B$BHoud er wel rekening mee dat het beter is om een stapel van tien tegelijk in te leveren; je inspanningen krijgen dan meer erkenning. We bieden het inruilen van één Commendation Signet aan als dienst voor wie er niet genoeg heeft voor een volle stapel van tien.$B$BDat gezegd hebbende: ik sta klaar om je te helpen als je toch één Commendation Signet wilt inleveren.",
+   "c": "Goed dan - je daden zijn in de archieven opgenomen, en je krijgt de erkenning die je verdient voor je inspanningen. Ga zo door, $C.$B$BAls je nog meer Commendation Signets wilt inleveren, kan ik je daar verder mee helpen.",
+   "g": [
+    [
+     "inruilen",
+     "to exchange, to trade in"
+    ],
+    [
+     "erkenning",
+     "recognition"
+    ],
+    [
+     "houd er rekening mee",
+     "bear in mind"
+    ],
+    [
+     "stapel",
+     "stack, pile"
+    ],
+    [
+     "tegelijk",
+     "at once, at the same time"
+    ],
+    [
+     "inleveren",
+     "to hand in"
+    ],
+    [
+     "inspanningen",
+     "efforts (inspanning)"
+    ],
+    [
+     "dienst",
+     "service"
+    ],
+    [
+     "dat gezegd hebbende",
+     "with that being said"
+    ],
+    [
+     "daden",
+     "deeds (daad)"
+    ],
+    [
+     "archieven",
+     "records, archives (archief)"
+    ],
+    [
+     "opgenomen",
+     "entered, recorded (opnemen)"
+    ],
+    [
+     "verdient",
+     "deserve (verdienen)"
+    ]
+   ]
+  },
+  "8837": {
+   "t": "Tien Commendation Signets",
+   "p": "Ik neem Commendation Signets aan van avonturiers die ze tijdens hun plicht hebben gekregen. Voor elke set van tien die je mij geeft, zorg ik ervoor dat je daden bij Stormwind flink erkend worden. Ik neem ook losse exemplaren aan, maar die leveren veel minder erkenning op. We zijn veel meer geïnteresseerd in grotere plichtsdaden, al wordt geen enkele daad genegeerd.$B$BDat gezegd hebbende: ik neem je Commendation Signets graag aan als je klaar bent om een set in te leveren.",
+   "c": "Uitstekend! Je hebt geen klein offer gebracht om deze Commendation Signets te verdienen, en je krijgt de erkenning die past bij je dienst. Het zijn avonturiers zoals jij, $N, die echt het verschil maken.$B$BLaat me weten als je nog meer Commendation Signets wilt inleveren; ik help je graag met alle die je wilt inruilen.",
+   "g": [
+    [
+     "plicht",
+     "duty"
+    ],
+    [
+     "flink",
+     "considerably, well"
+    ],
+    [
+     "erkend",
+     "recognised (erkennen)"
+    ],
+    [
+     "losse exemplaren",
+     "single ones, loose copies"
+    ],
+    [
+     "leveren op",
+     "yield, bring in (opleveren)"
+    ],
+    [
+     "plichtsdaden",
+     "feats of duty (plichtsdaad)"
+    ],
+    [
+     "genegeerd",
+     "ignored (negeren)"
+    ],
+    [
+     "dat gezegd hebbende",
+     "with that being said"
+    ],
+    [
+     "uitstekend",
+     "excellent"
+    ],
+    [
+     "offer",
+     "sacrifice"
+    ],
+    [
+     "verdienen",
+     "to earn, to deserve"
+    ],
+    [
+     "past bij",
+     "suits, is appropriate to (passen bij)"
+    ],
+    [
+     "het verschil maken",
+     "to make a difference"
+    ],
+    [
+     "inruilen",
+     "to exchange, to trade in"
+    ]
+   ]
+  },
+  "8838": {
+   "t": "Eén Commendation Signet",
+   "p": "Avonturiers die maar één Commendation Signet hebben, kunnen die bij mij inruilen voor een beetje erkenning bij de Gnomeregan Exiles.$B$BHoud er wel rekening mee dat het beter is om een stapel van tien tegelijk in te leveren; je inspanningen krijgen dan meer erkenning. We bieden het inruilen van één Commendation Signet aan als dienst voor wie er niet genoeg heeft voor een volle stapel van tien.$B$BDat gezegd hebbende: ik sta klaar om je te helpen als je toch één Commendation Signet wilt inleveren.",
+   "c": "Goed dan - je daden zijn in de archieven opgenomen, en je krijgt de erkenning die je verdient voor je inspanningen. Ga zo door, $c.$B$BAls je nog meer Commendation Signets wilt inleveren, kan ik je daar verder mee helpen.",
+   "g": [
+    [
+     "inruilen",
+     "to exchange, to trade in"
+    ],
+    [
+     "erkenning",
+     "recognition"
+    ],
+    [
+     "houd er rekening mee",
+     "bear in mind"
+    ],
+    [
+     "stapel",
+     "stack, pile"
+    ],
+    [
+     "tegelijk",
+     "at once, at the same time"
+    ],
+    [
+     "inleveren",
+     "to hand in"
+    ],
+    [
+     "inspanningen",
+     "efforts (inspanning)"
+    ],
+    [
+     "dienst",
+     "service"
+    ],
+    [
+     "dat gezegd hebbende",
+     "with that being said"
+    ],
+    [
+     "daden",
+     "deeds (daad)"
+    ],
+    [
+     "archieven",
+     "records, archives (archief)"
+    ],
+    [
+     "opgenomen",
+     "entered, recorded (opnemen)"
+    ],
+    [
+     "verdient",
+     "deserve (verdienen)"
+    ]
+   ]
+  },
+  "8839": {
+   "t": "Tien Commendation Signets",
+   "p": "Ik neem Commendation Signets aan van avonturiers die ze tijdens hun plicht hebben gekregen. Voor elke set van tien die je mij geeft, zorg ik ervoor dat je daden bij de Gnomeregan Exiles flink erkend worden. Ik neem ook losse exemplaren aan, maar die leveren veel minder erkenning op. We zijn veel meer geïnteresseerd in grotere plichtsdaden, al wordt geen enkele daad genegeerd.$B$BDat gezegd hebbende: ik neem je Commendation Signets graag aan als je klaar bent om een set in te leveren.",
+   "c": "Uitstekend! Je hebt geen klein offer gebracht om deze Commendation Signets te verdienen, en je krijgt de erkenning die past bij je dienst. Het zijn avonturiers zoals jij, $N, die echt het verschil maken.$B$BLaat me weten als je nog meer Commendation Signets wilt inleveren; ik help je graag met alle die je wilt inruilen.",
+   "g": [
+    [
+     "plicht",
+     "duty"
+    ],
+    [
+     "flink",
+     "considerably, well"
+    ],
+    [
+     "erkend",
+     "recognised (erkennen)"
+    ],
+    [
+     "losse exemplaren",
+     "single ones, loose copies"
+    ],
+    [
+     "leveren op",
+     "yield, bring in (opleveren)"
+    ],
+    [
+     "plichtsdaden",
+     "feats of duty (plichtsdaad)"
+    ],
+    [
+     "genegeerd",
+     "ignored (negeren)"
+    ],
+    [
+     "dat gezegd hebbende",
+     "with that being said"
+    ],
+    [
+     "uitstekend",
+     "excellent"
+    ],
+    [
+     "offer",
+     "sacrifice"
+    ],
+    [
+     "verdienen",
+     "to earn, to deserve"
+    ],
+    [
+     "past bij",
+     "suits, is appropriate to (passen bij)"
+    ],
+    [
+     "het verschil maken",
+     "to make a difference"
+    ],
+    [
+     "inruilen",
+     "to exchange, to trade in"
+    ]
+   ]
+  }
+ },
+ "words": {
+  "draaiden": "revolved, turned (draaien)",
+  "geboden": "called for, required (gebieden)",
+  "glacial-handschoenen": "Glacial gloves",
+  "glacial-mantel": "Glacial cloak",
+  "glacial-polsbanden": "Glacial wristbands",
+  "glacial-vest": "Glacial vest",
+  "icebane-borstplaat": "Icebane breastplate",
+  "icebane-handschoenen": "Icebane gauntlets",
+  "icebane-polsbeschermers": "Icebane bracers",
+  "mograines": "Mograine's (genitive of the name)",
+  "polar-handschoenen": "Polar gloves",
+  "polar-polsbeschermers": "Polar bracers",
+  "polar-tuniek": "Polar tunic",
+  "scale-borstplaat": "(Icy) Scale breastplate",
+  "scale-handschoenen": "(Icy) Scale gauntlets",
+  "scale-polsbeschermers": "(Icy) Scale bracers",
+  "teugels": "reins (teugel)",
+  "veelkleurige": "multicoloured, prismatic (veelkleurig)",
+  "verhitte": "heated (verhit)"
+ },
+ "terms": {}
+}

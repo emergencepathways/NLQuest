@@ -1,6 +1,7 @@
 # Changelog
 
 ## Unreleased
+- Batch 103: Naxxramas (The Fate of Ramaladni, Omarion's Handbook and Craftsman Wilhelm's Icebane, Glacial, Polar and Icy Scale crafting quests), Onyxia's Lair (The Forging of Quel'Serrar) and the Alliance Commendation Signet reputation turn-ins (34 quests, 3751 in total).
 - Batch 87: Ironforge at level 60 (Anthion's Parting Words and Saving the Best for Last for every class set, Back to the Beginning), Maraudon (Twisted Evils, Vyletongue Corruption, The Pariah's Instructions, Legends of Maraudon, The Scepter of Celebras, Corruption of Earth and Seed, Seed of Life), Uldaman's The Platinum Discs, Erelas Ambersky's wildkin chain and Starfall, and Loch Modan's Proof of Deed (26 quests, 3717 in total).
 - Batch 104: Ruins of Ahn'Qiraj (The Fall of Ossirian) and seasonal quests: Hallow's End (Wickerman Festival, Jesper's trick-or-treating, The Power of Pine), Feast of Winter Veil (Smokywood Pastures, Greatfather Winter, Metzen the Reindeer, The Reason for the Season) and the Harvest Festival (Honoring a Hero) (22 quests, 3691 in total).
 - Batch 86: Ironforge from level 54 to 60 (A Little Slime Goes a Long Way, The New Frontier, Dwarven Justice, Taking Back Silithus, Arrows Are For Sissies, the Ironforge and Gnomeregan cloth donations, The Darkmoon Faire voucher, Deliana's An Earnest Proposition and Anthion's Parting Words for every class set) (29 quests, 3669 in total).
