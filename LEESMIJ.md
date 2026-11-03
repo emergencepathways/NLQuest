@@ -11,7 +11,7 @@ Speurtocht.NL laat de teksten van quests in het Nederlands zien. De rest van het
 - **Een lezer naast het questvenster**, met Nederlands en Engels naast elkaar. Je kunt op elk Nederlands woord klikken.
 - **Een woordenlijst** met de woorden waarop je klikt, klaar om in Anki te zetten.
 
-**Versie 0.2.1** · Classic Era (1.15) nu · World of Warcraft: Forever (1.60) vanaf de lancering
+**Versie 0.3.0** · Classic Era (1.15) nu · World of Warcraft: Forever (1.60) vanaf de lancering
 
 ---
 

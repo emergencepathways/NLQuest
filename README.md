@@ -11,7 +11,7 @@ Speurtocht.NL shows quest text in Dutch and leaves the rest of the game in Engli
 - **A side-by-side reader** with Dutch next to English, where every Dutch word can be clicked.
 - **A vocabulary list** of the words you click, ready to import into Anki.
 
-**Version 0.2.1** · Classic Era (1.15) now · World of Warcraft: Forever (1.60) from launch
+**Version 0.3.0** · Classic Era (1.15) now · World of Warcraft: Forever (1.60) from launch
 
 ---
 
