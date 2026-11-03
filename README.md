@@ -16,7 +16,7 @@ Speurtocht.NL shows quest text in Dutch and leaves the rest of the game in Engli
 ## 1. Install
 
 1. Unzip the download. You get a folder called `SpeurtochtNL`.
-2. Copy that folder into the game's AddOns folder. On Linux with Steam/Proton it is:
+2. Copy that folder into the game's AddOns folder. Note for Linux users: On Linux with Steam/Proton it is:
    ```
    ~/.local/share/Steam/steamapps/compatdata/<number>/pfx/drive_c/Program Files (x86)/World of Warcraft/_classic_era_/Interface/AddOns/
    ```
