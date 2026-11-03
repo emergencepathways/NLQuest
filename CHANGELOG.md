@@ -1,6 +1,7 @@
 # Changelog
 
 ## Unreleased
+- Batch 91: Darnassus and Stormwind City level 50–60 quests (A Call to Arms: The Plaguelands!, The New Frontier chain to Rabine Saturna, March of the Silithid, Calm Before the Storm, Jonespyre's Request, Good Natured Emma, The First and the Last chain, The Lord of Blackrock, cloth donations) and the Tailoring Shadoweaver and Undermarket quests (32 quests, 3929 in total).
 - Batch 101: Naxxramas tier-3 armour from Light's Hope Chapel (Redemption handguards, girdle and wristguards; the full Cryptstalker, Earthshatter and Bonescythe sets; Dreamwalker tunic, legguards, headpiece and spaulders) (31 quests, 3897 in total).
 - Batch 90: Arathi Basin and Warsong Gulch (Mark of Honor turn-ins, Claiming Arathi Basin, Fight for Warsong Gulch, Vanquish the Invaders!, Talismans of Merit, Ribbons of Sacrifice), Summoning the Princess, Tremors of the Earth and Seal of the Earth, Blacksmithing quests (Mithril Order, Hammersmith/Swordsmith choice, Enchanted Thorium Platemail tomes, Derotain's Imperial Plate plans) and the Darnassus Morrowgrain Research chain (38 quests, 3866 in total).
 - Batch 102: Naxxramas tier-set crafting quests (Dreamwalker, Frostfire, Plagueheart and Faith armour from Rayne, Archmage Angela Dosantos, Mataus the Wrathcaster and Father Inigo Montoy) and The Fall of Kel'Thuzad (29 quests, 3828 in total).
