@@ -1,0 +1,1418 @@
+{
+ "quests": {
+  "8979": {
+   "t": "Het vermoeden van Fenstad",
+   "d": "Ik denk dat ik weet waar dit vreemde gedrag van de laatste tijd vandaan komt. Heb je de nieuwe geur in de wind geroken, boven de stank van de kanalen uit? De nieuwe eau de colognes en parfums die nu in de mode zijn?$b$bOns denken wordt vertroebeld door een of andere smerige alchemie.$b$bEr is maar één manier om het zeker te weten: breng een fles eau de cologne en een fles parfum naar mijn vriend, Apothecary Zinge. De Royal Apothecary Society zal de waarheid vinden.$b$bAls je terugkomt, betaal ik je terug wat je ervoor hebt uitgegeven.",
+   "o": "Breng 1 Cologne Bottle en 1 Perfume Bottle naar Apothecary Zinge in het Apothecarium van Undercity.",
+   "p": "Waarmee kan ik je van dienst zijn?",
+   "c": "Weer een van de obsessies van Fenstad, zie ik. Denkt hij dat de Royal Apothecary Society niets beters te doen heeft dan zijn onderzoekjes uit te voeren?$b$bNu goed, ik geef hem nog maar eens zijn zin.",
+   "g": [
+    [
+     "vermoeden",
+     "hunch, suspicion"
+    ],
+    [
+     "gedrag",
+     "behaviour"
+    ],
+    [
+     "geroken",
+     "smelled (ruiken)"
+    ],
+    [
+     "stank",
+     "stink, stench"
+    ],
+    [
+     "kanalen",
+     "canals (kanaal)"
+    ],
+    [
+     "in de mode",
+     "in fashion"
+    ],
+    [
+     "vertroebeld",
+     "clouded (vertroebelen)"
+    ],
+    [
+     "smerige",
+     "foul, filthy (smerig)"
+    ],
+    [
+     "uitgegeven",
+     "spent (uitgeven)"
+    ],
+    [
+     "van dienst zijn",
+     "to be of service"
+    ],
+    [
+     "obsessies",
+     "obsessions (obsessie)"
+    ],
+    [
+     "onderzoekjes",
+     "little investigations (onderzoekje)"
+    ],
+    [
+     "zijn zin geven",
+     "to humour someone, let him have his way"
+    ]
+   ]
+  },
+  "8980": {
+   "t": "Het oordeel van Zinge",
+   "d": "Dit had ik niet verwacht. Het lijkt erop dat Fenstad toch iets op het spoor is. Ik heb sporen gevonden van stoffen die gebruikt worden in drankjes om iemands geest te beheersen.$b$bHet is niet ongewoon dat parfums daar een beetje van bevatten, maar een paar van de ingrediënten die ik heb gevonden... Dit is serieuze alchemie, op het niveau van een lid van de Royal Apothecary Society.",
+   "o": "Ga terug naar Fenstad Argyle buiten de bank in Undercity.",
+   "c": "Dus ik had gelijk. We mogen geen tijd verliezen. We moeten uitzoeken waar deze besmette geuren vandaan komen.$b$bHier, om je terug te betalen voor de eau de cologne en het parfum.",
+   "g": [
+    [
+     "oordeel",
+     "assessment, judgement"
+    ],
+    [
+     "verwacht",
+     "expected (verwachten)"
+    ],
+    [
+     "op het spoor",
+     "on to something, on the trail"
+    ],
+    [
+     "sporen",
+     "traces (spoor)"
+    ],
+    [
+     "stoffen",
+     "substances (stof)"
+    ],
+    [
+     "geest",
+     "mind, spirit"
+    ],
+    [
+     "beheersen",
+     "to control"
+    ],
+    [
+     "ongewoon",
+     "unusual"
+    ],
+    [
+     "bevatten",
+     "to contain"
+    ],
+    [
+     "niveau",
+     "level"
+    ],
+    [
+     "lid",
+     "member"
+    ],
+    [
+     "uitzoeken",
+     "to find out"
+    ],
+    [
+     "besmette",
+     "tainted (besmet)"
+    ]
+   ]
+  },
+  "8981": {
+   "t": "Cadeaus geven",
+   "p": "Kom je een cadeau van liefde en bewondering brengen voor je favoriete leider?",
+   "c": "Geweldig! Geweldig! Ik leg dit bij de stapel met andere cadeaus.$B$BIk had er niet zoveel verwacht! Je moet echt van je leiders houden.$B$BNu tel ik er nog even één bij op...",
+   "g": [
+    [
+     "bewondering",
+     "admiration"
+    ],
+    [
+     "favoriete",
+     "favourite (favoriet)"
+    ],
+    [
+     "leider",
+     "leader"
+    ],
+    [
+     "stapel",
+     "pile, stack"
+    ],
+    [
+     "verwacht",
+     "expected (verwachten)"
+    ],
+    [
+     "houden",
+     "to love (houden van)"
+    ],
+    [
+     "tel",
+     "count (tellen; erbij optellen = add to the count)"
+    ]
+   ]
+  },
+  "8982": {
+   "t": "Op zoek naar de bron",
+   "d": "We moeten uitzoeken wie de leverancier is. Ik zag dat Apothecary Katrina een fles van het parfum had weggestopt in haar rugzak. Ze vertelde me dat ze het bij Norman, de herbergier, had gekocht.",
+   "o": "Praat met Innkeeper Norman in Undercity.",
+   "c": "Ah ja, ik heb pas nog een nieuwe voorraad parfum en eau de cologne gekregen. Ik weet niet hoe lang ik het in de schappen kan houden - het lijkt wel of niemand er genoeg van kan krijgen.$b$bAls je het mij vraagt, snap ik niet waarom iedereen er zo'n drukte om maakt.",
+   "g": [
+    [
+     "bron",
+     "source"
+    ],
+    [
+     "uitzoeken",
+     "to find out"
+    ],
+    [
+     "leverancier",
+     "supplier"
+    ],
+    [
+     "weggestopt",
+     "tucked away (wegstoppen)"
+    ],
+    [
+     "rugzak",
+     "pack, backpack"
+    ],
+    [
+     "herbergier",
+     "innkeeper"
+    ],
+    [
+     "voorraad",
+     "stock, supply"
+    ],
+    [
+     "schappen",
+     "shelves (schap)"
+    ],
+    [
+     "snap",
+     "get, understand (snappen)"
+    ],
+    [
+     "zo'n drukte om maakt",
+     "makes such a fuss about it (drukte maken om)"
+    ]
+   ]
+  },
+  "8983": {
+   "t": "Op zoek naar de bron",
+   "d": "Is er iets mis met mijn spullen? Nou, ik heb nog nooit zoveel mensen gezien die iets zo graag wilden hebben.$b$bIk heb mijn voorraad gekocht van een handelaar die Mara Rennick heet. Ze is nieuw in de stad.$b$bZe zei dat ze nog wat goederen naar de kleermaker in de Mage Quarter moest brengen.",
+   "o": "Praat met Mara Rennick in de kleermakerswinkel in de Mage Quarter van Undercity.",
+   "c": "Helaas heb ik mijn hele voorraad parfum en eau de cologne aan Norman, de herbergier, verkocht. Als je wat wilt, moet je met hem praten - als hij nog iets over heeft.$b$bVerspil wel geen tijd. Ik denk dat je $gde eau de cologne:het parfum; onweerstaanbaar zult vinden.",
+   "g": [
+    [
+     "mis",
+     "wrong"
+    ],
+    [
+     "voorraad",
+     "stock, supply"
+    ],
+    [
+     "handelaar",
+     "merchant"
+    ],
+    [
+     "goederen",
+     "goods"
+    ],
+    [
+     "kleermaker",
+     "tailor"
+    ],
+    [
+     "kleermakerswinkel",
+     "tailor's shop"
+    ],
+    [
+     "Helaas",
+     "I'm afraid, unfortunately"
+    ],
+    [
+     "over heeft",
+     "has left (over hebben)"
+    ],
+    [
+     "Verspil",
+     "waste (verspillen)"
+    ],
+    [
+     "onweerstaanbaar",
+     "irresistible"
+    ]
+   ]
+  },
+  "8984": {
+   "t": "De bron onthuld",
+   "d": "Luister, wat een afvallige apotheker doet, gaat mij niets aan. Als hij ons werk ondermijnt, wijs ik je graag als eerste de goede kant op.$b$bAls hij onschuldig is, heeft hij niets te verbergen, toch?$b$bIk heb de spullen gekocht van Apothecary Staffron Lerent. Hij werkt op een afgelegen plek voorbij Ravenholdt Manor, in de heuvels boven Hillsbrad. Eerlijk gezegd vond ik hem een beetje vreemd.",
+   "o": "Zoek Apothecary Staffron Lerent in de Hillsbrad Foothills, voorbij Ravenholdt Manor.",
+   "c": "Ja, ik heb die geuren gemaakt. Heerlijke geur, vind je niet? Onweerstaanbaar.$b$bZodra de strijders van zowel de Alliance als de Horde in de ban zijn van deze gevoelens van liefde, staan ze machteloos tegen de opkomst van de Shadow Council.$b$bZe zullen verzwakt zijn en niet voorbereid. Terwijl ze zich zorgen maken om hun geliefden, raken ze hun scherpte kwijt.$b$bDe oplossing was zo eenvoudig. Waarom heb ik er zo lang over gedaan om erop te komen? Ieders zwakte zit in het hart. En je kunt niets doen om het onvermijdelijke tegen te houden.",
+   "g": [
+    [
+     "onthuld",
+     "revealed (onthullen)"
+    ],
+    [
+     "afvallige",
+     "rogue, renegade (afvallig)"
+    ],
+    [
+     "apotheker",
+     "apothecary"
+    ],
+    [
+     "ondermijnt",
+     "undermines (ondermijnen)"
+    ],
+    [
+     "onschuldig",
+     "innocent"
+    ],
+    [
+     "verbergen",
+     "to hide"
+    ],
+    [
+     "afgelegen",
+     "secluded, remote"
+    ],
+    [
+     "Eerlijk gezegd",
+     "to be honest"
+    ],
+    [
+     "in de ban",
+     "under the spell, smitten (in de ban zijn van)"
+    ],
+    [
+     "machteloos",
+     "powerless"
+    ],
+    [
+     "opkomst",
+     "rise"
+    ],
+    [
+     "verzwakt",
+     "weakened (verzwakken)"
+    ],
+    [
+     "geliefden",
+     "loved ones (geliefde)"
+    ],
+    [
+     "scherpte",
+     "edge, sharpness"
+    ],
+    [
+     "onvermijdelijke",
+     "the inevitable (onvermijdelijk)"
+    ]
+   ]
+  },
+  "5844": {
+   "t": "Welkom!",
+   "d": "Welkom in World of Warcraft!$B$BJe hebt de World of Warcraft Collector's Edition gekocht. Speciaal als dank daarvoor: geef deze cadeaubon aan Vorn Skyseer in Camp Narache. Dan krijg je een cadeau: een kleine metgezel. Hij gaat met je mee op je zoektocht naar avontuur en glorie.$B$BNogmaals bedankt, en veel plezier tijdens je verblijf in World of Warcraft!",
+   "o": "Breng de Camp Narache Gift Voucher naar Vorn Skyseer.",
+   "p": "Gegroet! Leuk je te ontmoeten!$B$BIk zie dat je een speciale bon hebt. Geef hem aan mij, dan geef ik je er iets voor terug.",
+   "c": "Je bent echt een bijzondere held, $N. Welkom in de wereld van Azeroth! We bieden je een van deze unieke cadeaus aan!",
+   "g": [
+    [
+     "gekocht",
+     "bought (kopen)"
+    ],
+    [
+     "dank",
+     "thanks"
+    ],
+    [
+     "cadeaubon",
+     "gift voucher"
+    ],
+    [
+     "metgezel",
+     "companion"
+    ],
+    [
+     "zoektocht",
+     "quest, search"
+    ],
+    [
+     "avontuur",
+     "adventure"
+    ],
+    [
+     "Nogmaals",
+     "once again"
+    ],
+    [
+     "verblijf",
+     "stay"
+    ],
+    [
+     "Gegroet",
+     "greetings"
+    ],
+    [
+     "bon",
+     "voucher"
+    ],
+    [
+     "bijzondere",
+     "special (bijzonder)"
+    ],
+    [
+     "bieden",
+     "offer (aanbieden)"
+    ],
+    [
+     "unieke",
+     "unique (uniek)"
+    ]
+   ]
+  },
+  "8851": {
+   "t": "Vijf zegels voor oorlogsvoorraden",
+   "o": "Goed, dan is het geregeld. Hier zijn je spullen, $c. Wil je nog een keer ruilen? Dan geef ik daar toestemming voor. Zeg het maar, dan regel ik het.$B$BGa zo door, $N. We hebben al het materiaal nodig dat we kunnen krijgen, als we dit willen winnen. Als we allemaal ons deel doen, dan is de overwinning van ons!",
+   "p": "Ah, kom je nog meer spullen voor jezelf halen? Nou, ik snap goed dat je meer materiaal nodig hebt... kijk maar om je heen als je bewijs wilt.$B$BIk geef je wat extra spullen. Maar dan moet je me wel het goede aantal Commendation Signets geven. Dat is de ruil. Je krijgt geen erkenning als je ze zo inlevert. Maar misschien vind je iets nuttigs. Iets dat je helpt om in leven te blijven als de strijd eindelijk begint.",
+   "c": "Goed, dan is het geregeld. Hier zijn je spullen, $c. Wil je nog een keer ruilen? Dan geef ik daar toestemming voor. Zeg het maar, dan regel ik het.$B$BGa zo door, $N. We hebben al het materiaal nodig dat we kunnen krijgen, als we dit willen winnen. Als we allemaal ons deel doen, dan is de overwinning van ons!",
+   "g": [
+    [
+     "zegels",
+     "signets, seals (zegel)"
+    ],
+    [
+     "oorlogsvoorraden",
+     "war supplies (oorlogsvoorraad)"
+    ],
+    [
+     "geregeld",
+     "settled, arranged (regelen)"
+    ],
+    [
+     "ruilen",
+     "to exchange, swap"
+    ],
+    [
+     "toestemming",
+     "permission"
+    ],
+    [
+     "materiaal",
+     "materiel, material"
+    ],
+    [
+     "deel",
+     "part, share"
+    ],
+    [
+     "overwinning",
+     "victory"
+    ],
+    [
+     "bewijs",
+     "proof"
+    ],
+    [
+     "ruil",
+     "exchange, swap"
+    ],
+    [
+     "erkenning",
+     "recognition"
+    ],
+    [
+     "inlevert",
+     "hand in (inleveren)"
+    ],
+    [
+     "nuttigs",
+     "useful (iets nuttigs = something useful)"
+    ],
+    [
+     "in leven",
+     "alive"
+    ],
+    [
+     "strijd",
+     "battle, fight"
+    ]
+   ]
+  },
+  "8852": {
+   "t": "Tien zegels voor oorlogsvoorraden",
+   "o": "Nou, dan is het geregeld: hier zijn je voorraden, $c. Als je nog een ruil wilt doen, dan ben ik bereid om die goed te keuren. Zeg het maar, dan regel ik het.$B$BGa zo door, $N. We hebben al het oorlogsmateriaal nodig dat we bij elkaar kunnen krijgen, als we dit willen winnen. Als we allemaal ons steentje bijdragen, dan ligt de overwinning voor het grijpen!",
+   "p": "Ah, je komt dus nog meer voorraden voor jezelf halen? Nou, ik begrijp best dat er meer materiaal nodig is... kijk maar eens om je heen als je bewijs wilt.$B$BIk geef je wat extra voorraden, maar je moet me daarvoor wel het juiste aantal Commendation Signets geven. Je krijgt geen erkenning als je ze op deze manier inlevert, maar misschien vind je iets nuttigs dat je helpt om in leven te blijven als de strijd eindelijk begint.",
+   "c": "Nou, dan is het geregeld: hier zijn je voorraden, $c. Als je nog een ruil wilt doen, dan ben ik bereid om die goed te keuren. Zeg het maar, dan regel ik het.$B$BGa zo door, $N. We hebben al het oorlogsmateriaal nodig dat we bij elkaar kunnen krijgen, als we dit willen winnen. Als we allemaal ons steentje bijdragen, dan ligt de overwinning voor het grijpen!",
+   "g": [
+    [
+     "zegels",
+     "signets, seals (zegel)"
+    ],
+    [
+     "voorraden",
+     "supplies (voorraad)"
+    ],
+    [
+     "geregeld",
+     "settled (regelen)"
+    ],
+    [
+     "ruil",
+     "exchange"
+    ],
+    [
+     "bereid",
+     "prepared, willing"
+    ],
+    [
+     "goed te keuren",
+     "to approve, authorize (goedkeuren)"
+    ],
+    [
+     "oorlogsmateriaal",
+     "war materiel"
+    ],
+    [
+     "ons steentje bijdragen",
+     "do our part (je steentje bijdragen)"
+    ],
+    [
+     "overwinning",
+     "victory"
+    ],
+    [
+     "voor het grijpen",
+     "for the taking"
+    ],
+    [
+     "bewijs",
+     "proof"
+    ],
+    [
+     "erkenning",
+     "recognition"
+    ],
+    [
+     "inlevert",
+     "hand in (inleveren)"
+    ],
+    [
+     "in leven",
+     "alive"
+    ]
+   ]
+  },
+  "8853": {
+   "t": "Vijftien zegels voor oorlogsvoorraden",
+   "p": "Ah, je bent hier voor extra voorraden voor jezelf, of niet? Nou, ik begrijp heel goed dat er behoefte is aan meer materieel... kijk maar om je heen als je daar bewijs voor nodig hebt.$B$BIk zal je wat extra voorraden geven, maar in ruil daarvoor moet je me een passend aantal Commendation Signets geven. Je krijgt geen erkenning als je de zegels op deze manier inlevert, maar misschien vind je iets nuttigs waarmee je in leven blijft wanneer de strijd eindelijk losbarst.",
+   "c": "Nou, dan is het geregeld; hier zijn je voorraden, $c. Als je nog een extra ruil wilt doen, ben ik bereid daar toestemming voor te geven. Geef maar een seintje, dan zorg ik ervoor dat het gebeurt.$B$BGa zo door, $N. We hebben al het oorlogsmaterieel nodig dat we bij elkaar kunnen krijgen als we deze strijd willen winnen. Als iedereen zijn steentje bijdraagt, ligt de overwinning voor het grijpen!",
+   "g": [
+    [
+     "zegels",
+     "signets, seals (zegel)"
+    ],
+    [
+     "behoefte",
+     "need"
+    ],
+    [
+     "materieel",
+     "materiel, equipment"
+    ],
+    [
+     "in ruil",
+     "in exchange"
+    ],
+    [
+     "passend",
+     "appropriate, suitable"
+    ],
+    [
+     "erkenning",
+     "recognition"
+    ],
+    [
+     "inlevert",
+     "hand in (inleveren)"
+    ],
+    [
+     "losbarst",
+     "breaks out (losbarsten)"
+    ],
+    [
+     "toestemming",
+     "permission"
+    ],
+    [
+     "seintje",
+     "a word, a signal (een seintje geven)"
+    ],
+    [
+     "oorlogsmaterieel",
+     "war materiel"
+    ],
+    [
+     "zijn steentje bijdraagt",
+     "does their part (je steentje bijdragen)"
+    ],
+    [
+     "voor het grijpen",
+     "for the taking"
+    ]
+   ]
+  },
+  "8854": {
+   "t": "Twintig zegels voor oorlogsvoorraden",
+   "o": "Goed dan, dat is beklonken; hier zijn je voorraden, $c. Als je nog een extra ruil wilt doen, ben ik bereid die goed te keuren. Zeg het maar, en ik zorg dat het gebeurt.$B$BGa zo door, $N. We hebben al het oorlogsmaterieel nodig dat we kunnen verzamelen als we deze strijd willen winnen. Als ieder zijn steentje bijdraagt, ligt de overwinning voor het grijpen!",
+   "p": "Ah, je komt dus extra voorraden voor jezelf halen? Nou, ik begrijp best dat er behoefte is aan extra materieel... kijk maar om je heen als je bewijs nodig hebt.$B$BIk zal je extra voorraden verstrekken, maar daarvoor moet je me wel een passend aantal Commendation Signets afstaan. Je krijgt geen erkenning als je de zegels op deze manier inlevert, maar misschien vind je iets nuttigs dat je in leven houdt wanneer de strijd eindelijk losbarst.",
+   "c": "Goed dan, dat is beklonken; hier zijn je voorraden, $c. Als je nog een extra ruil wilt doen, ben ik bereid die goed te keuren. Zeg het maar, en ik zorg dat het gebeurt.$B$BGa zo door, $N. We hebben al het oorlogsmaterieel nodig dat we kunnen verzamelen als we deze strijd willen winnen. Als ieder zijn steentje bijdraagt, ligt de overwinning voor het grijpen!",
+   "g": [
+    [
+     "zegels",
+     "signets, seals (zegel)"
+    ],
+    [
+     "beklonken",
+     "settled (beklinken)"
+    ],
+    [
+     "goed te keuren",
+     "to authorize, approve (goedkeuren)"
+    ],
+    [
+     "oorlogsmaterieel",
+     "war materiel"
+    ],
+    [
+     "zijn steentje bijdraagt",
+     "does their part (je steentje bijdragen)"
+    ],
+    [
+     "voor het grijpen",
+     "for the taking"
+    ],
+    [
+     "behoefte",
+     "need"
+    ],
+    [
+     "verstrekken",
+     "to issue, provide"
+    ],
+    [
+     "passend",
+     "appropriate"
+    ],
+    [
+     "afstaan",
+     "to surrender, give up"
+    ],
+    [
+     "erkenning",
+     "recognition"
+    ],
+    [
+     "losbarst",
+     "breaks out (losbarsten)"
+    ]
+   ]
+  },
+  "8532": {
+   "t": "De Horde heeft koperstaven nodig!",
+   "d": "Fijn dat je hebt besloten om hier te helpen. Niet iedereen zou dat doen, dus ik wil zeker weten dat je begrijpt wat ik nodig heb. Koperstaven, geen kopererts. We hebben niet de tijd of de mensen om al het smelten zelf te doen. Dus als je zo vriendelijk wilt zijn om dat te regelen, dan wordt je inzet netjes genoteerd. Kun je dat aan, $c?",
+   "o": "Breng 20 Copper Bars naar Miner Cromwell in de Valley of Spirits in Orgrimmar.",
+   "p": "Ik hoop dat dat de twintig koperstaven zijn die je bij je hebt, $c.",
+   "c": "Deze staven zijn goed, en bedankt dat je ze niet hebt opgepoetst. Het heeft geen zin om ze mooi te maken als ze toch kapotgemaakt worden voor welk oorlogsmaterieel er ook gebouwd moet worden. Ik zorg dat ze op de stapels komen, en dat ze goed gebruikt worden. Praat nog eens met me als je er nog twintig wilt brengen.",
+   "g": [
+    [
+     "koperstaven",
+     "copper bars (koperstaaf)"
+    ],
+    [
+     "kopererts",
+     "copper ore"
+    ],
+    [
+     "smelten",
+     "smelting, to smelt"
+    ],
+    [
+     "inzet",
+     "effort"
+    ],
+    [
+     "genoteerd",
+     "noted (noteren)"
+    ],
+    [
+     "Kun je dat aan",
+     "can you handle that (aankunnen)"
+    ],
+    [
+     "opgepoetst",
+     "polished, shined (oppoetsen)"
+    ],
+    [
+     "Het heeft geen zin",
+     "there's no sense in it"
+    ],
+    [
+     "kapotgemaakt",
+     "mangled, broken (kapotmaken)"
+    ],
+    [
+     "oorlogsmaterieel",
+     "war materiel"
+    ],
+    [
+     "stapels",
+     "stacks (stapel)"
+    ]
+   ]
+  },
+  "8533": {
+   "t": "De Horde heeft meer koperstaven nodig!",
+   "d": "Nu al terug? Jij bent in een mum van tijd een echte mijnwerker, $c. Je weet al hoe het werkt: ga erop uit, hak een flinke hoop kopererts, smelt het tot staven en breng die hier bij mij terug. Ik weet dat je dat kunt; de vraag is: wil je het ook?",
+   "o": "Breng 20 Copper Bars naar Miner Cromwell in Durotar.",
+   "p": "Nu al terug? Jij bent in een mum van tijd een echte mijnwerker, $C. Je weet al hoe het werkt: ga erop uit, hak een flinke hoop kopererts, smelt het tot staven en breng die hier bij mij terug. Ik weet dat je dat kunt; de vraag is: wil je het ook?",
+   "c": "Je hebt jezelf weer bewezen, $C. Ik zorg ervoor dat dit koper op het juiste moment gebruikt wordt. Maar nu moet ik deze koperstaven eerst op de pallet zetten en tellen. Als je nog zin hebt, kan ik je hulp goed gebruiken om nog meer koperstaven te verzamelen.",
+   "g": [
+    [
+     "in een mum van tijd",
+     "in no time"
+    ],
+    [
+     "mijnwerker",
+     "miner"
+    ],
+    [
+     "hoe het werkt",
+     "the drill, how it works"
+    ],
+    [
+     "ga erop uit",
+     "go out (erop uitgaan)"
+    ],
+    [
+     "hak",
+     "mine, hack (hakken)"
+    ],
+    [
+     "flinke hoop",
+     "a good heap, a mess of"
+    ],
+    [
+     "kopererts",
+     "copper ore"
+    ],
+    [
+     "smelt",
+     "smelt (smelten)"
+    ],
+    [
+     "staven",
+     "bars (staaf)"
+    ],
+    [
+     "bewezen",
+     "proven (bewijzen)"
+    ],
+    [
+     "koper",
+     "copper"
+    ],
+    [
+     "koperstaven",
+     "copper bars (koperstaaf)"
+    ],
+    [
+     "zin",
+     "inclination (zin hebben = feel like it)"
+    ]
+   ]
+  },
+  "8542": {
+   "t": "De Horde heeft tinstaven nodig!",
+   "d": "Lok'tar, $r. Je weet vast al dat we bij Ahn'Qiraj ten oorlog trekken tegen de insecten. Maar eerst heeft de Warchief besloten dat we iets gaan doen dat 'voorbereiden' heet. Ik zou liever wapens slijpen en harnassen in vorm hameren, maar ik ben trots dat ik ben gekozen om hier de leiding te hebben over het verzamelen van tinstaven. Maar dat kan ik niet zonder jouw hulp.$B$BDus ik wil dat je erop uit gaat, tinstaven maakt en ze hier bij mij terugbrengt. Ik denk dat ik er meer nodig heb dan ik kan tellen.$b",
+   "o": "Breng 20 Tin Bars naar Grunt Maug in de Valley of Spirits in Orgrimmar.",
+   "p": "Hoeveel tinstaven heb je daar, $c? Na de oorlog moet iemand me maar eens leren tellen, denk ik.",
+   "c": "Nou, ik denk dat dat het goede aantal tinstaven is. Probeer me niet voor de gek te houden, $c! Van tellen krijg ik pijn in mijn schedel. Nu ga ik deze staven op de stapel leggen, en jij gaat erop uit en brengt me meer van hetzelfde.",
+   "g": [
+    [
+     "tinstaven",
+     "tin bars (tinstaaf)"
+    ],
+    [
+     "ten oorlog trekken",
+     "going to war"
+    ],
+    [
+     "insecten",
+     "insects (insect)"
+    ],
+    [
+     "voorbereiden",
+     "to prepare"
+    ],
+    [
+     "slijpen",
+     "to sharpen"
+    ],
+    [
+     "harnassen",
+     "armour (harnas)"
+    ],
+    [
+     "hameren",
+     "to hammer"
+    ],
+    [
+     "de leiding",
+     "charge, lead (de leiding hebben over)"
+    ],
+    [
+     "voor de gek te houden",
+     "to fool (iemand voor de gek houden)"
+    ],
+    [
+     "schedel",
+     "skull"
+    ],
+    [
+     "stapel",
+     "stack, pile"
+    ]
+   ]
+  },
+  "8543": {
+   "t": "De Horde heeft meer tinstaven nodig!",
+   "d": "Heel goed, ik zie dat je de oorlog serieus neemt. Ik ben wel een beetje prikkelbaar van het wachten tot hij begint. Dat betekent dat ik boos word als je de spullen niet sneller binnenbrengt. Misschien kan ik in plaats daarvan gewoon op jou oefenen.$B$BHar! Misschien niet, want wie brengt me dan de tinstaven?",
+   "o": "Breng 20 Tin Bars naar Grunt Maug in Durotar.",
+   "p": "Heel goed, ik zie dat je de oorlog serieus neemt. Ik ben wel een beetje prikkelbaar van het wachten tot hij begint, en jij vast ook, $C. Het wordt glorieus als hij begint. De Horde rent over het zand van de woestijn van Silithus, met de wapens in de hand, en stormt recht op de massa's insecten af. Iedereen zal die dag grote eer behalen!$B$BHar! Maar eerst hebben we meer tinstaven nodig. Grappig hoe zoiets kleins zo'n groot verschil kan maken, vind je niet?",
+   "c": "Throm'ka, $N. Je eert mij en de Horde met je tinstaven. Ik leg ze op de stapel, en dan komen ze en maken ze er dingen van. En als dat allemaal klaar is, gaan we ten oorlog en laten we die nietige Alliance zien hoe je tegen de beestjes vecht.$B$BBreng me nu meer tinstaven!",
+   "g": [
+    [
+     "serieus",
+     "seriously, serious"
+    ],
+    [
+     "prikkelbaar",
+     "edgy, irritable"
+    ],
+    [
+     "binnenbrengt",
+     "bring in (binnenbrengen)"
+    ],
+    [
+     "in plaats daarvan",
+     "instead"
+    ],
+    [
+     "oefenen",
+     "to practise"
+    ],
+    [
+     "glorieus",
+     "glorious"
+    ],
+    [
+     "woestijn",
+     "desert"
+    ],
+    [
+     "stormt",
+     "charges (stormen)"
+    ],
+    [
+     "massa's",
+     "masses (massa)"
+    ],
+    [
+     "eer behalen",
+     "to win honour"
+    ],
+    [
+     "eert",
+     "honour (eren)"
+    ],
+    [
+     "nietige",
+     "puny (nietig)"
+    ],
+    [
+     "beestjes",
+     "bugs, little creatures (beestje)"
+    ]
+   ]
+  },
+  "8545": {
+   "t": "De Horde heeft mithrilstaven nodig!",
+   "d": "$C, de oorlog, die komt eraan, en het enige wat we kunnen doen is ons erop voorbereiden. Daar kunnen jij en ik elkaar helpen, man. Zie je, ze hebben mij de leiding gegeven over het verzamelen van alle mithrilstaven die we nodig hebben om alles te bouwen wat we nodig gaan hebben. En ik heb er nog steeds meer nodig!$B$BDus ik hoop dat je erop uit kunt gaan om wat mithril voor ons te hakken, en het dan tot staven te smelten. Klinkt dat als iets wat je voor ons kunt doen?",
+   "o": "Breng 20 Mithril Bars naar Senior Sergeant T'kelah in de Valley of Spirits in Orgrimmar.",
+   "p": "Het zou mooi zijn als we alle mithrilstaven hadden die we nodig hebben voor de oorlog bij Ahn'Qiraj. Ben je daarom terug, man? Heb je mijn staven?",
+   "c": "Dit is een goed begin voor jou en mij, $C. Dat zijn weer twintig mithrilstaven die ik op de stapels kan leggen en van de lijst kan afvinken. Ze worden allemaal goed gebruikt om oorlogsmaterieel te maken.$B$BKom zeker nog eens bij me langs, want het ziet ernaar uit dat we nog meer van die mithrilstaven nodig hebben.",
+   "g": [
+    [
+     "komt eraan",
+     "is coming (eraan komen)"
+    ],
+    [
+     "voorbereiden",
+     "to prepare"
+    ],
+    [
+     "de leiding",
+     "charge (de leiding geven over)"
+    ],
+    [
+     "mithrilstaven",
+     "mithril bars (mithrilstaaf)"
+    ],
+    [
+     "hakken",
+     "to mine, hack"
+    ],
+    [
+     "smelten",
+     "to smelt"
+    ],
+    [
+     "Klinkt",
+     "sounds (klinken)"
+    ],
+    [
+     "afvinken",
+     "to check off, tick off"
+    ],
+    [
+     "oorlogsmaterieel",
+     "war materiel"
+    ],
+    [
+     "het ziet ernaar uit",
+     "it looks like"
+    ]
+   ]
+  },
+  "8546": {
+   "t": "De Horde heeft meer mithrilstaven nodig!",
+   "d": "Jep, ik ben blij dat je er bent, man. Je hebt me eerder geholpen, en nu heb ik je hulp weer nodig. We willen nog steeds meer mithrilstaven binnenhalen voor de oorlog. We gaan veel harnassen en wapens en dingen bouwen om die beesten bij Ahn'Qiraj plat te drukken.$B$BDus als je een echte vriend bent, breng je me nog meer stapels mithrilstaven. Ik neem alles aan wat je hebt, tot we ons quotum halen. Heb je nu wat voor me?",
+   "o": "Breng 20 Mithril Bars naar Senior Sergeant T'kelah in de Valley of Spirits in Orgrimmar.",
+   "c": "Goed werk, $N! Weer twintig staven brengen ons zoveel dichter bij het doel, en ze geven ons meer oorlogsmaterieel. Ik zorg dat ze opgeborgen worden. En als je nog een stapel mithrilstaven krijgt, man, zorg dan dat je ze hier bij mij brengt.",
+   "g": [
+    [
+     "Jep",
+     "yup"
+    ],
+    [
+     "binnenhalen",
+     "to bring in"
+    ],
+    [
+     "harnassen",
+     "armour (harnas)"
+    ],
+    [
+     "plat te drukken",
+     "to squish (platdrukken)"
+    ],
+    [
+     "stapels",
+     "stacks (stapel)"
+    ],
+    [
+     "quotum",
+     "quota"
+    ],
+    [
+     "halen",
+     "reach, hit (een doel halen)"
+    ],
+    [
+     "doel",
+     "goal"
+    ],
+    [
+     "oorlogsmaterieel",
+     "war materiel"
+    ],
+    [
+     "opgeborgen",
+     "put away (opbergen)"
+    ]
+   ]
+  },
+  "8549": {
+   "t": "De Horde heeft Peacebloom nodig!",
+   "d": "Men zegt dat elke generatie een beslissende beproeving moet doorstaan. Ik vrees dat de oorlog bij Ahn'Qiraj de smeltkroes wordt waarin onze moed op de proef wordt gesteld. Dus bereiden we ons voor, en zo ontdekken we waar we van gemaakt zijn.$B$BIk heb aangeboden om de Horde te helpen door zoveel mogelijk Peacebloom te verzamelen, zodat er drankjes voor de oorlog van gemaakt kunnen worden. Ik hoop dat je hier bent om me te helpen. Zo ja, breng me dan een flinke hoeveelheid van dit kruid. Help je me, $c?",
+   "o": "Breng 20 Peacebloom naar Herbalist Proudfeather in de Valley of Spirits in Orgrimmar.",
+   "p": "Ben je nu al terug met de Peacebloom, $c?",
+   "c": "En zo brengen onze inspanningen ons weer een stukje dichter bij de oorlog. Bedankt voor je harde werk bij het verzamelen van deze Peacebloom, $c. Ik verzeker je dat het goed gebruikt wordt, en dat je bijdrage is genoteerd, $N. Als je ertoe bereid bent, kom dan nog eens bij me terug met meer van deze bloemen. Tot die tijd, moge de Earth Mother je leiden.",
+   "g": [
+    [
+     "Men zegt",
+     "it is said"
+    ],
+    [
+     "generatie",
+     "generation"
+    ],
+    [
+     "beslissende",
+     "defining, decisive (beslissend)"
+    ],
+    [
+     "beproeving",
+     "trial, ordeal"
+    ],
+    [
+     "doorstaan",
+     "to endure, face"
+    ],
+    [
+     "vrees",
+     "fear (vrezen)"
+    ],
+    [
+     "smeltkroes",
+     "crucible"
+    ],
+    [
+     "op de proef wordt gesteld",
+     "is put to the test (op de proef stellen)"
+    ],
+    [
+     "aangeboden",
+     "volunteered, offered (aanbieden)"
+    ],
+    [
+     "hoeveelheid",
+     "quantity, amount"
+    ],
+    [
+     "kruid",
+     "herb"
+    ],
+    [
+     "inspanningen",
+     "efforts (inspanning)"
+    ],
+    [
+     "verzeker",
+     "assure (verzekeren)"
+    ],
+    [
+     "bijdrage",
+     "contribution"
+    ],
+    [
+     "moge",
+     "may (wish form of mogen)"
+    ]
+   ]
+  },
+  "8550": {
+   "t": "De Horde heeft meer Peacebloom nodig!",
+   "d": "Hallo weer, $n. Ik ben blij dat je nog eens met me wilt praten over onze eindeloze behoefte aan Peacebloom. De oorlogsinspanning gaat door, en daarmee ook het maken van drankjes en elixers voor de gevechten die komen. Help je ons weer, $C? Ik heb dezelfde hoeveelheid Peacebloom nodig als de vorige keer. Als je die kunt verzamelen en hier bij mij terug kunt brengen, ben ik je zeer dankbaar. Natuurlijk, als je het al bij je hebt, neem ik het nu graag van je aan.",
+   "o": "Breng 20 Peacebloom naar Herbalist Proudfeather in de Valley of Spirits in Orgrimmar.",
+   "c": "Bedankt voor je voortdurende inzet, $N. Met je onbaatzuchtige gaven breng je grote eer aan jezelf en je voorouders, en iedereen zal het weten! Ik berg deze kruiden op, zodat ze vers blijven tot ze nodig zijn. Weer laat je de ware geest van de Horde zien: de strijd om te overwinnen, en de belofte dat we daarbij kunnen samenwerken.",
+   "g": [
+    [
+     "eindeloze",
+     "never-ending (eindeloos)"
+    ],
+    [
+     "behoefte",
+     "need"
+    ],
+    [
+     "oorlogsinspanning",
+     "war effort"
+    ],
+    [
+     "elixers",
+     "elixirs (elixer)"
+    ],
+    [
+     "gevechten",
+     "battles (gevecht)"
+    ],
+    [
+     "hoeveelheid",
+     "quantity, amount"
+    ],
+    [
+     "dankbaar",
+     "grateful"
+    ],
+    [
+     "voortdurende",
+     "continued, ongoing (voortdurend)"
+    ],
+    [
+     "inzet",
+     "effort, commitment"
+    ],
+    [
+     "onbaatzuchtige",
+     "selfless (onbaatzuchtig)"
+    ],
+    [
+     "gaven",
+     "gifts, giving (gave)"
+    ],
+    [
+     "voorouders",
+     "ancestors (voorouder)"
+    ],
+    [
+     "berg ... op",
+     "store away (opbergen)"
+    ],
+    [
+     "overwinnen",
+     "to overcome"
+    ],
+    [
+     "belofte",
+     "promise"
+    ]
+   ]
+  },
+  "8580": {
+   "t": "De Horde heeft Firebloom nodig!",
+   "d": "Hé, $c. Ja, jij, man! De Horde denkt dat ze een hele berg Firebloom nodig heeft voor deze oorlog bij Ahn'Qiraj. Misschien stoppen ze het in leuke dingen die boem doen? Misschien geven ze het aan de Alliance als brandstof voor hun stoomtanks? Wie weet? Pele'keiki niet!$B$BMaar Pele'keiki weet wel dit... hij weet dat jij hem gaat helpen en veel Firebloom terugbrengt, toch, man?",
+   "o": "Breng 20 Firebloom naar Batrider Pele'keiki in de Valley of Spirits in Orgrimmar.",
+   "p": "Je wilt Pele'keiki niet boos maken. Je maakt Pele'keiki blij als je hem veel Firebloom brengt, heel snel.",
+   "c": "$C! Pele'keiki is blij, voor nu. Pele'keiki stopt al die Firebloom in een kist, zodat het vers blijft. Pele'keiki zorgt ervoor dat alle Firebloom wordt verwerkt tot goede spullen voor de oorlog. En als je nog meer krijgt, kom je snel naar Pele'keiki. Pele'keiki heeft vast nog meer nodig.",
+   "g": [
+    [
+     "een hele berg",
+     "a whole mess, a mountain of"
+    ],
+    [
+     "stoppen",
+     "put (in) (stoppen in)"
+    ],
+    [
+     "boem",
+     "boom"
+    ],
+    [
+     "brandstof",
+     "fuel"
+    ],
+    [
+     "stoomtanks",
+     "steam tanks (stoomtank)"
+    ],
+    [
+     "boos",
+     "angry"
+    ],
+    [
+     "kist",
+     "box, crate"
+    ],
+    [
+     "vers",
+     "fresh"
+    ],
+    [
+     "verwerkt",
+     "made into, processed (verwerken)"
+    ],
+    [
+     "vast",
+     "probably, surely"
+    ]
+   ]
+  },
+  "8581": {
+   "t": "De Horde heeft meer Firebloom nodig!",
+   "d": "Pele'keiki weet dat je komt helpen. Breng veel Firebloom en maak hem heel blij. Misschien maakt Pele'keiki grote bommen met Firebloom. Die laat hij van zijn vleermuis op de insecten vallen boven Ahn'Qiraj, als de oorlog komt. Maar Pele'keiki heeft meer Firebloom nodig, $C!$B$BJe brengt Pele'keiki die Firebloom, en snel ook. Kom terug met minstens zoveel als de vorige keer, en Pele'keiki is tevreden.",
+   "o": "Breng 20 Firebloom naar Batrider Pele'keiki in de Valley of Spirits in Orgrimmar.",
+   "p": "Pele'keiki weet dat je komt helpen. Breng veel Firebloom en maak hem heel blij. Misschien maakt Pele'keiki grote bommen met Firebloom. Die laat hij van zijn vleermuis op de insecten vallen boven Ahn'Qiraj, als de oorlog komt. Maar Pele'keiki heeft meer Firebloom nodig, $c!$B$BJe brengt Pele'keiki die Firebloom, en snel ook. Kom terug met minstens zoveel als de vorige keer, en Pele'keiki is tevreden.",
+   "c": "Is dit geen grap, $C? Breng je Pele'keiki zo snel Firebloom? Pele'keiki telt ze meteen, man! Je maakt Pele'keiki zo blij, hij gaat het iedereen vertellen: $N is de beste verzamelaar van Firebloom ooit! Pele'keiki kan niet wachten tot de oorlog begint. Nu laten we de lucht boven Silithus echt oplichten, toch, broer?!",
+   "g": [
+    [
+     "bommen",
+     "bombs (bom)"
+    ],
+    [
+     "vleermuis",
+     "bat"
+    ],
+    [
+     "laat ... vallen",
+     "drops (laten vallen)"
+    ],
+    [
+     "insecten",
+     "insects (insect)"
+    ],
+    [
+     "minstens",
+     "at least"
+    ],
+    [
+     "tevreden",
+     "pleased, satisfied"
+    ],
+    [
+     "grap",
+     "joke"
+    ],
+    [
+     "meteen",
+     "right away"
+    ],
+    [
+     "verzamelaar",
+     "collector"
+    ],
+    [
+     "ooit",
+     "ever"
+    ],
+    [
+     "oplichten",
+     "to light up"
+    ],
+    [
+     "broer",
+     "brother"
+    ]
+   ]
+  },
+  "8582": {
+   "t": "De Horde heeft Purple Lotus nodig!",
+   "d": "De Purple Lotus, $c, is een ingrediënt in heel veel drankjes, elixers en oliën, en sommige daarvan zullen we bij Ahn'Qiraj goed kunnen gebruiken. We moeten een enorm aantal van die drankjes maken voor de oorlogsinspanning. En ik ga ook experimenteren om meer toepassingen voor de lotus te vinden. Maar om dat allemaal te doen, heb ik een grote hoeveelheid van de bloem nodig.$B$BDaar kom jij in beeld. Ga het veld in en verzamel zoveel mogelijk Purple Lotus. Wil je dat voor ons doen?",
+   "o": "Breng 20 Purple Lotus naar Apothecary Jezel in de Valley of Spirits in Orgrimmar.",
+   "p": "Ben je al terug met de Purple Lotus waar ik om gevraagd heb, $c? Het is van groot belang dat je dat zo snel mogelijk doet, anders is alles wat ik hier probeer voor niets geweest.",
+   "c": "Een prijzenswaardige inspanning, $c. Ik zal deze exemplaren afmeten voor het juiste gebruik en je bijdrage noteren. Daarna moet de Purple Lotus goed bewaard worden tot ik eraan toe ben. Wat jou betreft: als je nog beschikbaar bent, zal ik vast nog meer Purple Lotus nodig hebben. Kom over een ogenblik nog eens bij me langs.",
+   "g": [
+    [
+     "ingrediënt",
+     "ingredient, reagent"
+    ],
+    [
+     "oliën",
+     "oils (olie)"
+    ],
+    [
+     "enorm",
+     "immense, huge"
+    ],
+    [
+     "oorlogsinspanning",
+     "war effort"
+    ],
+    [
+     "toepassingen",
+     "uses, applications (toepassing)"
+    ],
+    [
+     "Daar kom jij in beeld",
+     "that's where you come in"
+    ],
+    [
+     "van groot belang",
+     "critical, very important"
+    ],
+    [
+     "voor niets",
+     "for nothing, in vain"
+    ],
+    [
+     "prijzenswaardige",
+     "commendable (prijzenswaardig)"
+    ],
+    [
+     "exemplaren",
+     "specimens (exemplaar)"
+    ],
+    [
+     "afmeten",
+     "to measure"
+    ],
+    [
+     "bijdrage",
+     "contribution"
+    ],
+    [
+     "eraan toe ben",
+     "am ready for it (eraan toe zijn)"
+    ],
+    [
+     "beschikbaar",
+     "available"
+    ],
+    [
+     "ogenblik",
+     "moment"
+    ]
+   ]
+  },
+  "8583": {
+   "t": "De Horde heeft meer Purple Lotus nodig!",
+   "d": "Het lijkt er inderdaad op dat we nog meer Purple Lotus nodig hebben, $C. Mijn eigen onderzoek heeft nog geen nieuwe nuttige toepassing voor het kruid gevonden, maar er zijn nog beproefde methoden die we moeten toepassen.$B$BIk wil dat je nog eens het veld in gaat en minstens twintig monsters Purple Lotus verzamelt. Breng ze hier bij mij terug.",
+   "o": "Breng 20 Purple Lotus naar Apothecary Jezel in de Valley of Spirits in Orgrimmar.",
+   "p": "Het lijkt er inderdaad op dat we nog meer Purple Lotus nodig hebben, $c. Mijn eigen onderzoek heeft nog geen nieuwe nuttige toepassing voor het kruid gevonden, maar er zijn nog beproefde methoden die we moeten toepassen.$B$BIk wil dat je nog eens het veld in gaat en minstens twintig monsters Purple Lotus verzamelt. Breng ze hier bij mij terug.",
+   "c": "Uitstekend en nauwkeurig werk, $N. Je ijver verdient lof, net als je snelheid. Ik zorg er persoonlijk voor dat geen van deze Purple Lotus verloren gaat.$B$BNogmaals bedankt, en als je meer Purple Lotus vindt, aarzel dan niet om ze met de grootste spoed bij mij te brengen.",
+   "g": [
+    [
+     "inderdaad",
+     "indeed, in fact"
+    ],
+    [
+     "onderzoek",
+     "studies, research"
+    ],
+    [
+     "toepassing",
+     "application, use"
+    ],
+    [
+     "kruid",
+     "herb"
+    ],
+    [
+     "beproefde",
+     "tried and true (beproefd)"
+    ],
+    [
+     "methoden",
+     "methods (methode)"
+    ],
+    [
+     "toepassen",
+     "to apply, employ"
+    ],
+    [
+     "monsters",
+     "samples (monster)"
+    ],
+    [
+     "nauwkeurig",
+     "precise"
+    ],
+    [
+     "ijver",
+     "diligence"
+    ],
+    [
+     "verdient lof",
+     "deserves praise (lof verdienen)"
+    ],
+    [
+     "verloren gaat",
+     "goes to waste (verloren gaan)"
+    ],
+    [
+     "aarzel",
+     "hesitate (aarzelen)"
+    ],
+    [
+     "spoed",
+     "haste"
+    ]
+   ]
+  },
+  "8588": {
+   "t": "De Horde heeft zwaar leer nodig!",
+   "d": "Nu we ons voorbereiden op de oorlog, kunnen we beter eerst alle spullen verzamelen die we nodig hebben, vind je niet, man? Een van de basisgoederen van het oorlogsmaterieel dat we maken is zwaar leer. We gebruiken het voor zo'n beetje alles, van versterking tot harnassen, en ook voor gewone ouderwetse dekzeilen.$B$BMaar eerst moeten we er meer van in handen krijgen. Dat is jouw taak, $c. Slijp je mes en breng me een bundel. Dan praten we verder.",
+   "o": "Breng 10 Heavy Leather naar Skinner Jamani in de Valley of Spirits in Orgrimmar.",
+   "p": "Ik heb geen tijd voor spelletjes als je hier alleen bent om te kletsen, $c. Er liggen te veel stapels zwaar leer die gelooid moeten worden. Kom terug als je er minstens tien voor me hebt.",
+   "c": "O, dus je hebt het zware leer dat ik nodig had. Je mes is echt scherp, $c; dit zijn goede huiden! Nu we op de goede voet met elkaar zijn begonnen, zorg ik dat je bijdrage goed gebruikt wordt. En als je nog meer zwaar leer tegenkomt, breng het dan naar mij.",
+   "g": [
+    [
+     "zwaar leer",
+     "heavy leather"
+    ],
+    [
+     "basisgoederen",
+     "staples, basic goods"
+    ],
+    [
+     "oorlogsmaterieel",
+     "war materiel"
+    ],
+    [
+     "zo'n beetje",
+     "just about"
+    ],
+    [
+     "versterking",
+     "reinforcement"
+    ],
+    [
+     "harnassen",
+     "armour (harnas)"
+    ],
+    [
+     "ouderwetse",
+     "good old, old-fashioned (ouderwets)"
+    ],
+    [
+     "dekzeilen",
+     "tarps (dekzeil)"
+    ],
+    [
+     "in handen krijgen",
+     "to get one's hands on"
+    ],
+    [
+     "Slijp",
+     "sharpen (slijpen)"
+    ],
+    [
+     "bundel",
+     "bundle"
+    ],
+    [
+     "kletsen",
+     "to chatter, jibber-jabber"
+    ],
+    [
+     "gelooid",
+     "cured, tanned (looien)"
+    ],
+    [
+     "huiden",
+     "skins, hides (huid)"
+    ],
+    [
+     "op de goede voet",
+     "on the right foot"
+    ]
+   ]
+  }
+ },
+ "words": {
+  "colognes": "colognes (eau de cologne)",
+  "eau": "part of 'eau de cologne' (cologne)",
+  "geuren": "fragrances, smells (geur)",
+  "ieders": "everyone's (ieder)",
+  "inspanning": "effort",
+  "pallet": "pallet",
+  "parfum": "perfume",
+  "parfums": "perfumes (parfum)",
+  "serieuze": "serious (serieus)",
+  "spelletjes": "games (spelletje)"
+ },
+ "terms": {
+  "lok'tar": "Lok'tar: an Orcish greeting and battle cry (Warcraft)"
+ }
+}
