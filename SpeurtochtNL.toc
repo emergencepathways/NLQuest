@@ -85,6 +85,7 @@ Data\Batch_50_Other_Invasion.lua
 Data\Batch_123_Class_Druid.lua
 Data\Batch_51_Mulgore.lua
 Data\Batch_124_Ragefire_Chasm.lua
+Data\Batch_52_Feralas.lua
 
 Display.lua
 Reader.lua
