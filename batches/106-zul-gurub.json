@@ -1,0 +1,1364 @@
+{
+  "quests": {
+    "8101": {
+      "t": "De kiezel van Kajaro",
+      "c": "$R, de kiezel in de lijst van deze talisman komt van Mount Kajaro in de South Seas. Mount Kajaro is een gebied dat geteisterd wordt door onrust: er zijn hevige en vaak magische vulkaanuitbarstingen.$B$BNaarmate je band met de trollen van Zandalar groeit, groeit ook de kracht van deze kiezel. Gebruik de kracht van de kiezel om onze vijanden neer te slaan. Wees als de berg: snel, explosief, dodelijk...",
+      "g": [
+        [
+          "kiezel",
+          "pebble"
+        ],
+        [
+          "lijst",
+          "frame"
+        ],
+        [
+          "geteisterd",
+          "plagued (teisteren)"
+        ],
+        [
+          "onrust",
+          "unrest, volatility"
+        ],
+        [
+          "hevige",
+          "violent (hevig)"
+        ],
+        [
+          "vulkaanuitbarstingen",
+          "volcanic eruptions (vulkaanuitbarsting)"
+        ],
+        [
+          "Naarmate",
+          "as, to the extent that"
+        ],
+        [
+          "band",
+          "bond"
+        ],
+        [
+          "neer te slaan",
+          "to strike down (neerslaan)"
+        ],
+        [
+          "dodelijk",
+          "deadly"
+        ]
+      ]
+    },
+    "8102": {
+      "t": "De kiezel van Kajaro",
+      "p": "Welkom terug, $c. Ik zie dat de kiezel veel gebruikt is. Veel van onze vijanden zijn gevallen door je bovennatuurlijke krachten. Hun lijden was groot. Het is tijd om de kracht van de kiezel te versterken. Geef hem aan mij.",
+      "c": "Wees niet te stoppen, zoals de gesmolten fronten van Kajaro.",
+      "g": [
+        [
+          "bovennatuurlijke",
+          "otherworldly (bovennatuurlijk)"
+        ],
+        [
+          "krachten",
+          "powers, abilities (kracht)"
+        ],
+        [
+          "lijden",
+          "suffering"
+        ],
+        [
+          "versterken",
+          "to enhance, to strengthen"
+        ],
+        [
+          "niet te stoppen",
+          "unstoppable"
+        ],
+        [
+          "gesmolten",
+          "molten (smelten)"
+        ],
+        [
+          "fronten",
+          "fronts (front)"
+        ]
+      ]
+    },
+    "8103": {
+      "t": "De kiezel van Kajaro",
+      "p": "De Hakkari zijn bang voor je, $n. Ze spreken over verschrikkingen waarvan ze dachten dat alleen hun god zonder gezicht ze kon begaan. Jij hebt ze verbrand met de kracht van Kajaro. Nu kennen ze angst op twee plaatsen.$b$bHet is tijd om de kiezel nog sterker te maken. Geef me de talisman.",
+      "c": "Ga door met het uitroeien van de trollen van Zul'Gurub. Hakkar moet zien dat de wereld niet zal buigen onder zijn ontembare wil.",
+      "g": [
+        [
+          "verschrikkingen",
+          "horrors (verschrikking)"
+        ],
+        [
+          "begaan",
+          "to commit, to perpetrate"
+        ],
+        [
+          "verbrand",
+          "burned (verbranden)"
+        ],
+        [
+          "angst",
+          "fear"
+        ],
+        [
+          "uitroeien",
+          "wiping out, decimation"
+        ],
+        [
+          "buigen",
+          "to bend, to buckle"
+        ],
+        [
+          "ontembare",
+          "indomitable (ontembaar)"
+        ],
+        [
+          "wil",
+          "will"
+        ]
+      ]
+    },
+    "8104": {
+      "t": "Het juweel van Kajaro",
+      "p": "Geef me de talisman, $n. Ik moet je iets laten zien.",
+      "c": "<Al'tabim verbrijzelt de kiezel met een krachtige, onzichtbare kracht.>$b$bZie je het? De kiezel is wat wij een geode noemen. Binnenin zitten krachtige kristallen die de verborgen energieën van onze wereld hebben opgezogen. Door de kiezel doormidden te snijden, heb ik eindelijk zijn volle kracht laten vrijkomen. Gebruik hem om onze vijanden te verwoesten.",
+      "g": [
+        [
+          "juweel",
+          "jewel"
+        ],
+        [
+          "verbrijzelt",
+          "shatters (verbrijzelen)"
+        ],
+        [
+          "onzichtbare",
+          "unseen (onzichtbaar)"
+        ],
+        [
+          "Binnenin",
+          "inside"
+        ],
+        [
+          "kristallen",
+          "crystals (kristal)"
+        ],
+        [
+          "verborgen",
+          "hidden, latent"
+        ],
+        [
+          "opgezogen",
+          "soaked up (opzuigen)"
+        ],
+        [
+          "doormidden",
+          "in half"
+        ],
+        [
+          "vrijkomen",
+          "to be released"
+        ],
+        [
+          "verwoesten",
+          "to lay waste to"
+        ]
+      ]
+    },
+    "8106": {
+      "t": "De smet van Kezan",
+      "c": "Neem deze talisman aan, $c. Neem hem aan en gebruik zijn kracht om onze gezamenlijke vijanden neer te slaan.$b$bWeet dat je een stuk geschiedenis om je nek draagt. Kezan was ooit een groot gebied van het Zandalar Empire. Helaas zou de smet van de goblin-handelsprinsen mijn trotse broeders en zusters verdrijven.$b$bKezan is nu het thuis van de goblinhoofdstad, de Undermine. Maar weet dat het vóór de smet groots was. Tot op de dag van vandaag is Kezan heilig land voor mijn volk.",
+      "g": [
+        [
+          "smet",
+          "taint, stain"
+        ],
+        [
+          "Neem ... aan",
+          "accept (aannemen)"
+        ],
+        [
+          "gezamenlijke",
+          "mutual, shared (gezamenlijk)"
+        ],
+        [
+          "gebied",
+          "territory, area"
+        ],
+        [
+          "Helaas",
+          "alas, unfortunately"
+        ],
+        [
+          "handelsprinsen",
+          "trade princes (handelsprins)"
+        ],
+        [
+          "verdrijven",
+          "to drive out"
+        ],
+        [
+          "groots",
+          "great, grand"
+        ],
+        [
+          "heilig",
+          "sacred"
+        ],
+        [
+          "volk",
+          "people"
+        ]
+      ]
+    },
+    "8107": {
+      "t": "De smet van Kezan",
+      "p": "Bij de Zandalar-trollen moet je eer verdienen, $n. Met eer komt beloning: vriendschap, bondgenootschap...$b$bGeef me de talisman, zodat ik zijn kracht kan versterken.",
+      "c": "Put kracht uit de duisternis, $c. Omarm de schaduwen. Laat de smet van Kezan je duistere geknoei aanvullen.",
+      "g": [
+        [
+          "eer",
+          "honor"
+        ],
+        [
+          "verdienen",
+          "to earn"
+        ],
+        [
+          "beloning",
+          "reward"
+        ],
+        [
+          "bondgenootschap",
+          "alliance"
+        ],
+        [
+          "Put",
+          "draw (putten)"
+        ],
+        [
+          "duisternis",
+          "darkness"
+        ],
+        [
+          "Omarm",
+          "embrace (omarmen)"
+        ],
+        [
+          "geknoei",
+          "meddling, tinkering"
+        ],
+        [
+          "aanvullen",
+          "to supplement"
+        ]
+      ]
+    },
+    "8108": {
+      "t": "De smet van Kezan",
+      "p": "Ik ben klaar voor je, $c. Opnieuw zal ik je talisman versterken. Ik vraag alleen dat je doorgaat met het vernietigen van Hakkar en zijn dienaren.$b$bGeef me de talisman.",
+      "c": "Alleen met onze gezamenlijke inspanningen kunnen we de Soulflayer stoppen.",
+      "g": [
+        [
+          "Opnieuw",
+          "once more, again"
+        ],
+        [
+          "vernietigen",
+          "destroying, destruction"
+        ],
+        [
+          "dienaren",
+          "minions, servants (dienaar)"
+        ],
+        [
+          "gezamenlijke",
+          "combined (gezamenlijk)"
+        ],
+        [
+          "inspanningen",
+          "efforts (inspanning)"
+        ]
+      ]
+    },
+    "8109": {
+      "t": "De onstuitbare smet van Kezan",
+      "p": "Roep je demonen op, $c. Laat ze baden in de energie van de smet van Kezan. Voer ze aan op het slagveld! Vernietig de vijand!$b$bJa... Het is tijd om de laatste versterking op de smet van Kezan aan te brengen. Geef me de talisman.",
+      "c": "Stroop het vlees van hun lijken. Kijk hoe de schaduwen de Hakkari verslinden. Haal kracht uit hun angst, $c. Laat de smet van Kezan deze kracht vergroten...",
+      "g": [
+        [
+          "onstuitbare",
+          "unstoppable (onstuitbaar)"
+        ],
+        [
+          "Roep ... op",
+          "call forth (oproepen)"
+        ],
+        [
+          "baden",
+          "to bask, to bathe"
+        ],
+        [
+          "Voer ze aan",
+          "command them (aanvoeren)"
+        ],
+        [
+          "slagveld",
+          "battlefield"
+        ],
+        [
+          "versterking",
+          "enhancement"
+        ],
+        [
+          "aan te brengen",
+          "to apply (aanbrengen)"
+        ],
+        [
+          "Stroop",
+          "flay (stropen)"
+        ],
+        [
+          "lijken",
+          "corpses (lijk)"
+        ],
+        [
+          "verslinden",
+          "to devour, to consume"
+        ],
+        [
+          "vergroten",
+          "to augment, to increase"
+        ]
+      ]
+    },
+    "8110": {
+      "t": "Betoverd zeewier uit de South Seas",
+      "c": "Zie je dit zeewier hier, man? Het komt uit de South Seas. We doen er gewoon een beetje mojo en een beetje magie bij, en dan krijgt het de eigenschappen die het best bij zijn eigenaar passen.$b$bJij bent een $c, dus het is makkelijk, man. Wikkel het gewoon om je nek en denk aan de natuur of aan eekhoorns, of wat jullie soort ook maar leuk vindt.",
+      "g": [
+        [
+          "Betoverd",
+          "enchanted (betoveren)"
+        ],
+        [
+          "zeewier",
+          "seaweed, kelp"
+        ],
+        [
+          "mojo",
+          "mojo, magic power"
+        ],
+        [
+          "eigenschappen",
+          "properties (eigenschap)"
+        ],
+        [
+          "eigenaar",
+          "owner"
+        ],
+        [
+          "Wikkel",
+          "wrap (wikkelen)"
+        ],
+        [
+          "eekhoorns",
+          "squirrels (eekhoorn)"
+        ],
+        [
+          "jullie soort",
+          "you people, your kind"
+        ]
+      ]
+    },
+    "8111": {
+      "t": "Betoverd zeewier uit de South Seas",
+      "p": "Hé man! Fijn om je weer te zien. De stam praat over hoe jij de Hakkari doodt en zo. Molthor heeft me gezegd dat ik meer mojo aan je talisman moet toevoegen. Geef hem maar hier, dan maakt Maywiki hem beter.",
+      "c": "Dat halsstuk is niet om te roken, man! Je moet het gebruiken om tegen het kwaad te vechten.",
+      "g": [
+        [
+          "stam",
+          "tribe"
+        ],
+        [
+          "en zo",
+          "and all that"
+        ],
+        [
+          "toevoegen",
+          "to add"
+        ],
+        [
+          "halsstuk",
+          "neck piece"
+        ],
+        [
+          "roken",
+          "to smoke"
+        ],
+        [
+          "kwaad",
+          "evil"
+        ]
+      ]
+    },
+    "8112": {
+      "t": "Betoverd zeewier uit de South Seas",
+      "p": "Hoe gaat het met die talisman, man? Het lijkt erop dat het tijd is om wat meer magie en mojo aan zijn blaadjes toe te voegen. Hij is verwelkt en heeft wat bloei nodig. Geef hem hier, dan maakt Maywiki hem weer helemaal goed.",
+      "c": "Pak nu de kwade trollen in Zul'Gurub aan en laat ze zien wat jouw natuurkrachten kunnen, man!",
+      "g": [
+        [
+          "Het lijkt erop",
+          "it looks like"
+        ],
+        [
+          "blaadjes",
+          "leaves (blad)"
+        ],
+        [
+          "verwelkt",
+          "wilted (verwelken)"
+        ],
+        [
+          "bloei",
+          "bloom"
+        ],
+        [
+          "helemaal goed",
+          "all fixed up"
+        ],
+        [
+          "Pak ... aan",
+          "take on (aanpakken)"
+        ],
+        [
+          "kwade",
+          "evil (kwaad)"
+        ],
+        [
+          "natuurkrachten",
+          "nature powers (natuurkracht)"
+        ]
+      ]
+    },
+    "8113": {
+      "t": "Zuiver betoverd zeewier uit de South Seas",
+      "p": "$n! Het is lang geleden dat ik je zag. Wist je dat koning Rastakhan zelf me de opdracht heeft gegeven om het laatste beetje mojo en magie aan je talisman toe te voegen? Het is echt waar, man! Ik had het niet geloofd als ik het niet met mijn eigen ogen had gezien. Geef hem hier.",
+      "c": "$n, man, het was een mooie reis. Blijf doorgaan met het doden en onderdrukken van Hakkar en zijn dienaren.",
+      "g": [
+        [
+          "Zuiver",
+          "pristine, pure"
+        ],
+        [
+          "koning",
+          "king"
+        ],
+        [
+          "opdracht",
+          "order, task"
+        ],
+        [
+          "geloofd",
+          "believed (geloven)"
+        ],
+        [
+          "eigen",
+          "own"
+        ],
+        [
+          "reis",
+          "journey"
+        ],
+        [
+          "onderdrukken",
+          "suppressing"
+        ],
+        [
+          "dienaren",
+          "minions (dienaar)"
+        ]
+      ]
+    },
+    "8116": {
+      "t": "Visioen van Voodress",
+      "c": "Jij en Maywiki hebben iets gemeen, man. We zijn allebei $c! Al is Maywiki meer een mysticus en ben jij meer een prutser. Toch weten we allebei wat de grote geesten brengen.$b$bAls cadeau geef ik je deze bol om om je nek te dragen. Kijk diep naar binnen en zie het dorp Voodress in de South Seas! Laat het je geest opbeuren!",
+      "g": [
+        [
+          "Visioen",
+          "vision"
+        ],
+        [
+          "gemeen",
+          "in common"
+        ],
+        [
+          "Al",
+          "although"
+        ],
+        [
+          "mysticus",
+          "mystic"
+        ],
+        [
+          "prutser",
+          "bungler, scrub"
+        ],
+        [
+          "geesten",
+          "spirits (geest)"
+        ],
+        [
+          "bol",
+          "orb, sphere"
+        ],
+        [
+          "dorp",
+          "village"
+        ],
+        [
+          "opbeuren",
+          "to lift, to cheer up"
+        ]
+      ]
+    },
+    "8117": {
+      "t": "Visioen van Voodress",
+      "p": "Goed nieuws, $n. Molthor is de laatste tijd vol lof over je. Hij zegt dat je een echte held van Zandalar aan het worden bent.$b$bHij zegt ook dat Maywiki je bol nog wat meer moet poetsen! Geef hem hier, zodat Maywiki het visioen helderder kan maken.",
+      "c": "Pas op voor de kwade geesten van de Hakkari, man. Eerlijk gezegd zijn ze eng.",
+      "g": [
+        [
+          "de laatste tijd",
+          "lately"
+        ],
+        [
+          "lof",
+          "praise"
+        ],
+        [
+          "held",
+          "hero"
+        ],
+        [
+          "poetsen",
+          "to polish"
+        ],
+        [
+          "helderder",
+          "brighter, clearer (helder)"
+        ],
+        [
+          "Pas op",
+          "beware (oppassen)"
+        ],
+        [
+          "Eerlijk gezegd",
+          "honestly"
+        ],
+        [
+          "eng",
+          "spooky, scary"
+        ]
+      ]
+    },
+    "8118": {
+      "t": "Visioen van Voodress",
+      "p": "Sha-man! Maywiki maakt een grapje!$b$b<Maywiki lacht.>$b$bDus jij hebt de geesten en elementen gebruikt tegen onze vijanden in Zul'Gurub, hè? Geprezen zijn de geesten!$b$bMaywiki gaat je bol helderder maken. Geef hem hier, $n.",
+      "c": "Kijk er nu eens naar, $n. Voodress is nu nog duidelijker te zien, toch? Laat de oerkracht door je heen stromen, man.",
+      "g": [
+        [
+          "grapje",
+          "joke"
+        ],
+        [
+          "lacht",
+          "laughs (lachen)"
+        ],
+        [
+          "elementen",
+          "elements (element)"
+        ],
+        [
+          "Geprezen",
+          "praised (prijzen)"
+        ],
+        [
+          "duidelijker",
+          "clearer (duidelijk)"
+        ],
+        [
+          "oerkracht",
+          "primal power"
+        ],
+        [
+          "stromen",
+          "to flow"
+        ]
+      ]
+    },
+    "8119": {
+      "t": "Het ongeschonden visioen van Voodress",
+      "p": "<Maywiki wijst naar je talisman.>$b$bKijk ernaar, $n! Hij is tot leven gekomen. De geesten dansen om de bol.$b$bGeef hem aan Maywiki, zodat ze nog één laatste aanpassing kan doen.",
+      "c": "Op een dag, $n, kun je met deze bol rechtstreeks met mij praten. Als deze strijd met Hakkar voorbij is en Maywiki naar huis gaat. Laten we de geesten aanroepen en ze vragen of die dag snel mag komen.",
+      "g": [
+        [
+          "ongeschonden",
+          "unmarred, intact"
+        ],
+        [
+          "wijst",
+          "points (wijzen)"
+        ],
+        [
+          "tot leven gekomen",
+          "come alive"
+        ],
+        [
+          "aanpassing",
+          "adjustment"
+        ],
+        [
+          "rechtstreeks",
+          "directly"
+        ],
+        [
+          "strijd",
+          "battle"
+        ],
+        [
+          "aanroepen",
+          "to call to, to invoke"
+        ]
+      ]
+    },
+    "8141": {
+      "t": "Zandalrian schaduwtalisman",
+      "c": "Je maakt snel vorderingen, jonge $c. Misschien is het tijd om je in te wijden in de Shera Ali'kh, Zandalari voor Death's Hand. Duizenden jaren lang hebben wij de rol van sluipmoordenaar gespeeld voor het Zandalar Empire. Te lang hebben we stilgezeten en de Hakkari sterker laten worden. Opnieuw staan we tegenover Hakkar, maar deze keer zonder de steun van een verenigd $r-front. Jij en je bondgenoten moeten helpen om de Bloedgod en zijn dienaren te verslaan!$b$bDraag deze talisman en laat hem je helpen op je reizen.",
+      "g": [
+        [
+          "vorderingen",
+          "progress (vordering)"
+        ],
+        [
+          "in te wijden",
+          "to initiate (inwijden)"
+        ],
+        [
+          "sluipmoordenaar",
+          "assassin"
+        ],
+        [
+          "stilgezeten",
+          "sat idly (stilzitten)"
+        ],
+        [
+          "staan we tegenover",
+          "we face (tegenover staan)"
+        ],
+        [
+          "steun",
+          "support"
+        ],
+        [
+          "verenigd",
+          "united"
+        ],
+        [
+          "bondgenoten",
+          "allies (bondgenoot)"
+        ],
+        [
+          "Bloedgod",
+          "Blood God"
+        ],
+        [
+          "verslaan",
+          "to defeat, to vanquish"
+        ]
+      ]
+    },
+    "8142": {
+      "t": "Zandalrian schaduwtalisman",
+      "p": "Indrukwekkend, $n. Je hebt een talent voor doden dat ik in vele jaren bij niemand anders heb gevoeld. Zelfs Molthor weet van het werk dat je voor Zandalar hebt gedaan. Het is tijd om je talisman nog sterker te maken. Geef hem aan mij.",
+      "c": "Er is nog maar één versterking over die op de talisman kan, $c. Als de tijd rijp is, breng ik die versterking aan.",
+      "g": [
+        [
+          "Indrukwekkend",
+          "impressive"
+        ],
+        [
+          "talent",
+          "gift, talent"
+        ],
+        [
+          "gevoeld",
+          "sensed, felt (voelen)"
+        ],
+        [
+          "versterking",
+          "enhancement"
+        ],
+        [
+          "rijp",
+          "ripe, right"
+        ],
+        [
+          "breng ... aan",
+          "apply (aanbrengen)"
+        ]
+      ]
+    },
+    "8143": {
+      "t": "Zandalrian schaduwtalisman",
+      "p": "Ik voel dat je de Hakkari ontelbare doden hebt bezorgd, $n. Je draagt de stank van hun mojo.$b$bIk neem aan dat de schaduwtalisman heeft geholpen bij het uitdunnen? Geef hem aan mij, dan versterk ik zijn kracht.",
+      "c": "Anderen moeten een sluipmoordenaar van jouw niveau ver ontwijken. Je vijanden moeten respect leren! Dat krijg je ook, wanneer de vijand de glinstering van Death's Hand ziet... veel te laat...",
+      "g": [
+        [
+          "ontelbare",
+          "countless (ontelbaar)"
+        ],
+        [
+          "bezorgd",
+          "dealt, brought (bezorgen)"
+        ],
+        [
+          "stank",
+          "stink"
+        ],
+        [
+          "Ik neem aan",
+          "I assume (aannemen)"
+        ],
+        [
+          "uitdunnen",
+          "culling, thinning out"
+        ],
+        [
+          "niveau",
+          "level, caliber"
+        ],
+        [
+          "ontwijken",
+          "to avoid, to give a wide berth"
+        ],
+        [
+          "glinstering",
+          "glint"
+        ]
+      ]
+    },
+    "8144": {
+      "t": "Zandalrian talisman van schaduwmeesterschap",
+      "p": "Hij verlangt ernaar te groeien, $n. De talisman heeft alles opgezogen wat je hebt gedaan. De duizenden trollenlijken die overal in Zul'Gurub liggen, hebben zijn kracht gevoed. Geef hem aan mij, dan breng ik de laatste versterking aan.",
+      "c": "Dit is de laatste keer dat we spreken onder het gezag van de Shera Ali'kh. Je weet alles wat je moet weten. Neem de talisman en ga door met doden. Hakkar mag Zul'Gurub nooit verlaten.",
+      "g": [
+        [
+          "schaduwmeesterschap",
+          "shadow mastery"
+        ],
+        [
+          "verlangt ernaar",
+          "yearns (verlangen)"
+        ],
+        [
+          "opgezogen",
+          "soaked up (opzuigen)"
+        ],
+        [
+          "trollenlijken",
+          "troll corpses (lijk)"
+        ],
+        [
+          "gevoed",
+          "fueled, fed (voeden)"
+        ],
+        [
+          "gezag",
+          "authority, auspices"
+        ],
+        [
+          "verlaten",
+          "to leave"
+        ]
+      ]
+    },
+    "8145": {
+      "t": "De rank van de Maelstrom",
+      "c": "Bij de Zandalarians wordt het beroep van $c vereerd. Onze grootste jagers reizen naar de rand van de Maelstrom om hun vastberadenheid te bewijzen.$b$bUit het hart van de zee trekken ze slierten zeewier die Maelstrom Tendrils heten. Het zeewier wordt daarna tot een talisman geweven, die betoverd wordt om hun nauwkeurigheid en kracht te verbeteren.$b$bNu geef ik je één enkele weving van de Maelstrom's Tendril. Naarmate je band met Zandalar groeit, zal ik meer kracht in de talisman weven.",
+      "g": [
+        [
+          "rank",
+          "tendril"
+        ],
+        [
+          "beroep",
+          "profession"
+        ],
+        [
+          "vereerd",
+          "revered (vereren)"
+        ],
+        [
+          "rand",
+          "edge"
+        ],
+        [
+          "vastberadenheid",
+          "resolution, determination"
+        ],
+        [
+          "slierten",
+          "strands (sliert)"
+        ],
+        [
+          "geweven",
+          "woven (weven)"
+        ],
+        [
+          "nauwkeurigheid",
+          "accuracy"
+        ],
+        [
+          "weving",
+          "weaving, weave"
+        ],
+        [
+          "Naarmate",
+          "as, to the extent that"
+        ]
+      ]
+    },
+    "8146": {
+      "t": "De rank van de Maelstrom",
+      "p": "Zelfs van hieruit hoor ik het geluid van je salvo's die onze vijanden verwoesten. Hun kreten van pijn weerklinken.$b$bJe hebt een flinke naam gemaakt bij de trollen van Zandalar, $n. We zijn dankbaar voor alles wat je hebt gedaan.$b$bGeef me je talisman, zodat ik er nog een weving aan kan toevoegen.",
+      "c": "Er is nog maar één weving die ik aan je talisman kan toevoegen, $c.",
+      "g": [
+        [
+          "salvo's",
+          "volleys (salvo)"
+        ],
+        [
+          "verwoesten",
+          "to lay waste to"
+        ],
+        [
+          "kreten",
+          "cries (kreet)"
+        ],
+        [
+          "weerklinken",
+          "echo (weerklinken)"
+        ],
+        [
+          "een flinke naam gemaakt",
+          "made quite a name"
+        ],
+        [
+          "dankbaar",
+          "grateful"
+        ],
+        [
+          "weving",
+          "weave"
+        ]
+      ]
+    },
+    "8147": {
+      "t": "De rank van de Maelstrom",
+      "p": "Ah, $n, wat fijn om je weer te ruiken.$b$b<Falthir grijnst.>$b$bJe moet mijn gevoel voor humor vergeven. Dat kan soms erg smerig zijn.$b$bIk voel dat je onze vijanden veel leed hebt aangedaan. De troepen van Hakkar roepen woedend je naam. Dit is uitstekend.$b$bJe hebt nog een weving op je talisman verdiend. Geef hem aan mij.",
+      "c": "Laat ze boete zoeken aan het eind van je munitie.",
+      "g": [
+        [
+          "ruiken",
+          "to smell"
+        ],
+        [
+          "grijnst",
+          "grins (grijnzen)"
+        ],
+        [
+          "vergeven",
+          "to forgive, to excuse"
+        ],
+        [
+          "smerig",
+          "foul, filthy"
+        ],
+        [
+          "leed",
+          "anguish, suffering"
+        ],
+        [
+          "aangedaan",
+          "caused, inflicted (aandoen)"
+        ],
+        [
+          "troepen",
+          "forces, troops (troep)"
+        ],
+        [
+          "woedend",
+          "furious, in anger"
+        ],
+        [
+          "boete",
+          "atonement, penance"
+        ],
+        [
+          "munitie",
+          "munitions, ammunition"
+        ]
+      ]
+    },
+    "8148": {
+      "t": "De toorn van de Maelstrom",
+      "p": "Molthor brengt een bericht van koning Rastakhan, $n. Het koninklijk hof is erg onder de indruk van hoe je de Hakkari-troepen hebt uitgeroeid. Ik mag je de laatste weving in je talisman geven. Geef hem aan mij.",
+      "c": "Je reis is nog maar net begonnen, jonge $c. Misschien bezoek je ooit de Maelstrom en kijk je in het hart van de wereld.$b$bIk wens je kracht en volharding!",
+      "g": [
+        [
+          "toorn",
+          "wrath"
+        ],
+        [
+          "bericht",
+          "message, word"
+        ],
+        [
+          "koninklijk hof",
+          "royal court"
+        ],
+        [
+          "onder de indruk",
+          "impressed"
+        ],
+        [
+          "uitgeroeid",
+          "decimated, wiped out (uitroeien)"
+        ],
+        [
+          "net begonnen",
+          "just begun"
+        ],
+        [
+          "volharding",
+          "fortitude, perseverance"
+        ]
+      ]
+    },
+    "8190": {
+      "t": "Hoodoo-vloek",
+      "d": "Zanza kan met de juiste onderdelen de oude trollenbetoveringen maken.$B$BHet eerste is een Primal Hakkari Idol. Die moet je afpakken van de machtigste luitenanten van de Hakkari: Jin'do en de Bloodlord.$B$BHet tweede is een Punctured Voodoo Doll. Die vind je in de afvalhopen die overal op deze smerige plek liggen. Kijk in de Jinxed Hoodoo Piles.",
+      "o": "Breng me deze dingen, dan maak ik een krachtige betovering voor je!",
+      "p": "Breng me deze dingen, dan maak ik een krachtige betovering voor je!",
+      "c": "Gebruik het goed, $C. Toon de Hakkari geen genade!",
+      "g": [
+        [
+          "vloek",
+          "hex, curse"
+        ],
+        [
+          "onderdelen",
+          "components (onderdeel)"
+        ],
+        [
+          "trollenbetoveringen",
+          "troll enchantments (betovering)"
+        ],
+        [
+          "afpakken",
+          "to take from"
+        ],
+        [
+          "machtigste",
+          "most powerful (machtig)"
+        ],
+        [
+          "luitenanten",
+          "lieutenants (luitenant)"
+        ],
+        [
+          "afvalhopen",
+          "piles of refuse (afvalhoop)"
+        ],
+        [
+          "smerige",
+          "foul (smerig)"
+        ],
+        [
+          "betovering",
+          "enchantment"
+        ],
+        [
+          "Toon",
+          "show (tonen)"
+        ],
+        [
+          "genade",
+          "mercy"
+        ]
+      ]
+    },
+    "8192": {
+      "t": "Streling van de animist",
+      "d": "Zanza kan met de juiste onderdelen de oude trollenbetoveringen maken.$B$BHet eerste is een Primal Hakkari Idol. Die moet je afpakken van de machtigste luitenanten van de Hakkari: Jin'do en de Bloodlord.$B$BHet tweede is een Punctured Voodoo Doll. Die vind je in de afvalhopen die overal op deze smerige plek liggen. Kijk in de Jinxed Hoodoo Piles.",
+      "o": "Breng me deze dingen, dan maak ik een krachtige betovering voor je!",
+      "p": "Breng me deze dingen, dan maak ik een krachtige betovering voor je!",
+      "c": "Gebruik het goed, $C. Toon de Hakkari geen genade!",
+      "g": [
+        [
+          "Streling",
+          "caress"
+        ],
+        [
+          "animist",
+          "animist"
+        ],
+        [
+          "onderdelen",
+          "components (onderdeel)"
+        ],
+        [
+          "afpakken",
+          "to take from"
+        ],
+        [
+          "machtigste",
+          "most powerful (machtig)"
+        ],
+        [
+          "luitenanten",
+          "lieutenants (luitenant)"
+        ],
+        [
+          "afvalhopen",
+          "piles of refuse (afvalhoop)"
+        ],
+        [
+          "betovering",
+          "enchantment"
+        ],
+        [
+          "genade",
+          "mercy"
+        ]
+      ]
+    },
+    "9208": {
+      "t": "De Savage Guard - Arcanum of Protection",
+      "d": "Zanza kan met de juiste onderdelen veel oude trollenbetoveringen maken! Heb je wel eens van de Savage Guard gehoord? Nee, natuurlijk niet. Je geest is in de war door die minderwaardige elfenmagie.$B$BBreng me een arcanum dat door elfen is gemaakt, zodat ik dat gedrocht kan vernietigen. Doe dat, en de Savage Guard is van jou.$b",
+      "o": "Zanza the Restless in Zul'Gurub wil een Arcanum of Protection.",
+      "p": "Heb je het arcanum?",
+      "c": "De waardeloze magie in deze betoveringen voedt mijn woede. Mijn woede geeft me kracht.$B$BBreng me er meer, dan krijg je nog een Savage Guard.",
+      "g": [
+        [
+          "onderdelen",
+          "components (onderdeel)"
+        ],
+        [
+          "in de war",
+          "confused, addled"
+        ],
+        [
+          "minderwaardige",
+          "inferior (minderwaardig)"
+        ],
+        [
+          "elfenmagie",
+          "elven magic"
+        ],
+        [
+          "arcanum",
+          "arcanum"
+        ],
+        [
+          "gedrocht",
+          "monstrosity, aberration"
+        ],
+        [
+          "waardeloze",
+          "worthless (waardeloos)"
+        ],
+        [
+          "voedt",
+          "fuels, feeds (voeden)"
+        ],
+        [
+          "woede",
+          "anger"
+        ]
+      ]
+    },
+    "9209": {
+      "t": "De Savage Guard - Arcanum of Rapidity",
+      "d": "Zanza kan met de juiste onderdelen veel oude trollenbetoveringen maken! Heb je wel eens van de Savage Guard gehoord? Nee, natuurlijk niet. Je geest is in de war door die minderwaardige elfenmagie.$B$BBreng me een arcanum dat door elfen is gemaakt, zodat ik dat gedrocht kan vernietigen. Doe dat, en de Savage Guard is van jou.$b",
+      "o": "Zanza the Restless in Zul'Gurub wil een Arcanum of Rapidity.",
+      "p": "Heb je het arcanum?",
+      "c": "De waardeloze magie in deze betoveringen voedt mijn woede. Mijn woede geeft me kracht.$B$BBreng me er meer, dan krijg je nog een Savage Guard.",
+      "g": [
+        [
+          "onderdelen",
+          "components (onderdeel)"
+        ],
+        [
+          "in de war",
+          "confused, addled"
+        ],
+        [
+          "minderwaardige",
+          "inferior (minderwaardig)"
+        ],
+        [
+          "elfenmagie",
+          "elven magic"
+        ],
+        [
+          "arcanum",
+          "arcanum"
+        ],
+        [
+          "gedrocht",
+          "monstrosity, aberration"
+        ],
+        [
+          "waardeloze",
+          "worthless (waardeloos)"
+        ],
+        [
+          "voedt",
+          "fuels, feeds (voeden)"
+        ],
+        [
+          "woede",
+          "anger"
+        ]
+      ]
+    },
+    "9210": {
+      "t": "De Savage Guard - Arcanum of Focus",
+      "d": "Zanza kan met de juiste onderdelen veel oude trollenbetoveringen maken! Heb je wel eens van de Savage Guard gehoord? Nee, natuurlijk niet. Je geest is in de war door die minderwaardige elfenmagie.$B$BBreng me een arcanum dat door elfen is gemaakt, zodat ik dat gedrocht kan vernietigen. Doe dat, en de Savage Guard is van jou.$b",
+      "o": "Zanza the Restless in Zul'Gurub wil een Arcanum of Focus.",
+      "p": "Heb je het arcanum?",
+      "c": "De waardeloze magie in deze betoveringen voedt mijn woede. Mijn woede geeft me kracht.$B$BBreng me er meer, dan krijg je nog een Savage Guard.",
+      "g": [
+        [
+          "onderdelen",
+          "components (onderdeel)"
+        ],
+        [
+          "in de war",
+          "confused, addled"
+        ],
+        [
+          "minderwaardige",
+          "inferior (minderwaardig)"
+        ],
+        [
+          "elfenmagie",
+          "elven magic"
+        ],
+        [
+          "arcanum",
+          "arcanum"
+        ],
+        [
+          "gedrocht",
+          "monstrosity, aberration"
+        ],
+        [
+          "waardeloze",
+          "worthless (waardeloos)"
+        ],
+        [
+          "voedt",
+          "fuels, feeds (voeden)"
+        ],
+        [
+          "woede",
+          "anger"
+        ]
+      ]
+    },
+    "8970": {
+      "t": "Ik zie Alcaz Island in je toekomst...",
+      "d": "Zoals ik al zei, $c: toen ik nog leefde, speelde ik met het idee om waarzegger te worden. Maar er viel minder aan te verdienen dan je zou denken, vooral omdat het gevaarlijk is en de reagentia zeldzaam en duur zijn. Toch weet ik er genoeg van om het laatste stuk van het amulet precies aan te wijzen, en ook de geest van mijn vroegere kameraad.$B$BDaar kom jij in beeld, $N. Ik wil dat je naar Alcaz Island voor de kust van Dustwallow Marsh gaat en Bloodkelp verzamelt bij de Strashaz naga die daar wonen.",
+      "o": "Verzamel 20 Bloodkelp bij de Strashaz naga en ga dan terug naar Bodley in Blackrock Mountain.",
+      "p": "Bloodkelp, $N, een grote stapel. Dat heb ik nodig om mijn waarzegspreuken kracht te geven. Je zult waarschijnlijk minstens een paar vrienden mee moeten nemen naar Alcaz Island om het te verzamelen... die Strashaz zijn een gemeen stel!",
+      "c": "Eerlijk gezegd, $N, ben ik verbaasd dat je heelhuids terug bent. Aan de andere kant is Alcaz Island op dit moment waarschijnlijk je kleinste zorg.$B$BOké, geef me even... Waarzeggerij is niet iets waarbij je gewoon met je vingers knipt en dan precieze antwoorden verwacht.",
+      "g": [
+        [
+          "speelde ik met het idee",
+          "I flirted with the idea"
+        ],
+        [
+          "waarzegger",
+          "diviner, fortune teller"
+        ],
+        [
+          "reagentia",
+          "reagents"
+        ],
+        [
+          "zeldzaam",
+          "rare"
+        ],
+        [
+          "precies aan te wijzen",
+          "to pinpoint (aanwijzen)"
+        ],
+        [
+          "kameraad",
+          "comrade"
+        ],
+        [
+          "kom jij in beeld",
+          "you come in"
+        ],
+        [
+          "kust",
+          "coast"
+        ],
+        [
+          "waarzegspreuken",
+          "divination spells"
+        ],
+        [
+          "een gemeen stel",
+          "a nasty lot"
+        ],
+        [
+          "heelhuids",
+          "in one piece"
+        ],
+        [
+          "zorg",
+          "worry"
+        ],
+        [
+          "Waarzeggerij",
+          "divination"
+        ],
+        [
+          "knipt",
+          "snap (knippen)"
+        ]
+      ]
+    },
+    "8375": {
+      "t": "Vergeet Alterac Valley niet!",
+      "d": "Vergis je niet, $N. De Horde heeft helemaal gelijk als ze zeggen dat Alterac Valley Frostwolf-gebied is.$B$BKijk, de Stormpike Expedition kwam als vreedzame bezoekers naar het gebied, op zoek naar erts en relikwieën. De Frostwolves reageerden met de wreedste en meest onbeschaafde daad van agressie die de Alliance ooit heeft meegemaakt.$B$BLaten we de dappere dwergen nooit vergeten die omkwamen bij die laffe, onaangekondigde aanval. Ga nu, $c, en doe je deel in de strijd om Alterac Valley. Voor de Alliance!",
+      "o": "Breng 3 Alterac Valley Marks of Honor naar een Alliance Brigadier General buiten de slagvelden.",
+      "p": "Welk nieuws breng je uit het land van de Stormpikes? Hoe gaat de strijd om Alterac Valley?",
+      "c": "Je hebt grote moed getoond bij het beschermen van ons land in Alterac Valley! Ik zal mijn meerderen over je daden vertellen.",
+      "g": [
+        [
+          "Vergis je niet",
+          "make no mistake"
+        ],
+        [
+          "gelijk",
+          "right (gelijk hebben)"
+        ],
+        [
+          "vreedzame",
+          "peaceful (vreedzaam)"
+        ],
+        [
+          "erts",
+          "ore"
+        ],
+        [
+          "relikwieën",
+          "relics (relikwie)"
+        ],
+        [
+          "wreedste",
+          "most brutal (wreed)"
+        ],
+        [
+          "onbeschaafde",
+          "uncivilized (onbeschaafd)"
+        ],
+        [
+          "omkwamen",
+          "perished (omkomen)"
+        ],
+        [
+          "laffe",
+          "cowardly (laf)"
+        ],
+        [
+          "onaangekondigde",
+          "unannounced (onaangekondigd)"
+        ],
+        [
+          "slagvelden",
+          "battlegrounds (slagveld)"
+        ],
+        [
+          "moed",
+          "bravery"
+        ],
+        [
+          "meerderen",
+          "superiors (meerdere)"
+        ],
+        [
+          "daden",
+          "deeds (daad)"
+        ]
+      ]
+    },
+    "8383": {
+      "t": "Vergeet Alterac Valley niet!",
+      "d": "De strijd in Alterac Valley woedt door, $N! Heb je de laatste tijd je deel gedaan, $N?",
+      "o": "Breng 3 Alterac Valley Marks of Honor naar een Alliance Brigadier General buiten de slagvelden.",
+      "p": "De strijd in Alterac Valley woedt door, $N! Heb je de laatste tijd je deel gedaan, $N?",
+      "c": "Je blijft de Alliance eer aandoen, $N. Als we zo doorgaan, wordt de Horde binnenkort verpletterd.",
+      "g": [
+        [
+          "woedt door",
+          "rages on (doorwoeden)"
+        ],
+        [
+          "de laatste tijd",
+          "as of late"
+        ],
+        [
+          "deel",
+          "part"
+        ],
+        [
+          "slagvelden",
+          "battlegrounds (slagveld)"
+        ],
+        [
+          "eer aandoen",
+          "to do honor to"
+        ],
+        [
+          "binnenkort",
+          "before long"
+        ],
+        [
+          "verpletterd",
+          "crushed (verpletteren)"
+        ]
+      ]
+    }
+  },
+  "words": {
+    "agressie": "aggression",
+    "frostwolf-gebied": "Frostwolf territory (gebied)",
+    "geode": "geode: a hollow stone with crystals inside",
+    "goblin-handelsprinsen": "goblin trade princes (handelsprins)",
+    "goblinhoofdstad": "goblin capital (hoofdstad)",
+    "hakkari-troepen": "Hakkari forces (troep)",
+    "hoodoo-vloek": "hoodoo hex (vloek)",
+    "reageerden": "reacted (reageren)",
+    "schaduwtalisman": "shadow talisman",
+    "sha-man": "pun on 'sjamaan' (shaman) and 'man'",
+    "zandalar-trollen": "Zandalar trolls (trol)"
+  },
+  "terms": {}
+}
