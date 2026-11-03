@@ -1,0 +1,1671 @@
+{
+  "quests": {
+    "9225": {
+      "t": "Epische strijduitrusting - Vereerd bij de Dawn",
+      "d": "Gegroet, vriend. Heb je insignes van de Dawn of de Crusade die je wilt inwisselen voor voorwerpen met grote kracht?$B$BIk moet je waarschuwen: epische aankopen met de reputatie Vereerd bij de Dawn zijn nog steeds vrij duur. Ik raad je aan om eerst een betere reputatie bij de Dawn op te bouwen, voordat je verdergaat met je plannen.",
+      "o": "Voor 45 Insignias of the Dawn en 45 Insignias of the Crusade mag je een voorwerp kiezen uit de schatkist van de Argent Dawn.",
+      "p": "Kies zorgvuldig. Er wordt niets terugbetaald.",
+      "c": "Goedendag, $N. Het was een genoegen om zaken met je te doen.",
+      "g": [
+        [
+          "gegroet",
+          "greetings"
+        ],
+        [
+          "insignes",
+          "insignias (insigne)"
+        ],
+        [
+          "inwisselen",
+          "to redeem, exchange"
+        ],
+        [
+          "waarschuwen",
+          "to warn"
+        ],
+        [
+          "aankopen",
+          "purchases (aankoop)"
+        ],
+        [
+          "Vereerd",
+          "Revered (reputation level)"
+        ],
+        [
+          "op te bouwen",
+          "to build up (opbouwen)"
+        ],
+        [
+          "schatkist",
+          "treasure chest, cache"
+        ],
+        [
+          "zorgvuldig",
+          "carefully"
+        ],
+        [
+          "terugbetaald",
+          "refunded (terugbetalen)"
+        ],
+        [
+          "genoegen",
+          "pleasure"
+        ]
+      ]
+    },
+    "9226": {
+      "t": "Superieure strijduitrusting - Vereerd bij de Dawn",
+      "d": "Gegroet, vriend. Heb je insignes van de Dawn of de Crusade die je wilt inwisselen voor krachtige voorwerpen?$B$BDe voorwerpen voor wie Vereerd is bij de Dawn hebben een heel redelijke prijs. Ik moedig je aan om iets te kopen!",
+      "o": "Voor 7 Insignias of the Dawn en 7 Insignias of the Crusade mag je een voorwerp kiezen uit de schatkist van de Argent Dawn.$b",
+      "p": "Kies zorgvuldig. Er wordt niets terugbetaald.",
+      "c": "Goedendag, $N. Het was een genoegen om zaken met je te doen.",
+      "g": [
+        [
+          "superieure",
+          "superior"
+        ],
+        [
+          "gegroet",
+          "greetings"
+        ],
+        [
+          "insignes",
+          "insignias (insigne)"
+        ],
+        [
+          "inwisselen",
+          "to redeem, exchange"
+        ],
+        [
+          "redelijke",
+          "reasonable (redelijk)"
+        ],
+        [
+          "moedig je aan",
+          "encourage you (aanmoedigen)"
+        ],
+        [
+          "schatkist",
+          "treasure chest, cache"
+        ],
+        [
+          "zorgvuldig",
+          "carefully"
+        ],
+        [
+          "terugbetaald",
+          "refunded (terugbetalen)"
+        ],
+        [
+          "genoegen",
+          "pleasure"
+        ]
+      ]
+    },
+    "9227": {
+      "t": "Superieure strijduitrusting - Verheven bij de Dawn",
+      "d": "Gegroet, vriend. Heb je insignes van de Dawn of de Crusade die je wilt inwisselen voor krachtige voorwerpen?$B$BDe voorwerpen voor wie Verheven is bij de Dawn zijn afgeprijsd. Ik moedig je aan om iets te kopen!",
+      "o": "Voor 6 Insignias of the Dawn en 6 Insignias of the Crusade mag je een voorwerp kiezen uit de schatkist van de Argent Dawn.",
+      "p": "Kies zorgvuldig. Er wordt niets terugbetaald.",
+      "c": "Goedendag, $N. Het was een genoegen om zaken met je te doen.",
+      "g": [
+        [
+          "Verheven",
+          "Exalted (reputation level)"
+        ],
+        [
+          "superieure",
+          "superior"
+        ],
+        [
+          "insignes",
+          "insignias (insigne)"
+        ],
+        [
+          "inwisselen",
+          "to redeem, exchange"
+        ],
+        [
+          "afgeprijsd",
+          "discounted (afprijzen)"
+        ],
+        [
+          "moedig je aan",
+          "encourage you (aanmoedigen)"
+        ],
+        [
+          "schatkist",
+          "treasure chest, cache"
+        ],
+        [
+          "zorgvuldig",
+          "carefully"
+        ],
+        [
+          "terugbetaald",
+          "refunded (terugbetalen)"
+        ]
+      ]
+    },
+    "9228": {
+      "t": "Epische strijduitrusting - Verheven bij de Dawn",
+      "d": "Gegroet, vriend. Heb je insignes van de Dawn of de Crusade die je wilt inwisselen voor voorwerpen met grote kracht?$B$BWie Verheven is bij de Dawn, krijgt onze grootste kortingen! Ik moedig je aan om iets te kopen.",
+      "o": "Voor 27 Insignias of the Dawn en 27 Insignias of the Crusade mag je een voorwerp kiezen uit de schatkist van de Argent Dawn.",
+      "p": "Kies zorgvuldig. Er wordt niets terugbetaald.",
+      "c": "Goedendag, $N. Het was een genoegen om zaken met je te doen.",
+      "g": [
+        [
+          "epische",
+          "epic"
+        ],
+        [
+          "Verheven",
+          "Exalted (reputation level)"
+        ],
+        [
+          "insignes",
+          "insignias (insigne)"
+        ],
+        [
+          "inwisselen",
+          "to redeem, exchange"
+        ],
+        [
+          "kortingen",
+          "discounts (korting)"
+        ],
+        [
+          "moedig je aan",
+          "encourage you (aanmoedigen)"
+        ],
+        [
+          "schatkist",
+          "treasure chest, cache"
+        ],
+        [
+          "zorgvuldig",
+          "carefully"
+        ],
+        [
+          "terugbetaald",
+          "refunded (terugbetalen)"
+        ]
+      ]
+    },
+    "9378": {
+      "t": "DND FLAG De gevreesde citadel - Naxxramas",
+      "d": "Diep in Plaguewood ligt de ingang van de gevreesde citadel Naxxramas. Tot nu toe mislukte elke poging om binnen te komen, door de magische beschermingen op het runenportaal. Maar nu is dat anders.$B$BWe hebben een manier bedacht om toch binnen te komen: een soort blijvende arcane verhulling. Het is een oude spreuk van de Kirin Tor, met een paar aanpassingen van mezelf. Toch is de verhulling duur. Maar jouw toewijding aan de zaak van de Dawn is onwankelbaar! We schrappen alle kosten.",
+      "o": "Archmage Angela Dosantos in Light's Hope Chapel in de Eastern Plaguelands geeft je gratis Arcane Cloaking. Je moet Verheven zijn bij de Argent Dawn.",
+      "g": [
+        [
+          "gevreesde",
+          "dread, feared (vrezen)"
+        ],
+        [
+          "citadel",
+          "citadel, fortress"
+        ],
+        [
+          "mislukte",
+          "failed (mislukken)"
+        ],
+        [
+          "poging",
+          "attempt"
+        ],
+        [
+          "beschermingen",
+          "wards, protections"
+        ],
+        [
+          "runenportaal",
+          "rune portal"
+        ],
+        [
+          "blijvende",
+          "permanent, lasting"
+        ],
+        [
+          "verhulling",
+          "cloaking, concealment"
+        ],
+        [
+          "spreuk",
+          "spell, cantrip"
+        ],
+        [
+          "aanpassingen",
+          "modifications (aanpassing)"
+        ],
+        [
+          "toewijding",
+          "dedication"
+        ],
+        [
+          "onwankelbaar",
+          "unwavering"
+        ],
+        [
+          "schrappen",
+          "to cancel, strike out"
+        ],
+        [
+          "Verheven",
+          "Exalted (reputation level)"
+        ]
+      ]
+    },
+    "9664": {
+      "t": "Nieuwe buitenposten vestigen",
+      "d": "Welkom in de Plaguelands, $n. Zoals je weet, houden de Forsaken en hun bondgenoten het land ten westen van hier in handen, ondanks onze beste pogingen. De bevelhebbers van de Alliance hebben besloten dat we hier in het oosten nieuwe versterkingen bouwen, om de strop rond onze vijanden strakker te trekken.$b$bTorens die al sinds de tijd van Lordaeron verlaten zijn, worden hiervoor ingenomen en herbouwd. Dit land is gevaarlijk, en we kunnen je hulp goed gebruiken.",
+      "o": "Verover Crown Guard Tower, Eastwall Tower, Northpass Tower en Plaguewood Tower in de Eastern Plaguelands, en keer dan terug naar Emmisary Whitebeard in Light's Hope Chapel.",
+      "p": "Als de torens in onze handen zijn, kunnen we de Forsaken snel omsingelen. Daarna is het slechts een kwestie van tijd voordat we ze kunnen verpletteren.",
+      "c": "Heel goed, $n. Het wordt belangrijk om deze torens te verdedigen tegen toekomstige aanvallen. Daarvoor hebben we misschien jouw hulp nodig, tot er versterkingen komen om het gebied te beveiligen.",
+      "o1": "Verover Crown Guard Tower",
+      "o2": "Verover Eastwall Tower",
+      "o3": "Verover Northpass Tower",
+      "o4": "Verover Plaguewood Tower",
+      "g": [
+        [
+          "buitenposten",
+          "outposts (buitenpost)"
+        ],
+        [
+          "vestigen",
+          "to establish"
+        ],
+        [
+          "bondgenoten",
+          "allies (bondgenoot)"
+        ],
+        [
+          "ondanks",
+          "despite"
+        ],
+        [
+          "bevelhebbers",
+          "commanders (bevelhebber)"
+        ],
+        [
+          "versterkingen",
+          "fortifications; reinforcements"
+        ],
+        [
+          "strop",
+          "noose"
+        ],
+        [
+          "strakker",
+          "tighter (strak)"
+        ],
+        [
+          "ingenomen",
+          "seized, captured (innemen)"
+        ],
+        [
+          "herbouwd",
+          "rebuilt (herbouwen)"
+        ],
+        [
+          "verover",
+          "capture (veroveren)"
+        ],
+        [
+          "omsingelen",
+          "to surround"
+        ],
+        [
+          "verpletteren",
+          "to crush"
+        ],
+        [
+          "beveiligen",
+          "to secure"
+        ]
+      ]
+    },
+    "6028": {
+      "t": "Het rapport uit Everlook",
+      "d": "Ik zoek iemand die verantwoordelijk is, om me te helpen met een kleine maar toch belangrijke zaak. Ik ben hier namens de Argent Dawn, als vertegenwoordiger bij het plaatselijke bestuur van Everlook. Ik moet een voortgangsrapport naar Argent Officer Pureheart in Chillwind Camp sturen. Dat is een flink eind hiervandaan, aan de zuidrand van de Western Plaguelands.$B$BAls ik zo vrij mag zijn: dit is een perfecte manier om je voor te stellen aan mijn leidinggevende. Misschien krijg je wel werk van haar!",
+      "o": "Breng het Everlook Report naar Argent Officer Pureheart in Chillwind Camp, Western Plaguelands.",
+      "p": "Gegroet, $c. Namens de Argent Dawn bied ik je veiligheid en onderdak zolang je hier in Chillwind Camp bent. Misschien heb ik ook wat werk voor je...",
+      "c": "Gregor is erg vindingrijk. Hij werkt al een tijd met het Steamwheedle Cartel en is een expert geworden in de “kunst” van het onderhandelen met goblins. Het is waar dat goblins vooral trouw zijn aan wie de dikste geldbuidel heeft. Maar ze kennen en respecteren ook de waarde van diplomatie. Daardoor krijgen ze in elk geval vaste klanten...$B$BHoe dan ook, de Argent Dawn erkent je inzet. Neem dit, met onze dank.",
+      "g": [
+        [
+          "verantwoordelijk",
+          "responsible"
+        ],
+        [
+          "namens",
+          "on behalf of"
+        ],
+        [
+          "vertegenwoordiger",
+          "representative"
+        ],
+        [
+          "plaatselijke",
+          "local (plaatselijk)"
+        ],
+        [
+          "bestuur",
+          "governance, government"
+        ],
+        [
+          "voortgangsrapport",
+          "progress report"
+        ],
+        [
+          "een flink eind",
+          "quite a distance"
+        ],
+        [
+          "zuidrand",
+          "southern edge, fringe"
+        ],
+        [
+          "zo vrij mag zijn",
+          "may be so bold"
+        ],
+        [
+          "leidinggevende",
+          "superior, boss"
+        ],
+        [
+          "onderdak",
+          "shelter"
+        ],
+        [
+          "vindingrijk",
+          "resourceful"
+        ],
+        [
+          "onderhandelen",
+          "to negotiate"
+        ],
+        [
+          "geldbuidel",
+          "coin purse"
+        ],
+        [
+          "erkent",
+          "acknowledges (erkennen)"
+        ]
+      ]
+    },
+    "6030": {
+      "t": "Duke Nicholas Zverenhoff",
+      "d": "Een kluizenaar en medium uit deze streek, Umbranse genaamd, heeft de Argent Dawn een echt literair meesterwerk gegeven... Het is misschien wel de grootste verzameling gebrabbel die ik ooit op papier heb gezien.$B$BEen van de meest gerespecteerde leiders van de Dawn, Duke Nicholas Zverenhoff, is een briljante taalkundige. Kun je dit naar hem brengen? Je krijgt er natuurlijk een beloning voor. Hij is nu in Light's Hope Chapel, ver in het oosten van de Eastern Plaguelands.",
+      "o": "Breng het boek “Studies in Spirit Speaking” naar Duke Nicholas Zverenhoff in Light's Hope Chapel, Eastern Plaguelands.",
+      "p": "Moge het Licht je leiden in deze moeilijke tijden, $c. Wat brengt je hier, naar dit baken van hoop te midden van duisternis en wanhoop?",
+      "c": "Dit... dit is een heel bijzonder boek dat je me brengt. Ik zou je graag vertellen dat “bijzonder” hier “uniek en misschien zelfs verhelderend” betekent, maar dat moeten we nog zien.$B$B“Ooooooo?” Wie verzint zoiets bij zijn volle verstand?$B$BNou, ik heb wel gehoord van die Umbranse over wie Gregor sprak, dus het is niet zonder waarde. Ik zal mijn best doen om het te ontcijferen. En jij... neem dit alsjeblieft aan, aangeboden door de Argent Dawn. Nu je hier toch bent, kun je ons misschien met nog wat andere dingen helpen.",
+      "g": [
+        [
+          "kluizenaar",
+          "recluse, hermit"
+        ],
+        [
+          "genaamd",
+          "named, called"
+        ],
+        [
+          "literair",
+          "literary"
+        ],
+        [
+          "meesterwerk",
+          "masterpiece"
+        ],
+        [
+          "gebrabbel",
+          "jibber-jabber, gibberish"
+        ],
+        [
+          "taalkundige",
+          "linguist"
+        ],
+        [
+          "baken",
+          "beacon"
+        ],
+        [
+          "te midden van",
+          "in the middle of"
+        ],
+        [
+          "wanhoop",
+          "despair"
+        ],
+        [
+          "verhelderend",
+          "illuminating"
+        ],
+        [
+          "bij zijn volle verstand",
+          "in their right mind"
+        ],
+        [
+          "ontcijferen",
+          "to decipher"
+        ],
+        [
+          "aangeboden",
+          "offered (aanbieden)"
+        ]
+      ]
+    },
+    "4809": {
+      "t": "Chillwind-hoorns",
+      "d": "Ik heb bijna alles wat Tinkee nodig heeft, maar ik mis nog één belangrijk onderdeel: chillwind-hoorns. De hoorns van de chillwind-chimaera's in Winterspring zijn een geconcentreerde bron van kou. Maar alleen gave hoorns zonder barsten zijn goed genoeg! Ik heb er een voorraad van nodig om Tinkees bestelling af te maken.$B$BBreng me de hoorns zonder barsten, dan maak ik een pakket klaar voor Tinkee.",
+      "o": "Breng 8 Uncracked Chillwind Horns naar Felnok Steelspring.",
+      "p": "Heb je de chillwind-hoorns, $N?",
+      "c": "Dit zijn goede exemplaren. Ze zitten vol kou! Even handschoenen aantrekken, dan pak ik ze in met de andere spullen die Tinkee nodig heeft...",
+      "g": [
+        [
+          "onderdeel",
+          "component, part"
+        ],
+        [
+          "hoorns",
+          "horns (hoorn)"
+        ],
+        [
+          "chimaera's",
+          "chimaeras (chimaera)"
+        ],
+        [
+          "geconcentreerde",
+          "concentrated"
+        ],
+        [
+          "bron",
+          "source"
+        ],
+        [
+          "gave",
+          "pristine, flawless (gaaf)"
+        ],
+        [
+          "barsten",
+          "cracks (barst)"
+        ],
+        [
+          "voorraad",
+          "supply"
+        ],
+        [
+          "bestelling",
+          "order"
+        ],
+        [
+          "pakket",
+          "package"
+        ],
+        [
+          "exemplaren",
+          "specimens (exemplaar)"
+        ],
+        [
+          "handschoenen",
+          "gloves (handschoen)"
+        ]
+      ]
+    },
+    "4810": {
+      "t": "Terug naar Tinkee",
+      "d": "Oké, alles is klaargemaakt, ingepakt en klaar voor vervoer! Succes met je reis, en zeg tegen Tinkee dat ze me iets schuldig is!",
+      "o": "Breng Felnok's Package naar Tinkee Steamboil in de Burning Steppes.",
+      "p": "$N! Heb je met Felnok gepraat? Heb je de onderdelen meegebracht die ik nodig heb?",
+      "c": "Je hebt ze meegebracht! Geweldig! Ik ga meteen aan de slag! Heel erg bedankt, $N!$b$bJe hebt me zo goed geholpen. Misschien heb ik je later nodig voor nog belangrijkere taken...",
+      "g": [
+        [
+          "klaargemaakt",
+          "prepared (klaarmaken)"
+        ],
+        [
+          "ingepakt",
+          "packed (inpakken)"
+        ],
+        [
+          "vervoer",
+          "transport"
+        ],
+        [
+          "schuldig",
+          "owing, in debt"
+        ],
+        [
+          "onderdelen",
+          "components (onderdeel)"
+        ],
+        [
+          "aan de slag",
+          "get to work"
+        ],
+        [
+          "taken",
+          "tasks (taak)"
+        ]
+      ]
+    },
+    "3783": {
+      "t": "Zijn we er al, yeti?",
+      "d": "Mijn vrienden komen altijd met geweldige ideeën. Ik heb nooit het gevoel gehad dat ik aan hen kon tippen... tot vandaag! Ik heb net de plannen getekend voor iets geweldigs! Als je belooft dat je het niet doorvertelt, vertel ik je het geheim...$B$BIk ga een mechanische yeti maken! Mijn vrienden zullen vast flink schrikken als ze hem zien. En als ze daarvan bekomen zijn, zullen ze onder de indruk zijn, dat weet ik zeker!$B$BOm te beginnen heb ik dikke yetivacht nodig van de ice thistle-yeti's. Help je me? Je vindt ze in het zuidoosten.",
+      "o": "Verzamel 10 Thick Yeti Furs voor Umi Rumplesnicker in Everlook.",
+      "p": "Ik moet hier nog met veel dingen beginnen. Haal die vachten alsjeblieft zo snel mogelijk!",
+      "c": "Deze vachten zijn perfect, $N. We zijn goed begonnen!",
+      "g": [
+        [
+          "tippen",
+          "to match, compare with (tippen aan)"
+        ],
+        [
+          "doorvertelt",
+          "pass on, tell others (doorvertellen)"
+        ],
+        [
+          "geheim",
+          "secret"
+        ],
+        [
+          "mechanische",
+          "mechanical"
+        ],
+        [
+          "schrikken",
+          "to be startled, freaked out"
+        ],
+        [
+          "bekomen",
+          "recovered (van iets bekomen)"
+        ],
+        [
+          "onder de indruk",
+          "impressed"
+        ],
+        [
+          "yetivacht",
+          "yeti fur"
+        ],
+        [
+          "vachten",
+          "furs (vacht)"
+        ]
+      ]
+    },
+    "4842": {
+      "t": "Vreemde bronnen",
+      "d": "Eerlijk gezegd zijn er geen vulkanen hier in Winterspring. Toch denk ik dat er veel dreigender redenen zijn voor deze warmwaterbronnen...$B$BNou, ik denk dat je het zelf wilt zien. Je moet heel Winterspring door reizen, helemaal naar het zuiden. Als de lucht dik en benauwd wordt en de hemel donker wordt, heb je gevonden wat volgens mij de bron van de warmwaterbronnen is.$B$BKijk eens rond. Ik weet zeker dat je veel vragen hebt als je terugkomt.",
+      "o": "Volg de aanwijzingen van Donova Snowden en kom dan verslag uitbrengen.",
+      "p": "Het water in de bronnen lijkt een paar heel vreemde eigenschappen te hebben... Ik weet nog steeds niet goed wat het betekent...",
+      "c": "Ja, de demonen daar in Darkwhisper Gorge. Ik denk dat hun aanwezigheid het land op deze manier beïnvloedt. Ik blijf de warmwaterbronnen hier bekijken en zie wel of ik meer ontdek.$B$BAls je van plan bent om verder Darkwhisper Gorge in te gaan, zou ik wachten tot je wat sterker bent.",
+      "e": "Ontdek Darkwhisper Gorge",
+      "g": [
+        [
+          "eerlijk gezegd",
+          "to tell you the truth"
+        ],
+        [
+          "vulkanen",
+          "volcanoes (vulkaan)"
+        ],
+        [
+          "dreigender",
+          "more threatening (dreigend)"
+        ],
+        [
+          "warmwaterbronnen",
+          "hot springs"
+        ],
+        [
+          "benauwd",
+          "muggy, stuffy"
+        ],
+        [
+          "aanwijzingen",
+          "instructions (aanwijzing)"
+        ],
+        [
+          "verslag uitbrengen",
+          "to report back"
+        ],
+        [
+          "eigenschappen",
+          "properties (eigenschap)"
+        ],
+        [
+          "aanwezigheid",
+          "presence"
+        ],
+        [
+          "beïnvloedt",
+          "affects (beïnvloeden)"
+        ]
+      ]
+    },
+    "5082": {
+      "t": "De dreiging van de Winterfall",
+      "d": "Ik kwam naar Winterspring om de Frostfire Hot Springs te onderzoeken. Het water lijkt ...vreemde eigenschappen te hebben. Ik heb de oorsprong nog niet kunnen vinden. En eerlijk gezegd heb ik de laatste tijd wat problemen, door de Winterfall-furbolgs.$B$BZe lijken naar de bronnen getrokken te worden, net als ik. Ze zijn het water heel fel gaan beschermen, en ze laten me niet in de buurt komen van de twee grotere bronnen ten noorden van hier.$B$BIk wil graag verder met mijn onderzoek. Wil je me helpen?",
+      "o": "Donova Snowden in Winterspring wil dat je 8 Winterfall Pathfinders, 8 Winterfall Den Watchers en 8 Winterfall Totemics doodt.",
+      "p": "Ik waardeer je hulp!",
+      "c": "Heel erg bedankt, $N! Nu kan ik hier weer aan het werk.$B$BHeb je iets interessants gevonden in het kamp van de Winterfall?",
+      "g": [
+        [
+          "dreiging",
+          "threat"
+        ],
+        [
+          "onderzoeken",
+          "to investigate"
+        ],
+        [
+          "eigenschappen",
+          "properties, qualities (eigenschap)"
+        ],
+        [
+          "oorsprong",
+          "source, origin"
+        ],
+        [
+          "getrokken",
+          "drawn, attracted (trekken)"
+        ],
+        [
+          "fel",
+          "fiercely"
+        ],
+        [
+          "beschermen",
+          "to protect"
+        ],
+        [
+          "in de buurt",
+          "near, close by"
+        ],
+        [
+          "onderzoek",
+          "studies, research"
+        ],
+        [
+          "waardeer",
+          "appreciate (waarderen)"
+        ]
+      ]
+    },
+    "5083": {
+      "t": "Vuurwater van de Winterfall",
+      "d": "Het flesje dat je bij de Winterfall-furbolgs hebt opgepakt, is leeg. Maar binnenin zie je nog een paar druppels van een vreemde groene vloeistof. Die gloeit bijna.$B$BIs het iets belangrijks?$B$BDonova Snowden kan je waarschijnlijk meer vertellen. Ze kampeert al een tijdje bij de warmwaterbronnen in Winterspring.",
+      "o": "Breng de Empty Firewater Flask naar Donova Snowden in Winterspring.",
+      "p": "Wat heb je daar gevonden?",
+      "c": "Heb je dit van de Winterfall?",
+      "g": [
+        [
+          "vuurwater",
+          "firewater"
+        ],
+        [
+          "flesje",
+          "vial, small bottle"
+        ],
+        [
+          "opgepakt",
+          "picked up (oppakken)"
+        ],
+        [
+          "binnenin",
+          "inside"
+        ],
+        [
+          "druppels",
+          "drops (druppel)"
+        ],
+        [
+          "vloeistof",
+          "liquid"
+        ],
+        [
+          "gloeit",
+          "glows (gloeien)"
+        ],
+        [
+          "kampeert",
+          "camps (kamperen)"
+        ],
+        [
+          "warmwaterbronnen",
+          "hot springs"
+        ]
+      ]
+    },
+    "5084": {
+      "t": "Ten prooi aan verdorvenheid",
+      "d": "Deze groenige vloeistof... die doet me een beetje denken aan het slijk dat ik zag toen ik door Felwood reisde. En ik heb een paar Winterfall Runners Timbermaw in zien gaan... Misschien hebben die dingen iets te maken met het flesje dat je vond, $N.$B$BNet voorbij Timbermaw Hold, in Felwood, woont een grote groep furbolgs. Ze heten de Deadwood-stam. Het fel heeft ze verdorven en gek gemaakt. Waarom kijk je daar niet eens rond? Misschien vind je bewijs van contact tussen de Winterfall en de Deadwood.",
+      "o": "Doorzoek het kamp van de Deadwood-furbolgs in het noorden van Felwood naar een aanwijzing.",
+      "c": "In de ketel borrelt een rottend, walgelijk ruikend goedje...",
+      "g": [
+        [
+          "ten prooi aan",
+          "falling victim to"
+        ],
+        [
+          "verdorvenheid",
+          "corruption"
+        ],
+        [
+          "groenige",
+          "greenish"
+        ],
+        [
+          "slijk",
+          "sludge, slime"
+        ],
+        [
+          "stam",
+          "tribe"
+        ],
+        [
+          "verdorven",
+          "corrupted"
+        ],
+        [
+          "bewijs",
+          "evidence, proof"
+        ],
+        [
+          "doorzoek",
+          "search (doorzoeken)"
+        ],
+        [
+          "aanwijzing",
+          "clue"
+        ],
+        [
+          "ketel",
+          "cauldron"
+        ],
+        [
+          "borrelt",
+          "bubbles (borrelen)"
+        ],
+        [
+          "rottend",
+          "rotting"
+        ],
+        [
+          "walgelijk",
+          "repulsive, disgusting"
+        ],
+        [
+          "goedje",
+          "stuff, substance"
+        ]
+      ]
+    },
+    "5085": {
+      "t": "Mysterieuze smurrie",
+      "d": "De groenige stof in de ketel lijkt op wat je in het flesje vond. Dit vreemde, kleverige spul is misschien net zo verdorven als de furbolgs die het gemaakt hebben...$B$BAls de Winterfall-furbolgs het gebruiken, betekent dat dan dat ze straks net zo verdorven zijn als de Deadwood-stam?$B$BHet is het beste om terug te gaan naar Donova en haar te vertellen wat je ontdekt hebt. Neem ook een monster van de vloeistof in de ketel mee.",
+      "o": "Ga terug naar Donova Snowden en vertel wat je ontdekt hebt.",
+      "p": "Ik hoop dat je iets gevonden hebt, $N. De Winterfall worden steeds agressiever!",
+      "c": "Je bent erg vindingrijk, $N. Denk je dat de Winterfall-furbolgs in het kamp van de Deadwood zijn geweest?",
+      "g": [
+        [
+          "mysterieuze",
+          "mysterious"
+        ],
+        [
+          "smurrie",
+          "goo, gunk"
+        ],
+        [
+          "stof",
+          "substance"
+        ],
+        [
+          "kleverige",
+          "gooey, sticky (kleverig)"
+        ],
+        [
+          "spul",
+          "stuff"
+        ],
+        [
+          "verdorven",
+          "corrupted"
+        ],
+        [
+          "straks",
+          "soon"
+        ],
+        [
+          "monster",
+          "sample"
+        ],
+        [
+          "agressiever",
+          "more aggressive"
+        ],
+        [
+          "vindingrijk",
+          "resourceful"
+        ]
+      ]
+    },
+    "5086": {
+      "t": "De toxic horrors",
+      "d": "Ik heb het monster bestudeerd dat je meebracht. Ik weet het niet zeker, maar ik denk dat er sporen van giftige elementen in zitten. De enige manier om het zeker te weten, is om er wat van te verzamelen om te vergelijken.$B$BIk denk dat de Deadwood-furbolgs deze elementen misschien verzamelen bij andere verdorven wezens in Felwood. Vooral bij de elementalen die in de Irontree Woods wonen. Ze heten toxic horrors.$B$BVerzamel een paar monsters voor me om te vergelijken. Maar wees voorzichtig: het is daar erg gevaarlijk!",
+      "o": "Verzamel 3 Toxic Horror Droplets voor Donova Snowden in Winterspring.",
+      "p": "Ik denk dat we beginnen te ontdekken wat hier gebeurt, $N.",
+      "c": "Ik moet dit vergelijken met de stof die je in de ketel vond. Dan weten we vast meer.",
+      "g": [
+        [
+          "monster",
+          "sample"
+        ],
+        [
+          "bestudeerd",
+          "studied (bestuderen)"
+        ],
+        [
+          "sporen",
+          "traces (spoor)"
+        ],
+        [
+          "giftige",
+          "toxic, poisonous (giftig)"
+        ],
+        [
+          "vergelijken",
+          "to compare"
+        ],
+        [
+          "verdorven",
+          "corrupted"
+        ],
+        [
+          "wezens",
+          "creatures (wezen)"
+        ],
+        [
+          "elementalen",
+          "elementals"
+        ],
+        [
+          "monsters",
+          "samples (monster)"
+        ]
+      ]
+    },
+    "5244": {
+      "t": "De ruïnes van Kel'Theril",
+      "d": "Het verhaal achter Kel'Theril gaat over een vervloekt volk. Ze zijn gebonden aan de plek waar ze een noodlottig ritueel probeerden uit te voeren...$B$BDe highborne die je daar vindt, hebben ooit een heilig artefact gestolen. Ze dachten dat ze de kracht ervan voor zichzelf konden aftappen, om nog machtiger te worden. Bij hun pogingen brak het relikwie in een enorme explosie. De stukken werden onder het ijs van het meer gedreven...$B$BPraat met Jaron Stoneshaper als je meer wilt weten. Hij is onlangs in het gebied geweest en kan je meer vertellen.",
+      "o": "Praat met Jaron Stoneshaper in Starfall Village.",
+      "c": "Nou, natuurlijk kan ik je meer vertellen over Kel'Theril. Let wel, ik ben geen geschiedkundige, maar ik kan je vertellen wat ik daar zag...",
+      "g": [
+        [
+          "ruïnes",
+          "ruins (ruïne)"
+        ],
+        [
+          "vervloekt",
+          "cursed"
+        ],
+        [
+          "gebonden",
+          "bound (binden)"
+        ],
+        [
+          "noodlottig",
+          "unfortunate, fateful"
+        ],
+        [
+          "ritueel",
+          "ritual"
+        ],
+        [
+          "uit te voeren",
+          "to carry out (uitvoeren)"
+        ],
+        [
+          "heilig",
+          "sacred, holy"
+        ],
+        [
+          "aftappen",
+          "to siphon, drain"
+        ],
+        [
+          "machtiger",
+          "more powerful (machtig)"
+        ],
+        [
+          "relikwie",
+          "relic"
+        ],
+        [
+          "gedreven",
+          "driven (drijven)"
+        ],
+        [
+          "onlangs",
+          "recently"
+        ],
+        [
+          "let wel",
+          "mind you"
+        ],
+        [
+          "geschiedkundige",
+          "historian"
+        ]
+      ]
+    },
+    "5245": {
+      "t": "Gekwelde geesten van Kel'Theril",
+      "d": "De geesten van de highborne zijn ellendige wezens, dat staat vast. Ze zoeken nog steeds naar stukken van het ding dat hen voor altijd aan Kel'Theril vervloekt heeft: het gestolen relikwie.$B$BAls je zo geïnteresseerd bent, neem dan mijn houweel en ga naar het zuiden, naar het meer. Kijk of je de stukken uit het ijs kunt halen.$B$BIk kan je niets vertellen over wat je vindt, maar ik ken iemand die dat misschien wel kan... Aurora Skycaller. Ze woont bij de Northpass Tower, in het noorden van de Eastern Plaguelands.",
+      "o": "Gebruik Jaron's Pick om de vier Highborne Relic Fragments te vinden. Breng ze naar Aurora Skycaller in de Eastern Plaguelands.",
+      "p": "Waarom ben je hier gekomen?",
+      "c": "Over het verleden van de hoge elfen wil ik niet praten, $N. Alsjeblieft, het doet me pijn om te denken aan alles wat er gebeurd is... En dat er geen manier is om het goed te maken.",
+      "g": [
+        [
+          "gekwelde",
+          "troubled, tormented (kwellen)"
+        ],
+        [
+          "ellendige",
+          "miserable (ellendig)"
+        ],
+        [
+          "dat staat vast",
+          "that's for sure"
+        ],
+        [
+          "vervloekt",
+          "cursed (vervloeken)"
+        ],
+        [
+          "relikwie",
+          "relic"
+        ],
+        [
+          "geïnteresseerd",
+          "interested"
+        ],
+        [
+          "houweel",
+          "pick, pickaxe"
+        ],
+        [
+          "verleden",
+          "past"
+        ],
+        [
+          "hoge elfen",
+          "high elves"
+        ],
+        [
+          "goed te maken",
+          "to make right (goedmaken)"
+        ]
+      ]
+    },
+    "6603": {
+      "t": "Problemen in Winterspring!",
+      "d": "Er zijn problemen in Winterspring!$B$BTja, ik breng wat tijd door in de wildernis en weet van zulke dingen... Daar ben ik altijd erg trots op. De uren die ik daar in de heuvels doorbreng, vind ik goud waard. Ze helpen je om snelle reflexen, een koel hoofd en een scherp oog te ontwikkelen...$B$BJe hebt beoordelingsvermogen, verstand en volwassenheid nodig om de wildernis te waarderen zoals ik dat doe.$B$BEn, waar had ik het over?$B$BAh ja, problemen. Ga naar Donova Snowden bij de warmwaterbronnen, dan kan zij je meer vertellen.$b$b",
+      "o": "Zoek Donova Snowden bij de warmwaterbronnen in Winterspring.",
+      "c": "Nou, hallo daar! Dus Meggi heeft je verteld over de problemen die ik hier gevonden heb?",
+      "g": [
+        [
+          "wildernis",
+          "wilderness, the wilds"
+        ],
+        [
+          "doorbreng",
+          "spend (time) (doorbrengen)"
+        ],
+        [
+          "goud waard",
+          "worth gold, golden"
+        ],
+        [
+          "reflexen",
+          "reflexes (reflex)"
+        ],
+        [
+          "een koel hoofd",
+          "a cool head"
+        ],
+        [
+          "scherp",
+          "keen, sharp"
+        ],
+        [
+          "ontwikkelen",
+          "to develop, cultivate"
+        ],
+        [
+          "beoordelingsvermogen",
+          "judgement"
+        ],
+        [
+          "verstand",
+          "brains, sense"
+        ],
+        [
+          "volwassenheid",
+          "maturity"
+        ],
+        [
+          "waarderen",
+          "to appreciate"
+        ],
+        [
+          "warmwaterbronnen",
+          "hot springs"
+        ]
+      ]
+    },
+    "8471": {
+      "t": "Ritueeltotem van de Winterfall",
+      "d": "Je hebt een van de ritueeltotems van de Winterfall-furbolgs gevonden. De totem zelf is eenvoudig gemaakt, maar hij lijkt een bijna tastbaar gevoel van angst en wanhoop uit te stralen. Als veel Winterfall-furbolgs echt zulke totems bij zich dragen, zou dat hun huidige toestand voor een groot deel verklaren.$B$BMisschien heeft een van de furbolgs in Timbermaw Hold iets aan zo'n voorwerp... tenminste, als je genoeg van hun vertrouwen hebt verdiend, zodat ze met je willen praten.",
+      "o": "Neem de Winterfall Ritual Totem mee naar binnen in Timbermaw Hold en kijk of een van de furbolgs daar er iets mee kan. De Timbermaw praten pas met je als je reputatie bij hen Neutraal of hoger is.",
+      "p": "$C, je benadert ons vreedzaam, maar ik voel dat je hier bent voor ernstige en zware zaken... voor zowel furbolg als $r. Wat kom je ons vertellen?",
+      "c": "Dit ding... het heeft de vorm van een Winterfall Ritual Totem, maar het is verwrongen door krachten die ik niet eens kan begrijpen. Welke smet de Winterfall ook tegen ons heeft opgezet, die zit zeker in dit voorwerp.$B$BGoddelijke wijsheid heeft zowel dit voorwerp als jou naar ons gebracht, $N. We zullen het grondig bestuderen. Misschien zullen de Winterfall op een dag niet meer tegen ons tekeergaan.$B$BDank je, vriend. Neem alsjeblieft deze geschenken aan als dank voor je goedheid.",
+      "g": [
+        [
+          "ritueeltotems",
+          "ritual totems (ritueeltotem)"
+        ],
+        [
+          "tastbaar",
+          "tangible"
+        ],
+        [
+          "uit te stralen",
+          "to emanate, radiate (uitstralen)"
+        ],
+        [
+          "huidige toestand",
+          "current condition"
+        ],
+        [
+          "verklaren",
+          "to explain"
+        ],
+        [
+          "vertrouwen",
+          "trust"
+        ],
+        [
+          "benadert",
+          "approach (benaderen)"
+        ],
+        [
+          "vreedzaam",
+          "peacefully, peaceful"
+        ],
+        [
+          "ernstige",
+          "grave, serious"
+        ],
+        [
+          "verwrongen",
+          "twisted"
+        ],
+        [
+          "smet",
+          "taint, stain"
+        ],
+        [
+          "goddelijke",
+          "divine"
+        ],
+        [
+          "grondig",
+          "thoroughly, intently"
+        ],
+        [
+          "tekeergaan",
+          "to rage"
+        ],
+        [
+          "goedheid",
+          "kindness, benevolence"
+        ]
+      ]
+    },
+    "4902": {
+      "t": "Wildkin van Elune",
+      "d": "Dat is fascinerend!$B$BIk heb me altijd afgevraagd wat de waarheid was... Nou, je moet deze kennis echt delen! Ga meteen naar Arch Druid Fandral Staghelm. Je vindt hem in Darnassus, in de Cenarion Circle. Leg hem uit wat er gebeurd is, precies zoals je het mij vertelde. Ik weet zeker dat hij net zo geïnteresseerd zal zijn!$B$BDit is belangrijke informatie, $N!",
+      "o": "Praat met Arch Druid Fandral Staghelm in Darnassus.",
+      "c": "Aarzel niet; vertel me waarom je gekomen bent.$B$BO ja? Hm. Nou.$B$BDank je dat je dit meteen naar mij brengt. Het is altijd het beste om direct naar de top te gaan... Maar... Ja. De druïden van de Cenarion Circle weten al een tijd van de wildkin. Dat ze de huisdieren van Elune zijn, en dat ze gekozen zijn om de heiligste plaatsen te bewaken.$B$BDus hoewel dit geen nieuws is, geef ik je zeker een compliment voor je moeite. Hier, neem dit. Het lijkt me passend voor zo'n daad.",
+      "g": [
+        [
+          "fascinerend",
+          "fascinating"
+        ],
+        [
+          "afgevraagd",
+          "wondered (zich afvragen)"
+        ],
+        [
+          "kennis",
+          "knowledge"
+        ],
+        [
+          "delen",
+          "to share"
+        ],
+        [
+          "aarzel",
+          "hesitate (aarzelen)"
+        ],
+        [
+          "druïden",
+          "druids (druïde)"
+        ],
+        [
+          "heiligste",
+          "most sacred (heilig)"
+        ],
+        [
+          "bewaken",
+          "to guard"
+        ],
+        [
+          "moeite",
+          "effort"
+        ],
+        [
+          "passend",
+          "suitable, fitting"
+        ],
+        [
+          "daad",
+          "deed"
+        ]
+      ]
+    },
+    "5087": {
+      "t": "De Winterfall Runners",
+      "d": "Heel interessant, $N...$B$BAls deze giftige stof gemengd wordt met het water uit de warmwaterbronnen, is hij niet meer giftig. Hij houdt alleen het vermogen om tijdelijk invloed te hebben op wie hem inneemt. Daarom beschermen de Winterfall de warmwaterbronnen zo vurig: ze hebben ze nodig om hun vuurwater te zuiveren.$B$BWe moeten dit stoppen en het contact tussen de Winterfall en de Deadwood verbreken. Een groep lopers legt de afstand af tussen hun dorp en Felwood. Zoek ze, versla ze en steel hun lading.",
+      "o": "Zoek de Winterfall Runners en zorg dat ze hun lading niet bij Winterfall Village afleveren.",
+      "p": "We zullen zien wat er gebeurt als de Winterfall hun vuurwater niet krijgen!",
+      "c": "<Donova bekijkt de inhoud van de krat.>$B$BIk vraag me af of de furbolgs agressiever worden als ze deze stof binnenkrijgen. Ze lijken in elk geval veel groter...",
+      "g": [
+        [
+          "gemengd",
+          "mixed (mengen)"
+        ],
+        [
+          "vermogen",
+          "ability"
+        ],
+        [
+          "tijdelijk",
+          "temporarily"
+        ],
+        [
+          "invloed",
+          "influence, effect"
+        ],
+        [
+          "inneemt",
+          "ingests, takes (innemen)"
+        ],
+        [
+          "vurig",
+          "fervently"
+        ],
+        [
+          "zuiveren",
+          "to purify"
+        ],
+        [
+          "verbreken",
+          "to cut off, break"
+        ],
+        [
+          "lopers",
+          "runners (loper)"
+        ],
+        [
+          "legt de afstand af",
+          "covers the distance (afleggen)"
+        ],
+        [
+          "versla",
+          "defeat (verslaan)"
+        ],
+        [
+          "lading",
+          "shipment, cargo"
+        ],
+        [
+          "afleveren",
+          "to deliver"
+        ],
+        [
+          "krat",
+          "crate"
+        ],
+        [
+          "binnenkrijgen",
+          "to consume, take in"
+        ]
+      ]
+    },
+    "977": {
+      "t": "Zijn we er al, yeti?",
+      "d": "Nu ik heb wat ik nodig heb om de bewegende mechanische onderdelen te bedekken, heb ik nog maar één ding nodig. Nou ja, eigenlijk twee. Twee hoorns!$B$BDe ice thistle-patriarchen en -matriarchen hebben de grootste hoorns, dus die wil ik natuurlijk hebben. Dat soort yeti woont in een grot in het zuidoosten. Er zijn er genoeg; je zult ze vast makkelijk vinden.$B$BOnthoud: ik wil alleen de mooiste. Geen beschadigde of gebroken hoorns, alsjeblieft!",
+      "o": "Verzamel 2 Pristine Yeti Horns voor Umi Rumplesnicker in Everlook.",
+      "p": "Ik ben bijna klaar met het vastmaken van de vacht, $N. Kom alsjeblieft snel terug met die hoorns!",
+      "c": "Ik kan niet wachten om het mijn vrienden te laten zien! Wacht even terwijl ik deze vastmaak...$B$BPerfect!",
+      "g": [
+        [
+          "bewegende",
+          "moving (bewegen)"
+        ],
+        [
+          "mechanische",
+          "mechanical"
+        ],
+        [
+          "onderdelen",
+          "parts (onderdeel)"
+        ],
+        [
+          "bedekken",
+          "to cover"
+        ],
+        [
+          "hoorns",
+          "horns (hoorn)"
+        ],
+        [
+          "patriarchen",
+          "patriarchs (patriarch)"
+        ],
+        [
+          "matriarchen",
+          "matriarchs (matriarch)"
+        ],
+        [
+          "grot",
+          "cave"
+        ],
+        [
+          "onthoud",
+          "remember (onthouden)"
+        ],
+        [
+          "beschadigde",
+          "damaged, beat up"
+        ],
+        [
+          "vastmaken",
+          "attaching (vastmaken)"
+        ],
+        [
+          "vastmaak",
+          "attach (vastmaken)"
+        ]
+      ]
+    },
+    "5163": {
+      "t": "Zijn we er al, yeti?",
+      "d": "Alles is klaar, $N!$B$BIk heb mijn vrienden al een brief gestuurd dat ik een verrassing voor ze heb. Daar kom jij in beeld!$B$BIk geef je mijn mechanische yeti. Jij gaat ze verrassen: bezoek elk van mijn vrienden, zet de yeti aan en stuur hem op ze af.$B$B Als je hem aan Legacki in Everlook, Sprinkle in Gadgetzan en Quixxil in Marshal's Refuge hebt laten zien, kom dan terug en vertel me wat er gebeurd is!$B$BBreng mijn yeti dan ook terug, alsjeblieft.",
+      "o": "Neem Umi's Mechanical Yeti mee en laat haar vrienden ervan schrikken:$B$BLegacki in Everlook (Winterspring)$BSprinkle in Gadgetzan (Tanaris)$BQuixxil in Marshal's Refuge (Un'Goro Crater)$B$BBreng daarna de Mechanical Yeti terug naar Umi.",
+      "p": "Ik kan niet wachten om te horen hoe mijn vrienden reageren!$B$BDit verwachten ze nooit!",
+      "c": "Ha! Die denken wel twee keer na voordat ze weer grappen maken over mijn ideeën!$B$BBedankt voor je hulp, $N. Zonder jou had ik nooit zoveel plezier gehad!",
+      "o1": "Laat Legacki schrikken",
+      "o2": "Laat Sprinkle schrikken",
+      "o3": "Laat Quixxil schrikken",
+      "g": [
+        [
+          "verrassing",
+          "surprise"
+        ],
+        [
+          "in beeld",
+          "into the picture (in beeld komen)"
+        ],
+        [
+          "mechanische",
+          "mechanical"
+        ],
+        [
+          "verrassen",
+          "to surprise"
+        ],
+        [
+          "op ze af",
+          "towards them (afsturen op)"
+        ],
+        [
+          "schrikken",
+          "to be scared, startled"
+        ],
+        [
+          "reageren",
+          "to react"
+        ],
+        [
+          "verwachten",
+          "expect (verwachten)"
+        ],
+        [
+          "denken wel twee keer na",
+          "will think twice (nadenken)"
+        ],
+        [
+          "grappen maken",
+          "to make fun, joke"
+        ]
+      ]
+    },
+    "5252": {
+      "t": "Highborne vol berouw",
+      "d": "Het... het kristal...$B$BDe highborne hier zijn verblind door hun eigen... ellende...$B$BIk heb... veel spijt, maar ik zie de... fout in van wat er zo lang geleden gebeurde. Ook al is er geen... manier... om het verleden te veranderen, ik heb nu... rust... omdat ik weet dat jij het kristal van Zin-Malor hebt teruggevonden...$B$BJe moet het... terugbrengen...$B$BHet moet... teruggebracht worden.",
+      "o": "Praat met Wynd Nightchaser in Starfall Village en vraag waar de juiste plek is voor de Crystal of Zin-Malor.",
+      "p": "Het is een tijd geleden dat je vertrok, $N. Hoe is het je vergaan?",
+      "c": "Is dat... wat ik denk dat het is?",
+      "g": [
+        [
+          "berouw",
+          "remorse"
+        ],
+        [
+          "kristal",
+          "crystal"
+        ],
+        [
+          "verblind",
+          "blinded, clouded (verblinden)"
+        ],
+        [
+          "ellende",
+          "misery"
+        ],
+        [
+          "spijt",
+          "regret, sorrow"
+        ],
+        [
+          "zie ... in",
+          "realize (inzien)"
+        ],
+        [
+          "fout",
+          "error, mistake"
+        ],
+        [
+          "verleden",
+          "past"
+        ],
+        [
+          "rust",
+          "peace, rest"
+        ],
+        [
+          "teruggevonden",
+          "recovered (terugvinden)"
+        ],
+        [
+          "juiste",
+          "proper, right"
+        ],
+        [
+          "vergaan",
+          "fared (hoe is het je vergaan)"
+        ]
+      ]
+    },
+    "5253": {
+      "t": "Het kristal van Zin-Malor",
+      "d": "Heel indrukwekkend, $N.$B$BHet kristal van Zin-Malor kan nooit terug naar de tempel. Zoals je weet, ligt die in puin. Maar ik vind dat je moeite om het kwaad van het verleden ongedaan te maken, beloond moet worden.$B$BZoek Arch Druid Fandral Staghelm op in Darnassus en breng het kristal naar hem, $N. Het moet in handen zijn van wie zijn kracht niet zal misbruiken. Zo te zien kan maar een handvol van de sterkste magiërs zo'n kracht beheersen.",
+      "o": "Breng de Crystal of Zin-Malor naar Arch Druid Fandral Staghelm in Darnassus.",
+      "p": "Ja, $R?",
+      "c": "Ik heb gehoord van het kristal van Zin-Malor. Wie het kristal gebruikt, krijgt ongelooflijke arcane kracht, maar alleen als die persoon het echt waardig is. Ik ben onder de indruk dat je het kristal niet alleen hebt teruggevonden, maar ook je eigen grenzen kent. Je hebt niet geprobeerd het kristal zelf te gebruiken.$B$BDank je dat je het naar mij brengt, $N. We houden het veilig. Mogen de vervloekte geesten die ooit het gebroken kristal bewaakten, eindelijk rust vinden.",
+      "g": [
+        [
+          "indrukwekkend",
+          "impressive"
+        ],
+        [
+          "in puin",
+          "in ruins"
+        ],
+        [
+          "kwaad",
+          "evil"
+        ],
+        [
+          "ongedaan te maken",
+          "to undo (ongedaan maken)"
+        ],
+        [
+          "beloond",
+          "rewarded (belonen)"
+        ],
+        [
+          "misbruiken",
+          "to abuse, misuse"
+        ],
+        [
+          "zo te zien",
+          "from the looks of it"
+        ],
+        [
+          "handvol",
+          "handful"
+        ],
+        [
+          "magiërs",
+          "magic users, mages (magiër)"
+        ],
+        [
+          "beheersen",
+          "to control, master"
+        ],
+        [
+          "ongelooflijke",
+          "incredible"
+        ],
+        [
+          "waardig",
+          "worthy"
+        ],
+        [
+          "grenzen",
+          "limits (grens)"
+        ],
+        [
+          "bewaakten",
+          "guarded (bewaken)"
+        ]
+      ]
+    },
+    "4861": {
+      "t": "Woedende wildkin",
+      "d": "Hé daar, $Gjongen:meid;! Een stel bloeddorstige wildkin heeft me uit mijn kamp in het zuiden van Winterspring verjaagd! Tja, ik ben vast te dicht bij iets gekomen dat de wildkin bewaakten.$B$BIk ben ternauwernood veilig ontsnapt. Ik vrees dat een maat van me minder geluk had. Durf jij de wildkin te trotseren en naar het kamp te gaan? Ik heb mijn spullen echt nodig, en ik wil ook graag het amulet terug dat ik gisteren bij de opgraving heb gevonden.",
+      "o": "Zoek het verwoeste kamp en de spullen van Jaron Stoneshaper in het zuiden van Winterspring.",
+      "c": "Tussen de rest van de vernielde spullen in het kamp valt één zwaar beschadigde krat op...",
+      "g": [
+        [
+          "woedende",
+          "enraged (woedend)"
+        ],
+        [
+          "bloeddorstige",
+          "bloodthirsty"
+        ],
+        [
+          "verjaagd",
+          "chased away (verjagen)"
+        ],
+        [
+          "bewaakten",
+          "guarded (bewaken)"
+        ],
+        [
+          "ternauwernood",
+          "barely, narrowly"
+        ],
+        [
+          "ontsnapt",
+          "escaped (ontsnappen)"
+        ],
+        [
+          "vrees",
+          "fear (vrezen)"
+        ],
+        [
+          "maat",
+          "buddy, mate"
+        ],
+        [
+          "trotseren",
+          "to brave, defy"
+        ],
+        [
+          "opgraving",
+          "dig site, excavation"
+        ],
+        [
+          "verwoeste",
+          "wrecked (verwoesten)"
+        ],
+        [
+          "vernielde",
+          "destroyed (vernielen)"
+        ],
+        [
+          "valt ... op",
+          "stands out (opvallen)"
+        ]
+      ]
+    },
+    "4863": {
+      "t": "Woedende wildkin",
+      "d": "Als je rondkijkt, zie je weinig wat Jaron hier zou willen hebben. Wel zie je dat de krat die je vond, is opengeslagen. Het lijkt bijna alsof de wildkin juist dit zochten...$B$BIn het oosten kun je met moeite een verlaten wagen zien. Misschien vind je daar Jarons spullen. Het is de moeite waard om te kijken.",
+      "o": "Zoek de verwoeste wagen van Jaron Stoneshaper.",
+      "c": "Als je bij de wagen komt, lijkt er niet veel meer voor Jaron te liggen. Maar op de grond zie je een paar kratten die onbeschadigd lijken, ook al liggen ze half begraven in de sneeuw.",
+      "g": [
+        [
+          "woedende",
+          "enraged (woedend)"
+        ],
+        [
+          "opengeslagen",
+          "smashed open (openslaan)"
+        ],
+        [
+          "met moeite",
+          "barely, with difficulty"
+        ],
+        [
+          "verlaten",
+          "abandoned"
+        ],
+        [
+          "wagen",
+          "wagon"
+        ],
+        [
+          "de moeite waard",
+          "worth it"
+        ],
+        [
+          "verwoeste",
+          "wrecked (verwoesten)"
+        ],
+        [
+          "kratten",
+          "crates (krat)"
+        ],
+        [
+          "onbeschadigd",
+          "undamaged"
+        ],
+        [
+          "half begraven",
+          "half-buried"
+        ]
+      ]
+    },
+    "4864": {
+      "t": "Woedende wildkin",
+      "d": "Je bekijkt de inhoud van de kist en besluit dat Jaron het gereedschap en de andere spullen erin goed kan gebruiken. Maar er is geen spoor van het amulet.$B$BHet lijkt erop dat de wildkin in het land ten noorden en oosten van hier wonen. Dus je besluit dat de volgende stap is om de wezens onder ogen te komen en het amulet van ze terug te nemen.",
+      "o": "Raap Jaron's Supplies op uit de sneeuw en zoek dan de wildkin die het amulet heeft gestolen waar Jaron over sprak.$B$BBreng Jaron's Supplies en het Blue-feathered Amulet naar Jaron Stoneshaper bij de hut in Winterspring.",
+      "p": "Ja... Vertel me het nieuws.",
+      "c": "Tja, dat had ik al verwacht, $Gjongen:meid;. Ik dacht al dat die gestoorde beesten al mijn spullen kapot hadden gemaakt...$B$BMaar je hebt wel mijn gereedschap gevonden, en vooral het amulet! Ik vraag me af waarom de wildkin dit voorwerp zo fel verdedigden... Hoe dan ook, ik denk wel twee keer na voordat ik weer hun kant op ga!",
+      "g": [
+        [
+          "woedende",
+          "enraged (woedend)"
+        ],
+        [
+          "inhoud",
+          "contents"
+        ],
+        [
+          "gereedschap",
+          "tools"
+        ],
+        [
+          "spoor",
+          "sign, trace"
+        ],
+        [
+          "onder ogen te komen",
+          "to face (onder ogen komen)"
+        ],
+        [
+          "raap",
+          "pick up (oprapen)"
+        ],
+        [
+          "gestoorde",
+          "crazed, deranged"
+        ],
+        [
+          "beesten",
+          "beasts (beest)"
+        ],
+        [
+          "fel",
+          "fiercely"
+        ],
+        [
+          "verdedigden",
+          "defended (verdedigen)"
+        ],
+        [
+          "hun kant op",
+          "their way, in their direction"
+        ]
+      ]
+    }
+  },
+  "words": {
+    "aantrekken": "to put on (clothes, gloves)",
+    "chillwind-chimaera's": "chillwind chimaeras (chimaera)",
+    "chillwind-hoorns": "chillwind horns (hoorn)",
+    "dikste": "thickest, fattest (dik)",
+    "jarons": "Jaron's",
+    "medium": "medium (someone who speaks with spirits)",
+    "neutraal": "neutral",
+    "strijduitrusting": "battle equipment, armaments",
+    "thistle-patriarchen": "thistle patriarchs (patriarch)",
+    "thistle-yeti's": "thistle yetis (yeti)",
+    "tinkees": "Tinkee's",
+    "uniek": "unique",
+    "verzint": "thinks up, invents (verzinnen)"
+  },
+  "terms": {
+    "furbolg": "furbolg: a bear-like forest people from the Warcraft world",
+    "wildkin": "wildkin: large owl-like creatures sacred to Elune in Warcraft",
+    "highborne": "highborne: the ancient night elf nobility, skilled in arcane magic",
+    "fel": "fel: demonic, corrupting magic in the Warcraft world"
+  }
+}
