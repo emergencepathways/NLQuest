@@ -1,0 +1,1797 @@
+{
+  "quests": {
+    "4901": {
+      "t": "De bewakers van het altaar",
+      "d": "Helemaal boven op de bergkam ligt volgens mij een altaar van de godin Elune. Voor zover ik kan zien, moeten we de vijf fakkels in elke grot aansteken. Dan kunnen we direct bij het altaar komen.$B$BIn de oude ruïnes van Kel'Theril heb ik een paar toverspreuken overgeschreven die in de steen waren uitgehakt. Ik denk dat ze het geheim zijn om het altaar te openen. Ik heb je hulp nodig om elke fakkel aan te steken, terwijl ik de spreuk opzeg.$B$BAls het lukt, kun je onze ontdekkingen aan Erelas melden!",
+      "o": "Bescherm Ranshalla terwijl ze probeert het Altar of Elune weer te activeren. Meld je ontdekkingen aan Erelas Ambersky in Rut'theran Village.",
+      "c": "Heb je Ranshalla ontmoet?",
+      "e": "Ontdek het geheim van het Altar of Elune",
+      "g": [
+        [
+          "bewakers",
+          "guardians (bewaker)"
+        ],
+        [
+          "bergkam",
+          "ridge"
+        ],
+        [
+          "altaar",
+          "altar"
+        ],
+        [
+          "godin",
+          "goddess"
+        ],
+        [
+          "fakkels",
+          "torches (fakkel)"
+        ],
+        [
+          "aansteken",
+          "to light"
+        ],
+        [
+          "toverspreuken",
+          "incantations, spells (toverspreuk)"
+        ],
+        [
+          "overgeschreven",
+          "copied, transcribed (overschrijven)"
+        ],
+        [
+          "uitgehakt",
+          "carved (uithakken)"
+        ],
+        [
+          "opzeg",
+          "recite (opzeggen)"
+        ],
+        [
+          "ontdekkingen",
+          "findings, discoveries (ontdekking)"
+        ],
+        [
+          "melden",
+          "to report"
+        ]
+      ]
+    },
+    "5121": {
+      "t": "High Chief Winterfall",
+      "d": "We weten nog steeds weinig over waarom de furbolgs deze vreemde stof innemen. Toch denk ik dat we er het beste een eind aan kunnen maken, voordat het uit de hand loopt.$B$BDe Winterfall-furbolgs zijn normaal geen agressieve stam. Door deze verandering in hun gedrag denk ik dat ze bevelen van hun opperhoofd moeten krijgen. De schade die al gedaan is, kunnen we waarschijnlijk niet herstellen. Maar als hun leider gedood wordt, worden ze volgens mij niet erger.$B$BGa naar het oosten, naar Winterfall Village.",
+      "o": "Donova Snowden in Winterspring wil dat je High Chief Winterfall verslaat.",
+      "p": "Misschien kom je meer te weten in Winterfall Village, $N.",
+      "c": "Heel erg bedankt, $N. Ik hoop dat ik weer verder kan met mijn onderzoek, zonder angst om overvallen te worden. Neem dit alsjeblieft aan als beloning.",
+      "g": [
+        [
+          "stof",
+          "substance"
+        ],
+        [
+          "innemen",
+          "to take in, ingest"
+        ],
+        [
+          "uit de hand loopt",
+          "gets out of hand (uit de hand lopen)"
+        ],
+        [
+          "agressieve",
+          "aggressive (agressief)"
+        ],
+        [
+          "stam",
+          "tribe"
+        ],
+        [
+          "gedrag",
+          "behaviour"
+        ],
+        [
+          "bevelen",
+          "orders (bevel)"
+        ],
+        [
+          "opperhoofd",
+          "chief"
+        ],
+        [
+          "schade",
+          "damage"
+        ],
+        [
+          "herstellen",
+          "to repair, undo"
+        ],
+        [
+          "verslaat",
+          "defeat (verslaan)"
+        ],
+        [
+          "overvallen",
+          "ambushed, attacked (overvallen)"
+        ]
+      ]
+    },
+    "5123": {
+      "t": "Het laatste stuk",
+      "d": "Het logboek dat je bij het opperhoofd hebt gevonden, lijkt uitgebreid. Maar als je een paar bladzijden doorkijkt, merk je dat je de tekst niet kunt lezen. De tekens zijn zo grof en slordig gemaakt dat je niet zeker weet of iemand ze zou kunnen lezen.$B$BMaar misschien kan Donova je vertellen wat er staat...",
+      "o": "Breng het Crudely-written Log naar Donova Snowden in Winterspring.",
+      "p": "Zo, wat is dit, $N?",
+      "c": "Ik vraag me af wat dit allemaal betekent... Ik kan er niets uit opmaken...",
+      "g": [
+        [
+          "logboek",
+          "log, logbook"
+        ],
+        [
+          "opperhoofd",
+          "chief"
+        ],
+        [
+          "uitgebreid",
+          "extensive"
+        ],
+        [
+          "bladzijden",
+          "pages (bladzijde)"
+        ],
+        [
+          "doorkijkt",
+          "look through (doorkijken)"
+        ],
+        [
+          "tekens",
+          "markings, signs (teken)"
+        ],
+        [
+          "grof",
+          "crude, rough"
+        ],
+        [
+          "slordig",
+          "sloppy, poorly made"
+        ],
+        [
+          "Ik kan er niets uit opmaken",
+          "I can't make anything out of it (opmaken uit)"
+        ]
+      ]
+    },
+    "5128": {
+      "t": "De woorden van het opperhoofd",
+      "d": "De Winterfall zijn geen bedreiging meer voor mij. Maar als je nog steeds wilt weten wat de furbolgs ertoe dreef om dit vreemde vuurwater te maken en te drinken, dan moet je volgens mij Kelek Skykeeper opzoeken.$B$BHij hoort bij een groep die de Emerald Circle heet: druïden die zich inzetten voor hun werk in Felwood, waar ze het land genezen van de verdorvenheid.$B$BKelek heeft veel ervaring met de furbolgs in Felwood en kan je misschien meer over het logboek vertellen.$B$BNogmaals bedankt, $N.",
+      "o": "Breng het Crudely-written Log naar Kelek Skykeeper in het zuiden van Felwood.",
+      "p": "De Emerald Circle is vriendelijk tegen iedereen, $R. Wat kan ik voor je doen?",
+      "c": "Ja, als je me dit een tijdje laat bekijken, kan ik het misschien voor je vertalen.$b$b<Kelek bladert door de pagina's.>$b$bAls ik het helemaal heb kunnen doorlezen, laat ik het je weten.$b$bBedankt dat je dit met me deelt, $N. Er is heel weinig bekend over de Winterfall-furbolgs.",
+      "g": [
+        [
+          "opperhoofd",
+          "chief"
+        ],
+        [
+          "bedreiging",
+          "threat"
+        ],
+        [
+          "ertoe dreef",
+          "drove them to (drijven tot)"
+        ],
+        [
+          "vuurwater",
+          "firewater"
+        ],
+        [
+          "opzoeken",
+          "to seek out, look up"
+        ],
+        [
+          "zich inzetten",
+          "commit themselves (zich inzetten voor)"
+        ],
+        [
+          "genezen",
+          "to heal"
+        ],
+        [
+          "verdorvenheid",
+          "corruption"
+        ],
+        [
+          "ervaring",
+          "experience"
+        ],
+        [
+          "Nogmaals",
+          "again, once more"
+        ],
+        [
+          "bladert",
+          "leafs, flips through (bladeren)"
+        ],
+        [
+          "doorlezen",
+          "to read through"
+        ],
+        [
+          "deelt",
+          "share (delen)"
+        ]
+      ]
+    },
+    "6604": {
+      "t": "Woedende wildkin",
+      "d": "Heb je het verlaten kamp ten zuiden van hier gezien? Het lijkt alsof de wildkin gek zijn geworden en zo ongeveer alles hebben vernield wat ze konden vinden!$B$BIk hoorde een gerucht dat een van de overlevenden van de aanval uitrust in Starfall Village, ten westen van hier. Ik ben echt benieuwd wat er gebeurd is... jij niet?",
+      "o": "Spreek met Jaron Stoneshaper in Starfall Village.",
+      "c": "Ja, wat kan ik voor je doen?",
+      "g": [
+        [
+          "Woedende",
+          "enraged (woedend)"
+        ],
+        [
+          "verlaten",
+          "abandoned"
+        ],
+        [
+          "zo ongeveer",
+          "just about"
+        ],
+        [
+          "vernield",
+          "destroyed (vernielen)"
+        ],
+        [
+          "gerucht",
+          "rumour"
+        ],
+        [
+          "overlevenden",
+          "survivors (overlevende)"
+        ],
+        [
+          "uitrust",
+          "is resting (uitrusten)"
+        ],
+        [
+          "benieuwd",
+          "curious"
+        ]
+      ]
+    },
+    "969": {
+      "t": "Moge het geluk met je zijn",
+      "d": "Ah, ik zie het al aan je: jij wilt een geluksamulet laten maken. Mau'ari weet het altijd!$B$BIn het zuiden vind je een kloof, en reuzen van massief ijs. Soms dragen de reuzen ze bij zich, maar je kunt de scherven ook altijd zelf in de kloof verzamelen. Deze scherven hebben een sterke weerkaatsende kracht.$B$BBreng 10 frostmaul-scherven terug, dan krijg je mijn geluksamulet.",
+      "o": "Verzamel 10 Frostmaul Shards voor Witch Doctor Mau'ari in Everlook.",
+      "p": "Breng de scherven terug, dan vertel ik je meer!",
+      "c": "Ahh, ja... Ik maak het amulet nu voor je. Wacht maar even!",
+      "g": [
+        [
+          "Moge",
+          "may (mogen)"
+        ],
+        [
+          "geluksamulet",
+          "lucky charm"
+        ],
+        [
+          "kloof",
+          "canyon, gorge"
+        ],
+        [
+          "reuzen",
+          "giants (reus)"
+        ],
+        [
+          "massief",
+          "solid"
+        ],
+        [
+          "scherven",
+          "shards (scherf)"
+        ],
+        [
+          "weerkaatsende",
+          "reflective (weerkaatsen)"
+        ],
+        [
+          "kracht",
+          "power, quality"
+        ],
+        [
+          "amulet",
+          "charm, amulet"
+        ]
+      ]
+    },
+    "975": {
+      "t": "De Cache of Mau'ari",
+      "d": "Voordat ik je dit amulet geef, kan ik beter uitleggen hoe je het gebruikt.$B$BAls je het amulet bij je draagt, zul je merken dat de wezens waartegen je vecht bepaalde voorwerpen laten vallen. Heb je het amulet niet bij je, dan vind je ze niet. Begrepen?$B$BJe herkent deze speciale voorwerpen aan hun naam: ze heten E'ko. Als je zulke voorwerpen vindt, breng ze dan gewoon naar de oude Mau'ari, en dan helpt ze je verder.$B$BWacht hier terwijl ik je amulet klaarmaak.",
+      "o": "Spreek zo meteen nog een keer met Witch Doctor Mau'ari om het geluksamulet te krijgen.",
+      "c": "Hier is het, $N. Denk eraan: je moet het bij je dragen. Waarom ga je niet terug de wildernis in om te zien wat je daar vindt?",
+      "g": [
+        [
+          "amulet",
+          "charm, amulet"
+        ],
+        [
+          "uitleggen",
+          "to explain"
+        ],
+        [
+          "merken",
+          "to notice, find"
+        ],
+        [
+          "bepaalde",
+          "certain (bepaald)"
+        ],
+        [
+          "laten vallen",
+          "drop"
+        ],
+        [
+          "Begrepen",
+          "understood (begrijpen)"
+        ],
+        [
+          "herkent",
+          "recognise (herkennen)"
+        ],
+        [
+          "klaarmaak",
+          "prepare, fix (klaarmaken)"
+        ],
+        [
+          "zo meteen",
+          "in a moment"
+        ],
+        [
+          "geluksamulet",
+          "lucky charm"
+        ],
+        [
+          "wildernis",
+          "wilds, wilderness"
+        ]
+      ]
+    },
+    "4801": {
+      "t": "Frostsaber-E'ko",
+      "p": "In Winterspring vecht je tegen grote katten die frostsabers heten. Deze dieren zijn ongelooflijk snel en sluw. Wil je de snelheid van de frostsaber krijgen, breng me dan de E'ko die je bij ze vindt.$B$BDenk eraan: je moet de Cache of Mau'ari in je tassen hebben als je op E'ko wilt jagen.",
+      "c": "Mau'ari kan de juju eruit halen voor $N... Gebruik de Cache of Mau'ari om dit over jezelf of je bondgenoten uit te spreken.",
+      "g": [
+        [
+          "ongelooflijk",
+          "incredibly"
+        ],
+        [
+          "sluw",
+          "cunning"
+        ],
+        [
+          "snelheid",
+          "speed"
+        ],
+        [
+          "Denk eraan",
+          "remember (eraan denken)"
+        ],
+        [
+          "jagen",
+          "to hunt"
+        ],
+        [
+          "eruit halen",
+          "to draw out, derive"
+        ],
+        [
+          "bondgenoten",
+          "allies (bondgenoot)"
+        ],
+        [
+          "uit te spreken",
+          "to cast, pronounce (uitspreken)"
+        ]
+      ]
+    },
+    "4802": {
+      "t": "Winterfall-E'ko",
+      "p": "In Winterspring vecht je tegen misleide wezens die de Winterfall-furbolgs heten. Door de wensen van hun leider hebben ze ongelooflijke kracht gekregen. Wil je de kracht van de Winterfall krijgen, breng me dan de E'ko die je bij ze vindt.$B$BDenk eraan: je moet de Cache of Mau'ari in je tassen hebben als je op E'ko wilt jagen.",
+      "c": "Mau'ari kan de juju eruit halen voor $N... Gebruik de Cache of Mau'ari om dit over jezelf of je bondgenoten uit te spreken.",
+      "g": [
+        [
+          "misleide",
+          "misguided (misleid)"
+        ],
+        [
+          "wensen",
+          "wishes (wens)"
+        ],
+        [
+          "ongelooflijke",
+          "incredible (ongelooflijk)"
+        ],
+        [
+          "kracht",
+          "strength, power"
+        ],
+        [
+          "Denk eraan",
+          "remember (eraan denken)"
+        ],
+        [
+          "eruit halen",
+          "to draw out, derive"
+        ],
+        [
+          "bondgenoten",
+          "allies (bondgenoot)"
+        ],
+        [
+          "uit te spreken",
+          "to cast, pronounce (uitspreken)"
+        ]
+      ]
+    },
+    "4803": {
+      "t": "Shardtooth-E'ko",
+      "p": "In Winterspring vind je grote beren met een heel dikke huid. Deze Shardtooth-beren zijn goed beschermd door wat ze kunnen verdragen. Wil je weerstand tegen vuur krijgen, breng me dan de E'ko die je bij de Shardtooth vindt.$B$BDenk eraan: je moet de Cache of Mau'ari in je tassen hebben als je op E'ko wilt jagen.$B$B",
+      "c": "Mau'ari kan de juju eruit halen voor $N... Gebruik de Cache of Mau'ari om dit over jezelf of je bondgenoten uit te spreken.",
+      "g": [
+        [
+          "huid",
+          "hide, skin"
+        ],
+        [
+          "beschermd",
+          "protected (beschermen)"
+        ],
+        [
+          "verdragen",
+          "to withstand, endure"
+        ],
+        [
+          "weerstand",
+          "resistance"
+        ],
+        [
+          "Denk eraan",
+          "remember (eraan denken)"
+        ],
+        [
+          "eruit halen",
+          "to draw out, derive"
+        ],
+        [
+          "bondgenoten",
+          "allies (bondgenoot)"
+        ],
+        [
+          "uit te spreken",
+          "to cast, pronounce (uitspreken)"
+        ]
+      ]
+    },
+    "4804": {
+      "t": "Chillwind-E'ko",
+      "p": "In Winterspring vecht je tegen grote vliegende wezens die de Chillwind heten. Deze dieren kunnen vorstmagie gebruiken. Wil je weerstand tegen vorst krijgen, breng me dan de E'ko die je bij de Chillwind vindt.$B$BDenk eraan: je moet de Cache of Mau'ari in je tassen hebben als je op E'ko wilt jagen.$b",
+      "c": "Mau'ari kan de juju eruit halen voor $N... Gebruik de Cache of Mau'ari om dit over jezelf of je bondgenoten uit te spreken.",
+      "g": [
+        [
+          "vliegende",
+          "flying (vliegen)"
+        ],
+        [
+          "vorstmagie",
+          "frost magic"
+        ],
+        [
+          "weerstand",
+          "resistance"
+        ],
+        [
+          "vorst",
+          "frost"
+        ],
+        [
+          "Denk eraan",
+          "remember (eraan denken)"
+        ],
+        [
+          "eruit halen",
+          "to draw out, derive"
+        ],
+        [
+          "bondgenoten",
+          "allies (bondgenoot)"
+        ],
+        [
+          "uit te spreken",
+          "to cast, pronounce (uitspreken)"
+        ]
+      ]
+    },
+    "4805": {
+      "t": "Ice Thistle-E'ko",
+      "p": "In Winterspring vecht je tegen grote wezens die de ice thistle-yeti's heten. Deze dieren bewegen langzaam, maar dankzij de bescherming van hun dikke vacht kunnen ze veel klappen ontwijken. Wil je aanvallen leren ontwijken, breng me dan de E'ko die je bij ze vindt.$B$BDenk eraan: je moet de Cache of Mau'ari in je tassen hebben als je op E'ko wilt jagen.$b",
+      "c": "Mau'ari kan de juju eruit halen voor $N... Gebruik de Cache of Mau'ari om dit over jezelf of je bondgenoten uit te spreken.",
+      "g": [
+        [
+          "dankzij",
+          "thanks to"
+        ],
+        [
+          "bescherming",
+          "protection"
+        ],
+        [
+          "vacht",
+          "fur"
+        ],
+        [
+          "klappen",
+          "blows (klap)"
+        ],
+        [
+          "ontwijken",
+          "to evade, dodge"
+        ],
+        [
+          "Denk eraan",
+          "remember (eraan denken)"
+        ],
+        [
+          "eruit halen",
+          "to draw out, derive"
+        ],
+        [
+          "bondgenoten",
+          "allies (bondgenoot)"
+        ],
+        [
+          "uit te spreken",
+          "to cast, pronounce (uitspreken)"
+        ]
+      ]
+    },
+    "4806": {
+      "t": "Frostmaul-E'ko",
+      "p": "In Winterspring heb je gevochten tegen de grote ijsreuzen die frostmaul heten. Ze beschikken over pure macht en kracht. Wil je de kracht van de frostmaul krijgen, breng me dan de E'ko die je bij ze vindt.$B$BDenk eraan: je moet de Cache of Mau'ari in je tassen hebben als je op E'ko wilt jagen.",
+      "c": "Mau'ari kan de juju eruit halen voor $N... Gebruik de Cache of Mau'ari om dit over jezelf of je bondgenoten uit te spreken.",
+      "g": [
+        [
+          "ijsreuzen",
+          "ice giants (ijsreus)"
+        ],
+        [
+          "beschikken over",
+          "have at their disposal"
+        ],
+        [
+          "pure",
+          "sheer, pure (puur)"
+        ],
+        [
+          "macht",
+          "power"
+        ],
+        [
+          "Denk eraan",
+          "remember (eraan denken)"
+        ],
+        [
+          "eruit halen",
+          "to draw out, derive"
+        ],
+        [
+          "bondgenoten",
+          "allies (bondgenoot)"
+        ],
+        [
+          "uit te spreken",
+          "to cast, pronounce (uitspreken)"
+        ]
+      ]
+    },
+    "4807": {
+      "t": "Wildkin-E'ko",
+      "p": "In Winterspring vecht je tegen machtige wezens die een aangeboren magisch talent lijken te hebben. Deze wildkin kunnen sterke magie gebruiken. Wil je je intelligentie vergroten, breng me dan de E'ko die je bij een van de uilbeesten daar vindt.$B$BDenk eraan: je moet de Cache of Mau'ari in je tassen hebben als je op E'ko wilt jagen.$B$B",
+      "c": "Mau'ari kan de juju eruit halen voor $N... Gebruik de Cache of Mau'ari om dit over jezelf of je bondgenoten uit te spreken.",
+      "g": [
+        [
+          "machtige",
+          "mighty (machtig)"
+        ],
+        [
+          "aangeboren",
+          "innate"
+        ],
+        [
+          "talent",
+          "ability, talent"
+        ],
+        [
+          "intelligentie",
+          "intellect"
+        ],
+        [
+          "vergroten",
+          "to increase"
+        ],
+        [
+          "uilbeesten",
+          "owlbeasts (uilbeest)"
+        ],
+        [
+          "Denk eraan",
+          "remember (eraan denken)"
+        ],
+        [
+          "eruit halen",
+          "to draw out, derive"
+        ],
+        [
+          "bondgenoten",
+          "allies (bondgenoot)"
+        ],
+        [
+          "uit te spreken",
+          "to cast, pronounce (uitspreken)"
+        ]
+      ]
+    },
+    "4970": {
+      "t": "Voedsel voor de frostsabers",
+      "d": "Als je jezelf wilt bewijzen, kun je beginnen met een heel eenvoudige, maar heel belangrijke taak.$B$BVerzamel vlees van de chimaera's en van de shardtooth-beren in de buurt. Breng het naar mij, zodat ik de frostsabers die getraind worden ermee kan voeren.",
+      "o": "Verzamel 5 Shardtooth Meats en 5 Chillwind Meats voor Rivern Frostwind in Winterspring.",
+      "p": "Discipline en vastberadenheid zijn je doelen. Misschien vraag ik je vaak om een eenvoudige taak te doen. Je moet die elke keer zo goed mogelijk uitvoeren.",
+      "c": "Bedankt voor je hulp, $N. Mijn mening over jou wordt met de tijd beter.",
+      "g": [
+        [
+          "Voedsel",
+          "food, provisions"
+        ],
+        [
+          "bewijzen",
+          "to prove"
+        ],
+        [
+          "eenvoudige",
+          "simple (eenvoudig)"
+        ],
+        [
+          "taak",
+          "task"
+        ],
+        [
+          "getraind",
+          "trained (trainen)"
+        ],
+        [
+          "voeren",
+          "to feed"
+        ],
+        [
+          "vastberadenheid",
+          "determination"
+        ],
+        [
+          "doelen",
+          "goals (doel)"
+        ],
+        [
+          "uitvoeren",
+          "to perform, carry out"
+        ],
+        [
+          "mening",
+          "opinion"
+        ]
+      ]
+    },
+    "5124": {
+      "t": "Vurige pantserhandschoenen",
+      "d": "Bij Thaurissans baard!$B$BWaar heb je die gevonden?$B$BNog belangrijker: wil je er afstand van doen? Natuurlijk zou ik je betalen voor zo'n nobel gebaar.$B$BWeet je wat, $N? Als je mij die ongebakken handschoenen geeft, leer ik je hoe je er zelf een paar maakt. Je hoeft alleen de onderdelen voor me te verzamelen, zodat ik het precieze recept kan vaststellen.$B$BHebben we een deal??$B$BHier is de lijst met wat ik nodig heb. Het niet-betoverde thorium schiet ik zelf voor, omdat jij de handschoenen levert.$b",
+      "o": "Breng Malyfous Darkhammer 6 Enchanted Thorium Bars, 2 Essence of Fire en 4 Star Rubies. Je moet ook je Unfired Plate Gauntlets inleveren.",
+      "p": "Tijd is geld, $N, en ik heb van allebei niet veel.",
+      "c": "Zoals beloofd, $N: hier is je recept! Ik doe er ook nog iets extra's bij voor al je harde werk en toewijding. Wat moet ik er tenslotte zelf mee???",
+      "g": [
+        [
+          "Vurige",
+          "fiery (vurig)"
+        ],
+        [
+          "pantserhandschoenen",
+          "plate gauntlets (pantserhandschoen)"
+        ],
+        [
+          "baard",
+          "beard"
+        ],
+        [
+          "afstand van doen",
+          "to part with"
+        ],
+        [
+          "nobel gebaar",
+          "noble gesture"
+        ],
+        [
+          "ongebakken",
+          "unfired"
+        ],
+        [
+          "onderdelen",
+          "parts, components (onderdeel)"
+        ],
+        [
+          "precieze",
+          "exact (precies)"
+        ],
+        [
+          "vaststellen",
+          "to determine, narrow down"
+        ],
+        [
+          "niet-betoverde",
+          "non-enchanted"
+        ],
+        [
+          "schiet ik voor",
+          "I'll front, advance (voorschieten)"
+        ],
+        [
+          "levert",
+          "supply (leveren)"
+        ],
+        [
+          "inleveren",
+          "to hand in"
+        ],
+        [
+          "toewijding",
+          "dedication"
+        ],
+        [
+          "tenslotte",
+          "after all"
+        ]
+      ]
+    },
+    "5126": {
+      "t": "Het verhaal van Lorax",
+      "d": "De sater ijsbeert heen en weer en praat in zichzelf. Wil je hem vragen stellen?",
+      "o": "Spreek met Lorax. Luister naar wat hij te zeggen heeft.$b",
+      "e": "Luister naar het verhaal van Lorax",
+      "g": [
+        [
+          "verhaal",
+          "tale, story"
+        ],
+        [
+          "sater",
+          "satyr"
+        ],
+        [
+          "ijsbeert",
+          "paces (ijsberen)"
+        ],
+        [
+          "heen en weer",
+          "back and forth"
+        ],
+        [
+          "praat in zichzelf",
+          "talks to himself (in zichzelf praten)"
+        ],
+        [
+          "vragen stellen",
+          "to ask questions, question"
+        ]
+      ]
+    },
+    "5161": {
+      "t": "De woede van de Blue Flight",
+      "d": "We begrijpen wat het vervloekte broed van Deathwing probeert te doen, en we weten dat dit niet mag gebeuren.$B$BDoor de bescherming die Blackrock Mountain Nefarian biedt, wordt het voor ons steeds moeilijker om in te grijpen.$B$BWel kunnen we jou kracht geven, sterveling, als je daarvoor kiest.$B$BDe weg die voor je ligt, zit vol gevaren. Je moet beslissen of je onze hulp aanneemt. Denk hierover na en spreek me weer aan als je een besluit hebt genomen.",
+      "o": "Spreek met Haleh als je verder wilt gaan.",
+      "c": "Zo zal het zijn...",
+      "g": [
+        [
+          "woede",
+          "wrath, rage"
+        ],
+        [
+          "vervloekte",
+          "cursed (vervloekt)"
+        ],
+        [
+          "broed",
+          "brood"
+        ],
+        [
+          "bescherming",
+          "protection"
+        ],
+        [
+          "biedt",
+          "affords, offers (bieden)"
+        ],
+        [
+          "in te grijpen",
+          "to intercede, intervene (ingrijpen)"
+        ],
+        [
+          "sterveling",
+          "mortal"
+        ],
+        [
+          "gevaren",
+          "perils, dangers (gevaar)"
+        ],
+        [
+          "aanneemt",
+          "accept (aannemen)"
+        ],
+        [
+          "besluit",
+          "decision"
+        ]
+      ]
+    },
+    "5201": {
+      "t": "Het binnendringen van de Winterfall",
+      "d": "De meesten merken mijn aanwezigheid niet op, $N. Maar er is een ergernis die hier in Winterspring stevig geworteld lijkt: de Winterfall-furbolgs.$B$BIk heb de furbolgs nooit direct aangevallen, maar ze lijken gek geworden, bang voor alles op hun pad. Ik heb gezien hoe ze talloze wezens doodden die gewoon de pech hadden om op het verkeerde moment op de verkeerde plek te zijn.$B$BIk ben hun bemoeienis moe. Help me alsjeblieft door terug te vechten. Dood de furbolgs en houd ze weg van Frostsaber Rock.",
+      "o": "Rivern Frostwind wil dat je 5 Winterfall Shaman en 5 Winterfall Ursa doodt.",
+      "p": "De furbolgs lijken last te hebben van zo'n achterdocht...",
+      "c": "Ik ben opgelucht dat we ons even geen zorgen hoeven te maken over het binnendringen van de Winterfall.$B$BJe begint je doorzettingsvermogen te tonen, $N.",
+      "g": [
+        [
+          "binnendringen",
+          "intrusion"
+        ],
+        [
+          "aanwezigheid",
+          "presence"
+        ],
+        [
+          "ergernis",
+          "annoyance"
+        ],
+        [
+          "geworteld",
+          "rooted (wortelen)"
+        ],
+        [
+          "talloze",
+          "countless (talloos)"
+        ],
+        [
+          "pech",
+          "bad luck, misfortune"
+        ],
+        [
+          "bemoeienis",
+          "meddling"
+        ],
+        [
+          "last hebben van",
+          "suffer from"
+        ],
+        [
+          "achterdocht",
+          "suspicion, paranoia"
+        ],
+        [
+          "opgelucht",
+          "relieved"
+        ],
+        [
+          "doorzettingsvermogen",
+          "perseverance"
+        ],
+        [
+          "tonen",
+          "to show"
+        ]
+      ]
+    },
+    "5981": {
+      "t": "Razende reuzen",
+      "d": "Ongeveer 4.000 jaar geleden redde Tyrande Whisperwind het leven van de frostsaberkoningin, die door razende reuzen werd bedreigd. Sindsdien zijn de frostsabers bondgenoten van de nachtelfen.$B$BDezelfde reuzen die ooit een gevaar waren voor de frostsabers, bestaan nog steeds, niet ver hiervandaan. Ze heten de frostmaul, en ze hebben de grote vallei in het zuiden ingenomen.$B$BBewijs je trouw aan de frostsabers: dood deze reuzen in naam van de frostsaberkoningin, Shy-Rotam!",
+      "o": "Rivern Frostwind wil dat je 4 Frostmaul Giants en 4 Frostmaul Preservers doodt.",
+      "p": "Je moet jezelf blijven bewijzen, $N.",
+      "c": "Uitstekend, $N. Je vastberadenheid is naar behoren genoteerd.",
+      "g": [
+        [
+          "Razende",
+          "rampaging, raging (razend)"
+        ],
+        [
+          "reuzen",
+          "giants (reus)"
+        ],
+        [
+          "redde",
+          "saved (redden)"
+        ],
+        [
+          "frostsaberkoningin",
+          "frostsaber queen"
+        ],
+        [
+          "bedreigd",
+          "threatened (bedreigen)"
+        ],
+        [
+          "Sindsdien",
+          "since then"
+        ],
+        [
+          "bondgenoten",
+          "allies (bondgenoot)"
+        ],
+        [
+          "ingenomen",
+          "taken over (innemen)"
+        ],
+        [
+          "trouw",
+          "loyalty"
+        ],
+        [
+          "vastberadenheid",
+          "determination"
+        ],
+        [
+          "naar behoren",
+          "duly, properly"
+        ],
+        [
+          "genoteerd",
+          "noted (noteren)"
+        ]
+      ]
+    },
+    "8798": {
+      "t": "Een eigen yeti",
+      "c": "Hé! Weet je wat?! Jij bent ook ingenieur! Omdat je me geholpen hebt om mijn vrienden een lesje te leren, ga ik je leren hoe je je eigen mechanische yeti maakt! Dan kan de pret voor altijd doorgaan, en kun je iedereen bang maken die je wilt! Tenminste, als je de onderdelen bij elkaar kunt scharrelen om hem te maken. $B$BWat zeg je ervan, $N? Wil je het geheim leren van het maken van een mechanische yeti?",
+      "g": [
+        [
+          "ingenieur",
+          "engineer"
+        ],
+        [
+          "een lesje te leren",
+          "to teach a lesson (een lesje leren)"
+        ],
+        [
+          "mechanische",
+          "mechanical (mechanisch)"
+        ],
+        [
+          "pret",
+          "fun"
+        ],
+        [
+          "bang maken",
+          "to scare"
+        ],
+        [
+          "Tenminste",
+          "at least, provided"
+        ],
+        [
+          "onderdelen",
+          "components (onderdeel)"
+        ],
+        [
+          "bij elkaar scharrelen",
+          "to scrape together"
+        ],
+        [
+          "geheim",
+          "secret"
+        ]
+      ]
+    },
+    "9266": {
+      "t": "Het goedmaken",
+      "p": "Je hebt vast iets heel ergs gedaan tegen ons of onze vrienden, $N. Hoe dan ook, ik ben hier om je een manier te bieden om weer bij ons in de gunst te komen.$b$bZoals je weet, is het in Winterspring flink koud. Nu er zoveel van ons goblins uit andere steden komen, kunnen we wel hulp gebruiken om warm te blijven. Breng me wat runecloth en steenkool, dan leg ik een goed woordje voor je in. Maar pas op: onze vijanden zullen het je niet in dank afnemen dat je ons helpt.",
+      "c": "Bedankt, $N. Je bent goed op weg om het weer goed te maken met onze mooie stad.",
+      "g": [
+        [
+          "goedmaken",
+          "making amends"
+        ],
+        [
+          "Hoe dan ook",
+          "at any rate"
+        ],
+        [
+          "in de gunst",
+          "in the good graces"
+        ],
+        [
+          "flink",
+          "quite, really"
+        ],
+        [
+          "steenkool",
+          "coal"
+        ],
+        [
+          "een goed woordje voor je in",
+          "put in a good word for you (een goed woordje inleggen)"
+        ],
+        [
+          "pas op",
+          "be warned, watch out (oppassen)"
+        ],
+        [
+          "niet in dank afnemen",
+          "not take kindly to"
+        ],
+        [
+          "goed op weg",
+          "well on the way"
+        ]
+      ]
+    },
+    "1125": {
+      "t": "De geesten van Southwind",
+      "d": "Ten zuidwesten van ons ligt een tragische plek: de ruïnes van Southwind Village. Hier moet ons werk beginnen, $N.$B$BVolgens wat we te weten zijn gekomen, was dit dorp ooit een uitvalsbasis van de nachtelfen in Silithus. Het is al lang geleden overspoeld door de silithid-nesten die de woestenij teisteren. Ik kan me alleen maar voorstellen hoe verschrikkelijk het was toen het dorp voor het eerst werd verwoest...$B$BDe gekwelde geesten van gevallen druïden en schildwachten dwalen doelloos door de ruïnes. Verken deze plek en bevrijd waar nodig de zielen van deze ellendige wezens.",
+      "o": "Bevrijd de geesten van 8 Tortured Druids en 8 Tortured Sentinels in Southwind Village en keer daarna terug naar Layo Starstrike bij de begraafplaats Valor's Rest in Silithus.",
+      "p": "Alliance of Horde, het maakt niet uit: geen enkel wezen verdient het om als gekwelde geest op deze wereld vast te zitten. Door deze zielen te bevrijden maak je het goed, $N.",
+      "c": "Ik dacht al dat het enorme, kolkende nest bij de ruïnes van het dorp misschien een rol had gespeeld bij de ondergang ervan. Je werk lijkt te bewijzen dat dit klopt: doordat het nest zo dichtbij is, is het een gevaar voor al het werk dat we hier later nog willen doen.$b$bIk dank je voor je goedheid bij het bevrijden van de zielen van de gevallenen. Zulk werk is nooit makkelijk, dat weet ik. Maar als je er klaar voor bent, wil ik je nog een keer om hulp vragen...",
+      "g": [
+        [
+          "tragische",
+          "tragic (tragisch)"
+        ],
+        [
+          "uitvalsbasis",
+          "base of operations"
+        ],
+        [
+          "overspoeld",
+          "overrun (overspoelen)"
+        ],
+        [
+          "nesten",
+          "hives, nests (nest)"
+        ],
+        [
+          "woestenij",
+          "wastes, wasteland"
+        ],
+        [
+          "teisteren",
+          "to infest, plague"
+        ],
+        [
+          "gekwelde",
+          "tortured (kwellen)"
+        ],
+        [
+          "schildwachten",
+          "sentinels (schildwacht)"
+        ],
+        [
+          "dwalen",
+          "wander (dwalen)"
+        ],
+        [
+          "doelloos",
+          "aimlessly"
+        ],
+        [
+          "ellendige",
+          "wretched (ellendig)"
+        ],
+        [
+          "kolkende",
+          "swirling (kolken)"
+        ],
+        [
+          "ondergang",
+          "demise, downfall"
+        ],
+        [
+          "goedheid",
+          "benevolence, kindness"
+        ],
+        [
+          "gevallenen",
+          "the fallen (gevallene)"
+        ]
+      ]
+    },
+    "8277": {
+      "t": "Dodelijk woestijngif",
+      "d": "Beetix Ficklespragg tot je dienst! Mijn neef Noggle verdient zijn brood met het verzamelen van zeldzame kruiden voor de alchemisten van Cenarion Hold. Tenminste, dat deed hij vroeger. Na zijn laatste tocht kwam hij terug met een sterk gif in zijn aderen.$B$BIk heb het gif kunnen vertragen, maar om het helemaal onschadelijk te maken heb ik gifmonsters nodig van wat hem ook maar gestoken heeft.$B$BNoggle kwam uit het noorden, dus ik durf mijn hemd te verwedden dat het stonelash-scorpids of sand skitterers waren. Breng me wat angels en giftanden, dan probeer ik een tegengif voor hem te maken.",
+      "o": "Beetix Ficklespragg in Cenarion Hold in Silithus wil dat je 8 Stonelash Scorpid Stingers en 8 Sand Skitterer Fangs verzamelt. Keer terug naar haar als je de taak hebt voltooid.",
+      "p": "Ben je klaar met het verzamelen van die monsters? We kunnen Noggle elk moment kwijtraken!",
+      "c": "Duim maar, vriend! Laten we hopen dat we Noggle kunnen redden!",
+      "g": [
+        [
+          "Dodelijk",
+          "deadly"
+        ],
+        [
+          "woestijngif",
+          "desert venom"
+        ],
+        [
+          "tot je dienst",
+          "at your service"
+        ],
+        [
+          "verdient zijn brood",
+          "makes a living (zijn brood verdienen)"
+        ],
+        [
+          "zeldzame",
+          "rare (zeldzaam)"
+        ],
+        [
+          "kruiden",
+          "herbs (kruid)"
+        ],
+        [
+          "aderen",
+          "veins (ader)"
+        ],
+        [
+          "vertragen",
+          "to slow down"
+        ],
+        [
+          "onschadelijk",
+          "harmless, neutralised"
+        ],
+        [
+          "gifmonsters",
+          "poison samples (gifmonster)"
+        ],
+        [
+          "gestoken",
+          "stung (steken)"
+        ],
+        [
+          "verwedden",
+          "to bet"
+        ],
+        [
+          "angels",
+          "stingers (angel)"
+        ],
+        [
+          "tegengif",
+          "antidote"
+        ],
+        [
+          "Duim maar",
+          "cross your fingers (duimen)"
+        ]
+      ]
+    },
+    "8280": {
+      "t": "De aanvoerroutes beveiligen",
+      "d": "Cenarion Hold is een plek van het grootste strategische belang. Ik ben ervan overtuigd dat onze overwinning op de silithid zeker is zolang we het in handen hebben. Tenminste, als de aanvoer van onze voorraden op peil kan blijven.$B$BWoestijnwormen zijn een grotere bedreiging gebleken voor onze bevoorradingskaravanen dan zelfs de silithid zelf. Vanochtend nog werd een grote lading morrowgrain verwoest door een groep dredge strikers. Ik wil dat je hun aantal uitdunt, zodat onze voorraden niet in gevaar komen.",
+      "o": "Windcaller Proudhorn in Cenarion Hold in Silithus wil dat je 15 Dredge Strikers doodt.",
+      "p": "De dredge strikers zijn een serieuze bedreiging en moeten snel worden aangepakt!",
+      "c": "Je hebt mijn oprechte dank. Met je hulp aan Cenarion Hold heb je echte moed getoond.",
+      "g": [
+        [
+          "aanvoerroutes",
+          "supply lines (aanvoerroute)"
+        ],
+        [
+          "beveiligen",
+          "to secure"
+        ],
+        [
+          "strategische",
+          "strategic (strategisch)"
+        ],
+        [
+          "belang",
+          "importance"
+        ],
+        [
+          "overtuigd",
+          "convinced"
+        ],
+        [
+          "aanvoer",
+          "influx, supply"
+        ],
+        [
+          "op peil",
+          "at the right level, maintained"
+        ],
+        [
+          "bevoorradingskaravanen",
+          "supply caravans (bevoorradingskaravaan)"
+        ],
+        [
+          "lading",
+          "shipment, load"
+        ],
+        [
+          "uitdunt",
+          "thin out (uitdunnen)"
+        ],
+        [
+          "aangepakt",
+          "dealt with (aanpakken)"
+        ],
+        [
+          "oprechte",
+          "sincere (oprecht)"
+        ],
+        [
+          "moed",
+          "courage"
+        ]
+      ]
+    },
+    "1126": {
+      "t": "Het nest in de toren",
+      "d": "Het nest in Southwind Village moet aangepakt worden, en ik denk dat ik weet hoe we erbij kunnen komen. Volgens mijn ervaring zijn de silithid-nesten heel gevoelig voor hun omgeving. Dat verklaart hun aanvallen als ze het doodsgejammer van de geesten horen.$B$BDe silithid zijn het sterkst in de toren: die met de massa wespen eromheen. Beklim de toren en schud het nest wakker. Kom terug en vertel wat je ontdekt, maar wees voorzichtig! Als je iets vindt dat zou kunnen helpen, breng het dan naar mij.",
+      "o": "Beklim de toren van Southwind Village en zoek een manier om het silithid-nest in actie te brengen. Breng alles wat je daarbij aan ongewoons vindt naar Layo Starstrike bij de begraafplaats Valor's Rest in Silithus.",
+      "p": "Nou, heeft het gewerkt? Je bent nog heel, dat is goed nieuws. Heb je iets gevonden?",
+      "c": "Wat... wat is dat?$b$bHet heeft de vorm van een... doos, misschien? Er zit een flinke korst omheen. Wacht, hier is een stukje vrij... zit er een boek onder al die smurrie?$b$bIk denk dat je hier een flinke vondst hebt gedaan, $N... nou ja, dat hoop ik tenminste. Misschien is het een dagboek of een logboek uit oude tijden, bewaard gebleven in deze schaal.$b$bIk denk dat ik weet hoe we kunnen uitvinden wat dit is.",
+      "g": [
+        [
+          "nest",
+          "hive, nest"
+        ],
+        [
+          "aangepakt",
+          "addressed, dealt with (aanpakken)"
+        ],
+        [
+          "gevoelig",
+          "sensitive"
+        ],
+        [
+          "omgeving",
+          "environment"
+        ],
+        [
+          "verklaart",
+          "explains (verklaren)"
+        ],
+        [
+          "doodsgejammer",
+          "death wails"
+        ],
+        [
+          "wespen",
+          "wasps (wesp)"
+        ],
+        [
+          "Beklim",
+          "scale, climb (beklimmen)"
+        ],
+        [
+          "schud wakker",
+          "jostle awake (wakker schudden)"
+        ],
+        [
+          "korst",
+          "crust"
+        ],
+        [
+          "smurrie",
+          "gunk"
+        ],
+        [
+          "vondst",
+          "find"
+        ],
+        [
+          "bewaard gebleven",
+          "preserved (bewaard blijven)"
+        ],
+        [
+          "schaal",
+          "shell"
+        ],
+        [
+          "uitvinden",
+          "to find out"
+        ]
+      ]
+    },
+    "6844": {
+      "t": "Umber, de archivaris",
+      "d": "Er is hier nog genoeg te doen, maar ik denk dat het belangrijk is om dit voor onderzoek terug te brengen naar de Circle. Geloof me: het werk is er nog steeds als dit allemaal achter de rug is. Als er een dagboek in dit kleverige chitine zit, dan heeft de Circle eindelijk een venster op het verleden!$B$BBreng dit naar de archivaris van de Circle in Nighthaven. Hij heet Umber, en hij is briljant. Een beetje getikt, zeker, maar toch briljant! Umber heeft boeken gered die er veel slechter aan toe waren dan dit. Als het te redden is, kan hij het.",
+      "o": "Breng het Encrusted Silithid Object naar Umber, de archivaris van de Cenarion Circle, in het dorp Nighthaven in Moonglade.",
+      "p": "Wel, hallo daar! Hrmm...$b$bIk zal een beetje eerlijk tegen je zijn, vriend... je ruikt een beetje sterk. Een tikje muf, zou je kunnen zeggen. Nu wil ik je niet persoonlijk aanvallen. Ik zeg alleen... in het vervolg wil je jezelf misschien even opfrissen als je uit het veld komt. Dan maak je bij een eerste kennismaking een wat positievere indruk!$b$bEnfin... wat kan ik voor je doen?",
+      "c": "Wel, grote apenpadden! Wat heb je hier? Het heeft zo'n beetje de vorm van een boek, denk ik... Ik zal proberen de schaal eraf te breken.$b$bHeeft Layo je vanuit Silithus naar mij gestuurd? Ik heb alleen heel gedempte geruchten gehoord over de verschrikkingen die daar gebeuren, al zijn ze eigenlijk niet zo gedempt als je erover nadenkt. Tel daarbij op dat ik niet van insectachtige dingen houd, en je hebt het recept voor: ik blijf hier bij de boeken!",
+      "g": [
+        [
+          "archivaris",
+          "archivist"
+        ],
+        [
+          "onderzoek",
+          "analysis, research"
+        ],
+        [
+          "achter de rug",
+          "over and done with"
+        ],
+        [
+          "kleverige",
+          "sticky (kleverig)"
+        ],
+        [
+          "chitine",
+          "chitin"
+        ],
+        [
+          "venster",
+          "window"
+        ],
+        [
+          "getikt",
+          "touched, a bit crazy"
+        ],
+        [
+          "er slechter aan toe",
+          "in worse shape (er slecht aan toe zijn)"
+        ],
+        [
+          "muf",
+          "musty, whiffy"
+        ],
+        [
+          "opfrissen",
+          "to freshen up"
+        ],
+        [
+          "kennismaking",
+          "first meeting, introduction"
+        ],
+        [
+          "Enfin",
+          "anyhow"
+        ],
+        [
+          "apenpadden",
+          "monkey toads (apenpad)"
+        ],
+        [
+          "gedempte",
+          "hushed (gedempt)"
+        ],
+        [
+          "verschrikkingen",
+          "horrors (verschrikking)"
+        ],
+        [
+          "insectachtige",
+          "bug-like (insectachtig)"
+        ]
+      ]
+    },
+    "8278": {
+      "t": "Noggles laatste hoop",
+      "d": "Verdorie! Het tegengif werkte niet. Noggle is vast gestoken door een van de sterkere wezens in het verre zuiden.$B$BJe moet daarheen gaan en meer monsters voor me halen, $N. Het goede nieuws is dat ik er minder nodig heb, omdat hun gif sterker is. Het slechte nieuws is dat er in het zuiden meer soorten giftige wezens rondkruipen, dus je zult van meer bronnen moeten verzamelen.",
+      "o": "Beetix Ficklespragg in Cenarion Hold in Silithus wil dat je 3 Stonelash Pincer Stingers, 3 Stonelash Flayer Stingers en 3 Rock Stalker Fangs verzamelt.",
+      "p": "Dit is onze laatste kans om Noggle te redden! Schiet op!",
+      "c": "Ja! Het lijkt te werken, Noggle komt weer bij. We staan diep bij je in het krijt!",
+      "g": [
+        [
+          "hoop",
+          "hope"
+        ],
+        [
+          "Verdorie",
+          "blast it, damn"
+        ],
+        [
+          "tegengif",
+          "antidote"
+        ],
+        [
+          "gestoken",
+          "stung (steken)"
+        ],
+        [
+          "monsters",
+          "samples (monster)"
+        ],
+        [
+          "giftige",
+          "poisonous (giftig)"
+        ],
+        [
+          "rondkruipen",
+          "crawl around"
+        ],
+        [
+          "bronnen",
+          "sources (bron)"
+        ],
+        [
+          "Schiet op",
+          "hurry (opschieten)"
+        ],
+        [
+          "komt weer bij",
+          "is coming to (bijkomen)"
+        ],
+        [
+          "bij je in het krijt",
+          "in your debt (in het krijt staan)"
+        ]
+      ]
+    },
+    "8281": {
+      "t": "Strengere beveiliging",
+      "d": "Je prestaties zijn tot nu toe echt voorbeeldig, $N. Maar onze aanvoerroutes zijn nog niet helemaal veilig. Nu de dredge strikers weg zijn, zullen hun grotere neven uit het zuiden zeker naar het noorden trekken om hun plaats in te nemen.$B$BJe zult heel wat dredge crushers moeten doden om ze op afstand te houden, maar we kunnen de veiligheid van onze aanvoerroutes niet aan het toeval overlaten.",
+      "o": "Windcaller Proudhorn in Cenarion Hold in Silithus wil dat je 20 Dredge Crushers doodt.",
+      "p": "De dredge crushers zijn een serieuze bedreiging en moeten meteen worden aangepakt!",
+      "c": "Uitstekend! Je hebt bewezen dat je een waardevolle bondgenoot bent bij de voorbereiding op de oorlog tegen de silithid.",
+      "g": [
+        [
+          "Strengere",
+          "stricter, stepped-up (streng)"
+        ],
+        [
+          "beveiliging",
+          "security"
+        ],
+        [
+          "prestaties",
+          "performance (prestatie)"
+        ],
+        [
+          "voorbeeldig",
+          "exemplary"
+        ],
+        [
+          "aanvoerroutes",
+          "supply lines (aanvoerroute)"
+        ],
+        [
+          "neven",
+          "cousins (neef)"
+        ],
+        [
+          "op afstand te houden",
+          "to keep at bay (op afstand houden)"
+        ],
+        [
+          "toeval",
+          "chance"
+        ],
+        [
+          "waardevolle",
+          "valuable (waardevol)"
+        ],
+        [
+          "bondgenoot",
+          "ally"
+        ],
+        [
+          "voorbereiding",
+          "preparation"
+        ]
+      ]
+    },
+    "1156": {
+      "t": "<NYI> <TXT> Spreek met alchemist pestlezugg",
+      "d": "x",
+      "o": "x",
+      "g": [
+        [
+          "Spreek",
+          "speak (spreken)"
+        ],
+        [
+          "alchemist",
+          "alchemist"
+        ]
+      ]
+    },
+    "8282": {
+      "t": "Noggles verloren tas",
+      "d": "Waar ben ik? Waar is mijn tas? *hapt naar adem* Ik ben hem vast kwijtgeraakt toen ik vluchtte voor Deathclasp, de reusachtige scorpid. In mijn haast om te ontsnappen liep ik recht een nest stonelash flayers in.$B$BIn de tas die ik bij me had, zaten allerlei zeldzame reagentia. Zonder die spullen kunnen Beetix en ik de drankjes niet maken die Cenarion Hold nodig heeft. Ik ben nog te zwak om op te staan, maar ik zorg dat het de moeite waard is als je mijn reagentia terugbrengt.$B$BIk liep Deathclasp tegen het lijf in de bergketen in het zuiden, achter het kamp van Bronzebeard.",
+      "o": "Haal Noggle's Satchel op uit de bergen in het zuiden van Silithus en breng de tas terug naar hem in Cenarion Hold.",
+      "p": "Heb je mijn tas nog steeds niet gevonden? Nou, ik mag van geluk spreken: het gif is in elk geval weg.",
+      "c": "Ja! Je hebt mijn tas teruggebracht. En mijn zeldzame reagentia zijn er allemaal nog! Ik sta nog lang bij je in het krijt.",
+      "g": [
+        [
+          "verloren",
+          "lost (verliezen)"
+        ],
+        [
+          "hapt naar adem",
+          "gasps (naar adem happen)"
+        ],
+        [
+          "kwijtgeraakt",
+          "lost (kwijtraken)"
+        ],
+        [
+          "vluchtte",
+          "fled (vluchten)"
+        ],
+        [
+          "reusachtige",
+          "giant (reusachtig)"
+        ],
+        [
+          "haast",
+          "rush, hurry"
+        ],
+        [
+          "ontsnappen",
+          "to escape"
+        ],
+        [
+          "reagentia",
+          "reagents (reagens)"
+        ],
+        [
+          "drankjes",
+          "potions (drankje)"
+        ],
+        [
+          "de moeite waard",
+          "worth your while"
+        ],
+        [
+          "tegen het lijf",
+          "ran into (tegen het lijf lopen)"
+        ],
+        [
+          "bergketen",
+          "mountain range"
+        ],
+        [
+          "van geluk spreken",
+          "count oneself lucky"
+        ],
+        [
+          "in het krijt",
+          "in debt (in het krijt staan)"
+        ]
+      ]
+    },
+    "8284": {
+      "t": "Het raadsel van de Twilight",
+      "d": "Ten noordwesten van hier bloeide ooit een kamp van sekteleden van de Twilight's Hammer. Als je er nu heen zou gaan, zou je het gebied vol elementalen vinden, met alleen nog verspreide stukken hout en canvas op de plek waar het kamp stond.$B$BIk heb een paar scherven van een kleitablet van die plek gehaald, maar ik heb er te weinig om er iets nuttigs van te maken. Kijk of je de overige tabletscherven kunt vinden, zodat we meer duidelijkheid krijgen over de aanwezigheid van de Twilight's Hammer hier in Silithus.",
+      "o": "Geologist Larksbane in Cenarion Hold in Silithus wil dat je 8 Twilight Tablet Fragments verzamelt.",
+      "p": "Je vindt het verwoeste kamp ten noordwesten van hier. Kom terug als je alle scherven hebt.",
+      "c": "Precies zoals ik al dacht. Ik kan losse woorden in de tabletten ontcijferen, maar ze lijken zonder enige logica of betekenis te zijn. Het is bekend dat groepen van de Twilight's Hammer een code gebruiken om de betekenis van hun teksten te verbergen. We zullen naar iemand moeten gaan die meer van dit soort dingen weet.",
+      "g": [
+        [
+          "raadsel",
+          "mystery, riddle"
+        ],
+        [
+          "bloeide",
+          "thrived (bloeien)"
+        ],
+        [
+          "sekteleden",
+          "cultists (sektelid)"
+        ],
+        [
+          "elementalen",
+          "elementals (elementaal)"
+        ],
+        [
+          "verspreide",
+          "scattered (verspreid)"
+        ],
+        [
+          "canvas",
+          "canvas"
+        ],
+        [
+          "scherven",
+          "fragments, shards (scherf)"
+        ],
+        [
+          "kleitablet",
+          "clay tablet"
+        ],
+        [
+          "nuttigs",
+          "useful (nuttig)"
+        ],
+        [
+          "overige",
+          "remaining (overig)"
+        ],
+        [
+          "duidelijkheid",
+          "clarity, light"
+        ],
+        [
+          "aanwezigheid",
+          "presence"
+        ],
+        [
+          "ontcijferen",
+          "to decipher"
+        ],
+        [
+          "verbergen",
+          "to hide"
+        ]
+      ]
+    },
+    "8283": {
+      "t": "Gezocht - Deathclasp, Terror of the Sands",
+      "d": "Men denkt dat de vreselijke scorpid Deathclasp zich in de zuidelijke bergketen heeft teruggetrokken, nu de silithid actiever zijn. Ze vormt een groot gevaar voor patrouilles en expedities in het zuiden. Wie meehelpt om haar te vernietigen, wordt royaal beloond. Vraag naar een beloning bij Captain Vish Kozus, boven in de wachttoren van Cenarion Hold.",
+      "o": "Breng Deathclasp's Pincer naar Vish Kozus, Captain of the Guard.",
+      "p": "Ik heb de schaar van het beest nodig als bewijs van je daad. Geen schaar, geen beloning.",
+      "c": "Uitstekend! Nu Deathclasp weg is, kunnen we de zuidelijke bergketen gebruiken als strategische route om de silithid-nesten te omzeilen. We waarderen je werk enorm.",
+      "g": [
+        [
+          "Gezocht",
+          "wanted (zoeken)"
+        ],
+        [
+          "vreselijke",
+          "terrible (vreselijk)"
+        ],
+        [
+          "bergketen",
+          "mountain range"
+        ],
+        [
+          "teruggetrokken",
+          "retreated (zich terugtrekken)"
+        ],
+        [
+          "patrouilles",
+          "patrols (patrouille)"
+        ],
+        [
+          "vernietigen",
+          "to destroy"
+        ],
+        [
+          "royaal",
+          "handsomely, generously"
+        ],
+        [
+          "wachttoren",
+          "watchtower"
+        ],
+        [
+          "schaar",
+          "pincer, claw"
+        ],
+        [
+          "daad",
+          "deed"
+        ],
+        [
+          "omzeilen",
+          "to circumvent, get around"
+        ],
+        [
+          "waarderen",
+          "to appreciate"
+        ]
+      ]
+    },
+    "8285": {
+      "t": "De deserteur",
+      "d": "Er gaan geruchten dat een lid van de Twilight's Hammer, Ortell genaamd, uit zijn sekte is gedeserteerd. Men zegt dat hij zich verstopt heeft in de bergen ten zuiden van Southwind Village, waar hij als kluizenaar leeft. Misschien kun je hem overhalen om te helpen het tablet te ontcijferen.$B$BNeem het herstelde tablet mee en zoek Ortell op.",
+      "o": "Breng het herstelde tablet naar Hermit Ortell in Silithus.$b",
+      "p": "Jij! Hoe heb je me gevonden? Wie ben je? Je bent toch niet gevolgd? Spreek!",
+      "c": "Ik zie dat je mijn oude organisatie kent. Je hoort vast bij Cenarion Hold.  $B$BJe zoekt informatie om tegen hen te gebruiken? Kom dichterbij, misschien kunnen we elkaar helpen.",
+      "g": [
+        [
+          "deserteur",
+          "deserter"
+        ],
+        [
+          "geruchten",
+          "rumours (gerucht)"
+        ],
+        [
+          "genaamd",
+          "called, named"
+        ],
+        [
+          "sekte",
+          "sect, cult"
+        ],
+        [
+          "gedeserteerd",
+          "deserted (deserteren)"
+        ],
+        [
+          "verstopt",
+          "hidden (zich verstoppen)"
+        ],
+        [
+          "kluizenaar",
+          "hermit"
+        ],
+        [
+          "overhalen",
+          "to persuade, enlist"
+        ],
+        [
+          "ontcijferen",
+          "to decipher"
+        ],
+        [
+          "herstelde",
+          "restored (herstellen)"
+        ],
+        [
+          "gevolgd",
+          "followed (volgen)"
+        ],
+        [
+          "organisatie",
+          "organisation"
+        ],
+        [
+          "dichterbij",
+          "closer"
+        ]
+      ]
+    }
+  },
+  "words": {
+    "actiever": "more active (actief)",
+    "beschikken": "to have at one's disposal (beschikken over)",
+    "chillwind-e'ko": "Chillwind E'ko",
+    "code": "code",
+    "dreef": "drove (drijven)",
+    "expedities": "expeditions (expeditie)",
+    "frostmaul-e'ko": "Frostmaul E'ko",
+    "frostmaul-scherven": "frostmaul shards (scherf)",
+    "frostsaber-e'ko": "Frostsaber E'ko",
+    "frostsabers": "frostsabers (frostsaber): large white cats of Winterspring",
+    "gedempt": "hushed, muffled",
+    "giftanden": "fangs (giftand)",
+    "hapt": "gasps (happen)",
+    "hemd": "shirt",
+    "logica": "logic",
+    "massa": "mass",
+    "meehelpt": "takes part, helps (meehelpen)",
+    "noggles": "Noggle's",
+    "ongewoons": "unusual (ongewoon)",
+    "opmaken": "to make out (opmaken uit)",
+    "overlaten": "to leave (to)",
+    "positievere": "more positive (positief)",
+    "shardtooth-beren": "shardtooth bears (beer)",
+    "shardtooth-e'ko": "Shardtooth E'ko",
+    "silithid-nest": "silithid hive",
+    "silithid-nesten": "silithid hives (nest)",
+    "skitterers": "skitterers (part of the name Sand Skitterer)",
+    "stonelash-scorpids": "stonelash scorpids (scorpid)",
+    "tabletscherven": "tablet fragments (tabletscherf)",
+    "thaurissans": "Thaurissan's",
+    "thistle-e'ko": "(Ice) Thistle E'ko",
+    "wildkin-e'ko": "Wildkin E'ko",
+    "winterfall-e'ko": "Winterfall E'ko",
+    "woestijnwormen": "desert worms (woestijnworm)"
+  },
+  "terms": {
+    "furbolg": "furbolg: a bear-like forest people from the Warcraft world",
+    "wildkin": "wildkin: large owl-like creatures sacred to Elune in Warcraft",
+    "silithid": "silithid: insect-like creatures of the Silithus desert in Warcraft",
+    "scorpid": "scorpid: a large scorpion-like beast from the Warcraft world",
+    "E'ko": "E'ko: a magical item dropped by beasts in Winterspring, used for Mau'ari's charms",
+    "juju": "juju: troll word for magic or a magical power"
+  }
+}
