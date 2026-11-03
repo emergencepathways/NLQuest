@@ -146,6 +146,7 @@ Data\Batch_152_Battlegrounds.lua
 Data\Batch_153_Silithus.lua
 Data\Batch_83_Class_Rogue.lua
 Data\Batch_106_Zul_Gurub.lua
+Data\Batch_84_Stranglethorn_Vale.lua
 
 Display.lua
 Reader.lua
