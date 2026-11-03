@@ -142,6 +142,7 @@ Data\Batch_80_Stratholme.lua
 Data\Batch_150_Alterac_Valley.lua
 Data\Batch_151_Dire_Maul.lua
 Data\Batch_81_Onyxia_S_Lair_2_Voorquests.lua
+Data\Batch_82_Alterac_Valley.lua
 
 Display.lua
 Reader.lua
