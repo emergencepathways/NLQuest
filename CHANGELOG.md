@@ -1,6 +1,7 @@
 # Changelog
 
 ## Unreleased
+- Batch 101: Naxxramas tier-3 armour from Light's Hope Chapel (Redemption handguards, girdle and wristguards; the full Cryptstalker, Earthshatter and Bonescythe sets; Dreamwalker tunic, legguards, headpiece and spaulders) (31 quests, 3897 in total).
 - Batch 90: Arathi Basin and Warsong Gulch (Mark of Honor turn-ins, Claiming Arathi Basin, Fight for Warsong Gulch, Vanquish the Invaders!, Talismans of Merit, Ribbons of Sacrifice), Summoning the Princess, Tremors of the Earth and Seal of the Earth, Blacksmithing quests (Mithril Order, Hammersmith/Swordsmith choice, Enchanted Thorium Platemail tomes, Derotain's Imperial Plate plans) and the Darnassus Morrowgrain Research chain (38 quests, 3866 in total).
 - Batch 102: Naxxramas tier-set crafting quests (Dreamwalker, Frostfire, Plagueheart and Faith armour from Rayne, Archmage Angela Dosantos, Mataus the Wrathcaster and Father Inigo Montoy) and The Fall of Kel'Thuzad (29 quests, 3828 in total).
 - Batch 89: The Ahn'Qiraj War effort finished (Runecloth Bandages, Rainbow Fin Albacore, Roast Raptor and Spotted Yellowtail collection quests, The Alliance/Horde Needs Your Help!, Thirty Signets for War Supplies) and Arathi Basin (Mark of Honor and Resource Crate turn-ins, Claiming Arathi Basin, The Battle for Arathi Basin, Control Four/Five Bases, Arathor Advanced Care Package) (24 quests, 3799 in total).
