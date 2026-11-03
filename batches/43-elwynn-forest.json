@@ -1,0 +1,1743 @@
+{
+ "quests": {
+  "52": {
+   "t": "Bescherm de grens",
+   "d": "Gegroet, $N. Wilde dieren worden steeds agressiever, hoe verder we van Goldshire komen. Het Eastvale Logging Camp wordt bijna altijd aangevallen door wolven en beren!$B$BWe kunnen je hulp hier goed gebruiken.",
+   "o": "Dood 8 Prowlers en 5 Young Forest Bears en ga dan terug naar Guard Thomas bij de oostelijke brug van Elwynn.",
+   "p": "Heb je die wolven en beren gedood?",
+   "c": "Heel erg bedankt voor de hulp, $N. Iets in het bos maakt deze dieren vast zo brutaal.$B$BWat het ook is, ik hoop dat het daar blijft.",
+   "g": [
+    [
+     "grens",
+     "border, frontier"
+    ],
+    [
+     "agressiever",
+     "more aggressive (agressief)"
+    ],
+    [
+     "steeds",
+     "more and more, always"
+    ],
+    [
+     "aangevallen",
+     "attacked (aanvallen)"
+    ],
+    [
+     "oostelijke",
+     "eastern (oostelijk)"
+    ],
+    [
+     "brug",
+     "bridge"
+    ],
+    [
+     "brutaal",
+     "bold, cheeky"
+    ],
+    [
+     "Wat het ook is",
+     "whatever it is"
+    ]
+   ]
+  },
+  "59": {
+   "t": "Pantser van stof en leer",
+   "d": "Je bent slim en dapper. Daarom heb ik hier een bon voor één stuk pantser. Breng hem naar Sara Timberlain bij het Eastvale Logging Camp. Geef haar de bon, dan maakt zij het pantser voor je. En als je het hebt, $N, gebruik het dan om Elwynn te verdedigen.$B$BHet Eastvale Logging Camp ligt voorbij de post van Guard Thomas, in het oosten.",
+   "o": "Geef de Stormwind Armor Marker aan Sara Timberlain.",
+   "p": "Het Stormwind Army heeft me een opdracht gegeven: ik lever pantser van stof en leer aan hun mensen.$B$BAls je een bon voor me hebt, maak ik graag iets voor je.",
+   "c": "Ah, bedankt voor de bon. Kies maar welk pantser je wilt.$B$BSucces, dappere $c. Ik hoop dat dit pantser je goed van dienst is.",
+   "g": [
+    [
+     "pantser",
+     "armour"
+    ],
+    [
+     "stof",
+     "cloth"
+    ],
+    [
+     "leer",
+     "leather"
+    ],
+    [
+     "dapper",
+     "brave"
+    ],
+    [
+     "bon",
+     "voucher, token (here: marker)"
+    ],
+    [
+     "verdedigen",
+     "to defend"
+    ],
+    [
+     "voorbij",
+     "past, beyond"
+    ],
+    [
+     "opdracht",
+     "assignment, commission"
+    ],
+    [
+     "lever",
+     "supply, deliver (leveren)"
+    ],
+    [
+     "van dienst",
+     "of service"
+    ]
+   ]
+  },
+  "71": {
+   "t": "Meld je bij Thomas",
+   "d": "Nu heb je beide medaillons. Breng ze naar Guard Thomas bij de brug. Dan weet hij wat er met zijn vermoorde wachters is gebeurd.",
+   "o": "Breng Rolf and Malakai's Medallions naar Guard Thomas bij de oostelijke brug van Elwynn.",
+   "p": "Hallo, $N. Weet je al wat er met Rolf en Malakai is gebeurd?",
+   "c": "Je bevestigt wat ik vreesde, $N. De murlocs zijn een gevaar dat we niet kunnen negeren.",
+   "g": [
+    [
+     "Meld je",
+     "report (zich melden)"
+    ],
+    [
+     "beide",
+     "both"
+    ],
+    [
+     "medaillons",
+     "medallions (medaillon)"
+    ],
+    [
+     "vermoorde",
+     "murdered (vermoorden)"
+    ],
+    [
+     "wachters",
+     "guards (wachter)"
+    ],
+    [
+     "bevestigt",
+     "confirm (bevestigen)"
+    ],
+    [
+     "vreesde",
+     "feared (vrezen)"
+    ],
+    [
+     "negeren",
+     "to ignore"
+    ]
+   ]
+  },
+  "76": {
+   "t": "De Jasperlode Mine",
+   "d": "Dankzij jou weten we dat de Fargodeep Mine vol kobolds zit. Nu hebben we een verkenner nodig. Die moet de Jasperlode Mine onderzoeken. Die mijn ligt verder weg.$B$BVerken Jasperlode en kijk of daar kobolds zijn. Volg de weg naar het oosten tot je bij de Tower of Azora komt. Ga vanaf de toren naar het noorden. Daar vind je de mijn, aan de voet van de heuvels.",
+   "o": "Verken de Jasperlode Mine. Ga daarna terug naar Marshal Dughan in Goldshire en breng verslag uit.",
+   "p": "Gegroet, $N. Wat heb je te melden? Heb je de Jasperlode Mine verkend?",
+   "c": "Kobolds in de Jasperlode Mine, zeg je? Verdorie! Het wordt elke minuut erger!$B$BBedankt voor je verslag, $N. Maar ik wou dat je goed nieuws had gebracht.",
+   "e": "Verken de Jasperlode Mine",
+   "g": [
+    [
+     "Dankzij",
+     "thanks to"
+    ],
+    [
+     "verkenner",
+     "scout"
+    ],
+    [
+     "onderzoeken",
+     "to investigate"
+    ],
+    [
+     "Verken",
+     "explore, scout (verkennen)"
+    ],
+    [
+     "aan de voet van",
+     "at the foot of"
+    ],
+    [
+     "heuvels",
+     "hills (heuvel)"
+    ],
+    [
+     "breng verslag uit",
+     "report back (verslag uitbrengen)"
+    ],
+    [
+     "te melden",
+     "to report (melden)"
+    ],
+    [
+     "Verdorie",
+     "Curses! Damn!"
+    ],
+    [
+     "erger",
+     "worse"
+    ],
+    [
+     "ik wou dat",
+     "I wish that"
+    ]
+   ]
+  },
+  "109": {
+   "t": "Meld je bij Gryan Stoutmantle",
+   "d": "Zo te zien heb je al heel wat gevechten meegemaakt, $c. Als je het nog niet gedaan hebt, moet je je melden bij Gryan Stoutmantle. Hij leidt de People's Militia. Die wil de boerenlanden van Westfall beschermen. Ik denk dat hij je hulp goed kan gebruiken. Je vindt hem meestal in de stenen toren op Sentinel Hill, vlak bij de weg, midden in Westfall.",
+   "o": "Praat met Gryan Stoutmantle. Je vindt hem meestal in de stenen toren op Sentinel Hill, vlak bij de weg, midden in Westfall.",
+   "p": "Is... Is het gelukt??",
+   "c": "Ah, dus mijn vriend heeft je gestuurd? Wat aardig. $b$bTja, de monarchie van Stormwind heeft ons in de steek gelaten. Nu moet de People's Militia het land vrijhouden van corruptie. Als onze zaak je interesseert, kan ik je vechtkunst gebruiken, in naam van de vrijheid.",
+   "g": [
+    [
+     "Zo te zien",
+     "by the looks of it"
+    ],
+    [
+     "gevechten",
+     "fights, battles (gevecht)"
+    ],
+    [
+     "meegemaakt",
+     "experienced (meemaken)"
+    ],
+    [
+     "leidt",
+     "leads (leiden)"
+    ],
+    [
+     "boerenlanden",
+     "farmlands"
+    ],
+    [
+     "vlak bij",
+     "right next to"
+    ],
+    [
+     "in de steek gelaten",
+     "abandoned (in de steek laten)"
+    ],
+    [
+     "vrijhouden",
+     "keep free"
+    ],
+    [
+     "zaak",
+     "cause, matter"
+    ],
+    [
+     "vechtkunst",
+     "fighting skill"
+    ],
+    [
+     "in naam van",
+     "in the name of"
+    ],
+    [
+     "vrijheid",
+     "freedom"
+    ]
+   ]
+  },
+  "123": {
+   "t": "The Collector",
+   "d": "Dit briefje is een rooster. Er staan dagen en tijden op waarop iemand een zending goud krijgt uit de mijnen in Elwynn Forest. Die persoon heet alleen \"The Collector\".$B$BVolgens het rooster woont de Collector vlak bij de Brackwell Pumpkin Patch, in het oosten van Elwynn.$B$BDit klinkt belangrijk. Je moet het melden aan Marshal Dughan in Goldshire.",
+   "o": "Ga naar Marshal Dughan in Goldshire en geef hem The Collector's Schedule.",
+   "p": "Wat?!? Onze mensen werken al maanden niet meer in de mijnen van Elwynn!$B$BLaat me dat briefje eens zien...",
+   "c": "Hm... Ik heb van deze \"Collector\" gehoord, maar ik weet niet voor wie hij werkt. Bedankt voor het rooster. Daarmee kunnen we dit raadsel oplossen.",
+   "g": [
+    [
+     "briefje",
+     "note"
+    ],
+    [
+     "rooster",
+     "schedule"
+    ],
+    [
+     "zending",
+     "shipment"
+    ],
+    [
+     "mijnen",
+     "mines (mijn)"
+    ],
+    [
+     "Volgens",
+     "according to"
+    ],
+    [
+     "melden",
+     "to report"
+    ],
+    [
+     "raadsel",
+     "mystery, riddle"
+    ],
+    [
+     "oplossen",
+     "to solve"
+    ]
+   ]
+  },
+  "147": {
+   "t": "Klopjacht",
+   "d": "Als de \"Collector\" goud uit onze mijnen haalt, dan steelt hij van het koninkrijk! Zorg dat de Collector zijn straf krijgt. En breng me de ring die op het ophaalrooster staat. Misschien vertelt die ons voor wie de Collector werkt...$B$BVolgens dat ophaalrooster verstopt de Collector zich bij de Brackwell Pumpkin Patch. Zoek hem daar.",
+   "o": "Zoek en dood \"the Collector\" en ga dan terug naar Marshal Dughan met The Collector's Ring.",
+   "p": "Heb je de Collector gevonden? Weet je nu voor wie hij werkt?",
+   "c": "Heb je hem gevonden? Goed gedaan, $N. Hij komt nooit meer \"ophalen\" bij de mijnen van Elwynn!$B$BEn deze ring is interessant... Het is een ledenring van de oude Stonemason's Guild in Stormwind. Waarom heeft een simpele dief de ring van een gilde van ambachtslieden? En waarom halen de dieven van de Defias geld uit onze mijnen?$B$BMoeilijke vragen. Ik hoop dat we ooit antwoorden krijgen.",
+   "g": [
+    [
+     "Klopjacht",
+     "manhunt"
+    ],
+    [
+     "steelt",
+     "steals (stelen)"
+    ],
+    [
+     "koninkrijk",
+     "kingdom"
+    ],
+    [
+     "straf",
+     "punishment"
+    ],
+    [
+     "ophaalrooster",
+     "pickup schedule"
+    ],
+    [
+     "verstopt zich",
+     "is hiding (zich verstoppen)"
+    ],
+    [
+     "ophalen",
+     "to collect, pick up"
+    ],
+    [
+     "ledenring",
+     "membership ring"
+    ],
+    [
+     "gilde",
+     "guild"
+    ],
+    [
+     "ambachtslieden",
+     "artisans, craftsmen"
+    ],
+    [
+     "dieven",
+     "thieves (dief)"
+    ],
+    [
+     "ooit",
+     "one day, ever"
+    ]
+   ]
+  },
+  "239": {
+   "t": "Westbrook Garrison heeft hulp nodig!",
+   "d": "Het garnizoen aan onze westgrens meldt dat er steeds meer gnolls en dieven zijn. Ze willen dat we meer soldaten uit Stormwind sturen... maar we hebben er gewoon geen over!$B$BAls je kunt helpen, graag. Ga naar Deputy Rainer bij de Westbrook Garrison en vraag wat hij nodig heeft.$B$BDe Garrison ligt verderop aan de weg naar het westen. Eerst ga je over de brug over het kleine beekje. Daarna ligt hij rechts.",
+   "o": "Ga naar de Westbrook Garrison en praat met Deputy Rainer.",
+   "c": "Marshal Dughan heeft je gestuurd, hè? Nou, je bent niet van het leger. Maar als Dughan je stuurt, is dat goed genoeg voor mij!$B$BOnze situatie is, zacht gezegd, nogal gespannen. Ik hoop dat je ons kunt helpen.",
+   "g": [
+    [
+     "garnizoen",
+     "garrison"
+    ],
+    [
+     "westgrens",
+     "western border"
+    ],
+    [
+     "meldt",
+     "reports (melden)"
+    ],
+    [
+     "geen over",
+     "none to spare"
+    ],
+    [
+     "verderop",
+     "further along"
+    ],
+    [
+     "beekje",
+     "little brook (beek)"
+    ],
+    [
+     "leger",
+     "army"
+    ],
+    [
+     "zacht gezegd",
+     "to say the least"
+    ],
+    [
+     "gespannen",
+     "tense, stressed"
+    ]
+   ]
+  },
+  "176": {
+   "t": "Gezocht: \"Hogger\"",
+   "d": "Gezocht: Hogger$B$BEen enorme gnoll, Hogger, sluipt rond in de bossen in het zuidwesten van Elwynn. Iedereen die hem probeerde te vangen, heeft hij verslagen.$B$BHet Stormwind Army heeft een flinke beloning op de gnoll gezet. Premiejagers krijgen de beloning als ze bewijs van de dood van Hogger naar Marshal Dughan in Goldshire brengen.",
+   "o": "Dood de gnoll Hogger en breng zijn Huge Gnoll Claw naar Marshal Dughan.",
+   "p": "Ja, Hogger is echt een plaag voor mij en mijn mannen. Heb je iets te melden over dat beest?",
+   "c": "Ha! Goed gedaan! Ik dacht al dat niemand dat monster zou verslaan!$B$BAlsjeblieft, $N. En bedankt. Die gnoll gaf me hoofdpijn zo groot als Blackrock Spire!",
+   "g": [
+    [
+     "Gezocht",
+     "wanted"
+    ],
+    [
+     "enorme",
+     "huge (enorm)"
+    ],
+    [
+     "sluipt rond",
+     "prowls around (rondsluipen)"
+    ],
+    [
+     "vangen",
+     "to capture, catch"
+    ],
+    [
+     "verslagen",
+     "defeated (verslaan)"
+    ],
+    [
+     "flinke",
+     "generous, hefty (flink)"
+    ],
+    [
+     "beloning",
+     "reward, bounty"
+    ],
+    [
+     "Premiejagers",
+     "bounty hunters (premiejager)"
+    ],
+    [
+     "bewijs",
+     "proof"
+    ],
+    [
+     "plaag",
+     "plague, pain"
+    ],
+    [
+     "beest",
+     "beast"
+    ],
+    [
+     "hoofdpijn",
+     "headache"
+    ]
+   ]
+  },
+  "2501": {
+   "t": "Ingrediënten uit de Badlands II",
+   "d": "Je hebt me heel goed geholpen, $N. Als beloning wil ik je het recept geven van het brouwsel dat ik je eerder gaf. Maar eerst moet ik je om een gunst vragen, en die is behoorlijk gevaarlijk.$B$BIn dit kistje zitten drie lege Thaumaturgy Vessels. Er zit een aura van afstemming in, die het bloed van een Scorched Guardian Dragon wegzuigt. Als je er een op het beest gebruikt, wordt het erg kwaad, dus wees voorzichtig. Breng ze naar me zodra alle drie vol zijn.$B$BDoe dit, en het recept is van jou.",
+   "o": "Gebruik de Empty Thaumaturgy Vessels op Scorched Guardian Dragons in de Badlands. Breng ze naar Ghak Healtouch in Thelsamar zodra ze vol zijn.",
+   "p": "Heb je de vaten gebruikt om het bloed van de Scorched Guardian Dragon te halen dat ik nodig heb? Ja, ik weet dat het een gevaarlijke taak is... maar het recept voor mijn herstellende brouwsel wacht op je als het lukt. Risico en beloning, mijn vriend... risico en beloning...",
+   "c": "Van de ene alchemist aan de andere: ik groet je. Hier, neem dit recept en prent het goed in je geheugen. Ik hoop dat het jou net zoveel succes en beloningen brengt als het mij al die jaren heeft gebracht!",
+   "g": [
+    [
+     "Ingrediënten",
+     "ingredients, reagents (ingrediënt)"
+    ],
+    [
+     "brouwsel",
+     "brew"
+    ],
+    [
+     "gunst",
+     "favour"
+    ],
+    [
+     "behoorlijk",
+     "quite, rather"
+    ],
+    [
+     "kistje",
+     "small box, lockbox (kist)"
+    ],
+    [
+     "afstemming",
+     "attunement"
+    ],
+    [
+     "wegzuigt",
+     "drains, sucks away (wegzuigen)"
+    ],
+    [
+     "zodra",
+     "as soon as"
+    ],
+    [
+     "vaten",
+     "vessels, barrels (vat)"
+    ],
+    [
+     "herstellende",
+     "restorative (herstellen)"
+    ],
+    [
+     "Risico",
+     "risk"
+    ],
+    [
+     "ik groet je",
+     "I salute you (groeten)"
+    ],
+    [
+     "prent het goed in je geheugen",
+     "commit it to memory (inprenten)"
+    ]
+   ]
+  },
+  "981": {
+   "t": "De Tower of Althalaxx",
+   "d": "Voor al je werk verdien je een goede beloning. Ga terug naar Delgren en vertel hem dat Athrikus Narassin door jouw hand voorgoed stil is. Vertel hem ook dat de Cult of the Dark Strand verslagen is en alle kanten op is gevlucht.",
+   "o": "Praat met Delgren the Purifier bij Maestra's Post.",
+   "c": "Ik wist dat je het aankon, $N.$B$BIk voel dat er grote daden voor je liggen. Je zult veel onrecht rechtzetten dat onze landen plaagt. Neem mijn zegen mee, $N, en ook dit geschenk.",
+   "g": [
+    [
+     "verdien",
+     "deserve (verdienen)"
+    ],
+    [
+     "door jouw hand",
+     "by your hand"
+    ],
+    [
+     "voorgoed",
+     "for good, forever"
+    ],
+    [
+     "alle kanten op",
+     "in all directions"
+    ],
+    [
+     "gevlucht",
+     "fled (vluchten)"
+    ],
+    [
+     "aankon",
+     "could handle (aankunnen)"
+    ],
+    [
+     "daden",
+     "deeds (daad)"
+    ],
+    [
+     "onrecht",
+     "wrongs, injustice"
+    ],
+    [
+     "rechtzetten",
+     "to set right"
+    ],
+    [
+     "plaagt",
+     "plagues (plagen)"
+    ],
+    [
+     "zegen",
+     "blessing"
+    ],
+    [
+     "geschenk",
+     "gift"
+    ]
+   ]
+  },
+  "1143": {
+   "t": "De Tower of Althalaxx",
+   "d": "Ik begrijp het. Nou, als het waar is wat je zegt, dan moeten we nu toeslaan. Ik denk dat Athrikus boven in de toren woont. Maar wees voorzichtig: hij is omringd door veel machtige warlocks. Die zijn veel gevaarlijker dan de warlocks die je eerder hebt bevochten.",
+   "o": "Dood Athrikus Narassin en breng zijn hoofd naar Balthule Shadowstrike bij de Tower of Althalaxx.",
+   "p": "Athrikus Narassin is een oude en machtige warlock. Misschien moeten we wachten op de hulp van Delgren. Maar hij vertrouwde duidelijk erg op je, want hij stuurde je alleen.",
+   "c": "Nu Athrikus dood is, hoop ik dat de demonische krachten hier worden teruggedreven. Ik twijfel er niet aan dat ze zich opnieuw zullen verzamelen en terugkomen. Maar dan zijn we nog beter voorbereid op hun dreiging.",
+   "g": [
+    [
+     "toeslaan",
+     "to strike"
+    ],
+    [
+     "omringd",
+     "surrounded (omringen)"
+    ],
+    [
+     "machtige",
+     "powerful (machtig)"
+    ],
+    [
+     "bevochten",
+     "fought (bevechten)"
+    ],
+    [
+     "vertrouwde",
+     "trusted (vertrouwen)"
+    ],
+    [
+     "demonische",
+     "demonic (demonisch)"
+    ],
+    [
+     "krachten",
+     "forces (kracht)"
+    ],
+    [
+     "teruggedreven",
+     "driven back (terugdrijven)"
+    ],
+    [
+     "twijfel",
+     "doubt (twijfelen)"
+    ],
+    [
+     "verzamelen",
+     "to gather, regroup"
+    ],
+    [
+     "voorbereid",
+     "prepared (voorbereiden)"
+    ],
+    [
+     "dreiging",
+     "threat"
+    ]
+   ]
+  },
+  "48": {
+   "t": "Zoete amber",
+   "d": "In het land in het zuiden, waar ranken kronkelen en kruipen,$bligt een verborgen bron, waar het water diep stroomt.$bZo puur als de heilige Dochter van het Licht:$bbreng me nu wat Holy Spring Water.",
+   "o": "Breng Holy Spring Water naar Grimbooze Thunderbrew.",
+   "p": "Hik! Ho ho! Wil je een toegift?$B$BIn het land in het zuiden, waar ranken kronkelen en kruipen,$Bligt een verborgen bron, waar het water diep stroomt.$BZo puur als de heilige Dochter van het Licht:$Bbreng me nu wat Holy Spring Water.",
+   "c": "Hik! Ho ho!",
+   "g": [
+    [
+     "Zoete",
+     "sweet (zoet)"
+    ],
+    [
+     "ranken",
+     "vines (rank)"
+    ],
+    [
+     "kronkelen",
+     "twist, wind"
+    ],
+    [
+     "kruipen",
+     "creep, crawl"
+    ],
+    [
+     "verborgen",
+     "hidden (verbergen)"
+    ],
+    [
+     "bron",
+     "spring, well"
+    ],
+    [
+     "stroomt",
+     "flows, runs (stromen)"
+    ],
+    [
+     "puur",
+     "pure"
+    ],
+    [
+     "heilige",
+     "holy, sacred (heilig)"
+    ],
+    [
+     "Hik",
+     "hiccup"
+    ],
+    [
+     "toegift",
+     "encore"
+    ]
+   ]
+  },
+  "49": {
+   "t": "Zoete amber",
+   "d": "Amber is de kleur van de langste liefde van mijn leven,$bals de laatste sintels van de schemering in de lucht daarboven.$bHaal voor mij, zodat mijn liefde geboren wordt,$bvan elk één zak: gerst, rogge en mais.",
+   "o": "Grimbooze Thunderbrew wil een Sack of Barley, een Sack of Rye en een Sack of Corn.",
+   "p": "Een toegift? Nou, natuurlijk!$B$BAmber is de kleur van de langste liefde van mijn leven,$Bals de laatste sintels van de schemering in de lucht daarboven.$BHaal voor mij, zodat mijn liefde geboren wordt,$Bvan elk één zak: gerst, rogge en mais.",
+   "c": "Hik! Ho ho!",
+   "g": [
+    [
+     "kleur",
+     "colour, hue"
+    ],
+    [
+     "sintels",
+     "embers (sintel)"
+    ],
+    [
+     "schemering",
+     "dusk, twilight"
+    ],
+    [
+     "daarboven",
+     "up there, above"
+    ],
+    [
+     "geboren",
+     "born"
+    ],
+    [
+     "zak",
+     "sack"
+    ],
+    [
+     "gerst",
+     "barley"
+    ],
+    [
+     "rogge",
+     "rye"
+    ],
+    [
+     "mais",
+     "corn, maize"
+    ]
+   ]
+  },
+  "50": {
+   "t": "Zoete amber",
+   "d": "Ik meng en ik meng tot we een beslag hebben,$bwant dit wordt onze eigen geheime voorraad.$bEr moet een distilleerketel van sterk metaal worden gemaakt:$bbreng me wat Truesilver, dan kan ik dit lied afmaken.",
+   "o": "Grimbooze Thunderbrew wil Truesilver.",
+   "p": "Een toegift voor jou? Natuurlijk, vriend!$B$BIk meng en ik meng tot we een beslag hebben,$Bwant dit wordt onze eigen geheime voorraad.$BEr moet een distilleerketel van sterk metaal worden gemaakt:$Bbreng me wat Truesilver, dan kan ik dit lied afmaken.",
+   "c": "Hik! Ho ho!",
+   "g": [
+    [
+     "meng",
+     "mix (mengen)"
+    ],
+    [
+     "beslag",
+     "mash (in brewing), batter"
+    ],
+    [
+     "geheime",
+     "secret, private (geheim)"
+    ],
+    [
+     "voorraad",
+     "stash, supply"
+    ],
+    [
+     "distilleerketel",
+     "still (for distilling)"
+    ],
+    [
+     "worden gemaakt",
+     "be made, be fashioned"
+    ],
+    [
+     "lied",
+     "song"
+    ],
+    [
+     "afmaken",
+     "to finish"
+    ]
+   ]
+  },
+  "51": {
+   "t": "Zoete amber",
+   "d": "Nog niet gefilterd, maar vers gedistilleerd,$bals ongezaaid land dat daar geploegd ligt te wachten.$bDaarna maak ik onze stapel houtskool:$bbreng een Sycamore Branch, dat is je volgende doel.",
+   "o": "Breng een Sycamore Branch naar Grimbooze Thunderbrew.",
+   "p": "Een toegift? Voor jou doe ik alles!$B$BNog niet gefilterd, maar vers gedistilleerd,$Bals ongezaaid land dat daar geploegd ligt te wachten.$BDaarna maak ik onze stapel houtskool:$Bbreng een Sycamore Branch, dat is je volgende doel.",
+   "c": "Hik! Ho ho!",
+   "g": [
+    [
+     "gefilterd",
+     "filtered (filteren)"
+    ],
+    [
+     "vers",
+     "fresh(ly)"
+    ],
+    [
+     "gedistilleerd",
+     "distilled (distilleren)"
+    ],
+    [
+     "ongezaaid",
+     "unseeded, unsown"
+    ],
+    [
+     "geploegd",
+     "ploughed, tilled (ploegen)"
+    ],
+    [
+     "stapel",
+     "pile"
+    ],
+    [
+     "houtskool",
+     "charcoal"
+    ],
+    [
+     "doel",
+     "goal"
+    ]
+   ]
+  },
+  "53": {
+   "t": "Zoete amber",
+   "d": "Zoetvloeiende drank, helder als de tranen van een baby,$bwordt in de loop der jaren een prachtig diep amber.$bMaar voordat we doorgaan en stomdronken worden,$bmoet er een vat van verkoold eikenhout worden gebouwd.",
+   "o": "Breng Grimbooze Thunderbrew een bundel Charred Oak.",
+   "p": "Natuurlijk zing ik het nog een keer voor je, vriend!$B$BZoetvloeiende drank, helder als de tranen van een baby,$Bwordt in de loop der jaren een prachtig diep amber.$BMaar voordat we doorgaan en stomdronken worden,$Bmoet er een vat van verkoold eikenhout worden gebouwd.",
+   "c": "Gerijpt in het vat, gefilterd door kool,$Bhet gaat langs je lippen en dwars door je ziel.$BDus laten we nu drinken, een toost op jou,$Ben op mij, nu we toch bezig zijn: Grimbooze Thunderbrew!",
+   "g": [
+    [
+     "Zoetvloeiende",
+     "mellifluous, sweetly flowing"
+    ],
+    [
+     "helder",
+     "clear"
+    ],
+    [
+     "tranen",
+     "tears (traan)"
+    ],
+    [
+     "in de loop der jaren",
+     "over the years"
+    ],
+    [
+     "stomdronken",
+     "dead drunk (lit to the hilt)"
+    ],
+    [
+     "vat",
+     "barrel"
+    ],
+    [
+     "verkoold",
+     "charred (verkolen)"
+    ],
+    [
+     "eikenhout",
+     "oak wood"
+    ],
+    [
+     "bundel",
+     "bundle"
+    ],
+    [
+     "Gerijpt",
+     "aged, matured (rijpen)"
+    ],
+    [
+     "kool",
+     "coal"
+    ],
+    [
+     "dwars door",
+     "right through"
+    ],
+    [
+     "ziel",
+     "soul"
+    ],
+    [
+     "toost",
+     "toast"
+    ],
+    [
+     "nu we toch bezig zijn",
+     "while we're at it"
+    ]
+   ]
+  },
+  "887": {
+   "t": "De Southsea Freebooters",
+   "d": "Ik wou echt dat Vice Admiral Grezzlik de zeeën beter veilig hield voor onze handelsschepen. De handelsprinsen hebben zoveel goud in de Trade Fleets gestoken. Dan word ik echt boos als ik al die piraten zie. Ze rennen kriskras rond, overvallen mijn schepen en stelen mijn spullen!$b$bIk heb gehoord dat de Southsea Freebooters een kamp hebben gebouwd, vlak ten zuiden van hier. Ze zijn een echte doorn in mijn oog. Als Grezzlik ze niet aanpakt... nou, misschien kun jij ze dan voor me wegjagen.",
+   "o": "Dood 12 Southsea Brigands en 6 Southsea Cannoneers voor Gazlowe in Ratchet.",
+   "p": "Ik wil niet eens denken aan alle winst die ik ben kwijtgeraakt door de piraten. En nu bouwen ze een kamp vlak voor mijn deur? Het loopt uit de hand. Undermine moet hier iets aan doen.",
+   "c": "Goed gedaan, $gjongen:meid;. Nog wat meer werk zoals dit, en dan hoef ik me daar geen zorgen meer over te maken. Hopelijk snappen ze nu dat ze hun zaakjes beter ergens anders kunnen doen.$b$bIntussen is er nog een kleinigheid: de spullen die ze van me hebben gestolen, moeten terug!",
+   "g": [
+    [
+     "ik wou dat",
+     "I wish that"
+    ],
+    [
+     "handelsschepen",
+     "trading vessels (handelsschip)"
+    ],
+    [
+     "handelsprinsen",
+     "trade princes (handelsprins)"
+    ],
+    [
+     "gestoken",
+     "put, poured (steken)"
+    ],
+    [
+     "kriskras",
+     "willy-nilly, every which way"
+    ],
+    [
+     "overvallen",
+     "raid (overvallen)"
+    ],
+    [
+     "een doorn in mijn oog",
+     "a thorn in my side"
+    ],
+    [
+     "aanpakt",
+     "deals with (aanpakken)"
+    ],
+    [
+     "wegjagen",
+     "to chase away"
+    ],
+    [
+     "winst",
+     "profit"
+    ],
+    [
+     "kwijtgeraakt",
+     "lost (kwijtraken)"
+    ],
+    [
+     "Het loopt uit de hand",
+     "it's getting out of hand"
+    ],
+    [
+     "zaakjes",
+     "business, dealings (zaak)"
+    ],
+    [
+     "Intussen",
+     "in the meantime"
+    ],
+    [
+     "kleinigheid",
+     "small matter"
+    ]
+   ]
+  },
+  "890": {
+   "t": "De verdwenen zending",
+   "d": "Ik wacht al eeuwen op mijn laatste zending goederen uit Booty Bay! Ik denk dat de Freebooters hem hebben gestolen. Maar voor de zekerheid: wil jij naar de kade gaan? Vraag aan Dizzywig of mijn goederen al in mijn opslag zijn gezet zonder dat ik het wist.$b$bHier, neem mijn grootboek mee naar Dizzywig. Laat hem mijn voorraadlijst nog eens vergelijken met zijn eigen logboek.",
+   "o": "Breng Gazlowe's Ledger naar Wharfmaster Dizzywig.",
+   "p": "Spullen voor het volgende schip, $n?",
+   "c": "Ah, Gazlowe heeft je gestuurd, hè? Een momentje. Ik kijk even in mijn eigen logboek. Ik wil zeker weten dat ik Gazlowe's zending niet naar de verkeerde plek heb gestuurd.$b$bIk wed dat hij wacht op die laarzen van Drizzlek...",
+   "g": [
+    [
+     "verdwenen",
+     "missing, disappeared (verdwijnen)"
+    ],
+    [
+     "eeuwen",
+     "ages, forever (eeuw)"
+    ],
+    [
+     "goederen",
+     "goods"
+    ],
+    [
+     "voor de zekerheid",
+     "just to make sure"
+    ],
+    [
+     "kade",
+     "dockside, quay"
+    ],
+    [
+     "opslag",
+     "warehouse, storage"
+    ],
+    [
+     "grootboek",
+     "ledger"
+    ],
+    [
+     "voorraadlijst",
+     "inventory list"
+    ],
+    [
+     "vergelijken",
+     "to compare"
+    ],
+    [
+     "logboek",
+     "log"
+    ],
+    [
+     "verkeerde",
+     "wrong (verkeerd)"
+    ],
+    [
+     "Ik wed",
+     "I bet (wedden)"
+    ],
+    [
+     "laarzen",
+     "boots (laars)"
+    ]
+   ]
+  },
+  "892": {
+   "t": "De verdwenen zending",
+   "d": "Volgens mijn administratie klopt alles, $n. Ga maar terug en zeg tegen Gazlowe dat hij pech heeft. Het zou me niet verbazen als de piraten zijn spulletjes hebben gepikt.$b$bMeer kan ik niet voor hem doen. O... maar je kunt hem wel zeggen dat ik wat dingen uit Undermine voor hem heb. Hij kan ze komen ophalen als hij tijd heeft.",
+   "o": "Breng Gazlowe's Ledger terug naar Gazlowe in Ratchet.",
+   "p": "En, wat zei Dizzywig?",
+   "c": "Niks gevonden, hè? Dan waren het vast de Freebooters... Dizzywig is eerlijk. Ik weet zeker dat hij me niet zo zou bedriegen. Hij staat tenslotte op mijn loonlijst.$b$bIk moet dus wat spullen terughalen, $n. Wat zeg je ervan?",
+   "g": [
+    [
+     "administratie",
+     "records, books"
+    ],
+    [
+     "klopt",
+     "is right, adds up (kloppen)"
+    ],
+    [
+     "pech",
+     "bad luck"
+    ],
+    [
+     "verbazen",
+     "to surprise"
+    ],
+    [
+     "spulletjes",
+     "goodies, little things"
+    ],
+    [
+     "gepikt",
+     "nabbed, pinched (pikken)"
+    ],
+    [
+     "ophalen",
+     "to pick up"
+    ],
+    [
+     "eerlijk",
+     "honest"
+    ],
+    [
+     "bedriegen",
+     "to cheat"
+    ],
+    [
+     "tenslotte",
+     "after all"
+    ],
+    [
+     "loonlijst",
+     "payroll"
+    ],
+    [
+     "terughalen",
+     "to get back"
+    ]
+   ]
+  },
+  "894": {
+   "t": "Samophlange",
+   "d": "De Venture Company heeft een kleine onderzoeksbasis gebouwd, ver ten noorden van hier, ten zuidwesten van de Sludge Fen. Ik weet niet veel over wat ze daar doen. Maar ik heb wel ontdekt dat ze experimenteren met iets dat een \"samophlange\" heet.$b$bWat is in vredesnaam een samophlange? Nou, wat het ook is, ik wil het onderzoeken. Dus ik heb iemand nodig die het gaat halen.$b$bIk heb een kopie van de handleiding van hun besturingssysteem. Daarmee kun je vast uitzoeken hoe je de samophlange loskrijgt.",
+   "o": "Gebruik het bedieningspaneel bij de onderzoeksbasis van de Venture Company.",
+   "c": "Op de voorkant van het bedieningspaneel zitten allerlei knoppen, hendels en knipperende lampjes, nogal rommelig door elkaar. Een kleine meter laat zien dat het apparaat nu op het beste niveau werkt. Hij laat ook zien dat regelkleppen één tot en met drie nu open zijn. Rechtsonder in het paneel zit een klein sleutelgat.",
+   "g": [
+    [
+     "onderzoeksbasis",
+     "research facility"
+    ],
+    [
+     "ontdekt",
+     "discovered (ontdekken)"
+    ],
+    [
+     "in vredesnaam",
+     "what the heck, on earth"
+    ],
+    [
+     "onderzoeken",
+     "to examine"
+    ],
+    [
+     "handleiding",
+     "manual"
+    ],
+    [
+     "besturingssysteem",
+     "control system"
+    ],
+    [
+     "uitzoeken",
+     "to figure out"
+    ],
+    [
+     "loskrijgt",
+     "disengage, get loose (loskrijgen)"
+    ],
+    [
+     "bedieningspaneel",
+     "control console"
+    ],
+    [
+     "hendels",
+     "levers (hendel)"
+    ],
+    [
+     "knipperende",
+     "blinking (knipperen)"
+    ],
+    [
+     "rommelig",
+     "messy, erratic"
+    ],
+    [
+     "meter",
+     "gauge"
+    ],
+    [
+     "regelkleppen",
+     "control valves (regelklep)"
+    ],
+    [
+     "sleutelgat",
+     "keyhole"
+    ]
+   ]
+  },
+  "900": {
+   "t": "Samophlange",
+   "d": "De drie regelkleppen zijn nu open. Door de verschillende waarden op het paneel denk je dat ze eerst dicht moeten. Pas daarna kun je het apparaat uitzetten.",
+   "o": "Sluit de Fuel Control Valve, de Regulator Valve en de Main Control Valve. Gebruik daarna het bedieningspaneel opnieuw.",
+   "p": "Knipperende lampjes op het bedieningspaneel laten zien dat de belangrijkste regelkleppen nog niet dicht zijn.",
+   "c": "De lampjes van de drie regelkleppen worden zwakker als je ze dichtdraait. Groene lampjes worden langzaam geel. De schakelaar van het apparaat kan nu bewegen. Nu de kleppen dicht zijn, kun je het apparaat uitzetten.",
+   "o1": "Draai de Main Control Valve dicht",
+   "o2": "Draai de Fuel Control Valve dicht",
+   "o3": "Draai de Regulator Valve dicht",
+   "g": [
+    [
+     "regelkleppen",
+     "control valves (regelklep)"
+    ],
+    [
+     "waarden",
+     "readings, values (waarde)"
+    ],
+    [
+     "Pas daarna",
+     "only after that"
+    ],
+    [
+     "uitzetten",
+     "to switch off"
+    ],
+    [
+     "bedieningspaneel",
+     "control console"
+    ],
+    [
+     "zwakker",
+     "dimmer, weaker (zwak)"
+    ],
+    [
+     "dichtdraait",
+     "shut off (dichtdraaien)"
+    ],
+    [
+     "schakelaar",
+     "switch"
+    ],
+    [
+     "kleppen",
+     "valves (klep)"
+    ],
+    [
+     "Draai",
+     "turn (draaien)"
+    ]
+   ]
+  },
+  "901": {
+   "t": "Samophlange",
+   "d": "Het apparaat staat uit. Nu kun je het paneel openmaken en de samophlange eruit halen. Alles is klaar. Je hebt alleen nog de sleutel van het paneel nodig.",
+   "o": "Haal de Console Key bij Tinkerer Sniggles en gebruik hem op het bedieningspaneel.",
+   "p": "De lampjes van het paneel zijn zwak, en alle meters en wijzers staan op nul. Alles staat stil.",
+   "c": "Je draait de sleutel om in het slot, en het bedieningspaneel gaat open. Een rood lampje boven op het paneel gaat uit, en alle stroom verdwijnt uit het apparaat.",
+   "g": [
+    [
+     "apparaat",
+     "apparatus, device"
+    ],
+    [
+     "openmaken",
+     "to open up"
+    ],
+    [
+     "eruit halen",
+     "to take out"
+    ],
+    [
+     "bedieningspaneel",
+     "control console"
+    ],
+    [
+     "meters",
+     "gauges (meter)"
+    ],
+    [
+     "wijzers",
+     "dials, pointers (wijzer)"
+    ],
+    [
+     "staat stil",
+     "stands still, is idling"
+    ],
+    [
+     "slot",
+     "lock"
+    ],
+    [
+     "stroom",
+     "power, current"
+    ],
+    [
+     "verdwijnt",
+     "disappears, drains (verdwijnen)"
+    ]
+   ]
+  },
+  "888": {
+   "t": "Gestolen buit",
+   "d": "Ik wil graag al mijn spullen terug, maar dat lukt vast niet. Toch zijn er een paar dingen die ik echt moet hebben!$b$bZoals je ziet, is mijn sterrenwacht klaar. Maar hij mist de kleinste van de twee lenzen. De eerste kwam met een karavaan uit Durotar. De tweede kwam per schip, maar die is nooit aangekomen. Ook heb ik mijn zending laarzen van Drizzlik in Booty Bay nooit gekregen!$b$bGa naar het piratenkamp en kijk of je ze kunt vinden.",
+   "o": "Haal de Shipment of Boots en de Telescopic Lens terug voor Gazlowe in Ratchet.",
+   "p": "Heb je mijn spullen gevonden, $n?",
+   "c": "Wat een opluchting dat ik dit allemaal terug heb. Bedankt voor je hulp, $n. Weet je, ik kan een $r zoals jij goed gebruiken voor mijn zaak hier. Als je ooit werk zoekt, vergeet dan niet hoe goed Gazlowe betaalt!",
+   "g": [
+    [
+     "buit",
+     "booty, loot"
+    ],
+    [
+     "lukt",
+     "succeeds, works out (lukken)"
+    ],
+    [
+     "sterrenwacht",
+     "observatory"
+    ],
+    [
+     "mist",
+     "is missing (missen)"
+    ],
+    [
+     "lenzen",
+     "lenses (lens)"
+    ],
+    [
+     "karavaan",
+     "caravan"
+    ],
+    [
+     "per schip",
+     "by ship"
+    ],
+    [
+     "aangekomen",
+     "arrived (aankomen)"
+    ],
+    [
+     "piratenkamp",
+     "pirate camp"
+    ],
+    [
+     "opluchting",
+     "relief"
+    ],
+    [
+     "zaak",
+     "business, operation"
+    ]
+   ]
+  },
+  "895": {
+   "t": "GEZOCHT: Baron Longshore",
+   "d": "GEZOCHT!$b$bBaron Longshore, kapitein van de Heedless$b$bKapitein Longshore uit Gilneas leidt schepen van de Southsea Freebooters. Hij wordt gezocht voor piraterij. Het lichaam moet nog herkenbaar zijn!$b$b-- Gazlowe",
+   "o": "Breng het hoofd van Baron Longshore naar Gazlowe in Ratchet.",
+   "p": "Wat is er? Kan ik je ergens mee helpen? Goederen verschepen, of misschien een klus als ingenieur?",
+   "c": "Ahhhh! Dat soort zaken. Weet je, ik heb de Heedless één keer op open zee gezien. Een angstaanjagend schip... of was het een boot... die zeelui zijn zo precies!$b$bHoe dan ook, het was een prachtig gezicht hoe ze over het water gleed. Ik ben blij dat haar beruchte kapitein mijn schepen niet meer lastigvalt.",
+   "g": [
+    [
+     "GEZOCHT",
+     "wanted"
+    ],
+    [
+     "kapitein",
+     "captain"
+    ],
+    [
+     "piraterij",
+     "piracy"
+    ],
+    [
+     "lichaam",
+     "body, remains"
+    ],
+    [
+     "herkenbaar",
+     "identifiable, recognisable"
+    ],
+    [
+     "verschepen",
+     "to ship"
+    ],
+    [
+     "klus",
+     "job"
+    ],
+    [
+     "ingenieur",
+     "engineer"
+    ],
+    [
+     "angstaanjagend",
+     "fearsome"
+    ],
+    [
+     "zeelui",
+     "sailors (zeeman)"
+    ],
+    [
+     "precies",
+     "particular, precise"
+    ],
+    [
+     "gleed",
+     "glided (glijden)"
+    ],
+    [
+     "beruchte",
+     "infamous (berucht)"
+    ],
+    [
+     "lastigvalt",
+     "troubles, bothers (lastigvallen)"
+    ]
+   ]
+  },
+  "902": {
+   "t": "Samophlange",
+   "d": "Je trekt de voorkant van het paneel open. Daarachter zit een dichte wirwar van draden, buizen en andere vreemde mechanische dingen. De meeste lijken nergens voor te dienen. Je duwt ze opzij en zoekt dieper in het paneel. Daar vind je de samophlange. Met één ruk trek je hem uit zijn houder.",
+   "o": "Breng de Samophlange terug naar Sputtervalve in Ratchet.",
+   "p": "O, je bent terug, $n! Heb je de samophlange?",
+   "c": "Dit is... eh... interessant... ja. Ik laat het naar het hoofdkantoor van de Tinkers' Union in Undermine sturen. Ze gaan het zorgvuldig uit elkaar halen en onderzoeken. Daarna begrijpen ze er vast iets van.$B$BMaar... misschien kijk ik er eerst zelf even naar...",
+   "g": [
+    [
+     "voorkant",
+     "front, face"
+    ],
+    [
+     "wirwar",
+     "jumble, tangle"
+    ],
+    [
+     "draden",
+     "wires (draad)"
+    ],
+    [
+     "buizen",
+     "tubes (buis)"
+    ],
+    [
+     "mechanische",
+     "mechanical (mechanisch)"
+    ],
+    [
+     "nergens voor te dienen",
+     "to serve no purpose"
+    ],
+    [
+     "duwt",
+     "push (duwen)"
+    ],
+    [
+     "opzij",
+     "aside"
+    ],
+    [
+     "ruk",
+     "tug, jerk"
+    ],
+    [
+     "houder",
+     "housing, holder"
+    ],
+    [
+     "hoofdkantoor",
+     "headquarters"
+    ],
+    [
+     "zorgvuldig",
+     "careful(ly)"
+    ],
+    [
+     "uit elkaar halen",
+     "to take apart, dissect"
+    ]
+   ]
+  },
+  "858": {
+   "t": "Ontsteking",
+   "d": "Jou heeft Sputtervalve toevallig niet gestuurd? Ik zit hier in de knel. Ik sprong erin zonder te weten dat ik een sleutel nodig heb voor de bewegingskolom van de shredder. Een van de andere shredderbestuurders vroeg of alles goed ging, en ik raakte in paniek! Ik zei niet dat ik mijn sleutel kwijt was. In plaats daarvan zei ik dat er een mechanisch probleem was.$b$bWe moeten hier als de bliksem weg! Ga naar de controlekamer boven in de boortoren. De opzichter heeft vast een sleutel voor deze shredder.$b$bHelp me!",
+   "o": "Haal de Ignition Key en breng hem naar Wizzlecrank.",
+   "p": "Snel, we moeten hier weg voordat iemand iets vermoedt!",
+   "c": "Ja, dit lijkt de goede sleutel. Even kijken of ik weet hoe dit ding werkt...$b$bHmm... draaibesturing... Dit regelt snelheid en stabiliteit... fijne armbeweging. Moet je dit zien! Ik kan niet geloven dat de Venture Company iets kan ontwerpen dat zoveel beter is dan het onze. Ik moet dit terugbrengen naar Ratchet!",
+   "g": [
+    [
+     "Ontsteking",
+     "ignition"
+    ],
+    [
+     "toevallig",
+     "by any chance"
+    ],
+    [
+     "in de knel",
+     "in a bind"
+    ],
+    [
+     "bewegingskolom",
+     "movement column"
+    ],
+    [
+     "shredderbestuurders",
+     "shredder operators (bestuurder)"
+    ],
+    [
+     "raakte in paniek",
+     "panicked (in paniek raken)"
+    ],
+    [
+     "In plaats daarvan",
+     "instead"
+    ],
+    [
+     "als de bliksem",
+     "on the double, like lightning"
+    ],
+    [
+     "controlekamer",
+     "control room"
+    ],
+    [
+     "boortoren",
+     "derrick, drilling tower"
+    ],
+    [
+     "opzichter",
+     "supervisor"
+    ],
+    [
+     "vermoedt",
+     "suspects (vermoeden)"
+    ],
+    [
+     "draaibesturing",
+     "rotation control"
+    ],
+    [
+     "regelt",
+     "regulates (regelen)"
+    ],
+    [
+     "ontwerpen",
+     "to design"
+    ]
+   ]
+  },
+  "863": {
+   "t": "De ontsnapping",
+   "d": "Ik leer het wel onderweg... Zo moeilijk kan het niet zijn. Gewoon wat knoppen hier, en een hendel of twee... Nou, ben je klaar om te gaan?",
+   "o": "Bescherm Wizzlecrank en de gestolen goblin shredder op weg naar Sputtervalve in Ratchet.",
+   "p": "Kan ik je helpen?",
+   "c": "Hopelijk kunnen we nog iets waardevols uit dat kapotte prototype van de shredder halen... mijn tijd raakt op! Ik stuur meteen een bergingsteam naar de plek van Wizzlecrank.$b$bO, laat me je ook iets geven voor de moeite.",
+   "e": "Begeleid Wizzlecrank uit de boorplaats van de Venture Co.",
+   "g": [
+    [
+     "ontsnapping",
+     "escape"
+    ],
+    [
+     "onderweg",
+     "on the way"
+    ],
+    [
+     "knoppen",
+     "buttons (knop)"
+    ],
+    [
+     "hendel",
+     "lever"
+    ],
+    [
+     "waardevols",
+     "of value (waardevol)"
+    ],
+    [
+     "kapotte",
+     "wrecked, broken (kapot)"
+    ],
+    [
+     "raakt op",
+     "is running out (opraken)"
+    ],
+    [
+     "bergingsteam",
+     "salvage team"
+    ],
+    [
+     "voor de moeite",
+     "for your trouble"
+    ],
+    [
+     "Begeleid",
+     "escort (begeleiden)"
+    ],
+    [
+     "boorplaats",
+     "drill site"
+    ]
+   ]
+  },
+  "896": {
+   "t": "Het fortuin van een mijnwerker",
+   "d": "Ik ben havenmeester van een drukke haven als Ratchet. Dus ik houd de vinger aan de pols. Ik weet alles over de handel in goederen en geld tussen hier en Booty Bay.$b$bHet laatste nieuws gaat over de Boulder Lode Mine van de Venture Company, ten noordoosten van de Sludge Fen. Een van de mijnwerkers heeft een smaragd gevonden zo groot als je vuist. Ik ken een paar kopers die zoiets graag willen hebben. Ik wil de opbrengst wel met je delen, half om half.",
+   "o": "Haal het Cats Eye Emerald bij een van de Venture Co. Overseers of Enforcers voor Wharfmaster Dizzywig in Ratchet.",
+   "p": "Wisten we maar welke mijnwerker de smaragd heeft gevonden. Dan was het een makkie...",
+   "c": "Moet je zien hoe groot dat ding is, $n! We worden rijk! Eens kijken... Ik ken de prijzen voor edelstenen die naar Undermine gaan. Daarmee kan ik jouw deel uitrekenen. Vijftig procent, maak je geen zorgen!$b$bEens kijken... ik denk dat dit ongeveer klopt. Fijn om zaken met je te doen, $n.",
+   "g": [
+    [
+     "fortuin",
+     "fortune"
+    ],
+    [
+     "mijnwerker",
+     "miner"
+    ],
+    [
+     "havenmeester",
+     "wharfmaster, harbour master"
+    ],
+    [
+     "de vinger aan de pols",
+     "finger on the pulse"
+    ],
+    [
+     "handel",
+     "trade, exchange"
+    ],
+    [
+     "smaragd",
+     "emerald"
+    ],
+    [
+     "vuist",
+     "fist"
+    ],
+    [
+     "kopers",
+     "buyers (koper)"
+    ],
+    [
+     "opbrengst",
+     "proceeds"
+    ],
+    [
+     "half om half",
+     "half and half"
+    ],
+    [
+     "Wisten we maar",
+     "if only we knew"
+    ],
+    [
+     "makkie",
+     "walk in the park, piece of cake"
+    ],
+    [
+     "edelstenen",
+     "gems (edelsteen)"
+    ],
+    [
+     "uitrekenen",
+     "to work out, calculate"
+    ]
+   ]
+  },
+  "1069": {
+   "t": "Eieren van deepmoss-spinnen",
+   "d": "Omeletten van spinneneieren zijn een nieuwe rage in Booty Bay! Het probleem is... Booty Bay heeft geen eieren.$B$BIk ruik een kans!$B$BIn Windshear Crag en Sishir Canyon, in de Stonetalon Mountains in het noordwesten, leeft de deepmoss-spin. Breng me zijn eieren, dan betaal ik een flinke som!$B$BIn Windshear Crag liggen de eieren in groepjes onder de bomen die er nog staan.$B$BIn Sishir Canyon... nou, als je een zwakke maag hebt, kun je de eieren misschien beter alleen in Windshear Crag verzamelen...",
+   "o": "Breng 15 Deepmoss Eggs naar Mebok Mizzyrix in Ratchet.",
+   "p": "Heb je de eieren, $N? Ik heb al een verzendafspraak gemaakt met Wharfmaster Dizzywig!",
+   "c": "Je hebt ze! Bedankt!$B$BIk laat ze naar Dizzywig sturen, en hij verscheept ze naar Booty Bay. Ik proef de winst al!$B$BHier is jouw deel, $N. Zonder jou had ik deze deal niet kunnen sluiten.",
+   "g": [
+    [
+     "spinneneieren",
+     "spider eggs"
+    ],
+    [
+     "rage",
+     "fad, craze"
+    ],
+    [
+     "ruik",
+     "smell (ruiken)"
+    ],
+    [
+     "een flinke som",
+     "a bundle, a hefty sum"
+    ],
+    [
+     "groepjes",
+     "clusters, little groups (groep)"
+    ],
+    [
+     "een zwakke maag",
+     "a weak stomach"
+    ],
+    [
+     "verzamelen",
+     "to collect"
+    ],
+    [
+     "verzendafspraak",
+     "shipping deal"
+    ],
+    [
+     "verscheept",
+     "ships (verschepen)"
+    ],
+    [
+     "proef",
+     "taste (proeven)"
+    ],
+    [
+     "deel",
+     "cut, share"
+    ],
+    [
+     "sluiten",
+     "to close (a deal)"
+    ]
+   ]
+  },
+  "1483": {
+   "t": "Ziz Fizziks",
+   "d": "De Venture Company heeft veel van de beste goblinbreinen gestolen. Maar soms krijgen we de kans om er een paar terug te stelen.$b$bEen tijdje geleden nam de afdeling van de Venture Company in de Stonetalon Mountains Gerenzo Wrenchwhistle aan: een gnoom! Hun andere ingenieur, Ziz Fizziks, schrok daar zo van dat hij me smeekte om nieuw werk voor hem te zoeken bij de Tinkers' Union. Ik heb hem een paar klussen gegeven, maar misschien heeft hij hulp nodig.$b$bKun je voor mij even bij hem langsgaan? Hij zit aan de westkant van Windshear Crag.",
+   "o": "Praat met Ziz Fizziks in Windshear Crag.",
+   "c": "Ik dacht dat die bazen van de Venture Company slavendrijvers waren. Maar toen ontmoette ik Sputtervalve, de wreedste van allemaal!$b$bHa! Al is het beter dan geen baan, denk ik... Of erger: samenwerken met die Gerenzo. Als je hier bent om te helpen, heb ik iets voor je te doen.",
+   "g": [
+    [
+     "goblinbreinen",
+     "goblin minds (brein)"
+    ],
+    [
+     "afdeling",
+     "outfit, division"
+    ],
+    [
+     "nam aan",
+     "hired (aannemen)"
+    ],
+    [
+     "gnoom",
+     "gnome"
+    ],
+    [
+     "schrok",
+     "was taken aback (schrikken)"
+    ],
+    [
+     "smeekte",
+     "pleaded (smeken)"
+    ],
+    [
+     "klussen",
+     "tasks, jobs (klus)"
+    ],
+    [
+     "langsgaan",
+     "to look in on, drop by"
+    ],
+    [
+     "westkant",
+     "western edge"
+    ],
+    [
+     "bazen",
+     "bosses (baas)"
+    ],
+    [
+     "slavendrijvers",
+     "slave drivers (slavendrijver)"
+    ],
+    [
+     "wreedste",
+     "cruellest (wreed)"
+    ],
+    [
+     "samenwerken",
+     "to work together"
+    ]
+   ]
+  }
+ },
+ "words": {
+  "armbeweging": "arm movement",
+  "baby": "baby",
+  "daarachter": "behind it",
+  "deepmoss-spin": "deepmoss spider",
+  "deepmoss-spinnen": "deepmoss spiders (deepmoss-spin)",
+  "der": "of the (old form, in 'in de loop der jaren')",
+  "dichte": "dense (dicht)",
+  "geel": "yellow",
+  "knel": "pinch, bind (in de knel: in a bind)",
+  "lampjes": "little lights (lamp)",
+  "langste": "longest (lang)",
+  "mechanisch": "mechanical",
+  "monarchie": "monarchy",
+  "nul": "zero",
+  "omeletten": "omelettes (omelet)",
+  "ontmoette": "met (ontmoeten)",
+  "paneel": "panel",
+  "pols": "wrist, pulse",
+  "prent": "imprint (inprenten: commit to memory)",
+  "rechtsonder": "at the bottom right",
+  "sprong": "jumped (springen)",
+  "stabiliteit": "stability",
+  "vredesnaam": "in vredesnaam: what on earth",
+  "warlock": "warlock (a magic user who works with demons)",
+  "zekerheid": "certainty (voor de zekerheid: to be sure)",
+  "zing": "sing (zingen)",
+  "scorched": "scorched (English name: Scorched Guardian Dragon)",
+  "dragons": "dragons (English name)",
+  "thaumaturgy": "thaumaturgy, magic-working (English item name)",
+  "vessels": "vessels (English item name)"
+ },
+ "terms": {
+  "shredder": "shredder: a large walking goblin logging machine with saw blades, from the Warcraft world"
+ }
+}
