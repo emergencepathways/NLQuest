@@ -1,0 +1,2085 @@
+{
+ "quests": {
+  "5156": {
+   "t": "De verdorvenheid nagaan",
+   "d": "In het noorden, ten oosten van de weg, ligt Shatter Scar Vale. Daar werden tijdens de laatste grote oorlog infernals naar beneden geroepen. De kraters zijn nog steeds een litteken in het land, net als de infernals zelf.$B$BIk ben benieuwd naar twee dingen. Ten eerste: zwerven er nog steeds entropische elementalen door het gebied? En ten tweede: staan de kraters nog vol met het verdorven, stinkende water dat zich daar jaren geleden heeft verzameld? Wil je me helpen en het gaan bekijken, $N? Wees wel voorzichtig, want de infernals vernietigen alles op hun pad.",
+   "o": "Zoek en vernietig 2 Entropic Beasts en 2 Entropic Horrors terwijl je Shatter Scar Vale verkent. Kijk of de kraters daar nog vol verdorven felwater staan en keer dan terug naar Taronn Redfeather in Felwood.",
+   "p": "Ik hoop dat je zoektocht goed gaat, $N. Zelf ben ik nog niet zo ver naar het noorden gegaan, maar ik geef toe: het idee dat ik ergens een infernal tegenkom, maakt me een beetje bang. Die wezens hebben geen hersens, maar ze zijn toch behoorlijk angstaanjagend.",
+   "c": "Goed dat je nog leeft, $N. Jammer dat het water er nog is. Ik hoopte hier in Felwood minstens één zuivere waterbron te vinden. Het lijkt erop dat mijn zoektocht mislukt is. Met zo'n bron was het genezen van het land veel makkelijker geweest.$B$BNu moet ik me bezighouden met het redden van de bosdieren die ik kan redden. Tegelijk moet ik de dieren vernietigen die zo verdorven zijn geworden dat ze een gevaar vormen voor zichzelf en voor reizigers door dit ooit zo machtige bos.",
+   "e": "Verken de kraters in Shatter Scar Vale",
+   "g": [
+    [
+     "verdorvenheid",
+     "corruption"
+    ],
+    [
+     "litteken",
+     "scar"
+    ],
+    [
+     "ben benieuwd",
+     "am curious (benieuwd zijn)"
+    ],
+    [
+     "zwerven",
+     "roam, wander"
+    ],
+    [
+     "entropische",
+     "entropic"
+    ],
+    [
+     "stinkende",
+     "fetid, stinking"
+    ],
+    [
+     "verzameld",
+     "gathered (verzamelen)"
+    ],
+    [
+     "vernietigen",
+     "destroy"
+    ],
+    [
+     "geef toe",
+     "admit (toegeven)"
+    ],
+    [
+     "angstaanjagend",
+     "frightening, intimidating"
+    ],
+    [
+     "zuivere",
+     "pure (zuiver)"
+    ],
+    [
+     "mislukt",
+     "failed (mislukken)"
+    ],
+    [
+     "bezighouden",
+     "occupy oneself, concern oneself"
+    ],
+    [
+     "vormen",
+     "form, pose (a danger)"
+    ],
+    [
+     "machtige",
+     "mighty (machtig)"
+    ]
+   ]
+  },
+  "5159": {
+   "t": "Gezuiverd water keert terug naar Felwood",
+   "d": "Dank de geesten, $N. Zij zijn je te hulp gekomen, niet ik.$B$BIk geef je nu dit gezuiverde water. Doe Greta de groeten van me en geef haar mijn beste wensen. Ze pakt iets aan dat groter is dan velen van ons... zoals ze vast snel zal merken.$B$BMet de Shadow Council valt niet te spotten, $N. Onthoud dat.$B$BGa nu. Neem het water en ga terug naar Greta.",
+   "o": "Breng het Purified Moon Well Water naar Greta Mosshoof in Felwood.",
+   "p": "Ah, ik zie dat je terug bent, $N. Mooi. Heb je Islen gevonden in de Barrens? Of moeten we een andere manier vinden om onze doelen te bereiken?",
+   "c": "Dit water is meer dan genoeg voor wat we nodig hebben.$B$BIk ben blij te horen dat Islen ons kon helpen. Haar kracht bij de watergeesten is altijd groot geweest. Ze is ook wijs, en het gebeurt zelden dat de geesten het niet met haar doel eens zijn. Dat ze allebei onze taak hebben gezegend, geeft me hoop dat we op de goede weg zijn.",
+   "g": [
+    [
+     "gezuiverd",
+     "purified (zuiveren)"
+    ],
+    [
+     "te hulp gekomen",
+     "came to the aid (te hulp komen)"
+    ],
+    [
+     "doe Greta de groeten",
+     "give Greta my regards"
+    ],
+    [
+     "pakt aan",
+     "tackles (aanpakken)"
+    ],
+    [
+     "valt niet te spotten",
+     "is not to be trifled with"
+    ],
+    [
+     "onthoud",
+     "remember (onthouden)"
+    ],
+    [
+     "bereiken",
+     "reach, accomplish"
+    ],
+    [
+     "watergeesten",
+     "water spirits"
+    ],
+    [
+     "wijs",
+     "wise"
+    ],
+    [
+     "zelden",
+     "rarely"
+    ],
+    [
+     "gezegend",
+     "blessed (zegenen)"
+    ]
+   ]
+  },
+  "996": {
+   "t": "Verdorven Windblossom",
+   "p": "Je hebt een zieke, verdorven versie gevonden van wat een Windblossom-plant lijkt te zijn. De bessen aan de plant zien er rot en giftig uit. De plant heeft dringend zorg nodig als hij weer normaal moet worden.",
+   "c": "Je smeert twee Cenarion Plant Salves op de Windblossom. Meteen begint de plant zijn verdorven vorm af te werpen. Hij bloeit op tot een levendige, gezonde plant.",
+   "g": [
+    [
+     "verdorven",
+     "corrupted"
+    ],
+    [
+     "versie",
+     "version"
+    ],
+    [
+     "bessen",
+     "berries (bes)"
+    ],
+    [
+     "giftig",
+     "poisonous"
+    ],
+    [
+     "dringend",
+     "urgently"
+    ],
+    [
+     "zorg",
+     "care, attention"
+    ],
+    [
+     "smeert",
+     "apply, spread (smeren)"
+    ],
+    [
+     "af te werpen",
+     "to shed (afwerpen)"
+    ],
+    [
+     "bloeit op",
+     "blossoms (opbloeien)"
+    ],
+    [
+     "levendige",
+     "vibrant (levendig)"
+    ]
+   ]
+  },
+  "998": {
+   "t": "Verdorven Windblossom",
+   "p": "Je hebt een zieke, verdorven versie gevonden van wat een Windblossom-plant lijkt te zijn. De bessen aan de plant zien er rot en giftig uit. De plant heeft dringend zorg nodig als hij weer normaal moet worden.",
+   "c": "Je smeert twee Cenarion Plant Salves op de Windblossom. Meteen begint de plant zijn verdorven vorm af te werpen. Hij bloeit op tot een levendige, gezonde plant.",
+   "g": [
+    [
+     "verdorven",
+     "corrupted"
+    ],
+    [
+     "versie",
+     "version"
+    ],
+    [
+     "bessen",
+     "berries (bes)"
+    ],
+    [
+     "giftig",
+     "poisonous"
+    ],
+    [
+     "dringend",
+     "urgently"
+    ],
+    [
+     "zorg",
+     "care, attention"
+    ],
+    [
+     "smeert",
+     "apply, spread (smeren)"
+    ],
+    [
+     "af te werpen",
+     "to shed (afwerpen)"
+    ],
+    [
+     "bloeit op",
+     "blossoms (opbloeien)"
+    ],
+    [
+     "levendige",
+     "vibrant (levendig)"
+    ]
+   ]
+  },
+  "1514": {
+   "t": "Verdorven Windblossom",
+   "p": "Je hebt een zieke, verdorven versie gevonden van wat een Windblossom-plant lijkt te zijn. De bessen aan de plant zien er rot en giftig uit. De plant heeft dringend zorg nodig als hij weer normaal moet worden.",
+   "c": "Je smeert twee Cenarion Plant Salves op de Windblossom. Meteen begint de plant zijn verdorven vorm af te werpen. Hij bloeit op tot een levendige, gezonde plant.",
+   "g": [
+    [
+     "verdorven",
+     "corrupted"
+    ],
+    [
+     "versie",
+     "version"
+    ],
+    [
+     "bessen",
+     "berries (bes)"
+    ],
+    [
+     "giftig",
+     "poisonous"
+    ],
+    [
+     "dringend",
+     "urgently"
+    ],
+    [
+     "zorg",
+     "care, attention"
+    ],
+    [
+     "smeert",
+     "apply, spread (smeren)"
+    ],
+    [
+     "af te werpen",
+     "to shed (afwerpen)"
+    ],
+    [
+     "bloeit op",
+     "blossoms (opbloeien)"
+    ],
+    [
+     "levendige",
+     "vibrant (levendig)"
+    ]
+   ]
+  },
+  "4115": {
+   "t": "Verdorven Windblossom",
+   "p": "Je hebt een zieke, verdorven versie gevonden van wat een Windblossom-plant lijkt te zijn. De bessen aan de plant zien er rot en giftig uit. De plant heeft dringend zorg nodig als hij weer normaal moet worden.",
+   "c": "Je smeert twee Cenarion Plant Salves op de Windblossom. Meteen begint de plant zijn verdorven vorm af te werpen. Hij bloeit op tot een levendige, gezonde plant.",
+   "g": [
+    [
+     "verdorven",
+     "corrupted"
+    ],
+    [
+     "versie",
+     "version"
+    ],
+    [
+     "bessen",
+     "berries (bes)"
+    ],
+    [
+     "giftig",
+     "poisonous"
+    ],
+    [
+     "dringend",
+     "urgently"
+    ],
+    [
+     "zorg",
+     "care, attention"
+    ],
+    [
+     "smeert",
+     "apply, spread (smeren)"
+    ],
+    [
+     "af te werpen",
+     "to shed (afwerpen)"
+    ],
+    [
+     "bloeit op",
+     "blossoms (opbloeien)"
+    ],
+    [
+     "levendige",
+     "vibrant (levendig)"
+    ]
+   ]
+  },
+  "4221": {
+   "t": "Verdorven Windblossom",
+   "p": "Je hebt een zieke, verdorven versie gevonden van wat een Windblossom-plant lijkt te zijn. De bessen aan de plant zien er rot en giftig uit. De plant heeft dringend zorg nodig als hij weer normaal moet worden.",
+   "c": "Je smeert twee Cenarion Plant Salves op de Windblossom. Meteen begint de plant zijn verdorven vorm af te werpen. Hij bloeit op tot een levendige, gezonde plant.",
+   "g": [
+    [
+     "verdorven",
+     "corrupted"
+    ],
+    [
+     "versie",
+     "version"
+    ],
+    [
+     "bessen",
+     "berries (bes)"
+    ],
+    [
+     "giftig",
+     "poisonous"
+    ],
+    [
+     "dringend",
+     "urgently"
+    ],
+    [
+     "zorg",
+     "care, attention"
+    ],
+    [
+     "smeert",
+     "apply, spread (smeren)"
+    ],
+    [
+     "af te werpen",
+     "to shed (afwerpen)"
+    ],
+    [
+     "bloeit op",
+     "blossoms (opbloeien)"
+    ],
+    [
+     "levendige",
+     "vibrant (levendig)"
+    ]
+   ]
+  },
+  "4222": {
+   "t": "Verdorven Windblossom",
+   "p": "Je hebt een zieke, verdorven versie gevonden van wat een Windblossom-plant lijkt te zijn. De bessen aan de plant zien er rot en giftig uit. De plant heeft dringend zorg nodig als hij weer normaal moet worden.",
+   "c": "Je smeert twee Cenarion Plant Salves op de Windblossom. Meteen begint de plant zijn verdorven vorm af te werpen. Hij bloeit op tot een levendige, gezonde plant.",
+   "g": [
+    [
+     "verdorven",
+     "corrupted"
+    ],
+    [
+     "versie",
+     "version"
+    ],
+    [
+     "bessen",
+     "berries (bes)"
+    ],
+    [
+     "giftig",
+     "poisonous"
+    ],
+    [
+     "dringend",
+     "urgently"
+    ],
+    [
+     "zorg",
+     "care, attention"
+    ],
+    [
+     "smeert",
+     "apply, spread (smeren)"
+    ],
+    [
+     "af te werpen",
+     "to shed (afwerpen)"
+    ],
+    [
+     "bloeit op",
+     "blossoms (opbloeien)"
+    ],
+    [
+     "levendige",
+     "vibrant (levendig)"
+    ]
+   ]
+  },
+  "4343": {
+   "t": "Verdorven Windblossom",
+   "p": "Je hebt een zieke, verdorven versie gevonden van wat een Windblossom-plant lijkt te zijn. De bessen aan de plant zien er rot en giftig uit. De plant heeft dringend zorg nodig als hij weer normaal moet worden.",
+   "c": "Je smeert twee Cenarion Plant Salves op de Windblossom. Meteen begint de plant zijn verdorven vorm af te werpen. Hij bloeit op tot een levendige, gezonde plant.",
+   "g": [
+    [
+     "verdorven",
+     "corrupted"
+    ],
+    [
+     "versie",
+     "version"
+    ],
+    [
+     "bessen",
+     "berries (bes)"
+    ],
+    [
+     "giftig",
+     "poisonous"
+    ],
+    [
+     "dringend",
+     "urgently"
+    ],
+    [
+     "zorg",
+     "care, attention"
+    ],
+    [
+     "smeert",
+     "apply, spread (smeren)"
+    ],
+    [
+     "af te werpen",
+     "to shed (afwerpen)"
+    ],
+    [
+     "bloeit op",
+     "blossoms (opbloeien)"
+    ],
+    [
+     "levendige",
+     "vibrant (levendig)"
+    ]
+   ]
+  },
+  "4403": {
+   "t": "Verdorven Windblossom",
+   "p": "Je hebt een zieke, verdorven versie gevonden van wat een Windblossom-plant lijkt te zijn. De bessen aan de plant zien er rot en giftig uit. De plant heeft dringend zorg nodig als hij weer normaal moet worden.",
+   "c": "Je smeert twee Cenarion Plant Salves op de Windblossom. Meteen begint de plant zijn verdorven vorm af te werpen. Hij bloeit op tot een levendige, gezonde plant.",
+   "g": [
+    [
+     "verdorven",
+     "corrupted"
+    ],
+    [
+     "versie",
+     "version"
+    ],
+    [
+     "bessen",
+     "berries (bes)"
+    ],
+    [
+     "giftig",
+     "poisonous"
+    ],
+    [
+     "dringend",
+     "urgently"
+    ],
+    [
+     "zorg",
+     "care, attention"
+    ],
+    [
+     "smeert",
+     "apply, spread (smeren)"
+    ],
+    [
+     "af te werpen",
+     "to shed (afwerpen)"
+    ],
+    [
+     "bloeit op",
+     "blossoms (opbloeien)"
+    ],
+    [
+     "levendige",
+     "vibrant (levendig)"
+    ]
+   ]
+  },
+  "4466": {
+   "t": "Verdorven Windblossom",
+   "p": "Je hebt een zieke, verdorven versie gevonden van wat een Windblossom-plant lijkt te zijn. De bessen aan de plant zien er rot en giftig uit. De plant heeft dringend zorg nodig als hij weer normaal moet worden.",
+   "c": "Je smeert twee Cenarion Plant Salves op de Windblossom. Meteen begint de plant zijn verdorven vorm af te werpen. Hij bloeit op tot een levendige, gezonde plant.",
+   "g": [
+    [
+     "verdorven",
+     "corrupted"
+    ],
+    [
+     "versie",
+     "version"
+    ],
+    [
+     "bessen",
+     "berries (bes)"
+    ],
+    [
+     "giftig",
+     "poisonous"
+    ],
+    [
+     "dringend",
+     "urgently"
+    ],
+    [
+     "zorg",
+     "care, attention"
+    ],
+    [
+     "smeert",
+     "apply, spread (smeren)"
+    ],
+    [
+     "af te werpen",
+     "to shed (afwerpen)"
+    ],
+    [
+     "bloeit op",
+     "blossoms (opbloeien)"
+    ],
+    [
+     "levendige",
+     "vibrant (levendig)"
+    ]
+   ]
+  },
+  "4467": {
+   "t": "Verdorven Windblossom",
+   "p": "Je hebt een zieke, verdorven versie gevonden van wat een Windblossom-plant lijkt te zijn. De bessen aan de plant zien er rot en giftig uit. De plant heeft dringend zorg nodig als hij weer normaal moet worden.",
+   "c": "Je smeert twee Cenarion Plant Salves op de Windblossom. Meteen begint de plant zijn verdorven vorm af te werpen. Hij bloeit op tot een levendige, gezonde plant.",
+   "g": [
+    [
+     "verdorven",
+     "corrupted"
+    ],
+    [
+     "versie",
+     "version"
+    ],
+    [
+     "bessen",
+     "berries (bes)"
+    ],
+    [
+     "giftig",
+     "poisonous"
+    ],
+    [
+     "dringend",
+     "urgently"
+    ],
+    [
+     "zorg",
+     "care, attention"
+    ],
+    [
+     "smeert",
+     "apply, spread (smeren)"
+    ],
+    [
+     "af te werpen",
+     "to shed (afwerpen)"
+    ],
+    [
+     "bloeit op",
+     "blossoms (opbloeien)"
+    ],
+    [
+     "levendige",
+     "vibrant (levendig)"
+    ]
+   ]
+  },
+  "2523": {
+   "t": "Verdorven Songflower",
+   "p": "Je hebt een zieke, verdorven versie gevonden van wat een Songflower-plant lijkt te zijn. Er komt een scherpe, ongezonde geur van de plant. De plant heeft dringend zorg nodig als hij weer normaal moet worden.",
+   "c": "Je smeert wat Cenarion Plant Salve op de Songflower. Meteen begint de plant zijn verdorven vorm af te werpen. Hij bloeit op tot een levendige, gezonde plant.",
+   "g": [
+    [
+     "verdorven",
+     "corrupted"
+    ],
+    [
+     "versie",
+     "version"
+    ],
+    [
+     "scherpe",
+     "sharp, pungent (scherp)"
+    ],
+    [
+     "geur",
+     "smell, odour"
+    ],
+    [
+     "dringend",
+     "urgently"
+    ],
+    [
+     "zorg",
+     "care, attention"
+    ],
+    [
+     "smeert",
+     "apply, spread (smeren)"
+    ],
+    [
+     "af te werpen",
+     "to shed (afwerpen)"
+    ],
+    [
+     "bloeit op",
+     "blossoms (opbloeien)"
+    ],
+    [
+     "levendige",
+     "vibrant (levendig)"
+    ]
+   ]
+  },
+  "3363": {
+   "t": "Verdorven Songflower",
+   "p": "Je hebt een zieke, verdorven versie gevonden van wat een Songflower-plant lijkt te zijn. Er komt een scherpe, ongezonde geur van de plant. De plant heeft dringend zorg nodig als hij weer normaal moet worden.",
+   "c": "Je smeert wat Cenarion Plant Salve op de Songflower. Meteen begint de plant zijn verdorven vorm af te werpen. Hij bloeit op tot een levendige, gezonde plant.",
+   "g": [
+    [
+     "verdorven",
+     "corrupted"
+    ],
+    [
+     "versie",
+     "version"
+    ],
+    [
+     "scherpe",
+     "sharp, pungent (scherp)"
+    ],
+    [
+     "geur",
+     "smell, odour"
+    ],
+    [
+     "dringend",
+     "urgently"
+    ],
+    [
+     "zorg",
+     "care, attention"
+    ],
+    [
+     "smeert",
+     "apply, spread (smeren)"
+    ],
+    [
+     "af te werpen",
+     "to shed (afwerpen)"
+    ],
+    [
+     "bloeit op",
+     "blossoms (opbloeien)"
+    ],
+    [
+     "levendige",
+     "vibrant (levendig)"
+    ]
+   ]
+  },
+  "4113": {
+   "t": "Verdorven Songflower",
+   "p": "Je hebt een zieke, verdorven versie gevonden van wat een Songflower-plant lijkt te zijn. Er komt een scherpe, ongezonde geur van de plant. De plant heeft dringend zorg nodig als hij weer normaal moet worden.",
+   "c": "Je smeert wat Cenarion Plant Salve op de Songflower. Meteen begint de plant zijn verdorven vorm af te werpen. Hij bloeit op tot een levendige, gezonde plant.",
+   "g": [
+    [
+     "verdorven",
+     "corrupted"
+    ],
+    [
+     "versie",
+     "version"
+    ],
+    [
+     "scherpe",
+     "sharp, pungent (scherp)"
+    ],
+    [
+     "geur",
+     "smell, odour"
+    ],
+    [
+     "dringend",
+     "urgently"
+    ],
+    [
+     "zorg",
+     "care, attention"
+    ],
+    [
+     "smeert",
+     "apply, spread (smeren)"
+    ],
+    [
+     "af te werpen",
+     "to shed (afwerpen)"
+    ],
+    [
+     "bloeit op",
+     "blossoms (opbloeien)"
+    ],
+    [
+     "levendige",
+     "vibrant (levendig)"
+    ]
+   ]
+  },
+  "4114": {
+   "t": "Verdorven Songflower",
+   "p": "Je hebt een zieke, verdorven versie gevonden van wat een Songflower-plant lijkt te zijn. Er komt een scherpe, ongezonde geur van de plant. De plant heeft dringend zorg nodig als hij weer normaal moet worden.",
+   "c": "Je smeert wat Cenarion Plant Salve op de Songflower. Meteen begint de plant zijn verdorven vorm af te werpen. Hij bloeit op tot een levendige, gezonde plant.",
+   "g": [
+    [
+     "verdorven",
+     "corrupted"
+    ],
+    [
+     "versie",
+     "version"
+    ],
+    [
+     "scherpe",
+     "sharp, pungent (scherp)"
+    ],
+    [
+     "geur",
+     "smell, odour"
+    ],
+    [
+     "dringend",
+     "urgently"
+    ],
+    [
+     "zorg",
+     "care, attention"
+    ],
+    [
+     "smeert",
+     "apply, spread (smeren)"
+    ],
+    [
+     "af te werpen",
+     "to shed (afwerpen)"
+    ],
+    [
+     "bloeit op",
+     "blossoms (opbloeien)"
+    ],
+    [
+     "levendige",
+     "vibrant (levendig)"
+    ]
+   ]
+  },
+  "4116": {
+   "t": "Verdorven Songflower",
+   "p": "Je hebt een zieke, verdorven versie gevonden van wat een Songflower-plant lijkt te zijn. Er komt een scherpe, ongezonde geur van de plant. De plant heeft dringend zorg nodig als hij weer normaal moet worden.",
+   "c": "Je smeert wat Cenarion Plant Salve op de Songflower. Meteen begint de plant zijn verdorven vorm af te werpen. Hij bloeit op tot een levendige, gezonde plant.",
+   "g": [
+    [
+     "verdorven",
+     "corrupted"
+    ],
+    [
+     "versie",
+     "version"
+    ],
+    [
+     "scherpe",
+     "sharp, pungent (scherp)"
+    ],
+    [
+     "geur",
+     "smell, odour"
+    ],
+    [
+     "dringend",
+     "urgently"
+    ],
+    [
+     "zorg",
+     "care, attention"
+    ],
+    [
+     "smeert",
+     "apply, spread (smeren)"
+    ],
+    [
+     "af te werpen",
+     "to shed (afwerpen)"
+    ],
+    [
+     "bloeit op",
+     "blossoms (opbloeien)"
+    ],
+    [
+     "levendige",
+     "vibrant (levendig)"
+    ]
+   ]
+  },
+  "4118": {
+   "t": "Verdorven Songflower",
+   "p": "Je hebt een zieke, verdorven versie gevonden van wat een Songflower-plant lijkt te zijn. Er komt een scherpe, ongezonde geur van de plant. De plant heeft dringend zorg nodig als hij weer normaal moet worden.",
+   "c": "Je smeert wat Cenarion Plant Salve op de Songflower. Meteen begint de plant zijn verdorven vorm af te werpen. Hij bloeit op tot een levendige, gezonde plant.",
+   "g": [
+    [
+     "verdorven",
+     "corrupted"
+    ],
+    [
+     "versie",
+     "version"
+    ],
+    [
+     "scherpe",
+     "sharp, pungent (scherp)"
+    ],
+    [
+     "geur",
+     "smell, odour"
+    ],
+    [
+     "dringend",
+     "urgently"
+    ],
+    [
+     "zorg",
+     "care, attention"
+    ],
+    [
+     "smeert",
+     "apply, spread (smeren)"
+    ],
+    [
+     "af te werpen",
+     "to shed (afwerpen)"
+    ],
+    [
+     "bloeit op",
+     "blossoms (opbloeien)"
+    ],
+    [
+     "levendige",
+     "vibrant (levendig)"
+    ]
+   ]
+  },
+  "4401": {
+   "t": "Verdorven Songflower",
+   "p": "Je hebt een zieke, verdorven versie gevonden van wat een Songflower-plant lijkt te zijn. Er komt een scherpe, ongezonde geur van de plant. De plant heeft dringend zorg nodig als hij weer normaal moet worden.",
+   "c": "Je smeert wat Cenarion Plant Salve op de Songflower. Meteen begint de plant zijn verdorven vorm af te werpen. Hij bloeit op tot een levendige, gezonde plant.",
+   "g": [
+    [
+     "verdorven",
+     "corrupted"
+    ],
+    [
+     "versie",
+     "version"
+    ],
+    [
+     "scherpe",
+     "sharp, pungent (scherp)"
+    ],
+    [
+     "geur",
+     "smell, odour"
+    ],
+    [
+     "dringend",
+     "urgently"
+    ],
+    [
+     "zorg",
+     "care, attention"
+    ],
+    [
+     "smeert",
+     "apply, spread (smeren)"
+    ],
+    [
+     "af te werpen",
+     "to shed (afwerpen)"
+    ],
+    [
+     "bloeit op",
+     "blossoms (opbloeien)"
+    ],
+    [
+     "levendige",
+     "vibrant (levendig)"
+    ]
+   ]
+  },
+  "4464": {
+   "t": "Verdorven Songflower",
+   "p": "Je hebt een zieke, verdorven versie gevonden van wat een Songflower-plant lijkt te zijn. Er komt een scherpe, ongezonde geur van de plant. De plant heeft dringend zorg nodig als hij weer normaal moet worden.",
+   "c": "Je smeert wat Cenarion Plant Salve op de Songflower. Meteen begint de plant zijn verdorven vorm af te werpen. Hij bloeit op tot een levendige, gezonde plant.",
+   "g": [
+    [
+     "verdorven",
+     "corrupted"
+    ],
+    [
+     "versie",
+     "version"
+    ],
+    [
+     "scherpe",
+     "sharp, pungent (scherp)"
+    ],
+    [
+     "geur",
+     "smell, odour"
+    ],
+    [
+     "dringend",
+     "urgently"
+    ],
+    [
+     "zorg",
+     "care, attention"
+    ],
+    [
+     "smeert",
+     "apply, spread (smeren)"
+    ],
+    [
+     "af te werpen",
+     "to shed (afwerpen)"
+    ],
+    [
+     "bloeit op",
+     "blossoms (opbloeien)"
+    ],
+    [
+     "levendige",
+     "vibrant (levendig)"
+    ]
+   ]
+  },
+  "4465": {
+   "t": "Verdorven Songflower",
+   "p": "Je hebt een zieke, verdorven versie gevonden van wat een Songflower-plant lijkt te zijn. Er komt een scherpe, ongezonde geur van de plant. De plant heeft dringend zorg nodig als hij weer normaal moet worden.",
+   "c": "Je smeert wat Cenarion Plant Salve op de Songflower. Meteen begint de plant zijn verdorven vorm af te werpen. Hij bloeit op tot een levendige, gezonde plant.",
+   "g": [
+    [
+     "verdorven",
+     "corrupted"
+    ],
+    [
+     "versie",
+     "version"
+    ],
+    [
+     "scherpe",
+     "sharp, pungent (scherp)"
+    ],
+    [
+     "geur",
+     "smell, odour"
+    ],
+    [
+     "dringend",
+     "urgently"
+    ],
+    [
+     "zorg",
+     "care, attention"
+    ],
+    [
+     "smeert",
+     "apply, spread (smeren)"
+    ],
+    [
+     "af te werpen",
+     "to shed (afwerpen)"
+    ],
+    [
+     "bloeit op",
+     "blossoms (opbloeien)"
+    ],
+    [
+     "levendige",
+     "vibrant (levendig)"
+    ]
+   ]
+  },
+  "4117": {
+   "t": "Verdorven Whipper Root",
+   "p": "Je hebt een zieke, verdorven versie gevonden van wat een Whipper Root-plant lijkt te zijn. De zichtbare wortels van de plant zien er taai en leerachtig uit, en er hangt een slijmerig laagje aan de plant. De plant heeft dringend zorg nodig als hij weer normaal moet worden.",
+   "c": "Je smeert 3 Cenarion Plant Salves op de Whipper Root. Meteen begint de plant zijn verdorven vorm af te werpen. Hij bloeit op tot een levendige, gezonde plant.",
+   "g": [
+    [
+     "verdorven",
+     "corrupted"
+    ],
+    [
+     "zichtbare",
+     "visible (zichtbaar)"
+    ],
+    [
+     "wortels",
+     "roots (wortel)"
+    ],
+    [
+     "taai",
+     "tough"
+    ],
+    [
+     "leerachtig",
+     "leathery"
+    ],
+    [
+     "slijmerig",
+     "slimy"
+    ],
+    [
+     "laagje",
+     "thin layer, film"
+    ],
+    [
+     "dringend",
+     "urgently"
+    ],
+    [
+     "smeert",
+     "apply, spread (smeren)"
+    ],
+    [
+     "af te werpen",
+     "to shed (afwerpen)"
+    ],
+    [
+     "levendige",
+     "vibrant (levendig)"
+    ]
+   ]
+  },
+  "4443": {
+   "t": "Verdorven Whipper Root",
+   "p": "Je hebt een zieke, verdorven versie gevonden van wat een Whipper Root-plant lijkt te zijn. De zichtbare wortels van de plant zien er taai en leerachtig uit, en er hangt een slijmerig laagje aan de plant. De plant heeft dringend zorg nodig als hij weer normaal moet worden.",
+   "c": "Je smeert 3 Cenarion Plant Salves op de Whipper Root. Meteen begint de plant zijn verdorven vorm af te werpen. Hij bloeit op tot een levendige, gezonde plant.",
+   "g": [
+    [
+     "verdorven",
+     "corrupted"
+    ],
+    [
+     "zichtbare",
+     "visible (zichtbaar)"
+    ],
+    [
+     "wortels",
+     "roots (wortel)"
+    ],
+    [
+     "taai",
+     "tough"
+    ],
+    [
+     "leerachtig",
+     "leathery"
+    ],
+    [
+     "slijmerig",
+     "slimy"
+    ],
+    [
+     "laagje",
+     "thin layer, film"
+    ],
+    [
+     "dringend",
+     "urgently"
+    ],
+    [
+     "smeert",
+     "apply, spread (smeren)"
+    ],
+    [
+     "af te werpen",
+     "to shed (afwerpen)"
+    ],
+    [
+     "levendige",
+     "vibrant (levendig)"
+    ]
+   ]
+  },
+  "4444": {
+   "t": "Verdorven Whipper Root",
+   "p": "Je hebt een zieke, verdorven versie gevonden van wat een Whipper Root-plant lijkt te zijn. De zichtbare wortels van de plant zien er taai en leerachtig uit, en er hangt een slijmerig laagje aan de plant. De plant heeft dringend zorg nodig als hij weer normaal moet worden.",
+   "c": "Je smeert 3 Cenarion Plant Salves op de Whipper Root. Meteen begint de plant zijn verdorven vorm af te werpen. Hij bloeit op tot een levendige, gezonde plant.",
+   "g": [
+    [
+     "verdorven",
+     "corrupted"
+    ],
+    [
+     "zichtbare",
+     "visible (zichtbaar)"
+    ],
+    [
+     "wortels",
+     "roots (wortel)"
+    ],
+    [
+     "taai",
+     "tough"
+    ],
+    [
+     "leerachtig",
+     "leathery"
+    ],
+    [
+     "slijmerig",
+     "slimy"
+    ],
+    [
+     "laagje",
+     "thin layer, film"
+    ],
+    [
+     "dringend",
+     "urgently"
+    ],
+    [
+     "smeert",
+     "apply, spread (smeren)"
+    ],
+    [
+     "af te werpen",
+     "to shed (afwerpen)"
+    ],
+    [
+     "levendige",
+     "vibrant (levendig)"
+    ]
+   ]
+  },
+  "4445": {
+   "t": "Verdorven Whipper Root",
+   "p": "Je hebt een zieke, verdorven versie gevonden van wat een Whipper Root-plant lijkt te zijn. De zichtbare wortels van de plant zien er taai en leerachtig uit, en er hangt een slijmerig laagje aan de plant. De plant heeft dringend zorg nodig als hij weer normaal moet worden.",
+   "c": "Je smeert 3 Cenarion Plant Salves op de Whipper Root. Meteen begint de plant zijn verdorven vorm af te werpen. Hij bloeit op tot een levendige, gezonde plant.",
+   "g": [
+    [
+     "verdorven",
+     "corrupted"
+    ],
+    [
+     "zichtbare",
+     "visible (zichtbaar)"
+    ],
+    [
+     "wortels",
+     "roots (wortel)"
+    ],
+    [
+     "taai",
+     "tough"
+    ],
+    [
+     "leerachtig",
+     "leathery"
+    ],
+    [
+     "slijmerig",
+     "slimy"
+    ],
+    [
+     "laagje",
+     "thin layer, film"
+    ],
+    [
+     "dringend",
+     "urgently"
+    ],
+    [
+     "smeert",
+     "apply, spread (smeren)"
+    ],
+    [
+     "af te werpen",
+     "to shed (afwerpen)"
+    ],
+    [
+     "levendige",
+     "vibrant (levendig)"
+    ]
+   ]
+  },
+  "4446": {
+   "t": "Verdorven Whipper Root",
+   "p": "Je hebt een zieke, verdorven versie gevonden van wat een Whipper Root-plant lijkt te zijn. De zichtbare wortels van de plant zien er taai en leerachtig uit, en er hangt een slijmerig laagje aan de plant. De plant heeft dringend zorg nodig als hij weer normaal moet worden.",
+   "c": "Je smeert 3 Cenarion Plant Salves op de Whipper Root. Meteen begint de plant zijn verdorven vorm af te werpen. Hij bloeit op tot een levendige, gezonde plant.",
+   "g": [
+    [
+     "verdorven",
+     "corrupted"
+    ],
+    [
+     "zichtbare",
+     "visible (zichtbaar)"
+    ],
+    [
+     "wortels",
+     "roots (wortel)"
+    ],
+    [
+     "taai",
+     "tough"
+    ],
+    [
+     "leerachtig",
+     "leathery"
+    ],
+    [
+     "slijmerig",
+     "slimy"
+    ],
+    [
+     "laagje",
+     "thin layer, film"
+    ],
+    [
+     "dringend",
+     "urgently"
+    ],
+    [
+     "smeert",
+     "apply, spread (smeren)"
+    ],
+    [
+     "af te werpen",
+     "to shed (afwerpen)"
+    ],
+    [
+     "levendige",
+     "vibrant (levendig)"
+    ]
+   ]
+  },
+  "4461": {
+   "t": "Verdorven Whipper Root",
+   "p": "Je hebt een zieke, verdorven versie gevonden van wat een Whipper Root-plant lijkt te zijn. De zichtbare wortels van de plant zien er taai en leerachtig uit, en er hangt een slijmerig laagje aan de plant. De plant heeft dringend zorg nodig als hij weer normaal moet worden.",
+   "c": "Je smeert 3 Cenarion Plant Salves op de Whipper Root. Meteen begint de plant zijn verdorven vorm af te werpen. Hij bloeit op tot een levendige, gezonde plant.",
+   "g": [
+    [
+     "verdorven",
+     "corrupted"
+    ],
+    [
+     "zichtbare",
+     "visible (zichtbaar)"
+    ],
+    [
+     "wortels",
+     "roots (wortel)"
+    ],
+    [
+     "taai",
+     "tough"
+    ],
+    [
+     "leerachtig",
+     "leathery"
+    ],
+    [
+     "slijmerig",
+     "slimy"
+    ],
+    [
+     "laagje",
+     "thin layer, film"
+    ],
+    [
+     "dringend",
+     "urgently"
+    ],
+    [
+     "smeert",
+     "apply, spread (smeren)"
+    ],
+    [
+     "af te werpen",
+     "to shed (afwerpen)"
+    ],
+    [
+     "levendige",
+     "vibrant (levendig)"
+    ]
+   ]
+  },
+  "4119": {
+   "t": "Verdorven Night Dragon",
+   "p": "Je hebt een zieke, verdorven versie gevonden van wat een Night Dragon-plant lijkt te zijn. De vruchten aan de plant zien er rot en giftig uit. De plant heeft dringend zorg nodig als hij weer normaal moet worden.",
+   "c": "Je smeert 4 Cenarion Plant Salves op de Night Dragon. Meteen begint de plant zijn verdorven vorm af te werpen. Hij bloeit op tot een levendige, gezonde plant.",
+   "g": [
+    [
+     "verdorven",
+     "corrupted"
+    ],
+    [
+     "versie",
+     "version"
+    ],
+    [
+     "vruchten",
+     "fruits (vrucht)"
+    ],
+    [
+     "giftig",
+     "poisonous"
+    ],
+    [
+     "dringend",
+     "urgently"
+    ],
+    [
+     "zorg",
+     "care, attention"
+    ],
+    [
+     "smeert",
+     "apply, spread (smeren)"
+    ],
+    [
+     "af te werpen",
+     "to shed (afwerpen)"
+    ],
+    [
+     "bloeit op",
+     "blossoms (opbloeien)"
+    ],
+    [
+     "levendige",
+     "vibrant (levendig)"
+    ]
+   ]
+  },
+  "4447": {
+   "t": "Verdorven Night Dragon",
+   "p": "Je hebt een zieke, verdorven versie gevonden van wat een Night Dragon-plant lijkt te zijn. De vruchten aan de plant zien er rot en giftig uit. De plant heeft dringend zorg nodig als hij weer normaal moet worden.",
+   "c": "Je smeert 4 Cenarion Plant Salves op de Night Dragon. Meteen begint de plant zijn verdorven vorm af te werpen. Hij bloeit op tot een levendige, gezonde plant.",
+   "g": [
+    [
+     "verdorven",
+     "corrupted"
+    ],
+    [
+     "versie",
+     "version"
+    ],
+    [
+     "vruchten",
+     "fruits (vrucht)"
+    ],
+    [
+     "giftig",
+     "poisonous"
+    ],
+    [
+     "dringend",
+     "urgently"
+    ],
+    [
+     "zorg",
+     "care, attention"
+    ],
+    [
+     "smeert",
+     "apply, spread (smeren)"
+    ],
+    [
+     "af te werpen",
+     "to shed (afwerpen)"
+    ],
+    [
+     "bloeit op",
+     "blossoms (opbloeien)"
+    ],
+    [
+     "levendige",
+     "vibrant (levendig)"
+    ]
+   ]
+  },
+  "4448": {
+   "t": "Verdorven Night Dragon",
+   "p": "Je hebt een zieke, verdorven versie gevonden van wat een Night Dragon-plant lijkt te zijn. De vruchten aan de plant zien er rot en giftig uit. De plant heeft dringend zorg nodig als hij weer normaal moet worden.",
+   "c": "Je smeert 4 Cenarion Plant Salves op de Night Dragon. Meteen begint de plant zijn verdorven vorm af te werpen. Hij bloeit op tot een levendige, gezonde plant.",
+   "g": [
+    [
+     "verdorven",
+     "corrupted"
+    ],
+    [
+     "versie",
+     "version"
+    ],
+    [
+     "vruchten",
+     "fruits (vrucht)"
+    ],
+    [
+     "giftig",
+     "poisonous"
+    ],
+    [
+     "dringend",
+     "urgently"
+    ],
+    [
+     "zorg",
+     "care, attention"
+    ],
+    [
+     "smeert",
+     "apply, spread (smeren)"
+    ],
+    [
+     "af te werpen",
+     "to shed (afwerpen)"
+    ],
+    [
+     "bloeit op",
+     "blossoms (opbloeien)"
+    ],
+    [
+     "levendige",
+     "vibrant (levendig)"
+    ]
+   ]
+  },
+  "4462": {
+   "t": "Verdorven Night Dragon",
+   "p": "Je hebt een zieke, verdorven versie gevonden van wat een Night Dragon-plant lijkt te zijn. De vruchten aan de plant zien er rot en giftig uit. De plant heeft dringend zorg nodig als hij weer normaal moet worden.",
+   "c": "Je smeert 4 Cenarion Plant Salves op de Night Dragon. Meteen begint de plant zijn verdorven vorm af te werpen. Hij bloeit op tot een levendige, gezonde plant.",
+   "g": [
+    [
+     "verdorven",
+     "corrupted"
+    ],
+    [
+     "versie",
+     "version"
+    ],
+    [
+     "vruchten",
+     "fruits (vrucht)"
+    ],
+    [
+     "giftig",
+     "poisonous"
+    ],
+    [
+     "dringend",
+     "urgently"
+    ],
+    [
+     "zorg",
+     "care, attention"
+    ],
+    [
+     "smeert",
+     "apply, spread (smeren)"
+    ],
+    [
+     "af te werpen",
+     "to shed (afwerpen)"
+    ],
+    [
+     "bloeit op",
+     "blossoms (opbloeien)"
+    ],
+    [
+     "levendige",
+     "vibrant (levendig)"
+    ]
+   ]
+  },
+  "4101": {
+   "t": "Felwood reinigen",
+   "d": "Planten geven Felwood leven, maar zelfs zij lijden onder de smet van de verdorvenheid. Ik ken manieren om ze te reinigen, maar die kennis kan ik niet geven aan wie ik niet ken of vertrouw. Bewijs me dat je de zaak van de Cenarion Circle echt wilt helpen!$B$BIn het noorden liggen de Irontree Caverns. De Warpwood-elementalen daar zijn niet meer te reinigen. Ik vraag je om hun sap naar me te brengen. Het heet Blood Amber. Dan kan ik het bestuderen, in de hoop dat ik hier andere vormen van leven kan redden.",
+   "o": "Breng 15 Blood Amber naar Arathandris Silversky in Felwood.",
+   "p": "Ik weet dat Felwood lijdt, $N. Ik lijd met het bos mee! Ik moet vasthouden aan mijn overtuiging. Als mijn kennis in de verkeerde handen viel, zou dat een ramp zijn voor heel Felwood.$B$BBreng me de Blood Amber van de gedode Warpwood-elementalen. Dan vertrouw ik je genoeg om me te helpen een middel tegen de verdorvenheid in te zetten.",
+   "c": "Deze Blood Amber zal gebruikt worden om een middel te vinden waarmee we de verdorvenheid in Felwood kunnen verslaan. Je hebt me bewezen dat je alles wilt doen wat nodig is voor de Cenarion Circle. Ik vertrouw je nu, vriend.$B$BHet lijkt misschien vreemd dat je je aan mij bewees door de elementalen te doden. Maar het doel, ontelbare denkende wezens redden, moet de middelen rechtvaardigen. Jij en ik kunnen ons nu richten op het behoud van leven met de zalven die ik kan maken.$B$B$N, het is tijd om Felwood te reinigen.",
+   "g": [
+    [
+     "reinigen",
+     "cleanse"
+    ],
+    [
+     "lijden",
+     "suffer"
+    ],
+    [
+     "smet",
+     "taint, stain"
+    ],
+    [
+     "bewijs",
+     "prove (bewijzen)"
+    ],
+    [
+     "zaak",
+     "cause"
+    ],
+    [
+     "sap",
+     "sap"
+    ],
+    [
+     "bestuderen",
+     "study"
+    ],
+    [
+     "overtuiging",
+     "conviction"
+    ],
+    [
+     "ramp",
+     "disaster"
+    ],
+    [
+     "middel",
+     "means, remedy"
+    ],
+    [
+     "verslaan",
+     "defeat"
+    ],
+    [
+     "ontelbare",
+     "countless (ontelbaar)"
+    ],
+    [
+     "rechtvaardigen",
+     "justify"
+    ],
+    [
+     "behoud",
+     "preservation"
+    ],
+    [
+     "zalven",
+     "salves (zalf)"
+    ]
+   ]
+  },
+  "4103": {
+   "t": "Zalf door te jagen",
+   "p": "Met een Cenarion Beacon kun je een Corrupted Soul Shard zien bij de besmette beesten die voor het grotere goed worden gedood. Ik maal die scherven tot een bruikbaar reagens voor Cenarion Plant Salve. Met die zalf maken we verdorven planten weer gezond.$B$BIn ruil voor deze scherven geef ik je wat Cenarion Plant Salves die ik al heb gemaakt.",
+   "c": "Goed dan, hier zijn je Cenarion Plant Salves. Zoek in heel Felwood naar verdorven planten, $N! Waar ze ook zijn, gebruik de zalf die ik je heb gegeven om ze te zuiveren.",
+   "g": [
+    [
+     "zalf",
+     "salve"
+    ],
+    [
+     "besmette",
+     "tainted (besmet)"
+    ],
+    [
+     "het grotere goed",
+     "the greater good"
+    ],
+    [
+     "maal",
+     "grind (malen)"
+    ],
+    [
+     "scherven",
+     "shards (scherf)"
+    ],
+    [
+     "bruikbaar",
+     "usable"
+    ],
+    [
+     "reagens",
+     "reagent"
+    ],
+    [
+     "in ruil voor",
+     "in exchange for"
+    ],
+    [
+     "zuiveren",
+     "purify"
+    ]
+   ]
+  },
+  "5882": {
+   "t": "Zalf door te jagen",
+   "p": "Met een Cenarion Beacon kun je een Corrupted Soul Shard zien bij de besmette beesten die voor het grotere goed worden gedood. Ik maal die scherven tot een bruikbaar reagens voor Cenarion Plant Salve. Met die zalf maken we verdorven planten weer gezond.$B$BIn ruil voor deze scherven geef ik je wat Cenarion Plant Salves die ik al heb gemaakt.",
+   "c": "Goed dan, hier zijn je Cenarion Plant Salves. Zoek in heel Felwood naar verdorven planten, $N! Waar ze ook zijn, gebruik de zalf die ik je heb gegeven om ze te zuiveren.",
+   "g": [
+    [
+     "zalf",
+     "salve"
+    ],
+    [
+     "besmette",
+     "tainted (besmet)"
+    ],
+    [
+     "het grotere goed",
+     "the greater good"
+    ],
+    [
+     "maal",
+     "grind (malen)"
+    ],
+    [
+     "scherven",
+     "shards (scherf)"
+    ],
+    [
+     "bruikbaar",
+     "usable"
+    ],
+    [
+     "reagens",
+     "reagent"
+    ],
+    [
+     "in ruil voor",
+     "in exchange for"
+    ],
+    [
+     "zuiveren",
+     "purify"
+    ]
+   ]
+  },
+  "4104": {
+   "t": "Zalf door mijnbouw",
+   "p": "Als je een Cenarion Beacon bij je hebt terwijl je in Felwood mijnt, kun je Tainted Vitriol zien. Dat bederft een ader van ruw metaal. Ik weet hoe ik dat vitriool kan zuiveren en er een reagens van kan maken voor Cenarion Plant Salve. Die zalf gebruik je dan op planten in het wild die gered moeten worden.$b$bAls je Tainted Vitriol hebt verzameld, geef ik je wat Cenarion Plant Salve die ik al heb gemaakt.",
+   "c": "Goed dan, hier is wat Cenarion Plant Salve. Als je meer vitriool vindt wanneer je in Felwood mijnt, bewaar het dan voor mij! Hoe meer je vindt, hoe meer zalf ik kan maken.",
+   "g": [
+    [
+     "mijnbouw",
+     "mining"
+    ],
+    [
+     "mijnt",
+     "mine (mijnen)"
+    ],
+    [
+     "bederft",
+     "spoils, corrupts (bederven)"
+    ],
+    [
+     "ader",
+     "vein"
+    ],
+    [
+     "ruw",
+     "raw"
+    ],
+    [
+     "vitriool",
+     "vitriol"
+    ],
+    [
+     "reagens",
+     "reagent"
+    ],
+    [
+     "in het wild",
+     "in the wild"
+    ],
+    [
+     "gered",
+     "saved (redden)"
+    ],
+    [
+     "bewaar",
+     "keep (bewaren)"
+    ]
+   ]
+  },
+  "4105": {
+   "t": "Zalf door verzamelen",
+   "p": "Met een Cenarion Beacon kan een ervaren kruidenkenner het verraderlijke Fel Creep zien. Dat is een kwaadaardig product van de verdorvenheid van Felwood. Mijn werk hier heeft me geleerd hoe ik Fel Creep kan zuiveren tot een reinigend reagens... dat gebruikt wordt in wat we nu Cenarion Plant Salve noemen.$b$bAls je in Felwood kruiden verzamelt, zou je Fel Creep moeten tegenkomen, zolang je het baken bij je hebt. In ruil voor wat je me brengt, geef ik je kant-en-klare Cenarion Plant Salve.",
+   "c": "Uitstekend werk, $n! Elk stukje hiervan zal ons helpen om Felwood terug te winnen, als we het eenmaal gezuiverd hebben. Hier, neem een paar doses Cenarion Plant Salve en ga het bos in. Het terugwinnen van het land op de verdorvenheid wacht op geen enkele $r!",
+   "g": [
+    [
+     "ervaren",
+     "experienced, seasoned"
+    ],
+    [
+     "kruidenkenner",
+     "herbalist"
+    ],
+    [
+     "verraderlijke",
+     "insidious (verraderlijk)"
+    ],
+    [
+     "kwaadaardig",
+     "malicious, malfeasant"
+    ],
+    [
+     "reinigend",
+     "cleansing"
+    ],
+    [
+     "kruiden",
+     "herbs (kruid)"
+    ],
+    [
+     "baken",
+     "beacon"
+    ],
+    [
+     "kant-en-klare",
+     "ready-made (kant-en-klaar)"
+    ],
+    [
+     "terug te winnen",
+     "to win back (terugwinnen)"
+    ],
+    [
+     "eenmaal",
+     "once"
+    ],
+    [
+     "doses",
+     "doses (dosis)"
+    ]
+   ]
+  },
+  "4106": {
+   "t": "Zalf door villen",
+   "p": "Met een Cenarion Beacon kan een goed getrainde viller stukken besmette huid zien op de buit die in Felwood verzameld is. Ik maak van die schijnbaar nutteloze stukken een dikke pasta die dient als versnellend middel voor Cenarion Plant Salve. Zorg dat je een baken bij je hebt als je je prooien hier in Felwood vilt!$b$bAls je besmette stukken verzamelt, breng ze dan naar mij. Dan geef ik je wat Cenarion Plant Salves die ik al heb gemaakt.",
+   "c": "Dit is precies wat ik nodig heb. Hier, neem deze plantenzalven en gebruik ze om Felwood terug te winnen op de verdorvenheid. We moeten volhouden, $n!",
+   "g": [
+    [
+     "villen",
+     "skinning"
+    ],
+    [
+     "viller",
+     "skinner"
+    ],
+    [
+     "huid",
+     "skin, hide"
+    ],
+    [
+     "buit",
+     "spoils, bounty"
+    ],
+    [
+     "schijnbaar",
+     "seemingly"
+    ],
+    [
+     "nutteloze",
+     "useless (nutteloos)"
+    ],
+    [
+     "pasta",
+     "paste"
+    ],
+    [
+     "dient",
+     "serves (dienen)"
+    ],
+    [
+     "versnellend",
+     "quickening, accelerating"
+    ],
+    [
+     "prooien",
+     "prey, kills (prooi)"
+    ],
+    [
+     "vilt",
+     "skin (villen)"
+    ],
+    [
+     "volhouden",
+     "persevere"
+    ]
+   ]
+  },
+  "4107": {
+   "t": "Zalf door onttoveren",
+   "p": "De kracht van een onttoverd magisch voorwerp voel je aan de essentie die het oplevert. Ik heb een manier bedacht om ruwe essentie, die betoveraars gebruiken, om te zetten in een geschikt reagens voor Cenarion Plant Salve. Hiervoor heb je geen Cenarion Beacon nodig. Elk goed onttoverd voorwerp dat Lesser Nether Essences oplevert, is genoeg.$b$bIk heb maar één Lesser Nether Essence nodig. In ruil daarvoor geef ik je Cenarion Plant Salves. De essentie is enorm krachtig: met een klein beetje kom je echt een heel eind!",
+   "c": "Hier zijn wat Cenarion Plant Salves. Ik heb hiervoor maar één Lesser Nether Essence nodig, $n. Essentie is verreweg het krachtigste wat ik kan gebruiken om zwaarden in ploegscharen te veranderen, zogezegd. Als je meer zalf nodig hebt, kom dan hier naar me toe!",
+   "g": [
+    [
+     "onttoveren",
+     "disenchanting"
+    ],
+    [
+     "onttoverd",
+     "disenchanted"
+    ],
+    [
+     "essentie",
+     "essence"
+    ],
+    [
+     "oplevert",
+     "yields (opleveren)"
+    ],
+    [
+     "bedacht",
+     "devised (bedenken)"
+    ],
+    [
+     "betoveraars",
+     "enchanters (betoveraar)"
+    ],
+    [
+     "om te zetten",
+     "to convert (omzetten)"
+    ],
+    [
+     "geschikt",
+     "suitable"
+    ],
+    [
+     "kom je een heel eind",
+     "goes a long way"
+    ],
+    [
+     "verreweg",
+     "by far"
+    ],
+    [
+     "ploegscharen",
+     "plowshares (ploegschaar)"
+    ],
+    [
+     "zogezegd",
+     "so to speak, as it were"
+    ]
+   ]
+  },
+  "5165": {
+   "t": "De beschermende vlammen doven",
+   "d": "Nu moet je teruggaan naar Jaedenar. De vuurschalen staan waarschijnlijk verspreid door Shadow Hold. Doof bij elke schaal de vlammen, dan vallen de beschermingen die de Council heeft opgezet weg, in elk geval voor korte tijd. Ik wacht tot dat gebeurt. Als het zover is, kijk ik diep in de Hold en probeer ik te ontdekken wie de kop van dit beest is. Dan, en alleen dan, gaan we kijken of we hen direct kunnen aanvallen.",
+   "o": "Gebruik het Purified Moon Well Water om de vlammen van de vier beschermende vuurschalen in Shadow Hold in Felwood te doven. Keer dan terug naar Greta Mosshoof in het Emerald Sanctuary.",
+   "p": "De vuurschalen moeten gedoofd worden als we enige hoop willen hebben om voorbereid te zijn op een veel grotere strijd. Zonder kennis het hol van de draak in gaan, is dwaasheid. En dit is veel erger dan een draak. De Shadow Council alleen is verantwoordelijk voor een groot aantal misdaden en gruweldaden. We moeten snel werken als we hen willen stoppen.",
+   "c": "Ik kon je met mijn spreuken zien zodra de vlammen van de laatste vuurschaal uitgingen. Goed gedaan, $N.$B$BIk heb een paar dingen ontdekt voordat de heksenmeesters van de Shadow Council hun spreuken opnieuw konden uitspreken. Hopelijk is het genoeg.$B$BRust nu eerst uit. Ik vertel je zo wat ik te weten ben gekomen.",
+   "o1": "Doof de Brazier of Pain",
+   "o2": "Doof de Brazier of Malice",
+   "o3": "Doof de Brazier of Suffering",
+   "o4": "Doof de Brazier of Hatred",
+   "g": [
+    [
+     "doven",
+     "douse, extinguish"
+    ],
+    [
+     "vuurschalen",
+     "braziers (vuurschaal)"
+    ],
+    [
+     "verspreid",
+     "spread out"
+    ],
+    [
+     "beschermingen",
+     "protections (bescherming)"
+    ],
+    [
+     "opgezet",
+     "set up (opzetten)"
+    ],
+    [
+     "de kop van dit beest",
+     "the head of this beast"
+    ],
+    [
+     "voorbereid",
+     "prepared"
+    ],
+    [
+     "hol",
+     "lair, den"
+    ],
+    [
+     "dwaasheid",
+     "folly, a fool's errand"
+    ],
+    [
+     "verantwoordelijk",
+     "responsible"
+    ],
+    [
+     "gruweldaden",
+     "atrocities (gruweldaad)"
+    ],
+    [
+     "heksenmeesters",
+     "warlocks (heksenmeester)"
+    ],
+    [
+     "te weten ben gekomen",
+     "have found out (te weten komen)"
+    ]
+   ]
+  },
+  "5202": {
+   "t": "Een vreemde rode sleutel",
+   "d": "De kleine rode sleutel lijkt van een soort bot gemaakt te zijn. Hij voelt zwaar in je hand, maar lijkt erg breekbaar. Waarom zou een lid van de Shadow Council zoiets hebben? Misschien is er iets in Jaedenar dat deze vreemde sleutel opent.",
+   "o": "Doorzoek Jaedenar om te ontdekken waar de Blood Red Key voor dient.",
+   "p": "Ik begin me af te vragen of ik ooit uit deze kooi ontsnap.$B$BHet is maar een kwestie van tijd voordat ze me offeren aan de demonen die ze aanbidden. Die monsters!",
+   "c": "De sleutel, je hebt hem gevonden! Geef hem alsjeblieft aan mij, dan kan ik eindelijk ontsnappen!",
+   "g": [
+    [
+     "bot",
+     "bone"
+    ],
+    [
+     "breekbaar",
+     "fragile"
+    ],
+    [
+     "doorzoek",
+     "search through (doorzoeken)"
+    ],
+    [
+     "dient",
+     "serves, is used (dienen)"
+    ],
+    [
+     "me af te vragen",
+     "to wonder (zich afvragen)"
+    ],
+    [
+     "kooi",
+     "cage"
+    ],
+    [
+     "kwestie",
+     "matter, question"
+    ],
+    [
+     "offeren",
+     "sacrifice"
+    ],
+    [
+     "aanbidden",
+     "worship"
+    ],
+    [
+     "ontsnappen",
+     "escape"
+    ]
+   ]
+  },
+  "5203": {
+   "t": "Redding uit Jaedenar",
+   "d": "Maar hoe pijnlijk ik het ook vind, eerst moet er één ding gebeuren: ik moet Trey's zwaard Lightforge vinden en uit Shadow Hold ontsnappen, om mijn meerderen te vertellen wat hier gebeurt. Kun je me helpen, $N?$B$BOnze uitrusting is niet ver hier vandaan, en je hebt al bewezen dat je de weg naar boven kunt overleven.$B$BAls we ontsnapt zijn, ga ik naar Darnassus, als jij mijn vriendin Jessir bij de grens met Ashenvale kunt vinden. Ze zou ons ontmoeten bij het kamp van de Emerald Circle daar in de buurt.$B$BWat zeg je ervan, $N? Wil je me nog een keer helpen?",
+   "o": "Begeleid Arko'narin naar de plek waar Lightforge en haar uitrusting worden bewaard, en bescherm haar daarna terwijl jullie uit Shadow Hold ontsnappen. Zoek vervolgens Jessir Moonbow in Felwood op en vertel haar wat er met haar vrienden is gebeurd.",
+   "p": "Je ziet er buiten adem uit, $n. Gaat het goed met je, of is er iets mis?",
+   "c": "Ben jij degene die Arko heeft helpen ontsnappen? Ik ben zo blij dat je me hebt gevonden. Ze kwam hier niet zo lang geleden langs, op weg naar Darnassus. Ze had Lightforge bij zich en nam niet eens de tijd om met de druïden te praten en zich te laten genezen. Ze zei dat het veel te dringend was.$B$BMaar ze heeft me wel verteld over jullie ontmoeting met de geest van Trey. Wat een vreselijk lot voor een Knight of the Silver Hand. Ze liet het niet merken, maar ik weet dat het haar vanbinnen kapotmaakt, de gedachte dat ze een van haar beste vrienden kwijt is.",
+   "e": "Bescherm Arko'narin op weg uit Shadow Hold",
+   "g": [
+    [
+     "redding",
+     "rescue"
+    ],
+    [
+     "pijnlijk",
+     "painful"
+    ],
+    [
+     "meerderen",
+     "superiors (meerdere)"
+    ],
+    [
+     "uitrusting",
+     "equipment"
+    ],
+    [
+     "overleven",
+     "survive"
+    ],
+    [
+     "grens",
+     "border"
+    ],
+    [
+     "begeleid",
+     "escort (begeleiden)"
+    ],
+    [
+     "vervolgens",
+     "afterwards, then"
+    ],
+    [
+     "buiten adem",
+     "out of breath, winded"
+    ],
+    [
+     "druïden",
+     "druids (druïde)"
+    ],
+    [
+     "dringend",
+     "urgent"
+    ],
+    [
+     "lot",
+     "fate"
+    ],
+    [
+     "liet het niet merken",
+     "didn't show it (laten merken)"
+    ],
+    [
+     "vanbinnen",
+     "inside"
+    ],
+    [
+     "kapotmaakt",
+     "is tearing up, breaks (kapotmaken)"
+    ]
+   ]
+  }
+ },
+ "words": {
+  "bewees": "proved (bewijzen)",
+  "bosdieren": "forest animals (bosdier)",
+  "creep": "creep (part of the item name Fel Creep)",
+  "denkende": "thinking, sentient (denken)",
+  "doof": "douse, put out (doven)",
+  "dragon-plant": "Night Dragon plant",
+  "essences": "essences (part of the item name Lesser Nether Essence)",
+  "felwater": "fel water: water corrupted by fel magic",
+  "kraters": "craters (krater)",
+  "lijdt": "suffers (lijden)",
+  "nagaan": "check, verify",
+  "plantenzalven": "plant salves (plantenzalf)",
+  "root-plant": "Whipper Root plant",
+  "songflower-plant": "Songflower plant",
+  "tegenkom": "come across, meet (tegenkomen)",
+  "uitgingen": "went out (uitgaan)",
+  "vitriol": "vitriol (part of the item name Tainted Vitriol)",
+  "warpwood-elementalen": "Warpwood elementals (elementaal)",
+  "windblossom-plant": "Windblossom plant"
+ },
+ "terms": {
+  "infernal": "infernal: a huge burning demon of stone that falls from the sky like a meteor (Warcraft)"
+ }
+}
