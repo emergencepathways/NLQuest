@@ -1,0 +1,1622 @@
+{
+ "quests": {
+  "7478": {
+   "t": "Het Libram of Rapidity",
+   "d": "Meester Winthalus is het Libram of Rapidity kwijtgeraakt in de oostvleugel. Met het Libram kun je een kleine snelheidsspreuk op je uitrusting leggen. Eigenlijk gewoon goocheltrucs...$B$BHoe dan ook, als je interesse hebt, moet je het Libram laten zien, samen met een paar eenvoudige ingrediënten.$B$BHmm... Ik geloof dat er ook heldenbloed, een smetteloze zwarte diamant en grote schitterende scherven voor nodig zijn. Maar misschien vergis ik me!$B$B<Lydros haalt zijn schouders op.>",
+   "o": "Breng een Libram of Rapidity, 1 Pristine Black Diamond, 2 Large Brilliant Shards en 2 Blood of Heroes naar Lorekeeper Lydros in Dire Maul. Je krijgt dan een Arcanum of Rapidity.",
+   "p": "Wat is er? Ik moet nog zoveel catalogiseren!",
+   "c": "<Lydros gaapt.>$B$BZoals beloofd: het Arcanum of Rapidity. Geef het niet allemaal op één plek uit.$B$B<Lydros grinnikt.>",
+   "g": [
+    [
+     "kwijtgeraakt",
+     "lost (kwijtraken)"
+    ],
+    [
+     "oostvleugel",
+     "east wing"
+    ],
+    [
+     "snelheidsspreuk",
+     "haste spell"
+    ],
+    [
+     "uitrusting",
+     "equipment"
+    ],
+    [
+     "goocheltrucs",
+     "parlour tricks, conjuring tricks"
+    ],
+    [
+     "ingrediënten",
+     "ingredients, reagents"
+    ],
+    [
+     "heldenbloed",
+     "blood of heroes"
+    ],
+    [
+     "smetteloze",
+     "flawless, pristine (smetteloos)"
+    ],
+    [
+     "schitterende",
+     "brilliant, sparkling (schitterend)"
+    ],
+    [
+     "scherven",
+     "shards (scherf)"
+    ],
+    [
+     "vergis ik me",
+     "I am mistaken (zich vergissen)"
+    ],
+    [
+     "haalt zijn schouders op",
+     "shrugs (de schouders ophalen)"
+    ],
+    [
+     "catalogiseren",
+     "to catalogue"
+    ],
+    [
+     "gaapt",
+     "yawns (gapen)"
+    ],
+    [
+     "grinnikt",
+     "snickers, chuckles (grinniken)"
+    ]
+   ]
+  },
+  "7479": {
+   "t": "Het Libram of Focus",
+   "d": "Dit libram wekte bijna de belangstelling van het magische huisdier van een van de jongere Lorekeepers. Arm beestje, het was pas een paar weken oud.$B$BWie van jullie meer aanleg voor magie heeft, vindt dit voorwerp misschien interessant.$B$BHet Libram of Focus is in deze vleugel verloren gegaan. Ik kan alleen maar aannemen dat een van de Highborne-geesten het in zijn bezit heeft.$B$BBreng het Libram, samen met wat grote schitterende scherven, schaduwhuid en een smetteloze zwarte diamant, dan tover ik het Arcanum tevoorschijn.",
+   "o": "Breng een Libram of Focus, 1 Pristine Black Diamond, 4 Large Brilliant Shards en 2 Skin of Shadow naar Lorekeeper Lydros in Dire Maul. Je krijgt dan een Arcanum of Focus.",
+   "p": "Jij weer? Wat zou je nu nog kunnen willen?",
+   "c": "Doe jezelf geen pijn als je de betovering aanbrengt, $R.",
+   "g": [
+    [
+     "wekte",
+     "aroused, awakened (wekken)"
+    ],
+    [
+     "belangstelling",
+     "interest"
+    ],
+    [
+     "huisdier",
+     "pet; here: a mage's familiar"
+    ],
+    [
+     "beestje",
+     "little creature"
+    ],
+    [
+     "aanleg",
+     "talent, aptitude"
+    ],
+    [
+     "vleugel",
+     "wing (of a building)"
+    ],
+    [
+     "aannemen",
+     "to assume"
+    ],
+    [
+     "in zijn bezit",
+     "in its possession"
+    ],
+    [
+     "schaduwhuid",
+     "skin of shadow"
+    ],
+    [
+     "tover ik … tevoorschijn",
+     "I conjure (tevoorschijn toveren)"
+    ],
+    [
+     "betovering",
+     "enchantment"
+    ],
+    [
+     "aanbrengt",
+     "applies (aanbrengen)"
+    ]
+   ]
+  },
+  "7480": {
+   "t": "Het Libram of Protection",
+   "d": "Hij huilde als een baby toen dit libram verloren ging. Let wel, ik heb zelf ook om teksten gehuild - er is geen groter verlies dan dat van kennis en geschiedenis - maar huilen om deze bijna nutteloze warboel van bezweringen? Belachelijk! Ik kreeg zelfs het idee dat de prins hem een plezier deed door het vlees van zijn botten te villen.$B$BBreng het Libram, samen met een smetteloze zwarte diamant, grote schitterende scherven en een gerafeld stuk hechtdraad van een abominatie, dan maak ik het Arcanum opnieuw.$B$BO, en kijk in de noordvleugel.",
+   "o": "Breng een Libram of Protection, 1 Pristine Black Diamond, 2 Large Brilliant Shards en 1 Frayed Abomination Stitching naar Lorekeeper Lydros in Dire Maul. Je krijgt dan een Arcanum of Protection.",
+   "p": "Mijn geduld voorkomt dat je lijdt.",
+   "c": "Ja, ja... Rustig maar. Zoals beloofd: hier is je Arcanum.",
+   "g": [
+    [
+     "let wel",
+     "mind you"
+    ],
+    [
+     "verlies",
+     "loss"
+    ],
+    [
+     "nutteloze",
+     "useless (nutteloos)"
+    ],
+    [
+     "warboel",
+     "jumble, mess"
+    ],
+    [
+     "bezweringen",
+     "incantations (bezwering)"
+    ],
+    [
+     "belachelijk",
+     "ridiculous, preposterous"
+    ],
+    [
+     "een plezier deed",
+     "did a favour (een plezier doen)"
+    ],
+    [
+     "villen",
+     "to flay, to skin"
+    ],
+    [
+     "gerafeld",
+     "frayed"
+    ],
+    [
+     "hechtdraad",
+     "stitching thread"
+    ],
+    [
+     "abominatie",
+     "abomination"
+    ],
+    [
+     "noordvleugel",
+     "north wing"
+    ],
+    [
+     "geduld",
+     "patience"
+    ],
+    [
+     "lijdt",
+     "suffers (lijden)"
+    ]
+   ]
+  },
+  "7481": {
+   "t": "Elfenlegendes",
+   "d": "Een aantal jaar geleden vluchtte een eenzame elfenmeester, Kariel Winthalus, weg uit zijn verwoeste vaderland. Hij nam verschillende oude elfenvoorwerpen mee.$B$BOnze zoektocht naar deze verdwenen meester leidde ons van de ruïnes van Quel'Thalas, door de Burning Steppes, over de wijde zee, naar Feralas.$B$BWe vermoeden dat de elf een schuilplaats zocht in de zalen van Eldre'Thalas (nu bekend als Dire Maul).$B$BJe moet hem vinden, avonturier. Levend of dood: de kennis die hij bij zich had, moet teruggevonden worden!",
+   "o": "Zoek in Dire Maul naar Kariel Winthalus. Meld je daarna bij Sage Korolusk in Camp Mojache met alle informatie die je vindt.",
+   "p": "Mijn collega, de nachtelfengeleerde Runethorn, zoekt bondgenoten voor deze taak.",
+   "c": "Jammer... een tragedie. De voorwerpen zijn verloren, zeg je? Geen spoor van hem, hè?",
+   "o1": "Master Kariel Winthalus gevonden",
+   "g": [
+    [
+     "eenzame",
+     "lone, solitary (eenzaam)"
+    ],
+    [
+     "vluchtte",
+     "fled (vluchten)"
+    ],
+    [
+     "verwoeste",
+     "devastated (verwoest)"
+    ],
+    [
+     "vaderland",
+     "homeland"
+    ],
+    [
+     "zoektocht",
+     "search, quest"
+    ],
+    [
+     "ruïnes",
+     "ruins"
+    ],
+    [
+     "wijde",
+     "wide, vast (wijd)"
+    ],
+    [
+     "vermoeden",
+     "suspect"
+    ],
+    [
+     "schuilplaats",
+     "sanctuary, hiding place"
+    ],
+    [
+     "avonturier",
+     "adventurer"
+    ],
+    [
+     "geleerde",
+     "scholar"
+    ],
+    [
+     "bondgenoten",
+     "allies (bondgenoot)"
+    ],
+    [
+     "spoor",
+     "trace, track"
+    ]
+   ]
+  },
+  "7877": {
+   "t": "De schat van de Shen'dralar",
+   "d": "In de bibliotheek, het Athenaeum, vind je een oude kist die onder de trap verborgen is. Neem daaruit wat je wilt.",
+   "o": "Ga terug naar het Athenaeum en vind de Treasure of the Shen'dralar. Haal je beloning op!",
+   "c": "Je opent de kist en vindt...",
+   "g": [
+    [
+     "schat",
+     "treasure"
+    ],
+    [
+     "bibliotheek",
+     "library"
+    ],
+    [
+     "kist",
+     "chest"
+    ],
+    [
+     "trap",
+     "stairway, stairs"
+    ],
+    [
+     "verborgen",
+     "hidden"
+    ],
+    [
+     "beloning",
+     "reward"
+    ]
+   ]
+  },
+  "6022": {
+   "t": "Doden met een doel",
+   "d": "Zolang je op mijn erf blijft, dood je met een doel.$B$BJe eerste taak is mijn honden voeren.$B$BNeem deze vijzel en stamper en ga naar Corin's Crossing. Daar vind je een flinke keuze aan Scourge om af te slachten. Uit hun verse lijken heb ik levend rot nodig. Neem dat levende rot en maal het fijn in de vijzel. Laat het daarna staan, zodat het stolt. Breng het gestolde rot hier terug.$B$BEn, idioot, besef wel dat levend rot van de ondoden niet lang 'levend' blijft. Je moet snel doden!",
+   "o": "Ga naar Corin's Crossing in het oosten en slacht de Scourge af die in het dorp wonen. Verzamel binnen 10 minuten 7 stukken Living Rot. Gebruik de Mortar and Pestle om de Living Rot fijn te malen tot Coagulated Rot.",
+   "p": "Huil je? Als dit te 'saai' voor je is, 'held', dan raad ik je aan om terug te gaan naar de Dark Lady. Vertel haar maar hoe vreselijk slecht je op mijn boerderij behandeld bent.$b$bEn nu uit mijn ogen!",
+   "c": "Teleurstellend. Ik hoopte dat ik jou aan mijn honden zou voeren.$b$b<Nathanos zucht.>$b$bNou ja, nu hebben ze tenminste iets te eten.",
+   "g": [
+    [
+     "erf",
+     "farmstead, yard"
+    ],
+    [
+     "vijzel en stamper",
+     "mortar and pestle"
+    ],
+    [
+     "af te slachten",
+     "to slaughter (afslachten)"
+    ],
+    [
+     "lijken",
+     "corpses (lijk)"
+    ],
+    [
+     "rot",
+     "rot"
+    ],
+    [
+     "maal … fijn",
+     "grind (fijnmalen)"
+    ],
+    [
+     "stolt",
+     "coagulates, clots (stollen)"
+    ],
+    [
+     "gestolde",
+     "coagulated (gestold)"
+    ],
+    [
+     "besef",
+     "realise (beseffen)"
+    ],
+    [
+     "ondoden",
+     "undead"
+    ],
+    [
+     "saai",
+     "boring, tedious"
+    ],
+    [
+     "behandeld",
+     "treated (behandelen)"
+    ],
+    [
+     "uit mijn ogen",
+     "out of my sight"
+    ],
+    [
+     "teleurstellend",
+     "disappointing"
+    ],
+    [
+     "zucht",
+     "sighs (zuchten)"
+    ]
+   ]
+  },
+  "6042": {
+   "t": "De kleine ergernissen van het onleven",
+   "d": "Je kunt geen twee stappen van deze boerderij zetten zonder een van die irritante vleermuizen tegen te komen. Ik wil met de honden op pad kunnen om Scourge af te slachten, zonder dat die vervloekte, smerige vleermuizen me lastigvallen. Ik heb natuurlijk betere dingen te doen dan dag in, dag uit gedachteloos vleermuizen te doden. Jij niet.$B$BWat? Je training? Dit is je training! Ga nu uit mijn ogen en kom pas terug als je een flink aantal van die gevleugelde demonen hebt gedood. Stel me niet teleur.",
+   "o": "Dood 20 Noxious Plaguebats en 10 Monstrous Plaguebats. Ga terug naar Nathanos Blightcaller als je klaar bent.",
+   "p": "Het had erger gekund. Ik had je ook vleermuizenpoep kunnen laten verzamelen.$B$B<Nathanos kijkt je nadenkend aan.>$B$BHmm... Hé! Wacht eens even. Waar ga je heen?",
+   "c": "Ongelooflijk wat je met een beetje boosheid en woede voor elkaar krijgt.",
+   "g": [
+    [
+     "ergernissen",
+     "annoyances (ergernis)"
+    ],
+    [
+     "onleven",
+     "un-life"
+    ],
+    [
+     "irritante",
+     "annoying (irritant)"
+    ],
+    [
+     "vleermuizen",
+     "bats (vleermuis)"
+    ],
+    [
+     "vervloekte",
+     "damned (vervloekt)"
+    ],
+    [
+     "smerige",
+     "dirty, filthy (smerig)"
+    ],
+    [
+     "lastigvallen",
+     "to bother, to accost"
+    ],
+    [
+     "gedachteloos",
+     "mindlessly"
+    ],
+    [
+     "gevleugelde",
+     "winged (gevleugeld)"
+    ],
+    [
+     "stel me niet teleur",
+     "don't disappoint me (teleurstellen)"
+    ],
+    [
+     "vleermuizenpoep",
+     "bat droppings, guano"
+    ],
+    [
+     "nadenkend",
+     "thoughtfully"
+    ],
+    [
+     "voor elkaar krijgt",
+     "get done (voor elkaar krijgen)"
+    ]
+   ]
+  },
+  "6133": {
+   "t": "Het bevel van de Ranger Lord",
+   "d": "De hoge elfen van de Quel'Lithien lodge hebben iets wat van mij is, $c: een document over mijn leven als sterveling.$B$BEn voor je het vraagt: nee, jij mag die informatie zeker niet weten. Doe gewoon wat ik zeg, worm: haal het register terug.$B$BEn, idioot, zorg dat je zoveel mogelijk strijd en verdriet achterlaat. Laat ze lijden...",
+   "o": "Ga naar de noordgrens van de Eastern Plaguelands en haal het Quel'Thalas Registry terug. Het ligt ergens in de Quel'Lithien lodge.$B$BJe moet ook 8 Rangers, 8 Pathstriders en 8 Woodsmen doden.",
+   "p": "Laat me niet wachten, $C.",
+   "c": "Ik neem aan dat je het register niet gelezen hebt. Zelfs jij zou niet zoiets stoms doen...",
+   "g": [
+    [
+     "bevel",
+     "order, behest"
+    ],
+    [
+     "hoge elfen",
+     "high elves"
+    ],
+    [
+     "sterveling",
+     "mortal"
+    ],
+    [
+     "worm",
+     "worm"
+    ],
+    [
+     "register",
+     "registry"
+    ],
+    [
+     "strijd",
+     "strife, struggle"
+    ],
+    [
+     "verdriet",
+     "grief, sorrow"
+    ],
+    [
+     "achterlaat",
+     "leave behind (achterlaten)"
+    ],
+    [
+     "noordgrens",
+     "northern border"
+    ],
+    [
+     "neem aan",
+     "assume (aannemen)"
+    ],
+    [
+     "stoms",
+     "stupid (stom)"
+    ]
+   ]
+  },
+  "6135": {
+   "t": "Duskwing, wat haat ik je...",
+   "d": "Tot nu toe heb je de opdrachten uitgevoerd die ik je gaf, al was het niet altijd op tijd.$B$BJe denkt zeker dat je klaar bent voor een uitdaging. Ja... Ja, idioot, misschien ben je klaar voor een reeks moeilijkere opdrachten.$B$BDe albino-demonvleermuis Duskwing zwerft door het land net ten noorden van hier. Spoor hem op en vernietig hem. Breng me een stuk van zijn witte vacht, dan krijg je een beloning.$b",
+   "o": "Vind Duskwing en dood hem. Haal een Patch of Duskwing's Fur van het lijk en breng het naar Nathanos Blightcaller.$B$BMen zegt dat Duskwing rondzwerft in het land ten noorden van Marris Stead.",
+   "p": "Ik raad je af om deze uitdaging alleen aan te gaan, $c.",
+   "c": "Uitstekend werk, idioot. Ik maak van deze vacht iets wat je kunt gebruiken.",
+   "g": [
+    [
+     "uitgevoerd",
+     "carried out (uitvoeren)"
+    ],
+    [
+     "uitdaging",
+     "challenge"
+    ],
+    [
+     "reeks",
+     "series, set"
+    ],
+    [
+     "zwerft",
+     "roams (zwerven)"
+    ],
+    [
+     "spoor hem op",
+     "track him down (opsporen)"
+    ],
+    [
+     "vacht",
+     "fur, pelt"
+    ],
+    [
+     "lijk",
+     "corpse"
+    ],
+    [
+     "rondzwerft",
+     "roams around (rondzwerven)"
+    ],
+    [
+     "raad je af",
+     "advise you against (afraden)"
+    ],
+    [
+     "aan te gaan",
+     "to take on (aangaan)"
+    ]
+   ]
+  },
+  "6136": {
+   "t": "De Dikke",
+   "d": "Voorbij het kamp van de Argent Dawn bij Light's Hope en ten westen van Northdale vind je het dikke madenbeest Borelgore.$B$BIk ben hele regimenten aan dat monster kwijtgeraakt. Zijn omvang kent geen grenzen! Hoe meer hij eet, hoe dikker hij wordt...$B$BIk zou er geen emotionele schade van hebben als het beest jou opvrat, maar ik heb liever dat jij wint. Ik raad je aan om voor deze opdracht de hulp van anderen te vragen. Borelgore staat erom bekend dat hij kleine bataljons opeet die dom genoeg zijn om hem aan te vallen.",
+   "o": "Vind Borelgore in de noordelijke woestenij van de Eastern Plaguelands en vernietig hem. Ga terug naar Nathanos Blightcaller als de opdracht klaar is.",
+   "p": "Heb ik je de laatste tijd verteld dat ik je haat?",
+   "c": "Ga zo door, en misschien moet ik je promoveren van idioot tot zwakzinnige eerste klasse.",
+   "g": [
+    [
+     "madenbeest",
+     "maggot beast"
+    ],
+    [
+     "regimenten",
+     "regiments (regiment)"
+    ],
+    [
+     "omvang",
+     "size, girth"
+    ],
+    [
+     "kent geen grenzen",
+     "knows no bounds"
+    ],
+    [
+     "emotionele schade",
+     "emotional harm"
+    ],
+    [
+     "opvrat",
+     "devoured (opvreten)"
+    ],
+    [
+     "staat erom bekend",
+     "is known for it (bekendstaan)"
+    ],
+    [
+     "bataljons",
+     "battalions (bataljon)"
+    ],
+    [
+     "woestenij",
+     "wasteland"
+    ],
+    [
+     "promoveren",
+     "to promote"
+    ],
+    [
+     "zwakzinnige",
+     "mental deficient (zwakzinnig)"
+    ]
+   ]
+  },
+  "6144": {
+   "t": "De oproep van het opperbevel",
+   "d": "Het bevel is gekomen, $c. Varimathras zelf heeft gevraagd of ik mijn meest 'bekwame' agenten terugstuur naar de Undercity, voor een zeer gevoelige tactische operatie.$B$BHelaas zijn mijn meest bekwame agenten meer dan drie jaar geleden gedood. In hun plaats heb ik een verzameling hersendood gespuis.$B$B<Nathanos kijkt je koud aan.>$B$BGa meteen naar de Undercity en meld je bij Varimathras. Zet me niet voor schut, $c!",
+   "o": "Ga naar de Undercity en spreek met Varimathras.",
+   "c": "De Grand Crusader zit veilig in de Scarlet Bastion, terwijl zijn troepen je land binnenstromen, je gebouwen en monumenten ontheiligen en je volk vermoorden.$B$BDe Dark Lady heeft mij bevolen om eens en voor altijd met dit insect af te rekenen. Jij wordt het werktuig van de wraak van de Forsaken.",
+   "g": [
+    [
+     "opperbevel",
+     "high command"
+    ],
+    [
+     "bekwame",
+     "capable (bekwaam)"
+    ],
+    [
+     "gevoelige",
+     "sensitive (gevoelig)"
+    ],
+    [
+     "tactische",
+     "tactical (tactisch)"
+    ],
+    [
+     "helaas",
+     "unfortunately"
+    ],
+    [
+     "hersendood",
+     "brain-dead"
+    ],
+    [
+     "gespuis",
+     "riff-raff, rabble"
+    ],
+    [
+     "zet me niet voor schut",
+     "don't embarrass me (voor schut zetten)"
+    ],
+    [
+     "binnenstromen",
+     "pour into (binnenstromen)"
+    ],
+    [
+     "ontheiligen",
+     "desecrate"
+    ],
+    [
+     "bevolen",
+     "commanded (bevelen)"
+    ],
+    [
+     "eens en voor altijd",
+     "once and for all"
+    ],
+    [
+     "af te rekenen",
+     "to deal with (afrekenen met)"
+    ],
+    [
+     "werktuig",
+     "instrument, tool"
+    ],
+    [
+     "wraak",
+     "revenge, reckoning"
+    ]
+   ]
+  },
+  "6145": {
+   "t": "De Crimson Courier",
+   "d": "Zoals het lichaam niet kan overleven zonder het hoofd, zo kan het hoofd niet overleven zonder het lichaam. De verdediging van het commando van de Scarlet Crusade in Stratholme is bijna ondoordringbaar. Daarom moeten we het lichaam onder het hoofd weghalen.$B$BMijn Deathstalkers verzamelen gegevens over wat de Crusade buiten Stratholme doet. Elke dag wordt er een rapport van hun hoofdkwartier naar Tyr's Hand gestuurd. Dat rapport is de sleutel, $r! Vind de Crimson Courier en haal dat rapport terug. Breng het naar Nathanos.",
+   "o": "Ga terug naar de Eastern Plaguelands en spoor de Crimson Courier op. Dood de Courier en haal het Grand Crusader's Command terug.$B$BBreng het bevel naar Nathanos Blightcaller voor verdere instructies.",
+   "p": "Als je nu slaagt, heb je mijn respect bijna verdiend, $C.",
+   "c": "<Nathanos lacht.>$B$BUitstekend! Eindelijk! Een kans om de Scarlet Oracle te vernietigen!",
+   "g": [
+    [
+     "overleven",
+     "to survive"
+    ],
+    [
+     "verdediging",
+     "defences"
+    ],
+    [
+     "ondoordringbaar",
+     "impenetrable"
+    ],
+    [
+     "weghalen",
+     "to take away"
+    ],
+    [
+     "gegevens",
+     "data"
+    ],
+    [
+     "hoofdkwartier",
+     "headquarters, central command"
+    ],
+    [
+     "spoor … op",
+     "track down (opsporen)"
+    ],
+    [
+     "verdere",
+     "further (verder)"
+    ],
+    [
+     "slaagt",
+     "succeed (slagen)"
+    ],
+    [
+     "verdiend",
+     "earned (verdienen)"
+    ]
+   ]
+  },
+  "6146": {
+   "t": "De list van Nathanos",
+   "d": "Ik heb een paar dingen in dit bevel veranderd. Als onze kleine list werkt, stellen ze de Scarlet Oracle bloot en slaan wij toe!$B$BLet nu goed op, $c. Je moet dit bevel afleveren bij de Crusader Lord, Valdelmar.$B$BHoe? Je geeft het hem gewoon, idioot.$B$BNeem het bevel en deze rotte appel mee naar Tyr's Hand. Eet de appel als je de stad binnengaat. Dan verander je in iets wat de mensen... beter kunnen verdragen. Neem het bevel en geef het aan de Crusader Lord, Valdelmar.",
+   "o": "Ga naar Tyr's Hand, ten zuidoosten van Marris Stead. Neem daar een hap van de Rotten Apple. Lever het Grand Crusader's Command af bij Crusader Lord Valdelmar terwijl je vermomd bent als lid van de Scarlet Crusade.",
+   "p": "Dit is onaanvaardbaar, soldaat!",
+   "c": "Waar was je? We dachten dat de Scourge je gevangen had.",
+   "g": [
+    [
+     "list",
+     "ruse, trick"
+    ],
+    [
+     "stellen … bloot",
+     "expose (blootstellen)"
+    ],
+    [
+     "slaan wij toe",
+     "we strike (toeslaan)"
+    ],
+    [
+     "afleveren",
+     "to deliver"
+    ],
+    [
+     "rotte",
+     "rotten (rot)"
+    ],
+    [
+     "verdragen",
+     "to tolerate, to stomach"
+    ],
+    [
+     "hap",
+     "bite"
+    ],
+    [
+     "vermomd",
+     "disguised (vermommen)"
+    ],
+    [
+     "onaanvaardbaar",
+     "unacceptable"
+    ],
+    [
+     "gevangen",
+     "captured (vangen)"
+    ]
+   ]
+  },
+  "6147": {
+   "t": "Terug naar Nathanos",
+   "d": "De Grand Crusader doet een ongewoon verzoek. Hmm, hoe dan ook... wat hij vraagt, zal gebeuren. Ga terug naar de Scarlet Bastion en laat hem weten dat de Oracle binnenkort onderweg is.$B$BWe nemen alle voorzorgsmaatregelen, zodat ze ongedeerd in Stratholme aankomt.",
+   "o": "Ga met de nieuwe informatie terug naar Nathanos Blightcaller.$b",
+   "c": "De dwazen! Niemand heeft mijn bedrog opgemerkt! Bereid je voor, $C. We moeten toeslaan met koele sluwheid!",
+   "g": [
+    [
+     "ongewoon",
+     "unusual"
+    ],
+    [
+     "verzoek",
+     "request"
+    ],
+    [
+     "voorzorgsmaatregelen",
+     "precautions (voorzorgsmaatregel)"
+    ],
+    [
+     "ongedeerd",
+     "unharmed"
+    ],
+    [
+     "dwazen",
+     "fools (dwaas)"
+    ],
+    [
+     "bedrog",
+     "deception"
+    ],
+    [
+     "opgemerkt",
+     "noticed (opmerken)"
+    ],
+    [
+     "bereid je voor",
+     "prepare yourself (zich voorbereiden)"
+    ],
+    [
+     "sluwheid",
+     "cunning"
+    ]
+   ]
+  },
+  "6148": {
+   "t": "De Scarlet Oracle, Demetria",
+   "d": "Demetria is de belangrijkste raadgever van de Grand Crusader. Ze wordt de Oracle genoemd vanwege haar 'bovennatuurlijke' zintuigen. Ze heeft de Crusade geholpen bij een aantal van hun overwinningen op de Scourge.$B$BDeze list heeft haar met succes blootgesteld. Maar als ze echt paranormale krachten heeft, verwacht ze zonder twijfel een of andere vorm van problemen. Jij gaat die 'problemen' leveren.$B$BSpoor de Oracle op en schakel haar uit. Ze zouden op dit moment uit Tyr's Hand moeten vertrekken. Maak me trots, worm.$b",
+   "o": "De Scarlet Crusade is in beweging. Ergens op de weg van Tyr's Hand naar Stratholme vind je de Oracle, Demetria, en haar gevolg. Jaag op haar en dood haar. Ga terug naar Nathanos Blightcaller als het je lukt.",
+   "p": "Hoe staat het ervoor, $N?",
+   "c": "Ze zullen jarenlang last hebben van deze klap! Goed gedaan, $N! Je hebt niet alleen mijn respect verdiend, maar ook deze beloning.",
+   "g": [
+    [
+     "raadgever",
+     "advisor"
+    ],
+    [
+     "bovennatuurlijke",
+     "otherworldly, supernatural (bovennatuurlijk)"
+    ],
+    [
+     "zintuigen",
+     "senses (zintuig)"
+    ],
+    [
+     "overwinningen",
+     "victories (overwinning)"
+    ],
+    [
+     "blootgesteld",
+     "exposed (blootstellen)"
+    ],
+    [
+     "paranormale",
+     "psychic (paranormaal)"
+    ],
+    [
+     "zonder twijfel",
+     "undoubtedly"
+    ],
+    [
+     "schakel haar uit",
+     "eliminate her (uitschakelen)"
+    ],
+    [
+     "gevolg",
+     "entourage, retinue"
+    ],
+    [
+     "hoe staat het ervoor",
+     "what is the status"
+    ],
+    [
+     "klap",
+     "blow"
+    ]
+   ]
+  },
+  "9665": {
+   "t": "Onze verdediging versterken",
+   "d": "Agenten van de Forsaken hebben een plan van de Alliance ontdekt. De Alliance wil hier in de Eastern Plaguelands nieuwe bases opzetten, in verlaten torens in het hele gebied.$b$bHet is van groot belang dat we ze geen sterke positie laten opbouwen aan onze oostgrens. Daarom moeten we deze inval van de Alliance tegenhouden. Ons huidige plan is om ze te verdrijven uit de torens die ze al veroverd hebben. De torens die wij in handen hebben, bezetten we tegen nieuwe aanvallen.",
+   "o": "Verover Crown Guard Tower, Eastwall Tower, Northpass Tower en Plaguewood Tower in de Eastern Plaguelands. Ga daarna terug naar Emmisary Gormok bij Light's Hope Chapel.",
+   "p": "Ze moeten wel dwazen zijn als ze denken dat wij ze bases laten opzetten zo dicht bij een van onze hoofdsteden.$B$BWe laten ze bloeden tot ze zich omdraaien en terugtrekken naar het zuiden.",
+   "c": "Dit is goed nieuws, $N. Het blijft hier in de Plaguelands een voortdurende strijd, tot we de troepen van de Alliance helemaal hebben teruggedreven.$B$BTot die dag hoop ik dat je ons blijft helpen.",
+   "o1": "Verover Crown Guard Tower",
+   "o2": "Verover Eastwall Tower",
+   "o3": "Verover Northpass Tower",
+   "o4": "Verover Plaguewood Tower",
+   "g": [
+    [
+     "versterken",
+     "to strengthen, to bolster"
+    ],
+    [
+     "opzetten",
+     "to set up"
+    ],
+    [
+     "verlaten",
+     "abandoned"
+    ],
+    [
+     "van groot belang",
+     "of great importance, imperative"
+    ],
+    [
+     "oostgrens",
+     "eastern border"
+    ],
+    [
+     "inval",
+     "incursion, invasion"
+    ],
+    [
+     "tegenhouden",
+     "to stop, to hold off"
+    ],
+    [
+     "verdrijven",
+     "to drive out"
+    ],
+    [
+     "veroverd",
+     "captured, seized (veroveren)"
+    ],
+    [
+     "bezetten",
+     "to occupy"
+    ],
+    [
+     "hoofdsteden",
+     "capitals (hoofdstad)"
+    ],
+    [
+     "terugtrekken",
+     "to retreat"
+    ],
+    [
+     "voortdurende",
+     "constant (voortdurend)"
+    ],
+    [
+     "teruggedreven",
+     "driven back (terugdrijven)"
+    ]
+   ]
+  },
+  "4724": {
+   "t": "De roedelmeesteres",
+   "d": "Sommigen zeggen dat de worgs van de Blackrock-orcs het werk zijn van een bovennatuurlijke kracht. Anderen zeggen dat het geen echte worgs zijn, maar een soort demonenhonden, die de orcs kregen van een gevallen pit lord.$B$BDe waarheid is veel minder vergezocht, maar net zo angstaanjagend. De worgs van Blackrock komen van Halycon en haar partner. Halycon is de reusachtige stammoeder van de worgs. Haar partner? Niemand heeft het ooit overleefd om dat verhaal te vertellen.$B$BSla toe in het hart van de worgs. Vernietig Halycon... en $N, let goed op wat er achter je gebeurt.",
+   "o": "Dood Halycon, de roedelmeesteres van de Bloodaxe-worgs.",
+   "p": "Nu de roedelmeesteres dood is, kunnen we de worgwachters van de Spire uitdunnen en uiteindelijk wat vooruitgang boeken richting de stad.",
+   "c": "Hondsdolle welpen? Gizrul the Slavener? En je leeft nog om het te vertellen?! Ongelooflijk! Een welverdiende beloning!",
+   "g": [
+    [
+     "roedelmeesteres",
+     "pack mistress"
+    ],
+    [
+     "bovennatuurlijke",
+     "supernatural (bovennatuurlijk)"
+    ],
+    [
+     "demonenhonden",
+     "demon dogs"
+    ],
+    [
+     "gevallen",
+     "fallen"
+    ],
+    [
+     "vergezocht",
+     "far-fetched, contrived"
+    ],
+    [
+     "angstaanjagend",
+     "frightening"
+    ],
+    [
+     "reusachtige",
+     "gigantic (reusachtig)"
+    ],
+    [
+     "stammoeder",
+     "den mother, matriarch"
+    ],
+    [
+     "overleefd",
+     "survived (overleven)"
+    ],
+    [
+     "uitdunnen",
+     "to thin out"
+    ],
+    [
+     "vooruitgang boeken",
+     "to make headway"
+    ],
+    [
+     "hondsdolle",
+     "rabid (hondsdol)"
+    ],
+    [
+     "welpen",
+     "pups, cubs (welp)"
+    ],
+    [
+     "welverdiende",
+     "well-earned (welverdiend)"
+    ]
+   ]
+  },
+  "4768": {
+   "t": "De Darkstone Tablet",
+   "d": "In de Darkstone Tablet staan de geschriften van de dwerg Urheld Darkstone, die al lang dood is. Hij was een zeer bekwame alchemist, maar zijn tijdgenoten vonden hem gek. Daarom deelde hij zijn onderzoek niet.$B$BMaar hij heeft het wel in tabletten gegraveerd. Ik geloof dat zo'n tablet in Blackrock Spire ligt, in een zaal die vroeger de Hall of Fortune heette. Ik weet niet hoe die nu heet, want weinigen gaan Blackrock binnen en komen terug.$B$BMaar als je de gevaren durft te trotseren en met de tablet bij me terugkomt, wordt je beloning groot.",
+   "o": "Breng de Darkstone Tablet naar Shadow Mage Vivian Lagrave in Kargath.",
+   "p": "Heb je de Tablet gevonden, $N? Ik verlang ernaar om de geheimen ervan te ontdekken.",
+   "c": "Uitstekend. De formules in deze tablet zullen dagen onderzoek kosten, maar ik weet zeker dat dat onderzoek mooie vruchten zal afwerpen.$b$bDank je, $N. Je bent van onschatbare waarde voor ons geweest.",
+   "g": [
+    [
+     "geschriften",
+     "writings"
+    ],
+    [
+     "bekwame",
+     "skilled (bekwaam)"
+    ],
+    [
+     "tijdgenoten",
+     "contemporaries (tijdgenoot)"
+    ],
+    [
+     "onderzoek",
+     "research"
+    ],
+    [
+     "gegraveerd",
+     "engraved, etched (graveren)"
+    ],
+    [
+     "trotseren",
+     "to brave, to defy"
+    ],
+    [
+     "verlang ernaar",
+     "yearn for it (verlangen naar)"
+    ],
+    [
+     "geheimen",
+     "secrets (geheim)"
+    ],
+    [
+     "formules",
+     "formulae (formule)"
+    ],
+    [
+     "vruchten afwerpen",
+     "to bear fruit"
+    ],
+    [
+     "onschatbare waarde",
+     "invaluable worth"
+    ]
+   ]
+  },
+  "4769": {
+   "t": "Vivian Lagrave en de Darkstone Tablet",
+   "d": "Vivian Lagrave heeft me een bericht gestuurd uit Kargath, in de Badlands. Door haar studie gelooft ze dat er in Blackrock Spire een oude tekst is die ons onderzoek zou helpen. Om dat te bevestigen, heeft ze iemand nodig die de tekst uit de spits haalt. Geen makkelijke taak.$B$BAls je interesse hebt, spreek dan met Vivian in Kargath.",
+   "o": "Spreek met Shadowmage Vivian Lagrave.",
+   "c": "Het is waar. Ik geloof dat er in Blackrock Spire een tablet ligt met oude alchemistische recepten. Ik ben blij dat je er bent, want ik heb hulp nodig om de tablet terug te halen.$B$BMaak het je gemakkelijk, dan leg ik het verder uit.",
+   "g": [
+    [
+     "bericht",
+     "message"
+    ],
+    [
+     "studie",
+     "studies"
+    ],
+    [
+     "onderzoek",
+     "research"
+    ],
+    [
+     "bevestigen",
+     "to confirm"
+    ],
+    [
+     "spits",
+     "spire"
+    ],
+    [
+     "alchemistische",
+     "alchemical (alchemistisch)"
+    ],
+    [
+     "recepten",
+     "recipes (recept)"
+    ],
+    [
+     "terug te halen",
+     "to retrieve (terughalen)"
+    ],
+    [
+     "maak het je gemakkelijk",
+     "make yourself comfortable"
+    ]
+   ]
+  },
+  "6602": {
+   "t": "Het bloed van de zwarte drakenkampioen",
+   "d": "Je gaat de generaal wel bezoeken, ja, maar niet als lid van de Black Dragonflight.$B$BWeet je, voor de Black Flight is een ceremonie gewoon een ander woord voor bloed laten vloeien.$B$BHet slapende amulet heeft alleen het bloed van de generaal nodig om actief te worden. Een van hun grove beveiligingen.$B$BGa terug naar Blackrock Spire en vernietig Drakkisath. Breng zijn bloed hier, dan activeer ik de sleutel tot het hol van Onyxia.",
+   "o": "Ga naar Blackrock Spire en dood General Drakkisath. Verzamel zijn bloed en breng het naar Rexxar.",
+   "p": "Ik hoef je vast niet te vertellen dat je Drakkisath niet licht moet opvatten.$B$BIk laat de duizenden die door zijn hand gestorven zijn het woord doen.",
+   "c": "Een overwinning die nog vele jaren herinnerd zal worden, $N. De Drakefire Amulet opent het hol van Onyxia. Verzamel je bondgenoten en breng de Horde de overwinning.",
+   "g": [
+    [
+     "drakenkampioen",
+     "dragon champion"
+    ],
+    [
+     "generaal",
+     "general"
+    ],
+    [
+     "bloed laten vloeien",
+     "bloodletting, to shed blood"
+    ],
+    [
+     "slapende",
+     "latent, dormant (slapend)"
+    ],
+    [
+     "grove",
+     "crude (grof)"
+    ],
+    [
+     "beveiligingen",
+     "failsafes, safety measures (beveiliging)"
+    ],
+    [
+     "hol",
+     "lair, den"
+    ],
+    [
+     "licht opvatten",
+     "to take lightly"
+    ],
+    [
+     "het woord doen",
+     "to do the talking"
+    ],
+    [
+     "overwinning",
+     "victory"
+    ],
+    [
+     "herinnerd",
+     "remembered (herinneren)"
+    ],
+    [
+     "bondgenoten",
+     "allies (bondgenoot)"
+    ]
+   ]
+  },
+  "8602": {
+   "t": "De Stormcaller's Pauldrons",
+   "d": "Bij ons wordt gezegd dat de sierlijke schouderpantsers van de sterfelijke volken begonnen als een poging om de vleugels van een draak na te bootsen.$B$BBreng me de banden die de hoogste Qiraji-leiders dragen, dan maak ik er schouderstukken van die nog angstaanjagender zijn dan de vleugels van Nefarian zelf!",
+   "o": "Breng de Qiraji Bindings of Dominance, 2 Idols of Life, 5 Gold Scarabs en 5 Crystal Scarabs naar Andorgos in Ahn'Qiraj. Je moet ook de reputatie Neutral hebben bij de Brood of Nozdormu om deze quest af te ronden.",
+   "p": "Heb je de onderdelen verzameld die ik nodig heb?",
+   "c": "Van de materialen die je brengt en van de schubben van onze gevallen Qiraji-vijanden maak ik deze schouderstukken voor je, sterveling. Mogen ze je de bescherming geven die je nodig hebt, en moge de aanblik ervan onze vijanden angst aanjagen.",
+   "g": [
+    [
+     "sierlijke",
+     "ornate, elegant (sierlijk)"
+    ],
+    [
+     "schouderpantsers",
+     "shoulder armour"
+    ],
+    [
+     "sterfelijke",
+     "mortal (sterfelijk)"
+    ],
+    [
+     "poging",
+     "attempt"
+    ],
+    [
+     "na te bootsen",
+     "to emulate, to imitate (nabootsen)"
+    ],
+    [
+     "banden",
+     "bindings (band)"
+    ],
+    [
+     "schouderstukken",
+     "pauldrons, shoulder pieces"
+    ],
+    [
+     "angstaanjagender",
+     "more dreadful (angstaanjagend)"
+    ],
+    [
+     "onderdelen",
+     "components (onderdeel)"
+    ],
+    [
+     "schubben",
+     "scales (schub)"
+    ],
+    [
+     "aanblik",
+     "sight"
+    ],
+    [
+     "angst aanjagen",
+     "to strike fear into"
+    ]
+   ]
+  },
+  "8621": {
+   "t": "De Stormcaller's Footguards",
+   "d": "De magie van de Qiraji is sterk en oud. De machtigste qiraji gebruiken voorwerpen die zo krachtig zijn dat zelfs een draak zou aarzelen.$B$BBreng me de banden van overheersing van de qiraji en een paar andere kleine onderdelen, dan maak ik een paar krachtige laarzen voor je.$B$BJe zult er veel aan hebben in het gevecht tegen de vijand.",
+   "o": "Breng de Qiraji Bindings of Dominance, 2 Idols of the Sage, 5 Bronze Scarabs en 5 Clay Scarabs naar Kandrostrasz in Ahn'Qiraj. Voor deze quest heb je ook de reputatie Neutral nodig bij de Brood of Nozdormu.",
+   "p": "Heb je de voorwerpen die ik vroeg, $n?",
+   "c": "Je hebt het goed gedaan, $n. Je hebt bewezen dat je geen gewone sterveling bent.$b$bIk geef je deze in het vertrouwen dat ze je zullen helpen om de gemene qiraji te verpletteren.",
+   "g": [
+    [
+     "machtigste",
+     "most powerful (machtig)"
+    ],
+    [
+     "aarzelen",
+     "to hesitate, to pause"
+    ],
+    [
+     "overheersing",
+     "dominance"
+    ],
+    [
+     "onderdelen",
+     "components (onderdeel)"
+    ],
+    [
+     "laarzen",
+     "boots (laars)"
+    ],
+    [
+     "bewezen",
+     "proven (bewijzen)"
+    ],
+    [
+     "sterveling",
+     "mortal"
+    ],
+    [
+     "vertrouwen",
+     "confidence, trust"
+    ],
+    [
+     "gemene",
+     "vile, nasty (gemeen)"
+    ],
+    [
+     "verpletteren",
+     "to crush"
+    ]
+   ]
+  },
+  "8622": {
+   "t": "De Stormcaller's Hauberk",
+   "d": "De Oude God, wiens naam niemand uitspreekt, ontwaakt langzaam uit zijn slaap onder Ahn'Qiraj. Het vreselijke lot dat Azeroth wacht, kan over dagen of jaren komen; tijd betekent niets voor wezens met zijn macht.$B$BAls de sterren gunstig staan, zal hij met vreselijke woede uithalen naar alle levende wezens. Je moet hem voor die tijd vinden en een manier vinden om een einde aan zijn bestaan te maken.$B$BDoe dit en breng me een stuk van zijn omhulsel. Ik geef je een pantser dat geen sterveling ooit gedragen heeft... een pantser voor iemand die een god heeft gedood!",
+   "o": "Breng de Carapace of the Old God, 2 Idols of the Sage, 5 Silver Scarabs en 5 Bone Scarabs naar Vethsera in Ahn'Qiraj. Je moet ook de reputatie Honored hebben bij de Brood of Nozdormu om deze quest af te ronden.",
+   "p": "Heb je de voorwerpen die ik vroeg, $n?",
+   "c": "Ik had niet verwacht dat je van je poging zou terugkomen, $n.$b$bJe hebt een lot vervuld dat groter is dan dat van de meeste onsterfelijke wezens.$b$bDoor C'Thun te doden heb je niet alleen heel Azeroth gered. Je hebt ook de weegschaal van kosmische gebeurtenissen laten doorslaan, op een manier die je niet kunt begrijpen.$b$bAanvaard dit borstpantser als symbool van de roem en de last die je daden met zich mee zullen brengen.$b$bMoge zijn kracht je helpen bij de uitdagingen die op je wachten, godendoder!",
+   "g": [
+    [
+     "wiens",
+     "whose"
+    ],
+    [
+     "uitspreekt",
+     "pronounces, speaks (uitspreken)"
+    ],
+    [
+     "ontwaakt",
+     "awakens (ontwaken)"
+    ],
+    [
+     "lot",
+     "fate, destiny"
+    ],
+    [
+     "gunstig",
+     "favourable"
+    ],
+    [
+     "uithalen",
+     "to lash out"
+    ],
+    [
+     "bestaan",
+     "existence"
+    ],
+    [
+     "omhulsel",
+     "husk, shell"
+    ],
+    [
+     "vervuld",
+     "fulfilled (vervullen)"
+    ],
+    [
+     "onsterfelijke",
+     "immortal (onsterfelijk)"
+    ],
+    [
+     "weegschaal",
+     "scales"
+    ],
+    [
+     "laten doorslaan",
+     "tipped (doen doorslaan)"
+    ],
+    [
+     "aanvaard",
+     "accept (aanvaarden)"
+    ],
+    [
+     "borstpantser",
+     "breastplate"
+    ],
+    [
+     "last",
+     "burden"
+    ],
+    [
+     "godendoder",
+     "god-slayer"
+    ]
+   ]
+  },
+  "8623": {
+   "t": "De Stormcaller's Diadem",
+   "d": "De Twin Emperors... hun eindeloze gefluister tast langzaam mijn verstand aan. Ze bespotten me, omdat ze weten dat ik niet verder hun gebied in kan gaan om mijn broer Arygos te redden.$B$BIn mijn visioenen zie ik hun monsterlijke gezichten, versierd met machtige kronen. Maar ik zal wraak nemen... Ik zal deze symbolen van Qiraji-macht omvormen tot symbolen die beter bij onze behoeften passen.$B$BBreng me de onderdelen die ik nodig heb, $N. Ik geef je een hoofdtooi met een kracht die zijn gelijke niet kent.",
+   "o": "Breng Vek'lor's Diadem, 2 Idols of Rebirth, 5 Stone Scarabs en 5 Crystal Scarabs naar Andorgos in Ahn'Qiraj. Je moet ook de reputatie Friendly hebben bij de Brood of Nozdormu om deze quest af te ronden.",
+   "p": "Heb je de voorwerpen die ik vroeg, $n?",
+   "c": "Het is je gelukt! Het gefluister van de Twin Emperors is gestopt.$b$bNeem dit als beloning. Alleen al de aanblik ervan zal de Qiraji angst aanjagen... het zal ze herinneren aan hun gevallen leiders en aan de sterveling die hen doodde.",
+   "g": [
+    [
+     "eindeloze",
+     "incessant, endless (eindeloos)"
+    ],
+    [
+     "gefluister",
+     "whispering"
+    ],
+    [
+     "tast … aan",
+     "affects, erodes (aantasten)"
+    ],
+    [
+     "verstand",
+     "sanity, mind"
+    ],
+    [
+     "bespotten",
+     "mock"
+    ],
+    [
+     "visioenen",
+     "visions (visioen)"
+    ],
+    [
+     "versierd",
+     "adorned (versieren)"
+    ],
+    [
+     "kronen",
+     "crowns (kroon)"
+    ],
+    [
+     "wraak nemen",
+     "to take revenge"
+    ],
+    [
+     "omvormen",
+     "to transform, to transmute"
+    ],
+    [
+     "behoeften",
+     "needs (behoefte)"
+    ],
+    [
+     "hoofdtooi",
+     "headpiece"
+    ],
+    [
+     "zijn gelijke niet kent",
+     "is unmatched"
+    ],
+    [
+     "aanblik",
+     "sight"
+    ]
+   ]
+  },
+  "8624": {
+   "t": "De Stormcaller's Leggings",
+   "d": "Wil je je waarde bewijzen aan mijn soort, sterveling? Goed dan, misschien kunnen we elkaar helpen.$B$BDe oude zandworm Ouro is een wezen met legendarische kracht. Volgens geruchten heeft de Oude God hem zelf gemaakt, als een bespotting van het leven.$B$BZijn huid is onnatuurlijk... dik, bijna ondoordringbaar, maar toch soepel. Daardoor kan hij bewegen met de snelheid en gratie van een veel kleiner wezen.$B$BBreng me een stukje van zijn huid, samen met andere kleine onderdelen, dan maak ik beenstukken met grote kracht voor je.",
+   "o": "Breng de Skin of the Great Sandworm, 2 Idols of Strife, 5 Bronze Scarabs en 5 Ivory Scarabs naar Kandrostrasz in Ahn'Qiraj. Je moet ook de reputatie Friendly hebben bij de Brood of Nozdormu om deze quest af te ronden.",
+   "p": "Heb je de voorwerpen die ik vroeg, $n?",
+   "c": "Ja... de huid van de worm wordt een uitstekende beschermende laag. Samen met de sterkste delen van de Qiraji die we onderweg hierheen hebben vernietigd, wordt dit een geducht pantserstuk. Moge het je helpen tegen de onbeschrijflijke verschrikkingen die binnen op je wachten!",
+   "g": [
+    [
+     "waarde",
+     "worth"
+    ],
+    [
+     "zandworm",
+     "sandworm"
+    ],
+    [
+     "legendarische",
+     "legendary (legendarisch)"
+    ],
+    [
+     "volgens geruchten",
+     "rumour has it"
+    ],
+    [
+     "bespotting",
+     "mockery"
+    ],
+    [
+     "onnatuurlijk",
+     "unnatural"
+    ],
+    [
+     "ondoordringbaar",
+     "impenetrable"
+    ],
+    [
+     "soepel",
+     "flexible, supple"
+    ],
+    [
+     "gratie",
+     "grace"
+    ],
+    [
+     "beenstukken",
+     "leg pieces, leggings"
+    ],
+    [
+     "beschermende laag",
+     "protective layer"
+    ],
+    [
+     "geducht",
+     "formidable"
+    ],
+    [
+     "onbeschrijflijke",
+     "unspeakable (onbeschrijflijk)"
+    ],
+    [
+     "verschrikkingen",
+     "horrors (verschrikking)"
+    ]
+   ]
+  },
+  "8690": {
+   "t": "De Cloak of the Gathering Storm",
+   "d": "Ik ben blij te horen dat je ons helpt bij onze aanval op Ahn'Qiraj, $N. Ik kan een beschermend voorwerp voor je maken dat je helpt in het gevecht tegen onze vijand, $c.$B$BIk heb een Qiraji-draperie nodig, die ik natuurlijk op jouw maat maak. Ik heb ook beeldjes en scarabeeën nodig, waarmee ik een passende sluiting maak.$B$BIk beloof je dat je niet teleurgesteld zult zijn.",
+   "o": "Breng 1 Qiraji Regal Drape, 2 Obsidian Idols, 5 Clay Scarabs en 5 Gold Scarabs naar Keyl Swiftclaw in Silithus. Je moet ook de reputatie Revered hebben bij de Cenarion Circle om deze quest af te ronden.",
+   "p": "Heb je de materialen voor de mantel meegebracht, $N?",
+   "c": "Ah ja... deze draperie is smetteloos.$B$BNeem deze mantel, $N. Moge hij je beschermen tegen de smerige magie van de Qiraji.",
+   "g": [
+    [
+     "beschermend",
+     "protective"
+    ],
+    [
+     "draperie",
+     "drape"
+    ],
+    [
+     "op jouw maat",
+     "to your size"
+    ],
+    [
+     "beeldjes",
+     "idols, figurines (beeldje)"
+    ],
+    [
+     "scarabeeën",
+     "scarabs (scarabee)"
+    ],
+    [
+     "passende",
+     "suitable (passend)"
+    ],
+    [
+     "sluiting",
+     "clasp, fastening"
+    ],
+    [
+     "teleurgesteld",
+     "disappointed"
+    ],
+    [
+     "mantel",
+     "cloak"
+    ],
+    [
+     "smetteloos",
+     "immaculate, flawless"
+    ],
+    [
+     "smerige",
+     "foul (smerig)"
+    ]
+   ]
+  },
+  "8698": {
+   "t": "De Ring of the Gathering Storm",
+   "d": "Men zegt dat de ringen van de Qiraji-luitenants hun geduchte vaardigheden geven. De verdorven edelstenen erop kunnen in theorie vervangen worden door zuiverder materiaal. Zo kun je onverdorven versies van de ringen maken.$B$BDe edelstenen op Qiraji-beeldjes zouden heel goed werken, want ze zijn van betere kwaliteit.$B$BBreng me de ring en de beeldjes, dan maak ik een krachtige ring voor je, $c.",
+   "o": "Breng 1 Qiraji Magisterial Ring, 2 Vermillion Idols, 5 Silver Scarabs en 5 Bone Scarabs naar Windcaller Yessendra in Silithus. Je moet ook de reputatie Honored hebben bij de Cenarion Circle om deze quest af te ronden.",
+   "p": "Heb je de ring en de materialen meegebracht, $N?",
+   "c": "Ik vervang de edelsteen op de ring voor je. Je zult merken dat het effect veel... prettiger is.",
+   "g": [
+    [
+     "luitenants",
+     "lieutenants (luitenant)"
+    ],
+    [
+     "geduchte",
+     "formidable (geducht)"
+    ],
+    [
+     "vaardigheden",
+     "abilities (vaardigheid)"
+    ],
+    [
+     "verdorven",
+     "corrupted"
+    ],
+    [
+     "edelstenen",
+     "gems (edelsteen)"
+    ],
+    [
+     "vervangen",
+     "to replace, to swap out"
+    ],
+    [
+     "zuiverder",
+     "purer (zuiver)"
+    ],
+    [
+     "onverdorven",
+     "uncorrupted"
+    ],
+    [
+     "kwaliteit",
+     "quality"
+    ],
+    [
+     "prettiger",
+     "more agreeable (prettig)"
+    ]
+   ]
+  },
+  "8706": {
+   "t": "De Hammer of the Gathering Storm",
+   "d": "De Qiraji en hun dienaren gebruiken voorwerpen van de zeldzaamste en beste materialen: botten van reusachtige oude wezens, edelstenen uit de diepten van de aarde, metalen die zuiver en sterk zijn.$B$BAlleen al als ik Qiraji-voorwerpen zie, wil ik mijn vak beoefenen met hun gebroken en omgesmolten stukken. Bewijs je trouw aan de Circle, $N, dan maak ik een krachtig wapen voor je van de beste Qiraji-materialen.",
+   "o": "Breng 1 Qiraji Spiked Hilt, 2 Amber Idols, 5 Ivory Scarabs en 5 Bronze Scarabs naar Warden Haro in Silithus. Je moet ook de reputatie Exalted hebben bij de Cenarion Circle om deze quest af te ronden.",
+   "p": "Heb je de onderdelen meegebracht die ik nodig heb, $N?",
+   "c": "Je hebt het goed gedaan, $C. Dit is een meesterlijk gevest... de balans is perfect.$B$BNeem je wapen, $N. Gebruik het met groot vertrouwen en versla onze vijanden!",
+   "g": [
+    [
+     "dienaren",
+     "servants (dienaar)"
+    ],
+    [
+     "zeldzaamste",
+     "rarest (zeldzaam)"
+    ],
+    [
+     "reusachtige",
+     "gargantuan (reusachtig)"
+    ],
+    [
+     "diepten",
+     "depths (diepte)"
+    ],
+    [
+     "vak",
+     "craft, trade"
+    ],
+    [
+     "beoefenen",
+     "to practise"
+    ],
+    [
+     "omgesmolten",
+     "smelted (omsmelten)"
+    ],
+    [
+     "trouw",
+     "allegiance, loyalty"
+    ],
+    [
+     "meesterlijk",
+     "masterful"
+    ],
+    [
+     "gevest",
+     "hilt"
+    ],
+    [
+     "versla",
+     "defeat, vanquish (verslaan)"
+    ]
+   ]
+  }
+ },
+ "words": {
+  "activeer": "activate (activeren)",
+  "albino-demonvleermuis": "albino demon bat",
+  "bloodaxe-worgs": "Bloodaxe worgs (worgs of the Bloodaxe clan)",
+  "bloot": "bare, exposed (blootstellen = to expose)",
+  "boosheid": "anger",
+  "bootsen": "part of nabootsen: to imitate, to emulate",
+  "diamant": "diamond",
+  "doorslaan": "to tip over (of scales); laten doorslaan = to tip",
+  "elfenlegendes": "elven legends",
+  "elfenvoorwerpen": "elven artifacts",
+  "emotionele": "emotional (emotioneel)",
+  "klasse": "class",
+  "kosmische": "cosmic (kosmisch)",
+  "lorekeepers": "Lorekeepers (scholars of the Shen'dralar)",
+  "monumenten": "monuments (monument)",
+  "nachtelfengeleerde": "night elf scholar",
+  "pantserstuk": "piece of armour",
+  "qiraji-beeldjes": "Qiraji idols",
+  "qiraji-draperie": "Qiraji drape",
+  "qiraji-leiders": "Qiraji leaders",
+  "qiraji-luitenants": "Qiraji lieutenants",
+  "qiraji-macht": "Qiraji power",
+  "qiraji-materialen": "Qiraji materials",
+  "qiraji-vijanden": "Qiraji enemies",
+  "qiraji-voorwerpen": "Qiraji artifacts",
+  "stamper": "pestle",
+  "tast": "part of aantasten: to affect, to wear down",
+  "verander": "change, transform (veranderen)",
+  "vijzel": "mortar (for grinding)",
+  "worgwachters": "worg sentries"
+ },
+ "terms": {}
+}
