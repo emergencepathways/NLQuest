@@ -1,0 +1,1457 @@
+{
+  "quests": {
+    "2379": {
+      "t": "Zando'zan",
+      "d": "Alleen vastberadenheid is niet genoeg om de hindernissen te overwinnen die voor ons liggen.$B$BPraat met Zando'zan. Dan begint je training als agent van de Shattered Hand.$B$BPas als je de kunst van het sluipen en stelen beheerst, kun je de volgende stap zetten naar je lot.$b",
+      "o": "Praat met Zando'zan in de Cleft of Shadow.",
+      "c": "Misschien had Zando'zan het mis. Zando'zan biedt zijn excuses aan.",
+      "g": [
+        [
+          "vastberadenheid",
+          "determination"
+        ],
+        [
+          "hindernissen",
+          "obstacles (hindernis)"
+        ],
+        [
+          "overwinnen",
+          "to overcome"
+        ],
+        [
+          "sluipen",
+          "sneaking, stealth"
+        ],
+        [
+          "stelen",
+          "stealing, thievery"
+        ],
+        [
+          "beheerst",
+          "masters (beheersen)"
+        ],
+        [
+          "lot",
+          "destiny, fate"
+        ],
+        [
+          "had het mis",
+          "was wrong (het mis hebben)"
+        ],
+        [
+          "biedt zijn excuses aan",
+          "apologizes (excuses aanbieden)"
+        ]
+      ]
+    },
+    "2380": {
+      "t": "Naar Orgrimmar!",
+      "d": "Een meester in sluipen en bedrog ben je niet. Maar dat kan en zal allemaal veranderen. Je hebt duidelijk indruk gemaakt op de leiders met je magere vaardigheden, want de grote Shenthul heeft bij naam naar je gevraagd.$B$BNeem de weg ten noorden van hier naar Orgrimmar en praat met Shenthul in de Cleft of Shadow.$b",
+      "o": "Praat met Shenthul in de Cleft of Shadow in Orgrimmar.",
+      "c": "Het is belangrijk dat de Shattered Hand waakzaam blijft, nu Thrall de Horde wil veranderen. Ons aantal alleen is niet genoeg om zijn heerschappij te overwinnen. We moeten sluipen en bedrog goed beheersen.",
+      "g": [
+        [
+          "bedrog",
+          "deception"
+        ],
+        [
+          "indruk gemaakt",
+          "impressed (indruk maken)"
+        ],
+        [
+          "magere",
+          "meager (mager)"
+        ],
+        [
+          "vaardigheden",
+          "skills (vaardigheid)"
+        ],
+        [
+          "bij naam",
+          "by name"
+        ],
+        [
+          "waakzaam",
+          "vigilant, alert"
+        ],
+        [
+          "heerschappij",
+          "rule, reign"
+        ],
+        [
+          "overwinnen",
+          "to overcome"
+        ],
+        [
+          "beheersen",
+          "to master"
+        ]
+      ]
+    },
+    "2382": {
+      "t": "Wrenix uit Ratchet",
+      "d": "Zando'zan heeft het gezien! Ja, de dag komt! De dood van Thrall... de dolk in zijn rug, gif dat door al zijn aderen sijpelt... Zando'zan heeft te veel gezegd.$B$B$N! Zando'zan heeft een taak voor $N! $N moet naar Ratchet reizen, ten oosten van de Crossroads, en praten met Wrenix the Wretched. Ga!$b",
+      "o": "Reis naar Ratchet en praat met Wrenix the Wretched.",
+      "c": "Nog een? De laatste vijf die die gekke trol naar me stuurde, werden haaienvoer. Laten we hopen dat jij het iets beter doet, hè?$b$b",
+      "g": [
+        [
+          "dolk",
+          "dagger"
+        ],
+        [
+          "gif",
+          "poison"
+        ],
+        [
+          "aderen",
+          "veins (ader)"
+        ],
+        [
+          "sijpelt",
+          "seeps (sijpelen)"
+        ],
+        [
+          "taak",
+          "task"
+        ],
+        [
+          "gekke",
+          "crazy (gek)"
+        ],
+        [
+          "haaienvoer",
+          "shark food"
+        ]
+      ]
+    },
+    "2381": {
+      "t": "De plunderaars plunderen",
+      "d": "Ik wil je niet bang maken, $N, maar de laatste vijf dieven die ik stuurde om de Southsea Treasure te stelen, kwamen in stukken bij me terug.$B$BTen zuiden van hier, langs de kust, vind je de Tide Razor, het schip van de Southsea Freebooters. Diep in het ruim ligt de buit: de Southsea Treasure. Op het tweede dek van dat schip is het piratenhol. Daar trainen ze al hun dieven.$B$BGa aan boord van dat schip, steel de schat en breng hem terug naar mij. Gebruik het piratenhol als je het stelen wilt oefenen, maar wees voorzichtig!$b",
+      "o": "Breng de Southsea Treasure terug naar Wrenix the Wretched in Ratchet. Vergeet niet een E.C.A.C. en Thieves' Tools te halen uit Wrenix's Gizmotronic Apparatus. Je hebt ze allebei nodig om je missie te voltooien.$B$BWord je aangevallen door ongewoon vijandige papegaaien? Gebruik dan je E.C.A.C.!$b$b",
+      "p": "Nou, je hebt in elk geval nog al je lichaamsdelen. Heb je de schat gevonden?$b$b",
+      "c": "Ongelooflijk! Onwaarschijnlijk! Gewoon geweldig! Je hebt talent, $N. Of dat, of je bent de grootste geluksvogel ter wereld!$b$bHier is jouw deel van de buit. Ik weet zeker dat jij deze spullen beter kunt gebruiken dan ik.$b$b",
+      "g": [
+        [
+          "dieven",
+          "thieves (dief)"
+        ],
+        [
+          "kust",
+          "coast"
+        ],
+        [
+          "ruim",
+          "hold (of a ship)"
+        ],
+        [
+          "buit",
+          "loot, payoff"
+        ],
+        [
+          "dek",
+          "deck"
+        ],
+        [
+          "piratenhol",
+          "pirate's den"
+        ],
+        [
+          "aan boord",
+          "on board"
+        ],
+        [
+          "voltooien",
+          "to complete"
+        ],
+        [
+          "vijandige",
+          "hostile (vijandig)"
+        ],
+        [
+          "papegaaien",
+          "parrots (papegaai)"
+        ],
+        [
+          "lichaamsdelen",
+          "body parts"
+        ],
+        [
+          "onwaarschijnlijk",
+          "improbable"
+        ],
+        [
+          "geluksvogel",
+          "lucky person"
+        ]
+      ]
+    },
+    "1999": {
+      "t": "Het juiste gereedschap",
+      "d": "De tovenaars van de Kirin Tor in Ambermill hebben belangrijke documenten opgeborgen over de huidige toestand van Dalaran. Dat weten we, want een van onze gevangenen heeft het bekend. Lord Varimathras heeft de Deathstalkers de taak gegeven om ze terug te halen.$b$bDie taak is voor jou, $n. Maar je hebt wel uitrusting nodig, en kennis van slotenkraken. Praat met Estelle Gendry, die onze uitrusting verzorgt, en vraag haar om een set gereedschap voordat je vertrekt.",
+      "o": "Vind het Dalaran Status Report en breng het terug naar Mennet Carkad in het Rogues' Quarter van de Undercity.",
+      "p": "Heb je de documenten gevonden, $N?",
+      "c": "Heel goed, $N! Je hebt de kunst van het slotenkraken goed geleerd, en sneller dan ik ooit had kunnen verwachten.$B$BIk zie dat ik gelijk had om je te vertrouwen. Geloof me, $gjongen:meid;, ik zie al dat je het ver zult brengen in dit werk.",
+      "g": [
+        [
+          "tovenaars",
+          "wizards (tovenaar)"
+        ],
+        [
+          "opgeborgen",
+          "stored away (opbergen)"
+        ],
+        [
+          "toestand",
+          "state, condition"
+        ],
+        [
+          "gevangenen",
+          "prisoners (gevangene)"
+        ],
+        [
+          "bekend",
+          "confessed (bekennen)"
+        ],
+        [
+          "uitrusting",
+          "equipment"
+        ],
+        [
+          "slotenkraken",
+          "lockpicking"
+        ],
+        [
+          "verzorgt",
+          "takes care of (verzorgen)"
+        ],
+        [
+          "gereedschap",
+          "tools"
+        ],
+        [
+          "het ver zult brengen",
+          "will go far (het ver brengen)"
+        ]
+      ]
+    },
+    "2458": {
+      "t": "Diep undercover",
+      "d": "De Venture Company... Misschien heb je van ze gehoord?$B$BEen jaar lang hebben we eraan gewerkt om een agent diep in hun rijen te plaatsen. Met veel hard werk en zorgvuldige planning is dat gelukt.$B$BKort geleden hoorden we dat de Venture Co. iets heel groots van plan is. Ga ten noorden van de Sludge Fen naar de toren van de Venture Co. en neem contact op met onze geheime agent, Taskmaster Fizzule.$B$BAls je de toren vindt, gebruik je deze Flare Gun. Ga daarna naar Fizzule toe en laat hem de groet van de Shattered Hand zien.$b",
+      "o": "Reis naar de Venture Co. Tower, ten noorden van de Sludge Fen, en neem contact op met de geheime agent van de Shattered Hand, Taskmaster Fizzule.$B$BAls je de toren ziet, gebruik dan de Flare Gun om Taskmaster Fizzule te laten weten dat je er bent. Schiet TWEE lichtkogels af. Ga daarna naar Taskmaster Fizzule en doe de Shattered /Salute.$B$BJe moet dit in de goede volgorde doen, want Fizzule valt iedereen aan die hij niet herkent, en doodt hem.",
+      "c": "Fijn om nog een agent van de Shattered Hand hier in de buurt te zien. Maar die lichtkogel was misschien een beetje te veel!$B$BAls je me de volgende keer wilt spreken, blaas dan twee keer op dit fluitje. Dan weet ik dat je een bondgenoot bent.",
+      "g": [
+        [
+          "rijen",
+          "ranks (rij)"
+        ],
+        [
+          "zorgvuldige",
+          "careful (zorgvuldig)"
+        ],
+        [
+          "van plan",
+          "planning, intending"
+        ],
+        [
+          "neem contact op",
+          "make contact (contact opnemen)"
+        ],
+        [
+          "geheime",
+          "secret, covert (geheim)"
+        ],
+        [
+          "groet",
+          "salute, greeting"
+        ],
+        [
+          "lichtkogels",
+          "flares (lichtkogel)"
+        ],
+        [
+          "volgorde",
+          "order, sequence"
+        ],
+        [
+          "herkent",
+          "recognizes (herkennen)"
+        ],
+        [
+          "fluitje",
+          "whistle"
+        ],
+        [
+          "bondgenoot",
+          "ally"
+        ]
+      ]
+    },
+    "2460": {
+      "t": "De Shattered Salute",
+      "d": "Als schurk van de Shattered Hand moet je absoluut de Shattered Salute leren. Alleen zo kun je echt herkennen of iemand lid is van de Hand.$B$BKijk, leer, herhaal.",
+      "o": "Doe de Shattered Salute bij Shenthul.",
+      "p": "Oefenen!",
+      "c": "Goed gedaan, $N. Je bent nu klaar om verder te gaan.",
+      "e": "Shattered Salute uitgevoerd",
+      "g": [
+        [
+          "schurk",
+          "rogue"
+        ],
+        [
+          "absoluut",
+          "absolutely"
+        ],
+        [
+          "herkennen",
+          "to recognize, identify"
+        ],
+        [
+          "lid",
+          "member"
+        ],
+        [
+          "herhaal",
+          "repeat (herhalen)"
+        ],
+        [
+          "oefenen",
+          "to practice"
+        ],
+        [
+          "uitgevoerd",
+          "performed (uitvoeren)"
+        ]
+      ]
+    },
+    "2480": {
+      "t": "De hulp van Hinott",
+      "d": "Ik heb nog nooit zulke prachtige resultaten van een gif gezien! Zanzil, zeg je? Nooit van gehoord. Maar ik moet hem prijzen om dit brouwsel.$B$BDus ik moet je hiervan genezen, en je daarna leren hoe je het gif kunt gebruiken?$B$BGeef me even de tijd om de giftige stof te onderzoeken, $N.",
+      "o": "Wacht tot Serge Hinott klaar is met het geneesmiddel.",
+      "c": "Het geneesmiddel is klaar! Drink dit tegengif, dan stopt de sluipende waanzin. Maar aan de geur kan ik niets doen.",
+      "e": "Geneesmiddel klaar",
+      "g": [
+        [
+          "prachtige",
+          "wonderful (prachtig)"
+        ],
+        [
+          "prijzen",
+          "to praise, commend"
+        ],
+        [
+          "brouwsel",
+          "concoction, brew"
+        ],
+        [
+          "genezen",
+          "to cure"
+        ],
+        [
+          "giftige stof",
+          "toxin"
+        ],
+        [
+          "onderzoeken",
+          "to examine"
+        ],
+        [
+          "geneesmiddel",
+          "cure, medicine"
+        ],
+        [
+          "tegengif",
+          "antidote, anti-toxin"
+        ],
+        [
+          "sluipende",
+          "creeping (sluipend)"
+        ],
+        [
+          "waanzin",
+          "madness"
+        ],
+        [
+          "geur",
+          "smell"
+        ]
+      ]
+    },
+    "2478": {
+      "t": "Missie: mogelijk, maar niet waarschijnlijk",
+      "d": "Je moet de sleutel van de toren stelen van Foreman Silixiz, $N. Als je de sleutel hebt, hou hem dan bij je. Misschien heb ik hem later nodig.$B$BOnthoud: het gif heeft alles in deze toren verzwakt. Gebruik je vaardigheden om chaos en vernietiging te brengen onder de bewoners. Dood ze allemaal -- heb geen genade!$B$BAls alles binnen in een bloedige hoop ligt, kraak je het slot van de geldkist van Gallywix en steel je de voorraad met het mengsel van Zanzil die erin zit. Breng het hoofd van Gallywix en het mengsel allebei naar Shenthul in Orgrimmar.",
+      "o": "Steel Silixiz's Tower Key van Foreman Silixiz. Dood daarna twee Mutated Venture Co. Drones, twee Venture Co. Patrollers en twee Venture Co. Lookouts.$B$BVermoord Grand Foreman Gallywix en neem zijn hoofd. Kraak daarna het slot van de geldkist van Gallywix en steel de Cache of Zanzil's Altered Mixture. Breng de Cache en Gallywix's Head terug naar Shenthul in Orgrimmar voor verdere instructies.$b",
+      "p": "Wat heb je te melden, $N?",
+      "c": "Arme Fizzule. Hij was een goede agent -- een van onze beste. Helaas is dat de prijs die we betalen, $N. Als veldagent van de Shattered Hand doe je gevaarlijk werk.$B$BJe hebt je plicht goed gedaan, $C. Het zou jammer zijn als je niet lang genoeg leefde om ons opnieuw te dienen.",
+      "g": [
+        [
+          "waarschijnlijk",
+          "probable, likely"
+        ],
+        [
+          "verzwakt",
+          "weakened (verzwakken)"
+        ],
+        [
+          "vernietiging",
+          "destruction"
+        ],
+        [
+          "bewoners",
+          "inhabitants (bewoner)"
+        ],
+        [
+          "genade",
+          "mercy"
+        ],
+        [
+          "bloedige hoop",
+          "bloodied heap"
+        ],
+        [
+          "kraak",
+          "pick, crack (kraken)"
+        ],
+        [
+          "geldkist",
+          "lockbox, cash box"
+        ],
+        [
+          "voorraad",
+          "cache, supply"
+        ],
+        [
+          "mengsel",
+          "mixture"
+        ],
+        [
+          "vermoord",
+          "assassinate (vermoorden)"
+        ],
+        [
+          "melden",
+          "to report"
+        ],
+        [
+          "helaas",
+          "alas, unfortunately"
+        ],
+        [
+          "plicht",
+          "duty"
+        ],
+        [
+          "dienen",
+          "to serve"
+        ]
+      ]
+    },
+    "2479": {
+      "t": "De hulp van Hinott",
+      "d": "Breng een monster van het mengsel naar Serge Hinott in Tarren Mill.$B$BAls iemand je kan genezen, is het Serge. Blijf lang genoeg in leven, dan laat Serge je zien hoe je gif maakt en gebruikt.",
+      "o": "Reis naar Tarren Mill in de Hillsbrad Foothills en geef de Sample of Zanzil's Mixture aan Serge Hinott.$B$BOm in Tarren Mill te komen, neem je de zeppelin naar de Undercity. Volg dan de weg naar het zuiden, door Silverpine en richting Hillsbrad. Volg de borden!$b$b",
+      "p": "Wat is dit???",
+      "c": "Je ziet er heerlijk bleek uit, $C. En wat is die vieze geur die je verspreidt? Dat moet ik weten!",
+      "g": [
+        [
+          "monster",
+          "sample"
+        ],
+        [
+          "mengsel",
+          "mixture"
+        ],
+        [
+          "genezen",
+          "to cure"
+        ],
+        [
+          "in leven",
+          "alive"
+        ],
+        [
+          "richting",
+          "towards"
+        ],
+        [
+          "borden",
+          "signs (bord)"
+        ],
+        [
+          "bleek",
+          "pale"
+        ],
+        [
+          "vieze",
+          "foul, nasty (vies)"
+        ],
+        [
+          "verspreidt",
+          "gives off, spreads (verspreiden)"
+        ]
+      ]
+    },
+    "3085": {
+      "t": "Gewijde tablet",
+      "d": "Ah, terwijl je weg was, kwam er een tablet voor je, $N.$B$BLees hem als je tijd hebt. Als ik me niet vergis, komt hij van de priestertrainer Ken'jai. Hij wil met je praten als je klaar bent.",
+      "o": "Lees de Hallowed Tablet en praat met Ken'jai buiten de Den in de Valley of Trials.",
+      "p": "Dus je bent er... goed, goed! De geesten zeiden al dat je snel naar Ken'jai zou komen. Laat mij een van de eersten zijn die je welkom heet in de Valley of Trials. Dit is niet lang je thuis. Maar zolang het dat is, waarom maak je er niet het beste van?",
+      "c": "Als je jezelf test, merk je dat je de geesten steeds beter onder controle hebt. Je gaat ze roepen voor steeds grotere dingen... en daar komt de oude Ken'jai erbij. Kom met de oude Ken'jai praten als je denkt dat je klaar bent. Als de geesten het goed vinden, dan kijken we of we je sterkere krachten kunnen leren... maar alleen als de geesten het goed vinden.$B$BGa nu, praat met de andere bewoners van de Valley. Praat later weer met mij.",
+      "g": [
+        [
+          "gewijde",
+          "hallowed (gewijd)"
+        ],
+        [
+          "tablet",
+          "tablet (stone)"
+        ],
+        [
+          "vergis",
+          "am mistaken (zich vergissen)"
+        ],
+        [
+          "geesten",
+          "spirits (geest)"
+        ],
+        [
+          "welkom heet",
+          "welcome (welkom heten)"
+        ],
+        [
+          "zolang",
+          "as long as"
+        ],
+        [
+          "onder controle",
+          "under control"
+        ],
+        [
+          "roepen",
+          "to call on"
+        ],
+        [
+          "krachten",
+          "powers (kracht)"
+        ],
+        [
+          "bewoners",
+          "people, inhabitants (bewoner)"
+        ]
+      ]
+    },
+    "3097": {
+      "t": "Gewijde boekrol",
+      "d": "Ah, terwijl jij bezig was met de hersenloze Scourge, kwam deze rol voor je. Ik denk dat het iets belangrijks is, want hij heeft het zegel van de priestertrainer Duesten. Ik zou hem even lezen voordat je weer vertrekt.",
+      "o": "Lees de Hallowed Scroll en praat met Dark Cleric Duesten in de kerk in Deathknell.",
+      "p": "Ah, dus tussen vuur, pest, rellen en nog veel ergere dingen komt er weer een van de \"gelovigen\" naar mijn deur. Nou, welkom dan, $C. Geef me even de tijd om een paar dingen uit te leggen. Daarna kun je zelf gaan zoeken naar wat jou drijft. Het Heilige Licht gaat jou niet meer aan. De geesten van je voorouders zijn sprookjes. En de wezens uit de Nether willen jou niet.$b$bBegrijp je me tot nu toe?",
+      "c": "Je moet maar één ding weten: we hebben alleen door onze wil overleefd. Het geloof in onszelf maakt ons anders dan anderen. En met onze krachten zullen we grote veranderingen brengen in heel Azeroth. De zwakken zullen op jou gaan leunen. De melaatsen zullen je Heer noemen. En de onwetenden zullen bij jou om raad vragen. Het is mijn plicht om te zorgen dat je de nodige middelen hebt. Dan ben je klaar als het zover is. Zoek me op als je meer ervaring krijgt. Ik leer je grotere krachten als je er klaar voor bent.",
+      "g": [
+        [
+          "gewijde",
+          "hallowed (gewijd)"
+        ],
+        [
+          "boekrol",
+          "scroll"
+        ],
+        [
+          "hersenloze",
+          "mindless (hersenloos)"
+        ],
+        [
+          "zegel",
+          "seal"
+        ],
+        [
+          "pest",
+          "plague"
+        ],
+        [
+          "rellen",
+          "riots (rel)"
+        ],
+        [
+          "gelovigen",
+          "the faithful (gelovige)"
+        ],
+        [
+          "drijft",
+          "drives (drijven)"
+        ],
+        [
+          "gaat jou niet meer aan",
+          "no longer concerns you (aangaan)"
+        ],
+        [
+          "voorouders",
+          "forefathers, ancestors"
+        ],
+        [
+          "sprookjes",
+          "fairy tales (sprookje)"
+        ],
+        [
+          "overleefd",
+          "survived (overleven)"
+        ],
+        [
+          "leunen",
+          "to lean"
+        ],
+        [
+          "melaatsen",
+          "lepers (melaatse)"
+        ],
+        [
+          "onwetenden",
+          "the ignorant (onwetende)"
+        ]
+      ]
+    },
+    "5648": {
+      "t": "Kleding van spiritualiteit",
+      "d": "Je bent klaar voor je eerste test, $N. Ten zuiden van Razor Hill, net buiten de stad, is een van onze grunts gewond. Ze vocht tegen een paar oude soldaten van Proudmoore. Het gaat niet goed met haar. Het helpt haar veel als iemand van ons soort haar helpt. Zoek haar -- ze heet Kor'ja -- genees haar wonden en geef haar de zegen van onze voorouders.$B$BAls je dit doet, dan denk ik dat dat genoeg bewijs is dat je klaar bent om verder te gaan op onze weg.",
+      "o": "Zoek Grunt Kor'ja en genees haar wonden met Lesser Heal (Rank 2). Geef haar daarna Power Word: Fortitude en ga dan terug naar Tai'jin in Razor Hill.",
+      "p": "De meesten vinden het logisch dat genezende magie sterk is. Maar weinigen begrijpen hoe sterk. Je kunt veel mensen in leven houden die anders hun eigen voorouders zouden ontmoeten. Deze genezende magie, samen met de kracht van Fortitude, is een heel sterke combinatie van spreuken. Onthoud dit. Het helpt allerlei mensen: krijgers, magiërs en alles daartussen.",
+      "c": "Goed, dan leeft Kor'ja, en ze gaat onze stad verdedigen tegen die kwaadaardige mensen. Vaak wil ik terugdenken aan de dagen van strijd. Toen werd kracht getoond in het gevecht, en waren het vaak de wijzen die de mensen versloegen die alleen op hun kracht vertrouwden.$B$BJe hebt het goed gedaan voor mij, $N. Neem dit gewaad nu. Misschien helpt het, misschien kan het je niet schelen, maar je hebt het verdiend en ik ben trots om je $gbroer:zus; te noemen.",
+      "o1": "Genees en versterk Grunt Kor'ja",
+      "g": [
+        [
+          "spiritualiteit",
+          "spirituality"
+        ],
+        [
+          "gewond",
+          "wounded"
+        ],
+        [
+          "genees",
+          "heal (genezen)"
+        ],
+        [
+          "wonden",
+          "wounds (wond)"
+        ],
+        [
+          "zegen",
+          "blessing"
+        ],
+        [
+          "voorouders",
+          "ancestors"
+        ],
+        [
+          "bewijs",
+          "proof"
+        ],
+        [
+          "genezende",
+          "healing (genezend)"
+        ],
+        [
+          "spreuken",
+          "spells (spreuk)"
+        ],
+        [
+          "kwaadaardige",
+          "malicious (kwaadaardig)"
+        ],
+        [
+          "versloegen",
+          "defeated (verslaan)"
+        ],
+        [
+          "vertrouwden",
+          "relied, trusted (vertrouwen)"
+        ],
+        [
+          "gewaad",
+          "robe"
+        ],
+        [
+          "kan het je niet schelen",
+          "you don't care (schelen)"
+        ],
+        [
+          "versterk",
+          "fortify (versterken)"
+        ]
+      ]
+    },
+    "5649": {
+      "t": "Voor de spiritualiteit",
+      "d": "Ja, man. Ons volk heeft zich bij de Horde aangesloten, omdat ze goed voor ons zijn. Ze zijn trouw, en ze leren ons veel over dingen als eer. Maar onze oude gewoontes zijn moeilijk los te laten. De orcs zijn het misschien niet eens met al onze tradities, maar dat betekent niet dat we sommige ervan niet in het geheim kunnen blijven doen.$B$BDat weet je, en daarom stuur ik je naar Tai'jin in Razor Hill. Zij leert je meer over onze geschiedenis. Zij leert je de gewoontes van onze stam. Ga naar haar als je klaar bent.",
+      "o": "Praat met Tai'jin in Durotar.",
+      "c": "Ahh... dus je komt eindelijk naar Tai'jin. Dit is goed.$B$BJe weet al dat we niet meer dezelfde stam zijn die zich ooit bij de Horde aansloot. We zijn nu veel sterker. We zijn sterker, omdat we ons aanpassen -- dat heeft de Horde ons geleerd. We verslaan onze vijanden niet meer om kracht van ze te krijgen. Nu krijgen we eerst kracht, en dan verslaan we onze vijanden.$B$BHet verschil is subtiel, maar je zult het leren. Je zult het zien. De stam rekent op jou om zulke dingen te leren.",
+      "g": [
+        [
+          "aangesloten",
+          "joined (zich aansluiten)"
+        ],
+        [
+          "trouw",
+          "loyal"
+        ],
+        [
+          "eer",
+          "honor"
+        ],
+        [
+          "gewoontes",
+          "ways, customs (gewoonte)"
+        ],
+        [
+          "los te laten",
+          "to let go of (loslaten)"
+        ],
+        [
+          "in het geheim",
+          "in secret"
+        ],
+        [
+          "stam",
+          "tribe"
+        ],
+        [
+          "aanpassen",
+          "adapt (zich aanpassen)"
+        ],
+        [
+          "verslaan",
+          "defeat (verslaan)"
+        ],
+        [
+          "subtiel",
+          "subtle"
+        ],
+        [
+          "rekent op",
+          "counts on (rekenen op)"
+        ]
+      ]
+    },
+    "5650": {
+      "t": "Kleding van duisternis",
+      "d": "Onze kracht komt uit duisternis en schaduw, $N, maar dat is niet je enige rol. Je hebt erkend dat het waardevol is om de geneeskunst te kennen. Dat is wijs. Maar voordat je het donker kunt kennen, moet je ook het licht kennen. En daarvoor heb ik een test voor je.$B$BTen noorden van de begraafplaats is een gewonde Deathguard: Deathguard Kel. Hij beschermt ons al een tijd tegen gnolls, en hij moet genezen worden. Maar je moet ook zijn lichaam versterken, voordat hij weer aan het werk kan. Doe allebei met je spreuken, en kom dan terug bij mij.",
+      "o": "Zoek Deathguard Kel en genees zijn wonden met Lesser Heal (Rank 2). Geef hem daarna Power Word: Fortitude en ga dan terug naar Dark Cleric Beryl in Brill.",
+      "p": "Onze krachten maken ons geschikt voor veel situaties, $N. Maar wat er ook gebeurt, twee talenten zullen altijd het meest gewild zijn: we kunnen wonden helen, en we kunnen zorgen dat onze kameraden meer schade kunnen verdragen. Laat je daardoor niet tegenhouden om ook andere wegen te volgen als $C -- je kunt op veel manieren sterk zijn. Maar... als je echt je vijanden wilt vernietigen met magische energie, dan past de arcane magie misschien beter bij je.",
+      "c": "Je bent makkelijk voor mijn test geslaagd. Goed.$B$BBinnenkort ben je klaar voor meer verantwoordelijkheid. Die weg leidt naar duisterdere krachten -- krachten die geen $C van een ander ras heeft.$B$BNeem dit gewaad als teken van je positie. Je hebt het verdiend. Wil je het niet dragen, dan is dat zo. Je mag ermee doen wat je wilt. Ik en anderen zoals wij zullen altijd erkennen wat je in onze rangen hebt bereikt.",
+      "o1": "Genees en versterk Deathguard Kel",
+      "g": [
+        [
+          "duisternis",
+          "darkness"
+        ],
+        [
+          "erkend",
+          "acknowledged (erkennen)"
+        ],
+        [
+          "waardevol",
+          "valuable"
+        ],
+        [
+          "geneeskunst",
+          "healing arts"
+        ],
+        [
+          "begraafplaats",
+          "cemetery"
+        ],
+        [
+          "versterken",
+          "to fortify, strengthen"
+        ],
+        [
+          "geschikt",
+          "suited, ideal"
+        ],
+        [
+          "gewild",
+          "desired, sought-after"
+        ],
+        [
+          "helen",
+          "to mend, heal"
+        ],
+        [
+          "verdragen",
+          "to endure, take"
+        ],
+        [
+          "tegenhouden",
+          "to hold back, dissuade"
+        ],
+        [
+          "verantwoordelijkheid",
+          "responsibility"
+        ],
+        [
+          "rangen",
+          "ranks (rang)"
+        ],
+        [
+          "bereikt",
+          "achieved (bereiken)"
+        ]
+      ]
+    },
+    "5651": {
+      "t": "Voor de duisternis",
+      "d": "De Forsaken hebben door ervaring veel lessen geleerd -- dingen die sommige rassen nauwelijks kunnen begrijpen. En hoewel onze weg in de duisternis ligt, zul je merken dat heel veel dingen afhangen van zowel het licht als het donker. Je lessen leren je om allebei te gebruiken... en met beleid. Maar luister naar mijn woorden: vergeet nooit dat we gesmeed zijn in verderf en achtergelaten om te rotten als zoveel aas. De Duisternis is ons thuis.$B$BZoek Dark Cleric Beryl in Brill op als je klaar bent om meer te leren.",
+      "o": "Praat met Dark Cleric Beryl in Tirisfal Glades.",
+      "c": "Eindelijk ben je er. Met alleen je geloof kom je niet door de beproevingen die voor je liggen, jongeling. Een gevoel van haast en wat ambitie helpen ook.",
+      "g": [
+        [
+          "ervaring",
+          "experience"
+        ],
+        [
+          "nauwelijks",
+          "barely, hardly"
+        ],
+        [
+          "hoewel",
+          "although"
+        ],
+        [
+          "afhangen van",
+          "depend on"
+        ],
+        [
+          "met beleid",
+          "with discretion"
+        ],
+        [
+          "gesmeed",
+          "forged (smeden)"
+        ],
+        [
+          "verderf",
+          "corruption, ruin"
+        ],
+        [
+          "rotten",
+          "to rot"
+        ],
+        [
+          "aas",
+          "carrion"
+        ],
+        [
+          "beproevingen",
+          "trials (beproeving)"
+        ],
+        [
+          "jongeling",
+          "young one"
+        ],
+        [
+          "haast",
+          "urgency, hurry"
+        ]
+      ]
+    },
+    "5652": {
+      "t": "Hex of Weakness",
+      "c": "Je doet er goed aan om goed op deze les te letten, jongeling. De Hex of Weakness zal in de strijd een groot voordeel voor je zijn. Later heb ik testen voor je, zodat je verder groeit en bewijst wat je waard bent voor de stam.",
+      "g": [
+        [
+          "je doet er goed aan",
+          "you would do well (er goed aan doen)"
+        ],
+        [
+          "letten op",
+          "to pay attention to"
+        ],
+        [
+          "jongeling",
+          "young one"
+        ],
+        [
+          "strijd",
+          "battle"
+        ],
+        [
+          "voordeel",
+          "advantage, boon"
+        ],
+        [
+          "bewijst",
+          "prove (bewijzen)"
+        ],
+        [
+          "waard",
+          "worth"
+        ],
+        [
+          "stam",
+          "tribe"
+        ]
+      ]
+    },
+    "5654": {
+      "t": "Hex of Weakness",
+      "d": "Het is tijd dat je Ur'kyo ontmoet, $N. Hij is in de Valley of Spirits in de stad van de orcs. Ga daarheen en praat met hem. Het is tijd dat je meer leert over de oude gewoontes van ons volk. Het is tijd dat je in de kring wordt opgenomen en een echte priester van onze stam wordt.",
+      "o": "Praat met Ur'kyo in Orgrimmar.",
+      "c": "Je doet er goed aan om goed op deze les te letten, jongeling. De Hex of Weakness zal in de strijd een groot voordeel voor je zijn. Later heb ik testen voor je, zodat je verder groeit en bewijst wat je waard bent voor de stam.",
+      "g": [
+        [
+          "ontmoet",
+          "meet (ontmoeten)"
+        ],
+        [
+          "gewoontes",
+          "ways, customs (gewoonte)"
+        ],
+        [
+          "kring",
+          "circle"
+        ],
+        [
+          "opgenomen",
+          "taken in (opnemen)"
+        ],
+        [
+          "je doet er goed aan",
+          "you would do well (er goed aan doen)"
+        ],
+        [
+          "jongeling",
+          "young one"
+        ],
+        [
+          "voordeel",
+          "advantage, boon"
+        ],
+        [
+          "bewijst",
+          "prove (bewijzen)"
+        ]
+      ]
+    },
+    "5655": {
+      "t": "Hex of Weakness",
+      "d": "Ik ben hierheen gestuurd om te zorgen dat je niet te ver van huis weg dwaalt, $N. Ze sturen me om te zorgen dat je naar huis gaat, want Ur'kyo, de grootste van onze priesters, wil met je praten. Ga daarheen. Ga naar de Valley of Spirits in de stad van de orcs en praat met Ur'kyo. Hij wacht nu op je.",
+      "o": "Praat met Ur'kyo in Orgrimmar.",
+      "c": "Je doet er goed aan om goed op deze les te letten, jongeling. De Hex of Weakness zal in de strijd een groot voordeel voor je zijn. Later heb ik testen voor je, zodat je verder groeit en bewijst wat je waard bent voor de stam.",
+      "g": [
+        [
+          "gestuurd",
+          "sent (sturen)"
+        ],
+        [
+          "weg dwaalt",
+          "wander off (wegdwalen)"
+        ],
+        [
+          "priesters",
+          "priests (priester)"
+        ],
+        [
+          "je doet er goed aan",
+          "you would do well (er goed aan doen)"
+        ],
+        [
+          "jongeling",
+          "young one"
+        ],
+        [
+          "voordeel",
+          "advantage, boon"
+        ],
+        [
+          "bewijst",
+          "prove (bewijzen)"
+        ]
+      ]
+    },
+    "5656": {
+      "t": "Hex of Weakness",
+      "d": "Het verwarmt altijd mijn ondode hart als ik priesters uit alle culturen door de wereld zie trekken. Dan weet ik dat er kracht bestaat die niet arcaan is, en die goed binnen ons bereik ligt. Daarom is het een eer voor mij om je naar huis te sturen, $N.$B$BUr'kyo, je grote priester in Orgrimmar, wil dat je bij hem komt. Je vindt hem in de Valley of Spirits.",
+      "o": "Praat met Ur'kyo in Orgrimmar.",
+      "c": "Je doet er goed aan om goed op deze les te letten, jongeling. De Hex of Weakness zal in de strijd een groot voordeel voor je zijn. Later heb ik testen voor je, zodat je verder groeit en bewijst wat je waard bent voor de stam.",
+      "g": [
+        [
+          "verwarmt",
+          "warms (verwarmen)"
+        ],
+        [
+          "ondode",
+          "undying, undead (ondood)"
+        ],
+        [
+          "trekken",
+          "to travel, roam"
+        ],
+        [
+          "arcaan",
+          "arcane"
+        ],
+        [
+          "binnen ons bereik",
+          "within our grasp"
+        ],
+        [
+          "eer",
+          "honor"
+        ],
+        [
+          "je doet er goed aan",
+          "you would do well (er goed aan doen)"
+        ],
+        [
+          "jongeling",
+          "young one"
+        ],
+        [
+          "voordeel",
+          "advantage, boon"
+        ]
+      ]
+    },
+    "5657": {
+      "t": "Hex of Weakness",
+      "d": "Naar huis. Ga terug naar huis, jonge $r.$B$BJe spirituele leider Ur'kyo smeekt je om naar hem terug te gaan en te praten over de weg die je volgt.$B$BGa naar de Valley of Spirits in Orgrimmar, de grote stad van de Horde. Daar vind je hem.",
+      "o": "Praat met Ur'kyo in Orgrimmar.",
+      "c": "Je doet er goed aan om goed op deze les te letten, jongeling. De Hex of Weakness zal in de strijd een groot voordeel voor je zijn. Later heb ik testen voor je, zodat je verder groeit en bewijst wat je waard bent voor de stam.",
+      "g": [
+        [
+          "spirituele",
+          "spiritual (spiritueel)"
+        ],
+        [
+          "leider",
+          "leader"
+        ],
+        [
+          "smeekt",
+          "begs (smeken)"
+        ],
+        [
+          "je doet er goed aan",
+          "you would do well (er goed aan doen)"
+        ],
+        [
+          "jongeling",
+          "young one"
+        ],
+        [
+          "voordeel",
+          "advantage, boon"
+        ],
+        [
+          "bewijst",
+          "prove (bewijzen)"
+        ]
+      ]
+    },
+    "5658": {
+      "t": "Touch of Weakness",
+      "c": "Ah, jonge $c, ik ben blij dat je hier terug bent. Ik wil je een les leren die je beter niet kunt vergeten. Ben je er klaar voor?",
+      "g": [
+        [
+          "jonge",
+          "young (jong)"
+        ],
+        [
+          "blij",
+          "glad"
+        ],
+        [
+          "les",
+          "lesson"
+        ],
+        [
+          "vergeten",
+          "to forget"
+        ],
+        [
+          "klaar",
+          "ready, prepared"
+        ]
+      ]
+    },
+    "5659": {
+      "t": "Touch of Weakness",
+      "d": "Dit is niet de plek voor jou, $N. Je moet zo snel mogelijk naar het War Quarter in de Undercity. Aelthalyste heeft al haar priesters en priesteressen daarheen geroepen, zodra ze klaar zijn. Het is tijd dat ze meer leren over hun kracht en hoe ze die kunnen gebruiken.$B$BZe accepteert het niet als je te laat bent of smoesjes hebt, dus je kunt maar beter op weg gaan.",
+      "o": "Praat met Aelthalyste in de Undercity.",
+      "c": "Ah, goed, er is er weer een. Tijd doet er voor mij misschien niet toe, maar voor jou is hij heel belangrijk. Er is veel dat je moet leren, en er is veel dat ik je wil leren. Je moet alleen bewijzen wat je waard bent. Doe dat, en je wordt rijk beloond.",
+      "g": [
+        [
+          "priesteressen",
+          "priestesses (priesteres)"
+        ],
+        [
+          "geroepen",
+          "called (roepen)"
+        ],
+        [
+          "zodra",
+          "as soon as"
+        ],
+        [
+          "smoesjes",
+          "excuses (smoesje)"
+        ],
+        [
+          "je kunt maar beter",
+          "you'd better"
+        ],
+        [
+          "op weg",
+          "on your way"
+        ],
+        [
+          "doet er niet toe",
+          "doesn't matter (ertoe doen)"
+        ],
+        [
+          "bewijzen",
+          "to prove"
+        ],
+        [
+          "rijk beloond",
+          "greatly rewarded (belonen)"
+        ]
+      ]
+    },
+    "5660": {
+      "t": "Touch of Weakness",
+      "d": "Je bent ver van huis, $c. Ze hebben je daar nodig, terug in je stad onder de grond. Je meesteres, die jij Aelthalyste noemt, heeft je daar nodig. Net als bij mijn stam zijn er dingen die je alleen van haar kunt leren. Blijf hier niet te lang. Ga zo snel als een zeppelin je kan brengen naar het War Quarter.",
+      "o": "Praat met Aelthalyste in de Undercity.",
+      "c": "Ah, goed, er is er weer een. Tijd doet er voor mij misschien niet toe, maar voor jou is hij heel belangrijk. Er is veel dat je moet leren, en er is veel dat ik je wil leren. Je moet alleen bewijzen wat je waard bent. Doe dat, en je wordt rijk beloond.",
+      "g": [
+        [
+          "meesteres",
+          "mistress"
+        ],
+        [
+          "noemt",
+          "call (noemen)"
+        ],
+        [
+          "stam",
+          "tribe"
+        ],
+        [
+          "zeppelin",
+          "zeppelin"
+        ],
+        [
+          "doet er niet toe",
+          "doesn't matter (ertoe doen)"
+        ],
+        [
+          "bewijzen",
+          "to prove"
+        ],
+        [
+          "rijk beloond",
+          "greatly rewarded (belonen)"
+        ]
+      ]
+    },
+    "5661": {
+      "t": "Touch of Weakness",
+      "d": "Je bent ver van huis hier in Bloodhoof Village, $N. Ik ben hierheen gestuurd om priesters van mijn eigen stam te vinden en terug te sturen naar onze leiders. Maar dat betekent niet dat ik jou niet ook kan helpen.$B$BIk hoor dat je hoofdpriesteres, de geest, wil dat alle Forsaken naar haar komen -- er zijn dingen die je moet leren.$B$BGa naar Aelthalyste in het War Quarter in die stad van jullie.",
+      "o": "Praat met Aelthalyste in de Undercity.",
+      "c": "Ah, goed, er is er weer een. Tijd doet er voor mij misschien niet toe, maar voor jou is hij heel belangrijk. Er is veel dat je moet leren, en er is veel dat ik je wil leren. Je moet alleen bewijzen wat je waard bent. Doe dat, en je wordt rijk beloond.",
+      "g": [
+        [
+          "gestuurd",
+          "sent (sturen)"
+        ],
+        [
+          "leiders",
+          "leaders (leider)"
+        ],
+        [
+          "hoofdpriesteres",
+          "head priestess"
+        ],
+        [
+          "geest",
+          "spirit"
+        ],
+        [
+          "doet er niet toe",
+          "doesn't matter (ertoe doen)"
+        ],
+        [
+          "bewijzen",
+          "to prove"
+        ],
+        [
+          "rijk beloond",
+          "greatly rewarded (belonen)"
+        ]
+      ]
+    },
+    "5662": {
+      "t": "Touch of Weakness",
+      "d": "Mijn respect voor jou en je volk, $N. Normaal leer ik alleen mensen van mijn eigen stam. Jouw lessen komen van Aelthalyste, in de stad die vroeger Lordaeron heette.$B$BJe moet naar haar teruggaan als je de vaardigheden wilt leren die je anders maken dan andere geloven.$B$BGa naar het War Quarter in de Undercity en zoek daar je meesteres.",
+      "o": "Praat met Aelthalyste in de Undercity.",
+      "c": "Ah, goed, er is er weer een. Tijd doet er voor mij misschien niet toe, maar voor jou is hij heel belangrijk. Er is veel dat je moet leren, en er is veel dat ik je wil leren. Je moet alleen bewijzen wat je waard bent. Doe dat, en je wordt rijk beloond.",
+      "g": [
+        [
+          "respect",
+          "respect"
+        ],
+        [
+          "volk",
+          "people, kind"
+        ],
+        [
+          "heette",
+          "was called (heten)"
+        ],
+        [
+          "vaardigheden",
+          "abilities (vaardigheid)"
+        ],
+        [
+          "geloven",
+          "faiths (geloof)"
+        ],
+        [
+          "meesteres",
+          "mistress"
+        ],
+        [
+          "doet er niet toe",
+          "doesn't matter (ertoe doen)"
+        ],
+        [
+          "rijk beloond",
+          "greatly rewarded (belonen)"
+        ]
+      ]
+    },
+    "5663": {
+      "t": "Touch of Weakness",
+      "d": "Aelthalyste heeft een bericht gestuurd naar al haar priesters. We moeten de jongere leden van onze orde naar de Undercity sturen voor meer training. Als je jezelf echt tot onze gelovigen rekent, moet jij ook daarheen terug.$B$BJe vindt Aelthalyste in het War Quarter, diep in de Undercity.",
+      "o": "Praat met Aelthalyste in de Undercity.",
+      "c": "Ah, goed, er is er weer een. Tijd doet er voor mij misschien niet toe, maar voor jou is hij heel belangrijk. Er is veel dat je moet leren, en er is veel dat ik je wil leren. Je moet alleen bewijzen wat je waard bent. Doe dat, en je wordt rijk beloond.",
+      "g": [
+        [
+          "bericht",
+          "message, word"
+        ],
+        [
+          "leden",
+          "members (lid)"
+        ],
+        [
+          "orde",
+          "order"
+        ],
+        [
+          "rekent tot",
+          "count among (rekenen tot)"
+        ],
+        [
+          "gelovigen",
+          "the faithful (gelovige)"
+        ],
+        [
+          "doet er niet toe",
+          "doesn't matter (ertoe doen)"
+        ],
+        [
+          "bewijzen",
+          "to prove"
+        ],
+        [
+          "rijk beloond",
+          "greatly rewarded (belonen)"
+        ]
+      ]
+    },
+    "5642": {
+      "t": "Shadowguard",
+      "d": "Er is iets belangrijks aan de hand in Orgrimmar, $N.$B$BDe gewone boodschappers die hier langskomen op zoek naar trollenpriesters, zijn meestal heel ontspannen. Deze keer leken ze veel meer haast te hebben. Treuzel niet te lang in Thunder Bluff. Ik zou zo snel mogelijk teruggaan naar de Valley of Spirits.",
+      "o": "Praat met Ur'kyo in Orgrimmar.",
+      "c": "Je rituelen komen snel genoeg. Voor nu leer ik je een spreuk die je goed kunt gebruiken als je met je vijanden vecht.",
+      "g": [
+        [
+          "aan de hand",
+          "going on, up"
+        ],
+        [
+          "boodschappers",
+          "messengers (boodschapper)"
+        ],
+        [
+          "langskomen",
+          "come by"
+        ],
+        [
+          "trollenpriesters",
+          "troll priests"
+        ],
+        [
+          "ontspannen",
+          "relaxed, casual"
+        ],
+        [
+          "haast",
+          "hurry"
+        ],
+        [
+          "treuzel",
+          "dally (treuzelen)"
+        ],
+        [
+          "rituelen",
+          "rites (ritueel)"
+        ],
+        [
+          "spreuk",
+          "spell"
+        ]
+      ]
+    },
+    "5643": {
+      "t": "Shadowguard",
+      "d": "Net als veel van onze eigen priesters laat jouw stam je door overgangsrituelen gaan. Die rituelen leren priesters vaak speciale vaardigheden die nodig zijn om te overleven. Ik voel dat die tijd nu voor jou gekomen is, terwijl we praten. Je moet teruggaan naar de Valley of Spirits in Orgrimmar en met Ur'kyo praten. Wat hij je leert, kan heel belangrijk zijn voor de toekomst.",
+      "o": "Praat met Ur'kyo in Orgrimmar.",
+      "c": "Je rituelen komen snel genoeg. Voor nu leer ik je een spreuk die je goed kunt gebruiken als je met je vijanden vecht.",
+      "g": [
+        [
+          "overgangsrituelen",
+          "rites of passage"
+        ],
+        [
+          "vaardigheden",
+          "abilities (vaardigheid)"
+        ],
+        [
+          "overleven",
+          "to survive"
+        ],
+        [
+          "voel",
+          "sense, feel (voelen)"
+        ],
+        [
+          "toekomst",
+          "future"
+        ],
+        [
+          "rituelen",
+          "rites (ritueel)"
+        ],
+        [
+          "spreuk",
+          "spell"
+        ]
+      ]
+    },
+    "5644": {
+      "t": "Devouring Plague",
+      "d": "Ah, een prachtige dag voor jou, $N. Aan de lessen die je hebt geleerd, zie ik dat het tijd is om je terug te sturen naar Aelthalyste. Er zijn dingen die alleen zij je kan leren, en zelfs dan alleen als je laat zien dat je het waard bent.$B$BIk verklap de verrassing niet, maar ik weet nog hoe ik als jonge priester leerde over echte kracht... goddelijke kracht. Ja, dat waren mooie tijden.$B$BGa terug naar Aelthalyste in de Undercity, $N. Ze wacht op je in het War Quarter.",
+      "o": "Praat met Aelthalyste in de Undercity.",
+      "c": "Ik leer je Devouring Plague, als je denkt dat je er klaar voor bent, $N. Het is een spreuk met veel kracht, en hij helpt je in je komende gevechten. Oefen ermee -- later komen er testen.",
+      "g": [
+        [
+          "prachtige",
+          "wonderful (prachtig)"
+        ],
+        [
+          "waard",
+          "worthy, worth"
+        ],
+        [
+          "verklap",
+          "give away, spoil (verklappen)"
+        ],
+        [
+          "verrassing",
+          "surprise"
+        ],
+        [
+          "goddelijke",
+          "divine (goddelijk)"
+        ],
+        [
+          "tijden",
+          "days, times (tijd)"
+        ],
+        [
+          "komende",
+          "coming (komend)"
+        ],
+        [
+          "gevechten",
+          "battles (gevecht)"
+        ],
+        [
+          "oefen",
+          "practice (oefenen)"
+        ]
+      ]
+    },
+    "5646": {
+      "t": "Devouring Plague",
+      "d": "Aelthalyste toont ons volk veel respect door ze naar mij terug te sturen voor meer training, en nu doe ik hetzelfde voor haar stam.$B$BJe gaat terug naar de Undercity, $N. Daar, in het War Quarter, is ze klaar om je meer te leren over je volk en hun gewoontes. Ga daarheen, en wacht niet lang.",
+      "o": "Praat met Aelthalyste in de Undercity.",
+      "c": "Goed, je bent terug, en geen moment te laat. We moeten grote dingen bespreken, $N. Je vaardigheden worden sterker, en we moeten zorgen dat je er klaar voor bent.",
+      "g": [
+        [
+          "toont",
+          "shows (tonen)"
+        ],
+        [
+          "volk",
+          "people"
+        ],
+        [
+          "hetzelfde",
+          "the same"
+        ],
+        [
+          "stam",
+          "tribe"
+        ],
+        [
+          "gewoontes",
+          "ways, customs (gewoonte)"
+        ],
+        [
+          "geen moment te laat",
+          "not a moment too late"
+        ],
+        [
+          "bespreken",
+          "to discuss"
+        ],
+        [
+          "vaardigheden",
+          "abilities (vaardigheid)"
+        ]
+      ]
+    }
+  },
+  "words": {
+    "aansloot": "joined (zich aansluiten)",
+    "afhangen": "to depend",
+    "beleid": "discretion, policy (met beleid: with discretion)",
+    "biedt": "offers (bieden)",
+    "culturen": "cultures (cultuur)",
+    "daartussen": "in between",
+    "dwaalt": "wanders (dwalen)",
+    "ergere": "worse (erg)",
+    "lichtkogel": "flare",
+    "plunderaars": "plunderers (plunderaar)",
+    "priestertrainer": "priest trainer",
+    "terugdenken": "to think back, remember",
+    "undercover": "undercover",
+    "veldagent": "field agent"
+  },
+  "terms": {
+    "grunts": "grunt: the lowest rank of orc soldier in the Horde (Warcraft)",
+    "gnolls": "gnolls: hyena-like creatures from the Warcraft world"
+  }
+}
