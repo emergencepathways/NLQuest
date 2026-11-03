@@ -107,6 +107,7 @@ Data\Batch_133_Razorfen_Kraul.lua
 Data\Batch_62_Sunken_Temple_24_Voorquests.lua
 Data\Batch_63_Blasted_Lands.lua
 Data\Batch_134_Seasonal.lua
+Data\Batch_64_Blackrock_Mountain.lua
 
 Display.lua
 Reader.lua
