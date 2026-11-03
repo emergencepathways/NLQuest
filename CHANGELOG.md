@@ -1,6 +1,7 @@
 # Changelog
 
 ## Unreleased
+- Batch auto-merge is now a merge queue (tools/automerge.py): it merges by pushing to main instead of asking GitHub to merge a pull request seconds after changing it (which GitHub often refused, leaving batches 32, 33, 36, 107, 109, 110, 111 and 112 open), handles every waiting batch in each run, retries every 30 minutes, and puts the real error on the pull request when a batch can't merge.
 - Batch 38: Searing Gorge, Shadowfang Keep, Scarlet Monastery, Razorfen Downs and Uldaman from level 25 to 45 (Caught!, The Orb of Soran'ruk, Mythology of the Titans, In the Name of the Light, the Belnistrasz chain, Bring the Light, Badlands Reagent Run, Tabetha's mage staff chain, the Necklace Recovery chain, the Hammertoe chain, Power Stones, Agmond's Fate, Solution to Doom, The Lost Dwarves and The Hidden Chamber) (23 quests, 957 in total).
 - Batch 37: Tanaris and The Hinterlands from level 43 to 45 (Wastewander Justice chain, Water Pouch Bounty, Screecher Spirits, the Stoley and MacKinley rum chain, WANTED: Andre Firebeard, Ship Schedules, Pirate Hats Ahoy!, Southsea Shakedown, the Rhapsody Shindigger chain, Troll Necklace Bounty, Witherbark Cages) (19 quests, 934 in total).
 - Batch 35: Swamp of Sorrows and Badlands from level 35 to 42 (Watcher Biggs' Lost Caravan chain, Galen's Escape, Noboru the Cudgel, the Hammertoe Grez and Prospect of Faith chain, Lotwil Veriatus' Study of the Elements, Theldurin and Yagyin's Digest, Murdaloc, ...) (33 quests, 915 in total).
