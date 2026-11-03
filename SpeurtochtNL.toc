@@ -126,6 +126,7 @@ Data\Batch_72_Winterspring.lua
 Data\Batch_142_Badlands.lua
 Data\Batch_143_Feralas.lua
 Data\Batch_73_Silithus.lua
+Data\Batch_74_Silithus.lua
 
 Display.lua
 Reader.lua
