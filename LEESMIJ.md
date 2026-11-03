@@ -15,7 +15,8 @@ Speurtocht.NL laat de teksten van quests in het Nederlands zien. De rest van het
 
 ## 1. Installeren
 
-1. Pak de download uit. Je krijgt een map met de naam `SpeurtochtNL`.
+1. Download **[SpeurtochtNL.zip](https://github.com/emergencepathways/NLQuest/releases/latest/download/SpeurtochtNL.zip)** (altijd de nieuwste versie) en pak het uit. Je krijgt een map met de naam `SpeurtochtNL`.
+   Gebruik niet de groene knop **Code › Download ZIP** op GitHub: dan krijg je een map met de naam `NLQuest-main`, en die laadt het spel niet.
 2. Kopieer die map naar de AddOns-map van het spel. Op Linux met Steam/Proton is dat:
    ```
    ~/.local/share/Steam/steamapps/compatdata/<nummer>/pfx/drive_c/Program Files (x86)/World of Warcraft/_classic_era_/Interface/AddOns/

@@ -15,7 +15,8 @@ Speurtocht.NL shows quest text in Dutch and leaves the rest of the game in Engli
 
 ## 1. Install
 
-1. Unzip the download. You get a folder called `SpeurtochtNL`.
+1. Download **[SpeurtochtNL.zip](https://github.com/emergencepathways/NLQuest/releases/latest/download/SpeurtochtNL.zip)** (always the newest version) and unzip it. You get a folder called `SpeurtochtNL`.
+   Don't use the green **Code › Download ZIP** button on GitHub: that gives a folder called `NLQuest-main`, which the game won't load.
 2. Copy that folder into the game's AddOns folder. Note for Linux users: On Linux with Steam/Proton it is:
    ```
    ~/.local/share/Steam/steamapps/compatdata/<number>/pfx/drive_c/Program Files (x86)/World of Warcraft/_classic_era_/Interface/AddOns/
@@ -200,6 +201,7 @@ Commands are not case-sensitive.
 | `tools/anki_sync.py`, `tools/install_autosync.sh` | Sends saved words to Anki via AnkiConnect, optionally as a background service |
 | `tools/build_lexicon.py` | Builds `Data/Namen.lua` and checks every Dutch word has a meaning |
 | `Data/Termen.lua` | Warcraft fantasy terms with explanations |
+| `tools/package.py` | Builds `SpeurtochtNL.zip` for players; `.github/workflows/release.yml` publishes it after every merge |
 | `tools/test_harness.lua` | Offline test in a mock WoW environment: `lua5.1 tools/test_harness.lua` |
 
 English source text: VMaNGOS world database (github.com/brotalnia/database). Speurtocht.NL is an independent fan project, not affiliated with Blizzard Entertainment.

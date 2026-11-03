@@ -13,3 +13,4 @@ ignore:
   - CHANGELOG.md
   - CLAUDE.md
   - .github
+  - changes

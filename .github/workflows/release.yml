@@ -1,0 +1,80 @@
+# Speurtocht.NL - publishes the zip players download.
+#
+# Builds SpeurtochtNL.zip with tools/package.py (one folder, SpeurtochtNL/, so it
+# unzips straight into Interface/AddOns/) and puts it on the "latest-build" release.
+# The download link never changes:
+#   https://github.com/emergencepathways/NLQuest/releases/latest/download/SpeurtochtNL.zip
+#
+# Runs after every Batch auto-merge run, on a direct push to main, and by hand from
+# the Actions tab. (Merges made by the auto-merge don't start "push" workflows,
+# which is why it also listens for the auto-merge finishing.) If main hasn't
+# changed since the last build, it does nothing.
+
+name: Release zip
+
+on:
+  push:
+    branches: [main]
+  workflow_run:
+    workflows: ["Batch auto-merge"]
+    types: [completed]
+  workflow_dispatch:
+
+concurrency:
+  group: release-zip
+  cancel-in-progress: false
+
+permissions:
+  contents: write
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    env:
+      GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+      TAG: latest-build
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          ref: main
+          fetch-depth: 1
+
+      - name: Skip if this commit is already released
+        id: check
+        run: |
+          sha=$(git rev-parse HEAD)
+          echo "sha=$sha" >> "$GITHUB_OUTPUT"
+          if gh release view "$TAG" --json body -q .body 2>/dev/null | grep -q "$sha"; then
+            echo "Already released $sha"
+            echo "skip=true" >> "$GITHUB_OUTPUT"
+          fi
+
+      - name: Build SpeurtochtNL.zip
+        if: steps.check.outputs.skip != 'true'
+        run: python3 tools/package.py --out dist
+
+      - name: Publish
+        if: steps.check.outputs.skip != 'true'
+        run: |
+          sha="${{ steps.check.outputs.sha }}"
+          version=$(sed -n 's/^## Version: *//p' SpeurtochtNL.toc | tr -d '\r')
+          cat > notes.md <<EOF
+          **Download [SpeurtochtNL.zip](https://github.com/${GITHUB_REPOSITORY}/releases/latest/download/SpeurtochtNL.zip)**, unzip it and copy the \`SpeurtochtNL\` folder into \`Interface/AddOns/\`.
+          **Download [SpeurtochtNL.zip](https://github.com/${GITHUB_REPOSITORY}/releases/latest/download/SpeurtochtNL.zip)**, pak het uit en kopieer de map \`SpeurtochtNL\` naar \`Interface/AddOns/\`.
+
+          Don't use the green **Code › Download ZIP** button: that folder is called \`NLQuest-main\` and the game won't load it.
+
+          Version ${version} · built from ${sha} · $(date -u '+%Y-%m-%d %H:%M UTC')
+          EOF
+
+          # Move the tag to this commit (the release keeps its id and its download link).
+          git tag -f "$TAG" "$sha"
+          git push -f origin "refs/tags/$TAG"
+
+          title="Speurtocht.NL ${version} (latest build)"
+          if gh release view "$TAG" > /dev/null 2>&1; then
+            gh release upload "$TAG" dist/SpeurtochtNL.zip --clobber
+            gh release edit "$TAG" --title "$title" --notes-file notes.md --latest
+          else
+            gh release create "$TAG" dist/SpeurtochtNL.zip --title "$title" --notes-file notes.md --latest
+          fi
