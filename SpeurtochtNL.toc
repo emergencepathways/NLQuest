@@ -120,6 +120,7 @@ Data\Batch_139_Arathi_Highlands.lua
 Data\Batch_69_Eastern_Plaguelands.lua
 Data\Batch_70_Eastern_Plaguelands.lua
 Data\Batch_140_Stranglethorn_Vale.lua
+Data\Batch_71_Eastern_Plaguelands.lua
 
 Display.lua
 Reader.lua
