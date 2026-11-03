@@ -1,6 +1,7 @@
 # Changelog
 
 ## Unreleased
+- Batch 123: Horde Druid class quests from level 1 to 16 (Verdant Note, Moonglade, Heeding the Call, Great Bear Spirit and Body and Heart for Bear Form, the Lessons Anew poison chain at the Crossroads, and the Trial of the Lake / Trial of the Sea Lion chain for Aquatic Form) (17 quests, 1750 in total).
 - Batch 50: Leftover quests for the Alliance lane: the Scourge invasion at Undercity, Ironforge, Orgrimmar and Thunder Bluff, Ahn'Qiraj war-supply signet exchanges, Spawn of Jubjub (Darkmoon Faire), CLUCK!, Cuergo's Gold, battleground Past Victories, Furen's Armor, Welcome!, The Hunter's Path, and the early Durotar quests (The Admiral's Orders, Winds in the Desert, Securing the Lines, Burning Shadows, Flawed Power Stone) (21 quests, 1733 in total).
 - Batch 122: Warlock class quests for the Horde from level 20 to 40 (the succubus chain from Hearts of the Pure and Devourer of Souls through News of Dogran, Ken'zigla's Draught and Dogran's Captivity to The Binding, the Tome of the Cabal felhunter chain, Seeking Strahad, In Search of Menara Voidrender, Knowledge of the Orb of Orahil and Summon Felsteed) (21 quests, 1712 in total).
 - Batch 49: Battleground and holiday quests for the Alliance: Arathi Basin (More Resource Crates, The Battle for Arathi Basin!, Arathi Basin Mark of Honor!, Claiming Arathi Basin, Arathor care packages), the Scourge invasion (Investigate the Scourge of Stormwind / Darnassus) and Winter Veil (Winter's Presents and the gift quests) (22 quests, 1691 in total).
