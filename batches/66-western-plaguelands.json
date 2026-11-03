@@ -1,0 +1,1443 @@
+{
+ "quests": {
+  "5021": {
+   "t": "Beter laat dan nooit",
+   "d": "\"Het pakket moet bezorgd worden... bezorgd voordat ik hier vastzit!\"$B$BDe kreten van een vrouw in paniek klinken bijna als gefluister dat door het huis zweeft. Boven in de hoek zit de verschijning van een vrouw ineengedoken. Ze lijkt zich niet helemaal bewust van haar omgeving, en ze merkt jou maar vaag op.$B$B\"Ben je hier om mijn pakket te bezorgen? Alsjeblieft, voordat het nog veel erger wordt! Ik wilde hier wegrijden. Het zou nog bij mijn paard moeten liggen... of ben ik te laat?\"",
+   "o": "Uit het geraaskal van de spookachtige vrouw bleek dat ze een pakket bezorgd wilde hebben. Ze zei dat het lag waar haar paard was. Waar het paard is, of waar het pakket heen moest - daarover blijft de geest onbegrijpelijk.",
+   "c": "Een pakket in de schuur, dat je anders misschien over het hoofd had gezien, valt nu op tussen het verval en de verwoesting. Misschien is dit het pakket waar de geest van Janice Felstone zo om riep...",
+   "g": [
+    [
+     "bezorgd",
+     "delivered (bezorgen)"
+    ],
+    [
+     "kreten",
+     "cries (kreet)"
+    ],
+    [
+     "gefluister",
+     "whispering"
+    ],
+    [
+     "zweeft",
+     "floats (zweven)"
+    ],
+    [
+     "verschijning",
+     "apparition"
+    ],
+    [
+     "ineengedoken",
+     "cowering, huddled"
+    ],
+    [
+     "vaag",
+     "vaguely"
+    ],
+    [
+     "geraaskal",
+     "ramblings, raving"
+    ],
+    [
+     "spookachtige",
+     "ghostly (spookachtig)"
+    ],
+    [
+     "onbegrijpelijk",
+     "incomprehensible"
+    ],
+    [
+     "schuur",
+     "barn"
+    ],
+    [
+     "over het hoofd had gezien",
+     "had overlooked"
+    ],
+    [
+     "verval",
+     "decay"
+    ],
+    [
+     "verwoesting",
+     "ruin, destruction"
+    ]
+   ]
+  },
+  "5022": {
+   "t": "Beter laat dan nooit",
+   "d": "Je pakt het pakket op en veegt een dun laagje stof en vuil weg dat erop was gaan liggen. Het is in een haastig handschrift geadresseerd aan een zekere Emma Felstone uit Stormwind; de bezorging staat gedateerd op ruim vier jaar geleden.$B$BHet is onduidelijk of Emma Felstone nog leeft, maar het is algemeen bekend dat de Stormwind City Hall gegevens over de inwoners van de stad bijhoudt. Dat gebeurt via de Royal Factors van de Stormwind Census.",
+   "o": "Vraag het aan de Royal Factors of Stormwind om te weten te komen waar een zekere Emma Felstone is. Er is meestal een medewerker van de volkstelling in City Hall.",
+   "p": "Welkom bij het kantoor van de volkstelling van Stormwind. Als je informatie over onze inwoners nodig hebt, kan ik je helpen.",
+   "c": "Een pakket voor een zekere Emma Felstone, zeg je? Laatst bekende adres Stormwind, vier jaar geleden? Nou, laat me eens kijken...$B$BVolgens onze gegevens was er ongeveer vier jaar geleden een Emma Felstone in de stad. Nou ja, misschien, moet ik zeggen - de volkstelling die ik bedoel is van vijf jaar geleden, en ik heb geen melding dat ze de stad verlaten heeft. Dat betekent nog niet dat ze hier nog woont.$B$BWacht eens even... dit pakket kan toch niet voor Ol' Emma zijn?",
+   "g": [
+    [
+     "veegt",
+     "wipe (vegen)"
+    ],
+    [
+     "laagje",
+     "thin layer"
+    ],
+    [
+     "haastig",
+     "hurried"
+    ],
+    [
+     "handschrift",
+     "handwriting"
+    ],
+    [
+     "geadresseerd",
+     "addressed (adresseren)"
+    ],
+    [
+     "een zekere",
+     "a certain, one"
+    ],
+    [
+     "gedateerd",
+     "dated (dateren)"
+    ],
+    [
+     "algemeen bekend",
+     "widely known"
+    ],
+    [
+     "gegevens",
+     "records, data"
+    ],
+    [
+     "inwoners",
+     "inhabitants, populace (inwoner)"
+    ],
+    [
+     "volkstelling",
+     "census"
+    ],
+    [
+     "medewerker",
+     "officer, staff member"
+    ],
+    [
+     "melding",
+     "report"
+    ]
+   ]
+  },
+  "5050": {
+   "t": "Geluksamulet",
+   "d": "Het lijkt erop dat ik me in jou vergist heb, $N, en daarvoor ben ik je mijn excuses schuldig. Mijn zus heeft me een aantal persoonlijke spullen gestuurd, waaronder - grappig genoeg - de eigendomsakte van de Felstone-boerderij. Ik denk dat ik die voorlopig maar niet opeis.$B$BAls de geest van mijn zus aan de boerderij vastzit en geen rust kan vinden, alsjeblieft... zou je dit aan haar terug willen geven? Het is de helft van een geluksamulet dat ze had; haar man had de andere helft.$B$BMisschien vindt haar ziel nu rust, als ze weet dat ik deze spullen heb.",
+   "o": "Breng Janice Felstone in Western Plaguelands haar Good Luck Half-Charm terug.",
+   "p": "John, lieverd... ben jij dat? Ik heb het ineens zo koud...",
+   "c": "Je geeft het halve amulet terug aan de verschijning. Ze kijkt ernaar en dan vol verwachting naar jou.$B$B\"Schat, waar heb je jouw helft van het amulet gelaten? We kunnen niet samen zijn zonder beide helften. Schat... kun je me zien?\"",
+   "g": [
+    [
+     "vergist",
+     "been mistaken (zich vergissen)"
+    ],
+    [
+     "excuses schuldig",
+     "owe an apology"
+    ],
+    [
+     "waaronder",
+     "including, among which"
+    ],
+    [
+     "eigendomsakte",
+     "deed (of ownership)"
+    ],
+    [
+     "voorlopig",
+     "for now"
+    ],
+    [
+     "opeis",
+     "claim, reclaim (opeisen)"
+    ],
+    [
+     "vastzit",
+     "is tethered, stuck (vastzitten)"
+    ],
+    [
+     "geluksamulet",
+     "good luck charm"
+    ],
+    [
+     "ziel",
+     "soul"
+    ],
+    [
+     "verschijning",
+     "apparition"
+    ],
+    [
+     "vol verwachting",
+     "expectantly"
+    ]
+   ]
+  },
+  "5215": {
+   "t": "De ketels van de Scourge",
+   "d": "In het voormalige Lordaeron staan acht ketels - vier hier in het westen, en nog vier verscholen in het oosten. Deze ketels spuwen gif in de lucht en verspreiden zo de plaag over het land voor de Scourge.$B$BDe necromantische macht van Kel'Thuzad is te sterk om deze ketels zomaar uit te schakelen, maar we denken dat we een manier hebben om ze in ons voordeel om te buigen. Mijn tweede in bevel, High Priestess MacDonnell, leidt deze opdracht; zij gaat vanaf hier verder met de uitleg.",
+   "o": "Spreek met High Priestess MacDonnell bij Chillwind Point, Western Plaguelands.",
+   "c": "Moge de kracht van het Licht op je schijnen in deze donkere tijden, $c. Ik ben blij dat ik je coördinator mag zijn voor ons plan om de ketels van de Scourge te saboteren.$B$BOns doel is om de samenstelling van de plaag die de ketels maken te veranderen in iets wat de Scourge zelf schaadt. Om die verandering te bereiken, moet je toegang krijgen tot elk van de vier ketels in de Western Plaguelands.$B$BHoud je gereed, held, want er wacht je een glorieuze strijd tegen de walgelijke Scourge!",
+   "g": [
+    [
+     "voormalige",
+     "former (voormalig)"
+    ],
+    [
+     "ketels",
+     "cauldrons (ketel)"
+    ],
+    [
+     "verscholen",
+     "hidden, ensconced"
+    ],
+    [
+     "spuwen",
+     "spew"
+    ],
+    [
+     "plaag",
+     "plague"
+    ],
+    [
+     "necromantische",
+     "necromantic"
+    ],
+    [
+     "uit te schakelen",
+     "to shut down (uitschakelen)"
+    ],
+    [
+     "om te buigen",
+     "to turn, subvert (ombuigen)"
+    ],
+    [
+     "tweede in bevel",
+     "second-in-command"
+    ],
+    [
+     "saboteren",
+     "sabotage"
+    ],
+    [
+     "samenstelling",
+     "composition"
+    ],
+    [
+     "schaadt",
+     "harms (schaden)"
+    ],
+    [
+     "gereed",
+     "ready"
+    ],
+    [
+     "walgelijke",
+     "vile (walgelijk)"
+    ]
+   ]
+  },
+  "5216": {
+   "t": "Doelwit: Felstone Field",
+   "d": "Van de vier ketels hier in het westen is die bij Felstone Field misschien het makkelijkst te bereiken. De Scourge heeft daar minder ervaren troepen staan, al moet je ze niet onderschatten.$B$BGa naar Felstone Field, ten noordwesten van Andorhal, en val de ketelheer daar aan. We denken dat hij een sleutel heeft die de ketel opent. Gebruik daarna deze fles om een monster te nemen van het gif in de ketel; we hebben het nodig voor onderzoek, zodat we een tegengif kunnen ontwikkelen.",
+   "o": "Ga naar Felstone Field in Western Plaguelands om de Cauldron Lord daar te vinden en te verslaan. Hij heeft misschien een sleutel waarmee je toegang krijgt tot de ketel. Je moet de Empty Felstone Field Bottle bij je hebben om een monster te nemen van het gif in de ketel.",
+   "p": "Een toegangsluik van de ketel zit nog stevig dicht. Om het te openen, moet je de sleutel vinden.$b",
+   "c": "De sleutel van Cauldron Lord Bilemaw past perfect in het toegangsluik. Uit het geopende luik komt een smerige stank, terwijl een onbekend mengsel van geconcentreerde stoffen in de ketel ronddraait.$B$BEr zit een kraantje waar de fles net onder past, zodat je een monster kunt aftappen voor High Priestess MacDonnell in Chillwind Point.",
+   "g": [
+    [
+     "doelwit",
+     "target"
+    ],
+    [
+     "ervaren",
+     "experienced"
+    ],
+    [
+     "onderschatten",
+     "underestimate"
+    ],
+    [
+     "ketelheer",
+     "cauldron lord"
+    ],
+    [
+     "monster",
+     "sample"
+    ],
+    [
+     "tegengif",
+     "counter agent, antidote"
+    ],
+    [
+     "toegangsluik",
+     "access panel, access hatch"
+    ],
+    [
+     "stank",
+     "stench"
+    ],
+    [
+     "mengsel",
+     "mix, mixture"
+    ],
+    [
+     "geconcentreerde",
+     "concentrated (geconcentreerd)"
+    ],
+    [
+     "kraantje",
+     "small tap, spigot (kraan)"
+    ],
+    [
+     "aftappen",
+     "draw off, tap"
+    ]
+   ]
+  },
+  "5217": {
+   "t": "Terug naar Chillwind Camp",
+   "d": "Je vult de fles met genoeg van het giftige brouwsel uit de ketel voor een bruikbaar monster om te onderzoeken.$B$BNu je het gif hebt, is het tijd om terug te gaan naar High Priestess MacDonnell in Chillwind Camp om de missie af te ronden.",
+   "o": "Breng de Filled Felstone Field Bottle naar High Priestess MacDonnell in Chillwind Camp, Western Plaguelands.",
+   "p": "Welkom terug in de betrekkelijke veiligheid van Chillwind Camp, $N. Welke vooruitgang met de ketels heb je te melden?",
+   "c": "Goed gedaan, $N - Alchemist Arbington zal dit in een mum van tijd onderzoeken en een tegengif bedenken om in de ketel te doen. Als we daar genoeg van in de lucht kunnen pompen, kunnen we misschien alle Scourge hier verzwakken.$B$BDit wordt ongetwijfeld een langdurige zaak; we zullen deze ketels steeds opnieuw moeten aanvallen en onze reagentia aan hun mengsel moeten toevoegen. Maar als we dat volhouden, hebben we een enorm voordeel tegenover de Scourge wanneer het tijd is voor de strijd!",
+   "g": [
+    [
+     "brouwsel",
+     "concoction, brew"
+    ],
+    [
+     "bruikbaar",
+     "usable, suitable"
+    ],
+    [
+     "af te ronden",
+     "to complete (afronden)"
+    ],
+    [
+     "betrekkelijke",
+     "relative (betrekkelijk)"
+    ],
+    [
+     "vooruitgang",
+     "progress"
+    ],
+    [
+     "in een mum van tijd",
+     "in no time at all"
+    ],
+    [
+     "verzwakken",
+     "weaken"
+    ],
+    [
+     "ongetwijfeld",
+     "no doubt, undoubtedly"
+    ],
+    [
+     "langdurige",
+     "ongoing, long-lasting (langdurig)"
+    ],
+    [
+     "reagentia",
+     "reagents"
+    ],
+    [
+     "volhouden",
+     "keep it up"
+    ]
+   ]
+  },
+  "5218": {
+   "t": "De ketel van Felstone Field",
+   "p": "De plaagketel van de Scourge staat voor je en spuwt enorme hoeveelheden gif in de lucht. In de voet van het enorme platform van de ketel zit een klein, onopvallend toegangsluik.$B$BJe hebt de ketelheer al verslagen en zijn sleutel gekregen, dus je kunt nu de juiste reagentia aan de ketel toevoegen om een tegengif tegen de plaag te maken.",
+   "c": "Als je de reagentia aan het mengsel in de ketel toevoegt, beginnen de kleur en de structuur van de wolk die eruit komt te veranderen. Scourge die ook maar enigszins in de buurt van de ketel zijn, lijken terug te deinzen nu de nieuwe stoffen in de omgeving komen.",
+   "g": [
+    [
+     "plaagketel",
+     "plague cauldron"
+    ],
+    [
+     "spuwt",
+     "spews (spuwen)"
+    ],
+    [
+     "hoeveelheden",
+     "amounts (hoeveelheid)"
+    ],
+    [
+     "onopvallend",
+     "inconspicuous, nondescript"
+    ],
+    [
+     "toegangsluik",
+     "access panel, access hatch"
+    ],
+    [
+     "ketelheer",
+     "cauldron lord"
+    ],
+    [
+     "reagentia",
+     "reagents"
+    ],
+    [
+     "tegengif",
+     "counter agent, antidote"
+    ],
+    [
+     "structuur",
+     "texture"
+    ],
+    [
+     "enigszins",
+     "somewhat, remotely"
+    ],
+    [
+     "terug te deinzen",
+     "to recoil (terugdeinzen)"
+    ]
+   ]
+  },
+  "4984": {
+   "t": "Ook de dieren lijden",
+   "d": "Ik kon alleen weinig doen om de Scourge tegen te houden, maar toch kwam ik naar deze landen om te proberen de schade aan de natuur te herstellen. Dieren lijden onder de plaag die deze landen blijft verstikken, en ze vinden geen genade en geen vrede. Ik vraag je om af te maken wat ik hier niet kon afmaken.$B$BEr is geen redding voor de lijdende dieren, behalve een zachte, genadige verlossing. Zoek de zieke wolven hier in de buurt en maak een eind aan hun leven. Alsjeblieft, $N, maak een eind aan hun ellende - dat zal zeker ook de mijne verzachten.",
+   "o": "Vernietig 8 Diseased Wolves en keer dan terug naar Mulgris Deepriver bij de Writhing Haunt, Western Plaguelands.$b$b",
+   "p": "De wolven die met de plaag besmet zijn, moeten worden afgemaakt, $N. De ziekte die ze dragen is niet te genezen. Ik heb het geprobeerd... ik heb het geprobeerd tot ik zelf aan de plaag bezweek.",
+   "c": "Ik... ik voel dat de zielen van de wolven die je hebt afgemaakt nu rust hebben. Zij - en ik - bedanken je voor een genadige verlossing.$B$BDe wolven zijn niet de enigen die lijden op deze vervloekte plek, $N. Alsjeblieft, ik heb je nog een keer nodig.",
+   "g": [
+    [
+     "lijden",
+     "suffer"
+    ],
+    [
+     "herstellen",
+     "heal, repair"
+    ],
+    [
+     "verstikken",
+     "choke, smother"
+    ],
+    [
+     "genade",
+     "mercy"
+    ],
+    [
+     "redding",
+     "salvation, rescue"
+    ],
+    [
+     "genadige",
+     "merciful (genadig)"
+    ],
+    [
+     "verlossing",
+     "release, deliverance"
+    ],
+    [
+     "ellende",
+     "misery"
+    ],
+    [
+     "verzachten",
+     "soothe, ease"
+    ],
+    [
+     "besmet",
+     "infected (besmetten)"
+    ],
+    [
+     "afgemaakt",
+     "put down (afmaken)"
+    ],
+    [
+     "bezweek",
+     "succumbed (bezwijken)"
+    ],
+    [
+     "vervloekte",
+     "damnable, cursed (vervloekt)"
+    ]
+   ]
+  },
+  "5051": {
+   "t": "Twee helften worden één",
+   "d": "Het geraaskal van de arme geest gaat door:$B$B\"Ik heb het zo koud, John. Breng me jouw amulet, dan zijn we samen! Snel, John, voordat de plaag ons verandert in afschuwelijke beesten! Ik kan je niet zien, John... maar ik weet dat je dichtbij bent. Ik voel je bij me.\"$B$BAls de tweede helft van het amulet gevonden en weer in elkaar gezet wordt, is dat misschien wat de geest van Janice Felstone zoekt.",
+   "o": "Zoek de andere helft van de Good Luck Charm ergens op de Felstone Farm in Western Plaguelands en zet hem weer in elkaar.$B$BGeef de Good Luck Charm aan Janice Felstone op de Felstone Farm, Western Plaguelands.",
+   "p": "John, laat de ghouls je niet pakken... laat de ghouls mij niet pakken... akelige ghouls... ons amulet beschermt ons.",
+   "c": "Je geeft het herstelde geluksamulet aan de geest van Janice Felstone. Zodra ze het vastpakt, zie je bijna meteen een verandering in haar. Haar geestachtige gestalte glinstert, en ze kijkt je aan met heldere maar droevige ogen.$B$B\"Je hebt me bevrijd... ik heb dit amulet niet meer nodig. Alsjeblieft, neem het, en misschien geeft het jou de troost die het mij gegeven heeft.\"",
+   "g": [
+    [
+     "helften",
+     "halves (helft)"
+    ],
+    [
+     "geraaskal",
+     "ramblings, raving"
+    ],
+    [
+     "afschuwelijke",
+     "hideous (afschuwelijk)"
+    ],
+    [
+     "in elkaar gezet",
+     "reassembled (in elkaar zetten)"
+    ],
+    [
+     "akelige",
+     "nasty (akelig)"
+    ],
+    [
+     "herstelde",
+     "restored, reassembled (herstellen)"
+    ],
+    [
+     "geestachtige",
+     "ghostly, ethereal (geestachtig)"
+    ],
+    [
+     "gestalte",
+     "form, figure"
+    ],
+    [
+     "glinstert",
+     "shimmers (glinsteren)"
+    ],
+    [
+     "droevige",
+     "sad (droevig)"
+    ],
+    [
+     "bevrijd",
+     "freed (bevrijden)"
+    ],
+    [
+     "troost",
+     "solace, comfort"
+    ]
+   ]
+  },
+  "5058": {
+   "t": "Het dagboek van Mrs. Dalson",
+   "c": "Er ligt een dagboek met vergelende bladzijden open bij het laatste stuk:$B$B\"Ik weet niet wat er nu gaat gebeuren, nu Harold veranderd is. Het kostte me al mijn kracht om hem naar de enige plek te slepen die ik kon vinden waar hij goed opgesloten zit en niet weg kan. Ik heb de sleutel bij me verstopt, en ik bid dat het werkt...$B$BIk hoop dat ik hier weg kan komen, maar daar heb ik geld voor nodig. Onze spullen liggen allemaal in de kast, denk ik... en nu ik erover nadenk: heeft Harold de sleutel niet bij zich?$B$BIk slaap er een nachtje over, ik ben doodmoe.\"",
+   "g": [
+    [
+     "dagboek",
+     "diary"
+    ],
+    [
+     "vergelende",
+     "yellowing (vergelen)"
+    ],
+    [
+     "bladzijden",
+     "pages (bladzijde)"
+    ],
+    [
+     "slepen",
+     "drag"
+    ],
+    [
+     "opgesloten",
+     "locked up (opsluiten)"
+    ],
+    [
+     "verstopt",
+     "hidden (verstoppen)"
+    ],
+    [
+     "bid",
+     "pray (bidden)"
+    ],
+    [
+     "kast",
+     "cabinet, cupboard"
+    ],
+    [
+     "ik slaap er een nachtje over",
+     "I'll sleep on it"
+    ],
+    [
+     "doodmoe",
+     "dead tired"
+    ]
+   ]
+  },
+  "5059": {
+   "t": "Achter slot en grendel",
+   "p": "De deur van het buitentoilet begint aan de randen van het kozijn te splinteren, alsof iemand hem keer op keer heeft proberen open te breken. Hij zit nu stevig op slot aan de buitenkant.$B$BAls je aan de deur rammelt, hoor je van binnen een diep gekreun! Wat daar ook zit, het klinkt zeker niet vriendelijk.",
+   "c": "Met de sleutel die je bij het skelet van de vroegere Mrs. Dalson vond, maak je de deur van het buitentoilet open. Er springt een bloeddorstige ghoul uit het buitentoilet; wie weet hoe lang hij daar al opgesloten zat.$B$BAan de ijzingwekkende schreeuw die de ghoul geeft als hij je ziet, is duidelijk dat de vroegere Farmer Dalson niet meer te redden is.",
+   "g": [
+    [
+     "achter slot en grendel",
+     "under lock and key"
+    ],
+    [
+     "buitentoilet",
+     "outhouse"
+    ],
+    [
+     "kozijn",
+     "door frame"
+    ],
+    [
+     "splinteren",
+     "splinter"
+    ],
+    [
+     "keer op keer",
+     "again and again"
+    ],
+    [
+     "open te breken",
+     "to force open (openbreken)"
+    ],
+    [
+     "rammelt",
+     "rattle (rammelen)"
+    ],
+    [
+     "gekreun",
+     "moaning"
+    ],
+    [
+     "skelet",
+     "skeleton"
+    ],
+    [
+     "bloeddorstige",
+     "bloodthirsty (bloeddorstig)"
+    ],
+    [
+     "ijzingwekkende",
+     "bloodcurdling (ijzingwekkend)"
+    ],
+    [
+     "te redden",
+     "to be saved (redden)"
+    ]
+   ]
+  },
+  "5060": {
+   "t": "Achter slot en grendel",
+   "p": "Er staat een zeer stevige kast voor je, die goed dichtzit met een ingebouwd slot. De voorkant van de kast zit vol diepe krassen en sporen. Je kunt vermoeden dat die komen van vele mislukte, gewelddadige pogingen om de geheimen te onthullen die de kast nu voor het oog verbergt.$B$BAls je deze kast wilt openen, moet je de sleutel vinden.",
+   "c": "De sleutel uit de ghoulachtige resten van Farmer Dalson past perfect in het slot. De deuren van de kast zwaaien open en je ziet een aantal voorwerpen die nog heel zijn en behoorlijk waardevol lijken.",
+   "g": [
+    [
+     "stevige",
+     "sturdy (stevig)"
+    ],
+    [
+     "ingebouwd",
+     "built-in"
+    ],
+    [
+     "krassen",
+     "scratches (kras)"
+    ],
+    [
+     "vermoeden",
+     "surmise, suspect"
+    ],
+    [
+     "mislukte",
+     "failed (mislukt)"
+    ],
+    [
+     "gewelddadige",
+     "violent (gewelddadig)"
+    ],
+    [
+     "pogingen",
+     "attempts (poging)"
+    ],
+    [
+     "onthullen",
+     "reveal"
+    ],
+    [
+     "verbergt",
+     "hides (verbergen)"
+    ],
+    [
+     "ghoulachtige",
+     "ghoulish (ghoulachtig)"
+    ],
+    [
+     "resten",
+     "remains (rest)"
+    ],
+    [
+     "zwaaien",
+     "swing"
+    ],
+    [
+     "behoorlijk",
+     "quite, fairly"
+    ],
+    [
+     "waardevol",
+     "valuable"
+    ]
+   ]
+  },
+  "5219": {
+   "t": "Doelwit: Dalson's Tears",
+   "d": "Een van de plaagketels staat op het veld van een vroegere boerderij die nu Dalson's Tears heet. Nou, vandaag laten wij geen tranen: we houden de Scourge tegen en laten ze stikken in hun eigen dampen!$B$BGa naar Dalson's Tears, bijna recht ten noorden van Andorhal, en schakel de ketelheer daar uit. Hij zou net als de vorige een sleutel moeten hebben, waarmee je in de ketel kunt. Gebruik deze fles om een monster uit de ketel te nemen; elke ketel heeft zijn eigen brouwsel van gifstoffen.",
+   "o": "Ga naar Dalson's Tears in Western Plaguelands om de Cauldron Lord daar te vinden en te verslaan, en gebruik zijn sleutel om toegang te krijgen tot de ketel. Je moet de Empty Dalson's Tears Bottle bij je hebben om een monster te nemen van het gif in de ketel.",
+   "p": "Een toegangsluik van de ketel zit nog stevig dicht. Om het te openen, moet je de sleutel vinden.",
+   "c": "De macabere sleutel van de ketelheer glijdt makkelijk in een sleutelgat en verdwijnt dan, zodat je er voortaan altijd bij kunt. Ruwe, stroperige vloeistoffen pulseren door gedraaide buizen in het onderstel van de ketel.$B$BEr zit een kraantje waar de fles net onder past, zodat je een monster kunt aftappen voor High Priestess MacDonnell in Chillwind Point.",
+   "g": [
+    [
+     "plaagketels",
+     "plague cauldrons (plaagketel)"
+    ],
+    [
+     "tranen",
+     "tears (traan)"
+    ],
+    [
+     "stikken",
+     "choke"
+    ],
+    [
+     "dampen",
+     "fumes (damp)"
+    ],
+    [
+     "recht ten noorden",
+     "due north"
+    ],
+    [
+     "schakel",
+     "eliminate (uitschakelen)"
+    ],
+    [
+     "gifstoffen",
+     "toxins (gifstof)"
+    ],
+    [
+     "macabere",
+     "macabre (macaber)"
+    ],
+    [
+     "glijdt",
+     "slides (glijden)"
+    ],
+    [
+     "voortaan",
+     "from now on"
+    ],
+    [
+     "stroperige",
+     "viscous, syrupy (stroperig)"
+    ],
+    [
+     "pulseren",
+     "pulsate"
+    ],
+    [
+     "gedraaide",
+     "twisted (gedraaid)"
+    ],
+    [
+     "onderstel",
+     "underpinning, base"
+    ]
+   ]
+  },
+  "5220": {
+   "t": "Terug naar Chillwind Camp",
+   "d": "Je vult de fles voorzichtig met genoeg vloeistof uit de ketel voor wat jij een monster van de juiste grootte vindt.$B$BNu je het gif hebt, is het tijd om terug te gaan naar High Priestess MacDonnell in Chillwind Camp om de missie af te ronden.",
+   "o": "Breng de Filled Dalson's Tears Bottle naar High Priestess MacDonnell in Chillwind Camp, Western Plaguelands.",
+   "p": "We weten dat elke ketel een ander mengsel van reagentia gebruikt om zijn plaaggif te maken; we weten ook dat we voor elke ketel een eigen tegengif moeten ontwikkelen. Jouw monster uit Dalson's Tears wordt de sleutel om uit te zoeken welke reagentia die ketel precies nodig heeft.",
+   "c": "Ah, hier zit genoeg in om te onderzoeken. Goed gedaan, $N!$B$BVoorlopig ligt de volgende stap in onze handen. We moeten een lijst maken van reagentia die, samen met wat al in de ketel zit, als tegengif werken.$B$BDe enige manier om dit erin te krijgen, is door de reagentia rechtstreeks in de ketel te doen. Alchemist Arbington weet daar meer over, dus praat zo snel mogelijk met hem.",
+   "g": [
+    [
+     "vloeistof",
+     "liquid, fluid"
+    ],
+    [
+     "grootte",
+     "size"
+    ],
+    [
+     "af te ronden",
+     "to complete (afronden)"
+    ],
+    [
+     "reagentia",
+     "reagents"
+    ],
+    [
+     "plaaggif",
+     "plague toxin"
+    ],
+    [
+     "ontwikkelen",
+     "develop"
+    ],
+    [
+     "uit te zoeken",
+     "to figure out (uitzoeken)"
+    ],
+    [
+     "voorlopig",
+     "for now"
+    ],
+    [
+     "rechtstreeks",
+     "directly"
+    ],
+    [
+     "zo snel mogelijk",
+     "as soon as possible"
+    ]
+   ]
+  },
+  "5221": {
+   "t": "De ketel van Dalson's Tears",
+   "p": "De plaagketel van de Scourge staat voor je en spuwt enorme hoeveelheden gif in de lucht. In de voet van het enorme platform van de ketel zit een klein, onopvallend toegangsluik.$B$BJe hebt de ketelheer al verslagen en zijn sleutel gekregen, dus je kunt nu de juiste reagentia aan de ketel toevoegen om een tegengif tegen de plaag te maken.",
+   "c": "Als je de reagentia aan het mengsel in de ketel toevoegt, beginnen de kleur en de structuur van de wolk die eruit komt te veranderen. Scourge die ook maar enigszins in de buurt van de ketel zijn, lijken terug te deinzen nu de nieuwe stoffen in de omgeving komen.",
+   "g": [
+    [
+     "plaagketel",
+     "plague cauldron"
+    ],
+    [
+     "spuwt",
+     "spews (spuwen)"
+    ],
+    [
+     "hoeveelheden",
+     "amounts (hoeveelheid)"
+    ],
+    [
+     "onopvallend",
+     "inconspicuous, nondescript"
+    ],
+    [
+     "toegangsluik",
+     "access panel, access hatch"
+    ],
+    [
+     "ketelheer",
+     "cauldron lord"
+    ],
+    [
+     "reagentia",
+     "reagents"
+    ],
+    [
+     "tegengif",
+     "counter agent, antidote"
+    ],
+    [
+     "structuur",
+     "texture"
+    ],
+    [
+     "enigszins",
+     "somewhat, remotely"
+    ],
+    [
+     "terug te deinzen",
+     "to recoil (terugdeinzen)"
+    ]
+   ]
+  },
+  "5222": {
+   "t": "Doelwit: Writhing Haunt",
+   "d": "Twee ketels zijn met succes geopend; je kunt er voortaan altijd bij, maar we willen ook de andere twee nog openen. Dan hebben we allemaal meer mogelijkheden om het tegengif toe te voegen!$B$BDeze keer val je de ketel van de Writhing Haunt aan. Die ligt bijna recht ten oosten van Andorhal, vrij dicht bij de verwoeste stadsmuren; schakel ook nu de ketelheer daar uit voor zijn sleutel. Gebruik deze fles om het monster uit de ketel te nemen.$B$BGoede jacht, $N!",
+   "o": "Ga naar de Writhing Haunt in Western Plaguelands om de Cauldron Lord daar te vinden en te verslaan, en gebruik zijn sleutel om toegang te krijgen tot de ketel. Je moet de Empty Writhing Haunt Bottle bij je hebben om een monster te nemen van het gif in de ketel.",
+   "p": "Een toegangsluik van de ketel zit nog stevig dicht. Om het te openen, moet je de sleutel vinden.",
+   "c": "De sleutel van de ketelheer opent het toegangsluik van deze ketel en verdwijnt dan, net zoals de andere sleutels bij de vorige twee ketels. Onder het platform van de ketel kolkt heftig een stof met een rotte geur.$B$BEr zit een kraantje waar de fles net onder past, zodat je een monster kunt aftappen voor High Priestess MacDonnell in Chillwind Point.",
+   "g": [
+    [
+     "met succes",
+     "successfully"
+    ],
+    [
+     "voortaan",
+     "from now on, indefinitely"
+    ],
+    [
+     "mogelijkheden",
+     "options (mogelijkheid)"
+    ],
+    [
+     "recht ten oosten",
+     "due east"
+    ],
+    [
+     "verwoeste",
+     "ruined (verwoest)"
+    ],
+    [
+     "stadsmuren",
+     "city walls (stadsmuur)"
+    ],
+    [
+     "schakel",
+     "eliminate (uitschakelen)"
+    ],
+    [
+     "jacht",
+     "hunting"
+    ],
+    [
+     "toegangsluik",
+     "access panel, access hatch"
+    ],
+    [
+     "kolkt",
+     "churns (kolken)"
+    ],
+    [
+     "heftig",
+     "violently"
+    ],
+    [
+     "rotte",
+     "putrid, rotten (rot)"
+    ]
+   ]
+  },
+  "5223": {
+   "t": "Terug naar Chillwind Camp",
+   "d": "Je vult de lege fles voorzichtig tot de rand; een monster van de smerige stof die onder het platform van de ketel kolkt, golft nu heen en weer in het breekbare glazen flesje.$B$BNu je het gif hebt, is het tijd om terug te gaan naar High Priestess MacDonnell in Chillwind Camp om de missie af te ronden.",
+   "o": "Breng de Filled Writhing Haunt Bottle naar High Priestess MacDonnell in Chillwind Camp, Western Plaguelands.",
+   "p": "Zodra we het monster uit de ketel van de Writhing Haunt met succes onderzocht hebben, hebben we een derde manier om de Scourge een verwoestend tegengif toe te dienen!",
+   "c": "Weer een prima uitgevoerde missie, $N! Nu kunnen we drie ketels tegen de Scourge inzetten. Als de necromantische macht van Kel'Thuzad over deze landen niet zo sterk was als nu, zou ik durven zeggen dat jij ze helemaal had uitgeschakeld!$B$BAlchemist Arbington zal een verslag hebben over wat deze ketel - en ook de andere omgebogen ketels - nodig heeft om ons tegengif tegen de plaag af te leveren. En nu is het tijd om de laatste ketel van het westen onder onze invloed te brengen!",
+   "g": [
+    [
+     "vult",
+     "fill (vullen)"
+    ],
+    [
+     "tot de rand",
+     "to the brim"
+    ],
+    [
+     "smerige",
+     "foul, filthy (smerig)"
+    ],
+    [
+     "kolkt",
+     "churns, swirls (kolken)"
+    ],
+    [
+     "golft",
+     "sloshes, waves (golven)"
+    ],
+    [
+     "breekbare",
+     "fragile (breekbaar)"
+    ],
+    [
+     "met succes",
+     "successfully"
+    ],
+    [
+     "verwoestend",
+     "devastating"
+    ],
+    [
+     "uitgevoerde",
+     "executed (uitvoeren)"
+    ],
+    [
+     "inzetten",
+     "to deploy, use against"
+    ],
+    [
+     "necromantische",
+     "necromantic"
+    ],
+    [
+     "omgebogen",
+     "subverted, turned (ombuigen)"
+    ],
+    [
+     "invloed",
+     "influence"
+    ],
+    [
+     "toe te dienen",
+     "to deliver, administer (toedienen)"
+    ]
+   ]
+  },
+  "5234": {
+   "t": "Terug naar de Bulwark",
+   "d": "Je vult de lege fles voorzichtig tot de rand; een monster van de smerige stof die onder het platform van de ketel kolkt, golft nu heen en weer in het breekbare glazen flesje.$B$BNu je het gif hebt, is het tijd om terug te gaan naar Shadow Priestess Vandis bij de Bulwark om de missie af te ronden.",
+   "o": "Breng de Filled Writhing Haunt Bottle naar Shadow Priestess Vandis bij The Bulwark, Western Plaguelands.",
+   "p": "Zodra we het monster uit de ketel van de Writhing Haunt met succes onderzocht hebben, hebben we een derde manier om een verwoestend tegengif tegen de Scourge in te zetten!",
+   "c": "Weer een prima uitgevoerde missie, $N! Nu kunnen we drie ketels tegen de Scourge inzetten. Als de necromantische macht van Kel'Thuzad over deze landen niet zo sterk was als nu, zou ik durven zeggen dat jij ze helemaal had uitgeschakeld!$b$bApothecary Dithers zal een verslag hebben over wat deze ketel - en ook de andere omgebogen ketels - nodig heeft om ons tegengif tegen de plaag af te leveren. En nu is het tijd om de laatste ketel van het westen onder onze invloed te brengen!",
+   "g": [
+    [
+     "vult",
+     "fill (vullen)"
+    ],
+    [
+     "tot de rand",
+     "to the brim"
+    ],
+    [
+     "smerige",
+     "foul, filthy (smerig)"
+    ],
+    [
+     "kolkt",
+     "churns, swirls (kolken)"
+    ],
+    [
+     "golft",
+     "sloshes, waves (golven)"
+    ],
+    [
+     "breekbare",
+     "fragile (breekbaar)"
+    ],
+    [
+     "met succes",
+     "successfully"
+    ],
+    [
+     "verwoestend",
+     "devastating"
+    ],
+    [
+     "uitgevoerde",
+     "executed (uitvoeren)"
+    ],
+    [
+     "inzetten",
+     "to deploy, use against"
+    ],
+    [
+     "necromantische",
+     "necromantic"
+    ],
+    [
+     "omgebogen",
+     "subverted, turned (ombuigen)"
+    ],
+    [
+     "invloed",
+     "influence"
+    ]
+   ]
+  },
+  "5401": {
+   "t": "Aanstelling bij de Argent Dawn",
+   "c": "Iedereen die namens de Argent Dawn tegen het kwaad vecht, moet onze aanstelling dragen. Wie die draagt, verdient het recht op de beloningen die onze kwartiermeesters te bieden hebben.$B$BMet de aanstelling kun je Scourgestones krijgen van verslagen Scourge; dat zijn insignes die ze soms bij zich hebben. Verzamel deze insignes en breng ze naar mij. Voor elke set die je inlevert, krijg je ons teken van heldenmoed - de Argent Dawn Valor Token.$B$BVervul je lot, $c - doe vandaag nog mee aan de strijd!",
+   "g": [
+    [
+     "aanstelling",
+     "commission, appointment"
+    ],
+    [
+     "namens",
+     "on behalf of"
+    ],
+    [
+     "kwaad",
+     "evil"
+    ],
+    [
+     "beloningen",
+     "rewards (beloning)"
+    ],
+    [
+     "kwartiermeesters",
+     "quartermasters (kwartiermeester)"
+    ],
+    [
+     "verslagen",
+     "slain, defeated (verslaan)"
+    ],
+    [
+     "insignes",
+     "insignia (insigne)"
+    ],
+    [
+     "inlevert",
+     "turn in (inleveren)"
+    ],
+    [
+     "heldenmoed",
+     "heroism"
+    ],
+    [
+     "vervul",
+     "fulfil (vervullen)"
+    ],
+    [
+     "lot",
+     "destiny, fate"
+    ]
+   ]
+  },
+  "5404": {
+   "t": "Corruptor's Scourgestones",
+   "p": "Een Corruptor's Scourgestone is het insigne van de opperheren van de Scourge. Een machtig wezen met gezag over de Scourge heeft er altijd een bij zich. Zo'n kwaadaardig wezen doden zou de zaak van de Argent Dawn zeker vooruithelpen - en alle goede zaken!$B$BNamens de Argent Dawn geef ik je een erepenning in ruil voor maar één van deze insignes. Wees voorzichtig als je er een probeert te krijgen, $N - met zulke machtige wezens valt niet te spotten.",
+   "c": "Gefeliciteerd, $N - ik ben blij je een erepenning van de Argent Dawn te geven!$B$BAls je op deze manier een erepenning krijgt, laat dat zien dat je een echte held bent voor de goede zaak. We waarderen alle inzet tegen de Scourge, maar een van hun leiders verslaan betekent hun echt een verpletterende nederlaag toebrengen!$B$BVoor de Dawn, mijn $gbroeder:zuster;!",
+   "g": [
+    [
+     "insigne",
+     "insignia"
+    ],
+    [
+     "opperheren",
+     "overlords (opperheer)"
+    ],
+    [
+     "gezag",
+     "authority"
+    ],
+    [
+     "kwaadaardig",
+     "malevolent, evil"
+    ],
+    [
+     "vooruithelpen",
+     "advance, help forward"
+    ],
+    [
+     "erepenning",
+     "valor token, medal of honour"
+    ],
+    [
+     "in ruil voor",
+     "in exchange for"
+    ],
+    [
+     "valt niet te spotten",
+     "are not to be trifled with"
+    ],
+    [
+     "inzet",
+     "effort"
+    ],
+    [
+     "verpletterende",
+     "crushing (verpletterend)"
+    ],
+    [
+     "nederlaag",
+     "defeat"
+    ],
+    [
+     "toebrengen",
+     "inflict, deliver"
+    ]
+   ]
+  },
+  "5407": {
+   "t": "Invader's Scourgestones",
+   "p": "Een Invader's Scourgestone is het insigne van de elitetroepen van de Scourge. Je vindt ze soms bij de sterkere troepen in de Plaguelands. Zo'n wezen doden is echt een uitdaging, maar wel een waar je van moet genieten als je een aanstelling hebt om het kwaad te verslaan.$B$BDe Argent Dawn biedt op dit moment een erepenning in ruil voor tien van deze insignes. Breng ze hier naar mij, dan zorg ik dat je je verdiende beloning krijgt.",
+   "c": "Gefeliciteerd, $N - ik ben blij je een erepenning van de Argent Dawn te geven!$B$BElke erepenning die aan waardige ontvangers wordt gegeven, is een teken dat het tij tegen de Scourge keert. Nu steeds meer helden de Scourge in hun eigen land bestrijden, zal de Argent Dawn zeker vooraan staan wanneer het tijd is om oorlog te voeren tegen het ultieme kwaad van de Scourge. Ik hoop dat de moed die je hebt getoond om je penning te verdienen, dan ook de doorslag zal geven!",
+   "g": [
+    [
+     "elitetroepen",
+     "elite troops"
+    ],
+    [
+     "uitdaging",
+     "challenge"
+    ],
+    [
+     "aanstelling",
+     "commission"
+    ],
+    [
+     "erepenning",
+     "valor token"
+    ],
+    [
+     "verdiende",
+     "just, deserved (verdiend)"
+    ],
+    [
+     "waardige",
+     "worthy (waardig)"
+    ],
+    [
+     "ontvangers",
+     "recipients (ontvanger)"
+    ],
+    [
+     "het tij keert",
+     "the tide turns"
+    ],
+    [
+     "bestrijden",
+     "fight, combat"
+    ],
+    [
+     "vooraan staan",
+     "be at the forefront"
+    ],
+    [
+     "ultieme",
+     "ultimate (ultiem)"
+    ],
+    [
+     "getoond",
+     "shown (tonen)"
+    ],
+    [
+     "de doorslag geven",
+     "carry the day, be decisive"
+    ]
+   ]
+  },
+  "5408": {
+   "t": "Minion's Scourgestones",
+   "p": "Een Minion's Scourgestone is het insigne van het gewone voetvolk van de Scourge. Je vindt ze soms bij de zwakkere troepen in de Plaguelands, al moet je het woord \"zwakker\" wel in verband zien. De Scourge, waar ze ook zijn, mag je nooit onderschatten.$B$BDe Argent Dawn biedt op dit moment een erepenning in ruil voor twintig van deze insignes - een ruil die ik graag doe, als je genoeg scourgestones hebt verdiend!",
+   "c": "Gefeliciteerd, $N - ik ben blij je een erepenning van de Argent Dawn te geven!$B$BDe penningen hebben twee doelen. Eén: je kunt ze gebruiken om je aanzien bij de Argent Dawn te verhogen; dat kan je opties en beloningen opleveren die bewaard worden voor onze geëerde en vereerde bondgenoten. Twee: je kunt ze, samen met geld, aan onze kwartiermeesters geven als betaling voor een aantal van de kostbaarste spullen van de Dawn.$B$BWat je ook kiest, weet dat je je aanstelling verdient. Goed gedaan!",
+   "g": [
+    [
+     "voetvolk",
+     "rank and file, foot soldiers"
+    ],
+    [
+     "in verband zien",
+     "see in context"
+    ],
+    [
+     "onderschatten",
+     "underestimate"
+    ],
+    [
+     "ruil",
+     "exchange"
+    ],
+    [
+     "penningen",
+     "tokens (penning)"
+    ],
+    [
+     "aanzien",
+     "standing, reputation"
+    ],
+    [
+     "verhogen",
+     "raise, further"
+    ],
+    [
+     "opleveren",
+     "yield, bring"
+    ],
+    [
+     "geëerde",
+     "honored (geëerd)"
+    ],
+    [
+     "vereerde",
+     "revered (vereerd)"
+    ],
+    [
+     "bondgenoten",
+     "allies (bondgenoot)"
+    ],
+    [
+     "kwartiermeesters",
+     "quartermasters (kwartiermeester)"
+    ],
+    [
+     "kostbaarste",
+     "most prized (kostbaar)"
+    ]
+   ]
+  },
+  "5903": {
+   "t": "Een plaag over jullie",
+   "d": "Ik heb vaak geprobeerd de Scarlet Crusade met alleen geweld te verdrijven, maar zonder succes. Daarom heb ik besloten om, als alternatief, hun leven moeilijker te maken.$B$BAls je wilt helpen, wil ik die houtzagerij besmetten met de vreselijkste soort termieten die ooit gevonden is.$B$BIn Plaguewood, vlak bij het ooit zo grootse Stratholme, leeft een soort die de plaag en de Scourge samen heeft overleefd. Zoek hun heuvels en vul deze pot ermee, zodat we ze kunnen voorbereiden om ze op de Crusade los te laten.",
+   "o": "Gebruik de Empty Termite Jar bij de Termite Mounds in Eastern Plaguelands. Als je 100 Plagueland Termites hebt verzameld, keer dan terug naar Nathaniel Dumah in Chillwind Camp in Western Plaguelands.",
+   "p": "Heb je de termietenheuvels gevonden, $N? Ik heb gehoord dat ze overal in Plaguewood zijn.",
+   "c": "Deze zijn prima, $N. Dank je. Kijk ze nou... zoveel, allemaal dicht op elkaar. Ik heb bijna medelijden met de Crusade, maar ja, het was ook nooit hun zagerij om in te pikken, toch?",
+   "g": [
+    [
+     "geweld",
+     "force, violence"
+    ],
+    [
+     "verdrijven",
+     "drive out, rout"
+    ],
+    [
+     "houtzagerij",
+     "lumber mill"
+    ],
+    [
+     "besmetten",
+     "infest, infect"
+    ],
+    [
+     "termieten",
+     "termites (termiet)"
+    ],
+    [
+     "grootse",
+     "great, grand (groots)"
+    ],
+    [
+     "overleefd",
+     "survived (overleven)"
+    ],
+    [
+     "heuvels",
+     "mounds (heuvel)"
+    ],
+    [
+     "los te laten",
+     "to unleash (loslaten)"
+    ],
+    [
+     "termietenheuvels",
+     "termite mounds"
+    ],
+    [
+     "medelijden",
+     "pity"
+    ],
+    [
+     "zagerij",
+     "mill, sawmill"
+    ],
+    [
+     "in te pikken",
+     "to grab, take (inpikken)"
+    ]
+   ]
+  },
+  "5904": {
+   "t": "Een plaag over jullie",
+   "d": "Nu we de termieten hebben, breng je dit met staal versterkte vat naar de Northridge Lumber Mill ten zuiden van Hearthglen; je vindt die ten westen van de weg die omhoog naar het stadje leidt.$B$BZet het vat daar in het midden van de houtzagerij neer; zoek een geschikte plek, bijvoorbeeld op een krat, en maak het dan open. De termieten doen daarna hun werk en maken de zagerij onbruikbaar voor de Crusade.",
+   "o": "Zoek een geschikte plek in het midden van de Northridge Lumber Mill in Western Plaguelands om de Barrel of Plagueland Termites neer te zetten.",
+   "c": "De termieten worden duidelijk onrustig als je het vat boven op de krat zet.",
+   "g": [
+    [
+     "termieten",
+     "termites (termiet)"
+    ],
+    [
+     "versterkte",
+     "reinforced (versterkt)"
+    ],
+    [
+     "vat",
+     "barrel"
+    ],
+    [
+     "stadje",
+     "small town"
+    ],
+    [
+     "houtzagerij",
+     "lumber mill"
+    ],
+    [
+     "geschikte",
+     "suitable (geschikt)"
+    ],
+    [
+     "krat",
+     "crate"
+    ],
+    [
+     "onbruikbaar",
+     "useless, unusable"
+    ],
+    [
+     "onrustig",
+     "restless"
+    ]
+   ]
+  },
+  "5224": {
+   "t": "De ketel van de Writhing Haunt",
+   "p": "De plaagketel van de Scourge staat voor je en spuwt enorme hoeveelheden gif in de lucht. In de voet van het enorme platform van de ketel zit een klein, onopvallend toegangsluik.$B$BJe hebt de ketelheer al verslagen en zijn sleutel gekregen, dus je kunt nu de juiste reagentia aan de ketel toevoegen om een tegengif tegen de plaag te maken.",
+   "c": "Als je de reagentia aan het mengsel in de ketel toevoegt, beginnen de kleur en de structuur van de wolk die eruit komt te veranderen. Scourge die ook maar enigszins in de buurt van de ketel zijn, lijken terug te deinzen nu de nieuwe stoffen in de omgeving komen.",
+   "g": [
+    [
+     "plaagketel",
+     "plague cauldron"
+    ],
+    [
+     "spuwt",
+     "spews (spuwen)"
+    ],
+    [
+     "hoeveelheden",
+     "amounts (hoeveelheid)"
+    ],
+    [
+     "onopvallend",
+     "inconspicuous, nondescript"
+    ],
+    [
+     "toegangsluik",
+     "access panel, access hatch"
+    ],
+    [
+     "ketelheer",
+     "cauldron lord"
+    ],
+    [
+     "reagentia",
+     "reagents"
+    ],
+    [
+     "tegengif",
+     "counter agent, antidote"
+    ],
+    [
+     "structuur",
+     "texture"
+    ],
+    [
+     "enigszins",
+     "somewhat, remotely"
+    ],
+    [
+     "terug te deinzen",
+     "to recoil (terugdeinzen)"
+    ]
+   ]
+  }
+ },
+ "words": {
+  "alternatief": "alternative",
+  "bewust": "aware",
+  "bezorging": "delivery",
+  "bijhoudt": "keeps (records) (bijhouden)",
+  "coördinator": "coordinator",
+  "deinzen": "recoil, shrink back (terugdeinzen)",
+  "dichtzit": "is shut (dichtzitten)",
+  "doorslag": "decisive factor (de doorslag geven)",
+  "felstone-boerderij": "Felstone farm",
+  "geopende": "opened (openen)",
+  "heldere": "clear (helder)",
+  "lijdende": "suffering (lijden)",
+  "nachtje": "(one) night (nacht)",
+  "onduidelijk": "unclear",
+  "opties": "options (optie)",
+  "pikken": "grab, take (inpikken)",
+  "pompen": "pump",
+  "ronddraait": "swirls around (ronddraaien)",
+  "schreeuw": "scream",
+  "toevoegt": "add (toevoegen)",
+  "vooraan": "at the front",
+  "vreselijkste": "most terrible (vreselijk)",
+  "wegrijden": "ride away",
+  "wolk": "cloud"
+ },
+ "terms": {}
+}
