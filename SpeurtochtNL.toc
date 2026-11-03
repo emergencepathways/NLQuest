@@ -148,6 +148,7 @@ Data\Batch_83_Class_Rogue.lua
 Data\Batch_106_Zul_Gurub.lua
 Data\Batch_84_Stranglethorn_Vale.lua
 Data\Batch_85_Engineering.lua
+Data\Batch_104_Ruins_Of_Ahn_Qiraj.lua
 
 Display.lua
 Reader.lua
