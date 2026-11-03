@@ -1,0 +1,1571 @@
+{
+ "quests": {
+  "384": {
+   "t": "Zwijnenribben met bier",
+   "d": "Mijn gasten in de taverne eten niets liever dan Beer Basted Boar Ribs! Er is alleen één probleem. De jager hier bracht me altijd mijn voorraad. Maar hij is nu bij het leger van de koning. Hij helpt in de oorlog aan het front van de Alliance. $b$bKun jij me misschien helpen? Breng me zes Crag Boar Ribs en een Rhapsody Malt uit de taverne hier. Dan krijg je het familierecept voor mijn beroemde Beer Basted Boar Ribs. En je krijgt ook nog gratis iets om te proeven! Het geheim zit in de Malt!",
+   "o": "Ragnar Thunderbrew in Kharanos wil 6 Crag Boar Ribs en een mok Rhapsody Malt.",
+   "p": "Ik heb zes Crag Boar Ribs en een mok Rhapsody Malt nodig, $N.",
+   "c": "De Malt is gebrouwen, de zwijnen zijn dood$bEn voor alles klaar is en iemand iets zegt$bMoeten we vechten om de eerste hap$bVan deze lekkere Beer Basted Boar Ribs!",
+   "g": [
+    [
+     "gasten",
+     "guests, patrons (gast)"
+    ],
+    [
+     "taverne",
+     "tavern"
+    ],
+    [
+     "jager",
+     "hunter, trapper"
+    ],
+    [
+     "voorraad",
+     "supplies, stock"
+    ],
+    [
+     "leger",
+     "army"
+    ],
+    [
+     "oorlog",
+     "war"
+    ],
+    [
+     "front",
+     "front (of a war)"
+    ],
+    [
+     "familierecept",
+     "family recipe"
+    ],
+    [
+     "beroemde",
+     "famous (beroemd)"
+    ],
+    [
+     "proeven",
+     "to taste"
+    ],
+    [
+     "geheim",
+     "secret"
+    ],
+    [
+     "mok",
+     "mug"
+    ],
+    [
+     "gebrouwen",
+     "brewed (brouwen)"
+    ],
+    [
+     "hap",
+     "bite, mouthful"
+    ]
+   ]
+  },
+  "4161": {
+   "t": "Recept van de kaldorei",
+   "d": "Lang geleden heetten de nachtelfen kaldorei. Die naam betekent \"kinderen van de sterren\". Leren over het verleden is een belangrijke stap op je pad als $c, $N. Luister dus goed naar wat ik je vertel.$B$BDe kaldorei zijn altijd erg trots geweest op hun harmonieuze band met de natuur. Dat betekent: we nemen van de natuur alleen wat nodig is. En we geven er iets voor terug. Dit evenwicht heeft ons veel gegeven, $N.$B$BGa naar buiten en verzamel zeven Small Spider Legs. Niet meer dan dat. Kom daarna terug bij mij.",
+   "o": "Verzamel 7 Small Spider Legs voor Zarrin in Dolanaar.",
+   "p": "Denk aan het evenwicht, $N. Ik wil dat je de levende bossen gaat begrijpen. En ik wil dat je een sterke empathie voor ze voelt.",
+   "c": "Onthoud altijd wat ik je vandaag heb laten zien, $N. Jij bent een deel van het evenwicht. De nachtelfen proberen dat evenwicht heel te houden, ook in moeilijke tijden.",
+   "g": [
+    [
+     "nachtelfen",
+     "night elves (nachtelf)"
+    ],
+    [
+     "verleden",
+     "the past"
+    ],
+    [
+     "stap",
+     "step"
+    ],
+    [
+     "trots",
+     "proud"
+    ],
+    [
+     "harmonieuze",
+     "harmonious (harmonieus)"
+    ],
+    [
+     "band",
+     "bond, relationship"
+    ],
+    [
+     "geven er iets voor terug",
+     "give back in return (teruggeven)"
+    ],
+    [
+     "evenwicht",
+     "balance"
+    ],
+    [
+     "verzamel",
+     "collect (verzamelen)"
+    ],
+    [
+     "empathie",
+     "empathy"
+    ],
+    [
+     "onthoud",
+     "remember (onthouden)"
+    ],
+    [
+     "heel te houden",
+     "to keep intact (heel houden)"
+    ]
+   ]
+  },
+  "2178": {
+   "t": "Makkelijk leven met striders",
+   "d": "Ruik je die heerlijke geur? Het is mijn geheime recept, $N: verse striderstoofpot. Heerlijk!$B$BWil je het recept misschien leren?$B$BMaar voordat ik je het recept leer, moet je laten zien dat je met die beesten om kunt gaan.$B$BIk verwacht niet dat je er een gaat temmen en dat je erop terugrijdt naar mij. Maar als je er een paar doodt en wat van hun sappige vlees meebrengt, kan ik misschien overgehaald worden. Dan laat ik je zien hoe je striderstoofpot maakt.",
+   "o": "Breng 5 Strider Meat terug naar Alanndarian Nightsong in Auberdine.",
+   "p": "De pan is leeg en ik heb honger! Waarom duurt het zo lang?",
+   "c": "Fantastisch! Proef het en zeg me wat je ervan vindt, $N!",
+   "g": [
+    [
+     "ruik",
+     "smell (ruiken)"
+    ],
+    [
+     "geur",
+     "smell, aroma"
+    ],
+    [
+     "striderstoofpot",
+     "strider stew"
+    ],
+    [
+     "beesten",
+     "beasts (beest)"
+    ],
+    [
+     "om kunt gaan",
+     "can handle (omgaan met)"
+    ],
+    [
+     "verwacht",
+     "expect (verwachten)"
+    ],
+    [
+     "temmen",
+     "to tame"
+    ],
+    [
+     "terugrijdt",
+     "ride back (terugrijden)"
+    ],
+    [
+     "sappige",
+     "juicy, succulent (sappig)"
+    ],
+    [
+     "overgehaald",
+     "persuaded (overhalen)"
+    ],
+    [
+     "pan",
+     "pot, pan"
+    ]
+   ]
+  },
+  "6610": {
+   "t": "Clamlette-verrassing",
+   "d": "Heb je ooit van een clamlette gehoord? Natuurlijk niet! Het is mijn nieuwste en grootste culinaire meesterwerk. Ach, $N, als ik alleen al aan een clamlette denk, loopt het water me in de mond.$B$BHelaas heb ik geen voorraad meer om er een te maken! Zullen we een afspraak maken? Jij verzamelt de spullen die ik nodig heb voor een clamlette, en ik leer je de fijne kneepjes van de exotische keuken. En ik geef je er ook nog een paar clamlettes bij! Afgesproken??$B$BDit heb ik nodig:",
+   "o": "Dirge Quikcleave wil dat je de volgende spullen haalt:$B$B12 Giant Eggs. Die vind je bij de Rocs die door Tanaris zwerven, of bij andere soorten grote vogels.$B$B10 stukken Zesty Clam Meat. Die vind je in schelpen, natuurlijk!$B$B20 stukken Alterac Swiss. Op naar een kaasmakerij!$B$BVerzamel alle spullen en ga terug naar Dirge.",
+   "p": "Mijn trek wordt nog mijn dood! Schiet op, $N, voordat ik van mijn eigen voorraad ga eten.",
+   "c": "Je krijgt een speciale traktatie, $N. Kijk en leer!$B$B<Dirge begint de clamlette-verrassing te maken.>",
+   "g": [
+    [
+     "culinaire",
+     "culinary (culinair)"
+    ],
+    [
+     "meesterwerk",
+     "masterpiece"
+    ],
+    [
+     "loopt het water me in de mond",
+     "it makes my mouth water"
+    ],
+    [
+     "helaas",
+     "unfortunately"
+    ],
+    [
+     "afspraak",
+     "deal, agreement"
+    ],
+    [
+     "de fijne kneepjes",
+     "the finer points, the tricks of the trade"
+    ],
+    [
+     "exotische",
+     "exotic (exotisch)"
+    ],
+    [
+     "keuken",
+     "cuisine, kitchen"
+    ],
+    [
+     "afgesproken",
+     "deal, agreed (afspreken)"
+    ],
+    [
+     "zwerven",
+     "wander, roam"
+    ],
+    [
+     "schelpen",
+     "shells, clams (schelp)"
+    ],
+    [
+     "kaasmakerij",
+     "cheese dairy, cheesery"
+    ],
+    [
+     "trek",
+     "craving, appetite"
+    ],
+    [
+     "traktatie",
+     "treat"
+    ]
+   ]
+  },
+  "6612": {
+   "t": "Ik ken iemand...",
+   "d": "Aan je kooklepel zie ik dat je weet wat je doet. Helaas kan ik je niks leren.$B$BGelukkig voor jou ken ik iemand. Hij is een goblin en waarschijnlijk de beste kok van Kalimdor.$B$BJawel, en dat is het slechte nieuws, $gjongen:meid;: je moet naar Kalimdor reizen. Ga naar Gadgetzan en zoek Dirge Quikcleave. Hij helpt je wel op weg.$b",
+   "o": "Reis naar Gadgetzan in de woestijn van Tanaris en praat met Dirge Quikcleave over de volgende stap in je carrière als kok.$b",
+   "c": "<Dirge spuugt leer uit.>$B$BPfftey...$B$B<Dirge hoest luid.>$B$BWat? Voor je informatie, $R: leer bevat verrassend veel eiwit en weinig koolhydraten. ",
+   "g": [
+    [
+     "kooklepel",
+     "cooking spoon"
+    ],
+    [
+     "helaas",
+     "unfortunately"
+    ],
+    [
+     "jawel",
+     "yes indeed, ayep"
+    ],
+    [
+     "helpt je wel op weg",
+     "will set you straight (op weg helpen)"
+    ],
+    [
+     "woestijn",
+     "desert"
+    ],
+    [
+     "carrière",
+     "career"
+    ],
+    [
+     "spuugt",
+     "spits (spugen)"
+    ],
+    [
+     "leer",
+     "leather"
+    ],
+    [
+     "hoest",
+     "coughs (hoesten)"
+    ],
+    [
+     "bevat",
+     "contains (bevatten)"
+    ],
+    [
+     "verrassend",
+     "surprisingly"
+    ],
+    [
+     "eiwit",
+     "protein"
+    ],
+    [
+     "koolhydraten",
+     "carbohydrates (koolhydraat)"
+    ]
+   ]
+  },
+  "6624": {
+   "t": "Triage",
+   "d": "Goedendag, dokter. Vanmiddag testen we of je patiënten op de juiste manier kunt triëren. Als je voor dit examen slaagt, word je lid van de prestigieuze rangen van Alliance Trauma.$B$BLet nu goed op! De kritiek gewonden moeten als eerste worden geholpen. Na de kritiek gewonden komen de zwaargewonden. De gewonden help je als laatste. Je moet 15 patiënten redden om voor dit examen te slagen. Je zakt als 6 van je patiënten tijdens de triage sterven.$B$BSucces, dokter.$b",
+   "o": "Red patiënten door hun wonden te verzorgen met Triage Bandages. Je moet 15 patiënten redden voordat er 6 aan hun verwondingen sterven.$B$BOnthoud de volgorde van triage! Critically Injured Soldiers sterven het snelst, daarna Badly Injured Soldiers. Injured Soldiers doen er het langst over om te sterven. Red hen pas NA je Critically Injured Soldiers en Badly Injured Soldiers.",
+   "p": "Wonderbaarlijk werk, dokter. Gewoon wonderbaarlijk.",
+   "c": "Dokter $N, welkom bij Alliance Trauma.",
+   "e": "15 patiënten gered!",
+   "g": [
+    [
+     "triëren",
+     "to triage, sort patients by urgency"
+    ],
+    [
+     "examen",
+     "exam"
+    ],
+    [
+     "slaagt",
+     "pass (slagen)"
+    ],
+    [
+     "prestigieuze",
+     "prestigious (prestigieus)"
+    ],
+    [
+     "rangen",
+     "ranks (rang)"
+    ],
+    [
+     "kritiek gewonden",
+     "critically injured"
+    ],
+    [
+     "zwaargewonden",
+     "badly injured (zwaargewonde)"
+    ],
+    [
+     "zakt",
+     "fail (zakken, for an exam)"
+    ],
+    [
+     "verzorgen",
+     "to tend, care for"
+    ],
+    [
+     "verwondingen",
+     "injuries (verwonding)"
+    ],
+    [
+     "volgorde",
+     "order, sequence"
+    ],
+    [
+     "wonderbaarlijk",
+     "miraculous"
+    ]
+   ]
+  },
+  "6625": {
+   "t": "Alliance Trauma",
+   "d": "Dokter $N, neem ik aan. Fijn om je te zien.$B$BIk heb geweldig nieuws voor je! Gustaf VanHowzen, de hoofdarts van Alliance Trauma, heeft persoonlijk gevraagd of je bij hem in Theramore komt. Dit kan de kans van je leven zijn! Ik zou alles geven voor een kans om bij de grote dokter Gustaf VanHowzen te studeren! Verspil deze kans niet, dokter!",
+   "o": "Reis naar Theramore in Dustwallow Marsh en praat met Doctor Gustaf VanHowzen over lid worden van Alliance Trauma.",
+   "c": "Geweldig. Trek je operatiekleding aan, we beginnen meteen!",
+   "g": [
+    [
+     "neem ik aan",
+     "I presume (aannemen)"
+    ],
+    [
+     "geweldig",
+     "wonderful"
+    ],
+    [
+     "hoofdarts",
+     "chief physician"
+    ],
+    [
+     "persoonlijk",
+     "personally"
+    ],
+    [
+     "de kans van je leven",
+     "the opportunity of a lifetime"
+    ],
+    [
+     "verspil",
+     "squander, waste (verspillen)"
+    ],
+    [
+     "lid worden",
+     "to join, become a member"
+    ],
+    [
+     "operatiekleding",
+     "scrubs"
+    ],
+    [
+     "meteen",
+     "at once"
+    ]
+   ]
+  },
+  "1579": {
+   "t": "De gaffer jacks",
+   "d": "Ik kwam naar Auberdine omdat het hier stil is. Ik wil mijn uitvindingen uitvinden waar het stil is. Want na een nacht drinken hou ik niet van al het lawaai van Ironforge!$B$BDus ik nam een schip naar Auberdine. Onderweg dronk ik een beetje te veel. Ik liet mijn doos met gaffer jacks overboord vallen! Ik heb mijn gaffer jacks nodig!$B$BIk weet niet precies waar ik ze liet vallen. Maar als je ernaar vist in de oceaan, heb je misschien geluk...",
+   "o": "Breng 8 Gaffer Jacks naar Wizbang Cranktoggle in Auberdine.",
+   "p": "Heb je mijn gaffer jacks gevonden, $N? Zonder mijn gaffer jacks kan ik mijn stintle pegs niet afstellen!",
+   "c": "Ik kan niet geloven dat je ze gevonden hebt! Jij bent vast de $R met het meeste geluk in Kalimdor!",
+   "g": [
+    [
+     "uitvindingen",
+     "inventions (uitvinding)"
+    ],
+    [
+     "uitvinden",
+     "to invent"
+    ],
+    [
+     "lawaai",
+     "noise"
+    ],
+    [
+     "onderweg",
+     "on the way"
+    ],
+    [
+     "dronk",
+     "drank (drinken)"
+    ],
+    [
+     "overboord",
+     "overboard"
+    ],
+    [
+     "precies",
+     "exactly"
+    ],
+    [
+     "vist",
+     "fish (vissen)"
+    ],
+    [
+     "oceaan",
+     "ocean"
+    ],
+    [
+     "afstellen",
+     "to tune, adjust"
+    ],
+    [
+     "geluk",
+     "luck"
+    ]
+   ]
+  },
+  "1580": {
+   "t": "De electropellers",
+   "d": "We weten dat je geluk hebt, maar... hoeveel geluk heb je precies, $N?$B$BOp een nacht liep ik over de wegen van Darkshore. Ik zocht een goede rivier of een goed meer. Daar wilde ik mijn nieuwe lokeend uitproberen. Die beweegt vanzelf en hij ontploft. Ik denk dat ik een beetje aangeschoten was... want ik viel flauw. Uren later werd ik wakker in Auberdine. Mijn haar was verschroeid en mijn tas met electropellers was weg! Ik heb ze vast in het water laten vallen!$B$BIk heb die electropellers nodig! Misschien kun je ze uit een meer of beek in Darkshore vissen...",
+   "o": "Breng 12 Electropellers naar Wizbang Cranktoggle in Auberdine.",
+   "p": "Heb je electropellers gevonden? Ik heb ze nodig als ik verder wil met mijn onderzoek naar lokeenden...",
+   "c": "Ik kan het niet geloven! Je hebt ze gevonden! Jij bent de beste visser die ik ooit heb gezien!$b$bDank je, $N. En hier, neem deze. Je bent zo goed dat je ze waarschijnlijk niet nodig hebt. Maar ze helpen je wel bij het vissen.",
+   "g": [
+    [
+     "meer",
+     "lake"
+    ],
+    [
+     "lokeend",
+     "duck decoy"
+    ],
+    [
+     "uitproberen",
+     "to try out"
+    ],
+    [
+     "vanzelf",
+     "by itself"
+    ],
+    [
+     "ontploft",
+     "explodes (ontploffen)"
+    ],
+    [
+     "aangeschoten",
+     "tipsy"
+    ],
+    [
+     "viel flauw",
+     "passed out (flauwvallen)"
+    ],
+    [
+     "werd wakker",
+     "woke up (wakker worden)"
+    ],
+    [
+     "verschroeid",
+     "singed (verschroeien)"
+    ],
+    [
+     "beek",
+     "stream, brook"
+    ],
+    [
+     "onderzoek",
+     "research"
+    ],
+    [
+     "visser",
+     "fisherman"
+    ]
+   ]
+  },
+  "6607": {
+   "t": "Nat Pagle, extreme visser",
+   "d": "Ik kan niet zeggen dat ik echt van vissen hou. Ik denk dat ik het nu zo'n 20 of 30 jaar doe.$B$BIk denk dat mensen om verschillende redenen doen wat ze doen.$B$BIk zeg niet dat je 30 jaar moet vissen of elke vis in de zee moet vangen om een meestervisser te worden. Ik denk dat je gewoon vastberaden moet zijn. Vastberaden genoeg om urenlang op je achterste te zitten zonder iets te doen.$B$BWeet je wat? Vang een paar zeldzame vissen voor me, dan leer ik je een en ander. Hier is een lijst:",
+   "o": "Nat Pagle wil dat je de volgende vissen vangt:$B$BMisty Reed Mahi Mahi van de Misty Reed Strand in Swamp of Sorrows.$B$BEen Sar'theris Striker van de Sar'theris Strand in Desolace.$B$BFeralas Ahi uit de Verdantis River in Feralas.$B$BSavage Coast Blue Sailfin van de Savage Coast in Stranglethorn Vale.$B$BGa terug naar Nat Pagle als je ze allemaal binnengehaald hebt!",
+   "p": "Bijt er vandaag al wat?",
+   "c": "Dat is nou een mooie vangst!$B$BKom hier, dan laat ik je zien hoe je een paar lijnen uitzet.",
+   "g": [
+    [
+     "redenen",
+     "reasons (reden)"
+    ],
+    [
+     "vangen",
+     "to catch"
+    ],
+    [
+     "meestervisser",
+     "master fisherman"
+    ],
+    [
+     "vastberaden",
+     "determined"
+    ],
+    [
+     "urenlang",
+     "for hours"
+    ],
+    [
+     "achterste",
+     "behind, backside"
+    ],
+    [
+     "een en ander",
+     "a thing or two"
+    ],
+    [
+     "zeldzame",
+     "rare (zeldzaam)"
+    ],
+    [
+     "binnengehaald",
+     "reeled in (binnenhalen)"
+    ],
+    [
+     "bijt",
+     "bites (bijten)"
+    ],
+    [
+     "vangst",
+     "catch"
+    ],
+    [
+     "uitzet",
+     "set out (uitzetten)"
+    ]
+   ]
+  },
+  "6609": {
+   "t": "Ik heb niks meer!",
+   "d": "Ik ben een dwerg, verdorie, $gjongen:meid;! Ik ben niet gemaakt om te vissen! Kijk nou naar me! Ik ben zowat van steen gemaakt.$B$BIk heb niks meer - je hebt me helemaal leeggehaald. Ik heb je alles geleerd wat ik weet, flipflop!$B$BSnap je het niet? Ach, goed dan. Ik heb een oude vriend op Kalimdor die je kan helpen. Zijn naam is Nat Pagle, een prima kerel. Je vindt hem op de eilanden ten zuiden van Theramore. Vooruit, op pad!",
+   "o": "Reis naar Kalimdor, naar de kuststad Theramore. Zoek vandaar een eiland ten zuiden van de stad. Nat Pagle wacht op je!",
+   "c": "Op mijn eiland is altijd plaats voor bezoekers... denk ik...",
+   "g": [
+    [
+     "verdorie",
+     "for crying out loud, darn it"
+    ],
+    [
+     "zowat",
+     "practically, nearly"
+    ],
+    [
+     "leeggehaald",
+     "tapped out, emptied (leeghalen)"
+    ],
+    [
+     "flipflop",
+     "flipflop (a teasing nickname)"
+    ],
+    [
+     "snap",
+     "get, understand (snappen)"
+    ],
+    [
+     "kerel",
+     "fellow, lad"
+    ],
+    [
+     "ten zuiden van",
+     "south of"
+    ],
+    [
+     "vooruit, op pad",
+     "get going"
+    ],
+    [
+     "kuststad",
+     "coastal city"
+    ],
+    [
+     "vandaar",
+     "from there"
+    ],
+    [
+     "bezoekers",
+     "visitors (bezoeker)"
+    ]
+   ]
+  },
+  "1578": {
+   "t": "Voorraad voor het front",
+   "d": "De bergwachters van Loch Modan vechten tegen troggs, en ze hebben het druk! Ze hebben steeds nieuwe harnassen en wapens nodig. Anders krijgen we die troggs nooit onder controle.$B$BDaarom is mijn collega Thorvald daar. Hij zorgt dat de bergwachters een goede uitrusting hebben. Als je wat Copper Axes en Copper Chain Belts maakt en ze naar Thorvald brengt, is hij je dankbaar. Misschien deelt hij zelfs zijn kennis met jou.$B$BThorvald is in de zuidelijke wachttoren van Loch Modan.",
+   "o": "Breng 6 Copper Axes en 6 Copper Chain Belts naar Thorvald in de zuidelijke wachttoren van Loch Modan",
+   "p": "Ik heb geen tijd om te kletsen. Kom je voor zaken?",
+   "c": "Ah, sorry! Ik had niet door dat je hier was om onze troepen nieuwe voorraad te brengen. De spullen die je hebt gemaakt helpen ons enorm!$B$BHier zijn plannen voor een harnas. Ik hoop dat je er iets aan hebt.",
+   "g": [
+    [
+     "bergwachters",
+     "mountaineers (bergwachter)"
+    ],
+    [
+     "harnassen",
+     "armor (harnas)"
+    ],
+    [
+     "onder controle",
+     "under control"
+    ],
+    [
+     "collega",
+     "colleague"
+    ],
+    [
+     "uitrusting",
+     "gear, equipment"
+    ],
+    [
+     "dankbaar",
+     "grateful, obliged"
+    ],
+    [
+     "kennis",
+     "knowledge"
+    ],
+    [
+     "zuidelijke",
+     "southern (zuidelijk)"
+    ],
+    [
+     "wachttoren",
+     "guard tower"
+    ],
+    [
+     "kletsen",
+     "to chat"
+    ],
+    [
+     "zaken",
+     "business (zaak)"
+    ],
+    [
+     "had niet door",
+     "didn't realize (doorhebben)"
+    ],
+    [
+     "troepen",
+     "troops (troep)"
+    ],
+    [
+     "enorm",
+     "hugely, a lot"
+    ]
+   ]
+  },
+  "1618": {
+   "t": "Uitrusting voor Redridge",
+   "d": "Wij dwergen zijn niet de enigen die vechten. Onze menselijke bondgenoten hebben het ook zwaar!$B$BBlackrock-orcs vallen Redridge steeds weer aan, en ze hebben altijd te weinig uitrusting. Als je ze helpt, leert hun eigen smid, Verner Osgood, je vast wel een paar trucjes.",
+   "o": "Tormus Deepforge wil dat je 4 Runed Copper Belts en 4 Heavy Copper Mauls naar Verner Osgood in Redridge brengt.",
+   "p": "Ik hoop dat je goed nieuws uit Ironforge hebt. Want ik weet het echt niet meer!",
+   "c": "Dank je, $N. Hier heb ik heel veel aan. De Blackrock-orcs vallen aan vanuit Stonewatch Keep, en de gnolls van Redridge loeren in de heuvels in het noorden. Daarom ben ik altijd harnassen aan het repareren en nieuwe wapens aan het maken voor onze troepen.$B$BDankzij jouw spullen heb ik even rust. Nu heb ik genoeg tijd om je iets te leren...",
+   "g": [
+    [
+     "enigen",
+     "only ones (enige)"
+    ],
+    [
+     "menselijke",
+     "human (menselijk)"
+    ],
+    [
+     "bondgenoten",
+     "allies (bondgenoot)"
+    ],
+    [
+     "hebben het zwaar",
+     "have their hands full (het zwaar hebben)"
+    ],
+    [
+     "vallen aan",
+     "attack (aanvallen)"
+    ],
+    [
+     "smid",
+     "blacksmith"
+    ],
+    [
+     "trucjes",
+     "tricks (trucje)"
+    ],
+    [
+     "ik weet het echt niet meer",
+     "I'm at my wit's end"
+    ],
+    [
+     "loeren",
+     "lurk"
+    ],
+    [
+     "heuvels",
+     "hills (heuvel)"
+    ],
+    [
+     "repareren",
+     "to repair, fix"
+    ],
+    [
+     "dankzij",
+     "thanks to"
+    ],
+    [
+     "rust",
+     "peace, rest"
+    ]
+   ]
+  },
+  "2758": {
+   "t": "De oorsprong van het smeden",
+   "d": "Toen ik ongeveer zo oud was als jij, nam een dwerg die Galvan heette me onder zijn hoede. Hij leerde me het vak van de pantsersmid. Voordat hij naar Booty Bay vertrok, liet hij me iets beloven: dat ik iedereen zou opleiden die het verlangen en de vastberadenheid had om verder te komen in het smidsvak. Dus hier ben ik, al die jaren later.$B$BNu is het tijd dat jij iets leert. Maak zes Golden Scale Bracers voor me, dan leer je waar het smeden vandaan komt, $N.",
+   "o": "Breng zes Golden Scale Bracers naar Hank the Hammer in Stormwind.",
+   "p": "Zou jij de volgende leerling van Galvan kunnen zijn?",
+   "c": "Heel goed, $N! Luister en leer.$B$BSmeden komt nooit hiervandaan! <Hank wijst naar zijn hamer.>$B$BSmeden komt nooit hiervandaan! <Hank wijst naar het aambeeld.>$B$BSmeden komt alleen hiervandaan! <Hank wijst naar zijn hart.>$B$BEn nu weet je waar het smeden vandaan komt.",
+   "g": [
+    [
+     "oorsprong",
+     "origin"
+    ],
+    [
+     "smeden",
+     "smithing, to forge"
+    ],
+    [
+     "onder zijn hoede",
+     "under his wing (hoede)"
+    ],
+    [
+     "vak",
+     "craft, trade"
+    ],
+    [
+     "pantsersmid",
+     "armorsmith"
+    ],
+    [
+     "beloven",
+     "to promise"
+    ],
+    [
+     "opleiden",
+     "to train"
+    ],
+    [
+     "verlangen",
+     "desire"
+    ],
+    [
+     "vastberadenheid",
+     "determination"
+    ],
+    [
+     "smidsvak",
+     "craft of blacksmithing"
+    ],
+    [
+     "leerling",
+     "pupil, protégé"
+    ],
+    [
+     "wijst",
+     "points (wijzen)"
+    ],
+    [
+     "aambeeld",
+     "anvil"
+    ]
+   ]
+  },
+  "2759": {
+   "t": "Op zoek naar Galvan",
+   "d": "Galvan is vele jaren geleden uit Booty Bay vertrokken. Toch zijn er nog leden van de orde in de stad. Ze hopen ooit iemand anders te vinden die het onderwijs van Galvan waard is.$B$BNeem dit insigne en laat het zien aan McGavan in Booty Bay.$B$BAls je echt zo ver komt, weet hij dat je het waard bent. Ik heb vertrouwen in je, $N!",
+   "o": "Praat met McGavan in Booty Bay.",
+   "p": "Jouw soort is zeldzaam, maatje. Laat me dat insigne eens zien.",
+   "c": "Bij het rughaar van Blackhoof - eindelijk iemand die de Mithril Order waard is!",
+   "g": [
+    [
+     "vertrokken",
+     "left (vertrekken)"
+    ],
+    [
+     "leden",
+     "members (lid)"
+    ],
+    [
+     "orde",
+     "order (organisation)"
+    ],
+    [
+     "onderwijs",
+     "tutelage, teaching"
+    ],
+    [
+     "waard",
+     "worthy, worth"
+    ],
+    [
+     "insigne",
+     "insignia"
+    ],
+    [
+     "vertrouwen",
+     "faith, trust"
+    ],
+    [
+     "soort",
+     "kind, breed"
+    ],
+    [
+     "zeldzaam",
+     "rare"
+    ],
+    [
+     "maatje",
+     "matey, buddy"
+    ],
+    [
+     "rughaar",
+     "back hair"
+    ],
+    [
+     "eindelijk",
+     "finally"
+    ]
+   ]
+  },
+  "2760": {
+   "t": "De Mithril Order",
+   "d": "De meeste van onze rekruten halen Booty Bay nooit, $N. De glans van het insigne is genoeg om zelfs bij de trouwste smeden de hebzucht wakker te maken. Dwazen zijn het, want het insigne is maar een kleinigheid vergeleken met alle rijkdom die je nog zult zien!$B$BZoek Galvan the Ancient en laat hem deze speld zien. Hij woont ver in het noorden, tussen Zul Gurub en de ogerheuvel van Mosh'Ogg.$b",
+   "o": "Praat met Galvan the Ancient in Stranglethorn Vale.$b",
+   "p": "Gegroet! Kom dichterbij; laat Galvan zien wat je hebt.",
+   "c": "Ah, het is vele jaren geleden dat iemand de inwijding van de Mithril Order waard was. We beginnen nu!",
+   "g": [
+    [
+     "rekruten",
+     "recruits (rekruut)"
+    ],
+    [
+     "glans",
+     "shine"
+    ],
+    [
+     "trouwste",
+     "staunchest (trouw)"
+    ],
+    [
+     "hebzucht",
+     "greed, loot lust"
+    ],
+    [
+     "wakker te maken",
+     "to awaken, trigger (wakker maken)"
+    ],
+    [
+     "dwazen",
+     "fools (dwaas)"
+    ],
+    [
+     "kleinigheid",
+     "trifle, drop in the bucket"
+    ],
+    [
+     "vergeleken met",
+     "compared to (vergelijken)"
+    ],
+    [
+     "rijkdom",
+     "wealth"
+    ],
+    [
+     "speld",
+     "pin"
+    ],
+    [
+     "ogerheuvel",
+     "ogre mound"
+    ],
+    [
+     "gegroet",
+     "hail, greetings"
+    ],
+    [
+     "dichterbij",
+     "closer"
+    ],
+    [
+     "inwijding",
+     "initiation"
+    ]
+   ]
+  },
+  "5283": {
+   "t": "De kunst van de pantsersmid",
+   "d": "Dus je hebt de slimme keuze gemaakt.$B$BIk en die ouwe Ironus hier, wij mogen elkaar niet. Die nutteloze speelgoedmaker weet heus wel wie hier de echte vakmensen zijn.$B$BDe echt grote oorlogen win je met een goede verdediging. Als het erop aankomt, heb je niks aan een aanval.$B$BGoed, laten we aan het werk gaan. Je hoeft me alleen te laten zien dat je echt ruw talent hebt. Daarna haal ik de laatste onzuiverheden uit je weg, en vorm ik je tot pantsersmid. Je weet toch hoe je ornate mithril maakt?",
+   "o": "Om pantsersmid te worden, moet je de volgende spullen maken en naar Grumnus brengen: 4 Ornate Mithril Helms, 2 Ornate Mithril Boots, 1 Ornate Mithril Breastplate.",
+   "p": "Ah, er gaat niks boven een goed smidsbruintje. Je ziet wie het echt goede bruintje heeft aan de lijnen van hun schort.",
+   "c": "Dit is het moment, $N. Hierna kun je niet meer terug. Het is nog niet te laat om speelgoedmaker te worden, eh, wapensmid.$B$BIk vertrouw erop dat je de juiste keuze maakt.",
+   "g": [
+    [
+     "keuze",
+     "choice, decision"
+    ],
+    [
+     "wij mogen elkaar niet",
+     "there's no love lost between us"
+    ],
+    [
+     "nutteloze",
+     "good-for-nothing (nutteloos)"
+    ],
+    [
+     "speelgoedmaker",
+     "toy maker"
+    ],
+    [
+     "heus wel",
+     "surely, really"
+    ],
+    [
+     "vakmensen",
+     "craftsmen (vakman)"
+    ],
+    [
+     "verdediging",
+     "defense"
+    ],
+    [
+     "als het erop aankomt",
+     "when it's go time, when it really matters"
+    ],
+    [
+     "aanval",
+     "offense, attack"
+    ],
+    [
+     "ruw",
+     "raw"
+    ],
+    [
+     "onzuiverheden",
+     "impurities (onzuiverheid)"
+    ],
+    [
+     "vorm",
+     "mold, shape (vormen)"
+    ],
+    [
+     "er gaat niks boven",
+     "there's nothing like"
+    ],
+    [
+     "smidsbruintje",
+     "forge tan"
+    ],
+    [
+     "schort",
+     "apron"
+    ]
+   ]
+  },
+  "5284": {
+   "t": "De weg van de wapensmid",
+   "d": "Als wapensmid zul je merken dat helden en avonturiers meestal naar jou komen voor hun uitrusting. Het werk is soms bijna niet vol te houden, maar de rijkdom maakt de rugpijn en de as in je longen ruimschoots goed.$B$BO ja, $N, wapensmeden zijn degenen met al het goud!$B$BAls je bij ons wilt horen, moet je me laten zien dat je een zilverstuk of twee voor me kunt verdienen - ik bedoel, laat me zien dat je het in je hebt om $gde man:de vrouw; te zijn bij wie mensen komen als ze wapens van topkwaliteit nodig hebben. Aan het werk!",
+   "o": "Om wapensmid te worden, moet je de volgende spullen maken en naar Ironus brengen: 4 Moonsteel Broadswords, 4 Massive Iron Axes, 2 Heavy Mithril Axes en 2 Big Black Maces.$b",
+   "p": "<Ironus is bezig gouden munten in nette stapeltjes te leggen.>",
+   "c": "Werd tijd! Ik heb klanten die wachten.$B$BGeef die maar hier en let goed op. Je gaat de eerste stap zetten in je carrière als wapensmid.",
+   "g": [
+    [
+     "wapensmid",
+     "weaponsmith"
+    ],
+    [
+     "merken",
+     "to notice, find"
+    ],
+    [
+     "avonturiers",
+     "adventurers (avonturier)"
+    ],
+    [
+     "vol te houden",
+     "bearable (volhouden)"
+    ],
+    [
+     "rugpijn",
+     "back strain, back pain"
+    ],
+    [
+     "longen",
+     "lungs (long)"
+    ],
+    [
+     "ruimschoots goed",
+     "more than make up for (goedmaken)"
+    ],
+    [
+     "zilverstuk",
+     "silver coin"
+    ],
+    [
+     "verdienen",
+     "to earn"
+    ],
+    [
+     "het in je hebt",
+     "have what it takes (het in je hebben)"
+    ],
+    [
+     "topkwaliteit",
+     "top quality"
+    ],
+    [
+     "munten",
+     "coins (munt)"
+    ],
+    [
+     "stapeltjes",
+     "little piles (stapel)"
+    ],
+    [
+     "werd tijd",
+     "about time"
+    ],
+    [
+     "klanten",
+     "customers (klant)"
+    ]
+   ]
+  },
+  "2761": {
+   "t": "Smelten aan, smelten uit",
+   "d": "Veel smeden denken dat mijnbouw en smeden aparte, losse beroepen zijn. Maar kan er smeden bestaan zonder mijnbouw? Ah ha - dat is onmogelijk! Een bekwame smid moet ook een bekwame mijnwerker zijn.$B$BLaat Galvan zien dat je het kunt, $N. Breng me veertig staven ijzer en veertig staven mithril. Daarvoor leert Galvan je de kunst van de ornate mithril pants!",
+   "o": "Breng veertig Mithril Bars en veertig Iron Bars naar Galvan the Ancient in Stranglethorn.",
+   "p": "Na zoveel mijnwerk zwellen je spieren op en doet je hele lichaam pijn!",
+   "c": "Je werkhouding is onberispelijk, $N! Je begint de leer van Galvans mineralogie te begrijpen! Neem dit en leer er zoveel mogelijk van.",
+   "g": [
+    [
+     "mijnbouw",
+     "mining"
+    ],
+    [
+     "aparte",
+     "separate (apart)"
+    ],
+    [
+     "beroepen",
+     "jobs, professions (beroep)"
+    ],
+    [
+     "onmogelijk",
+     "impossible"
+    ],
+    [
+     "bekwame",
+     "accomplished, skilled (bekwaam)"
+    ],
+    [
+     "mijnwerker",
+     "miner"
+    ],
+    [
+     "staven",
+     "bars (staaf)"
+    ],
+    [
+     "mijnwerk",
+     "mining work"
+    ],
+    [
+     "zwellen op",
+     "bulge, swell (opzwellen)"
+    ],
+    [
+     "spieren",
+     "muscles (spier)"
+    ],
+    [
+     "werkhouding",
+     "work ethic"
+    ],
+    [
+     "onberispelijk",
+     "impeccable"
+    ],
+    [
+     "leer",
+     "teaching, doctrine"
+    ],
+    [
+     "mineralogie",
+     "mineralogy"
+    ]
+   ]
+  },
+  "2762": {
+   "t": "De grote zilveren bedrieger",
+   "d": "Men zegt dat truesilver sterker en duurzamer is dan mithril. Galvan is het niet oneens met dit oordeel over de mineralen. Maar ondanks zijn naam is truesilver niet echt! Mithril is een veel edeler mineraal! HAH! Hoe dan ook, voor deze les moet je de grote zilveren bedrieger vinden, $N.$B$BBreng me veertig staven mithril en vijf staven truesilver. In ruil daarvoor leer je het geheim van de ornate mithril gloves. En, nog belangrijker, je leert dat truesilver een leugenaar is!",
+   "o": "Breng veertig Mithril Bars en vijf Truesilver Bars naar Galvan the Ancient in Stranglethorn.",
+   "p": "Na zoveel mijnwerk zwellen je spieren op en doet je hele lichaam pijn!",
+   "c": "Ze is een wrede minnares, nietwaar, $N? Ik heb het natuurlijk over truesilver. Ja, Galvan heeft meer dan tien jaar in de bergen van Alterac doorgebracht om deze les te leren. Neem dit en leer er zoveel mogelijk van!",
+   "g": [
+    [
+     "bedrieger",
+     "deceiver"
+    ],
+    [
+     "duurzamer",
+     "more durable (duurzaam)"
+    ],
+    [
+     "het niet oneens",
+     "doesn't disagree (het oneens zijn)"
+    ],
+    [
+     "oordeel",
+     "assessment, judgement"
+    ],
+    [
+     "mineralen",
+     "minerals (mineraal)"
+    ],
+    [
+     "ondanks",
+     "despite, contrary to"
+    ],
+    [
+     "edeler",
+     "nobler (edel)"
+    ],
+    [
+     "hoe dan ook",
+     "regardless"
+    ],
+    [
+     "in ruil daarvoor",
+     "in exchange"
+    ],
+    [
+     "leugenaar",
+     "liar"
+    ],
+    [
+     "wrede",
+     "cruel (wreed)"
+    ],
+    [
+     "minnares",
+     "mistress"
+    ],
+    [
+     "nietwaar",
+     "isn't it, is she not"
+    ],
+    [
+     "doorgebracht",
+     "spent (doorbrengen)"
+    ]
+   ]
+  },
+  "2763": {
+   "t": "De kunst van het doordrenken",
+   "d": "Het winnen van kostbare edelstenen is van het grootste belang voor ons vak, $N. Er zijn maar weinig edelstenen zo kostbaar als de citrien. De magische eigenschappen die we in onze waren leggen, worden veel sterker als er citrien aanwezig is.$B$BVoor deze les versterken we veertig staven mithril met vier citrienen. Het resultaat is een beter begrip van magische edelsteenkunde, en de kennis om ornate mithril shoulders te maken.",
+   "o": "Breng veertig Mithril Bars en vier Citrines naar Galvan the Ancient in Stranglethorn.",
+   "p": "Na zoveel mijnwerk zwellen je spieren op en doet je hele lichaam pijn!",
+   "c": "Je kunt je ogen bijna niet van zijn pracht afhouden, $N. Ja, citrien is een schitterende edelsteen.$B$BLet goed op en leer wat zo'n ontdekking ons kan leren!",
+   "g": [
+    [
+     "doordrenken",
+     "to imbue, saturate"
+    ],
+    [
+     "kostbare",
+     "precious (kostbaar)"
+    ],
+    [
+     "edelstenen",
+     "gems (edelsteen)"
+    ],
+    [
+     "van het grootste belang",
+     "of utmost importance"
+    ],
+    [
+     "citrien",
+     "citrine"
+    ],
+    [
+     "eigenschappen",
+     "properties (eigenschap)"
+    ],
+    [
+     "waren",
+     "goods, wares (waar)"
+    ],
+    [
+     "aanwezig",
+     "present"
+    ],
+    [
+     "versterken",
+     "to fortify, strengthen"
+    ],
+    [
+     "edelsteenkunde",
+     "gemology"
+    ],
+    [
+     "pracht",
+     "splendor"
+    ],
+    [
+     "afhouden",
+     "to keep off, keep away"
+    ],
+    [
+     "schitterende",
+     "glorious, brilliant (schitterend)"
+    ],
+    [
+     "ontdekking",
+     "discovery"
+    ]
+   ]
+  },
+  "2764": {
+   "t": "Galvans beste leerling",
+   "d": "Als je klaar bent om je opleiding bij Galvan af te ronden, moet je naar Gadgetzan reizen.$B$BDaar vind je mijn beste leerling: Trenton Lighthammer. Hij kan je veel leren over de kunst van ornate mithril. Anders blijf je hier en leer je!$B$BO, Gadgetzan ligt in Tanaris, natuurlijk!",
+   "o": "Praat met Trenton Lighthammer in Gadgetzan.",
+   "c": "Heeft Galvan the Ancient je gestuurd??$B$B<Trenton buigt.>$B$BHet is een grote eer om nog een leerling van de meester te ontmoeten!",
+   "g": [
+    [
+     "opleiding",
+     "training"
+    ],
+    [
+     "af te ronden",
+     "to conclude, finish (afronden)"
+    ],
+    [
+     "leerling",
+     "pupil"
+    ],
+    [
+     "kunst",
+     "art, craft"
+    ],
+    [
+     "anders",
+     "otherwise"
+    ],
+    [
+     "gestuurd",
+     "sent (sturen)"
+    ],
+    [
+     "buigt",
+     "bows (buigen)"
+    ],
+    [
+     "eer",
+     "honor"
+    ],
+    [
+     "meester",
+     "master"
+    ],
+    [
+     "ontmoeten",
+     "to meet"
+    ]
+   ]
+  },
+  "2765": {
+   "t": "Expert-smid!",
+   "d": "Toen je voor het eerst bij me kwam, wist ik dat je een van mijn beste leerlingen zou worden! Zonder aarzelen gaf je een kleinood met enige kracht weg aan McGavan. Dat deed je alleen om mij te kunnen ontmoeten. Zulk blind vertrouwen en zo'n toewijding aan het vak verdienen een beloning.$B$BJe bent nu een expert in het smeden, $N. Pluk de vruchten!",
+   "o": "Haal je beloning op bij Galvan the Ancient!",
+   "c": "Het is niet meer dan terecht dat je een kleinood krijgt met veel meer kracht dan het kleinood dat je hebt opgeofferd om hier te komen. Gebruik het in goede gezondheid, $N.",
+   "e": "Jij bent de grote winnaar",
+   "g": [
+    [
+     "zonder aarzelen",
+     "without hesitation"
+    ],
+    [
+     "kleinood",
+     "trinket"
+    ],
+    [
+     "enige",
+     "some"
+    ],
+    [
+     "blind vertrouwen",
+     "blind faith"
+    ],
+    [
+     "toewijding",
+     "devotion"
+    ],
+    [
+     "verdienen",
+     "deserve (verdienen)"
+    ],
+    [
+     "beloning",
+     "reward"
+    ],
+    [
+     "pluk de vruchten",
+     "reap the rewards (de vruchten plukken)"
+    ],
+    [
+     "terecht",
+     "fitting, justified"
+    ],
+    [
+     "opgeofferd",
+     "sacrificed (opofferen)"
+    ],
+    [
+     "gezondheid",
+     "health"
+    ],
+    [
+     "winnaar",
+     "winner"
+    ]
+   ]
+  },
+  "2771": {
+   "t": "Een goed hoofd op je schouders",
+   "d": "Het lijkt erop dat de meester dit vanaf het begin zo had gepland. Ik heb niet geleerd de spullen te maken die jij hebt leren maken. En jij hebt niet geleerd de spullen te maken die ik heb leren maken.$B$BDe meester is wijs, $N. We gaan het elkaar leren!$B$BLaat me zien hoe je een mithril coif en ornate mithril shoulders maakt, dan laat ik jou zien hoe je een ornate mithril helm maakt.",
+   "o": "Breng twee Mithril Coifs en een Ornate Mithril Shoulder naar Trenton Lighthammer.",
+   "p": "Ben je klaar met het maken van de spullen, $N?",
+   "c": "Uitstekend! Een eerlijke ruil, al zeg ik het zelf. Kijk en leer, $N!",
+   "g": [
+    [
+     "het lijkt erop",
+     "it seems"
+    ],
+    [
+     "vanaf het begin",
+     "from the start"
+    ],
+    [
+     "gepland",
+     "planned (plannen)"
+    ],
+    [
+     "wijs",
+     "wise"
+    ],
+    [
+     "elkaar",
+     "each other"
+    ],
+    [
+     "schouders",
+     "shoulders (schouder)"
+    ],
+    [
+     "uitstekend",
+     "excellent"
+    ],
+    [
+     "eerlijke",
+     "fair (eerlijk)"
+    ],
+    [
+     "ruil",
+     "trade, exchange"
+    ],
+    [
+     "al zeg ik het zelf",
+     "if I do say so myself"
+    ]
+   ]
+  },
+  "2772": {
+   "t": "De wereld aan je voeten",
+   "d": "Op het All-Valley Blacksmithing Championship van vorig jaar zag iedereen die keek hoe een laffe hond van de Venture Co. Foundry mijn been onder me vandaan schopte. Maar wat ze niet wisten, was waarom ik toch door kon gaan en uiteindelijk het toernooi won: precies, ornate mithril boots!$B$BVoor het toernooi van dit jaar moet ik leren hoe je ornate mithril pants maakt, want er doet een shredder van de Venture Co. mee! Leer mij de weg van de broek, en leer de weg van de laars!",
+   "o": "Breng twee Heavy Mithril Boots en een Ornate Mithril Pants naar Trenton Lighthammer.$b",
+   "p": "Ben je klaar met het maken van de spullen, $N?",
+   "c": "De wereld ligt aan je voeten, $N! Laat ze maar allemaal naar je benen komen, want niemand kan jou nu nog onderuit schoppen!",
+   "g": [
+    [
+     "laffe",
+     "cowardly (laf)"
+    ],
+    [
+     "onder me vandaan",
+     "out from under me"
+    ],
+    [
+     "schopte",
+     "kicked, swept (schoppen)"
+    ],
+    [
+     "door kon gaan",
+     "could continue (doorgaan)"
+    ],
+    [
+     "uiteindelijk",
+     "ultimately, in the end"
+    ],
+    [
+     "toernooi",
+     "tournament"
+    ],
+    [
+     "doet mee",
+     "takes part, is an entrant (meedoen)"
+    ],
+    [
+     "broek",
+     "pants, trousers"
+    ],
+    [
+     "laars",
+     "boot"
+    ],
+    [
+     "voeten",
+     "feet (voet)"
+    ],
+    [
+     "onderuit schoppen",
+     "to sweep someone's legs"
+    ]
+   ]
+  },
+  "2773": {
+   "t": "De Mithril Kid",
+   "d": "Hier in de buurt kennen ze me als de Mithril Kid. Ik lever ornate mithril aan avonturiers van over de hele wereld.$B$B<Trenton fluistert.>$B$BZe weten niet dat ik de techniek om ornate mithril gloves te maken niet ken. Ssst! Dit blijft ons geheimpje.$B$BLeer me de techniek om ornate mithril gloves te maken, $N. In ruil laat ik je het resultaat zien van het hoogtepunt van mijn opleiding bij Galvan: de ornate mithril breastplate.",
+   "o": "Breng twee Heavy Mithril Breastplates en een Ornate Mithril Gloves naar Trenton Lighthammer.",
+   "p": "Ben je klaar met het maken van de spullen, $N?",
+   "c": "Dank je voor alles wat je me hebt geleerd, $N. De meester en commandant van de ornate mithril-set is binnenkort van jou.$B$BKijk maar!",
+   "g": [
+    [
+     "in de buurt",
+     "around these parts"
+    ],
+    [
+     "lever",
+     "supply (leveren)"
+    ],
+    [
+     "fluistert",
+     "whispers (fluisteren)"
+    ],
+    [
+     "techniek",
+     "technique"
+    ],
+    [
+     "geheimpje",
+     "little secret (geheim)"
+    ],
+    [
+     "in ruil",
+     "in exchange"
+    ],
+    [
+     "resultaat",
+     "result"
+    ],
+    [
+     "hoogtepunt",
+     "culmination, high point"
+    ],
+    [
+     "commandant",
+     "commander"
+    ],
+    [
+     "binnenkort",
+     "soon"
+    ]
+   ]
+  }
+ },
+ "words": {
+  "blackrock-orcs": "Blackrock orcs (orcs of the Blackrock clan)",
+  "bruintje": "a tan (bruin)",
+  "citrienen": "citrines (citrien)",
+  "expert-smid": "expert blacksmith",
+  "galvans": "Galvan's",
+  "heetten": "were called (heten)",
+  "langst": "longest (lang)",
+  "lokeenden": "duck decoys (lokeend)",
+  "meebrengt": "bring along (meebrengen)",
+  "mineraal": "mineral",
+  "mithril-set": "mithril set (of armor)",
+  "nette": "neat, tidy (net)",
+  "onderuit": "off one's feet, down (onderuit gaan = to fall)",
+  "oneens": "in disagreement (het oneens zijn = to disagree)",
+  "oorlogen": "wars (oorlog)",
+  "patiënten": "patients (patiënt)",
+  "pluk": "pick, reap (plukken)",
+  "ruimschoots": "amply, more than enough",
+  "schoppen": "to kick",
+  "snelst": "fastest (snel)",
+  "vanmiddag": "this afternoon",
+  "veertig": "forty",
+  "vogels": "birds (vogel)",
+  "wapensmeden": "weaponsmiths (wapensmid)",
+  "zeven": "seven",
+  "zwellen": "swell (zwellen, opzwellen)",
+  "zwijnenribben": "boar ribs (zwijn + rib)"
+ },
+ "terms": {
+  "kaldorei": "kaldorei: the night elves' own name for their people, meaning 'children of the stars' (Warcraft)",
+  "strider": "strider: a big, long-legged flightless bird of Kalimdor (Warcraft)",
+  "clamlette": "clamlette: Dirge's own invented dish, a mix of clam and omelette (Warcraft joke word)",
+  "gaffer jacks": "gaffer jacks: a gnomish gadget part (made-up Warcraft gnome technology)",
+  "electropellers": "electropellers: gnomish gadget parts (made-up Warcraft gnome technology)",
+  "truesilver": "truesilver: a rare silver metal used in Warcraft smithing",
+  "mithril": "mithril: a light, strong fantasy metal used in smithing (Warcraft)",
+  "shredder": "shredder: a goblin walking machine with saw blades (Warcraft)",
+  "goblin": "goblin: a small, green, money-loving race of inventors and traders (Warcraft)",
+  "ornate": "ornate (English item word, 'richly decorated'): part of the Ornate Mithril armor names",
+  "stintle": "stintle: part of 'stintle pegs', a made-up gnomish gadget part (Warcraft)",
+  "pegs": "pegs: part of 'stintle pegs', a made-up gnomish gadget part (Warcraft)",
+  "shoulders": "shoulders (English item word): shoulder armor, part of Ornate Mithril Shoulder",
+  "clamlettes": "clamlettes: plural of clamlette, Dirge's invented clam omelette (Warcraft joke word)",
+  "clamlette-verrassing": "clamlette-verrassing: clamlette surprise, Dirge's invented clam omelette dish (Warcraft)",
+  "striders": "striders: plural of strider, big long-legged flightless birds of Kalimdor (Warcraft)",
+  "pfftey": "pfftey: a spitting sound"
+ }
+}
