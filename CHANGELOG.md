@@ -1,6 +1,7 @@
 # Changelog
 
 ## Unreleased
+- Batch 94: Timbermaw Hold, Orgrimmar, Cooking and Stranglethorn Vale at level 56 to 60 (The Brokering of Peace, Betrayed, The Darkmoon Faire voucher, the Silithus desert dumpling cooking chain, Confront Yeh'kinya, and the Zandalar Paragons of Power turn-ins for augur, haruspex, vindicator, demoniac, illusionist, confessor, predator and madcap gear) (21 quests, 4210 in total).
 - Batch 96: Ahn'Qiraj: Brood of Nozdormu armor quests (Conqueror's, Oracle, Enigma, Avenger's and Deathdealer's sets), Mortal Champions, and the Sickle of Unyielding Strength (25 quests, 4189 in total).
 - Batch 93: Darkmoon Faire (Yebb Neblegear's ticket turn-ins, Gelvas Grimegate's prize redemptions, Sayge's fortunes), the three leatherworking specialisations, Arena Grandmaster, the start of the Eranikus chain in Swamp of Sorrows, and the Timbermaw furbolg quests (Deadwood and Winterfall) (32 quests, 4164 in total).
 - Batch 97: Ahn'Qiraj tier-set quests from the Brood of Nozdormu (Deathdealer's, Striker's, Doomcaller's, Avenger's and Genesis pieces), Keyl Swiftclaw's Qiraji cloaks and two of Windcaller Yessendra's rings (26 quests, 4132 in total).
