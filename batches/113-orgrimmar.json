@@ -1,0 +1,1796 @@
+{
+ "quests": {
+  "8916": {
+   "t": "Een serieus voorstel",
+   "d": "Gegroet, $c! Aan je houding zie ik dat je veel hebt gezien en gedaan in deze wereld. Toch durf ik te wedden dat je nog nooit zo'n stuk wapenrusting hebt gezien.$B$BDoe me een kleine gunst, dan wil ik het met je ruilen voor een gewone set armbeschermers.$B$BIk heb een flinke hoeveelheid gif nodig van de spinnen en schorpioenen die in Silithus leven. Breng me dat, samen met een paar gouden munten, en dan doe ik de ruil.$b",
+   "o": "Verzamel 15 Silithus Venom Samples en 20 goud en breng ze samen met een set Devout Bracers naar Mokvar in Orgrimmar.$b",
+   "p": "Heb je de spullen die ik nodig heb, $N?",
+   "c": "Ah, ja. Mux zal hier erg blij mee zijn.$B$BDie armbeschermers hoorden bij een grotere wapenrusting. Als je me verder wilt helpen, wil ik erover denken om ook de rest af te staan.",
+   "g": [
+    [
+     "serieus",
+     "earnest, serious"
+    ],
+    [
+     "voorstel",
+     "proposition, proposal"
+    ],
+    [
+     "houding",
+     "demeanor, bearing"
+    ],
+    [
+     "durf ik te wedden",
+     "I dare to bet (durven, wedden)"
+    ],
+    [
+     "wapenrusting",
+     "armor"
+    ],
+    [
+     "gunst",
+     "favor"
+    ],
+    [
+     "ruilen",
+     "to trade, to swap"
+    ],
+    [
+     "armbeschermers",
+     "bracers (armbeschermer)"
+    ],
+    [
+     "flinke",
+     "sizeable (flink)"
+    ],
+    [
+     "hoeveelheid",
+     "amount, quantity"
+    ],
+    [
+     "gif",
+     "venom, poison"
+    ],
+    [
+     "schorpioenen",
+     "scorpions (schorpioen)"
+    ],
+    [
+     "ruil",
+     "exchange, trade"
+    ],
+    [
+     "hoorden bij",
+     "belonged to (horen bij)"
+    ],
+    [
+     "af te staan",
+     "to part with, to give up (afstaan)"
+    ]
+   ]
+  },
+  "8917": {
+   "t": "Een serieus voorstel",
+   "d": "Gegroet, $c! Aan je houding zie ik dat je veel hebt gezien en gedaan in deze wereld. Toch durf ik te wedden dat je nog nooit zo'n stuk wapenrusting hebt gezien.$B$BDoe me een kleine gunst, dan wil ik het met je ruilen voor een gewone set armbeschermers.$B$BIk heb een flinke hoeveelheid gif nodig van de spinnen en schorpioenen die in Silithus leven. Breng me dat, samen met een paar gouden munten, en dan doe ik de ruil.",
+   "o": "Verzamel 15 Silithus Venom Samples en 20 goud en breng ze samen met een set Shadowcraft Bracers naar Mokvar in Orgrimmar.$b",
+   "p": "Heb je de spullen die ik nodig heb, $N?",
+   "c": "Ah, ja. Mux zal hier erg blij mee zijn.$B$BDie armbeschermers hoorden bij een grotere wapenrusting. Als je me verder wilt helpen, wil ik erover denken om ook de rest af te staan.",
+   "g": [
+    [
+     "serieus",
+     "earnest, serious"
+    ],
+    [
+     "voorstel",
+     "proposition, proposal"
+    ],
+    [
+     "houding",
+     "demeanor, bearing"
+    ],
+    [
+     "durf ik te wedden",
+     "I dare to bet (durven, wedden)"
+    ],
+    [
+     "wapenrusting",
+     "armor"
+    ],
+    [
+     "gunst",
+     "favor"
+    ],
+    [
+     "ruilen",
+     "to trade, to swap"
+    ],
+    [
+     "armbeschermers",
+     "bracers (armbeschermer)"
+    ],
+    [
+     "flinke",
+     "sizeable (flink)"
+    ],
+    [
+     "hoeveelheid",
+     "amount, quantity"
+    ],
+    [
+     "gif",
+     "venom, poison"
+    ],
+    [
+     "schorpioenen",
+     "scorpions (schorpioen)"
+    ],
+    [
+     "ruil",
+     "exchange, trade"
+    ],
+    [
+     "hoorden bij",
+     "belonged to (horen bij)"
+    ],
+    [
+     "af te staan",
+     "to part with, to give up (afstaan)"
+    ]
+   ]
+  },
+  "8918": {
+   "t": "Een serieus voorstel",
+   "d": "Gegroet, $c! Aan je houding zie ik dat je veel hebt gezien en gedaan in deze wereld. Toch durf ik te wedden dat je nog nooit zo'n stuk wapenrusting hebt gezien.$B$BDoe me een kleine gunst, dan wil ik het met je ruilen voor een gewone set armbeschermers.$B$BIk heb een flinke hoeveelheid gif nodig van de spinnen en schorpioenen die in Silithus leven. Breng me dat, samen met een paar gouden munten, en dan doe ik de ruil.",
+   "o": "Verzamel 15 Silithus Venom Samples en 20 goud en breng ze samen met een set Bindings of Elements naar Mokvar in Orgrimmar.$b",
+   "p": "Heb je de spullen die ik nodig heb, $N?",
+   "c": "Ah, ja. Die oude goblin zal erg blij zijn met dit bloed.$B$BDie polsbanden hoorden bij een grotere wapenrusting. Als je me verder wilt helpen, wil ik erover denken om ook de rest af te staan.",
+   "g": [
+    [
+     "serieus",
+     "earnest, serious"
+    ],
+    [
+     "voorstel",
+     "proposition, proposal"
+    ],
+    [
+     "houding",
+     "demeanor, bearing"
+    ],
+    [
+     "durf ik te wedden",
+     "I dare to bet (durven, wedden)"
+    ],
+    [
+     "wapenrusting",
+     "armor"
+    ],
+    [
+     "gunst",
+     "favor"
+    ],
+    [
+     "ruilen",
+     "to trade, to swap"
+    ],
+    [
+     "armbeschermers",
+     "bracers (armbeschermer)"
+    ],
+    [
+     "flinke",
+     "sizeable (flink)"
+    ],
+    [
+     "hoeveelheid",
+     "amount, quantity"
+    ],
+    [
+     "gif",
+     "venom, poison"
+    ],
+    [
+     "schorpioenen",
+     "scorpions (schorpioen)"
+    ],
+    [
+     "ruil",
+     "exchange, trade"
+    ],
+    [
+     "hoorden bij",
+     "belonged to (horen bij)"
+    ],
+    [
+     "af te staan",
+     "to part with, to give up (afstaan)"
+    ],
+    [
+     "polsbanden",
+     "bindings, wristbands (polsband)"
+    ]
+   ]
+  },
+  "8919": {
+   "t": "Een serieus voorstel",
+   "d": "Gegroet, $c! Aan je houding zie ik dat je veel hebt gezien en gedaan in deze wereld. Toch durf ik te wedden dat je nog nooit zo'n stuk wapenrusting hebt gezien.$B$BDoe me een kleine gunst, dan wil ik het met je ruilen voor een gewone set armbeschermers.$B$BIk heb een flinke hoeveelheid gif nodig van de spinnen en schorpioenen die in Silithus leven. Breng me dat, samen met een paar gouden munten, en dan doe ik de ruil.",
+   "o": "Verzamel 15 Silithus Venom Samples en 20 goud en breng ze samen met een set Dreadmist Bracers naar Mokvar in Orgrimmar.",
+   "p": "Heb je de spullen die ik nodig heb, $N?",
+   "c": "Ah, ja. Mux zal hier erg blij mee zijn.$B$BDie armbeschermers hoorden bij een grotere wapenrusting. Als je me verder wilt helpen, wil ik erover denken om ook de rest af te staan.",
+   "g": [
+    [
+     "serieus",
+     "earnest, serious"
+    ],
+    [
+     "voorstel",
+     "proposition, proposal"
+    ],
+    [
+     "houding",
+     "demeanor, bearing"
+    ],
+    [
+     "durf ik te wedden",
+     "I dare to bet (durven, wedden)"
+    ],
+    [
+     "wapenrusting",
+     "armor"
+    ],
+    [
+     "gunst",
+     "favor"
+    ],
+    [
+     "ruilen",
+     "to trade, to swap"
+    ],
+    [
+     "armbeschermers",
+     "bracers (armbeschermer)"
+    ],
+    [
+     "flinke",
+     "sizeable (flink)"
+    ],
+    [
+     "hoeveelheid",
+     "amount, quantity"
+    ],
+    [
+     "gif",
+     "venom, poison"
+    ],
+    [
+     "schorpioenen",
+     "scorpions (schorpioen)"
+    ],
+    [
+     "ruil",
+     "exchange, trade"
+    ],
+    [
+     "hoorden bij",
+     "belonged to (horen bij)"
+    ],
+    [
+     "af te staan",
+     "to part with, to give up (afstaan)"
+    ]
+   ]
+  },
+  "8920": {
+   "t": "Een serieus voorstel",
+   "d": "Gegroet, $c! Aan je houding zie ik dat je veel hebt gezien en gedaan in deze wereld. Toch durf ik te wedden dat je nog nooit zo'n stuk wapenrusting hebt gezien.$B$BDoe me een kleine gunst, dan wil ik het met je ruilen voor een gewone set armbeschermers.$B$BIk heb een flinke hoeveelheid gif nodig van de spinnen en schorpioenen die in Silithus leven. Breng me dat, samen met een paar gouden munten, en dan doe ik de ruil.",
+   "o": "Verzamel 15 Silithus Venom Samples en 20 goud en breng ze samen met een set Bracers of Valor naar Mokvar in Orgrimmar.$b",
+   "p": "Heb je de spullen die ik nodig heb, $N?",
+   "c": "Ah, ja. Mux zal hier erg blij mee zijn.$B$BDie armbeschermers hoorden bij een grotere wapenrusting. Als je me verder wilt helpen, wil ik erover denken om ook de rest af te staan.",
+   "g": [
+    [
+     "serieus",
+     "earnest, serious"
+    ],
+    [
+     "voorstel",
+     "proposition, proposal"
+    ],
+    [
+     "houding",
+     "demeanor, bearing"
+    ],
+    [
+     "durf ik te wedden",
+     "I dare to bet (durven, wedden)"
+    ],
+    [
+     "wapenrusting",
+     "armor"
+    ],
+    [
+     "gunst",
+     "favor"
+    ],
+    [
+     "ruilen",
+     "to trade, to swap"
+    ],
+    [
+     "armbeschermers",
+     "bracers (armbeschermer)"
+    ],
+    [
+     "flinke",
+     "sizeable (flink)"
+    ],
+    [
+     "hoeveelheid",
+     "amount, quantity"
+    ],
+    [
+     "gif",
+     "venom, poison"
+    ],
+    [
+     "schorpioenen",
+     "scorpions (schorpioen)"
+    ],
+    [
+     "ruil",
+     "exchange, trade"
+    ],
+    [
+     "hoorden bij",
+     "belonged to (horen bij)"
+    ],
+    [
+     "af te staan",
+     "to part with, to give up (afstaan)"
+    ]
+   ]
+  },
+  "8998": {
+   "t": "Terug naar het begin",
+   "d": "Dit is dus afscheid, mijn vriend. Maar ik ben hier altijd als je af en toe terug wilt komen om met me te praten. Waarschijnlijk terwijl je hier rondhangt en wacht tot je maatjes zich bij je voegen voor een aanval op Blackrock Spire.$B$BGa nu, voordat ik begin te huilen. Ga terug naar Mokvar in Orgrimmar en vertel hem wat er is gebeurd.",
+   "o": "Spreek met Mokvar in Grommash Hold in Orgrimmar's Valley of Wisdom.",
+   "c": "Ik ben blij te zien dat je het hebt overleefd, $N. Je ziet er goed uit, al ben je misschien wat meer gehard.$B$BKom, vertel me alles wat er is gebeurd.",
+   "g": [
+    [
+     "afscheid",
+     "goodbye, farewell"
+    ],
+    [
+     "af en toe",
+     "from time to time"
+    ],
+    [
+     "rondhangt",
+     "hang around, loiter (rondhangen)"
+    ],
+    [
+     "maatjes",
+     "buddies (maatje)"
+    ],
+    [
+     "zich bij je voegen",
+     "join you (zich voegen bij)"
+    ],
+    [
+     "aanval",
+     "attack, raid"
+    ],
+    [
+     "huilen",
+     "to cry"
+    ],
+    [
+     "overleefd",
+     "survived (overleven)"
+    ],
+    [
+     "gehard",
+     "hardened, seasoned (harden)"
+    ]
+   ]
+  },
+  "9007": {
+   "t": "Het beste voor het laatst",
+   "d": "Een werkelijk verbazingwekkend verhaal, $N! Je hebt mijn dank, en de oprechte dankbaarheid van iedereen die erbij betrokken was, dat verzeker ik je. Door jouw inzet zijn we verlost van de fouten uit ons verleden.$B$BWat je beloning betreft: ik denk dat ik een paar dingen heb die je zeker hebt verdiend en waar je echt van zult genieten.",
+   "o": "Geef Mokvar je Wildheart Cowl en Wildheart Vest.",
+   "p": "Ben je klaar om, zoals afgesproken, je Wildheart-stukken af te geven in ruil voor je nieuwe Feralheart Cowl en Vest?",
+   "c": "Ik zal je echt missen, $N. Ik heb een schuld bij je die ik misschien nooit kan terugbetalen.$B$BGeniet van je nieuwe hoofd- en borstbescherming. Moge die je nog lang beschermen en je helpen om nog meer eer te behalen!",
+   "g": [
+    [
+     "werkelijk",
+     "truly, really"
+    ],
+    [
+     "verbazingwekkend",
+     "amazing, astonishing"
+    ],
+    [
+     "oprechte",
+     "heartfelt, sincere (oprecht)"
+    ],
+    [
+     "dankbaarheid",
+     "gratitude"
+    ],
+    [
+     "betrokken",
+     "involved"
+    ],
+    [
+     "verzeker",
+     "assure (verzekeren)"
+    ],
+    [
+     "inzet",
+     "effort, commitment"
+    ],
+    [
+     "verlost",
+     "delivered, freed (verlossen)"
+    ],
+    [
+     "verleden",
+     "past"
+    ],
+    [
+     "zoals afgesproken",
+     "as agreed, as per our deal"
+    ],
+    [
+     "in ruil voor",
+     "in exchange for"
+    ],
+    [
+     "schuld",
+     "debt"
+    ],
+    [
+     "terugbetalen",
+     "to repay"
+    ],
+    [
+     "borstbescherming",
+     "chest armor"
+    ],
+    [
+     "moge",
+     "may (wish, from mogen)"
+    ],
+    [
+     "behalen",
+     "to achieve, to gain"
+    ]
+   ]
+  },
+  "9008": {
+   "t": "Het beste voor het laatst",
+   "d": "Een werkelijk verbazingwekkend verhaal, $N! Je hebt mijn dank, en de oprechte dankbaarheid van iedereen die erbij betrokken was, dat verzeker ik je. Door jouw inzet zijn we verlost van de fouten uit ons verleden.$B$BWat je beloning betreft: ik denk dat ik een paar dingen heb die je zeker hebt verdiend en waar je echt van zult genieten.",
+   "o": "Geef Mokvar je Beaststalker's Cap en Beaststalker's Tunic.",
+   "p": "Ben je klaar om, zoals afgesproken, je Beaststalker-stukken af te geven in ruil voor je nieuwe Beastmaster's Cap en Tunic?",
+   "c": "Ik zal je echt missen, $N. Ik heb een schuld bij je die ik misschien nooit kan terugbetalen.$B$BGeniet van je nieuwe hoofd- en borstbescherming. Moge die je nog lang beschermen en je helpen om nog meer eer te behalen!",
+   "g": [
+    [
+     "werkelijk",
+     "truly, really"
+    ],
+    [
+     "verbazingwekkend",
+     "amazing, astonishing"
+    ],
+    [
+     "oprechte",
+     "heartfelt, sincere (oprecht)"
+    ],
+    [
+     "dankbaarheid",
+     "gratitude"
+    ],
+    [
+     "betrokken",
+     "involved"
+    ],
+    [
+     "verzeker",
+     "assure (verzekeren)"
+    ],
+    [
+     "inzet",
+     "effort, commitment"
+    ],
+    [
+     "verlost",
+     "delivered, freed (verlossen)"
+    ],
+    [
+     "verleden",
+     "past"
+    ],
+    [
+     "zoals afgesproken",
+     "as agreed, as per our deal"
+    ],
+    [
+     "in ruil voor",
+     "in exchange for"
+    ],
+    [
+     "schuld",
+     "debt"
+    ],
+    [
+     "terugbetalen",
+     "to repay"
+    ],
+    [
+     "borstbescherming",
+     "chest armor"
+    ],
+    [
+     "moge",
+     "may (wish, from mogen)"
+    ],
+    [
+     "behalen",
+     "to achieve, to gain"
+    ]
+   ]
+  },
+  "9009": {
+   "t": "Het beste voor het laatst",
+   "d": "Een werkelijk verbazingwekkend verhaal, $N! Je hebt mijn dank, en de oprechte dankbaarheid van iedereen die erbij betrokken was, dat verzeker ik je. Door jouw inzet zijn we verlost van de fouten uit ons verleden.$B$BWat je beloning betreft: ik denk dat ik een paar dingen heb die je zeker hebt verdiend en waar je echt van zult genieten.",
+   "o": "Geef Mokvar je Devout Crown en Devout Robe.",
+   "p": "Ben je klaar om, zoals afgesproken, je Devout-stukken af te geven in ruil voor je nieuwe Virtuous Crown en Robe?",
+   "c": "Ik zal je echt missen, $N. Ik heb een schuld bij je die ik misschien nooit kan terugbetalen.$B$BGeniet van je nieuwe hoofd- en borstbescherming. Moge die je nog lang beschermen en je helpen om nog meer eer te behalen!",
+   "g": [
+    [
+     "werkelijk",
+     "truly, really"
+    ],
+    [
+     "verbazingwekkend",
+     "amazing, astonishing"
+    ],
+    [
+     "oprechte",
+     "heartfelt, sincere (oprecht)"
+    ],
+    [
+     "dankbaarheid",
+     "gratitude"
+    ],
+    [
+     "betrokken",
+     "involved"
+    ],
+    [
+     "verzeker",
+     "assure (verzekeren)"
+    ],
+    [
+     "inzet",
+     "effort, commitment"
+    ],
+    [
+     "verlost",
+     "delivered, freed (verlossen)"
+    ],
+    [
+     "verleden",
+     "past"
+    ],
+    [
+     "zoals afgesproken",
+     "as agreed, as per our deal"
+    ],
+    [
+     "in ruil voor",
+     "in exchange for"
+    ],
+    [
+     "schuld",
+     "debt"
+    ],
+    [
+     "terugbetalen",
+     "to repay"
+    ],
+    [
+     "borstbescherming",
+     "chest armor"
+    ],
+    [
+     "moge",
+     "may (wish, from mogen)"
+    ],
+    [
+     "behalen",
+     "to achieve, to gain"
+    ]
+   ]
+  },
+  "9010": {
+   "t": "Het beste voor het laatst",
+   "d": "Een werkelijk verbazingwekkend verhaal, $N! Je hebt mijn dank, en de oprechte dankbaarheid van iedereen die erbij betrokken was, dat verzeker ik je. Door jouw inzet zijn we verlost van de fouten uit ons verleden.$B$BWat je beloning betreft: ik denk dat ik een paar dingen heb die je zeker hebt verdiend en waar je echt van zult genieten.",
+   "o": "Geef Mokvar je Shadowcraft Cap en Shadowcraft Tunic.",
+   "p": "Ben je klaar om, zoals afgesproken, je Shadowcraft-stukken af te geven in ruil voor je nieuwe Darkmantle Cap en Tunic?",
+   "c": "Ik zal je echt missen, $N. Ik heb een schuld bij je die ik misschien nooit kan terugbetalen.$B$BGeniet van je nieuwe hoofd- en borstbescherming. Moge die je nog lang beschermen en je helpen om nog meer eer te behalen!",
+   "g": [
+    [
+     "werkelijk",
+     "truly, really"
+    ],
+    [
+     "verbazingwekkend",
+     "amazing, astonishing"
+    ],
+    [
+     "oprechte",
+     "heartfelt, sincere (oprecht)"
+    ],
+    [
+     "dankbaarheid",
+     "gratitude"
+    ],
+    [
+     "betrokken",
+     "involved"
+    ],
+    [
+     "verzeker",
+     "assure (verzekeren)"
+    ],
+    [
+     "inzet",
+     "effort, commitment"
+    ],
+    [
+     "verlost",
+     "delivered, freed (verlossen)"
+    ],
+    [
+     "verleden",
+     "past"
+    ],
+    [
+     "zoals afgesproken",
+     "as agreed, as per our deal"
+    ],
+    [
+     "in ruil voor",
+     "in exchange for"
+    ],
+    [
+     "schuld",
+     "debt"
+    ],
+    [
+     "terugbetalen",
+     "to repay"
+    ],
+    [
+     "borstbescherming",
+     "chest armor"
+    ],
+    [
+     "moge",
+     "may (wish, from mogen)"
+    ],
+    [
+     "behalen",
+     "to achieve, to gain"
+    ]
+   ]
+  },
+  "9011": {
+   "t": "Het beste voor het laatst",
+   "d": "Een werkelijk verbazingwekkend verhaal, $N! Je hebt mijn dank, en de oprechte dankbaarheid van iedereen die erbij betrokken was, dat verzeker ik je. Door jouw inzet zijn we verlost van de fouten uit ons verleden.$B$BWat je beloning betreft: ik denk dat ik een paar dingen heb die je zeker hebt verdiend en waar je echt van zult genieten.",
+   "o": "Geef Mokvar je Coif of Elements en Vest of Elements.",
+   "p": "Ben je klaar om, zoals afgesproken, je Elements-stukken af te geven in ruil voor je nieuwe Coif en Vest of The Five Thunders?",
+   "c": "Ik zal je echt missen, $N. Ik heb een schuld bij je die ik misschien nooit kan terugbetalen.$B$BGeniet van je nieuwe hoofd- en borstbescherming. Moge die je nog lang beschermen en je helpen om nog meer eer te behalen!",
+   "g": [
+    [
+     "werkelijk",
+     "truly, really"
+    ],
+    [
+     "verbazingwekkend",
+     "amazing, astonishing"
+    ],
+    [
+     "oprechte",
+     "heartfelt, sincere (oprecht)"
+    ],
+    [
+     "dankbaarheid",
+     "gratitude"
+    ],
+    [
+     "betrokken",
+     "involved"
+    ],
+    [
+     "verzeker",
+     "assure (verzekeren)"
+    ],
+    [
+     "inzet",
+     "effort, commitment"
+    ],
+    [
+     "verlost",
+     "delivered, freed (verlossen)"
+    ],
+    [
+     "verleden",
+     "past"
+    ],
+    [
+     "zoals afgesproken",
+     "as agreed, as per our deal"
+    ],
+    [
+     "in ruil voor",
+     "in exchange for"
+    ],
+    [
+     "schuld",
+     "debt"
+    ],
+    [
+     "terugbetalen",
+     "to repay"
+    ],
+    [
+     "borstbescherming",
+     "chest armor"
+    ],
+    [
+     "moge",
+     "may (wish, from mogen)"
+    ],
+    [
+     "behalen",
+     "to achieve, to gain"
+    ]
+   ]
+  },
+  "9012": {
+   "t": "Het beste voor het laatst",
+   "d": "Een werkelijk verbazingwekkend verhaal, $N! Je hebt mijn dank, en de oprechte dankbaarheid van iedereen die erbij betrokken was, dat verzeker ik je. Door jouw inzet zijn we verlost van de fouten uit ons verleden.$B$BWat je beloning betreft: ik denk dat ik een paar dingen heb die je zeker hebt verdiend en waar je echt van zult genieten.",
+   "o": "Geef Mokvar je Dreadmist Mask en Dreadmist Robe.",
+   "p": "Ben je klaar om, zoals afgesproken, je Dreadmist-stukken af te geven in ruil voor je nieuwe Deathmist Mask en Robe?",
+   "c": "Ik zal je echt missen, $N. Ik heb een schuld bij je die ik misschien nooit kan terugbetalen.$B$BGeniet van je nieuwe hoofd- en borstbescherming. Moge die je nog lang beschermen en je helpen om nog meer eer te behalen!",
+   "g": [
+    [
+     "werkelijk",
+     "truly, really"
+    ],
+    [
+     "verbazingwekkend",
+     "amazing, astonishing"
+    ],
+    [
+     "oprechte",
+     "heartfelt, sincere (oprecht)"
+    ],
+    [
+     "dankbaarheid",
+     "gratitude"
+    ],
+    [
+     "betrokken",
+     "involved"
+    ],
+    [
+     "verzeker",
+     "assure (verzekeren)"
+    ],
+    [
+     "inzet",
+     "effort, commitment"
+    ],
+    [
+     "verlost",
+     "delivered, freed (verlossen)"
+    ],
+    [
+     "verleden",
+     "past"
+    ],
+    [
+     "zoals afgesproken",
+     "as agreed, as per our deal"
+    ],
+    [
+     "in ruil voor",
+     "in exchange for"
+    ],
+    [
+     "schuld",
+     "debt"
+    ],
+    [
+     "terugbetalen",
+     "to repay"
+    ],
+    [
+     "borstbescherming",
+     "chest armor"
+    ],
+    [
+     "moge",
+     "may (wish, from mogen)"
+    ],
+    [
+     "behalen",
+     "to achieve, to gain"
+    ]
+   ]
+  },
+  "9013": {
+   "t": "Het beste voor het laatst",
+   "d": "Een werkelijk verbazingwekkend verhaal, $N! Je hebt mijn dank, en de oprechte dankbaarheid van iedereen die erbij betrokken was, dat verzeker ik je. Door jouw inzet zijn we verlost van de fouten uit ons verleden.$B$BWat je beloning betreft: ik denk dat ik een paar dingen heb die je zeker hebt verdiend en waar je echt van zult genieten.",
+   "o": "Geef Mokvar je Helm of Valor en Breastplate of Valor.",
+   "p": "Ben je klaar om, zoals afgesproken, je Valor-stukken af te geven in ruil voor je nieuwe Helm en Breastplate of Heroism?",
+   "c": "Ik zal je echt missen, $N. Ik heb een schuld bij je die ik misschien nooit kan terugbetalen.$B$BGeniet van je nieuwe hoofd- en borstbescherming. Moge die je nog lang beschermen en je helpen om nog meer eer te behalen!",
+   "g": [
+    [
+     "werkelijk",
+     "truly, really"
+    ],
+    [
+     "verbazingwekkend",
+     "amazing, astonishing"
+    ],
+    [
+     "oprechte",
+     "heartfelt, sincere (oprecht)"
+    ],
+    [
+     "dankbaarheid",
+     "gratitude"
+    ],
+    [
+     "betrokken",
+     "involved"
+    ],
+    [
+     "verzeker",
+     "assure (verzekeren)"
+    ],
+    [
+     "inzet",
+     "effort, commitment"
+    ],
+    [
+     "verlost",
+     "delivered, freed (verlossen)"
+    ],
+    [
+     "verleden",
+     "past"
+    ],
+    [
+     "zoals afgesproken",
+     "as agreed, as per our deal"
+    ],
+    [
+     "in ruil voor",
+     "in exchange for"
+    ],
+    [
+     "schuld",
+     "debt"
+    ],
+    [
+     "terugbetalen",
+     "to repay"
+    ],
+    [
+     "borstbescherming",
+     "chest armor"
+    ],
+    [
+     "moge",
+     "may (wish, from mogen)"
+    ],
+    [
+     "behalen",
+     "to achieve, to gain"
+    ]
+   ]
+  },
+  "9014": {
+   "t": "Het beste voor het laatst",
+   "d": "Een werkelijk verbazingwekkend verhaal, $N! Je hebt mijn dank, en de oprechte dankbaarheid van iedereen die erbij betrokken was, dat verzeker ik je. Door jouw inzet zijn we verlost van de fouten uit ons verleden.$B$BWat je beloning betreft: ik denk dat ik een paar dingen heb die je zeker hebt verdiend en waar je echt van zult genieten.",
+   "o": "Geef Mokvar je Magister's Crown en Magister's Robes.",
+   "p": "Ben je klaar om, zoals afgesproken, je Magister's-stukken af te geven in ruil voor je nieuwe Sorcerer's Crown en Robes?",
+   "c": "Ik zal je echt missen, $N. Ik heb een schuld bij je die ik misschien nooit kan terugbetalen.$B$BGeniet van je nieuwe hoofd- en borstbescherming. Moge die je nog lang beschermen en je helpen om nog meer eer te behalen!",
+   "g": [
+    [
+     "werkelijk",
+     "truly, really"
+    ],
+    [
+     "verbazingwekkend",
+     "amazing, astonishing"
+    ],
+    [
+     "oprechte",
+     "heartfelt, sincere (oprecht)"
+    ],
+    [
+     "dankbaarheid",
+     "gratitude"
+    ],
+    [
+     "betrokken",
+     "involved"
+    ],
+    [
+     "verzeker",
+     "assure (verzekeren)"
+    ],
+    [
+     "inzet",
+     "effort, commitment"
+    ],
+    [
+     "verlost",
+     "delivered, freed (verlossen)"
+    ],
+    [
+     "verleden",
+     "past"
+    ],
+    [
+     "zoals afgesproken",
+     "as agreed, as per our deal"
+    ],
+    [
+     "in ruil voor",
+     "in exchange for"
+    ],
+    [
+     "schuld",
+     "debt"
+    ],
+    [
+     "terugbetalen",
+     "to repay"
+    ],
+    [
+     "borstbescherming",
+     "chest armor"
+    ],
+    [
+     "moge",
+     "may (wish, from mogen)"
+    ],
+    [
+     "behalen",
+     "to achieve, to gain"
+    ]
+   ]
+  },
+  "357": {
+   "t": "Wie is de lich?",
+   "d": "Er woont een lich op het eiland in Brightwater Lake, in het noorden. Hij is een Forsaken met een eigen wil. Toch denkt hij dat alle andere ondoden slaven van de Scourge zijn. Daarom laat hij zijn dienaren iedereen aanvallen die naar hem toe komt.$B$BMaar omdat hij een Forsaken is, wil de Koningin hem hebben. En als hij goed is in necromantie, dan is zijn kennis... heel nuttig voor ons.$B$BIk wil weten wie hij is en wat hij kan. Daarvoor moet ik zijn toverboek zien. Sluip zijn kamp in, pak het boek en kom dan terug bij mij.",
+   "o": "Breng het Lich's Spellbook naar Bethor Iceshard in de Undercity.",
+   "p": "$N, heb je het boek?",
+   "c": "Heel goed, $N. Ik ga dit boek bestuderen en uitzoeken wie die lich is. Je hebt je Koningin goed gediend.$B$B<Bethor opent het boek en kijkt strak naar de gloeiende bladzijden...>$B$BOngelooflijk! Het boek is van niemand anders dan Gunther Arcanus!$B$BGunther was een goede necromant toen hij nog leefde. Hij en ik waren vrienden en strijdmakkers, voor de pest. En als ik zijn boek zie, is hij na zijn dood nog sterker geworden.$B$BZijn vaardigheden zouden een grote hulp voor ons zijn.",
+   "g": [
+    [
+     "eigen wil",
+     "free will, own will"
+    ],
+    [
+     "ondoden",
+     "undead (ondode)"
+    ],
+    [
+     "slaven",
+     "slaves (slaaf)"
+    ],
+    [
+     "dienaren",
+     "servants, minions (dienaar)"
+    ],
+    [
+     "Koningin",
+     "Queen"
+    ],
+    [
+     "necromantie",
+     "necromancy"
+    ],
+    [
+     "kennis",
+     "knowledge"
+    ],
+    [
+     "nuttig",
+     "useful"
+    ],
+    [
+     "toverboek",
+     "spellbook"
+    ],
+    [
+     "Sluip",
+     "sneak (sluipen)"
+    ],
+    [
+     "gediend",
+     "served (dienen)"
+    ],
+    [
+     "bladzijden",
+     "pages (bladzijde)"
+    ],
+    [
+     "necromant",
+     "necromancer"
+    ],
+    [
+     "strijdmakkers",
+     "comrades-in-arms (strijdmakker)"
+    ],
+    [
+     "pest",
+     "plague"
+    ],
+    [
+     "vaardigheden",
+     "skills (vaardigheid)"
+    ]
+   ]
+  },
+  "1358": {
+   "t": "Een monster voor Helbrim",
+   "d": "Een collega in Kalimdor, Apothecary Helbrim, onderzoekt wat de gifstoffen uit Lordaeron doen met de dieren van Kalimdor. Hij wil vast heel graag een monster van de wolvenharten die Renferrel me heeft gestuurd.$B$BHelbrim zit in de Barrens, in een dorp dat de Crossroads heet. Om bij hem te komen, neem je de zeppelin naar Orgrimmar, de hoofdstad van de orcs. Dan ga je te voet naar het zuiden, naar Durotar. Ga naar het westen, de Barrens in. Dan kom je snel bij de Crossroads.",
+   "o": "Breng het Wolf Heart Sample naar Apothecary Helbrim in de Barrens.",
+   "p": "Heb je een pakketje voor me?",
+   "c": "Ah, heel goed. Als de eerste berichten kloppen, dan kan de giftigheid van deze harten ons nog meer leren over gif.$B$BDit is een welkome levering, $N. Je hebt je beloning goed verdiend.",
+   "g": [
+    [
+     "monster",
+     "sample"
+    ],
+    [
+     "collega",
+     "colleague"
+    ],
+    [
+     "onderzoekt",
+     "researches (onderzoeken)"
+    ],
+    [
+     "gifstoffen",
+     "toxins (gifstof)"
+    ],
+    [
+     "wolvenharten",
+     "wolf hearts (wolvenhart)"
+    ],
+    [
+     "hoofdstad",
+     "capital"
+    ],
+    [
+     "te voet",
+     "on foot"
+    ],
+    [
+     "pakketje",
+     "package, parcel"
+    ],
+    [
+     "berichten",
+     "reports (bericht)"
+    ],
+    [
+     "kloppen",
+     "are right, are true"
+    ],
+    [
+     "giftigheid",
+     "toxicity"
+    ],
+    [
+     "levering",
+     "delivery"
+    ]
+   ]
+  },
+  "1359": {
+   "t": "Een levering voor Zinge",
+   "d": "De wolvenharten die je hebt gehaald, hebben iets wat ik nog nooit bij vergelijkbare exemplaren heb gezien. Er zit een gif in dat dodelijk moet zijn voor de wolven zelf, de wolven in wie de harten kloppen!$B$BHet is echt ongelooflijk, en we moeten het verder onderzoeken. Ik heb een paar monsters van de harten bewaard. Breng ze naar mijn collega, Apothecary Zinge. Je vindt haar in ons hoofdkwartier in de Undercity.",
+   "o": "Breng de Wolf Heart Samples naar Apothecary Zinge in de Undercity.",
+   "p": "Heb je iets voor me?",
+   "c": "Ah ja, de monsters van de harten waar Renferrel over sprak. Ik wil er graag mee experimenteren... De Royal Apothecary Society vindt het altijd interessant als er nieuwe soorten gif worden ontdekt.",
+   "g": [
+    [
+     "levering",
+     "delivery"
+    ],
+    [
+     "vergelijkbare",
+     "similar (vergelijkbaar)"
+    ],
+    [
+     "exemplaren",
+     "specimens (exemplaar)"
+    ],
+    [
+     "dodelijk",
+     "deadly"
+    ],
+    [
+     "kloppen",
+     "beat (kloppen)"
+    ],
+    [
+     "monsters",
+     "samples (monster)"
+    ],
+    [
+     "bewaard",
+     "kept (bewaren)"
+    ],
+    [
+     "hoofdkwartier",
+     "headquarters"
+    ],
+    [
+     "experimenteren",
+     "to experiment"
+    ],
+    [
+     "ontdekt",
+     "discovered (ontdekken)"
+    ]
+   ]
+  },
+  "1164": {
+   "t": "Stelen van dieven",
+   "d": "Die slet! Dat zwijn! Kenata leeft nog. Haar familie is gezond en het gaat hun goed, terwijl ik lijd. Forsaken, inderdaad!$B$BMijn familie is weg, meegenomen door de pest. Ons landgoed zijn we ook kwijt; het werd geplunderd en verbrand tijdens de oorlog. En na dat alles hadden zij en haar waardeloze kinderen het lef om de enige kostbare spullen te stelen die ik nog had.$B$BIk geef niet meer om de dingen die ze hebben gestolen. Wat ik nu wil, zijn hun hoofden!$B$BDood ze voor me! Ga naar de Dabyrie Farmstead in Arathi, ten noordoosten van Refuge Point.",
+   "o": "Breng Kenata, Fardel en Marcel Dabyrie's Heads naar Genavie Callow in de Undercity.",
+   "p": "Dood ze allemaal en breng me hun hoofden!",
+   "c": "Je staat voor me als een beeld van wraak, en ik buig voor je uit dankbaarheid.$B$BNu die koe dood is, en ik weet dat haar nageslacht zich niet meer over Azeroth zal verspreiden, kan ik mijn energie in iets winstgevenders steken. Ik hoop dat je hun boerderij hebt geplunderd nadat je ze had afgemaakt.",
+   "g": [
+    [
+     "slet",
+     "harlot"
+    ],
+    [
+     "zwijn",
+     "swine"
+    ],
+    [
+     "lijd",
+     "suffer (lijden)"
+    ],
+    [
+     "landgoed",
+     "estate"
+    ],
+    [
+     "kwijt",
+     "lost, gone"
+    ],
+    [
+     "geplunderd",
+     "looted (plunderen)"
+    ],
+    [
+     "waardeloze",
+     "lousy, worthless (waardeloos)"
+    ],
+    [
+     "het lef",
+     "the nerve, the audacity"
+    ],
+    [
+     "kostbare",
+     "precious (kostbaar)"
+    ],
+    [
+     "wraak",
+     "vengeance, revenge"
+    ],
+    [
+     "buig",
+     "bow (buigen)"
+    ],
+    [
+     "nageslacht",
+     "offspring, seed"
+    ],
+    [
+     "verspreiden",
+     "to spread"
+    ],
+    [
+     "winstgevenders",
+     "more lucrative (winstgevend)"
+    ],
+    [
+     "afgemaakt",
+     "finished off (afmaken)"
+    ]
+   ]
+  },
+  "495": {
+   "t": "De Crown of Will",
+   "d": "Mug'Thol en zijn ogerbende werden naar Alterac gestuurd om de Crown of Will op te halen voor Lady Sylvanas. Helaas bracht die idioot hem niet terug, maar besloot hij hem op te zetten... Ik denk dat ogers niets kunnen weerstaan wat fel is en glimt.$b$bZijn onhandige gedrag is wel een probleem geworden. Door de Crown of Will kon hij zich verzetten tegen de bezwering die op hem was gelegd om Lady Sylvanas te dienen.$b$bDe Dark Lady wil dat er een voorbeeld wordt gesteld. Reis naar Tarren Mill in Hillsbrad en meld je bij Melisara, mijn luitenant.",
+   "o": "Meld je bij Melisara in Tarren Mill in de Hillsbrad Foothills.",
+   "c": "Ben je door Sharlindra gestuurd? Goed dan. Je zult merken dat ik niet veel tijd verspil aan nutteloos gepraat.$b$bMug'Thol is een ergernis, en we rekenen snel met hem af: grondig en zonder problemen.",
+   "g": [
+    [
+     "ogerbende",
+     "ogre warband"
+    ],
+    [
+     "helaas",
+     "unfortunately"
+    ],
+    [
+     "op te zetten",
+     "to put on (opzetten)"
+    ],
+    [
+     "weerstaan",
+     "to resist"
+    ],
+    [
+     "glimt",
+     "shines (glimmen)"
+    ],
+    [
+     "onhandige",
+     "bumbling, clumsy (onhandig)"
+    ],
+    [
+     "zich verzetten tegen",
+     "to resist"
+    ],
+    [
+     "bezwering",
+     "spell, enchantment"
+    ],
+    [
+     "een voorbeeld wordt gesteld",
+     "an example is made (een voorbeeld stellen)"
+    ],
+    [
+     "meld je",
+     "report (zich melden)"
+    ],
+    [
+     "luitenant",
+     "lieutenant"
+    ],
+    [
+     "verspil",
+     "waste (verspillen)"
+    ],
+    [
+     "gepraat",
+     "chatter, talk"
+    ],
+    [
+     "ergernis",
+     "irritant, annoyance"
+    ],
+    [
+     "rekenen ... af",
+     "deal with (afrekenen met)"
+    ],
+    [
+     "grondig",
+     "thoroughly"
+    ]
+   ]
+  },
+  "736": {
+   "t": "De ster, de hand en het hart",
+   "d": "Heb je Yagyin's Digest nodig? Dan is je plan dus om nog een kudde te verzamelen? Natuurlijk is dat zo... en natuurlijk help ik je, $gbroeder:zuster;.$B$BMaar jij moet mij ook helpen.$B$BIk heb drie voorwerpen van macht nodig. Breng ze me, dan is de Digest van jou.$B$BIk kan de namen van deze voorwerpen niet uitspreken, maar ik zal ze opschrijven.$B$BHaal de voorwerpen die op deze lijst staan. Als je dat kunt, ben je echt waardig om een eigen afdeling van onze orde te beginnen.",
+   "o": "Breng de voorwerpen op Bel'dugur's Note naar Keeper Bel'dugur in de Undercity.",
+   "p": "Hoe gaat het met je missie, $c?",
+   "c": "Ik ben onder de indruk! Je hebt veel vaardigheid of veel geluk, want je hebt deze relikwieën verkregen. Hoe dan ook, je bent waardevol voor ons.",
+   "g": [
+    [
+     "kudde",
+     "flock"
+    ],
+    [
+     "voorwerpen",
+     "items, objects (voorwerp)"
+    ],
+    [
+     "macht",
+     "power"
+    ],
+    [
+     "uitspreken",
+     "to utter, to pronounce"
+    ],
+    [
+     "opschrijven",
+     "to write down"
+    ],
+    [
+     "waardig",
+     "worthy"
+    ],
+    [
+     "afdeling",
+     "chapter, branch"
+    ],
+    [
+     "orde",
+     "order (organisation)"
+    ],
+    [
+     "onder de indruk",
+     "impressed"
+    ],
+    [
+     "vaardigheid",
+     "skill"
+    ],
+    [
+     "relikwieën",
+     "relics (relikwie)"
+    ],
+    [
+     "verkregen",
+     "obtained, gained (verkrijgen)"
+    ],
+    [
+     "hoe dan ook",
+     "either way"
+    ],
+    [
+     "waardevol",
+     "valuable"
+    ]
+   ]
+  },
+  "232": {
+   "t": "Een boodschap voor Apothecary Zinge",
+   "d": "De Royal Apothecary Society heeft je hulp nodig. Luister goed, dan kunnen we allebei voordeel hebben van mijn plan.$B$BApothecary Keever in de kamer hiernaast is misschien... een beetje gek... maar zijn onderzoek kan wel vruchten afwerpen, als een slimme onderzoeker ermee verdergaat. Gelukkig ben ik zo'n onderzoeker. Ik wil dat je deze bestelbon naar Alessandro Luca brengt, de eigenaar van Blue Moon Odds and Ends. Hij geeft je een testset. Als je die hebt, breng hem dan terug naar mij. Dan leg ik je taak in detail uit.",
+   "o": "Breng de bestelbon naar Alessandro Luca in de Undercity.",
+   "p": "Ja, en waarmee kan ik je helpen? Ben je hier voor zaken van de Royal Apothecary Society, of ben je alleen gekomen om mijn dag op te vrolijken?",
+   "c": "Ah, Zinge heeft een set nodig, nietwaar? Het maakt me verdrietig dat Zinge mij niet met haar lieve aanwezigheid wil vereren.$B$BGoed dan, ik zal een set voor je regelen.",
+   "g": [
+    [
+     "boodschap",
+     "errand"
+    ],
+    [
+     "voordeel",
+     "profit, advantage"
+    ],
+    [
+     "hiernaast",
+     "next door"
+    ],
+    [
+     "vruchten afwerpen",
+     "to bear fruit"
+    ],
+    [
+     "onderzoeker",
+     "researcher"
+    ],
+    [
+     "bestelbon",
+     "purchase order"
+    ],
+    [
+     "eigenaar",
+     "owner, proprietor"
+    ],
+    [
+     "testset",
+     "testing kit"
+    ],
+    [
+     "zaken",
+     "business"
+    ],
+    [
+     "op te vrolijken",
+     "to brighten, to cheer up (opvrolijken)"
+    ],
+    [
+     "nietwaar",
+     "isn't it, right?"
+    ],
+    [
+     "aanwezigheid",
+     "presence"
+    ],
+    [
+     "vereren",
+     "to grace, to honour"
+    ],
+    [
+     "regelen",
+     "to arrange, to procure"
+    ]
+   ]
+  },
+  "238": {
+   "t": "Een boodschap voor Apothecary Zinge",
+   "d": "De set is klaar, $n. Apothecary Zinge wil hem ongetwijfeld zo snel mogelijk hebben. Breng hem meteen naar haar, en zeg haar dat ik de kosten van de set op de rekening van de Society zet. Doe haar ook mijn hartelijkste groeten.$B$BNou, sta daar niet zo. Zo gaat het leven van een simpele koerier, nietwaar?",
+   "o": "Breng de Field Sampling Kit naar Apothecary Zinge in de Undercity.",
+   "p": "Ja, ik vind Luca net zo verontrustend als jij. Het maakt niet uit - geef me de Field Sampling Kit. Ik moet er een paar aanpassingen aan doen om naar de juiste grondstoffen te kunnen zoeken.$B$BJe hebt de set toch, of niet?",
+   "c": "Goed - ik vind het fijn om te werken met iemand die er trots op is mijn tijd niet te verspillen.$B$BAls ik deze set heb aangepast, ben je klaar om het veld in te gaan. Je gaat hem gebruiken om belangrijke gegevens voor deze taak te verzamelen.$B$BHet duurt maar even voordat ik klaar ben met de aanpassingen. Terwijl je wacht, kun je misschien alvast nadenken over wat je mee wilt nemen naar de woestijn.$B$BJa, ik zei de woestijn.",
+   "g": [
+    [
+     "ongetwijfeld",
+     "no doubt, undoubtedly"
+    ],
+    [
+     "kosten",
+     "cost"
+    ],
+    [
+     "rekening",
+     "tab, bill"
+    ],
+    [
+     "hartelijkste groeten",
+     "warmest greetings"
+    ],
+    [
+     "koerier",
+     "courier"
+    ],
+    [
+     "verontrustend",
+     "disturbing"
+    ],
+    [
+     "aanpassingen",
+     "adjustments (aanpassing)"
+    ],
+    [
+     "grondstoffen",
+     "base materials (grondstof)"
+    ],
+    [
+     "trots",
+     "proud"
+    ],
+    [
+     "verspillen",
+     "to waste"
+    ],
+    [
+     "aangepast",
+     "adjusted (aanpassen)"
+    ],
+    [
+     "het veld in",
+     "into the field"
+    ],
+    [
+     "gegevens",
+     "data"
+    ],
+    [
+     "alvast",
+     "already, in the meantime"
+    ],
+    [
+     "woestijn",
+     "desert"
+    ]
+   ]
+  },
+  "864": {
+   "t": "Terug naar Apothecary Zinge",
+   "d": "\"Alsjeblieft, de energiebron is veilig verwijderd en de gegevens zijn bewaard. Nou, goede reis en zo. Ik hoop dat je kwaadaardige wetenschappelijke experiment gelukt is en zo.\"$B$BDe goblin draait zich van je af om zich bezig te houden met de eisen van de Gadgetzan Water Company. Je bergt de verzegelde testset goed op voor de reis terug naar de Undercity. Apothecary Zinge wacht daar op jou en de verzegelde testset.",
+   "o": "Breng de Sealed Field Testing Kit naar Apothecary Zinge in de Undercity.",
+   "p": "Welkom terug. Tenminste, welkom terug als je een verzegelde testset bij je hebt. Anders zal ik doen alsof ik je volslagen onkunde niet zie, en mijn woede voor je sparen tot je hebt gedaan wat je is opgedragen en mijn taak hebt volbracht.",
+   "c": "Ik ga deze gegevens meteen analyseren. Misschien blijkt Keevers waanzin toch mijn genialiteit te zijn.$B$BEn jij... je bent nuttig voor mij, en wie nuttig blijft, beloon ik heel goed. Neem dit voorwerp, dit geld en, het belangrijkste, mijn dank.$B$BKom af en toe nog eens bij me langs. Ik durf te wedden dat onze samenwerking aan dit project nog niet voorbij is.",
+   "g": [
+    [
+     "energiebron",
+     "power source"
+    ],
+    [
+     "verwijderd",
+     "removed (verwijderen)"
+    ],
+    [
+     "kwaadaardige",
+     "nefarious, evil (kwaadaardig)"
+    ],
+    [
+     "wetenschappelijke",
+     "scientific (wetenschappelijk)"
+    ],
+    [
+     "eisen",
+     "demands (eis)"
+    ],
+    [
+     "bergt ... op",
+     "stow, secure (opbergen)"
+    ],
+    [
+     "verzegelde",
+     "sealed (verzegeld)"
+    ],
+    [
+     "volslagen",
+     "utter, complete"
+    ],
+    [
+     "onkunde",
+     "incompetence"
+    ],
+    [
+     "woede",
+     "wrath, anger"
+    ],
+    [
+     "opgedragen",
+     "ordered, tasked (opdragen)"
+    ],
+    [
+     "volbracht",
+     "accomplished (volbrengen)"
+    ],
+    [
+     "waanzin",
+     "insanity, madness"
+    ],
+    [
+     "genialiteit",
+     "genius"
+    ],
+    [
+     "samenwerking",
+     "working together, cooperation"
+    ]
+   ]
+  },
+  "2995": {
+   "t": "Communicatielijnen",
+   "d": "De Quel'Danil Lodge is een centrum van communicatie voor de hoge elfen van de Hinterlands. Hun gezanten werken eraan om banden op te bouwen met andere rassen. Met hen delen ze hun kennis over de Witherbark-trollen die in het zuiden van de Hinterlands wonen. Alle documenten over die communicatie worden in de lodge bewaard.$B$BWe willen niet dat de Highvale bondgenootschappen sluiten met anderen, $N.$B$BVernietig de Highvale-documenten. We moeten hun communicatielijnen verbranden... letterlijk.",
+   "o": "Oran Snakewrithe in de Undercity wil dat je naar de Hinterlands reist en de Highvale Records, Highvale Report en Highvale Notes verbrandt.",
+   "p": "Het is belangrijk dat de Highvale-elfen geïsoleerd blijven. Heb je de lodge gevonden?",
+   "c": "Perfect, $N. Terwijl de Highvale proberen hun verloren informatie terug te krijgen, kunnen wij de lijnen nog verder afsluiten...",
+   "o1": "Verbrand de Highvale Records",
+   "o2": "Verbrand de Highvale Notes",
+   "o3": "Verbrand de Highvale Report",
+   "g": [
+    [
+     "communicatielijnen",
+     "lines of communication"
+    ],
+    [
+     "hoge elfen",
+     "high elves"
+    ],
+    [
+     "gezanten",
+     "ambassadors, envoys (gezant)"
+    ],
+    [
+     "banden",
+     "ties, relationships (band)"
+    ],
+    [
+     "rassen",
+     "races (ras)"
+    ],
+    [
+     "bondgenootschappen",
+     "alliances (bondgenootschap)"
+    ],
+    [
+     "Vernietig",
+     "destroy (vernietigen)"
+    ],
+    [
+     "letterlijk",
+     "literally"
+    ],
+    [
+     "geïsoleerd",
+     "isolated"
+    ],
+    [
+     "verloren",
+     "lost"
+    ],
+    [
+     "afsluiten",
+     "to seal off, to close off"
+    ],
+    [
+     "verbrandt",
+     "burn (verbranden)"
+    ]
+   ]
+  },
+  "3784": {
+   "t": "Hulp voor Arch Druid Runetotem",
+   "d": "Neem me niet kwalijk, $c, maar ik wil graag even een moment van je tijd, als dat kan.$B$BDe Cenarion Circle in Thunder Bluff heeft veel belangstelling voor ervaren avonturiers zoals jij, om hen te helpen bij een belangrijk onderzoeksproject. Ik weet de details niet, maar ik kan je vertellen dat niemand minder dan Hamuul Runetotem dit onderzoek leidt.$B$BAlsjeblieft - als je interesse hebt, spreek dan rechtstreeks met hem op de Elder Rise in Thunder Bluff zelf.",
+   "o": "Spreek met Arch Druid Hamuul Runetotem in Thunder Bluff.",
+   "c": "Gegroet, $C. Ik ben blij dat je ons onderzoek wilt helpen. Er is veel te doen, en het zou niet eerlijk tegenover je zijn als ik zei dat dit werk niet gevaarlijk is. Hopelijk schrikt dat je niet af... maar zo te zien heb je al eerder met gevaar te maken gehad.",
+   "g": [
+    [
+     "Neem me niet kwalijk",
+     "excuse me"
+    ],
+    [
+     "belangstelling",
+     "interest"
+    ],
+    [
+     "ervaren",
+     "seasoned, experienced"
+    ],
+    [
+     "avonturiers",
+     "adventurers (avonturier)"
+    ],
+    [
+     "onderzoeksproject",
+     "research project"
+    ],
+    [
+     "niemand minder dan",
+     "none other than"
+    ],
+    [
+     "leidt",
+     "leads, spearheads (leiden)"
+    ],
+    [
+     "rechtstreeks",
+     "directly"
+    ],
+    [
+     "eerlijk tegenover je",
+     "fair to you, honest with you"
+    ],
+    [
+     "schrikt ... af",
+     "scares off (afschrikken)"
+    ],
+    [
+     "zo te zien",
+     "from the looks of it"
+    ],
+    [
+     "te maken gehad",
+     "dealt with (te maken hebben met)"
+    ]
+   ]
+  },
+  "3568": {
+   "t": "Sijpelend verderf",
+   "d": "Zie je die tauren achter me, die eruitziet alsof ze elk moment ziek kan worden? Ze was kort geleden in Azshara. Ze zegt dat ze door een paar naga's is verwond terwijl ze door de Ruins of Eldarath trok.$B$BNadat ze er een paar had verjaagd, rustte ze uit op het strand en dronk ze uit een van de getijdenpoelen. Nu is ze misselijk... en nog meer.$B$BIk wil uitzoeken wat ze heeft gedronken. Neem deze doos; er zitten lege flesjes in waar ik etiketten op heb geplakt. Vul ze elk bij een andere poel en kom terug.",
+   "o": "Vul alle 4 Empty Vials bij de getijdenpoelen langs de kust van de Ruins of Eldarath in Azshara en keer dan terug naar Chemist Cuely.",
+   "p": "Je weet waar dit naartoe gaat, hè, $N? Ze kan dit onmogelijk overleven... kijk naar haar. Het beste wat ze nu kan doen, is ons helpen een geneesmiddel tegen de pest te vinden. Het water dat ze dronk, bevat misschien een aanwijzing die ons helpt om te ontdekken hoe. Ze gaat toch dood; dan kan ze net zo goed iets nobels voor ons volk doen voordat het zover is. Vind je ook niet?",
+   "c": "Geweldig. Je bent terug voordat ze dood is. Goed, goed.$B$BLaten we hier dan mee beginnen, zullen we?$B$BIk bestudeer haar symptomen al een tijdje, en het is behoorlijk lelijk. Het verbaast me dat ze nog op haar benen staat. Ze heeft drie of vier keer overal overgegeven... een heel aangename geur.$B$BGeef me heel even de tijd om iets in elkaar te zetten om op onze... vriendin te testen.",
+   "g": [
+    [
+     "Sijpelend",
+     "seeping (sijpelen)"
+    ],
+    [
+     "verderf",
+     "corruption, ruin"
+    ],
+    [
+     "verwond",
+     "wounded (verwonden)"
+    ],
+    [
+     "verjaagd",
+     "driven off (verjagen)"
+    ],
+    [
+     "getijdenpoelen",
+     "tide pools (getijdenpoel)"
+    ],
+    [
+     "misselijk",
+     "nauseous"
+    ],
+    [
+     "flesjes",
+     "vials (flesje)"
+    ],
+    [
+     "etiketten",
+     "labels (etiket)"
+    ],
+    [
+     "onmogelijk",
+     "impossible, in no way"
+    ],
+    [
+     "geneesmiddel",
+     "cure, medicine"
+    ],
+    [
+     "aanwijzing",
+     "clue"
+    ],
+    [
+     "net zo goed",
+     "might as well"
+    ],
+    [
+     "nobels",
+     "noble (nobel)"
+    ],
+    [
+     "symptomen",
+     "symptoms (symptoom)"
+    ],
+    [
+     "overgegeven",
+     "vomited (overgeven)"
+    ],
+    [
+     "aangename",
+     "pleasant (aangenaam)"
+    ],
+    [
+     "in elkaar te zetten",
+     "to put together (in elkaar zetten)"
+    ]
+   ]
+  }
+ },
+ "words": {
+  "afwerpen": "to yield (vruchten afwerpen: to bear fruit)",
+  "analyseren": "to analyze",
+  "bergt": "stow (opbergen: to put away)",
+  "centrum": "centre",
+  "communicatie": "communication",
+  "geplakt": "stuck, pasted (plakken)",
+  "harten": "hearts (hart)",
+  "idioot": "idiot",
+  "koe": "cow",
+  "lelijk": "ugly",
+  "lijnen": "lines (lijn)",
+  "rustte": "rested (rusten; uitrusten: to take a break)",
+  "strak": "intently, fixedly",
+  "vrolijken": "cheer (opvrolijken: to brighten, cheer up)",
+  "keevers": "Keever's",
+  "sharlindra": "Sharlindra (name)",
+  "highvale-documenten": "Highvale documents",
+  "highvale-elfen": "Highvale elves",
+  "witherbark-trollen": "Witherbark trolls",
+  "wildheart-stukken": "Wildheart pieces (stuk: piece)",
+  "beaststalker-stukken": "Beaststalker pieces (stuk: piece)",
+  "devout-stukken": "Devout pieces (stuk: piece)",
+  "shadowcraft-stukken": "Shadowcraft pieces (stuk: piece)",
+  "elements-stukken": "Elements pieces (stuk: piece)",
+  "dreadmist-stukken": "Dreadmist pieces (stuk: piece)",
+  "valor-stukken": "Valor pieces (stuk: piece)",
+  "magister's-stukken": "Magister's pieces (stuk: piece)"
+ },
+ "terms": {
+  "lich": "lich: a powerful undead spellcaster from the Warcraft world",
+  "naga": "naga: snake-like sea creatures from the Warcraft world",
+  "tauren": "tauren: a large bull-like race of the Horde"
+ }
+}
