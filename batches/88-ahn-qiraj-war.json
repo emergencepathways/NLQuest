@@ -1,0 +1,1163 @@
+{
+  "quests": {
+    "8849": {
+      "t": "Twintig zegels voor oorlogsvoorraden",
+      "o": "Goed, dan is het geregeld. Hier zijn je voorraden, $c. Wil je nog een keer ruilen? Dan geef ik daar graag toestemming voor. Zeg het maar, dan regel ik het.$B$BGa zo door, $n. We hebben al het materieel nodig dat we bij elkaar kunnen krijgen als we dit willen winnen. Als we allemaal ons deel doen, dan ligt de overwinning voor het grijpen!",
+      "p": "Ah, je komt dus extra voorraden voor jezelf halen? Nou, ik begrijp best dat je extra materieel nodig hebt... kijk maar om je heen als je bewijs wilt.$B$BIk geef je wat extra voorraden, maar dan moet je me in ruil een passend aantal Commendation Signets geven. Je krijgt geen erkenning als je de zegels op deze manier inlevert. Maar misschien vind je iets nuttigs dat je helpt om in leven te blijven als de strijd eindelijk begint.",
+      "c": "Goed, dan is het geregeld. Hier zijn je voorraden, $c. Wil je nog een keer ruilen? Dan geef ik daar graag toestemming voor. Zeg het maar, dan regel ik het.$B$BGa zo door, $n. We hebben al het materieel nodig dat we bij elkaar kunnen krijgen als we dit willen winnen. Als we allemaal ons deel doen, dan ligt de overwinning voor het grijpen!",
+      "g": [
+        [
+          "zegels",
+          "signets, seals (zegel)"
+        ],
+        [
+          "oorlogsvoorraden",
+          "war supplies"
+        ],
+        [
+          "voorraden",
+          "supplies (voorraad)"
+        ],
+        [
+          "ruilen",
+          "to exchange, to trade"
+        ],
+        [
+          "toestemming",
+          "permission"
+        ],
+        [
+          "geregeld",
+          "settled, arranged (regelen)"
+        ],
+        [
+          "materieel",
+          "materiel, equipment"
+        ],
+        [
+          "voor het grijpen",
+          "there for the taking"
+        ],
+        [
+          "passend",
+          "appropriate, fitting"
+        ],
+        [
+          "in ruil",
+          "in exchange"
+        ],
+        [
+          "erkenning",
+          "recognition"
+        ],
+        [
+          "inlevert",
+          "hand in, surrender (inleveren)"
+        ]
+      ]
+    },
+    "8492": {
+      "t": "De Alliance heeft Copper Bars nodig!",
+      "d": "Hé, $c, jij ziet er fit genoeg uit om mee te helpen aan de oorlog! We hebben hier alle hulp nodig die we kunnen krijgen om het materieel voor de Ahn'Qiraj War bij elkaar te krijgen, en vandaag is je geluksdag.$B$BIk verzamel Copper Bars in stapels van twintig. Het is voor een goed doel. Wat zeg je ervan? Denk je dat je de Alliance kunt helpen?",
+      "o": "Breng 20 Copper Bars naar Sergeant Stonebrow in de Military Ward in Ironforge.",
+      "p": "Heb je die twintig Copper Bars al verzameld, soldaat?",
+      "c": "Het is je gelukt, $gjongen:meid;! We leggen die Copper Bars op de stapel en gebruiken ze meteen goed om het oorlogsmaterieel te maken. Door de inzet van mensen zoals jij ben ik er trots op dat ik de Alliance dien. Goed gedaan, soldaat!$B$BEn als je nog meer Copper Bars tegenkomt, zorg dan dat ze bij mij terechtkomen.",
+      "g": [
+        [
+          "materieel",
+          "materiel, equipment"
+        ],
+        [
+          "geluksdag",
+          "lucky day"
+        ],
+        [
+          "stapels",
+          "stacks, piles (stapel)"
+        ],
+        [
+          "een goed doel",
+          "a worthy cause"
+        ],
+        [
+          "inzet",
+          "effort, commitment"
+        ],
+        [
+          "trots",
+          "proud"
+        ],
+        [
+          "dien",
+          "serve (dienen)"
+        ],
+        [
+          "tegenkomt",
+          "come across (tegenkomen)"
+        ],
+        [
+          "terechtkomen",
+          "end up, find their way"
+        ]
+      ]
+    },
+    "8493": {
+      "t": "De Alliance heeft meer Copper Bars nodig!",
+      "d": "Ben je er weer, $c? Uitstekend! We hebben nog meer stapels Copper Bars nodig, als je ze kunt bemachtigen voor de oorlog in Ahn'Qiraj. Help je ons?",
+      "o": "Breng 20 Copper Bars naar Sergeant Stonebrow op het vliegveld in Dun Morogh.",
+      "p": "Ben je er weer, $c? Uitstekend! De staven die je tot nu toe hebt gebracht, helpen echt bij het maken van allerlei dingen voor de oorlog. Ik weet bijvoorbeeld dat het koper wordt gebruikt voor onderdelen van de stoomtanks die nu worden gebouwd. Het is ook voor een kleine vloot gyrocopters die we willen inzetten als er genoeg tijd is.$B$BLaat je niet misleiden door de stapels hier. We hebben nog steeds meer Copper Bars nodig, als je ze kunt bemachtigen voor de oorlog in Ahn'Qiraj. Help je ons?",
+      "c": "Uitstekend werk! Dat koper opgraven en smelten moet een heel avontuur zijn geweest. Tenzij je ze in het veilinghuis hebt gekocht. Hoe dan ook, voor mij is het prima. Je verdient lof voor je bijdrage aan de oorlog, $c. En aarzel niet om me meer Copper Bars te brengen als je ze hebt.",
+      "g": [
+        [
+          "bemachtigen",
+          "to get hold of, to procure"
+        ],
+        [
+          "staven",
+          "bars (staaf)"
+        ],
+        [
+          "koper",
+          "copper"
+        ],
+        [
+          "onderdelen",
+          "parts (onderdeel)"
+        ],
+        [
+          "stoomtanks",
+          "steam tanks"
+        ],
+        [
+          "vloot",
+          "fleet"
+        ],
+        [
+          "inzetten",
+          "to deploy"
+        ],
+        [
+          "misleiden",
+          "to fool, to mislead"
+        ],
+        [
+          "opgraven",
+          "to dig up"
+        ],
+        [
+          "smelten",
+          "to smelt, to melt"
+        ],
+        [
+          "veilinghuis",
+          "auction house"
+        ],
+        [
+          "lof",
+          "praise"
+        ],
+        [
+          "bijdrage",
+          "contribution"
+        ],
+        [
+          "aarzel",
+          "hesitate (aarzelen)"
+        ]
+      ]
+    },
+    "8494": {
+      "t": "De Alliance heeft Iron Bars nodig!",
+      "d": "Nou, hallo daar, $gmeneer:mevrouw; Chique. Wat ben ik blij je te zien. Misschien heb je het niet gehoord terwijl je daarbuiten aan het 'avonturieren' was: de Alliance bereidt zich voor op een oorlog in Ahn'Qiraj en heeft Iron Bars nodig... een heleboel. Breng ze me in stapels van twintig. We kunnen op je rekenen, toch, $c?",
+      "o": "Breng 20 Iron Bars naar Corporal Carnes in de Military Ward in Ironforge.",
+      "p": "Als je die twintig Iron Bars hebt, wil ik niet weten waar je ze verstopt hebt!",
+      "c": "Zo, zo, als dat $n niet is. En het is je nog gelukt ook. Nu moet ik je zeker in de gaten houden. Het doet me pijn om het te zeggen, maar bedankt voor je moeite. De Alliance zal het niet vergeten, en ik ook niet. Ga nu maar weer hard aan het werk voor alles wat er verder nog verzameld moet worden.",
+      "g": [
+        [
+          "chique",
+          "fancy, posh"
+        ],
+        [
+          "avonturieren",
+          "adventuring"
+        ],
+        [
+          "bereidt zich voor",
+          "is gearing up, prepares (zich voorbereiden)"
+        ],
+        [
+          "een heleboel",
+          "a whole lot"
+        ],
+        [
+          "rekenen op",
+          "to count on"
+        ],
+        [
+          "verstopt",
+          "hidden (verstoppen)"
+        ],
+        [
+          "in de gaten houden",
+          "to keep an eye on"
+        ],
+        [
+          "moeite",
+          "effort, trouble"
+        ],
+        [
+          "vergeten",
+          "to forget"
+        ]
+      ]
+    },
+    "8495": {
+      "t": "De Alliance heeft meer Iron Bars nodig!",
+      "d": "Nu al terug? Hou op, $c, je laat me mijn lage mening over je opnieuw bekijken. Ik word er helemaal week van vanbinnen. Zoals je ziet hebben we nog steeds niet genoeg Iron Bars voor alle wapens, harnassen, stoomtanks en noem maar op, die gebouwd moeten worden voor de insectenjacht. Denk je dat je nog een stapel van twintig Iron Bars kunt brengen, tussen al die tochtjes naar Zul'Gurub door? Of waar jullie jongelui tegenwoordig ook rondhangen?",
+      "o": "Breng 20 Iron Bars naar Corporal Carnes op het vliegveld in Dun Morogh.",
+      "p": "Nu al terug? Hou op, $c, je laat me mijn lage mening over je opnieuw bekijken. Ik word er helemaal week van vanbinnen. Zoals je ziet hebben we nog steeds niet genoeg Iron Bars voor alle wapens, harnassen, stoomtanks en noem maar op, die gebouwd moeten worden voor de insectenjacht. Denk je dat je nog een stapel van twintig Iron Bars kunt brengen, tussen al die tochtjes naar Zul'Gurub door? Of waar jullie jongelui tegenwoordig ook rondhangen?",
+      "c": "Het moet wel koud zijn in de Burning Steppes. Kijk eens, daar is $n, en $ghij:zij; heeft een cadeau voor me meegebracht. Twintig Iron Bars! Precies wat ik altijd al wilde.$B$BMaar nu even serieus: dank je wel, $n. Je strekt jezelf en de Alliance tot eer. Ga nu weer naar buiten en breng meer spullen voor de oorlog!",
+      "g": [
+        [
+          "mening",
+          "opinion"
+        ],
+        [
+          "opnieuw bekijken",
+          "to re-evaluate"
+        ],
+        [
+          "week",
+          "soft, gooey"
+        ],
+        [
+          "vanbinnen",
+          "inside"
+        ],
+        [
+          "harnassen",
+          "armor (harnas)"
+        ],
+        [
+          "noem maar op",
+          "and whatnot, you name it"
+        ],
+        [
+          "insectenjacht",
+          "bug hunt"
+        ],
+        [
+          "tochtjes",
+          "trips (tochtje)"
+        ],
+        [
+          "jongelui",
+          "youngsters, you kids"
+        ],
+        [
+          "rondhangen",
+          "to hang out"
+        ],
+        [
+          "serieus",
+          "seriously"
+        ],
+        [
+          "strekt tot eer",
+          "are a credit to (tot eer strekken)"
+        ]
+      ]
+    },
+    "8499": {
+      "t": "De Alliance heeft Thorium Bars nodig!",
+      "d": "Wat aardig dat je vraagt wat de Alliance nodig heeft. Naast alle andere inzamelingen die bezig zijn, hebben we een grote hoeveelheid Thorium Bars nodig. Dat is de taak waar ik de leiding over heb. Het thorium wordt gebruikt om veel verschillende dingen voor de oorlog te maken. Het belangrijkste daarvan is de bouw van een bataljon stoomtanks. Die worden naar Silithus overgevlogen zodra ze klaar zijn. Kun je ons hierbij helpen, $c?",
+      "o": "Breng 20 Thorium Bars naar Dame Twinbraid in de Military Ward in Ironforge.",
+      "p": "O, een zending van mijn broer? Prachtig! Het geluk lacht me vandaag echt toe!",
+      "c": "Dus Gnoarn vertrouwt mijn verkenningskunsten niet? Ik vraag me af waarom...",
+      "g": [
+        [
+          "inzamelingen",
+          "collection efforts (inzameling)"
+        ],
+        [
+          "hoeveelheid",
+          "quantity"
+        ],
+        [
+          "de leiding",
+          "the charge, the lead"
+        ],
+        [
+          "bataljon",
+          "battalion"
+        ],
+        [
+          "overgevlogen",
+          "airlifted (overvliegen)"
+        ],
+        [
+          "zending",
+          "shipment"
+        ],
+        [
+          "het geluk lacht me toe",
+          "fortune smiles on me"
+        ],
+        [
+          "vertrouwt",
+          "trusts (vertrouwen)"
+        ],
+        [
+          "verkenningskunsten",
+          "reconnaissance skills"
+        ]
+      ]
+    },
+    "8500": {
+      "t": "De Alliance heeft meer Thorium Bars nodig!",
+      "d": "Wat fijn om je weer te zien, $n. Ik hoop dat het goed met je gaat. Het klopt dat we nog steeds Thorium Bars nodig hebben. Als je ze kunt missen: ik verzamel ze voor de oorlog in Ahn'Qiraj.",
+      "o": "Breng 20 Thorium Bars naar Dame Twinbraid op het vliegveld in Dun Morogh.",
+      "p": "Wat fijn om je weer te zien, $n. Ik hoop dat het goed met je gaat. Het klopt dat we nog steeds Thorium Bars nodig hebben. Als je ze kunt missen: ik verzamel ze voor de oorlog in Ahn'Qiraj.",
+      "c": "Uitstekend, $C! Goed gedaan. Ik zorg ervoor dat die staven op de pallet komen, en bij de smeden en ingenieurs die hard werken om de voorraden voor ons leger op te bouwen. Nogmaals bedankt, en kom zeker langs als je meer Thorium Bars tegenkomt.",
+      "g": [
+        [
+          "het klopt",
+          "it's true, that's right (kloppen)"
+        ],
+        [
+          "missen",
+          "to spare, to miss"
+        ],
+        [
+          "staven",
+          "bars (staaf)"
+        ],
+        [
+          "smeden",
+          "blacksmiths (smid)"
+        ],
+        [
+          "ingenieurs",
+          "engineers (ingenieur)"
+        ],
+        [
+          "voorraden",
+          "supplies (voorraad)"
+        ],
+        [
+          "leger",
+          "army"
+        ],
+        [
+          "nogmaals",
+          "once again"
+        ]
+      ]
+    },
+    "8503": {
+      "t": "De Alliance heeft Stranglekelp nodig!",
+      "d": "Zeg, $c, heb ik je al verteld over alle fantastische toepassingen van Stranglekelp? Wel? Ach ja... hoe dan ook, we hebben er veel van nodig, en als ik veel zeg, bedoel ik HEEL VEEL! Denk je dat je ons kunt helpen? Ik weet dat je dan al die prachtige dingen moet missen die je ermee kunt maken. Maar het is voor een goed doel!",
+      "o": "Breng 20 Stranglekelp naar Private Draxlegauge in de Military Ward in Ironforge.",
+      "p": "Het is niet waar! Ik zou nooit stiekem Stranglekelp van de stapels hier afpakken. Al zou je wel in de verleiding kunnen komen, want het is eigenlijk een echt wondermiddel, zo nuttig is het. *kuch* Heb je toevallig die Stranglekelp waar we het eerder over hadden?",
+      "c": "Hoera! Weer twintig erbij. Je bent de beste. Ik moet deze maar eens allemaal inpakken voordat ze verwelken. Zoveel Stranglekelp, zo weinig tijd!$B$BNogmaals bedankt, $c!",
+      "g": [
+        [
+          "toepassingen",
+          "uses, applications (toepassing)"
+        ],
+        [
+          "hoe dan ook",
+          "in any case"
+        ],
+        [
+          "missen",
+          "to go without"
+        ],
+        [
+          "stiekem",
+          "sneakily, secretly"
+        ],
+        [
+          "in de verleiding komen",
+          "to be tempted"
+        ],
+        [
+          "wondermiddel",
+          "panacea, miracle cure"
+        ],
+        [
+          "nuttig",
+          "useful"
+        ],
+        [
+          "kuch",
+          "cough"
+        ],
+        [
+          "toevallig",
+          "by any chance"
+        ],
+        [
+          "inpakken",
+          "to pack away"
+        ],
+        [
+          "verwelken",
+          "to wither"
+        ]
+      ]
+    },
+    "8504": {
+      "t": "De Alliance heeft meer Stranglekelp nodig!",
+      "d": "Nou, hallo daar weer... hoe heette je ook alweer? O ja, $n! Kom je kijken of ik nog meer Stranglekelp nodig heb? Nou, het is je geluksdag. Het antwoord op die heel belangrijke vraag is namelijk een heel duidelijk JA! Denk je dat je er nog twintig kunt verzamelen?",
+      "o": "Breng 20 Stranglekelp naar Private Draxlegauge op het vliegveld in Dun Morogh.",
+      "p": "Nou, hallo daar weer... hoe heette je ook alweer? O ja, $n! Kom je kijken of ik nog meer Stranglekelp nodig heb? Nou, het is je geluksdag. Het antwoord op die heel belangrijke vraag is namelijk een heel duidelijk JA! Denk je dat je er nog twintig kunt verzamelen?",
+      "c": "O jee, dat is een flinke lading Stranglekelp die je daar hebt. Snel, laten we het in een doos doen zodat het vers blijft. Je hebt mij... ons, de Alliance, een grote dienst bewezen door deze lading te brengen. Ik zorg ervoor dat iedereen weet dat jij het was, de grote $n, die met een bijdrage van Stranglekelp de doorslag hielp geven in de oorlog om Ahn'Qiraj!",
+      "g": [
+        [
+          "ook alweer",
+          "again (as in: what was it again?)"
+        ],
+        [
+          "geluksdag",
+          "lucky day"
+        ],
+        [
+          "namelijk",
+          "namely, you see"
+        ],
+        [
+          "duidelijk",
+          "clear, affirmative"
+        ],
+        [
+          "flinke",
+          "considerable, quite a (flink)"
+        ],
+        [
+          "lading",
+          "load, batch"
+        ],
+        [
+          "vers",
+          "fresh"
+        ],
+        [
+          "een dienst bewezen",
+          "done a favor (een dienst bewijzen)"
+        ],
+        [
+          "bijdrage",
+          "contribution"
+        ],
+        [
+          "de doorslag geven",
+          "to tip the scales"
+        ]
+      ]
+    },
+    "8505": {
+      "t": "De Alliance heeft Purple Lotus nodig!",
+      "d": "$C, de Purple Lotus is een bloem met heel veel toepassingen. Ik ben hier op verzoek van de Alliance, als deskundige op het gebied van die toepassingen. Ik moet de verzamelde kruiden bewaren en ervoor zorgen dat hun oorlog genoeg Purple Lotus krijgt, voor welk doel ze die ook willen gebruiken.$B$BIk wil graag dat je de wereld in trekt en met een aantal van deze bloemen bij me terugkomt. Kun je dat doen?",
+      "o": "Breng 20 Purple Lotus naar Master Nightsong in de Military Ward in Ironforge.",
+      "p": "Heb je de Purple Lotus waar ik om gevraagd heb?",
+      "c": "Je bijdrage wordt zeer gewaardeerd, $c. Alleen als we allemaal samenwerken, kunnen we de meedogenloze opmars tegenhouden van de silithid, en van de kracht die hen voortdrijft, wat dat ook is. Zelfs de Horde verzamelt een eigen voorraad Purple Lotus. Als je er meer tegenkomt, kom dan alsjeblieft hier bij me terug.",
+      "g": [
+        [
+          "toepassingen",
+          "uses, applications (toepassing)"
+        ],
+        [
+          "op verzoek van",
+          "at the request of"
+        ],
+        [
+          "deskundige",
+          "expert, authority"
+        ],
+        [
+          "op het gebied van",
+          "in the field of"
+        ],
+        [
+          "kruiden",
+          "herbs (kruid)"
+        ],
+        [
+          "bewaren",
+          "to preserve, to keep"
+        ],
+        [
+          "gewaardeerd",
+          "appreciated (waarderen)"
+        ],
+        [
+          "meedogenloze",
+          "ruthless (meedogenloos)"
+        ],
+        [
+          "opmars",
+          "advance"
+        ],
+        [
+          "tegenhouden",
+          "to stop, to repel"
+        ],
+        [
+          "voortdrijft",
+          "drives forth (voortdrijven)"
+        ],
+        [
+          "voorraad",
+          "supply, stock"
+        ]
+      ]
+    },
+    "8506": {
+      "t": "De Alliance heeft meer Purple Lotus nodig!",
+      "d": "Welkom terug, $c. Onze verzameling groeit, maar ook nu nog hebben we meer Purple Lotus nodig. Als je nog meer van het kruid kunt verzamelen, dan vraag ik je dringend om dat te doen en het hier bij me terug te brengen.",
+      "o": "Breng 20 Purple Lotus naar Master Nightsong op het vliegveld in Dun Morogh.",
+      "p": "Welkom terug, $c. Onze verzameling groeit, maar ook nu nog hebben we meer Purple Lotus nodig. Als je nog meer van het kruid kunt verzamelen, dan vraag ik je dringend om dat te doen en het hier bij me terug te brengen.",
+      "g": [
+        [
+          "verzameling",
+          "collection"
+        ],
+        [
+          "groeit",
+          "grows (groeien)"
+        ],
+        [
+          "ook nu nog",
+          "even now"
+        ],
+        [
+          "kruid",
+          "herb"
+        ],
+        [
+          "dringend",
+          "urgently"
+        ],
+        [
+          "vliegveld",
+          "airfield"
+        ]
+      ]
+    },
+    "8509": {
+      "t": "De Alliance heeft Arthas' Tears nodig!",
+      "d": "Ik hou het kort en duidelijk, $c. De Alliance moet een grote hoeveelheid Arthas' Tears verzamelen voor de oorlog in Ahn'Qiraj. Vraag me niet waarvoor; ik volg gewoon bevelen op. Maar ik wil dat je zoveel van die kruiden verzamelt als je kunt en ze hier bij me terugbrengt. Wil je dat doen?",
+      "o": "Breng 20 Arthas' Tears naar Sergeant Major Germaine in de Military Ward in Ironforge.",
+      "p": "Wat zeg je? Spreek eens wat harder, $c! Heb je die zending Arthas' Tears waar ik om vroeg?",
+      "c": "Goed werk, $C. Ik moet zeggen dat ik aangenaam verrast ben. Je zou niet geloven hoeveel mensen langs zijn gekomen om hulp aan te bieden, en dan nooit zijn teruggekomen. Ik doe ze even in een krat en tel ze, met jouw naam erbij. Dan kunnen we het er nog eens over hebben of ik meer van die planten nodig heb.",
+      "g": [
+        [
+          "kort en duidelijk",
+          "short and to the point"
+        ],
+        [
+          "hoeveelheid",
+          "quantity"
+        ],
+        [
+          "volg bevelen op",
+          "follow orders (bevelen opvolgen)"
+        ],
+        [
+          "kruiden",
+          "herbs (kruid)"
+        ],
+        [
+          "zending",
+          "shipment"
+        ],
+        [
+          "aangenaam verrast",
+          "pleasantly surprised"
+        ],
+        [
+          "aan te bieden",
+          "to offer (aanbieden)"
+        ],
+        [
+          "krat",
+          "crate"
+        ],
+        [
+          "tel",
+          "count (tellen)"
+        ]
+      ]
+    },
+    "8510": {
+      "t": "De Alliance heeft meer Arthas' Tears nodig!",
+      "d": "Oké, het ziet ernaar uit dat ik nog meer Arthas' Tears nodig heb. Ik denk dat je ze ongeveer op dezelfde plek kunt vinden waar je ze de vorige keer voor me hebt verzameld. Hoe sneller we ze hebben, hoe eerder we de aanval op de troepen bij Ahn'Qiraj kunnen beginnen.$B$BHelp je ons nog een keer, $c?",
+      "o": "Breng 20 Arthas' Tears naar Sergeant Major Germaine op het vliegveld in Dun Morogh.",
+      "g": [
+        [
+          "het ziet ernaar uit",
+          "it looks like"
+        ],
+        [
+          "ongeveer",
+          "roughly, about"
+        ],
+        [
+          "de vorige keer",
+          "last time"
+        ],
+        [
+          "hoe sneller ... hoe eerder",
+          "the quicker ... the sooner"
+        ],
+        [
+          "aanval",
+          "offensive, attack"
+        ],
+        [
+          "troepen",
+          "forces, troops (troep)"
+        ]
+      ]
+    },
+    "8511": {
+      "t": "De Alliance heeft Light Leather nodig!",
+      "d": "Wij Stoneflayers zijn al heel lang vilders, $c. Daarom heeft de Alliance mijn familie gevraagd om te helpen met het verzamelen van Light Leather voor de oorlog in Ahn'Qiraj. Ik ben hier om ervoor te zorgen dat het leer goed gelooid wordt, waarvoor ze het ook willen gebruiken. Maar we hebben jouw hulp nodig.$B$BOmdat ik hier dat werk moet doen, moet jij erop uit om de huiden te verzamelen en ze hier bij me terug te brengen. Wat zeg je ervan, $gjongen:meid;, wil je het proberen?",
+      "o": "Breng 10 Light Leather naar Bonnie Stoneflayer in de Military Ward in Ironforge.",
+      "p": "$C, ik hoop echt dat dat het Light Leather is dat je beloofd hebt.",
+      "c": "Ik durf te zeggen dat de Alliance erg blij zal zijn met deze huiden, $c. Ik zorg ervoor dat er niet één verloren gaat. Dank je wel. Kom zeker nog even bij me langs als ik ze heb geteld, om te kijken of we er meer nodig hebben.",
+      "g": [
+        [
+          "vilders",
+          "skinners (vilder)"
+        ],
+        [
+          "leer",
+          "leather"
+        ],
+        [
+          "gelooid",
+          "tanned (looien)"
+        ],
+        [
+          "erop uit",
+          "out (to go out)"
+        ],
+        [
+          "huiden",
+          "skins, hides (huid)"
+        ],
+        [
+          "beloofd",
+          "promised (beloven)"
+        ],
+        [
+          "ik durf te zeggen",
+          "I dare say"
+        ],
+        [
+          "verloren gaat",
+          "goes to waste (verloren gaan)"
+        ],
+        [
+          "geteld",
+          "counted (tellen)"
+        ]
+      ]
+    },
+    "8512": {
+      "t": "De Alliance heeft meer Light Leather nodig!",
+      "d": "Fijn om je weer te zien, $n. Het lijkt erop dat we meer Light Leather nodig hebben om allerlei oorlogsmaterieel te maken. Als je me een stapel van tien kunt brengen, zou dat perfect zijn.",
+      "o": "Breng 10 Light Leather naar Bonnie Stoneflayer op het vliegveld in Dun Morogh.",
+      "p": "Fijn om je weer te zien, $n. Het lijkt erop dat we meer Light Leather nodig hebben om allerlei oorlogsmaterieel te maken. Als je me een stapel van tien wilt brengen, dan zou dat perfect zijn.",
+      "c": "Bedankt voor je gulle gift, $n. Ik leg ze nu meteen op de stapel. Ik weet zeker dat ze in een mum van tijd veranderd worden in een mooi harnas of wat leren lappen, of dat ze voor iets anders gebruikt worden bij onze voorbereidingen. Het lijkt wel alsof we altijd meer Light Leather nodig hebben. Kom snel weer eens bij me langs.",
+      "g": [
+        [
+          "het lijkt erop",
+          "it does appear"
+        ],
+        [
+          "allerlei",
+          "all kinds of, various"
+        ],
+        [
+          "oorlogsmaterieel",
+          "war materiel"
+        ],
+        [
+          "gulle",
+          "generous (gul)"
+        ],
+        [
+          "gift",
+          "donation"
+        ],
+        [
+          "in een mum van tijd",
+          "in no time"
+        ],
+        [
+          "harnas",
+          "set of armor"
+        ],
+        [
+          "leren lappen",
+          "leather patches"
+        ],
+        [
+          "voorbereidingen",
+          "preparations (voorbereiding)"
+        ]
+      ]
+    },
+    "8513": {
+      "t": "De Alliance heeft Medium Leather nodig!",
+      "d": "Ja, $gmeneer:mevrouw;, ik heb de taak gekregen om al het Medium Leather in te zamelen en bij te houden dat voor de oorlog wordt verzameld. Als je de middelen hebt om Medium Leather te verzamelen, waar het ook vandaan komt, breng het dan alsjeblieft hier naar mij. Ik zou het heel fijn vinden als je me hiermee helpt, als je de tijd hebt.",
+      "o": "Breng 10 Medium Leather naar Private Porter in de Military Ward in Ironforge.",
+      "p": "Ja, $gmeneer:mevrouw;, ik herinner me jou. Is dat het Medium Leather dat je daar bij je hebt?",
+      "c": "Wauw! Het lijkt wel alsof je hier net nog was om je als vrijwilliger aan te melden. Heel erg bedankt voor de gift. Ik pak ze even allemaal in en tel ze. Jij weet echt hoe je iemands dag kunt opvrolijken.",
+      "g": [
+        [
+          "in te zamelen",
+          "to collect (inzamelen)"
+        ],
+        [
+          "bij te houden",
+          "to keep track of (bijhouden)"
+        ],
+        [
+          "de middelen",
+          "the means, the wherewithal"
+        ],
+        [
+          "herinner me",
+          "remember (zich herinneren)"
+        ],
+        [
+          "vrijwilliger",
+          "volunteer"
+        ],
+        [
+          "aan te melden",
+          "to sign up (zich aanmelden)"
+        ],
+        [
+          "gift",
+          "donation"
+        ],
+        [
+          "opvrolijken",
+          "to brighten, to cheer up"
+        ]
+      ]
+    },
+    "8514": {
+      "t": "De Alliance heeft meer Medium Leather nodig!",
+      "d": "Ja, $gmeneer:mevrouw;, het ziet ernaar uit dat we tot nu toe al heel wat stukken Medium Leather hebben verzameld. Ik weet dat het veel gevraagd is, maar als je nog wilt, kan ik je hulp goed gebruiken om de rest van mijn quotum flink kleiner te maken.",
+      "o": "Breng 10 Medium Leather naar Private Porter op het vliegveld in Dun Morogh.",
+      "p": "Ja, $gmeneer:mevrouw;, het ziet ernaar uit dat we veel stukken Medium Leather hebben verzameld, maar we hebben er meer nodig. Ik kan je verzekeren dat alles goed gebruikt wordt; er gaat geen enkel stuk verloren. Ik weet dat het veel gevraagd is, maar als je nog wilt, kan ik je hulp goed gebruiken om de rest van mijn quotum flink kleiner te maken.",
+      "c": "Jeetje, dat is echt een hoop Medium Leather dat je hebt gebracht, $gmeneer:mevrouw;! Ik zorg ervoor dat dat allemaal goed gebruikt wordt, jazeker. Met jouw hulp hebben we in een mum van tijd ons doel voor Medium Leather bereikt!$B$BBedankt, $n!",
+      "g": [
+        [
+          "tot nu toe",
+          "to date, so far"
+        ],
+        [
+          "heel wat",
+          "quite a lot of"
+        ],
+        [
+          "veel gevraagd",
+          "a lot to ask"
+        ],
+        [
+          "quotum",
+          "quota"
+        ],
+        [
+          "flink kleiner maken",
+          "to put a dent in"
+        ],
+        [
+          "verzekeren",
+          "to assure"
+        ],
+        [
+          "verloren",
+          "wasted, lost"
+        ],
+        [
+          "jeetje",
+          "golly, gosh"
+        ],
+        [
+          "jazeker",
+          "yes indeed"
+        ],
+        [
+          "bereikt",
+          "reached (bereiken)"
+        ]
+      ]
+    },
+    "8515": {
+      "t": "De Alliance heeft Thick Leather nodig!",
+      "d": "O, wat wordt dit geweldig! $C, de oorlog in Ahn'Qiraj is in volle gang, en ik moet al het Thick Leather bijhouden dat binnenkomt. We gaan er tonnen dingen van maken, maar eerst moeten we er een ton van hebben. En dat bedoel ik letterlijk! Daar kom jij in beeld.$B$BDenk je dat je erop uit kunt gaan en me een mooie, dikke stapel Thick Leather kunt brengen? Kun je dat, kun je dat?!",
+      "o": "Breng 10 Thick Leather naar Marta Finespindle in de Military Ward in Ironforge.",
+      "p": "Is dat het Thick Leather dat je daar in je tas hebt, $c? Is het dat? Ik kan niet wachten tot je het aan me geeft! Iedereen wordt zo blij met ons, denk je niet?",
+      "c": "O, ik wist dat je het kon, $c, ik wist het gewoon! Ik zorg dat deze zo snel mogelijk in de juiste handen komen. Eens kijken. Hmm, onze telling gaat best goed. Kom zo even terug als ik klaar ben met tellen, om te zien of we meer nodig hebben. Want als dat zo is, wil ik dat jij het voor me gaat verzamelen!",
+      "g": [
+        [
+          "in volle gang",
+          "in full swing"
+        ],
+        [
+          "bijhouden",
+          "to keep track of"
+        ],
+        [
+          "binnenkomt",
+          "comes in (binnenkomen)"
+        ],
+        [
+          "tonnen",
+          "tons (ton)"
+        ],
+        [
+          "letterlijk",
+          "literally"
+        ],
+        [
+          "in beeld komen",
+          "to come in, to enter the picture"
+        ],
+        [
+          "erop uit gaan",
+          "to go out there"
+        ],
+        [
+          "dikke",
+          "fat, thick (dik)"
+        ],
+        [
+          "telling",
+          "tally, count"
+        ],
+        [
+          "in de juiste handen",
+          "into the right hands"
+        ]
+      ]
+    },
+    "8516": {
+      "t": "De Alliance heeft meer Thick Leather nodig!",
+      "d": "Ja hoor, de stapel is nog steeds niet hoog genoeg. $n, we hebben ons doel voor Thick Leather nog steeds niet gehaald. Denk eens aan alle dingen die we met al dat leer kunnen maken! Allerlei harnassen en wapens. Spullen voor in de stoomtanks, en geweervizieren! Ingenieursbrillen. En als we uiteindelijk te veel verzamelen, kunnen we de rest vast aan de Horde geven voor hun zeppelins!$B$BBreng je me nog wat meer Thick Leather?",
+      "o": "Breng 10 Thick Leather naar Marta Finespindle op het vliegveld in Dun Morogh.",
+      "p": "Ja hoor, de stapel is nog steeds niet hoog genoeg. $n, we hebben ons doel voor Thick Leather nog steeds niet gehaald. Denk eens aan alle dingen die we met al dat leer kunnen maken! Allerlei harnassen en wapens. Spullen voor in de stoomtanks, en geweervizieren! En ingenieursbrillen, die zijn altijd leuk!$B$BBreng je me nog wat meer Thick Leather?",
+      "c": "Het is je weer gelukt! Het is gewoon geweldig hoe je erop uit gaat, al deze spullen verzamelt en ze dan hier komt afgeven. Ik zeg je, als ze ontdekken hoeveel je hier helpt, kun je niet meer over straat lopen zonder dat mensen je om je handtekening vragen!$B$BNogmaals bedankt voor je heel gulle gift van Thick Leather, $n.",
+      "g": [
+        [
+          "gehaald",
+          "reached (halen)"
+        ],
+        [
+          "harnassen",
+          "armor (harnas)"
+        ],
+        [
+          "geweervizieren",
+          "rifle scopes (geweervizier)"
+        ],
+        [
+          "ingenieursbrillen",
+          "engineering goggles (ingenieursbril)"
+        ],
+        [
+          "uiteindelijk",
+          "in the end"
+        ],
+        [
+          "zeppelins",
+          "zeppelins"
+        ],
+        [
+          "afgeven",
+          "to hand over"
+        ],
+        [
+          "ontdekken",
+          "to find out, to discover"
+        ],
+        [
+          "handtekening",
+          "autograph, signature"
+        ],
+        [
+          "gulle",
+          "generous (gul)"
+        ],
+        [
+          "gift",
+          "donation"
+        ]
+      ]
+    },
+    "8517": {
+      "t": "De Alliance heeft Linen Bandages nodig!",
+      "d": "De oorlog bij Ahn'Qiraj wordt lang en bloedig. Het is heel verstandig dat de Alliance de hulp inroept van jou en van mensen zoals jij, om het nodige materieel op te bouwen voordat we ons halsoverkop in de strijd storten.$B$BMij is gevraagd om de inzameling van Linen Bandages voor de oorlog te leiden. Ik hoop dat je me helpt om er zoveel te verzamelen als we nodig hebben. Het is geen kleine zaak, maar Linen Bandages zijn in elk geval het minst moeilijk om te maken. Doe je mee, $c?",
+      "o": "Breng 20 Linen Bandages naar Sentinel Silversky in de Military Ward in Ironforge.",
+      "p": "Heb je de twintig Linen Bandages die ik nodig heb, $c?",
+      "c": "Veel soldaten zullen baat hebben bij je bijdrage van vandaag, $c. Ik zorg er persoonlijk voor dat de Alliance van je inzet hoort. Geef me even de tijd om deze verbanden goed op te bergen en mijn telling bij te werken. Kom daarna nog even bij me terug om te zien of ik er meer nodig heb.$B$BMoge het Licht van Elune op je schijnen, $r!",
+      "g": [
+        [
+          "bloedig",
+          "bloody"
+        ],
+        [
+          "verstandig",
+          "wise, sensible"
+        ],
+        [
+          "inroept",
+          "enlists, calls in (inroepen)"
+        ],
+        [
+          "halsoverkop",
+          "headlong"
+        ],
+        [
+          "storten",
+          "to plunge"
+        ],
+        [
+          "inzameling",
+          "collection"
+        ],
+        [
+          "geen kleine zaak",
+          "no light matter"
+        ],
+        [
+          "baat hebben bij",
+          "to benefit from"
+        ],
+        [
+          "inzet",
+          "effort"
+        ],
+        [
+          "verbanden",
+          "bandages (verband)"
+        ],
+        [
+          "op te bergen",
+          "to store (opbergen)"
+        ],
+        [
+          "bij te werken",
+          "to update (bijwerken)"
+        ],
+        [
+          "moge",
+          "may (wish)"
+        ]
+      ]
+    },
+    "8518": {
+      "t": "De Alliance heeft meer Linen Bandages nodig!",
+      "d": "Steeds weer verbaast het me hoe onbaatzuchtig mensen zijn, terwijl zovelen juist voor zelfzucht zouden kiezen. $C, ik heb nog een aantal Linen Bandages nodig voordat mijn opdracht hier klaar is. Help je me nog een keer met het verzamelen van die verbanden?",
+      "o": "Breng 20 Linen Bandages naar Sentinel Silversky op het vliegveld in Dun Morogh.",
+      "p": "Steeds weer verbaast het me hoe onbaatzuchtig mensen zijn, terwijl zovelen juist voor zelfzucht zouden kiezen. $C, ik heb nog een aantal Linen Bandages nodig voordat mijn opdracht hier klaar is. Help je me nog een keer met het verzamelen van die verbanden?",
+      "c": "Je verdient lof, $n. Er zijn mensen die misbruik maken van de oorlogseconomie om uit hebzucht hun zakken te vullen. Maar jij hebt keer op keer bewezen dat je toewijding aan de Alliance, en zelfs aan heel Azeroth, op de eerste plaats komt.$B$BMogen de zegeningen van Elune altijd met je zijn!",
+      "g": [
+        [
+          "verbaast",
+          "amazes (verbazen)"
+        ],
+        [
+          "onbaatzuchtig",
+          "selfless"
+        ],
+        [
+          "zelfzucht",
+          "selfishness"
+        ],
+        [
+          "opdracht",
+          "assignment"
+        ],
+        [
+          "verbanden",
+          "bandages (verband)"
+        ],
+        [
+          "misbruik maken van",
+          "to take advantage of"
+        ],
+        [
+          "oorlogseconomie",
+          "war economy"
+        ],
+        [
+          "hebzucht",
+          "greed"
+        ],
+        [
+          "hun zakken vullen",
+          "to line their pockets"
+        ],
+        [
+          "keer op keer",
+          "time and again"
+        ],
+        [
+          "toewijding",
+          "devotion"
+        ],
+        [
+          "zegeningen",
+          "blessings (zegening)"
+        ]
+      ]
+    },
+    "8520": {
+      "t": "De Alliance heeft Silk Bandages nodig!",
+      "d": "Nu de oorlog in Ahn'Qiraj dreigt, moeten we alles doen wat we kunnen om ervoor te zorgen dat onze soldaten alles hebben wat ze nodig hebben. Dat doen we precies hier. Ik heb zelf de taak gekregen om ervoor te zorgen dat we genoeg Silk Bandages verzamelen.$B$BDenk je dat je me kunt helpen, $c?",
+      "o": "Breng 20 Silk Bandages naar Nurse Stonefield in de Military Ward in Ironforge.",
+      "p": "Hallo, $c, is het je al gelukt om die twintig Silk Bandages te krijgen?",
+      "c": "$C, het is je gelukt! Dankzij jou zijn we weer een stap dichter bij ons doel voor Silk Bandages. Ik berg ze op, en daarna kunnen we verder praten als je wilt.",
+      "g": [
+        [
+          "dreigt",
+          "looms, threatens (dreigen)"
+        ],
+        [
+          "ervoor te zorgen",
+          "to see to it (ervoor zorgen)"
+        ],
+        [
+          "precies",
+          "exactly, just"
+        ],
+        [
+          "de taak gekregen",
+          "been placed in charge"
+        ],
+        [
+          "dankzij",
+          "thanks to"
+        ],
+        [
+          "dichter bij",
+          "closer to"
+        ],
+        [
+          "berg op",
+          "store away (opbergen)"
+        ]
+      ]
+    },
+    "8521": {
+      "t": "De Alliance heeft meer Silk Bandages nodig!",
+      "d": "Wat aardig dat je aanbiedt om me weer te helpen, $c. Het ziet ernaar uit dat we al heel wat Silk Bandages hebben verzameld, dus we hebben er meer nodig.",
+      "o": "Breng 20 Silk Bandages naar Nurse Stonefield op het vliegveld in Dun Morogh.",
+      "p": "Wat aardig dat je aanbiedt om me weer te helpen, $c. Het ziet ernaar uit dat we al een flink aantal van de Silk Bandages hebben verzameld die we moeten inzamelen, maar we hebben er nog meer nodig. $n, zou je nog een bundel kunnen maken en die hier bij me terugbrengen? De Alliance en ik zullen je heel dankbaar zijn.",
+      "c": "Wat ben je toch een onbaatzuchtig mens. Heel erg bedankt voor je bijdrage aan de oorlog. Het zijn mensen zoals jij die het verschil gaan maken tussen succes en mislukking bij Ahn'Qiraj. Ik hoop alleen dat dit allemaal genoeg zal zijn.$B$BNogmaals bedankt, $n.",
+      "g": [
+        [
+          "aanbiedt",
+          "offer (aanbieden)"
+        ],
+        [
+          "heel wat",
+          "quite a lot of"
+        ],
+        [
+          "een flink aantal",
+          "a goodly number"
+        ],
+        [
+          "inzamelen",
+          "to collect"
+        ],
+        [
+          "bundel",
+          "bundle"
+        ],
+        [
+          "dankbaar",
+          "grateful"
+        ],
+        [
+          "onbaatzuchtig",
+          "selfless"
+        ],
+        [
+          "het verschil maken",
+          "to make the difference"
+        ],
+        [
+          "mislukking",
+          "failure"
+        ]
+      ]
+    },
+    "8522": {
+      "t": "De Alliance heeft Runecloth Bandages nodig!",
+      "d": "Discussieer maar over het nut van de oorlog als je wilt, $c, maar hij is al begonnen. Kijk om je heen naar je familie en vrienden. Vraag jezelf dan af wat jij kunt doen, zodat zij alle kans hebben om de vuurzee te overleven als ze erbij betrokken raken.$B$BDaarom verzamel ik hier Runecloth Bandages, waar ze ook vandaan komen. Wil je iets doneren?",
+      "o": "Breng 20 Runecloth Bandages naar Keeper Moonshade in de Military Ward in Ironforge.",
+      "p": "De dagen gaan voorbij, de een na de ander, en toch gaan we door. $C, heb je die Runecloth Bandages?",
+      "c": "Je verdient lof, $c, voor je doorzettingsvermogen bij deze taak. Ik berg deze verbanden op. Daarna wil ik graag nog eens met je praten over de mogelijkheid dat je nog meer Runecloth Bandages verzamelt.",
+      "g": [
+        [
+          "discussieer",
+          "argue, debate (discussiëren)"
+        ],
+        [
+          "het nut",
+          "the merits, the use"
+        ],
+        [
+          "vuurzee",
+          "conflagration, sea of fire"
+        ],
+        [
+          "overleven",
+          "to survive"
+        ],
+        [
+          "betrokken raken",
+          "to become involved"
+        ],
+        [
+          "doneren",
+          "to donate"
+        ],
+        [
+          "voorbij",
+          "by, past"
+        ],
+        [
+          "doorzettingsvermogen",
+          "perseverance"
+        ],
+        [
+          "mogelijkheid",
+          "possibility"
+        ]
+      ]
+    }
+  },
+  "words": {
+    "baat": "benefit (baat hebben bij: to benefit from)",
+    "lappen": "patches, pieces of cloth or leather (lap)",
+    "straat": "street",
+    "zamelen": "collect (inzamelen, as in 'in te zamelen')",
+    "zovelen": "so many (people)"
+  },
+  "terms": {
+    "silithid": "silithid: insect-like creatures from Silithus in the Warcraft world",
+    "gyrocopters": "gyrocopter: a small gnomish/dwarven flying machine in the Warcraft world"
+  }
+}
