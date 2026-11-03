@@ -73,6 +73,10 @@ SEARCH = [
     "~/.wine/drive_c/Program Files (x86)/World of Warcraft/*/WTF/Account/*/SavedVariables/SpeurtochtNL.lua",
     "/mnt/*/SteamLibrary/steamapps/compatdata/*/pfx/drive_c/Program Files (x86)/World of Warcraft/*/WTF/Account/*/SavedVariables/SpeurtochtNL.lua",
     "/media/*/*/SteamLibrary/steamapps/compatdata/*/pfx/drive_c/Program Files (x86)/World of Warcraft/*/WTF/Account/*/SavedVariables/SpeurtochtNL.lua",
+    # Windows and macOS default installs
+    "C:/Program Files (x86)/World of Warcraft/*/WTF/Account/*/SavedVariables/SpeurtochtNL.lua",
+    "C:/Program Files/World of Warcraft/*/WTF/Account/*/SavedVariables/SpeurtochtNL.lua",
+    "/Applications/World of Warcraft/*/WTF/Account/*/SavedVariables/SpeurtochtNL.lua",
 ]
 
 

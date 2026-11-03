@@ -10,6 +10,7 @@ Speurtocht.NL shows quest text in Dutch and leaves the rest of the game in Engli
 - **The English original** whenever you need it: hold Alt, or hover the NLQuest button.
 - **A side-by-side reader** with Dutch next to English, where every Dutch word can be clicked.
 - **A vocabulary list** of the words you click, ready to import into Anki.
+- **Every Classic Era quest**, Alliance and Horde: more than 4,200 in all.
 
 **Version 0.3.0** · Classic Era (1.15) now · World of Warcraft: Forever (1.60) from launch
 
@@ -17,18 +18,25 @@ Speurtocht.NL shows quest text in Dutch and leaves the rest of the game in Engli
 
 ## 1. Install
 
+**With an addon manager:** search for **Speurtocht.NL** in the CurseForge app or WowUp and click Install. Updates then arrive by themselves.
+
+**By hand:**
+
 1. Download **[SpeurtochtNL.zip](https://github.com/emergencepathways/NLQuest/releases/latest/download/SpeurtochtNL.zip)** (always the newest version) and unzip it. You get a folder called `SpeurtochtNL`.
    Don't use the green **Code › Download ZIP** button on GitHub: that gives a folder called `NLQuest-main`, which the game won't load.
-2. Copy that folder into the game's AddOns folder. Note for Linux users: On Linux with Steam/Proton it is:
-   ```
-   ~/.local/share/Steam/steamapps/compatdata/<number>/pfx/drive_c/Program Files (x86)/World of Warcraft/_classic_era_/Interface/AddOns/
-   ```
-   For Forever, use the Forever game folder instead of `_classic_era_`. It appears after you install Forever and start it once.
+2. Copy that folder into the game's AddOns folder:
+   - **Windows:** `C:\Program Files (x86)\World of Warcraft\_classic_era_\Interface\AddOns\`
+   - **macOS:** `/Applications/World of Warcraft/_classic_era_/Interface/AddOns/`
+   - **Linux (Steam/Proton):**
+     ```
+     ~/.local/share/Steam/steamapps/compatdata/<number>/pfx/drive_c/Program Files (x86)/World of Warcraft/_classic_era_/Interface/AddOns/
+     ```
+   For Forever, use the Forever game folder instead of `_classic_era_`. It appears after you install Forever and start it once. If the `AddOns` folder doesn't exist yet, create it.
 3. Check the folder sits at `AddOns/SpeurtochtNL/SpeurtochtNL.toc`, not one level deeper.
 4. On the character screen, open **AddOns** and make sure **Speurtocht.NL** is ticked. If it says "out of date", tick **Load out of date AddOns**. That happens when Blizzard updates the game before the addon is updated.
 5. If an older version called **NederQuest** is in the AddOns folder, delete it. Otherwise both versions run at the same time.
 
-WowUp only manages addons it downloaded itself, so it lists Speurtocht.NL as "unknown". That's normal.
+If you installed by hand, WowUp and the CurseForge app list Speurtocht.NL as "unknown" and won't update it. To get automatic updates, remove the folder and install it through the app instead.
 
 ---
 
@@ -46,7 +54,8 @@ Talk to a quest giver. The quest window shows Dutch, and the reader opens next t
 | Check a name or Warcraft word | Click it: it turns red and isn't saved |
 | Remove a saved word | Right-click it |
 | See your saved words | **Woorden** button in the reader, or `/speur vocab` |
-| Open the settings | `/NLQuest` or `/speur` |
+| Make the reader's text bigger or smaller | **-** and **+** in the settings |
+| Open the settings | `/nlquest` or `/speur` |
 
 ### Presets
 
@@ -88,16 +97,17 @@ WoW addons can't write files on your computer, but WoW itself saves the addon's 
 **One-time setup** (about five minutes):
 
 1. **Install AnkiConnect in Anki.** In Anki: **Tools › Add-ons › Get Add-ons…**, enter the code `2055492159`, click OK, and restart Anki.
-2. **Run the sync once.** Open a terminal in the addon's `tools` folder and run:
+2. **Run the sync once.** You need Python 3 (on Windows the command is `python` instead of `python3`). Open a terminal in the addon's `tools` folder (`Interface/AddOns/SpeurtochtNL/tools`) and run:
    ```
    python3 anki_sync.py
    ```
-   It finds your WoW folder by itself and creates a deck and a card type called **Speurtocht.NL** in Anki. Each word gets two cards: Dutch → English and English → Dutch, with the example sentence and quest title on the back. (Use `--one-way` the first time if you only want Dutch → English.)
-3. **Make it automatic.** In the same folder, run:
+   It finds your WoW folder by itself (in the usual places on Windows, macOS and Linux; otherwise add `--path` followed by the full path to `WTF/Account/<ACCOUNT>/SavedVariables/SpeurtochtNL.lua`) and creates a deck and a card type called **Speurtocht.NL** in Anki. Each word gets two cards: Dutch → English and English → Dutch, with the example sentence and quest title on the back. (Use `--one-way` the first time if you only want Dutch → English.)
+3. **Make it automatic (Linux).** In the same folder, run:
    ```
    bash install_autosync.sh
    ```
    From now on the sync starts with your desktop and runs quietly in the background.
+   On Windows or macOS, leave `python3 anki_sync.py --watch` running in a terminal while you play instead.
 
 **From then on:** keep Anki open while you play. When you've saved some words, click **Naar Anki** in the word list (it does a quick `/reload`), or just log out. A few seconds later the cards are in your **Speurtocht.NL** deck. If Anki was closed, the words are sent the next time you open it.
 
@@ -111,7 +121,7 @@ If you'd rather not install anything:
 
 1. In Anki, make a note type with three fields once: **Tools › Manage Note Types › Add › Basic (and reversed card)**, name it `Speurtocht.NL`, and rename its fields to `Nederlands`, `English` and `Zin`.
 2. In game: `/speur vocab` › **Kopieer tekst** (only words you haven't copied before). The text is already selected: press **Ctrl+C**, then click **Markeer als geëxporteerd**.
-3. Paste into a text editor, save as `speurtocht.txt`, then in Anki: **File › Import**. Choose note type `Speurtocht.NL`, map columns 1–4 to Nederlands, English, Zin and Tags, and set **Existing notes** to *Update*.
+3. Paste into a text editor, save as `speurtocht.txt` (UTF-8), then in Anki: **File › Import**. Choose note type `Speurtocht.NL`, map columns 1–4 to Nederlands, English, Zin and Tags, and set **Existing notes** to *Update*.
 
 ---
 
@@ -123,7 +133,7 @@ Open the quest and click **Melden** in the reader, or type `/speur report`. A sm
 2. Paste it into your browser and press Enter.
 3. Click **Submit new issue** on GitHub (you need a free GitHub account).
 
-- **Untranslated quest:** the report goes to the *Missing quest* list with the English text included, so it can go straight into the next batch. This works for every faction, Horde included.
+- **Untranslated quest:** the report goes to the *Missing quest* list with the English text included, so it can be translated in an update. This is mostly for new Forever quests.
 - **Translated quest:** it opens a *Translation fix* report with the current Dutch filled in. Just add what's wrong.
 
 The addon also quietly saves the English text of every untranslated quest you open. To send a whole play session at once, log out (or `/reload`) and run:
@@ -155,29 +165,30 @@ More than 4,200 quests are translated.
 
 | Command | What it does |
 |---|---|
-| `/NLQuest` or `/speur` | Open the settings |
-| `/speur reader` | Open or close the reader |
-| `/speur vocab` | Open your saved words |
-| `/speur save woord` | Save a word by typing it (uses the meaning if the addon knows it) |
+| `/nlquest`, `/speur` or `/stnl` | Open the settings |
+| `/speur reader` (or `lezer`) | Open or close the reader |
+| `/speur vocab` (or `woorden`) | Open your saved words |
+| `/speur save woord` (or `bewaar`) | Save a word by typing it (uses the meaning if the addon knows it) |
 | `/speur save woord = meaning` | Save a word with your own meaning |
 | `/speur check` | Check whether the reader's words are clickable |
 | `/speur export` | Copy-and-paste export window (all words) |
-| `/speur report` | Report the open quest on GitHub (missing quest or translation fix) |
+| `/speur report` (or `melden`) | Report the open quest on GitHub (missing quest or translation fix) |
 | `/speur capture` | How many untranslated quests have been saved |
 | `/speur status` | Version, game build, and whether the current quest is translated |
 | `/speur help` | List the commands |
 
-Commands are not case-sensitive.
+Commands are not case-sensitive, and every `/speur` command also works with `/nlquest`.
 
 ---
 
 ## 7. Troubleshooting
 
+- **The addon isn't in the AddOns list:** the folder must be called exactly `SpeurtochtNL`, with `SpeurtochtNL.toc` directly inside it. A folder called `NLQuest-main` (from GitHub's green **Code** button) won't load: download `SpeurtochtNL.zip` from section 1 instead.
 - **Nothing is in Dutch:** type `/speur status`. It shows the quest ID and whether it's translated. Also check that **Speurtocht.NL aan** is ticked in the settings.
 - **A Lua error pops up:** type `/console scriptErrors 1`, do the same thing again, and send a screenshot of the whole error.
-- **Clicking words doesn't save them:** update to 0.1.1 or later. Click words in the **reader panel**, not in the quest window itself (the quest window's text can't be clicked). Type `/speur check` and send the line it prints. You can always save a word by typing `/speur save woord`.
+- **Clicking words doesn't save them:** click words in the **reader panel**, not in the quest window itself (the quest window's text can't be clicked). Type `/speur check` and send the line it prints. You can always save a word by typing `/speur save woord`.
 - **The reader is off-screen:** open the settings and click **Lezer terugzetten**.
-- **Words don't arrive in Anki:** check that Anki is open and AnkiConnect is installed, then run `python3 anki_sync.py` in the `tools` folder to see what it says. Background service log: `journalctl --user -u speurtocht-anki`.
+- **Words don't arrive in Anki:** check that Anki is open and AnkiConnect is installed, then run `python3 anki_sync.py` in the `tools` folder to see what it says. Background service log (Linux): `journalctl --user -u speurtocht-anki`.
 
 ---
 
@@ -190,10 +201,14 @@ Commands are not case-sensitive.
 | `Display.lua` | Quest dialog and quest log text replacement, NLQuest button, Alt to peek |
 | `Reader.lua` | Side-by-side reader |
 | `Vocab.lua` | Word saver, word list window, Anki export |
+| `Report.lua` | The **Melden** window: builds the GitHub issue link |
 | `Capture.lua` | Saves untranslated and changed quests |
 | `Options.lua` | Settings window and chat commands |
 | `Data/*.lua` | Translations, one file per batch |
-| `docs/STYLE.md` | Translation rules every batch follows |
+| `batches/*.json` | Translation source for each batch; `Data/Batch_*.lua` is generated from it |
+| `docs/STYLE.md`, `docs/WORKFLOW.md` | Translation rules every batch follows, and the batch file format |
+| `tools/next_batch.py`, `tools/import_batch.py` | Picks the next batch's English text; checks a translated batch and turns it into addon data |
+| `tools/automerge.py`, `tools/sync_batch.py` | The merge queue (`.github/workflows/batch-automerge.yml`) that merges pushed batches |
 | `tools/extract_vanilla_quests.py` | English source text from the VMaNGOS database |
 | `tools/build_manifest.py` | Sorts quests into batches (finds dungeon quests by where their objectives spawn) |
 | `tools/anki_sync.py`, `tools/install_autosync.sh` | Sends saved words to Anki via AnkiConnect, optionally as a background service |

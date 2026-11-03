@@ -10,6 +10,7 @@ Speurtocht.NL laat de teksten van quests in het Nederlands zien. De rest van het
 - **Het Engelse origineel** als je het nodig hebt: houd Alt ingedrukt, of wijs de NLQuest-knop aan.
 - **Een lezer naast het questvenster**, met Nederlands en Engels naast elkaar. Je kunt op elk Nederlands woord klikken.
 - **Een woordenlijst** met de woorden waarop je klikt, klaar om in Anki te zetten.
+- **Alle quests van Classic Era**, voor de Alliance en de Horde: meer dan 4.200.
 
 **Versie 0.3.0** · Classic Era (1.15) nu · World of Warcraft: Forever (1.60) vanaf de lancering
 
@@ -17,18 +18,25 @@ Speurtocht.NL laat de teksten van quests in het Nederlands zien. De rest van het
 
 ## 1. Installeren
 
+**Met een addonmanager:** zoek **Speurtocht.NL** in de CurseForge-app of in WowUp en klik op Install. Updates komen dan vanzelf.
+
+**Met de hand:**
+
 1. Download **[SpeurtochtNL.zip](https://github.com/emergencepathways/NLQuest/releases/latest/download/SpeurtochtNL.zip)** (altijd de nieuwste versie) en pak het uit. Je krijgt een map met de naam `SpeurtochtNL`.
    Gebruik niet de groene knop **Code › Download ZIP** op GitHub: dan krijg je een map met de naam `NLQuest-main`, en die laadt het spel niet.
-2. Kopieer die map naar de AddOns-map van het spel. Op Linux met Steam/Proton is dat:
-   ```
-   ~/.local/share/Steam/steamapps/compatdata/<nummer>/pfx/drive_c/Program Files (x86)/World of Warcraft/_classic_era_/Interface/AddOns/
-   ```
-   Voor Forever gebruik je de map van Forever in plaats van `_classic_era_`. Die map verschijnt als je Forever hebt geïnstalleerd en één keer hebt gestart.
+2. Kopieer die map naar de AddOns-map van het spel:
+   - **Windows:** `C:\Program Files (x86)\World of Warcraft\_classic_era_\Interface\AddOns\`
+   - **macOS:** `/Applications/World of Warcraft/_classic_era_/Interface/AddOns/`
+   - **Linux (Steam/Proton):**
+     ```
+     ~/.local/share/Steam/steamapps/compatdata/<nummer>/pfx/drive_c/Program Files (x86)/World of Warcraft/_classic_era_/Interface/AddOns/
+     ```
+   Voor Forever gebruik je de map van Forever in plaats van `_classic_era_`. Die map verschijnt als je Forever hebt geïnstalleerd en één keer hebt gestart. Is er nog geen map `AddOns`? Maak hem dan zelf.
 3. Controleer dat het bestand op `AddOns/SpeurtochtNL/SpeurtochtNL.toc` staat, en niet een map dieper.
 4. Open in het personagescherm **AddOns** en zet een vinkje bij **Speurtocht.NL**. Staat er "out of date"? Zet dan een vinkje bij **Load out of date AddOns**. Dat gebeurt als Blizzard het spel bijwerkt voordat de addon is bijgewerkt.
 5. Staat er nog een oude versie met de naam **NederQuest** in de AddOns-map? Verwijder die. Anders werken beide versies tegelijk.
 
-WowUp beheert alleen addons die het zelf heeft gedownload. Daarom staat Speurtocht.NL daar als "unknown". Dat is normaal.
+Heb je de addon met de hand geïnstalleerd? Dan staat Speurtocht.NL in WowUp en de CurseForge-app als "unknown", en wordt hij niet bijgewerkt. Wil je automatische updates? Verwijder dan de map en installeer de addon via de app.
 
 ---
 
@@ -46,7 +54,8 @@ Praat met iemand die een quest heeft. Het questvenster is in het Nederlands, en 
 | Een naam of Warcraft-woord herkennen | Klik erop: het wordt rood en wordt niet opgeslagen |
 | Een opgeslagen woord verwijderen | Klik er met de rechtermuisknop op |
 | Je opgeslagen woorden bekijken | Knop **Woorden** in de lezer, of `/speur vocab` |
-| De instellingen openen | `/NLQuest` of `/speur` |
+| De tekst in de lezer groter of kleiner maken | **-** en **+** in de instellingen |
+| De instellingen openen | `/nlquest` of `/speur` |
 
 ### Snel kiezen
 
@@ -88,16 +97,17 @@ Addons in WoW kunnen geen bestanden op je computer maken. Maar WoW zelf slaat de
 **Eén keer instellen** (ongeveer vijf minuten):
 
 1. **Installeer AnkiConnect in Anki.** In Anki: **Extra › Add-ons › Add-ons ophalen…**, vul de code `2055492159` in, klik op OK en start Anki opnieuw.
-2. **Start de sync één keer.** Open een terminal in de map `tools` van de addon en voer uit:
+2. **Start de sync één keer.** Je hebt Python 3 nodig (op Windows is het commando `python` in plaats van `python3`). Open een terminal in de map `tools` van de addon (`Interface/AddOns/SpeurtochtNL/tools`) en voer uit:
    ```
    python3 anki_sync.py
    ```
-   Het programma vindt je WoW-map zelf, en maakt in Anki een stapel en een kaarttype met de naam **Speurtocht.NL**. Elk woord krijgt twee kaarten: Nederlands → Engels en Engels → Nederlands, met de voorbeeldzin en de titel van de quest op de achterkant. (Gebruik de eerste keer `--one-way` als je alleen Nederlands → Engels wilt.)
-3. **Maak het automatisch.** Voer in dezelfde map uit:
+   Het programma vindt je WoW-map zelf (op de gewone plekken op Windows, macOS en Linux; anders zet je er `--path` achter, met het volledige pad naar `WTF/Account/<ACCOUNT>/SavedVariables/SpeurtochtNL.lua`), en maakt in Anki een stapel en een kaarttype met de naam **Speurtocht.NL**. Elk woord krijgt twee kaarten: Nederlands → Engels en Engels → Nederlands, met de voorbeeldzin en de titel van de quest op de achterkant. (Gebruik de eerste keer `--one-way` als je alleen Nederlands → Engels wilt.)
+3. **Maak het automatisch (Linux).** Voer in dezelfde map uit:
    ```
    bash install_autosync.sh
    ```
    Vanaf nu start de sync samen met je bureaublad en werkt hij rustig op de achtergrond.
+   Op Windows of macOS laat je in plaats daarvan `python3 anki_sync.py --watch` in een terminal draaien terwijl je speelt.
 
 **Daarna:** laat Anki openstaan terwijl je speelt. Heb je woorden opgeslagen? Klik dan in de woordenlijst op **Naar Anki** (dat doet even een `/reload`), of log gewoon uit. Een paar seconden later staan de kaarten in je stapel **Speurtocht.NL**. Was Anki dicht? Dan worden de woorden verstuurd zodra je Anki weer opent.
 
@@ -111,7 +121,7 @@ Wil je niets installeren?
 
 1. Maak in Anki één keer een notitietype met drie velden: **Extra › Notitietypen beheren › Toevoegen › Basis (en omgekeerde kaart)**, noem het `Speurtocht.NL` en hernoem de velden naar `Nederlands`, `English` en `Zin`.
 2. In het spel: `/speur vocab` › **Kopieer tekst** (alleen woorden die je nog niet eerder hebt gekopieerd). De tekst is al geselecteerd: druk op **Ctrl+C** en klik dan op **Markeer als geëxporteerd**.
-3. Plak in een teksteditor, sla op als `speurtocht.txt` en kies in Anki **Bestand › Importeren**. Kies notitietype `Speurtocht.NL`, koppel kolom 1–4 aan Nederlands, English, Zin en Labels, en zet **Bestaande notities** op *Bijwerken*.
+3. Plak in een teksteditor, sla op als `speurtocht.txt` (UTF-8) en kies in Anki **Bestand › Importeren**. Kies notitietype `Speurtocht.NL`, koppel kolom 1–4 aan Nederlands, English, Zin en Labels, en zet **Bestaande notities** op *Bijwerken*.
 
 ---
 
@@ -123,7 +133,7 @@ Open de quest en klik op **Melden** in de lezer, of typ `/speur report`. Er vers
 2. Plak hem in je browser en druk op Enter.
 3. Klik op GitHub op **Submit new issue** (je hebt een gratis GitHub-account nodig).
 
-- **Onvertaalde quest:** de melding komt in de lijst *Missing quest*, met de Engelse tekst erbij. Zo kan hij direct in de volgende ronde. Dit werkt voor elke factie, ook voor de Horde.
+- **Onvertaalde quest:** de melding komt in de lijst *Missing quest*, met de Engelse tekst erbij. Zo kan hij in een update worden vertaald. Dit is vooral voor nieuwe quests in Forever.
 - **Vertaalde quest:** je opent een melding *Translation fix* waarin de huidige Nederlandse tekst al staat. Je hoeft alleen te schrijven wat er niet klopt.
 
 De addon bewaart ook stil de Engelse tekst van elke onvertaalde quest die je opent. Wil je een hele speelsessie in één keer sturen? Log uit (of typ `/reload`) en voer dit uit:
@@ -155,29 +165,30 @@ Er zijn meer dan 4.200 quests vertaald.
 
 | Commando | Wat het doet |
 |---|---|
-| `/NLQuest` of `/speur` | Opent de instellingen |
-| `/speur reader` | Opent of sluit de lezer |
-| `/speur vocab` | Opent je opgeslagen woorden |
-| `/speur save woord` | Slaat een woord op door het te typen (met de betekenis, als de addon die kent) |
+| `/nlquest`, `/speur` of `/stnl` | Opent de instellingen |
+| `/speur reader` (of `lezer`) | Opent of sluit de lezer |
+| `/speur vocab` (of `woorden`) | Opent je opgeslagen woorden |
+| `/speur save woord` (of `bewaar`) | Slaat een woord op door het te typen (met de betekenis, als de addon die kent) |
 | `/speur save woord = betekenis` | Slaat een woord op met je eigen betekenis |
 | `/speur check` | Controleert of je op de woorden in de lezer kunt klikken |
 | `/speur export` | Opent het venster om te kopiëren en plakken (alle woorden) |
-| `/speur report` | Meldt de open quest op GitHub (ontbrekende quest of fout in de vertaling) |
+| `/speur report` (of `melden`) | Meldt de open quest op GitHub (ontbrekende quest of fout in de vertaling) |
 | `/speur capture` | Laat zien hoeveel onvertaalde quests er bewaard zijn |
 | `/speur status` | Versie, versie van het spel, en of de huidige quest vertaald is |
 | `/speur help` | Laat de commando's zien |
 
-Hoofdletters maken niet uit.
+Hoofdletters maken niet uit. Elk `/speur`-commando werkt ook met `/nlquest`.
 
 ---
 
 ## 7. Problemen oplossen
 
+- **De addon staat niet in de lijst met AddOns:** de map moet precies `SpeurtochtNL` heten, met `SpeurtochtNL.toc` direct erin. Een map met de naam `NLQuest-main` (van de groene knop **Code** op GitHub) laadt niet. Download dan `SpeurtochtNL.zip` uit deel 1.
 - **Er is niets in het Nederlands:** typ `/speur status`. Je ziet dan het quest-ID en of de quest vertaald is. Controleer ook of **Speurtocht.NL aan** is aangevinkt in de instellingen.
 - **Er verschijnt een Lua-foutmelding:** typ `/console scriptErrors 1`, doe hetzelfde nog een keer en stuur een screenshot van de hele foutmelding.
-- **Klikken op woorden slaat ze niet op:** gebruik versie 0.1.1 of nieuwer. Klik op woorden in de **lezer**, niet in het questvenster zelf (op de tekst in het questvenster kun je niet klikken). Typ `/speur check` en stuur de regel die je dan ziet. Je kunt een woord altijd opslaan door `/speur save woord` te typen.
+- **Klikken op woorden slaat ze niet op:** klik op woorden in de **lezer**, niet in het questvenster zelf (op de tekst in het questvenster kun je niet klikken). Typ `/speur check` en stuur de regel die je dan ziet. Je kunt een woord altijd opslaan door `/speur save woord` te typen.
 - **De lezer staat buiten het scherm:** open de instellingen en klik op **Lezer terugzetten**.
-- **Woorden komen niet in Anki:** controleer of Anki open is en AnkiConnect is geïnstalleerd. Voer dan `python3 anki_sync.py` uit in de map `tools` om te zien wat er gebeurt. Logboek van de sync op de achtergrond: `journalctl --user -u speurtocht-anki`.
+- **Woorden komen niet in Anki:** controleer of Anki open is en AnkiConnect is geïnstalleerd. Voer dan `python3 anki_sync.py` uit in de map `tools` om te zien wat er gebeurt. Logboek van de sync op de achtergrond (Linux): `journalctl --user -u speurtocht-anki`.
 
 ---
 
@@ -190,15 +201,22 @@ Hoofdletters maken niet uit.
 | `Display.lua` | Tekst vervangen in het questvenster en het questlogboek, NLQuest-knop, Alt om te spieken |
 | `Reader.lua` | De lezer naast het questvenster |
 | `Vocab.lua` | Woorden opslaan, woordenlijst, Anki-export |
+| `Report.lua` | Het venster **Melden**: maakt de link voor een GitHub-melding |
 | `Capture.lua` | Bewaart onvertaalde en gewijzigde quests |
 | `Options.lua` | Instellingenvenster en chatcommando's |
 | `Data/*.lua` | Vertalingen, één bestand per ronde |
-| `docs/STYLE.md` | De vertaalregels voor elke ronde |
+| `batches/*.json` | De bron van elke vertaalde ronde; `Data/Batch_*.lua` wordt daaruit gemaakt |
+| `docs/STYLE.md`, `docs/WORKFLOW.md` | De vertaalregels voor elke ronde, en hoe een rondebestand eruitziet |
+| `tools/next_batch.py`, `tools/import_batch.py` | Haalt de Engelse tekst van de volgende ronde op; controleert een vertaalde ronde en maakt er addongegevens van |
+| `tools/automerge.py`, `tools/sync_batch.py` | De wachtrij (`.github/workflows/batch-automerge.yml`) die ingestuurde rondes samenvoegt |
 | `tools/extract_vanilla_quests.py` | Engelse brontekst uit de VMaNGOS-database |
 | `tools/build_manifest.py` | Verdeelt quests over de rondes (vindt kerkerquests aan de hand van waar hun doelen verschijnen) |
 | `tools/anki_sync.py`, `tools/install_autosync.sh` | Stuurt opgeslagen woorden naar Anki via AnkiConnect, eventueel op de achtergrond |
 | `tools/build_lexicon.py` | Maakt `Data/Namen.lua` en controleert of elk Nederlands woord een betekenis heeft |
 | `Data/Termen.lua` | Warcraft-fantasiewoorden met uitleg |
+| `.pkgmeta`, `.github/workflows/curseforge.yml` | Publiceren op CurseForge met de BigWigs-packager: Actions › **Publish to CurseForge** › Run workflow |
+| `Media/icon.tga`, `docs/logo.png` | Het pictogram van de addon in het spel (64×64) en het logo |
+| `tools/package.py` | Maakt `SpeurtochtNL.zip` voor spelers; `.github/workflows/release.yml` zet hem online na elke update |
 | `tools/test_harness.lua` | Offline test in een nagebootste WoW-omgeving: `lua5.1 tools/test_harness.lua` |
 
 Engelse brontekst: VMaNGOS-wereld-database (github.com/brotalnia/database). Speurtocht.NL is een onafhankelijk fanproject en is niet verbonden aan Blizzard Entertainment.
