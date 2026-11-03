@@ -59,6 +59,7 @@ Data\Batch_107_Valley_Of_Trials.lua
 Data\Batch_109_Tirisfal_Glades.lua
 Data\Batch_110_Tirisfal_Glades.lua
 Data\Batch_111_Mulgore.lua
+Data\Batch_112_Orgrimmar.lua
 
 Display.lua
 Reader.lua
