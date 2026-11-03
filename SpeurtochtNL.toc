@@ -116,6 +116,7 @@ Data\Batch_137_Arathi_Basin.lua
 Data\Batch_67_Western_Plaguelands.lua
 Data\Batch_138_Desolace.lua
 Data\Batch_68_Western_Plaguelands.lua
+Data\Batch_139_Arathi_Highlands.lua
 
 Display.lua
 Reader.lua
