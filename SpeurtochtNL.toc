@@ -94,6 +94,7 @@ Data\Batch_127_The_Barrens.lua
 Data\Batch_55_Tanaris.lua
 Data\Batch_56_Searing_Gorge.lua
 Data\Batch_128_Silverpine_Forest.lua
+Data\Batch_57_Un_Goro_Crater.lua
 
 Display.lua
 Reader.lua
