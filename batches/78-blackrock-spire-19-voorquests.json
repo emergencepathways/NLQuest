@@ -1,0 +1,1737 @@
+{
+  "quests": {
+    "8995": {
+      "t": "Mea Culpa, Lord Valthalak",
+      "d": "Alles is nu klaar, $N.$B$BToen Lord Valthalak nog leefde, woonde hij in de ruimte die nu de kamer van The Beast is. Ga daarheen en gebruik de Brazier of Beckoning om Lord Valthalak op te roepen. Hij krijgt daardoor weer een lichaam, dus je zult hem opnieuw moeten doden. Ik zou eerst The Beast uitschakelen. En neem genoeg vrienden mee om het bovenste deel van Blackrock Spire te overleven.$B$BAls je Valthalak hebt verslagen, gebruik je het amulet op zijn lijk. Nu zijn geest weer één geheel is, wil hij waarschijnlijk ook zijn amulet terug.$B$BVeel succes!",
+      "o": "Gebruik de Brazier of Beckoning om Lord Valthalak op te roepen. Versla hem en gebruik Lord Valthalak's Amulet op het lijk. Breng daarna Lord Valthalak's Amulet terug naar de Spirit of Lord Valthalak.",
+      "p": "$C, hoe durf je mijn rust te verstoren!",
+      "c": "Wat een geluk voor jou dat ik weet dat je niet bij de oorspronkelijke groep hoorde die dit van me heeft gestolen.$B$BIk neem nu terug wat van mij is, sterveling! Geef me het amulet!",
+      "g": [
+        [
+          "op te roepen",
+          "to summon (oproepen)"
+        ],
+        [
+          "lichaam",
+          "body"
+        ],
+        [
+          "uitschakelen",
+          "to take out, to eliminate"
+        ],
+        [
+          "bovenste",
+          "upper"
+        ],
+        [
+          "overleven",
+          "to survive"
+        ],
+        [
+          "verslagen",
+          "defeated (verslaan)"
+        ],
+        [
+          "lijk",
+          "corpse"
+        ],
+        [
+          "geest",
+          "spirit, ghost"
+        ],
+        [
+          "geheel",
+          "whole"
+        ],
+        [
+          "durf",
+          "dare (durven)"
+        ],
+        [
+          "verstoren",
+          "to disturb"
+        ],
+        [
+          "oorspronkelijke",
+          "original"
+        ],
+        [
+          "sterveling",
+          "mortal"
+        ]
+      ]
+    },
+    "619": {
+      "t": "Negolash lokken",
+      "p": "Dit is een verlaten reddingsboot. Op de zijkant staan in gekraste, verbleekte verf de woorden:$B$B\"Smotts' Revenge\"",
+      "c": "Je stapelt eten en drinken op het vlot...",
+      "g": [
+        [
+          "lokken",
+          "to lure, to entice"
+        ],
+        [
+          "verlaten",
+          "abandoned"
+        ],
+        [
+          "reddingsboot",
+          "lifeboat"
+        ],
+        [
+          "zijkant",
+          "side"
+        ],
+        [
+          "gekraste",
+          "scratched (krassen)"
+        ],
+        [
+          "verbleekte",
+          "faded (verbleken)"
+        ],
+        [
+          "verf",
+          "paint"
+        ],
+        [
+          "stapelt",
+          "pile, stack (stapelen)"
+        ],
+        [
+          "vlot",
+          "raft"
+        ]
+      ]
+    },
+    "7488": {
+      "t": "Het web van Lethtendris",
+      "d": "De magiër Lethtendris is een gemene bloedelf. Haar wreedheid is net zo groot als haar verdraaide verslaving aan magie. Ze is naar Dire Maul gevlucht. Ze heeft een apparaat gemaakt: een web om de magische energie van die plek te vangen. We vrezen dat ze onze wereld onherstelbare schade zal toebrengen als niemand haar tegenhoudt!$B$BHoud haar tegen, $N. Zoek haar en haal haar web terug. Ze is waarschijnlijk bij de saters in Warpwood Quarter van Dire Maul. Breng het web naar mij, zodat de kracht ervan veilig kan terugkeren naar de wildernis...",
+      "o": "Breng Lethtendris' Web naar Latronicus Moonspear in Feathermoon Stronghold in Feralas.",
+      "p": "Heb je het web, $N? De geconcentreerde magische energie ervan moet worden verspreid!",
+      "c": "Je hebt het web teruggehaald! Goed gedaan, $N! Lethtendris is, net als veel elfen van haar soort, blind voor de gevaren die misbruik van magie voor onze wereld kan opleveren. Ze denken dat ze meesters van de magie zijn. Ze beseffen niet dat ze slaven van hun eigen verslaving zijn. Haar dood maakt me verdrietig, maar hij was nodig.$B$BDank je, $N. Ik laat de energie in het web veilig over een groot gebied vrij. Daarna vernietig ik het, om toekomstig magisch misbruik te voorkomen.",
+      "g": [
+        [
+          "gemene",
+          "vicious, nasty (gemeen)"
+        ],
+        [
+          "wreedheid",
+          "brutality, cruelty"
+        ],
+        [
+          "verdraaide",
+          "twisted (verdraaien)"
+        ],
+        [
+          "verslaving",
+          "addiction"
+        ],
+        [
+          "vrezen",
+          "to fear"
+        ],
+        [
+          "onherstelbare",
+          "irreparable"
+        ],
+        [
+          "schade",
+          "damage"
+        ],
+        [
+          "toebrengen",
+          "to inflict"
+        ],
+        [
+          "tegenhoudt",
+          "stops (tegenhouden)"
+        ],
+        [
+          "saters",
+          "satyrs (sater)"
+        ],
+        [
+          "geconcentreerde",
+          "concentrated"
+        ],
+        [
+          "verspreid",
+          "dispersed, spread out (verspreiden)"
+        ],
+        [
+          "misbruik",
+          "abuse, misuse"
+        ],
+        [
+          "beseffen",
+          "to realize"
+        ],
+        [
+          "voorkomen",
+          "to prevent"
+        ]
+      ]
+    },
+    "7494": {
+      "t": "Feathermoon Stronghold",
+      "d": "$N! Je hulp is nodig in Feralas!$B$BEen vogelvrije magiër, Lethtendris, is gevlucht naar de oude elfenruïnes Eldre'thalas, die nu Dire Maul heten. Men denkt dat ze een voorwerp met gevaarlijke magische energie heeft, dat teruggehaald moet worden.$B$BLatronicus Moonspear vraagt om agenten die Dire Maul binnengaan en het voorwerp bij Lethtendris weghalen.$B$BDien de Alliance! Zoek Latronicus op in Feathermoon Stronghold in Feralas.",
+      "o": "Spreek met Latronicus Moonspear in Feathermoon Stronghold in Feralas.",
+      "c": "Gegroet, $N. Ik ben blij je te zien, maar het spijt me dat we elkaar niet onder prettigere omstandigheden ontmoeten.$B$BLuister goed, want ik heb een heel belangrijke taak voor je...",
+      "g": [
+        [
+          "vogelvrije",
+          "outlaw (vogelvrij)"
+        ],
+        [
+          "elfenruïnes",
+          "elven ruins"
+        ],
+        [
+          "voorwerp",
+          "object, item"
+        ],
+        [
+          "teruggehaald",
+          "retrieved (terughalen)"
+        ],
+        [
+          "agenten",
+          "agents"
+        ],
+        [
+          "weghalen",
+          "to take away"
+        ],
+        [
+          "dien",
+          "serve (dienen)"
+        ],
+        [
+          "gegroet",
+          "hail, greetings"
+        ],
+        [
+          "prettigere",
+          "more pleasant (prettig)"
+        ],
+        [
+          "omstandigheden",
+          "circumstances"
+        ]
+      ]
+    },
+    "7441": {
+      "t": "Pusillin en de oude Azj'Tordin",
+      "d": "Ik was maar één moment niet op mijn hoede, vreemdeling. In mijn haast om te ontsnappen uit de greep van de gevallen prins werd ik beroofd. Een uiterst gemene demon, de imp Pusillin, heeft mijn boek met bezweringen gestolen, en ook de sleutel van de eens zo grote zalen van Eldre'Thalas.$B$BDe sleutel interesseert me niet meer, want ik heb mijn onsterfelijkheid geruild voor vrijheid. Maar mijn boek met bezweringen heb ik dringend nodig.$B$BZoek de imp Pusillin en haal mijn boek terug.$B$BZoek in Warpwood Quarter van Dire Maul naar Pusillin.",
+      "o": "Reis naar Dire Maul en zoek de imp Pusillin. Overtuig Pusillin om je Azj'Tordin's Book of Incantations te geven, op welke manier dan ook.$B$BKeer terug naar Azj'Tordin bij het Lariss Pavilion in Feralas als je het Book of Incantations hebt teruggevonden.",
+      "p": "Ik heb nergens spijt van, vreemdeling. De koningin is al lang geleden gestorven. Het werk van de Shen'Dralar is bedorven door de waanzin van prins Tortheldrin. Ik zoek alleen vrijheid... Ontsnapping...",
+      "c": "Je hebt het gevonden! Een vloek over die ellendige imp. Helaas heb ik maar weinig bezittingen. Je mag kiezen uit wat ik je kan bieden.",
+      "g": [
+        [
+          "op mijn hoede",
+          "on my guard"
+        ],
+        [
+          "haast",
+          "haste, hurry"
+        ],
+        [
+          "greep",
+          "grip, grasp"
+        ],
+        [
+          "beroofd",
+          "robbed (beroven)"
+        ],
+        [
+          "uiterst",
+          "extremely, most"
+        ],
+        [
+          "bezweringen",
+          "incantations (bezwering)"
+        ],
+        [
+          "zalen",
+          "halls (zaal)"
+        ],
+        [
+          "onsterfelijkheid",
+          "immortality"
+        ],
+        [
+          "geruild",
+          "exchanged (ruilen)"
+        ],
+        [
+          "dringend",
+          "urgently"
+        ],
+        [
+          "overtuig",
+          "convince (overtuigen)"
+        ],
+        [
+          "spijt",
+          "regret"
+        ],
+        [
+          "bedorven",
+          "spoiled, marred (bederven)"
+        ],
+        [
+          "waanzin",
+          "madness"
+        ],
+        [
+          "vloek",
+          "curse"
+        ],
+        [
+          "ellendige",
+          "miserable (ellendig)"
+        ],
+        [
+          "bezittingen",
+          "possessions"
+        ]
+      ]
+    },
+    "1193": {
+      "t": "Een kapotte val",
+      "p": "Voor je ligt een grote, kapotte val. Zo te zien hebben de ogers geprobeerd de val te repareren, maar zonder succes. Naast de val ligt een haastig geschreven briefje. Vreemd genoeg staat er precies in wat er nodig is om hem te repareren: een thorium widget en wat frost oil. Als de val gerepareerd was, zou een oger die erlangs loopt erin vast kunnen komen te zitten, en zou je hem kunnen ontwijken.$b$bHet lijkt duidelijk een gelukkig toeval dat maar heel weinig ogers kunnen lezen.$b$bDuidelijk.",
+      "c": "De thorium widget glijdt moeiteloos op zijn plaats. Zo ontstaat een kanaal om de frost oil in te gieten. Als de laatste druppels olie erin zijn gegoten, klikt de val in de juiste stand.$B$BWee de onoplettende oger die toevallig langs komt lopen!",
+      "g": [
+        [
+          "val",
+          "trap"
+        ],
+        [
+          "zo te zien",
+          "from the looks of it"
+        ],
+        [
+          "haastig",
+          "hastily"
+        ],
+        [
+          "briefje",
+          "note"
+        ],
+        [
+          "vreemd genoeg",
+          "strangely enough"
+        ],
+        [
+          "ontwijken",
+          "to avoid"
+        ],
+        [
+          "toeval",
+          "coincidence, chance"
+        ],
+        [
+          "glijdt",
+          "slides (glijden)"
+        ],
+        [
+          "moeiteloos",
+          "effortlessly"
+        ],
+        [
+          "kanaal",
+          "channel, conduit"
+        ],
+        [
+          "gieten",
+          "to pour"
+        ],
+        [
+          "druppels",
+          "drops (druppel)"
+        ],
+        [
+          "wee",
+          "woe (to)"
+        ],
+        [
+          "onoplettende",
+          "unwary, careless (onoplettend)"
+        ]
+      ]
+    },
+    "1318": {
+      "t": "Onafgemaakte zaken van de Gordok",
+      "d": "Nu jij koning, dus misschien jij haalt kostbaar Gordok-artefact terug van enge elf die zich prins noemt! Koning voor jou faalde, net als alle andere koningen sinds Tortheldrin - de enge elf - het stal van Gordok-koning van vroeger!$B$BArtefact heet Gauntlet of Gordok Might. Verhalen van vroeger zeggen: alleen de ene echte koning van de Gordok kan het terugkrijgen. Verhaal van vroeger zegt ook: enge elf is nog steeds hier in de buurt - jij vindt het en het wordt machtige handschoen die jij voor altijd draagt! Ja, ik laat zien!",
+      "o": "Vind de Gauntlet of Gordok Might en breng hem terug naar Captain Kromcrush in Dire Maul.$B$BVolgens Kromcrush zegt het \"verhaal van vroeger\" dat Tortheldrin - een \"enge\" elf die zichzelf een prins noemde - hem van een van de Gordok-koningen heeft gestolen.",
+      "g": [
+        [
+          "onafgemaakte",
+          "unfinished (onafgemaakt)"
+        ],
+        [
+          "zaken",
+          "business, matters (zaak)"
+        ],
+        [
+          "kostbaar",
+          "precious, prized"
+        ],
+        [
+          "artefact",
+          "artifact"
+        ],
+        [
+          "enge",
+          "creepy (eng)"
+        ],
+        [
+          "faalde",
+          "failed (falen)"
+        ],
+        [
+          "van vroeger",
+          "from the old days, old timey"
+        ],
+        [
+          "machtige",
+          "mighty (machtig)"
+        ],
+        [
+          "handschoen",
+          "gauntlet, glove"
+        ],
+        [
+          "volgens",
+          "according to"
+        ]
+      ]
+    },
+    "5518": {
+      "t": "Het Gordok-ogerpak",
+      "d": "Als je tegen de koning van deze rotplek gaat vechten - en ik denk dat je dat wel gaat doen - dan moet je langs Captain Kromcrush. Je kunt langs hem komen door hem te doden, zeker. Maar misschien wil je hem liever in leven laten.$B$BHoe, vraag je? Sinds ik hier ben, denk ik dat ik weet hoe ik een ogerpak maak dat net lang genoeg werkt om deze sukkels voor de gek te houden. Het enige probleem is de stevigheid - hooguit tien minuten. Breng me wat ik nodig heb, dan maak ik er een voor je. Ik ga nergens heen...",
+      "o": "Breng 4 Bolts of Runecloth, 8 Rugged Leather, 2 Rune Threads en Ogre Tannin naar Knot Thimblejack. Hij zit nu vastgeketend in de Gordok-vleugel van Dire Maul.",
+      "p": "De Ogre Tannin is waarschijnlijk het moeilijkste om te vinden van alles wat ik voor het pak nodig heb. Ik denk dat ze boven wat hebben? Dat is moeilijk te zeggen, want met deze bal en ketting kan ik me niet zo makkelijk bewegen...$B$BHoe dan ook, breng me wat ik nodig heb, dan maak ik snel een ogerpak voor je. Daarmee denkt Captain Kromcrush dat je een van zijn mannen bent.",
+      "c": "Ja, dit gaat werken. Hier even schuiven, daar even instoppen... heh - dit komt helemaal goed! <Er verschijnt een brede glimlach op het gezicht van de geketende goblin.>$B$BAlsjeblieft, je bent er klaar voor. Onthoud: dit is niet het stevigst gemaakte voorwerp ter wereld. Je kunt het tien minuten gebruiken, daarna valt het uit elkaar en hou je niemand meer voor de gek! Trek het aan vlak voordat je naar hem toe gaat. En onthoud... hij denkt alleen dat JIJ een bondgenoot bent - niet je groepsgenoten!",
+      "g": [
+        [
+          "ogerpak",
+          "ogre suit"
+        ],
+        [
+          "rotplek",
+          "dump, awful place"
+        ],
+        [
+          "sukkels",
+          "dimwits, bozos (sukkel)"
+        ],
+        [
+          "voor de gek houden",
+          "to fool"
+        ],
+        [
+          "stevigheid",
+          "sturdiness, stability"
+        ],
+        [
+          "hooguit",
+          "at most, tops"
+        ],
+        [
+          "vastgeketend",
+          "chained up (vastketenen)"
+        ],
+        [
+          "vleugel",
+          "wing (of a building)"
+        ],
+        [
+          "ketting",
+          "chain"
+        ],
+        [
+          "schuiven",
+          "to slide, to shift"
+        ],
+        [
+          "instoppen",
+          "to tuck in"
+        ],
+        [
+          "glimlach",
+          "smile"
+        ],
+        [
+          "geketende",
+          "chained (geketend)"
+        ],
+        [
+          "bondgenoot",
+          "ally"
+        ],
+        [
+          "groepsgenoten",
+          "group mates (groepsgenoot)"
+        ]
+      ]
+    },
+    "5519": {
+      "t": "Het Gordok-ogerpak",
+      "p": "Heb je nog een pak nodig? Nou, het ziet ernaar uit dat ik voorlopig nergens heen ga. Breng me dezelfde dingen als de vorige keer, dan maak ik nog een ogerpak voor je.",
+      "c": "Alsjeblieft, $N - trek dit ding aan, dan heb je tien minuten om te doen wat je wilt. Veel succes!$B$BO, en als je toevallig een sleutel vindt om me hier uit te halen, LAAT HET ME VOORAL WETEN!!!",
+      "g": [
+        [
+          "pak",
+          "suit"
+        ],
+        [
+          "het ziet ernaar uit",
+          "it seems, it looks like"
+        ],
+        [
+          "voorlopig",
+          "for now, anytime soon"
+        ],
+        [
+          "ogerpak",
+          "ogre suit"
+        ],
+        [
+          "trek",
+          "put on (aantrekken)"
+        ],
+        [
+          "toevallig",
+          "by chance"
+        ],
+        [
+          "vooral",
+          "by all means, especially"
+        ]
+      ]
+    },
+    "5525": {
+      "t": "Bevrijd Knot!",
+      "p": "Hij heet de Gordok Shackle Key - nou ja, zo blijven deze \"dikzakken\" hem in elk geval noemen. Ik denk dat elke oger hem zou kunnen hebben, maar ik weet niet of bepaalde ogers hem hebben. Misschien hebben de bewakers meer kans om er een te hebben...$B$BWaar heb ik het over - je hebt hem al, hè?! Is dat 'm daar??!",
+      "c": "Jij - op nummer één. Alle anderen - op nummer twee of lager. O, dank je dat je me hebt bevrijd!$B$BIk wist dat ik voor meer bestemd was dan alleen een voorgerecht voor een of andere oger!",
+      "g": [
+        [
+          "bevrijd",
+          "free (bevrijden)"
+        ],
+        [
+          "dikzakken",
+          "fatsos (dikzak)"
+        ],
+        [
+          "in elk geval",
+          "at any rate"
+        ],
+        [
+          "bepaalde",
+          "certain, specific (bepaald)"
+        ],
+        [
+          "bewakers",
+          "guards (bewaker)"
+        ],
+        [
+          "bestemd",
+          "destined"
+        ],
+        [
+          "voorgerecht",
+          "appetizer, starter"
+        ]
+      ]
+    },
+    "5528": {
+      "t": "De Gordok-smaaktest",
+      "c": "Jij nu de grote baas, dus jij krijgt gratis proefje van mijn betere brouwsels! Deze drankjes maken je sterker EN geven je een lekker roesje! Dit zijn de goede, baas... jij probeert en zegt het zelf tegen Kreeg!",
+      "g": [
+        [
+          "smaaktest",
+          "taste test"
+        ],
+        [
+          "baas",
+          "boss, chief"
+        ],
+        [
+          "proefje",
+          "sample, taste"
+        ],
+        [
+          "brouwsels",
+          "brews (brouwsel)"
+        ],
+        [
+          "drankjes",
+          "drinks (drankje)"
+        ],
+        [
+          "roesje",
+          "buzz, light intoxication (roes)"
+        ]
+      ]
+    },
+    "7429": {
+      "t": "Bevrijd Knot!",
+      "p": "Hij heet de Gordok Shackle Key - nou ja, zo blijven deze \"dikzakken\" hem in elk geval noemen. Ik denk dat elke oger hem zou kunnen hebben, maar ik weet niet of bepaalde ogers hem hebben. Misschien hebben de bewakers meer kans om er een te hebben...$b$bWaar heb ik het over - je hebt hem al, hè?! Is dat 'm daar??!",
+      "c": "O, dank je dat je me hebt bevrijd! Jij - op nummer één. Alle anderen - op nummer twee of lager.$b$bIk wist dat ik voor meer bestemd was dan alleen een voorgerecht voor een of andere oger!",
+      "g": [
+        [
+          "bevrijd",
+          "free (bevrijden)"
+        ],
+        [
+          "dikzakken",
+          "fatsos (dikzak)"
+        ],
+        [
+          "in elk geval",
+          "at any rate"
+        ],
+        [
+          "bepaalde",
+          "certain, specific (bepaald)"
+        ],
+        [
+          "bewakers",
+          "guards (bewaker)"
+        ],
+        [
+          "bestemd",
+          "destined"
+        ],
+        [
+          "voorgerecht",
+          "appetizer, starter"
+        ]
+      ]
+    },
+    "7461": {
+      "t": "De waanzin vanbinnen",
+      "d": "Heb je genoeg gehoord? Ben je een $gman:vrouw; van de daad?$B$BAan deze waanzin moet een einde komen. Het tijdperk van de onsterfelijken is al lang voorbij. Vernietig de bewakers rond de pylonen om het krachtveld te laten zakken. Als dat gedaan is, vernietig je Immol'thar. Als de kracht van de prins zo sterk is afgenomen, val je hem aan en maak je een einde aan hem. Breng de geesten van deze stad tot rust, avonturier.",
+      "o": "Je moet de bewakers vernietigen rond de 5 Pylons die de Prison of Immol'thar van energie voorzien. Zodra de Pylons zijn uitgeschakeld, is het krachtveld rond Immol'thar verdwenen.$B$BGa de Prison of Immol'thar binnen en vernietig de gemene demon in het hart ervan. Ga ten slotte de confrontatie aan met Prince Tortheldrin in Athenaeum.$B$BKeer terug naar de Shen'dralar Ancient op de binnenplaats als je deze opdracht hebt voltooid.",
+      "p": "Wees op je hoede, avonturier. De prins is... overtuigend.",
+      "c": "We danken je, held.",
+      "g": [
+        [
+          "waanzin",
+          "madness"
+        ],
+        [
+          "vanbinnen",
+          "within, inside"
+        ],
+        [
+          "van de daad",
+          "of action"
+        ],
+        [
+          "tijdperk",
+          "age, era"
+        ],
+        [
+          "onsterfelijken",
+          "immortals (onsterfelijke)"
+        ],
+        [
+          "pylonen",
+          "pylons (pyloon)"
+        ],
+        [
+          "krachtveld",
+          "force field"
+        ],
+        [
+          "afgenomen",
+          "decreased (afnemen)"
+        ],
+        [
+          "tot rust",
+          "to rest"
+        ],
+        [
+          "voorzien",
+          "to supply, to provide"
+        ],
+        [
+          "uitgeschakeld",
+          "switched off (uitschakelen)"
+        ],
+        [
+          "confrontatie",
+          "confrontation"
+        ],
+        [
+          "binnenplaats",
+          "courtyard"
+        ],
+        [
+          "voltooid",
+          "completed (voltooien)"
+        ],
+        [
+          "overtuigend",
+          "persuasive"
+        ]
+      ]
+    },
+    "7462": {
+      "t": "De schat van de Shen'dralar",
+      "d": "In de bibliotheek, het Athenaeum, vind je een oude kist die onder de trap verstopt is. Neem eruit wat je wilt.",
+      "o": "Keer terug naar het Athenaeum en vind de Treasure of the Shen'dralar. Haal je beloning op!",
+      "c": "Je opent de kist en vindt...",
+      "g": [
+        [
+          "schat",
+          "treasure"
+        ],
+        [
+          "bibliotheek",
+          "library"
+        ],
+        [
+          "kist",
+          "chest"
+        ],
+        [
+          "trap",
+          "stairway, stairs"
+        ],
+        [
+          "verstopt",
+          "hidden (verstoppen)"
+        ],
+        [
+          "beloning",
+          "reward"
+        ]
+      ]
+    },
+    "7463": {
+      "t": "Arcane verfrissing",
+      "d": "Een $r-magiër! Wat geweldig. Ik heb al... o, hoe lang is het nu? 500 jaar geen van jouw soort gezien!$B$BIk heb iets wat je dorst zal lessen, maar eerst moet je een taak voor me doen.$B$B<Lydros grinnikt.>$B$BEr is een afwijking in Eldre'Thalas. Een waterelementaal heeft zich in de oostvleugel gevestigd. Zijn aanwezigheid moet worden gecatalogiseerd!$B$BGa naar Warpwood Quarter en haal een deel van de elementaire essentie van de Hydrospawn. Breng het naar mij terug, dan leer ik je een nuttige kleine spreuk.",
+      "o": "Reis naar Warpwood Quarter van Dire Maul en dood de waterelementaal Hydrospawn. Keer met de Hydrospawn Essence terug naar Lorekeeper Lydros in het Athenaeum.",
+      "p": "Ja? Ken ik jou?",
+      "c": "Geweldig! Wie ben je ook alweer? O, het maakt niet uit. Wat moest ik je geven? Hm... nou, je bent een magiër, misschien heb je hier wat aan.",
+      "g": [
+        [
+          "verfrissing",
+          "refreshment"
+        ],
+        [
+          "dorst",
+          "thirst"
+        ],
+        [
+          "lessen",
+          "to quench"
+        ],
+        [
+          "grinnikt",
+          "snickers, chuckles (grinniken)"
+        ],
+        [
+          "afwijking",
+          "anomaly"
+        ],
+        [
+          "waterelementaal",
+          "water elemental"
+        ],
+        [
+          "gevestigd",
+          "settled (zich vestigen)"
+        ],
+        [
+          "aanwezigheid",
+          "presence"
+        ],
+        [
+          "gecatalogiseerd",
+          "catalogued (catalogiseren)"
+        ],
+        [
+          "elementaire",
+          "elemental"
+        ],
+        [
+          "essentie",
+          "essence"
+        ],
+        [
+          "spreuk",
+          "spell, cantrip"
+        ],
+        [
+          "ook alweer",
+          "again (asking to be reminded)"
+        ]
+      ]
+    },
+    "7482": {
+      "t": "Elfenlegenden",
+      "d": "Een paar jaar geleden vluchtte een eenzame elfenmeester, Kariel Winthalus, weg uit zijn verwoeste thuisland. Hij nam een aantal oude elfenartefacten mee.$B$BOnze zoektocht naar deze verdwenen meester bracht ons van de ruïnes van Quel'Thalas, door de Burning Steppes, over de uitgestrekte zee, naar Feralas.$B$BWe vermoeden dat de elf een toevlucht zocht in de zalen van Eldre'Thalas (wat nu bekendstaat als Dire Maul).$B$BJe moet hem vinden, avonturier. Levend of dood: de kennis die hij bij zich had, moet worden teruggevonden!",
+      "o": "Zoek in Dire Maul naar Kariel Winthalus. Breng verslag uit bij Scholar Runethorn in Feathermoon over alles wat je vindt.",
+      "p": "Mijn collega, de taurenwijze Korolusk, zoekt bondgenoten voor deze taak.",
+      "c": "Jammer... een tragedie. De voorwerpen zijn verloren, zeg je? Geen spoor van hem, hè?",
+      "o1": "Meester Kariel Winthalus gevonden",
+      "g": [
+        [
+          "eenzame",
+          "lone (eenzaam)"
+        ],
+        [
+          "elfenmeester",
+          "elven master"
+        ],
+        [
+          "verwoeste",
+          "devastated (verwoesten)"
+        ],
+        [
+          "thuisland",
+          "homeland"
+        ],
+        [
+          "elfenartefacten",
+          "elven artifacts"
+        ],
+        [
+          "zoektocht",
+          "search, quest"
+        ],
+        [
+          "uitgestrekte",
+          "vast, wide (uitgestrekt)"
+        ],
+        [
+          "vermoeden",
+          "to suspect"
+        ],
+        [
+          "toevlucht",
+          "refuge, sanctuary"
+        ],
+        [
+          "bekendstaat",
+          "is known (bekendstaan)"
+        ],
+        [
+          "kennis",
+          "knowledge"
+        ],
+        [
+          "verslag uitbrengen",
+          "to report"
+        ],
+        [
+          "taurenwijze",
+          "tauren sage"
+        ],
+        [
+          "tragedie",
+          "tragedy"
+        ],
+        [
+          "spoor",
+          "trace"
+        ]
+      ]
+    },
+    "7483": {
+      "t": "Libram van snelheid",
+      "d": "Meester Winthalus is het Libram of Rapidity in de oostvleugel kwijtgeraakt. Met het Libram kun je een kleine snelheidsspreuk op je uitrusting leggen. Eigenlijk maar goocheltrucjes...$B$BHoe dan ook, als je interesse hebt, moet je het Libram brengen, samen met wat eenvoudige reagentia.$B$BHm... ik geloof dat er ook blood of heroes, een pristine black diamond en large brilliant shards nodig zijn. Ik kan me vergissen!$B$B<Lydros haalt zijn schouders op.>",
+      "o": "Breng een Libram of Rapidity, 1 Pristine Black Diamond, 2 Large Brilliant Shards en 2 Blood of Heroes naar Lorekeeper Lydros in Dire Maul om een Arcanum of Rapidity te krijgen.",
+      "p": "Wat is er? Ik moet nog veel catalogiseren!",
+      "c": "<Lydros gaapt.>$B$BZoals beloofd: het Arcanum of Rapidity. Geef het niet allemaal op één plek uit.$B$B<Lydros grinnikt.>",
+      "g": [
+        [
+          "kwijtgeraakt",
+          "lost (kwijtraken)"
+        ],
+        [
+          "snelheidsspreuk",
+          "haste spell"
+        ],
+        [
+          "uitrusting",
+          "equipment"
+        ],
+        [
+          "goocheltrucjes",
+          "parlor tricks (goocheltrucje)"
+        ],
+        [
+          "eenvoudige",
+          "basic, simple (eenvoudig)"
+        ],
+        [
+          "reagentia",
+          "reagents"
+        ],
+        [
+          "vergissen",
+          "to be mistaken"
+        ],
+        [
+          "haalt zijn schouders op",
+          "shrugs (de schouders ophalen)"
+        ],
+        [
+          "catalogiseren",
+          "to catalogue"
+        ],
+        [
+          "gaapt",
+          "yawns (gapen)"
+        ],
+        [
+          "beloofd",
+          "promised (beloven)"
+        ]
+      ]
+    },
+    "7484": {
+      "t": "Libram van focus",
+      "d": "Dit libram wekte bijna de interesse van een van de magische huisdieren van een jongere Lorekeeper. Arm ding, het was pas een paar weken oud.$B$BWie van jullie meer aanleg voor magie heeft, vindt dit voorwerp misschien interessant.$B$BHet Libram of Focus is in deze vleugel verloren gegaan. Ik kan alleen aannemen dat een van de Highborne-geesten het in bezit heeft.$B$BBreng het Libram, samen met wat large brilliant shards, skin of shadow en een pristine black diamond, dan tover ik het Arcanum tevoorschijn.",
+      "o": "Breng een Libram of Focus, 1 Pristine Black Diamond, 4 Large Brilliant Shards en 2 Skin of Shadow naar Lorekeeper Lydros in Dire Maul om een Arcanum of Focus te krijgen.",
+      "p": "Jij weer? Wat zou je nu nog kunnen willen?",
+      "c": "Doe jezelf geen pijn als je de betovering aanbrengt, $R.",
+      "g": [
+        [
+          "wekte",
+          "aroused, awoke (wekken)"
+        ],
+        [
+          "huisdieren",
+          "pets, familiars (huisdier)"
+        ],
+        [
+          "aanleg",
+          "aptitude, talent"
+        ],
+        [
+          "verloren gegaan",
+          "lost (verloren gaan)"
+        ],
+        [
+          "aannemen",
+          "to assume"
+        ],
+        [
+          "in bezit",
+          "in possession"
+        ],
+        [
+          "tover",
+          "conjure (toveren)"
+        ],
+        [
+          "tevoorschijn",
+          "forth, into view"
+        ],
+        [
+          "betovering",
+          "enchantment"
+        ],
+        [
+          "aanbrengt",
+          "applies (aanbrengen)"
+        ]
+      ]
+    },
+    "7485": {
+      "t": "Libram van bescherming",
+      "d": "Hij huilde als een baby toen hij dit libram kwijtraakte. Let wel, ik heb zelf ook om teksten gehuild - er is geen groter verlies dan het verlies van kennis en geschiedenis - maar huilen om deze bijna nutteloze warboel van bezweringen? Belachelijk! Ik ging er zelfs door denken dat de prins hem een plezier deed toen hij het vlees van zijn botten stroopte.$B$BBreng het Libram, samen met een pristine black diamond, large brilliant shards en een frayed abomination stitching, dan maak ik het Arcanum opnieuw.$B$BO, en kijk in de noordvleugel.",
+      "o": "Breng een Libram of Protection, 1 Pristine Black Diamond, 2 Large Brilliant Shards en 1 Frayed Abomination Stitching naar Lorekeeper Lydros in Dire Maul om een Arcanum of Protection te krijgen.",
+      "p": "Mijn geduld bespaart je lijden.",
+      "c": "Ja, ja... Rustig maar. Zoals beloofd, hier is je Arcanum.",
+      "g": [
+        [
+          "bescherming",
+          "protection"
+        ],
+        [
+          "kwijtraakte",
+          "lost (kwijtraken)"
+        ],
+        [
+          "let wel",
+          "mind you"
+        ],
+        [
+          "verlies",
+          "loss"
+        ],
+        [
+          "nutteloze",
+          "useless (nutteloos)"
+        ],
+        [
+          "warboel",
+          "jumble, mess"
+        ],
+        [
+          "bezweringen",
+          "incantations (bezwering)"
+        ],
+        [
+          "belachelijk",
+          "preposterous, ridiculous"
+        ],
+        [
+          "een plezier deed",
+          "did a favour (een plezier doen)"
+        ],
+        [
+          "stroopte",
+          "flayed, stripped (stropen)"
+        ],
+        [
+          "noordvleugel",
+          "north wing"
+        ],
+        [
+          "geduld",
+          "patience"
+        ],
+        [
+          "bespaart",
+          "spares (besparen)"
+        ],
+        [
+          "lijden",
+          "suffering"
+        ]
+      ]
+    },
+    "7498": {
+      "t": "Garona: een studie over sluipen en verraad",
+      "d": "Op het boek staat het teken van het Athenaeum.",
+      "o": "Breng het boek terug naar de rechtmatige eigenaren.",
+      "p": "Je hebt een boek teruggevonden!",
+      "c": "Uitstekend werk, $R. Als je nog meer boeken vindt, aarzel dan niet om ze bij ons terug te brengen.$B$BNa verloop van tijd veranderen we de beloningen voor het terugbrengen van verdwenen boeken weleens, en soms voegen we nieuwe toe.",
+      "g": [
+        [
+          "sluipen",
+          "stealth, sneaking"
+        ],
+        [
+          "verraad",
+          "treachery, betrayal"
+        ],
+        [
+          "teken",
+          "mark, sign"
+        ],
+        [
+          "rechtmatige",
+          "rightful (rechtmatig)"
+        ],
+        [
+          "eigenaren",
+          "owners (eigenaar)"
+        ],
+        [
+          "aarzel",
+          "hesitate (aarzelen)"
+        ],
+        [
+          "na verloop van tijd",
+          "as time passes"
+        ],
+        [
+          "weleens",
+          "sometimes, now and then"
+        ]
+      ]
+    },
+    "7499": {
+      "t": "Codex van verdediging",
+      "d": "Op het boek staat het teken van het Athenaeum.",
+      "o": "Breng het boek terug naar de rechtmatige eigenaren.",
+      "p": "Je hebt een boek teruggevonden!",
+      "c": "Uitstekend werk, $R. Als je nog meer boeken vindt, aarzel dan niet om ze bij ons terug te brengen.$B$BNa verloop van tijd veranderen we de beloningen voor het terugbrengen van verdwenen boeken weleens, en soms voegen we nieuwe toe.",
+      "g": [
+        [
+          "verdediging",
+          "defense"
+        ],
+        [
+          "teken",
+          "mark, sign"
+        ],
+        [
+          "rechtmatige",
+          "rightful (rechtmatig)"
+        ],
+        [
+          "eigenaren",
+          "owners (eigenaar)"
+        ],
+        [
+          "aarzel",
+          "hesitate (aarzelen)"
+        ],
+        [
+          "na verloop van tijd",
+          "as time passes"
+        ],
+        [
+          "weleens",
+          "sometimes, now and then"
+        ]
+      ]
+    },
+    "7500": {
+      "t": "Het kookboek van de arcanist",
+      "d": "Op het boek staat het teken van het Athenaeum.",
+      "o": "Breng het boek terug naar de rechtmatige eigenaren.",
+      "p": "Je hebt een boek teruggevonden!",
+      "c": "Uitstekend werk, $R. Als je nog meer boeken vindt, aarzel dan niet om ze bij ons terug te brengen.$B$BNa verloop van tijd veranderen we de beloningen voor het terugbrengen van verdwenen boeken weleens, en soms voegen we nieuwe toe.",
+      "g": [
+        [
+          "kookboek",
+          "cookbook"
+        ],
+        [
+          "teken",
+          "mark, sign"
+        ],
+        [
+          "rechtmatige",
+          "rightful (rechtmatig)"
+        ],
+        [
+          "eigenaren",
+          "owners (eigenaar)"
+        ],
+        [
+          "aarzel",
+          "hesitate (aarzelen)"
+        ],
+        [
+          "na verloop van tijd",
+          "as time passes"
+        ],
+        [
+          "weleens",
+          "sometimes, now and then"
+        ]
+      ]
+    },
+    "7501": {
+      "t": "Het Licht en hoe je ermee zwaait",
+      "d": "Op het boek staat het teken van het Athenaeum.",
+      "o": "Breng het boek terug naar de rechtmatige eigenaren.",
+      "p": "Je hebt een boek teruggevonden!",
+      "c": "Uitstekend werk, $R. Als je nog meer boeken vindt, aarzel dan niet om ze bij ons terug te brengen.$B$BNa verloop van tijd veranderen we de beloningen voor het terugbrengen van verdwenen boeken weleens, en soms voegen we nieuwe toe.",
+      "g": [
+        [
+          "zwaait",
+          "swings (zwaaien)"
+        ],
+        [
+          "teken",
+          "mark, sign"
+        ],
+        [
+          "rechtmatige",
+          "rightful (rechtmatig)"
+        ],
+        [
+          "eigenaren",
+          "owners (eigenaar)"
+        ],
+        [
+          "aarzel",
+          "hesitate (aarzelen)"
+        ],
+        [
+          "na verloop van tijd",
+          "as time passes"
+        ],
+        [
+          "weleens",
+          "sometimes, now and then"
+        ]
+      ]
+    },
+    "7502": {
+      "t": "Schaduwen beheersen",
+      "d": "Op het boek staat het teken van het Athenaeum.",
+      "o": "Breng het boek terug naar de rechtmatige eigenaren.",
+      "p": "Je hebt een boek teruggevonden!",
+      "c": "Uitstekend werk, $R. Als je nog meer boeken vindt, aarzel dan niet om ze bij ons terug te brengen.$B$BNa verloop van tijd veranderen we de beloningen voor het terugbrengen van verdwenen boeken weleens, en soms voegen we nieuwe toe.",
+      "g": [
+        [
+          "beheersen",
+          "to harness, to master"
+        ],
+        [
+          "teken",
+          "mark, sign"
+        ],
+        [
+          "rechtmatige",
+          "rightful (rechtmatig)"
+        ],
+        [
+          "eigenaren",
+          "owners (eigenaar)"
+        ],
+        [
+          "aarzel",
+          "hesitate (aarzelen)"
+        ],
+        [
+          "na verloop van tijd",
+          "as time passes"
+        ],
+        [
+          "weleens",
+          "sometimes, now and then"
+        ]
+      ]
+    },
+    "7503": {
+      "t": "Het grootste jagersvolk",
+      "d": "Op het boek staat het teken van het Athenaeum.",
+      "o": "Breng het boek terug naar de rechtmatige eigenaren.",
+      "p": "Je hebt een boek teruggevonden!",
+      "c": "Uitstekend werk, $R. Als je nog meer boeken vindt, aarzel dan niet om ze bij ons terug te brengen.$B$BNa verloop van tijd veranderen we de beloningen voor het terugbrengen van verdwenen boeken weleens, en soms voegen we nieuwe toe.",
+      "g": [
+        [
+          "jagersvolk",
+          "race of hunters"
+        ],
+        [
+          "teken",
+          "mark, sign"
+        ],
+        [
+          "rechtmatige",
+          "rightful (rechtmatig)"
+        ],
+        [
+          "eigenaren",
+          "owners (eigenaar)"
+        ],
+        [
+          "aarzel",
+          "hesitate (aarzelen)"
+        ],
+        [
+          "na verloop van tijd",
+          "as time passes"
+        ],
+        [
+          "weleens",
+          "sometimes, now and then"
+        ]
+      ]
+    },
+    "7504": {
+      "t": "Heilige onzin: wat het Licht je niet vertelt",
+      "d": "Op het boek staat het teken van het Athenaeum.",
+      "o": "Breng het boek terug naar de rechtmatige eigenaren.",
+      "p": "Je hebt een boek teruggevonden!",
+      "c": "Uitstekend werk, $R. Als je nog meer boeken vindt, aarzel dan niet om ze bij ons terug te brengen.$B$BNa verloop van tijd veranderen we de beloningen voor het terugbrengen van verdwenen boeken weleens, en soms voegen we nieuwe toe.",
+      "g": [
+        [
+          "heilige",
+          "holy (heilig)"
+        ],
+        [
+          "onzin",
+          "nonsense, baloney"
+        ],
+        [
+          "teken",
+          "mark, sign"
+        ],
+        [
+          "rechtmatige",
+          "rightful (rechtmatig)"
+        ],
+        [
+          "eigenaren",
+          "owners (eigenaar)"
+        ],
+        [
+          "aarzel",
+          "hesitate (aarzelen)"
+        ],
+        [
+          "na verloop van tijd",
+          "as time passes"
+        ],
+        [
+          "weleens",
+          "sometimes, now and then"
+        ]
+      ]
+    },
+    "7505": {
+      "t": "Frost Shock en jij",
+      "d": "Op het boek staat het teken van het Athenaeum.",
+      "o": "Breng het boek terug naar de rechtmatige eigenaren.",
+      "p": "Je hebt een boek teruggevonden!",
+      "c": "Uitstekend werk, $R. Als je nog meer boeken vindt, aarzel dan niet om ze bij ons terug te brengen.$B$BNa verloop van tijd veranderen we de beloningen voor het terugbrengen van verdwenen boeken weleens, en soms voegen we nieuwe toe.",
+      "g": [
+        [
+          "teken",
+          "mark, sign"
+        ],
+        [
+          "rechtmatige",
+          "rightful (rechtmatig)"
+        ],
+        [
+          "eigenaren",
+          "owners (eigenaar)"
+        ],
+        [
+          "teruggevonden",
+          "recovered, found again (terugvinden)"
+        ],
+        [
+          "aarzel",
+          "hesitate (aarzelen)"
+        ],
+        [
+          "na verloop van tijd",
+          "as time passes"
+        ],
+        [
+          "weleens",
+          "sometimes, now and then"
+        ]
+      ]
+    },
+    "7506": {
+      "t": "De Emerald Dream...",
+      "d": "Op het boek staat het teken van het Athenaeum.",
+      "o": "Breng het boek terug naar de rechtmatige eigenaren.",
+      "p": "Je hebt een boek teruggevonden!",
+      "c": "Uitstekend werk, $R. Als je nog meer boeken vindt, aarzel dan niet om ze bij ons terug te brengen.$B$BNa verloop van tijd veranderen we de beloningen voor het terugbrengen van verdwenen boeken weleens, en soms voegen we nieuwe toe.",
+      "g": [
+        [
+          "teken",
+          "mark, sign"
+        ],
+        [
+          "rechtmatige",
+          "rightful (rechtmatig)"
+        ],
+        [
+          "eigenaren",
+          "owners (eigenaar)"
+        ],
+        [
+          "teruggevonden",
+          "recovered, found again (terugvinden)"
+        ],
+        [
+          "aarzel",
+          "hesitate (aarzelen)"
+        ],
+        [
+          "na verloop van tijd",
+          "as time passes"
+        ],
+        [
+          "weleens",
+          "sometimes, now and then"
+        ]
+      ]
+    },
+    "7507": {
+      "t": "Het compendium van Foror",
+      "d": "Je hebt iets heel belangrijks ontdekt. Dit boek is anders dan alle boeken die je ooit hebt gezien.$B$BHet lijkt erop dat iemand of iets het zegel van het Athenaeum heeft verbroken. De tekst erin is door elkaar gehaald en nauwelijks leesbaar.",
+      "o": "Breng Foror's Compendium of Dragon Slaying terug naar het Athenaeum.",
+      "p": "Ah, een van onze grootste verzamelwerken. Deze is al eeuwen zoek.",
+      "c": "Je had op de zwarte markt heel veel goud voor dit boek kunnen krijgen, $N. Vooral omdat het beschermende zegel verbroken is. Daardoor kan iedereen met genoeg verstand de geheimen van het drakendoden lezen en de kennis in deze heilige bladzijden in zich opnemen.$B$BMisschien is een grote beloning op zijn plaats... Nou ja, een beloning waar je enorm veel moeite voor moet doen.$B$B<Lydros grijnst.>",
+      "g": [
+        [
+          "compendium",
+          "compendium, collection"
+        ],
+        [
+          "ontdekt",
+          "uncovered, discovered (ontdekken)"
+        ],
+        [
+          "zegel",
+          "seal"
+        ],
+        [
+          "verbroken",
+          "broken (verbreken)"
+        ],
+        [
+          "door elkaar gehaald",
+          "garbled, mixed up"
+        ],
+        [
+          "nauwelijks",
+          "barely"
+        ],
+        [
+          "leesbaar",
+          "legible"
+        ],
+        [
+          "verzamelwerken",
+          "compilations (verzamelwerk)"
+        ],
+        [
+          "eeuwen",
+          "ages, centuries (eeuw)"
+        ],
+        [
+          "zwarte markt",
+          "black market"
+        ],
+        [
+          "beschermende",
+          "protective"
+        ],
+        [
+          "verstand",
+          "intellect, sense"
+        ],
+        [
+          "drakendoden",
+          "dragon slaying"
+        ],
+        [
+          "in zich opnemen",
+          "to absorb, to take in"
+        ],
+        [
+          "grijnst",
+          "grins (grijnzen)"
+        ]
+      ]
+    },
+    "7508": {
+      "t": "Het smeden van Quel'Serrar",
+      "d": "Als je deze taak op je wilt nemen, geef Lydros dan het botte lemmet.",
+      "o": "Geef het Dull and Flat Elven Blade aan Lorekeeper Lydros.",
+      "p": "Uitstekend, laten we beginnen...",
+      "c": "Als het je lukt om het hol van de draak binnen te gaan, verhit het lemmet dan in haar vurige adem en hard het ten slotte in haar bloed. Dan zal ik het lemmet binden, zodat jij het kunt gebruiken.",
+      "g": [
+        [
+          "smeden",
+          "forging, to forge"
+        ],
+        [
+          "op je nemen",
+          "to take on"
+        ],
+        [
+          "botte",
+          "dull, blunt (bot)"
+        ],
+        [
+          "lemmet",
+          "blade"
+        ],
+        [
+          "hol",
+          "lair, den"
+        ],
+        [
+          "verhit",
+          "heat (verhitten)"
+        ],
+        [
+          "vurige",
+          "fiery (vurig)"
+        ],
+        [
+          "adem",
+          "breath"
+        ],
+        [
+          "hard",
+          "temper, harden (harden)"
+        ],
+        [
+          "ten slotte",
+          "finally, ultimately"
+        ],
+        [
+          "binden",
+          "to bind"
+        ]
+      ]
+    },
+    "7581": {
+      "t": "De banden van de gevangenis",
+      "d": "Je moet banden voor de gevangenis van de Doomguard halen bij mindere demonen.$B$BHet bloed van de Wildspawn-saters in Dire Maul zou prima moeten werken. Het gestolde bloed zal de Hederine-scherven binden en de kristallen gevangenis kracht geven.",
+      "o": "Reis naar Dire Maul in Feralas en verzamel 15 Satyr Blood van de Wildspawn Satyr die in Warpwood Quarter wonen. Keer terug naar Daio in de Tainted Scar als dat gedaan is.$b",
+      "p": "Alleen het bloed van Wildspawn-saters is goed genoeg.",
+      "c": "Ah, wat een uitstekende vondst. Het bloed zal de magische verdediging van de Doomguard onderdrukken.",
+      "g": [
+        [
+          "banden",
+          "bindings (band)"
+        ],
+        [
+          "gevangenis",
+          "prison"
+        ],
+        [
+          "mindere",
+          "lesser (minder)"
+        ],
+        [
+          "saters",
+          "satyrs (sater)"
+        ],
+        [
+          "gestolde",
+          "coagulated, clotted (stollen)"
+        ],
+        [
+          "scherven",
+          "shards (scherf)"
+        ],
+        [
+          "kristallen",
+          "crystal (adj.)"
+        ],
+        [
+          "vondst",
+          "find, recovery"
+        ],
+        [
+          "verdediging",
+          "defense"
+        ],
+        [
+          "onderdrukken",
+          "to suppress"
+        ]
+      ]
+    },
+    "7703": {
+      "t": "Onafgemaakte zaken van de Gordok",
+      "d": "Nu jij koning, dus misschien jij haalt kostbaar Gordok-artefact terug van enge elf die zich prins noemt! Koning voor jou faalde, net als alle andere koningen sinds Tortheldrin - de enge elf - het stal van Gordok-koning van vroeger!$B$BArtefact heet Gauntlet of Gordok Might. Verhalen van vroeger zeggen: alleen de ene echte koning van de Gordok kan het terugkrijgen. Verhaal van vroeger zegt ook: enge elf is nog steeds hier in de buurt - jij vindt het en het wordt machtige handschoen die jij voor altijd draagt! Ja, ik laat zien!",
+      "o": "Vind de Gauntlet of Gordok Might en breng hem terug naar Captain Kromcrush in Dire Maul.$B$BVolgens Kromcrush zegt het \"verhaal van vroeger\" dat Tortheldrin - een \"enge\" elf die zichzelf een prins noemde - hem van een van de Gordok-koningen heeft gestolen.",
+      "p": "Hah, jij vindt het niet, hè baas? Misschien verhaal van vroeger slecht verhaal... moeilijk te geloven dat enge elf kan stelen van Gordok-koning!",
+      "c": "Wauw... jij BENT de echte $gkoning:koningin;! Ik denk nooit dat ik deze handschoen zie in mijn leven! Hij lijkt geen mojo meer te hebben... misschien enge elf probeert handschoen kapot te maken. Nou, ik zeg HAR HAR tegen hem!$b$bKijk - dit teken op de handschoen is een oud oud OUD teken van magie van vroeger, ouder dan de Gordok, zeggen ze. Nou, als Captain van de Gordok leren wij allemaal één ding, steeds weer - hoe je teken tot leven laat komen en kracht teruggeeft aan handschoen!$b$bIk doe het voor jou, $gkoning:koningin;! Hier, neem de handschoen en heers VOOR ALTIJD!",
+      "g": [
+        [
+          "onafgemaakte",
+          "unfinished (onafgemaakt)"
+        ],
+        [
+          "kostbaar",
+          "precious, prized"
+        ],
+        [
+          "artefact",
+          "artifact"
+        ],
+        [
+          "enge",
+          "creepy (eng)"
+        ],
+        [
+          "faalde",
+          "failed (falen)"
+        ],
+        [
+          "van vroeger",
+          "from the old days, old timey"
+        ],
+        [
+          "machtige",
+          "mighty (machtig)"
+        ],
+        [
+          "handschoen",
+          "gauntlet, glove"
+        ],
+        [
+          "volgens",
+          "according to"
+        ],
+        [
+          "teken",
+          "mark, sign"
+        ],
+        [
+          "tot leven",
+          "to life"
+        ],
+        [
+          "heers",
+          "rule (heersen)"
+        ]
+      ]
+    },
+    "8967": {
+      "t": "Het linkerstuk van het amulet van Lord Valthalak",
+      "d": "Later kwamen we te weten, terwijl we zelf deden wat we konden om te overleven, dat Isalien, een nachtelfpriesteres uit ons gezelschap, naar de voorouderlijke stad van de nachtelfen was gegaan, die nu Dire Maul heet. Voor zover wij wisten, ging ze daarheen om persoonlijke redenen, en ook om de geheimen te ontrafelen van het stuk van het amulet dat ze bij zich had.$B$BMaar ze is er niet helemaal gekomen. We hoorden dat ze bij de Shrine of Eldretharr in een hinderlaag was gelokt door Alzzin the Wildshaper en zijn troepen.",
+      "o": "Gebruik de Brazier of Beckoning om de geest van Isalien op te roepen en dood haar. Keer terug naar Bodley in Blackrock Mountain met de Left Piece of Lord Valthalak's Amulet en de Brazier of Beckoning.",
+      "p": "Je hebt de geest van Isalien toch niet nu al verlost en het linkerstuk van het amulet van Lord Valthalak al teruggehaald, $N?",
+      "c": "Dank je, $N, dat je de geest van Isalien tot rust hebt gebracht. Nu vindt ze misschien vrede bij haar godin. Maar we hebben nog veel werk te doen als we uit deze mooie puinhoop willen komen.$B$BHelaas weet ik niet waar degene is die stierf met het rechterstuk van het amulet in zijn bezit. Maar wees niet bang: toen ik nog leefde, hield ik me een beetje bezig met waarzeggerij. Daarom heb ik nog een taak voor je, waarmee we het laatste stuk kunnen opsporen.",
+      "g": [
+        [
+          "linkerstuk",
+          "left piece"
+        ],
+        [
+          "kwamen te weten",
+          "came to know (te weten komen)"
+        ],
+        [
+          "nachtelfpriesteres",
+          "night elf priestess"
+        ],
+        [
+          "gezelschap",
+          "company, party"
+        ],
+        [
+          "voorouderlijke",
+          "ancestral"
+        ],
+        [
+          "voor zover",
+          "as far as"
+        ],
+        [
+          "ontrafelen",
+          "to unravel"
+        ],
+        [
+          "hinderlaag",
+          "ambush"
+        ],
+        [
+          "troepen",
+          "forces, troops"
+        ],
+        [
+          "verlost",
+          "saved, released (verlossen)"
+        ],
+        [
+          "godin",
+          "goddess"
+        ],
+        [
+          "puinhoop",
+          "mess (a fine pickle)"
+        ],
+        [
+          "bezit",
+          "possession"
+        ],
+        [
+          "waarzeggerij",
+          "divination, fortune-telling"
+        ],
+        [
+          "opsporen",
+          "to track down, to ferret out"
+        ]
+      ]
+    },
+    "8990": {
+      "t": "Het rechterstuk van het amulet van Lord Valthalak",
+      "d": "Later kwamen we te weten, terwijl we zelf deden wat we konden om te overleven, dat Isalien, een nachtelfpriesteres uit ons gezelschap, naar de voorouderlijke stad van de nachtelfen was gegaan, die nu Dire Maul heet. Voor zover wij wisten, ging ze daarheen om persoonlijke redenen, en ook om de geheimen te ontrafelen van het stuk van het amulet dat ze bij zich had.$B$BMaar ze is er niet helemaal gekomen. We hoorden dat ze bij de Shrine of Eldretharr in een hinderlaag was gelokt door Alzzin the Wildshaper en zijn troepen.",
+      "o": "Gebruik de Brazier of Beckoning om de geest van Isalien op te roepen en dood haar. Keer terug naar Bodley in Blackrock Mountain met het weer samengevoegde Lord Valthalak's Amulet en de Brazier of Beckoning.",
+      "p": "Je hebt de geest van Isalien toch niet nu al verlost en het rechterstuk van het amulet van Lord Valthalak al teruggehaald, $N? Voeg de stukken van het amulet weer samen voordat je het aan mij geeft.",
+      "c": "Dank je, $N, dat je de geest van Isalien tot rust hebt gebracht. Nu vindt ze misschien vrede bij haar godin. En we hebben ook het weer samengevoegde amulet! Maar de moeilijkste test ligt nog voor ons.$B$BOm de vuurkorf af te stemmen op het oproepen van Lord Valthalak, moeten er nog een paar voorwerpen worden verzameld en hier naar mij worden gebracht.",
+      "g": [
+        [
+          "rechterstuk",
+          "right piece"
+        ],
+        [
+          "kwamen te weten",
+          "came to know (te weten komen)"
+        ],
+        [
+          "nachtelfpriesteres",
+          "night elf priestess"
+        ],
+        [
+          "gezelschap",
+          "company, party"
+        ],
+        [
+          "voorouderlijke",
+          "ancestral"
+        ],
+        [
+          "ontrafelen",
+          "to unravel"
+        ],
+        [
+          "hinderlaag",
+          "ambush"
+        ],
+        [
+          "samengevoegde",
+          "recombined, joined (samenvoegen)"
+        ],
+        [
+          "verlost",
+          "saved, released (verlossen)"
+        ],
+        [
+          "voeg samen",
+          "combine (samenvoegen)"
+        ],
+        [
+          "godin",
+          "goddess"
+        ],
+        [
+          "vuurkorf",
+          "brazier"
+        ],
+        [
+          "af te stemmen",
+          "to attune (afstemmen)"
+        ]
+      ]
+    }
+  },
+  "words": {
+    "brede": "broad, wide (breed)",
+    "elfenlegenden": "elven legends (elfenlegende)",
+    "erlangs": "past it, by it",
+    "gehuild": "cried, wept (huilen)",
+    "gordok-artefact": "Gordok artifact",
+    "gordok-koning": "Gordok king",
+    "gordok-koningen": "Gordok kings (Gordok-koning)",
+    "gordok-ogerpak": "Gordok ogre suit",
+    "gordok-smaaktest": "Gordok taste test",
+    "gordok-vleugel": "Gordok wing (of a building)",
+    "hederine-scherven": "Hederine shards (scherf)",
+    "highborne-geesten": "Highborne spirits (geest)",
+    "klikt": "clicks, snaps (klikken)",
+    "markt": "market",
+    "stevigst": "most sturdily, most securely (stevig)",
+    "toekomstig": "future (adj.)",
+    "wildspawn-saters": "Wildspawn satyrs (sater)"
+  },
+  "terms": {
+    "imp": "imp: a small, mischievous demon in the Warcraft world",
+    "mojo": "mojo: magical power, in troll and ogre speech"
+  }
+}
