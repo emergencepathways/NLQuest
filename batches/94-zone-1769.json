@@ -1,0 +1,1207 @@
+{
+ "quests": {
+  "8484": {
+   "t": "Bemiddelen voor vrede",
+   "d": "Je daden gaan verder dan het verhaal van een gewone held, $N. Als je jouw volk vertegenwoordigt, dan is jouw volk een volk waarmee we vrede willen sluiten.$B$BAlsjeblieft, breng dit geschenk naar de dwergenkoning die in een berg van ijzer woont. Ik geloof dat jullie deze stad Ironforge noemen. Vroeger heeft hij geprobeerd om namens zijn Alliance contact met ons te zoeken. Nu is het niet meer dan juist om jou te erkennen als de sleutel in de pogingen van je Alliance om vrede te sluiten.",
+   "o": "Breng de Timbermaw Offering of Peace naar King Magni Bronzebeard in Ironforge.",
+   "p": "$C, je bent welkom in mijn rijk. Ironforge moet altijd gezien worden als een thuis voor een held zoals jij. Welnu, wat kom je bij mij doen?",
+   "c": "Dit is werkelijk een zeer gelukkige wending. Als we een blijvende vrede met deze wezens konden sluiten, zou dat ons zeker een voordeel geven in de zaken van Kalimdor... een voordeel dat de nachtelfen niet op eigen kracht kunnen bieden. Ik zal de andere leiders van de Alliance hier meteen over inlichten, en er zullen meer diplomaten gestuurd worden!$B$BEn jij, $N... je hebt moed getoond, zowel in diplomatie als in actie. Ik dank je, net als de hele Alliance.",
+   "g": [
+    [
+     "daden",
+     "deeds (daad)"
+    ],
+    [
+     "vertegenwoordigt",
+     "represent (vertegenwoordigen)"
+    ],
+    [
+     "vrede sluiten",
+     "to make peace"
+    ],
+    [
+     "geschenk",
+     "gift, offering"
+    ],
+    [
+     "namens",
+     "on behalf of"
+    ],
+    [
+     "erkennen",
+     "to acknowledge, recognise"
+    ],
+    [
+     "pogingen",
+     "efforts, attempts (poging)"
+    ],
+    [
+     "rijk",
+     "realm, domain"
+    ],
+    [
+     "wending",
+     "turn (of events)"
+    ],
+    [
+     "blijvende",
+     "lasting (blijvend)"
+    ],
+    [
+     "voordeel",
+     "advantage"
+    ],
+    [
+     "op eigen kracht",
+     "on their own"
+    ],
+    [
+     "inlichten",
+     "to inform"
+    ],
+    [
+     "moed",
+     "courage"
+    ]
+   ]
+  },
+  "3506": {
+   "t": "Verraden",
+   "d": "Nog een paar ogenblikken nadenken brengt je op een paar ideeën. Eén daarvan laat je glimlachen: misschien zou het vernietigen van de kristallen de bloedelf van streek maken die verantwoordelijk is voor het afslachten van zoveel orcs en voor het verraad aan Belgrom?$B$BJe ontcijfert meer van het schrift en de afbeeldingen. Je beseft dat een van de kristallen verbonden is met de maker van de cirkel. De andere zijn verbonden met iets dat veel kwaadaardiger is.$B$BJe sluit het boek en begint te beslissen welk kristal je zult vernietigen.",
+   "o": "Vernietig het arcane focuskristal dat verbonden is met Magus Rimtori, en dood haar daarna. Breng vervolgens de Head of Magus Rimtori naar Ag'tor Bloodfist in Azshara.",
+   "p": "Hoe gaat het met het afslachten van de bloedelfverraders, $N? Ben je al opgeschoten?$b$bIk hoop dat jij sterk genoeg bent om die hond op haar knieën te krijgen! Ze verdient niets anders dan een pijnlijke dood voor alles wat ze gedaan heeft!",
+   "c": "RAR!! Ongelooflijk!$b$bJe hebt het gedaan! Belgrom zal blij zijn! Eindelijk kunnen de geesten van tientallen van onze krijgers rust vinden. Dank je, $N.",
+   "g": [
+    [
+     "ogenblikken",
+     "moments (ogenblik)"
+    ],
+    [
+     "van streek maken",
+     "to upset"
+    ],
+    [
+     "verantwoordelijk",
+     "responsible"
+    ],
+    [
+     "afslachten",
+     "slaughter"
+    ],
+    [
+     "verraad",
+     "betrayal"
+    ],
+    [
+     "ontcijfert",
+     "decipher (ontcijferen)"
+    ],
+    [
+     "beseft",
+     "realise (beseffen)"
+    ],
+    [
+     "kwaadaardiger",
+     "more sinister, more evil (kwaadaardig)"
+    ],
+    [
+     "focuskristal",
+     "focusing crystal"
+    ],
+    [
+     "verraders",
+     "traitors (verrader)"
+    ],
+    [
+     "opgeschoten",
+     "made progress (opschieten)"
+    ],
+    [
+     "tientallen",
+     "dozens"
+    ]
+   ]
+  },
+  "7926": {
+   "t": "De Darkmoon Faire",
+   "d": "De Darkmoon Faire komt eraan! Zorg dat je alle wonderen en spanning beleeft als ze in de stad is!$B$BAls je nu meteen in actie komt, kun je deze bon inwisselen voor gratis prijskaartjes! Geef je bon gewoon aan Gelvas Grimgate, binnen op de kermis.$B$BOp dit moment staat de Faire net buiten Thunder Bluff, in Mulgore. Mis het niet! Ga vandaag nog!",
+   "o": "Breng de Free Ticket Voucher naar Gelvas Grimgate, binnen op de kermis van de Darkmoon Faire.",
+   "p": "Ja, vriend, kan ik je helpen? Heb je een bon die je wilt inwisselen?",
+   "c": "Welkom op de Darkmoon Faire! Deze bon is goed voor VIJF, ja, VIJF prijskaartjes!$B$BAls je prijskaartjes verzamelt, kom je met mij praten om ze in te wisselen voor waardevolle prijzen. Hoe meer kaartjes je krijgt, hoe meer prijzen je kunt winnen. Hoera!",
+   "g": [
+    [
+     "spanning",
+     "excitement"
+    ],
+    [
+     "beleeft",
+     "experience (beleven)"
+    ],
+    [
+     "in actie komt",
+     "act, take action (in actie komen)"
+    ],
+    [
+     "bon",
+     "voucher"
+    ],
+    [
+     "inwisselen",
+     "to redeem, exchange"
+    ],
+    [
+     "prijskaartjes",
+     "prize tickets (prijskaartje)"
+    ],
+    [
+     "kermis",
+     "fair, carnival"
+    ],
+    [
+     "verzamelt",
+     "collect (verzamelen)"
+    ],
+    [
+     "waardevolle",
+     "valuable (waardevol)"
+    ],
+    [
+     "Hoera",
+     "Huzzah, hooray"
+    ]
+   ]
+  },
+  "8307": {
+   "t": "Woestijnrecept",
+   "d": "Wennen aan het leven in de woestijn is op zijn zachtst gezegd moeilijk geweest. Ik mis niet alleen de vogels en bomen van Auberdine, maar door deze droge omgeving hebben we ook heel weinig keus in eten. Ik probeer meer te leren over woestijnkruiden, maar er zijn er niet veel.$B$BIk heb groepen van de Twilight's Hammer uit het kamp ten westen van hier op zandwormen zien jagen als voedsel. Maar zandwormvlees is zo bitter, ik kan me niet voorstellen hoe ze het eetbaar maken. Hou je ogen open als je naar hun kamp gaat, en laat me weten als je iets te weten komt.",
+   "o": "Zoek informatie over het koken van Sandworm Meat in het kamp van de Twilight's Hammer ten westen van Cenarion Hold.",
+   "c": "Dit boek bevat een aantal gewone recepten en een paar ongewone. Na een paar seconden bladeren zie je een recept met zandwormvlees.",
+   "g": [
+    [
+     "wennen",
+     "to get used to"
+    ],
+    [
+     "op zijn zachtst gezegd",
+     "to say the least"
+    ],
+    [
+     "omgeving",
+     "environment"
+    ],
+    [
+     "keus",
+     "choice, selection"
+    ],
+    [
+     "woestijnkruiden",
+     "desert herbs (kruid)"
+    ],
+    [
+     "zandwormen",
+     "sandworms (zandworm)"
+    ],
+    [
+     "zandwormvlees",
+     "sandworm meat"
+    ],
+    [
+     "eetbaar",
+     "edible, palatable"
+    ],
+    [
+     "bevat",
+     "contains (bevatten)"
+    ],
+    [
+     "bladeren",
+     "browsing, leafing through"
+    ]
+   ]
+  },
+  "8313": {
+   "t": "De kennis delen",
+   "d": "Het recept voor het koken van zandwormvlees is leesbaar, maar het noemt kruiden en specerijen waar je nog nooit van gehoord hebt. Calandrath weet misschien genoeg over de planten die in de woestijn groeien om er wijs uit te worden.",
+   "o": "Breng de Torn Recipe Page naar Calandrath in de herberg in Cenarion Hold.",
+   "p": "Heb je het recept geleerd? Je houdt het toch niet voor jezelf, hoop ik!",
+   "c": "Laat eens kijken...$B$BDit lijkt eenvoudig genoeg. Ze hebben hun eigen namen voor sommige kruiden, maar die zijn ook makkelijk te achterhalen. Kijk, ik laat het je zien!",
+   "g": [
+    [
+     "kennis",
+     "knowledge"
+    ],
+    [
+     "leesbaar",
+     "legible"
+    ],
+    [
+     "kruiden",
+     "herbs (kruid)"
+    ],
+    [
+     "specerijen",
+     "spices (specerij)"
+    ],
+    [
+     "er wijs uit worden",
+     "to make sense of it"
+    ],
+    [
+     "herberg",
+     "inn"
+    ],
+    [
+     "eenvoudig",
+     "simple"
+    ],
+    [
+     "achterhalen",
+     "to figure out"
+    ]
+   ]
+  },
+  "8317": {
+   "t": "Hulp in de keuken",
+   "d": "Dat recept komt zeker van pas. Ik kan maar beter aan het werk gaan, zodat ik vandaag wat gerookte woestijnknoedels klaar heb. Ik kan wel een handje hulp gebruiken om ze te maken. Ik zorg dat het de moeite waard is voor je.",
+   "o": "Calandrath in Cenarion Hold heeft 10 Smoked Desert Dumplings nodig.",
+   "p": "Hoe gaat het met die knoedels?",
+   "c": "Uitstekend! Je bent mijn redder. Deze knoedels zijn best goed gelukt. Ik had niet echt zo'n goede smaak verwacht van de Twilight's Hammer.",
+   "g": [
+    [
+     "komt van pas",
+     "comes in handy (van pas komen)"
+    ],
+    [
+     "maar beter",
+     "had better"
+    ],
+    [
+     "gerookte",
+     "smoked (gerookt)"
+    ],
+    [
+     "woestijnknoedels",
+     "desert dumplings (knoedel)"
+    ],
+    [
+     "een handje hulp",
+     "a helping hand"
+    ],
+    [
+     "de moeite waard",
+     "worth the trouble"
+    ],
+    [
+     "redder",
+     "saviour, life saver"
+    ],
+    [
+     "gelukt",
+     "turned out well (lukken)"
+    ],
+    [
+     "verwacht",
+     "expected (verwachten)"
+    ]
+   ]
+  },
+  "8181": {
+   "t": "Yeh'kinya ter verantwoording roepen",
+   "d": "Mijn onderzoek naar de Mosh'aru Tablets brengt somber nieuws, $N. Hakkars ware gedaante, de god zelf, kan opnieuw geboren worden uit juist het ei waarin jij hem gevangen hebt. Yeh'kinya zei je dat het ei zijn kwaad moest insluiten, maar het moet het opnieuw scheppen! De trol heeft je misleid!$B$BGa naar Yeh'kinya en eis het ei van hem. Bid dat het nog niet te laat is om Hakkars terugkeer te stoppen!",
+   "o": "Spreek met Yeh'kinya.",
+   "c": "Zo, je hebt dus met die oude dwerg Ironboot gepraat en de verloren Mosh'aru Tablets gevonden? Die bemoeizuchtige goudzoeker...$B$BHet maakt niet uit. Het is te laat om deze wereld te redden. Hakkar is herboren en groeit nu al in kracht... diep in het oude trollenrijk Zul'Gurub! Hij is gekomen! En hij zal heersen met bloed en angst!$B$BDank je, $N. Door jouw hulp is de Soulflayer sneller teruggekeerd!",
+   "g": [
+    [
+     "ter verantwoording roepen",
+     "to call to account, confront"
+    ],
+    [
+     "onderzoek",
+     "research, delvings"
+    ],
+    [
+     "somber",
+     "grim, gloomy"
+    ],
+    [
+     "gedaante",
+     "form, shape"
+    ],
+    [
+     "insluiten",
+     "to contain, enclose"
+    ],
+    [
+     "scheppen",
+     "to create"
+    ],
+    [
+     "misleid",
+     "misled (misleiden)"
+    ],
+    [
+     "eis",
+     "demand (eisen)"
+    ],
+    [
+     "Bid",
+     "pray (bidden)"
+    ],
+    [
+     "terugkeer",
+     "return"
+    ],
+    [
+     "bemoeizuchtige",
+     "meddling (bemoeizuchtig)"
+    ],
+    [
+     "goudzoeker",
+     "prospector"
+    ],
+    [
+     "herboren",
+     "reborn"
+    ],
+    [
+     "trollenrijk",
+     "troll kingdom"
+    ],
+    [
+     "heersen",
+     "to rule"
+    ]
+   ]
+  },
+  "8056": {
+   "t": "Paragons of Power: de armbanden van de augur",
+   "d": "De augurs van onze stam worden vereerd om hun gave van het goddelijke zicht, ja man. Het zijn geen medicijnmannen; ze besteden hun tijd aan botten werpen of bladeren lezen voor inzicht, niet aan mensen beheksen. Als sjamaan weet je al iets van de kracht van het voorspellen; wij Zandalar hechten veel waarde aan het inzicht dat zij de stam geven.$B$BBreng me een offer van de Paragons of Power uit Zul'Gurub en bewijs je waarde voor ons. Doe dit voor ons, en ik geef je armbanden die onze augurs boven alle andere waarderen!",
+   "o": "Breng een Primal Hakkari Armsplint naar Maywiki of Zuldazar. Je moet ook een reputatie van minstens Friendly hebben bij de Zandalar Tribe.$B$BMaywiki of Zuldazar is te vinden op Yojamba Isle, Stranglethorn Vale.",
+   "p": "Heb je de Paragons of Power uit Zul'Gurub die ik nodig heb? Deze armbanden zijn elke moeite waard die je ervoor moet doen!",
+   "c": "Het lijkt erop dat je een beetje van de Zandalar-augur in je hebt. We weten van de daden die je in Zul'Gurub voor ons verricht, man. Deze Paragons of Power zullen de Zandalar-stam echt goed helpen. Een stam, mag ik wel zeggen, waar je als vrienden op kunt rekenen. Neem deze armbanden, $N; je hebt ze meer dan verdiend!",
+   "g": [
+    [
+     "augurs",
+     "augurs, seers (augur)"
+    ],
+    [
+     "vereerd",
+     "revered (vereren)"
+    ],
+    [
+     "gave",
+     "gift, talent"
+    ],
+    [
+     "goddelijke",
+     "divine (goddelijk)"
+    ],
+    [
+     "medicijnmannen",
+     "witch doctors (medicijnman)"
+    ],
+    [
+     "werpen",
+     "to cast, throw"
+    ],
+    [
+     "inzicht",
+     "insight"
+    ],
+    [
+     "beheksen",
+     "to hex, bewitch"
+    ],
+    [
+     "voorspellen",
+     "foretelling, augury"
+    ],
+    [
+     "hechten veel waarde aan",
+     "prize, value highly"
+    ],
+    [
+     "offer",
+     "offering"
+    ],
+    [
+     "verricht",
+     "do, perform (verrichten)"
+    ],
+    [
+     "verdiend",
+     "earned (verdienen)"
+    ]
+   ]
+  },
+  "8057": {
+   "t": "Paragons of Power: de armbanden van de haruspex",
+   "d": "Een haruspex is een belangrijk lid van onze stam; je doet er wijs aan om naar hun voortekenen te luisteren. Door contact met dieren, en door ze aan de geesten te offeren wanneer dat nodig is, geven ze ons goddelijke leiding. Vroeger gaven het inzicht en de wijsheid van de haruspex ons een voorsprong in de oorlogen tegen de versplinterde stammen van de Gurubashi.$B$BBreng me een offer van de Paragons of Power uit Zul'Gurub en bewijs je waarde voor ons. Doe dit, en ik geef je armbanden die elke haruspex van de Zandalar zou willen hebben.",
+   "o": "Breng een Primal Hakkari Stanchion naar Maywiki of Zuldazar. Je moet ook een reputatie van minstens Friendly hebben bij de Zandalar Tribe.$B$BMaywiki of Zuldazar is te vinden op Yojamba Isle, Stranglethorn Vale.",
+   "p": "Heb je de Paragons of Power uit Zul'Gurub? Deze armbanden zijn de moeite waard, $N. Geloof me, man!",
+   "c": "Ah, ik voel de kracht die uit deze Paragons of Power komt, $N. Je hebt bewezen dat je iemand bent die wij in de stam \"vriend\" kunnen noemen. Afspraak is afspraak, $N... aanschouw de kracht van de armbanden van de haruspex!",
+   "g": [
+    [
+     "haruspex",
+     "haruspex: a priest who reads omens from animals"
+    ],
+    [
+     "je doet er wijs aan",
+     "you'd be wise to"
+    ],
+    [
+     "voortekenen",
+     "portents, omens (voorteken)"
+    ],
+    [
+     "offeren",
+     "to sacrifice, offer up"
+    ],
+    [
+     "leiding",
+     "guidance"
+    ],
+    [
+     "wijsheid",
+     "wisdom"
+    ],
+    [
+     "voorsprong",
+     "edge, lead"
+    ],
+    [
+     "versplinterde",
+     "splintered (versplinteren)"
+    ],
+    [
+     "Afspraak is afspraak",
+     "A deal is a deal"
+    ],
+    [
+     "aanschouw",
+     "behold (aanschouwen)"
+    ]
+   ]
+  },
+  "8058": {
+   "t": "Paragons of Power: de armstukken van de wreker",
+   "d": "Wraak is kracht. De Zandalar-wreker is zulke kracht. De stam heeft veel vijanden. De wreker laat hen boeten. Geen misdaad tegen ons blijft onbestraft. De wreker voert deze straf uit. Onze vijanden vrezen onze wraak. Terecht. Dat zullen ze altijd doen.$B$BWord een van onze wrekers. Zoek de Paragons of Power in Zul'Gurub. Dood de dienaren van Hakkar en neem wraak in naam van de stam. Je zult beloond worden.",
+   "o": "Breng een Primal Hakkari Armsplint naar Jin'rokh the Breaker. Je moet ook een reputatie van minstens Friendly hebben bij de Zandalar Tribe.$B$BJin'rokh the Breaker is te vinden op Yojamba Isle, Stranglethorn Vale.",
+   "p": "Heb je de Paragons of Power gebracht? Is er wraak genomen in naam van de Zandalar?",
+   "c": "Je hebt vandaag veel wraak genomen. Je hebt het gelaat van de wreker aangenomen. Je hebt de dienaren van de Blood God op hun knieën gebracht.$B$BNeem dit. Het zal je wraak in de toekomst voeden. Je bent nu een vriend van de Zandalar.",
+   "g": [
+    [
+     "armstukken",
+     "armguards (armstuk)"
+    ],
+    [
+     "wreker",
+     "vindicator, avenger"
+    ],
+    [
+     "Wraak",
+     "vengeance"
+    ],
+    [
+     "boeten",
+     "to pay, atone"
+    ],
+    [
+     "misdaad",
+     "crime"
+    ],
+    [
+     "onbestraft",
+     "unpunished"
+    ],
+    [
+     "voert uit",
+     "carries out (uitvoeren)"
+    ],
+    [
+     "vrezen",
+     "to fear"
+    ],
+    [
+     "Terecht",
+     "rightly so"
+    ],
+    [
+     "dienaren",
+     "minions, servants (dienaar)"
+    ],
+    [
+     "gelaat",
+     "face, visage"
+    ],
+    [
+     "voeden",
+     "to fuel, feed"
+    ]
+   ]
+  },
+  "8059": {
+   "t": "Paragons of Power: de windsels van de bezetene",
+   "d": "Heksenmeesters begeven zich op gevaarlijk terrein als ze met demonen omgaan, maar onze bezetenen gaan nog een stap verder. Met een oud en geheimzinnig ritueel laten ze een demon hun lichaam binnengaan. Maar in plaats van zich door de demon te laten bezitten, maken ze hem van binnenuit tot slaaf. Zo nemen ze de kracht van het beest in zich op, om die zelf te beheersen. Het is iets wat maar weinigen ooit onder de knie krijgen.$B$BOm de kracht van de bezetene te leren kennen, moet ik Paragons of Power uit Zul'Gurub hebben. Ga erheen en haal wat wij zoeken.",
+   "o": "Breng een Primal Hakkari Stanchion naar Al'tabim the All-Seeing. Je moet ook een reputatie van minstens Friendly hebben bij de Zandalar Tribe.$B$BAl'tabim the All-Seeing is te vinden op Yojamba Isle, Stranglethorn Vale.",
+   "p": "Ben je terug met de Paragons of Power? Door de duivelse dienaren van Hakkar te verslaan, bewijs je niet alleen jezelf aan ons, maar ook dat je bereid bent de wegen van de bezetene te leren.",
+   "c": "Goed gedaan... ze moesten vast op ondraaglijk pijnlijke manieren boeten voordat ze de Paragons of Power opgaven. Neem dit: de windsels van de bezetene. Ze zijn gemaakt van krachtige mojo die gebruikt wordt om de prooi van de bezetene op te roepen. Ze zijn een krachtig hulpmiddel om macht te verwerven.",
+   "g": [
+    [
+     "windsels",
+     "wraps (windsel)"
+    ],
+    [
+     "bezetene",
+     "demoniac, one possessed"
+    ],
+    [
+     "Heksenmeesters",
+     "warlocks (heksenmeester)"
+    ],
+    [
+     "begeven zich",
+     "venture (zich begeven)"
+    ],
+    [
+     "terrein",
+     "ground, terrain"
+    ],
+    [
+     "geheimzinnig",
+     "arcane, mysterious"
+    ],
+    [
+     "bezitten",
+     "to possess"
+    ],
+    [
+     "tot slaaf",
+     "into a slave"
+    ],
+    [
+     "onder de knie krijgen",
+     "to master"
+    ],
+    [
+     "duivelse",
+     "diabolic (duivels)"
+    ],
+    [
+     "bereid",
+     "willing"
+    ],
+    [
+     "ondraaglijk",
+     "unbearably, excruciatingly"
+    ],
+    [
+     "prooi",
+     "prey"
+    ],
+    [
+     "hulpmiddel",
+     "tool, aid"
+    ],
+    [
+     "verwerven",
+     "to acquire"
+    ]
+   ]
+  },
+  "8060": {
+   "t": "Paragons of Power: de windsels van de illusionist",
+   "d": "Magiërs in onze stam heten illusionisten. Ze gebruiken krachtige mojo in hun bezweringen, en brengen de vijanden van de stam vaak van hun stuk en in de war!$B$B<Al'tabim lacht gemeen.>$B$BHet is een hele belevenis om een krachtige illusionist aan het werk te zien, terwijl hij onze vijanden op hun knieën krijgt door hun eigen waanzin!$B$BOm de weg van onze illusionisten te leren kennen, ga je naar Zul'Gurub en breng je mij bepaalde Paragons of Power terug. Hiervoor geef ik je armwindsels die onze illusionisten gebruiken om hun spreuken te weven.",
+   "o": "Breng Primal Hakkari Bindings naar Al'tabim the All-Seeing. Je moet ook een reputatie van minstens Friendly hebben bij de Zandalar Tribe.$B$BAl'tabim the All-Seeing is te vinden op Yojamba Isle, Stranglethorn Vale.",
+   "p": "$N, ben je nu al terug? Heb je de Paragons of Power gevonden die ik nodig heb?",
+   "c": "Indrukwekkend... voelde je de mojo erdoorheen stromen? De Paragons of Power werden gebruikt als een soort betaalmiddel toen het Gurubashi Empire over deze landen heerste. Nu gebruiken wij Zandalar de verborgen mojo erin om te vechten tegen de tweede opkomst van de Blood God Hakkar!$B$BJe hebt het vandaag goed gedaan. Beschouw de Zandalar maar als je vrienden. Daarom krijg je hier de windsels van de illusionist die ik je beloofd heb!",
+   "g": [
+    [
+     "Magiërs",
+     "mages (magiër)"
+    ],
+    [
+     "bezweringen",
+     "incantations (bezwering)"
+    ],
+    [
+     "van hun stuk",
+     "befuddled"
+    ],
+    [
+     "in de war",
+     "confused"
+    ],
+    [
+     "gemeen",
+     "wickedly, nasty"
+    ],
+    [
+     "belevenis",
+     "experience, sight"
+    ],
+    [
+     "waanzin",
+     "madness"
+    ],
+    [
+     "armwindsels",
+     "arm wraps"
+    ],
+    [
+     "spreuken",
+     "spells (spreuk)"
+    ],
+    [
+     "weven",
+     "to weave"
+    ],
+    [
+     "betaalmiddel",
+     "currency"
+    ],
+    [
+     "verborgen",
+     "latent, hidden"
+    ],
+    [
+     "opkomst",
+     "rise"
+    ],
+    [
+     "Beschouw",
+     "consider (beschouwen)"
+    ]
+   ]
+  },
+  "8061": {
+   "t": "Paragons of Power: de windsels van de biechtvader",
+   "d": "Wij Zandalar geven macht aan wie spreekt met het gezag van het goddelijke. Onze priesters zijn meer dan alleen genezers; ze zijn onze biechtvaders. Het kwaad komt zowel van dreigingen van buiten, zoals Hakkar, als van binnen de stam. Onze biechtvaders zijn de rechters onder ons. Ze beschermen ons tegen hetzelfde kwaad dat de Gurubashi van binnenuit verslond.$B$BGa naar Zul'Gurub en breng de Paragons of Power van de Gurubashi terug. Leer wat het betekent om biechtvader te zijn, en bescherm ons tegen het kwaad.",
+   "o": "Breng een Primal Hakkari Stanchion naar Al'tabim the All-Seeing. Je moet ook een reputatie van minstens Friendly hebben bij de Zandalar Tribe.$B$BAl'tabim the All-Seeing is te vinden op Yojamba Isle, Stranglethorn Vale.",
+   "p": "Terug uit Zul'Gurub? Is het je gelukt om de Paragons of Power van de dienaren van Hakkar te halen?",
+   "c": "Fantastisch, $N! Het was geen kleine prestatie om deze bij mij te brengen. Je hebt vandaag ongetwijfeld als biechtvader van onze stam gehandeld door ons te beschermen tegen de dreiging van Hakkar. Deze windsels passen bij een vriend van de stam zoals jij!",
+   "g": [
+    [
+     "biechtvader",
+     "confessor"
+    ],
+    [
+     "gezag",
+     "authority"
+    ],
+    [
+     "genezers",
+     "healers (genezer)"
+    ],
+    [
+     "dreigingen",
+     "threats (dreiging)"
+    ],
+    [
+     "rechters",
+     "judges (rechter)"
+    ],
+    [
+     "verslond",
+     "devoured (verslinden)"
+    ],
+    [
+     "prestatie",
+     "feat, achievement"
+    ],
+    [
+     "ongetwijfeld",
+     "no doubt"
+    ],
+    [
+     "gehandeld",
+     "acted (handelen)"
+    ],
+    [
+     "passen bij",
+     "befit, suit"
+    ]
+   ]
+  },
+  "8062": {
+   "t": "Paragons of Power: de armbanden van het roofdier",
+   "d": "In de duistere tijden na de val van het Gurubashi Empire gebruikten de roofdieren van de Zandalar hun vaardigheid om de stam van voedsel te voorzien. Jagers zeggen dat ze veel lijken op de roofdieren van onze stam. De jacht zoeken is het wezen van het roofdier belichamen, ja. Maar je jacht in Zul'Gurub zal ons laten zien hoe je je echt verhoudt tot onze beste roofdieren.$B$BBreng me een selectie van de Paragons of Power uit Zul'Gurub. Doe dat, en je zet de eerste stappen om het ultieme roofdier te worden.",
+   "o": "Breng de volgende Paragons of Power uit Zul'Gurub naar Falthir the Sightless: Primal Hakkari Bindings. Je moet ook een reputatie van minstens Friendly hebben bij de Zandalar Tribe.$B$BFalthir the Sightless is te vinden op Yojamba Isle, Stranglethorn Vale.",
+   "p": "Jaag op wie in Zul'Gurub de Paragons of Power bezit, $N. Zij zijn je prooi; zij hebben wat wij allebei nodig hebben.",
+   "c": "Ja... ik heb geen ogen nodig om de aanwezigheid van de Paragons of Power te voelen. Je succes in Zul'Gurub heeft indruk gemaakt op velen in de stam. We zien je niet alleen als een vriend van de Zandalar, maar ook als waardig genoeg om de armbanden van het roofdier te bezitten: krachtige voorwerpen, en een symbool van wat het betekent om een roofdier te zijn. Goed gedaan, $N.",
+   "g": [
+    [
+     "roofdier",
+     "predator"
+    ],
+    [
+     "roofdieren",
+     "predators"
+    ],
+    [
+     "vaardigheid",
+     "skill, prowess"
+    ],
+    [
+     "van voedsel te voorzien",
+     "to provide food, sustenance"
+    ],
+    [
+     "wezen",
+     "essence"
+    ],
+    [
+     "belichamen",
+     "to embody"
+    ],
+    [
+     "je verhoudt tot",
+     "how you compare to (zich verhouden tot)"
+    ],
+    [
+     "ultieme",
+     "ultimate (ultiem)"
+    ],
+    [
+     "aanwezigheid",
+     "presence"
+    ],
+    [
+     "waardig",
+     "worthy"
+    ],
+    [
+     "voorwerpen",
+     "items, objects (voorwerp)"
+    ]
+   ]
+  },
+  "8063": {
+   "t": "Paragons of Power: de armbanden van de dolleman",
+   "d": "De dollemannen van de Zandalar lijken op schurken, maar boven alles omarmen ze de waanzin... de chaos... de onvoorspelbaarheid van het bestaan. Ze waren angstaanjagend om te zien op het slagveld. In de woeste tijden nadat de stammen uiteenvielen, zaaiden ze verwarring en wanorde onder onze vijanden. Zonder hen zouden we hier vandaag niet zijn.$B$BBreng me de Paragons of Power uit Zul'Gurub die ik zoek, en ik geef je het eerste van de geliefde pantserstukken van de dolleman. Omarm de waanzin!",
+   "o": "Breng een Primal Hakkari Armsplint naar Falthir the Sightless. Je moet ook een reputatie van minstens Friendly hebben bij de Zandalar Tribe.$B$BFalthir the Sightless is te vinden op Yojamba Isle, Stranglethorn Vale.",
+   "p": "Zoek de waanzin in Zul'Gurub en overtref die met je eigen waanzin, $N! Dat betekent succes, en succes betekent een beloning! Laat de Blood God niet opnieuw oppermachtig heersen!",
+   "c": "Goed gedaan, $N... door wat je in Zul'Gurub hebt bereikt, mag je de Zandalar-stam nu een vriend noemen. Ik zorg zelf voor wat er met de Paragons gebeurt; neem voor je moeite deze beloning aan!",
+   "g": [
+    [
+     "dolleman",
+     "madcap"
+    ],
+    [
+     "dollemannen",
+     "madcaps"
+    ],
+    [
+     "schurken",
+     "rogues (schurk)"
+    ],
+    [
+     "omarmen",
+     "to embrace"
+    ],
+    [
+     "onvoorspelbaarheid",
+     "unpredictability"
+    ],
+    [
+     "bestaan",
+     "existence"
+    ],
+    [
+     "angstaanjagend",
+     "terrifying"
+    ],
+    [
+     "slagveld",
+     "battlefield"
+    ],
+    [
+     "uiteenvielen",
+     "splintered, fell apart (uiteenvallen)"
+    ],
+    [
+     "zaaiden",
+     "sowed (zaaien)"
+    ],
+    [
+     "wanorde",
+     "mayhem, disorder"
+    ],
+    [
+     "pantserstukken",
+     "pieces of armour"
+    ],
+    [
+     "overtref",
+     "outdo, overshadow (overtreffen)"
+    ],
+    [
+     "oppermachtig",
+     "supreme"
+    ]
+   ]
+  },
+  "8064": {
+   "t": "Paragons of Power: de riem van de haruspex",
+   "d": "Wij Zandalar kennen de wegen van de druïden niet; de natuur moet gevormd worden naar onze behoefte, niet andersom. Toch staat een haruspex van ons allemaal het dichtst bij de natuur, en terecht. De geest van een beestje laten gaan is weten hoe het is om een van hen te zijn. Dat is de echte kracht van de natuur.$B$BBreng me een offer van de Paragons of Power uit Zul'Gurub en bewijs jezelf aan ons. Doe dit, en ik geef je een krachtig voorwerp: een riem die door veel haruspices van de Zandalar gedragen wordt.$B$BSterke mojo, ja man!",
+   "o": "Breng een Primal Hakkari Sash naar Maywiki of Zuldazar. Maywiki of Zuldazar is te vinden op Yojamba Isle, Stranglethorn Vale. Je moet ook Honored zijn bij de Zandalar.",
+   "p": "Heb je de Paragons of Power uit Zul'Gurub die ik nodig heb? De riem van de haruspex is van jou als je ze hebt.",
+   "c": "Ik dank je. De verborgen kracht in deze voorwerpen zal op zich al een schat zijn, dat kun je wel geloven. Je hebt niet alleen gedaan wat ik je vroeg, maar je hebt ook bewezen dat je eervol bent tegenover ons hier in de stam. Zoals beloofd, hier is je beloning!",
+   "g": [
+    [
+     "druïden",
+     "druids (druïde)"
+    ],
+    [
+     "gevormd",
+     "shaped (vormen)"
+    ],
+    [
+     "behoefte",
+     "need"
+    ],
+    [
+     "andersom",
+     "the other way around"
+    ],
+    [
+     "het dichtst bij",
+     "closest to"
+    ],
+    [
+     "beestje",
+     "little beast, beastie"
+    ],
+    [
+     "haruspices",
+     "haruspices (plural of haruspex)"
+    ],
+    [
+     "op zich",
+     "in itself"
+    ],
+    [
+     "schat",
+     "treasure"
+    ],
+    [
+     "eervol",
+     "honourable"
+    ],
+    [
+     "beloofd",
+     "promised (beloven)"
+    ]
+   ]
+  },
+  "8065": {
+   "t": "Paragons of Power: de tuniek van de haruspex",
+   "d": "Het hoogste symbool van de macht van een haruspex is wat ze dragen, $N. Daarvan staat de tuniek voor de band tussen henzelf en de goddelijke wijsheid die ze zoeken. Ze weven vaak delen van de beestjes die ze offeren in de tuniek; dat herinnert hen aan de band met hun gaven.$B$BBreng me een offer van de Paragons of Power uit Zul'Gurub en bewijs je waarde voor ons. Doe dit, en een tuniek die doordrenkt is met de ware kracht van een haruspex is van jou.",
+   "o": "Breng een Primal Hakkari Tabard naar Maywiki of Zuldazar. Maywiki of Zuldazar is te vinden op Yojamba Isle, Stranglethorn Vale. Je moet ook Revered zijn bij de Zandalar.",
+   "p": "Heb je de nodige Paragons of Power uit Zul'Gurub? De tuniek van de haruspex is elke moeite waard die je ervoor moet doen.",
+   "c": "Indrukwekkend... je hebt de nodige Paragons of Power verzameld, $N. Wat je in Zul'Gurub voor de Zandalar hebt gedaan, is legendarisch; vanaf nu word je vereerd in de stam. Hier is je tuniek, machtige $C!",
+   "g": [
+    [
+     "tuniek",
+     "tunic"
+    ],
+    [
+     "staat voor",
+     "symbolises (staan voor)"
+    ],
+    [
+     "band",
+     "connection, bond"
+    ],
+    [
+     "offeren",
+     "sacrifice (offeren)"
+    ],
+    [
+     "herinnert",
+     "reminds (herinneren)"
+    ],
+    [
+     "gaven",
+     "gifts (gave)"
+    ],
+    [
+     "doordrenkt",
+     "steeped, seeping"
+    ],
+    [
+     "nodige",
+     "necessary (nodig)"
+    ],
+    [
+     "legendarisch",
+     "legendary"
+    ],
+    [
+     "machtige",
+     "mighty (machtig)"
+    ]
+   ]
+  },
+  "8066": {
+   "t": "Paragons of Power: de riem van het roofdier",
+   "d": "Een roofdier weet hoe het zijn prooi moet besluipen, maar een succesvol roofdier weet ook hoe het moet toeslaan zodra het dichtbij is. Je moet allebei beheersen om enige kans op succes te hebben in Zul'Gurub... en enige kans om te worden zoals de roofdieren van de Zandalar.$B$BBreng me uitgekozen delen van de Paragons of Power uit Zul'Gurub. Mijn beloning zal de kracht zijn die de snuisterijen geven, en die van jou de riem van het Zandalar-roofdier: uitrusting die de ruil zeker waard is.",
+   "o": "Breng de volgende Paragons of Power uit Zul'Gurub naar Falthir the Sightless: Primal Hakkari Shawl. Je moet ook een reputatie van minstens Honored hebben bij de Zandalar Tribe.$B$BFalthir the Sightless is te vinden op Yojamba Isle, Stranglethorn Vale.",
+   "p": "Sla toe op de krankzinnige dienaren van Hakkar in Zul'Gurub; zij hebben de Paragons of Power, $N. Bewijs je succes aan hen, en aan de stam, als iemand die een roofdier wil worden.",
+   "c": "Ik voelde je komst een paar ogenblikken geleden al, $N, maar niet zonder moeite. Wat je aan mij verraadde, waren de Paragons of Power die je meebracht. Ik voel de kracht zonder de snuisterijen te hoeven zien. Hun verborgen mojo, ruwe magie zo je wilt, zal onze strijd blijven voeden om de duivelse plannen van de Blood God Hakkar te verslaan.$B$BJe verdient lof, en een beloning, voor je succes. Je wordt geëerd in de stam, en je bent waardig om de riem van het roofdier te dragen.",
+   "g": [
+    [
+     "besluipen",
+     "to stalk"
+    ],
+    [
+     "toeslaan",
+     "to strike"
+    ],
+    [
+     "beheersen",
+     "to master"
+    ],
+    [
+     "uitgekozen",
+     "choice, selected (uitkiezen)"
+    ],
+    [
+     "snuisterijen",
+     "trinkets (snuisterij)"
+    ],
+    [
+     "uitrusting",
+     "equipment"
+    ],
+    [
+     "ruil",
+     "trade, exchange"
+    ],
+    [
+     "Sla toe",
+     "strike (toeslaan)"
+    ],
+    [
+     "krankzinnige",
+     "insane (krankzinnig)"
+    ],
+    [
+     "komst",
+     "arrival"
+    ],
+    [
+     "verraadde",
+     "revealed, gave away (verraden)"
+    ],
+    [
+     "zo je wilt",
+     "if you will"
+    ],
+    [
+     "lof",
+     "praise"
+    ],
+    [
+     "geëerd",
+     "honoured (eren)"
+    ]
+   ]
+  },
+  "8067": {
+   "t": "Paragons of Power: de mantel van het roofdier",
+   "d": "Wij Zandalar waarderen wat we dragen als symbool van wat we bereikt hebben. Je hoeft niet te kunnen zien wat iemand draagt om te voelen wat ervan uitgaat; kracht gaat verder dan zicht. Met de kleding van het Zandalar-roofdier is het ook zo, en het meest gekoesterd is de mantel die ze dragen. Die helpt hen te verbergen voor het oog... en hun aanwezigheid te laten merken wanneer ze dat willen.$B$BDe Paragons of Power wachten in Zul'Gurub tot jij ze komt halen. Breng me wat ik zoek, en de mantel van het roofdier zal van jou zijn.",
+   "o": "Breng de volgende Paragons of Power uit Zul'Gurub naar Falthir the Sightless: Primal Hakkari Aegis. Je moet ook een reputatie van minstens Revered hebben bij de Zandalar Tribe.$B$BFalthir the Sightless is te vinden op Yojamba Isle, Stranglethorn Vale.",
+   "p": "Hebben je aanvallen in Zul'Gurub succes opgeleverd, $N? Pas als je me hebt gebracht wat ik zoek, en jezelf volledig hebt bewezen aan de stam, verdien je een mantel die onder de Zandalar zijn gelijke niet kent.",
+   "c": "Succes... je zult vereerd worden in de stam, $N. Het was geen kleine prestatie om de Paragons of Power voor de mantel te verkrijgen, maar je hebt het aangepakt op de manier van de dodelijkste van onze roofdieren. Je hebt je plaats onder hen verdiend, en je hebt zeker het recht verdiend om hun mantel te dragen.",
+   "g": [
+    [
+     "mantel",
+     "mantle, cloak"
+    ],
+    [
+     "bereikt",
+     "achieved (bereiken)"
+    ],
+    [
+     "ervan uitgaat",
+     "emanates from it (uitgaan van)"
+    ],
+    [
+     "zicht",
+     "sight"
+    ],
+    [
+     "gekoesterd",
+     "cherished (koesteren)"
+    ],
+    [
+     "verbergen",
+     "to hide, obscure"
+    ],
+    [
+     "laten merken",
+     "to make known, show"
+    ],
+    [
+     "opgeleverd",
+     "yielded (opleveren)"
+    ],
+    [
+     "zijn gelijke niet kent",
+     "is second to none"
+    ],
+    [
+     "verkrijgen",
+     "to acquire"
+    ],
+    [
+     "aangepakt",
+     "handled (aanpakken)"
+    ],
+    [
+     "dodelijkste",
+     "deadliest (dodelijk)"
+    ]
+   ]
+  },
+  "8068": {
+   "t": "Paragons of Power: de mantel van de illusionist",
+   "d": "Magie is een ruwe oerkracht, die gevormd moet worden door wie daar sterk genoeg voor is. Mojo is onze uitbreiding van deze kracht; een sterke manier om die te bespelen is de illusie. Hoe kun je ooit hopen te winnen van een vijand die er niet eens echt is? Wij Zandalar kennen de kracht hiervan, en daarom hebben illusionisten een eervolle plaats in de stam.$B$BHaal de nodige Paragons of Power uit Zul'Gurub. Hiervoor krijg je eer van de stam en een krachtige mantel die door onze beste illusionisten gebruikt wordt!",
+   "o": "Breng een Primal Hakkari Shawl naar Al'tabim the All-Seeing. Je moet ook een reputatie van minstens Honored hebben bij de Zandalar Tribe.$B$BAl'tabim the All-Seeing is te vinden op Yojamba Isle, Stranglethorn Vale.",
+   "p": "Hoe was je tocht naar Zul'Gurub? Heb je je vijanden gek gemaakt met de kracht van illusie? Illusie of niet, hun dood en de Paragons of Power die je van hen hebt afgenomen, zullen helpen de opkomst van Hakkar te verhinderen.",
+   "c": "Succes! Vanaf nu word je geëerd in de stam! Zul'Gurub heeft vandaag zeker de macht van de Zandalar geproefd, dankzij jou, $N.$B$BNeem met de zegen van de stam de mantel van de Zandalar-illusionist. Moge hij je goed dienen.",
+   "g": [
+    [
+     "ruwe",
+     "raw (ruw)"
+    ],
+    [
+     "oerkracht",
+     "primal force"
+    ],
+    [
+     "uitbreiding",
+     "extension"
+    ],
+    [
+     "bespelen",
+     "to manipulate, play"
+    ],
+    [
+     "eervolle",
+     "honoured, honourable (eervol)"
+    ],
+    [
+     "tocht",
+     "foray, trip"
+    ],
+    [
+     "afgenomen",
+     "taken from (afnemen)"
+    ],
+    [
+     "verhinderen",
+     "to thwart, prevent"
+    ],
+    [
+     "geproefd",
+     "tasted (proeven)"
+    ],
+    [
+     "zegen",
+     "blessing"
+    ],
+    [
+     "Moge",
+     "may (mogen)"
+    ]
+   ]
+  },
+  "8069": {
+   "t": "Paragons of Power: het gewaad van de illusionist",
+   "d": "De stam erkent rang en macht door middel van wat we dragen. Onze gewaden zijn gemaakt van de beste materialen en doorweven met de mojo die ons machtig maakt. Illusionisten zijn geen uitzondering; men zegt dat hun gewaden in hun uiterlijk het wezen van illusie belichamen. Volgens de legende zagen hun oude gewaden er nooit twee keer hetzelfde uit.$B$BIk zal je een gewaad van de illusionist geven, $N... maar verdien eerst je plaats van verering in de stam! Breng me de Paragons of Power uit Zul'Gurub!",
+   "o": "Breng een Primal Hakkari Kossack naar Al'tabim the All-Seeing. Je moet ook een reputatie van minstens Revered hebben bij de Zandalar Tribe.$B$BAl'tabim the All-Seeing is te vinden op Yojamba Isle, Stranglethorn Vale.",
+   "p": "Ben je terug met de Paragons of Power die we nodig hebben? Ik weet dat het niet makkelijk zal zijn... maar ik heb al lang voorspeld dat er een buitenstaander zou komen om ons te helpen in onze strijd tegen Hakkar. Laat dat jij zijn, zeg ik!",
+   "c": "Eindelijk iemand die waardig is om het gewaad van de illusionist te dragen! Door je succes in Zul'Gurub word je nog eeuwenlang vereerd in de stam. Draag het met trots, $N!",
+   "g": [
+    [
+     "gewaad",
+     "robe"
+    ],
+    [
+     "gewaden",
+     "robes, vestments"
+    ],
+    [
+     "erkent",
+     "acknowledges (erkennen)"
+    ],
+    [
+     "rang",
+     "rank, station"
+    ],
+    [
+     "doorweven",
+     "interwoven"
+    ],
+    [
+     "uitzondering",
+     "exception"
+    ],
+    [
+     "uiterlijk",
+     "appearance, look"
+    ],
+    [
+     "verering",
+     "reverence"
+    ],
+    [
+     "voorspeld",
+     "predicted (voorspellen)"
+    ],
+    [
+     "buitenstaander",
+     "outsider"
+    ],
+    [
+     "eeuwenlang",
+     "for ages"
+    ],
+    [
+     "trots",
+     "pride"
+    ]
+   ]
+  }
+ },
+ "words": {
+  "afbeeldingen": "pictures, images (afbeelding)",
+  "augur": "augur, seer",
+  "bemiddelen": "to broker, mediate",
+  "bezetenen": "demoniacs, the possessed (bezetene)",
+  "biechtvaders": "confessors (biechtvader)",
+  "bitter": "bitter",
+  "bloedelfverraders": "blood elf traitors (bloedelfverrader)",
+  "dwergenkoning": "dwarven king",
+  "erdoorheen": "through it/them",
+  "hakkars": "Hakkar's",
+  "hechten": "to attach (waarde hechten aan: to value)",
+  "henzelf": "themselves",
+  "illusionisten": "illusionists (illusionist)",
+  "opgaven": "gave up (opgeven)",
+  "verantwoording": "account, responsibility (ter verantwoording roepen: to confront)",
+  "verhoudt": "compares, relates (zich verhouden)",
+  "woestijnrecept": "desert recipe",
+  "wrekers": "vindicators, avengers (wreker)",
+  "zachtst": "softest (zacht); op zijn zachtst gezegd: to say the least",
+  "zandalar-augur": "Zandalar augur",
+  "zandalar-illusionist": "Zandalar illusionist",
+  "zandalar-roofdier": "Zandalar predator",
+  "zandalar-wreker": "Zandalar vindicator"
+ },
+ "terms": {
+  "mojo": "mojo: troll word for magical power in the Warcraft world"
+ }
+}
