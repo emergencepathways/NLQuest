@@ -140,6 +140,7 @@ Data\Batch_79_Scholomance_7_Voorquests.lua
 Data\Batch_149_Blackrock_Depths.lua
 Data\Batch_80_Stratholme.lua
 Data\Batch_150_Alterac_Valley.lua
+Data\Batch_151_Dire_Maul.lua
 
 Display.lua
 Reader.lua
