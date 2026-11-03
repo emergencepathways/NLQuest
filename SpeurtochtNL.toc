@@ -97,6 +97,7 @@ Data\Batch_128_Silverpine_Forest.lua
 Data\Batch_57_Un_Goro_Crater.lua
 Data\Batch_129_Stonetalon_Mountains.lua
 Data\Batch_58_Un_Goro_Crater.lua
+Data\Batch_130_Ashenvale.lua
 
 Display.lua
 Reader.lua

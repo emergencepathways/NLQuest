@@ -1,0 +1,1782 @@
+{
+  "quests": {
+    "1918": {
+      "t": "Het bevuilde element",
+      "d": "Het verslagen elementaal heeft een fel gloeiende bol water gemaakt. Wat erin zit, is op zijn best walgelijk. Je mag aannemen dat in het water van de bol ook zit wat het water van Mystral Lake heeft bevuild.$B$BHet is niet echt bekend wie zo'n vondst interessant zou vinden. Misschien heeft de persoon die je eerst naar het meer stuurde een idee: Mastok Wrilehiss in Splintertree Post.",
+      "o": "Breng de Befouled Water Globe naar Mastok Wrilehiss in Splintertree Post, Ashenvale.",
+      "p": "Ja, wat heb je nodig?",
+      "c": "Je vindt een smerige bal water en besluit hem naar mij te brengen? Wie ben ik, de Earthen Ring of zo?$B$BEigenlijk geeft me dat wel een idee... misschien heb je hiervoor echt de Earthen Ring nodig. Ik bedoel, als het helpt om het probleem bij het meer voorgoed op te lossen, dan ben ik ervoor.$B$BWeet je wie de Earthen Ring zijn, $N?",
+      "g": [
+        [
+          "bevuilde",
+          "befouled, dirtied"
+        ],
+        [
+          "verslagen",
+          "defeated, slain"
+        ],
+        [
+          "gloeiende",
+          "glowing"
+        ],
+        [
+          "bol",
+          "globe, ball"
+        ],
+        [
+          "walgelijk",
+          "disgusting"
+        ],
+        [
+          "aannemen",
+          "to assume"
+        ],
+        [
+          "bevuild",
+          "befouled, dirtied"
+        ],
+        [
+          "vondst",
+          "find, discovery"
+        ],
+        [
+          "smerige",
+          "nasty, filthy"
+        ],
+        [
+          "voorgoed",
+          "for good"
+        ],
+        [
+          "op te lossen",
+          "to solve (oplossen)"
+        ]
+      ]
+    },
+    "6571": {
+      "t": "Voorraden voor Warsong",
+      "d": "We hebben een tekort aan een paar spullen in het houthakkerskamp van Warsong!$B$BPixel in Splintertree Post heeft onze lading zaagbladen. Voor een krat bijlen moet je naar Booty Bay reizen. Die kun je ophalen bij Wharfmaster Lozgil.$B$BOnze lading olie en touw wordt moeilijker. Het touw is gestolen door de Thistlefur- en Foulweald-furbolgs. En de saters hebben de levering van de olie onderschept. Nu gebruiken ze die voor walgelijke rituelen in Night Run, Satyrnaar en Xavian!$B$BKun je me helpen?",
+      "o": "Verzamel de Warsong Supplies: Warsong Saw Blades, Logging Rope, Warsong Oil en de Warsong Axe Shipment voor Locke Okarr in Splintertree Post.",
+      "p": "Ik hoop dat je de voorraden kunt brengen! Ik zit flink in de problemen als ik ze niet snel lever!",
+      "c": "Uitstekend, $N. Je hebt me een hoop werk bespaard!$B$BMaar denk niet dat ik niet dankbaar ben!",
+      "g": [
+        [
+          "tekort",
+          "shortage"
+        ],
+        [
+          "houthakkerskamp",
+          "lumber camp"
+        ],
+        [
+          "lading",
+          "shipment, load"
+        ],
+        [
+          "zaagbladen",
+          "saw blades"
+        ],
+        [
+          "krat",
+          "crate"
+        ],
+        [
+          "bijlen",
+          "axes"
+        ],
+        [
+          "touw",
+          "rope"
+        ],
+        [
+          "saters",
+          "satyrs"
+        ],
+        [
+          "levering",
+          "delivery"
+        ],
+        [
+          "onderschept",
+          "intercepted (onderscheppen)"
+        ],
+        [
+          "rituelen",
+          "rituals"
+        ],
+        [
+          "lever",
+          "deliver (leveren)"
+        ],
+        [
+          "bespaard",
+          "saved, spared (besparen)"
+        ],
+        [
+          "dankbaar",
+          "grateful"
+        ]
+      ]
+    },
+    "6581": {
+      "t": "Zaagbladen voor Warsong",
+      "p": "Rechtstreeks uit Ratchet: de zaagbladen voor Warsong! Jawel, ik heb ze hier.$B$B..Maar wat voor betaling heb je voor me? Je kunt ze niet zomaar meenemen, hoor! Mijn tijd is niet goedkoop!$B$BWat ik echt nodig heb, is een goed geweer om mee te nemen op mijn reizen. Een meid moet zichzelf beschermen, weet je? Er is een geweer dat ik heel mooi vind. Een ingenieur kan het vast zonder problemen maken.$B$BDus als je me een Deadly Blunderbuss brengt, geef ik je de lading zaagbladen. Afgesproken?",
+      "c": "Dit is perfect, precies wat ik zocht! Nou, hier is de lading.",
+      "g": [
+        [
+          "rechtstreeks",
+          "directly"
+        ],
+        [
+          "zaagbladen",
+          "saw blades"
+        ],
+        [
+          "betaling",
+          "payment"
+        ],
+        [
+          "zomaar",
+          "just like that"
+        ],
+        [
+          "goedkoop",
+          "cheap"
+        ],
+        [
+          "geweer",
+          "gun, rifle"
+        ],
+        [
+          "beschermen",
+          "to protect"
+        ],
+        [
+          "ingenieur",
+          "engineer"
+        ],
+        [
+          "lading",
+          "shipment, load"
+        ],
+        [
+          "afgesproken",
+          "agreed, deal"
+        ]
+      ]
+    },
+    "2": {
+      "t": "De klauw van Sharptalon",
+      "d": "De machtige hippogrief Sharptalon is gedood. De klauw van het gevallen beest laat je overwinning zien. Senani Thunderheart in Splintertree Post wil deze trofee vast graag zien als bewijs van je daden.",
+      "o": "Breng Sharptalon's Claw naar Senani Thunderheart in Splintertree Post, Ashenvale.",
+      "p": "Ja, machtige $c, ik voelde dat je eraan kwam. Ik neem aan dat je meer nieuws hebt over je jacht?",
+      "c": "Heel indrukwekkend, $N... de klauw van Sharptalon was vast niet makkelijk te krijgen! De Ashenvale Hunt gaat goed voor je!$B$BLange tijd terroriseerde Sharptalon de peons uit de houthakkerskampen bij zijn pad, als ze op weg waren hierheen, naar Splintertree Post. Zodra bekend wordt dat jij het beest hebt gedood, zullen er vast veel vurige liederen over je moed klinken bij kampvuren en houtzagerijen in heel Ashenvale!",
+      "g": [
+        [
+          "klauw",
+          "claw"
+        ],
+        [
+          "machtige",
+          "mighty"
+        ],
+        [
+          "hippogrief",
+          "hippogryph"
+        ],
+        [
+          "gevallen",
+          "fallen, felled"
+        ],
+        [
+          "overwinning",
+          "victory"
+        ],
+        [
+          "trofee",
+          "trophy"
+        ],
+        [
+          "bewijs",
+          "proof"
+        ],
+        [
+          "daden",
+          "deeds"
+        ],
+        [
+          "indrukwekkend",
+          "impressive"
+        ],
+        [
+          "terroriseerde",
+          "terrorized (terroriseren)"
+        ],
+        [
+          "houthakkerskampen",
+          "lumber camps"
+        ],
+        [
+          "vurige",
+          "fiery, rousing"
+        ],
+        [
+          "liederen",
+          "songs"
+        ],
+        [
+          "moed",
+          "courage, bravery"
+        ],
+        [
+          "houtzagerijen",
+          "lumber mills"
+        ]
+      ]
+    },
+    "247": {
+      "t": "De jacht voltooid",
+      "c": "$N, je hebt alle drie de beesten van de Ashenvale Hunt gedood. Je hebt me genoeg bewijs van hun dood gebracht. Er is geen twijfel aan je kracht en volharding. Het bloed van een jager stroomt door je aderen, en daarvoor verdien je lof!$B$BAlsjeblieft, neem deze snuisterij aan als felicitatie voor je machtige daden vandaag in Ashenvale, voor de Horde. Mogen je voorouders over je waken!",
+      "g": [
+        [
+          "voltooid",
+          "completed"
+        ],
+        [
+          "bewijs",
+          "proof"
+        ],
+        [
+          "twijfel",
+          "doubt"
+        ],
+        [
+          "volharding",
+          "tenacity, perseverance"
+        ],
+        [
+          "stroomt",
+          "flows (stromen)"
+        ],
+        [
+          "aderen",
+          "veins"
+        ],
+        [
+          "lof",
+          "praise"
+        ],
+        [
+          "snuisterij",
+          "bauble, trinket"
+        ],
+        [
+          "felicitatie",
+          "congratulation"
+        ],
+        [
+          "daden",
+          "deeds"
+        ],
+        [
+          "voorouders",
+          "ancestors"
+        ],
+        [
+          "waken",
+          "to watch over"
+        ]
+      ]
+    },
+    "909": {
+      "t": "Baron Aquanis",
+      "d": "Het verslagen waterelementaal heeft een vreemde waterbol achtergelaten. Je vermoedt dat het voorwerp het beest op de een of andere manier energie gaf. In de bol klotst water dat er rot uitziet. De bol zelf lijkt bestand tegen elke vorm van fysieke kracht.$B$BAls iemand iets van dit voorwerp kan begrijpen, dan is het Je'neu Sancrea van de Earthen Ring. Hij is in Zoram'gar Outpost van de Horde, in Ashenvale.",
+      "o": "Breng de Strange Water Globe naar Je'neu Sancrea in Zoram'gar Outpost, Ashenvale.",
+      "p": "Ah, hallo weer, $N. Ik was net de golven van de zee aan het lezen, zoals ik altijd doe. Wat brengt je naar de buitenpost?",
+      "c": "Dit... dit is een flinke vondst, $N.$b$bJe hebt dit van Baron Aquanis in Blackfathom, zeg je? Baron Aquanis wordt al lang gezien als een verdorven elementaire kracht. Deze bol zal bewijzen wat hem precies heeft verdorven. Het zou geen verrassing zijn als het de Twilight's Hammer was. Maar ons onderzoek zal ook laten zien hoe ze het hebben gedaan.$b$bJe hebt er goed aan gedaan om dit naar mij te brengen. Alsjeblieft, neem dit aan, met de hartelijkste groeten van de Earthen Ring.",
+      "g": [
+        [
+          "verslagen",
+          "defeated"
+        ],
+        [
+          "waterbol",
+          "water globe"
+        ],
+        [
+          "vermoedt",
+          "suspects, surmises (vermoeden)"
+        ],
+        [
+          "voorwerp",
+          "object"
+        ],
+        [
+          "klotst",
+          "sloshes (klotsen)"
+        ],
+        [
+          "rot",
+          "rotten, putrid"
+        ],
+        [
+          "bestand tegen",
+          "resistant to"
+        ],
+        [
+          "fysieke",
+          "physical"
+        ],
+        [
+          "buitenpost",
+          "outpost"
+        ],
+        [
+          "vondst",
+          "find"
+        ],
+        [
+          "verdorven",
+          "corrupted"
+        ],
+        [
+          "elementaire",
+          "elemental"
+        ],
+        [
+          "onderzoek",
+          "research, studies"
+        ],
+        [
+          "hartelijkste",
+          "warmest"
+        ]
+      ]
+    },
+    "6504": {
+      "t": "De verloren bladzijden",
+      "d": "Ik heb net deze shredder opgehaald in Ratchet. Ik was op weg terug naar het Warsong Lumber Camp, waar ik dienst moet hebben. Ik had een handleiding gekregen over het besturen van de shredder. Maar op de terugweg blies een harde windvlaag hem uit mijn handen. De bladzijden vlogen overal heen, en ik hield alleen de kaft over.$B$BDe bladzijden kunnen nu zo'n beetje overal zijn, denk ik... maar zonder die bladzijden weet ik niet hoe ik de shredder moet gebruiken! Wil je ze voor me zoeken?",
+      "o": "Vind de 12 ontbrekende bladzijden van de Shredder Operating Manual en voeg ze samen tot Chapter 1, Chapter 2 en Chapter 3. Breng de bladzijden terug naar Gurda Ragescar bij Splintertree Post.$b",
+      "p": "Ik hoop dat je de bladzijden snel vindt, $N! Ik moet echt weer aan het werk!",
+      "c": "Lezen is niet mijn sterkste kant... maar nu kan ik weer aan het werk! Bedankt, $N!",
+      "g": [
+        [
+          "bladzijden",
+          "pages"
+        ],
+        [
+          "opgehaald",
+          "picked up (ophalen)"
+        ],
+        [
+          "dienst",
+          "duty, shift"
+        ],
+        [
+          "handleiding",
+          "manual"
+        ],
+        [
+          "besturen",
+          "to operate, to steer"
+        ],
+        [
+          "terugweg",
+          "way back"
+        ],
+        [
+          "windvlaag",
+          "gust of wind"
+        ],
+        [
+          "kaft",
+          "cover (of a book)"
+        ],
+        [
+          "ontbrekende",
+          "missing"
+        ],
+        [
+          "voeg ze samen",
+          "put them together (samenvoegen)"
+        ],
+        [
+          "sterkste kant",
+          "strong point"
+        ]
+      ]
+    },
+    "6922": {
+      "t": "Baron Aquanis",
+      "d": "Het verslagen waterelementaal heeft een vreemde waterbol achtergelaten. Je vermoedt dat het voorwerp het beest op de een of andere manier energie gaf. In de bol klotst water dat er rot uitziet. De bol zelf lijkt bestand tegen elke vorm van fysieke kracht.$B$BAls iemand iets van dit voorwerp kan begrijpen, dan is het Je'neu Sancrea van de Earthen Ring. Hij is in Zoram'gar Outpost van de Horde, in Ashenvale.",
+      "o": "Breng de Strange Water Globe naar Je'neu Sancrea in Zoram'gar Outpost, Ashenvale.",
+      "p": "Ah, hallo weer, $N. Ik was net de golven van de zee aan het lezen, zoals ik altijd doe. Wat brengt je naar de buitenpost?",
+      "c": "Dit... dit is een flinke vondst, $N.$B$BJe hebt dit van Baron Aquanis in Blackfathom, zeg je? Baron Aquanis wordt al lang gezien als een verdorven elementaire kracht. Deze bol zal bewijzen wat hem precies heeft verdorven. Het zou geen verrassing zijn als het de Twilight's Hammer was. Maar ons onderzoek zal ook laten zien hoe ze het hebben gedaan.$B$BJe hebt er goed aan gedaan om dit naar mij te brengen. Alsjeblieft, neem dit aan, met de hartelijkste groeten van de Earthen Ring.",
+      "g": [
+        [
+          "verslagen",
+          "defeated"
+        ],
+        [
+          "waterbol",
+          "water globe"
+        ],
+        [
+          "vermoedt",
+          "suspects, surmises (vermoeden)"
+        ],
+        [
+          "voorwerp",
+          "object"
+        ],
+        [
+          "klotst",
+          "sloshes (klotsen)"
+        ],
+        [
+          "rot",
+          "rotten, putrid"
+        ],
+        [
+          "bestand tegen",
+          "resistant to"
+        ],
+        [
+          "fysieke",
+          "physical"
+        ],
+        [
+          "buitenpost",
+          "outpost"
+        ],
+        [
+          "vondst",
+          "find"
+        ],
+        [
+          "verdorven",
+          "corrupted"
+        ],
+        [
+          "elementaire",
+          "elemental"
+        ],
+        [
+          "onderzoek",
+          "research, studies"
+        ],
+        [
+          "hartelijkste",
+          "warmest"
+        ]
+      ]
+    },
+    "7866": {
+      "t": "Eenvoudig verzorgingspakket voor Outriders",
+      "c": "Je bent echt begonnen jezelf aan ons te bewijzen, $N. Als beloning krijg je dit verzorgingspakket! Er zitten rantsoenen en verband in. Je kunt ze alleen in Warsong Gulch gebruiken. $B$BAls je je in de Gulch blijft bewijzen, kun je deze spullen later ook kopen. Rantsoenen kun je kopen als je Friendly met ons bent, en verband als je Honored bent.",
+      "g": [
+        [
+          "eenvoudig",
+          "basic, simple"
+        ],
+        [
+          "verzorgingspakket",
+          "care package"
+        ],
+        [
+          "bewijzen",
+          "to prove"
+        ],
+        [
+          "beloning",
+          "reward"
+        ],
+        [
+          "rantsoenen",
+          "rations"
+        ],
+        [
+          "verband",
+          "bandages"
+        ],
+        [
+          "blijft",
+          "keep on, continue (blijven)"
+        ]
+      ]
+    },
+    "7867": {
+      "t": "Standaard verzorgingspakket voor Outriders",
+      "c": "Je bent duidelijk begonnen jezelf aan ons te bewijzen, $N. Als beloning wil ik je dit verzorgingspakket geven! Er zitten rantsoenen en verband in, die alleen bruikbaar zijn in Warsong Gulch. $B$BNaarmate je je in de Gulch verder bewijst, zul je merken dat je deze spullen ook kunt kopen. Rantsoenen worden beschikbaar zodra je Friendly met ons bent, en verband zodra je Honored bent.",
+      "g": [
+        [
+          "verzorgingspakket",
+          "care package"
+        ],
+        [
+          "bewijzen",
+          "to prove"
+        ],
+        [
+          "beloning",
+          "reward"
+        ],
+        [
+          "rantsoenen",
+          "rations"
+        ],
+        [
+          "verband",
+          "bandages"
+        ],
+        [
+          "bruikbaar",
+          "usable"
+        ],
+        [
+          "naarmate",
+          "as (to the extent that)"
+        ],
+        [
+          "merken",
+          "to notice"
+        ],
+        [
+          "beschikbaar",
+          "available"
+        ]
+      ]
+    },
+    "7868": {
+      "t": "Uitgebreid verzorgingspakket voor Outriders",
+      "c": "Je bent ongetwijfeld begonnen je waarde voor ons te bewijzen, $N. Neem als beloning dit verzorgingspakket aan! Je vindt er rantsoenen en verband in, die uitsluitend binnen Warsong Gulch te gebruiken zijn. $B$BNaarmate je je in de Gulch blijft bewijzen, zul je merken dat deze voorwerpen voor jou te koop komen. Rantsoenen komen beschikbaar zodra je Friendly met ons bent, verband zodra je Honored bent.",
+      "g": [
+        [
+          "uitgebreid",
+          "advanced, extensive"
+        ],
+        [
+          "verzorgingspakket",
+          "care package"
+        ],
+        [
+          "ongetwijfeld",
+          "undoubtedly, certainly"
+        ],
+        [
+          "waarde",
+          "worth, value"
+        ],
+        [
+          "rantsoenen",
+          "rations"
+        ],
+        [
+          "verband",
+          "bandages"
+        ],
+        [
+          "uitsluitend",
+          "exclusively, only"
+        ],
+        [
+          "naarmate",
+          "as (to the extent that)"
+        ],
+        [
+          "voorwerpen",
+          "items, objects"
+        ],
+        [
+          "te koop",
+          "for sale"
+        ],
+        [
+          "beschikbaar",
+          "available"
+        ]
+      ]
+    },
+    "494": {
+      "t": "Tijd om toe te slaan",
+      "d": "Wees stil en let goed op, $c.$b$bIk ben naar deze plek gestuurd om de stad Hillsbrad te bekijken. Ik ben op verkenning. Het is heel belangrijk dat je meteen een bericht stuurt naar High Executor Darthalia in Tarren Mill. Zeg haar dat ik, Deathstalker Lesh, dit bericht stuur:$b$b\"De kreet van de raaf uit het westen wenkt.\"$b$bVolg de weg naar het oosten en let goed op de borden. Schiet op! Ga nu naar Tarren Mill. En snel, zou ik zeggen!",
+      "o": "Reis naar Tarren Mill en breng het bericht van Deathstalker Lesh naar High Executor Darthalia.",
+      "c": "De kreet van de raaf uit het westen wenkt?$b$bGeweldig nieuws! Hillsbrad is klaar voor een aanval. Nu kunnen we ons plan van vernietiging uitvoeren. Varimathras zal tevreden zijn.",
+      "g": [
+        [
+          "toe te slaan",
+          "to strike (toeslaan)"
+        ],
+        [
+          "let goed op",
+          "pay close attention (opletten)"
+        ],
+        [
+          "verkenning",
+          "reconnaissance"
+        ],
+        [
+          "bericht",
+          "message"
+        ],
+        [
+          "kreet",
+          "cry"
+        ],
+        [
+          "raaf",
+          "raven"
+        ],
+        [
+          "wenkt",
+          "beckons (wenken)"
+        ],
+        [
+          "borden",
+          "signs"
+        ],
+        [
+          "schiet op",
+          "hurry up (opschieten)"
+        ],
+        [
+          "aanval",
+          "attack"
+        ],
+        [
+          "vernietiging",
+          "destruction"
+        ],
+        [
+          "uitvoeren",
+          "to carry out"
+        ],
+        [
+          "tevreden",
+          "pleased, satisfied"
+        ]
+      ]
+    },
+    "496": {
+      "t": "Elixer van lijden",
+      "d": "Ah, weer een ellendige dag in Tarren Mill. Al die schone lucht maakt me zo chagrijnig, $N.$b$bHoe eerder we de mensen hier met de pest besmetten, hoe beter. Ik doe intensief onderzoek naar mogelijke dodelijke stoffen voor mijn brouwsels. Maar ik heb geen tijd om ze allemaal te verzamelen.$b$bAls je jezelf nuttig wilt maken, haal dan deze dingen voor me: 10 Gray Bear Tongues en de heel zeldzame en moeilijk te vinden Creeper Ichor. Je vindt zowel beren als creepers net buiten Tarren Mill.",
+      "o": "Apothecary Lydon in Tarren Mill wil 10 Gray Bear Tongues en wat Creeper Ichor.",
+      "p": "Ik zie dat je terug bent. Ik hoop dat je de stoffen hebt verzameld die ik nodig heb. Nog een dag zonder dood maakt me zo somber.",
+      "c": "Deze monsters zijn perfect. Nou, $N, je hebt me het kleinste beetje vreugde gebracht op weer een ellendige dag. Je moeite wordt gewaardeerd.",
+      "g": [
+        [
+          "lijden",
+          "suffering"
+        ],
+        [
+          "ellendige",
+          "wretched, miserable"
+        ],
+        [
+          "chagrijnig",
+          "grumpy, in a foul mood"
+        ],
+        [
+          "pest",
+          "plague"
+        ],
+        [
+          "besmetten",
+          "to infect"
+        ],
+        [
+          "intensief",
+          "intense"
+        ],
+        [
+          "dodelijke",
+          "deadly"
+        ],
+        [
+          "stoffen",
+          "substances, agents"
+        ],
+        [
+          "brouwsels",
+          "concoctions, brews"
+        ],
+        [
+          "nuttig",
+          "useful"
+        ],
+        [
+          "zeldzame",
+          "rare"
+        ],
+        [
+          "somber",
+          "gloomy"
+        ],
+        [
+          "monsters",
+          "specimens, samples"
+        ],
+        [
+          "vreugde",
+          "joy"
+        ],
+        [
+          "gewaardeerd",
+          "appreciated (waarderen)"
+        ]
+      ]
+    },
+    "498": {
+      "t": "De redding",
+      "d": "Ik en een paar andere krijgers zijn door de Warchief gestuurd om een voorwerp uit Durnholde te halen. We moesten ook onderzoek doen naar het zogenaamde Syndicate.$b$bWe gingen naar Durnholde om rond te kijken. Maar we werden verrast door een grote groep mensen. We vochten dapper, maar ze waren gewoon met te veel. Ze namen een paar van ons gevangen, maar ik kon ontsnappen.$b$bDurnholde ligt net ten zuidoosten van hier, aan de overkant van de rivier. Drull en Tog'thar worden daar vastgehouden. Je moet erheen gaan en ze bevrijden.",
+      "o": "Krusk in Tarren Mill wil dat je Drull en Tog'thar bevrijdt uit Durnholde Keep.",
+      "p": "Je moet opschieten, $C. Ik huiver bij de gedachte aan wat de mensen Drull en Tog'thar misschien aandoen.",
+      "c": "Dus de mensen wilden onze krijgers tot slaven maken? Dat zullen we ze laten zien!$b$bHet lijkt erop dat ze Gol'dir, onze leider, naar een andere plek hebben gebracht. We moeten hem vinden en redden. Maar we hebben nu geen idee waar hij is...$b$bAls we een spoor hebben, zal ik het je zeker vertellen, $N.",
+      "o1": "Bevrijd Drull",
+      "o2": "Bevrijd Tog'thar",
+      "g": [
+        [
+          "redding",
+          "rescue"
+        ],
+        [
+          "voorwerp",
+          "object"
+        ],
+        [
+          "zogenaamde",
+          "so-called"
+        ],
+        [
+          "verrast",
+          "surprised (verrassen)"
+        ],
+        [
+          "dapper",
+          "bravely"
+        ],
+        [
+          "gevangen",
+          "captive"
+        ],
+        [
+          "ontsnappen",
+          "to escape"
+        ],
+        [
+          "aan de overkant",
+          "on the other side, across"
+        ],
+        [
+          "vastgehouden",
+          "held (vasthouden)"
+        ],
+        [
+          "bevrijden",
+          "to free"
+        ],
+        [
+          "huiver",
+          "shudder (huiveren)"
+        ],
+        [
+          "aandoen",
+          "to do to (someone)"
+        ],
+        [
+          "slaven",
+          "slaves"
+        ],
+        [
+          "spoor",
+          "lead, trail"
+        ]
+      ]
+    },
+    "499": {
+      "t": "Elixer van lijden",
+      "d": "Het duurt maar even om deze ingrediënten te mengen tot wat ik een Elixir of Suffering noem.$b$bZo! Ah, niets maakt een sombere dag in deze ellendige heuvels zo vrolijk als een beetje lijden in de wereld brengen.$b$bLaten we kijken of ons drankje het gewenste effect heeft.$b$bGeef mijn assistente Umpi een voorproefje van wat de Dark Lady van plan is met zowel de mensen als de Scourge.",
+      "o": "Geef Umpi de Elixir of Suffering.",
+      "p": "Kwak!",
+      "c": "Kwaak!",
+      "g": [
+        [
+          "ingrediënten",
+          "ingredients, components"
+        ],
+        [
+          "mengen",
+          "to mix"
+        ],
+        [
+          "sombere",
+          "gloomy"
+        ],
+        [
+          "ellendige",
+          "miserable"
+        ],
+        [
+          "heuvels",
+          "hills, foothills"
+        ],
+        [
+          "lijden",
+          "suffering"
+        ],
+        [
+          "drankje",
+          "potion"
+        ],
+        [
+          "gewenste",
+          "desired"
+        ],
+        [
+          "assistente",
+          "assistant (f.)"
+        ],
+        [
+          "voorproefje",
+          "foretaste"
+        ],
+        [
+          "van plan",
+          "planning, intending"
+        ]
+      ]
+    },
+    "549": {
+      "t": "GEZOCHT: personeel van het Syndicate",
+      "d": "Op gezag van Lady Sylvanas worden alle leden van de organisatie die bekendstaat als het Syndicate dood gezocht. Wie wordt opgepakt of gevangengenomen, wordt zonder pardon geëxecuteerd. Ze verzamelen zich op dit moment in de ruïnes van Durnholde Keep, ten zuidoosten van Tarren Mill.$b$bEr is een flinke beloning voor iedereen die bewijs van zijn daden naar High Executor Darthalia brengt.",
+      "o": "Dood 10 Syndicate Rogues en 10 Syndicate Watchmen. Ga terug naar High Executor Darthalia in Tarren Mill voor je beloning.",
+      "p": "Heb je niets beters te doen dan hier voor me te staan, $c? Als High Executor heb ik belangrijkere dingen te doen dan naar je rottende gezicht te staren.",
+      "c": "Uitstekend, $C. Zo is het land binnen de kortste keren verlost van die Syndicate-plaag.",
+      "g": [
+        [
+          "gezocht",
+          "wanted"
+        ],
+        [
+          "personeel",
+          "personnel, staff"
+        ],
+        [
+          "op gezag van",
+          "by the authority of"
+        ],
+        [
+          "organisatie",
+          "organization"
+        ],
+        [
+          "opgepakt",
+          "arrested, taken into custody (oppakken)"
+        ],
+        [
+          "gevangengenomen",
+          "taken prisoner (gevangennemen)"
+        ],
+        [
+          "zonder pardon",
+          "summarily, without mercy"
+        ],
+        [
+          "geëxecuteerd",
+          "executed (executeren)"
+        ],
+        [
+          "ruïnes",
+          "ruins"
+        ],
+        [
+          "beloning",
+          "reward"
+        ],
+        [
+          "rottende",
+          "rotting"
+        ],
+        [
+          "staren",
+          "to stare"
+        ],
+        [
+          "binnen de kortste keren",
+          "in no time"
+        ],
+        [
+          "verlost",
+          "rid, freed (verlossen)"
+        ],
+        [
+          "plaag",
+          "pest, plague"
+        ]
+      ]
+    },
+    "501": {
+      "t": "Elixer van pijn",
+      "d": "O, $N. . .de bloemen bloeien in Hillsbrad en de lucht is zo fris en helder. Ik kan het niet laten om me te wentelen in de ellende van dit alles. Ik kijk uit mijn vieze raam en verlang naar de dag dat onze New Plague deze wereld de dood brengt die ze verdient.$b$bIk zou graag de hele dag zitten te piekeren, maar mijn plicht voor de Dark Lady roept. Wil je me helpen? Door mijn onderzoek denk ik dat ik het heerlijkste doodsbrouwsel kan maken met het bloed van een Mountain Lion. Breng me wat, dan hebben we samen wat plezier.",
+      "o": "Breng 10 flesjes Mountain Lion Blood naar Apothecary Lydon in Tarren Mill.",
+      "p": "Ik ken je nog, $N. Je zou me helpen met het maken van mijn nieuwste elixer. Ik heb dat bloed nodig voordat ik mijn eigen speciale soort ellende naar de bewoners van Hillsbrad kan brengen.",
+      "c": "Prachtig verzameld, $N.",
+      "g": [
+        [
+          "bloeien",
+          "to bloom"
+        ],
+        [
+          "helder",
+          "clear, brisk"
+        ],
+        [
+          "het niet laten",
+          "can't help (it)"
+        ],
+        [
+          "wentelen",
+          "to wallow"
+        ],
+        [
+          "ellende",
+          "misery"
+        ],
+        [
+          "vieze",
+          "dirty, grimy"
+        ],
+        [
+          "verlang",
+          "long (verlangen)"
+        ],
+        [
+          "verdient",
+          "deserves (verdienen)"
+        ],
+        [
+          "piekeren",
+          "to brood, to worry"
+        ],
+        [
+          "plicht",
+          "duty"
+        ],
+        [
+          "doodsbrouwsel",
+          "death-brew"
+        ],
+        [
+          "flesjes",
+          "vials, small bottles"
+        ],
+        [
+          "bewoners",
+          "inhabitants"
+        ]
+      ]
+    },
+    "502": {
+      "t": "Elixer van pijn",
+      "d": "Ah, er gaat niets boven de geur van vers bloed in de heuvels!$b$bNu mengen we er een beetje van dit en een beetje van dat doorheen, en dan begint de echte pret! Wat ik met dit bloed heb gemaakt, noem ik graag een Elixir of Pain. Als mijn berekeningen kloppen, kan dit brouwsel het begin zijn van iets heel moois voor Lady Sylvanas. Maar we hebben een test nodig.$b$bNeem dit elixer mee naar de noordelijke boerderij in Hillsbrad Fields, in het zuidwesten. Eens kijken hoe het hondje Stanley van Farmer Ray dit \"lekkers\" vindt.",
+      "o": "Voer de Elixir of Pain aan Stanley.",
+      "p": "Woef?",
+      "c": "Je giet wat van het elixer in je hand en houdt het voor de bek van Stanley.",
+      "g": [
+        [
+          "er gaat niets boven",
+          "nothing beats"
+        ],
+        [
+          "geur",
+          "smell"
+        ],
+        [
+          "heuvels",
+          "hills, foothills"
+        ],
+        [
+          "mengen",
+          "to mix"
+        ],
+        [
+          "pret",
+          "fun"
+        ],
+        [
+          "berekeningen",
+          "calculations"
+        ],
+        [
+          "kloppen",
+          "to be correct"
+        ],
+        [
+          "brouwsel",
+          "concoction, brew"
+        ],
+        [
+          "lekkers",
+          "treat"
+        ],
+        [
+          "voer",
+          "feed (voeren)"
+        ],
+        [
+          "giet",
+          "pour (gieten)"
+        ],
+        [
+          "bek",
+          "mouth (of an animal)"
+        ]
+      ]
+    },
+    "527": {
+      "t": "De slag om Hillsbrad",
+      "d": "Sta in de houding als je mij aanspreekt, $c.$b$bIk sta onder direct bevel van Varimathras. We moeten de menselijke plaag onderdrukken tot onze apothekers de nieuwe pest kunnen ontwikkelen.$b$bVolgens onze informatie is de stad Hillsbrad kwetsbaar voor een aanval. Je eerste opdracht is bedoeld om hun voedselvoorraad en voorzieningen te verstoren.$b$bReis naar het westen. Overval de noordelijkste boerderijen van Hillsbrad Fields. Zorg ervoor dat de landeigenaren, Farmer Ray en Farmer Getz, ook worden geëxecuteerd.",
+      "o": "Dood 6 Hillsbrad Farmhands, 6 Hillsbrad Farmers, Farmer Ray en Farmer Getz en meld je weer bij Darthalia in Tarren Mill.",
+      "p": "Ik ben High Executor van Tarren Mill, onder direct bevel van Varimathras en de Dark Lady. Je moet dus mijn bevelen opvolgen.$b$bNeem je deze oorlog met de Alliance misschien niet serieus? Als dat zo is, moet ik je hier en nu onthoofden. Reis anders naar het westen, naar de stad Hillsbrad, en voer strijd tegen de mensen, zoals bevolen.$b$bIngerukt.",
+      "c": "Op de plaats rust, $c. Ik zie dat je terug bent van de strijd. Mijn bronnen vertellen me dat je het goed hebt gedaan aan het front bij Hillsbrad.",
+      "g": [
+        [
+          "slag",
+          "battle"
+        ],
+        [
+          "sta in de houding",
+          "stand at attention"
+        ],
+        [
+          "aanspreekt",
+          "address (aanspreken)"
+        ],
+        [
+          "bevel",
+          "command, order"
+        ],
+        [
+          "plaag",
+          "infestation, plague"
+        ],
+        [
+          "onderdrukken",
+          "to quell, to suppress"
+        ],
+        [
+          "apothekers",
+          "apothecaries"
+        ],
+        [
+          "kwetsbaar",
+          "vulnerable"
+        ],
+        [
+          "voorzieningen",
+          "infrastructure, facilities"
+        ],
+        [
+          "verstoren",
+          "to disrupt"
+        ],
+        [
+          "overval",
+          "raid (overvallen)"
+        ],
+        [
+          "landeigenaren",
+          "landowners"
+        ],
+        [
+          "onthoofden",
+          "to behead"
+        ],
+        [
+          "ingerukt",
+          "dismissed (military)"
+        ],
+        [
+          "op de plaats rust",
+          "at ease"
+        ]
+      ]
+    },
+    "528": {
+      "t": "De slag om Hillsbrad",
+      "d": "Het nieuws over de aanval op de noordelijke boerderijen heeft de inwoners in paniek gebracht. Uitstekend.$b$bOnze Deathstalkers melden dat boeren vluchten naar de velden in het zuiden van Hillsbrad. De dwazen denken dat ze zich in de boomgaarden kunnen verstoppen en aan hun lot kunnen ontsnappen.$b$bBewijs dat ze ongelijk hebben, $N. Ga terug naar Hillsbrad Fields en zoek de bange boeren op. Maak ze af in naam van onze Dark Lady.$b$bIngerukt!",
+      "o": "Dood 15 Hillsbrad Peasants en meld je weer bij Darthalia in Tarren Mill.",
+      "p": "Je hebt je bevelen, $c. Hou op met treuzelen hier in Tarren Mill, terwijl er elders werk te doen is.",
+      "c": "De greep van de dood rond de stad Hillsbrad wordt steeds sterker. De strijd gaat goed.",
+      "g": [
+        [
+          "inwoners",
+          "inhabitants, townsfolk"
+        ],
+        [
+          "paniek",
+          "panic"
+        ],
+        [
+          "vluchten",
+          "to flee"
+        ],
+        [
+          "dwazen",
+          "fools"
+        ],
+        [
+          "boomgaarden",
+          "orchards"
+        ],
+        [
+          "lot",
+          "fate, doom"
+        ],
+        [
+          "ongelijk",
+          "wrong (ongelijk hebben)"
+        ],
+        [
+          "bange",
+          "frightened, cowering"
+        ],
+        [
+          "maak ze af",
+          "finish them off (afmaken)"
+        ],
+        [
+          "treuzelen",
+          "to dawdle"
+        ],
+        [
+          "elders",
+          "elsewhere"
+        ],
+        [
+          "greep",
+          "grip"
+        ]
+      ]
+    },
+    "546": {
+      "t": "Souvenirs van de dood",
+      "d": "Ik hoor dat Darthalia je heeft ingezet om oorlog te voeren tegen de mensen van Hillsbrad. Wat ben ik jaloers. . .$b$bTerwijl jij al het plezier hebt -- mensen doden, de stad plunderen, onschuldige mensen angst aanjagen -- moet ik hier in Tarren Mill de wacht houden.$b$bMisschien heb je medelijden met een oude Deathguard zoals ik? Ik verzamel namelijk mensenschedels. En jij zult nog een hele tijd tegen mensen vechten. Breng me tijdens je lange strijd 30 schedels, en het zal de moeite waard voor je zijn.",
+      "o": "Deathguard Samsa in Tarren Mill wil 30 Hillsbrad Human Skulls.",
+      "p": "Dus de gelukkige $N is terug? Hoeveel mensen heb je vandaag afgeslacht? Honderden, hoop ik!$b$bHeb je schedels voor me?",
+      "c": "Kostbare schedels! Zo mooi! Zoals beloofd ben ik je iets schuldig, $N!",
+      "g": [
+        [
+          "ingezet",
+          "enlisted, deployed (inzetten)"
+        ],
+        [
+          "oorlog voeren",
+          "to wage war"
+        ],
+        [
+          "jaloers",
+          "jealous"
+        ],
+        [
+          "plunderen",
+          "to pillage, to loot"
+        ],
+        [
+          "onschuldige",
+          "innocent"
+        ],
+        [
+          "angst aanjagen",
+          "to terrorize, to frighten"
+        ],
+        [
+          "de wacht houden",
+          "to stand guard"
+        ],
+        [
+          "medelijden",
+          "pity"
+        ],
+        [
+          "mensenschedels",
+          "human skulls"
+        ],
+        [
+          "de moeite waard",
+          "worth it, worth your while"
+        ],
+        [
+          "afgeslacht",
+          "slaughtered (afslachten)"
+        ],
+        [
+          "kostbare",
+          "precious"
+        ],
+        [
+          "schuldig",
+          "owing, guilty"
+        ]
+      ]
+    },
+    "529": {
+      "t": "De slag om Hillsbrad",
+      "d": "De mensen van Hillsbrad bieden onverwacht verzet. Het probleem lijkt te zijn dat de smid van het dorp de inwoners bewapent. We moeten alle aanvoerlijnen afsnijden.$b$bJe opdracht is om Blacksmith Verringtan te executeren. Dood ook zijn leerlingen. Neem daar ook een lading ijzer mee uit hun voorraad. Die spullen komen goed van pas als we klaar zijn met het veroveren van Hillsbrad en beginnen Southshore te verwoesten.",
+      "o": "Dood Blacksmith Verringtan en 4 Hillsbrad Apprentice Blacksmiths.$b$bHaal een Shipment of Iron en meld je weer bij Darthalia in Tarren Mill.",
+      "p": "Heb je je bevelen kunnen uitvoeren, $C? Heb je Verringtan en zijn helpers uit de weg geruimd? En waar is die lading ijzer?",
+      "c": "Missie geslaagd, $C. En heel vakkundig uitgevoerd, mag ik wel zeggen.",
+      "g": [
+        [
+          "onverwacht",
+          "unexpected(ly)"
+        ],
+        [
+          "verzet",
+          "resistance"
+        ],
+        [
+          "smid",
+          "blacksmith"
+        ],
+        [
+          "bewapent",
+          "arms (bewapenen)"
+        ],
+        [
+          "aanvoerlijnen",
+          "supply lines"
+        ],
+        [
+          "afsnijden",
+          "to cut off"
+        ],
+        [
+          "leerlingen",
+          "apprentices"
+        ],
+        [
+          "lading",
+          "shipment, load"
+        ],
+        [
+          "van pas komen",
+          "to come in handy"
+        ],
+        [
+          "veroveren",
+          "to conquer"
+        ],
+        [
+          "verwoesten",
+          "to raze, to destroy"
+        ],
+        [
+          "uit de weg geruimd",
+          "disposed of (uit de weg ruimen)"
+        ],
+        [
+          "geslaagd",
+          "accomplished, successful (slagen)"
+        ],
+        [
+          "vakkundig",
+          "skillfully"
+        ]
+      ]
+    },
+    "532": {
+      "t": "De slag om Hillsbrad",
+      "d": "De stad Hillsbrad is in chaos en we denken dat ze snel zal vallen. Toch moeten we meedogenloos blijven, tot het menselijk tuig voor altijd uit de heuvels is verdwenen.$b$bOndanks hun enorme verliezen scharen de mensen zich om hun leiders en blijven ze vechten. We moeten hun leider, Magistrate Burnside, en de gemeenteraad uitschakelen. Vernietig ook hun geliefde politieke document, de Hillsbrad Proclamation. En steel meteen het register van de stad.",
+      "o": "Dood Magistrate Burnside en 5 Hillsbrad Councilmen. Vernietig de Hillsbrad Proclamation. Steel de Hillsbrad Town Registry. Meld je daarna weer bij Darthalia in Tarren Mill.",
+      "p": "Welk nieuws heb je?",
+      "c": "Het nieuws over je glorieuze daden in Hillsbrad ging snel rond. Je hebt het goed gedaan, $C.",
+      "o3": "Hillsbrad Proclamation vernietigd",
+      "g": [
+        [
+          "chaos",
+          "chaos, disarray"
+        ],
+        [
+          "meedogenloos",
+          "ruthless"
+        ],
+        [
+          "tuig",
+          "scum"
+        ],
+        [
+          "ondanks",
+          "despite"
+        ],
+        [
+          "verliezen",
+          "losses"
+        ],
+        [
+          "scharen zich",
+          "rally (zich scharen)"
+        ],
+        [
+          "gemeenteraad",
+          "town council"
+        ],
+        [
+          "uitschakelen",
+          "to eliminate"
+        ],
+        [
+          "vernietig",
+          "destroy (vernietigen)"
+        ],
+        [
+          "geliefde",
+          "beloved, revered"
+        ],
+        [
+          "politieke",
+          "political"
+        ],
+        [
+          "register",
+          "registry"
+        ],
+        [
+          "glorieuze",
+          "glorious"
+        ],
+        [
+          "daden",
+          "deeds"
+        ]
+      ]
+    },
+    "509": {
+      "t": "Elixer van kwelling",
+      "d": "Weer een dag, weer een elixer om te maken. Als het aan mij lag, liet ik die zielige mensen en de Scourge het gewoon samen uitvechten. Ze lijken toch al vastbesloten om elkaar te doden.$b$bHelaas wil onze Dark Lady het proces een beetje versnellen. Dus waarom zouden we deze sombere dagen niet doorbrengen met een beetje dood en ziekte over het land te verspreiden?$b$bDit is het plan, $N: je gaat naar Nethander Stead, ten zuiden van Tarren Mill en ten oosten van de rivier en Southshore. Verzamel daar 6 Mudsnout Blossoms van het veld voor mijn volgende elixer.",
+      "o": "Breng 6 Mudsnout Blossoms naar Apothecary Lydon in Tarren Mill.",
+      "p": "Nog geluk gehad in Nethander Stead?",
+      "c": "Ah, de vreselijke stank van Mudsnout Blossoms. Die smerige gnolls zijn tenminste ergens goed voor.",
+      "g": [
+        [
+          "kwelling",
+          "agony, torment"
+        ],
+        [
+          "als het aan mij lag",
+          "if it were up to me"
+        ],
+        [
+          "zielige",
+          "pathetic"
+        ],
+        [
+          "uitvechten",
+          "to fight it out"
+        ],
+        [
+          "vastbesloten",
+          "determined, bent on"
+        ],
+        [
+          "helaas",
+          "alas, unfortunately"
+        ],
+        [
+          "versnellen",
+          "to speed up"
+        ],
+        [
+          "sombere",
+          "gloomy, morbid"
+        ],
+        [
+          "doorbrengen",
+          "to spend (time)"
+        ],
+        [
+          "ziekte",
+          "disease"
+        ],
+        [
+          "verspreiden",
+          "to spread"
+        ],
+        [
+          "stank",
+          "stench, reek"
+        ],
+        [
+          "smerige",
+          "filthy"
+        ]
+      ]
+    },
+    "513": {
+      "t": "Elixer van kwelling",
+      "d": "Net toen ik dacht dat er weer een dag zonder vreugde zou voorbijgaan, bracht jij me die prachtige Mudsnout Blossoms.$b$bEerst meng ik ze tot een fijn mengsel. Daarna moet Master Apothecary Faranell in de Undercity er zijn colloïde van verrotting aan toevoegen. En dan zijn we klaar voor echt veel plezier!$b$bHier, neem deze Mudsnout Composite en breng hem meteen naar Master Faranell, $N.",
+      "o": "Breng de Mudsnout Composite naar Master Apothecary Faranell in de Undercity.",
+      "p": "Zie je niet dat ik het druk heb, $c? De Dark Lady wil per se een nieuwe pest, voordat de opmars van de Scourge uit Northrend ons overweldigt. En nu de mensen vanuit het zuiden dreigen, wordt tijd mijn kostbaarste bezit. Dit kan maar beter belangrijk zijn!",
+      "c": "Heeft Apothecary Lydon je gestuurd? Ah, waarom zei je dat niet meteen!$b$bOndanks zijn sombere karakter is Apothecary Lydon een van onze meest toegewijde en bekwame leden.$b$bDe goede man stuurt Mudsnout Composite! Nu weet ik wat onze vriend in Hillsbrad van plan is. En ik hou van de manier waarop hij denkt. De Dark Lady zou erg onder de indruk zijn van de vooruitgang die hij maakt met de nieuwe pest.",
+      "g": [
+        [
+          "vreugde",
+          "joy"
+        ],
+        [
+          "voorbijgaan",
+          "to pass by"
+        ],
+        [
+          "mengsel",
+          "mixture, composite"
+        ],
+        [
+          "colloïde",
+          "colloid"
+        ],
+        [
+          "verrotting",
+          "decay, rot"
+        ],
+        [
+          "toevoegen",
+          "to add"
+        ],
+        [
+          "per se",
+          "insists on, absolutely"
+        ],
+        [
+          "opmars",
+          "advance"
+        ],
+        [
+          "overweldigt",
+          "overwhelms (overweldigen)"
+        ],
+        [
+          "dreigen",
+          "to threaten"
+        ],
+        [
+          "kostbaarste",
+          "most precious"
+        ],
+        [
+          "bezit",
+          "possession, commodity"
+        ],
+        [
+          "toegewijde",
+          "dedicated"
+        ],
+        [
+          "bekwame",
+          "skilled"
+        ],
+        [
+          "vooruitgang",
+          "progress"
+        ]
+      ]
+    },
+    "539": {
+      "t": "De slag om Hillsbrad",
+      "d": "Volgens de Hillsbrad Town Registry is de Azureload Mine in handen van de Alliance. Bovendien is de mijn een belangrijke bron van ijzererts voor de wapenkamers van de Alliance.$b$bWe hebben de stad Hillsbrad een beslissende klap gegeven, maar de Alliance steunt en beschermt de Azureload Mine nog steeds vurig.$b$bDe mijn ligt recht ten zuiden van Hillsbrad. Ga erheen en dood de voorman, een mens die Bonds heet. Dood ook zijn mijnwerkers. Dat zou de Alliance een duidelijke boodschap moeten geven.",
+      "o": "Dood Foreman Bonds en 10 Hillsbrad Miners en meld je weer bij Darthalia in Tarren Mill.",
+      "p": "Je kreeg directe bevelen om de Azureload Mine aan te vallen. Je hebt maar beter goede redenen om in Tarren Mill rond te lummelen, anders onthoofd ik je wegens verraad.",
+      "c": "De Dark Lady zal tevreden zijn als ze hoort dat ze een nieuwe mijn heeft om haar soldaten mee te bewapenen.",
+      "g": [
+        [
+          "in handen van",
+          "under control of"
+        ],
+        [
+          "bovendien",
+          "furthermore"
+        ],
+        [
+          "bron",
+          "source"
+        ],
+        [
+          "ijzererts",
+          "iron ore"
+        ],
+        [
+          "wapenkamers",
+          "armories"
+        ],
+        [
+          "beslissende",
+          "decisive"
+        ],
+        [
+          "klap",
+          "blow"
+        ],
+        [
+          "steunt",
+          "supports (steunen)"
+        ],
+        [
+          "vurig",
+          "fervently"
+        ],
+        [
+          "voorman",
+          "foreman"
+        ],
+        [
+          "mijnwerkers",
+          "miners"
+        ],
+        [
+          "boodschap",
+          "message"
+        ],
+        [
+          "rond te lummelen",
+          "to loaf about (rondlummelen)"
+        ],
+        [
+          "verraad",
+          "treason"
+        ],
+        [
+          "bewapenen",
+          "to arm"
+        ]
+      ]
+    },
+    "567": {
+      "t": "Gevaarlijk!",
+      "d": "Gevaarlijk!$b$bDe volgende mensen van Hillsbrad zijn gevaarlijk verklaard. High Executor Darthalia heeft een premie op hun hoofd gezet:$b$bClerk Horrace Whitesteed. Gezocht voor de moord op Deathguard Toma.$b$bCitizen Wilkes. Gezocht voor de moord op Apothecary Eli.$b$bMiner Hackett. Gezocht voor de moord op Deathstalker Fry.$b$bFarmer Kalaba. Gezocht voor de overval op voorraden uit de Undercity.$b$bAl deze vijanden verstoppen zich en zijn moeilijk te vinden. Er is een beloning zodra bekend is dat ze dood zijn.",
+      "o": "High Executor Darthalia in Tarren Mill looft een premie uit op Clerk Horrace Whitesteed, Citizen Wilkes, Miner Hackett en Farmer Kalaba.",
+      "p": "Ja?",
+      "c": "Jij bent echt een goede premiejager, $c. Goed gedaan.",
+      "g": [
+        [
+          "gevaarlijk",
+          "dangerous"
+        ],
+        [
+          "verklaard",
+          "declared (verklaren)"
+        ],
+        [
+          "premie",
+          "bounty"
+        ],
+        [
+          "gezocht",
+          "wanted"
+        ],
+        [
+          "moord",
+          "murder"
+        ],
+        [
+          "overval",
+          "ambush, raid"
+        ],
+        [
+          "voorraden",
+          "supplies"
+        ],
+        [
+          "verstoppen zich",
+          "are hiding (zich verstoppen)"
+        ],
+        [
+          "beloning",
+          "reward"
+        ],
+        [
+          "looft een premie uit",
+          "offers a bounty (uitloven)"
+        ],
+        [
+          "premiejager",
+          "bounty hunter"
+        ]
+      ]
+    },
+    "515": {
+      "t": "Elixer van kwelling",
+      "d": "Een Mudsnout-mengsel? Briljant! Waarom heb ik daar niet aan gedacht?$b$bLaat mij mijn colloïde van verrotting aan dit duivelse brouwsel toevoegen.$b$bOm de besmettelijke stoffen in dit Mudsnout-mengsel te activeren, heeft Lydon een sterk drankje van trollenbloed nodig. Ook heeft hij wat Daggerspine-schubben en Torn Fin-ogen nodig van de zuidkust van Hillsbrad. Hij weet wat hij moet doen als je alle ingrediënten voor hem hebt verzameld. En wat kan ik niet wachten om te horen hoe zijn experiment gaat!",
+      "o": "Breng de Mudsnout Mixture, een Strong Troll's Blood Potion, 5 Daggerspine Scales en 5 Torn Fin Eyes naar Apothecary Lydon in Tarren Mill.",
+      "p": "Wat fijn dat je terug bent, $N. Ik begon me hier zo vreselijk te vervelen. Er is niets leuks te doen, behalve Umpi vergiftigen en ziek maken en haar weer tot leven wekken. . .steeds weer, en weer, en weer.$b$bHoe was de reis naar de Undercity? Heb je onderweg het geluk gehad om een paar mensen af te slachten?",
+      "c": "Ik word helemaal giechelig van de spanning van dit experiment! Je bent zo'n grote hulp geweest, $N. Samen verspreiden we dood en ziekte over dit land!",
+      "g": [
+        [
+          "mengsel",
+          "mixture"
+        ],
+        [
+          "briljant",
+          "brilliant"
+        ],
+        [
+          "colloïde",
+          "colloid"
+        ],
+        [
+          "verrotting",
+          "decay, rot"
+        ],
+        [
+          "duivelse",
+          "devilish"
+        ],
+        [
+          "brouwsel",
+          "brew"
+        ],
+        [
+          "besmettelijke",
+          "contagious, contaminating"
+        ],
+        [
+          "trollenbloed",
+          "troll's blood"
+        ],
+        [
+          "schubben",
+          "scales (of a fish)"
+        ],
+        [
+          "ingrediënten",
+          "ingredients, reagents"
+        ],
+        [
+          "vervelen",
+          "to be bored (zich vervelen)"
+        ],
+        [
+          "vergiftigen",
+          "to poison"
+        ],
+        [
+          "tot leven wekken",
+          "to reanimate, bring back to life"
+        ],
+        [
+          "giechelig",
+          "giggly, giddy"
+        ],
+        [
+          "spanning",
+          "excitement, suspense"
+        ]
+      ]
+    },
+    "517": {
+      "t": "Elixer van kwelling",
+      "d": "Dit nieuwe elixer is eindelijk klaar om getest te worden. Maar waarom zouden we een perfect goede, zeer besmettelijke pest verspillen aan een gewone kikker of hond? Laten we echt plezier maken in naam van Lady Sylvanas.$b$bGa naar Dun Garok. Je kent de kazerne wel waar die smerige kleine dwergen rondscharrelen. Steel een vat van hun Shindigger Stout voor me. Zodra ik dat vat heb, houden jij en ik een flink feestje, $N.",
+      "o": "Breng een Keg of Shindigger Stout naar Apothecary Lydon in Tarren Mill.",
+      "p": "Soms verveel ik me hier in Tarren Mill zo erg dat ik de pot formaldehyde opendoe en de heerlijke geur door de lucht laat zweven. Umpi wordt er wel een beetje zenuwachtig van.$b$bDus, is het je gelukt om een vat van de dwergen te krijgen? Ik zweer het, als ik nog een dag naar dit dodelijke elixer moet staren zonder het op iemand te gebruiken, ga ik gillen.",
+      "c": "Eindelijk! Nu zijn we klaar voor actie!",
+      "g": [
+        [
+          "besmettelijke",
+          "contagious"
+        ],
+        [
+          "pest",
+          "plague"
+        ],
+        [
+          "verspillen",
+          "to waste"
+        ],
+        [
+          "kikker",
+          "frog"
+        ],
+        [
+          "kazerne",
+          "barracks"
+        ],
+        [
+          "dwergen",
+          "dwarves"
+        ],
+        [
+          "rondscharrelen",
+          "to skitter about"
+        ],
+        [
+          "vat",
+          "keg, barrel"
+        ],
+        [
+          "verveel",
+          "am bored (zich vervelen)"
+        ],
+        [
+          "zweven",
+          "to float, to waft"
+        ],
+        [
+          "zenuwachtig",
+          "nervous"
+        ],
+        [
+          "zweer",
+          "swear (zweren)"
+        ],
+        [
+          "staren",
+          "to stare"
+        ],
+        [
+          "gillen",
+          "to scream"
+        ]
+      ]
+    }
+  },
+  "words": {
+    "aanjagen": "to cause, to drive (angst aanjagen = to frighten)",
+    "bal": "ball",
+    "bevrijdt": "free, set free (bevrijden)",
+    "blunderbuss": "blunderbuss (English item name: a short wide gun)",
+    "chapter": "chapter (English item name: hoofdstuk)",
+    "daggerspine-schubben": "Daggerspine scales (schub = scale)",
+    "deadly": "deadly (English item name: dodelijk)",
+    "executeren": "to execute",
+    "feestje": "party (small, informal)",
+    "fin-ogen": "Torn Fin eyes (oog, ogen = eye, eyes)",
+    "formaldehyde": "formaldehyde",
+    "foulweald-furbolgs": "Foulweald furbolgs",
+    "gelukkige": "lucky, happy (gelukkig)",
+    "geruimd": "cleared away (ruimen; uit de weg ruimen = to dispose of)",
+    "heerlijkste": "most splendid, most delicious (heerlijk)",
+    "honderden": "hundreds",
+    "kortste": "shortest (kort)",
+    "kwaak": "croak (frog sound)",
+    "kwak": "ribbit (frog sound)",
+    "leuks": "fun, nice (iets leuks = something fun)",
+    "looft": "offers (uitloven: een premie uitloven = to offer a bounty)",
+    "lummelen": "to loaf around (rondlummelen)",
+    "moois": "beautiful (iets moois = something beautiful)",
+    "mudsnout-mengsel": "Mudsnout mixture (mengsel = mixture)",
+    "noordelijkste": "northernmost (noordelijk)",
+    "ontwikkelen": "to develop",
+    "opendoe": "open (opendoen)",
+    "raam": "window",
+    "syndicate-plaag": "Syndicate pest (plaag = plague, pest)",
+    "voedselvoorraad": "food supply",
+    "waterelementaal": "water elemental",
+    "wegens": "because of, for",
+    "woef": "woof (dog sound)"
+  },
+  "terms": {
+    "furbolg": "furbolg: a bear-like creature from the Warcraft world",
+    "shredder": "shredder: a goblin walking machine for cutting wood",
+    "creeper": "creeper: a creeping, spider-like forest creature in Warcraft",
+    "gnoll": "gnoll: a hyena-like humanoid from the Warcraft world"
+  }
+}
