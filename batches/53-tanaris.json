@@ -1,0 +1,1581 @@
+{
+ "quests": {
+  "992": {
+   "t": "Wateronderzoek voor Gadgetzan",
+   "d": "Bij de Gadgetzan Water Company is er een tijdelijke baan vrij als junior landmeter, als je interesse hebt!$B$BDe nomaden nemen al onze putten in, dus we moeten meer vrije waterbronnen benutten! Er is water te vinden in de woestijn, maar alleen voor wie slim genoeg is om de bronnen eerst te onderzoeken.$B$BNeem dit wichelapparaatje mee en tap een monster af van het water bij de poel in de buurt van Sandsorrow Watch. De poel ligt in het volle zicht van de trollen die daar rondlopen. Breng het afgetapte apparaatje naar me terug als je klaar bent!",
+   "o": "Gebruik de Untapped Dowsing Widget bij de poel met water bij Sandsorrow Watch. Als je het monster hebt verzameld, breng je de Tapped Dowsing Widget terug naar Senior Surveyor Fizzledowser in Gadgetzan.",
+   "p": "Welkom terug, junior landmeter $n! Heb je je opdracht al uitgevoerd?",
+   "c": "Wat is dit? Ben je overvallen door een of ander eng, kruipend beest met slechte magie? O, dit belooft niet veel goeds voor de Gadgetzan Water Company, echt niet...$B$BIk had je waarschijnlijk moeten vertellen over de berichten die binnenkomen over gekke insectenwezens. Ze lijken al het water in de woestijn op te zuigen. Eerst dacht ik dat het onzin was. We hebben al genoeg last van de nomaden; ik dacht dat het gewoon weer een van hun streken was. Nou, nu weten we het in elk geval!",
+   "g": [
+    [
+     "tijdelijke",
+     "temporary (tijdelijk)"
+    ],
+    [
+     "landmeter",
+     "surveyor"
+    ],
+    [
+     "nomaden",
+     "nomads (nomade)"
+    ],
+    [
+     "putten",
+     "wells (put)"
+    ],
+    [
+     "benutten",
+     "to make use of, exploit"
+    ],
+    [
+     "wichelapparaatje",
+     "little dowsing device"
+    ],
+    [
+     "tap een monster af",
+     "tap a sample (aftappen)"
+    ],
+    [
+     "poel",
+     "pool, pond"
+    ],
+    [
+     "in het volle zicht",
+     "in plain sight"
+    ],
+    [
+     "overvallen",
+     "ambushed (overvallen)"
+    ],
+    [
+     "belooft niet veel goeds",
+     "does not bode well"
+    ],
+    [
+     "op te zuigen",
+     "to suck up (opzuigen)"
+    ],
+    [
+     "onzin",
+     "nonsense"
+    ],
+    [
+     "streken",
+     "tricks, shenanigans (streek)"
+    ]
+   ]
+  },
+  "2781": {
+   "t": "GEZOCHT: Caliph Scorpidsting",
+   "d": "GEZOCHT: Caliph Scorpidsting!$B$BDe Gadgetzan Water Company uit Gadgetzan, Tanaris, betaalt een hoge beloning voor het hoofd van Caliph Scorpidsting, de leider van de Wastewander-bandieten. Zijn misdaden zijn onder andere:$B$B1. Het vermoorden van medewerkers van de Gadgetzan Water Co.!$B2. Het stelen van middelen van de Gadgetzan Water Co.!$B3. Het innemen van eigendommen van de Gadgetzan Water Co.!$B$BBreng bewijs van de dood van Caliph Scorpidsting naar Chief Engineer Bilgewhizzle voor een directe beloning!",
+   "o": "Breng het hoofd van Caliph Scorpidsting naar Chief Engineer Bilgewhizzle in Gadgetzan.",
+   "p": "Ja, $c, ik ben een functionaris van de Gadgetzan Water Company. Waarmee kan ik je helpen?",
+   "c": "Eindelijk is er gerechtigheid! Je hebt die gemene nomaden een zware klap toegebracht! Nu Scorpidsting dood is, is dit misschien precies wat nodig is om die krakers eindelijk van de waterputten van Gadgetzan te verjagen!$B$BOp gezag van de Gadgetzan Water Company geef ik je met plezier deze beloning. Je hebt ons allemaal een grote dienst bewezen.",
+   "g": [
+    [
+     "gezocht",
+     "wanted"
+    ],
+    [
+     "beloning",
+     "reward, bounty"
+    ],
+    [
+     "bandieten",
+     "outlaws (bandiet)"
+    ],
+    [
+     "misdaden",
+     "crimes (misdaad)"
+    ],
+    [
+     "medewerkers",
+     "employees (medewerker)"
+    ],
+    [
+     "middelen",
+     "resources (middel)"
+    ],
+    [
+     "eigendommen",
+     "property (eigendom)"
+    ],
+    [
+     "functionaris",
+     "official"
+    ],
+    [
+     "gerechtigheid",
+     "justice"
+    ],
+    [
+     "een zware klap toegebracht",
+     "struck a heavy blow (toebrengen)"
+    ],
+    [
+     "krakers",
+     "squatters (kraker)"
+    ],
+    [
+     "verjagen",
+     "to drive away"
+    ],
+    [
+     "op gezag van",
+     "by the authority of"
+    ],
+    [
+     "een dienst bewezen",
+     "done a service (bewijzen)"
+    ]
+   ]
+  },
+  "82": {
+   "t": "Onderzoek naar de Noxious Lair",
+   "d": "Goed dan, die berichten over de insecten... Wat we weten, is dat ze de waterpoelen leegzuigen die vroeger lagen waar nu de Noxious Lair is. Wat we NIET weten, is, nou ja, al het andere.$B$BLaten we eerst uitzoeken wie onze vijand is! Ik wil dat je de Noxious Lair in gaat en wat lichaamsdelen van die beestjes haalt. Haal er vijf van de Centipaar daar en breng ze naar Alchemist Pestlezugg, zodat hij ermee kan prutsen. Als hij de zaak onderzoekt, komen we wel te weten wat ze zijn!",
+   "o": "Breng vijf Centipaar Insect Parts uit de Noxious Lair naar Alchemist Pestlezugg in Gadgetzan.",
+   "p": "Jij bent junior landmeter $n, toch? Snel nu, de toestand is ernstig! Heb je de insectendelen bij je, zoals Fizzledowser zei?!",
+   "c": "Goed werk, ik begin meteen met mijn analyse! Maar één ding kan ik je nu al zeggen... dit lijkt op geen enkele insectensoort die ik ooit heb gezien. Het is bijna alsof deze insecten worden bestuurd door een kracht van buitenaf, of zoiets.$B$BJe moet meteen met Fizzledowser gaan praten; blijkbaar is er een noodgeval waarbij hij heel snel je hulp nodig heeft! Ik weet het niet zeker, maar ik denk dat het gaat om nog meer insecten in de woestijn van Tanaris!",
+   "g": [
+    [
+     "leegzuigen",
+     "to drain, suck dry"
+    ],
+    [
+     "uitzoeken",
+     "to figure out"
+    ],
+    [
+     "lichaamsdelen",
+     "body parts (lichaamsdeel)"
+    ],
+    [
+     "beestjes",
+     "critters (beestje)"
+    ],
+    [
+     "prutsen",
+     "to tinker, fiddle"
+    ],
+    [
+     "de toestand is ernstig",
+     "the situation is serious"
+    ],
+    [
+     "insectendelen",
+     "insect parts"
+    ],
+    [
+     "insectensoort",
+     "kind of insect"
+    ],
+    [
+     "bestuurd",
+     "controlled (besturen)"
+    ],
+    [
+     "van buitenaf",
+     "from outside"
+    ],
+    [
+     "blijkbaar",
+     "apparently"
+    ],
+    [
+     "noodgeval",
+     "emergency"
+    ]
+   ]
+  },
+  "2741": {
+   "t": "De Super Egg-O-Matic",
+   "o": " ",
+   "p": "De Super Egg-O-Matic is de nieuwste uitvinding van Curgle Cranklehop. Het is een behoorlijk indrukwekkende machine.$B$BDe Super Egg-O-Matic sputtert wild als je naar het bedieningspaneel loopt.",
+   "c": "Je legt het hippogriefei in de machine. Je hoort een reeks piepjes en wat vreemde mechanische geluiden.$B$BHet lijkt erop dat de Eggometer je ei heeft gewogen, opgemeten en ingepakt. Dat noem ik nog eens snelle service!",
+   "g": [
+    [
+     "uitvinding",
+     "invention"
+    ],
+    [
+     "behoorlijk",
+     "quite, rather"
+    ],
+    [
+     "indrukwekkende",
+     "impressive (indrukwekkend)"
+    ],
+    [
+     "sputtert",
+     "sputters (sputteren)"
+    ],
+    [
+     "bedieningspaneel",
+     "control panel"
+    ],
+    [
+     "hippogriefei",
+     "hippogryph egg"
+    ],
+    [
+     "reeks",
+     "series"
+    ],
+    [
+     "piepjes",
+     "beeps (piepje)"
+    ],
+    [
+     "gewogen",
+     "weighed (wegen)"
+    ],
+    [
+     "opgemeten",
+     "measured (opmeten)"
+    ],
+    [
+     "ingepakt",
+     "packaged (inpakken)"
+    ],
+    [
+     "dat noem ik nog eens",
+     "now that's (what I call)"
+    ]
+   ]
+  },
+  "8893": {
+   "t": "De Super Egg-O-Matic",
+   "p": "De Super Egg-O-Matic is de nieuwste uitvinding van Curgle Cranklehop. Het is een behoorlijk indrukwekkende machine.$B$BDe Super Egg-O-Matic sputtert wild als je naar het bedieningspaneel loopt.",
+   "c": "Je legt het hippogriefei in de machine. Je hoort een reeks piepjes en wat vreemde mechanische geluiden.$B$BHet lijkt erop dat de Eggometer je ei heeft gewogen, opgemeten en ingepakt. Dat noem ik nog eens snelle service!",
+   "g": [
+    [
+     "uitvinding",
+     "invention"
+    ],
+    [
+     "behoorlijk",
+     "quite, rather"
+    ],
+    [
+     "indrukwekkende",
+     "impressive (indrukwekkend)"
+    ],
+    [
+     "sputtert",
+     "sputters (sputteren)"
+    ],
+    [
+     "bedieningspaneel",
+     "control panel"
+    ],
+    [
+     "hippogriefei",
+     "hippogryph egg"
+    ],
+    [
+     "reeks",
+     "series"
+    ],
+    [
+     "piepjes",
+     "beeps (piepje)"
+    ],
+    [
+     "gewogen",
+     "weighed (wegen)"
+    ],
+    [
+     "opgemeten",
+     "measured (opmeten)"
+    ],
+    [
+     "ingepakt",
+     "packaged (inpakken)"
+    ],
+    [
+     "dat noem ik nog eens",
+     "now that's (what I call)"
+    ]
+   ]
+  },
+  "3022": {
+   "t": "Voorzichtig behandelen",
+   "d": "$N, ik zie dat je ernaar verlangt om je in te zetten voor mijn goede zaak. Ja, natuurlijk kun je iets voor me doen!$B$BBreng deze krat met eieren naar Erelas Ambersky. Hij is een druïde die voor deze eieren zorgt. Hij helpt ze uit te komen en traint daarna de jonge hippogriefen. Je vindt hem in Teldrassil, in een klein dorp in het zuiden dat Rut'theran heet.",
+   "o": "Breng de Carefully-packed Crate naar Erelas Ambersky in Rut'theran Village.",
+   "p": "Weer een zending van Curgle, neem ik aan?",
+   "c": "Bedankt voor je hulp, $N. Zonder ons zouden de hippogriefen het gewoon niet goed doen. Ah, maar dat begrijp jij maar al te goed, want je bent zelf naar Feralas gereisd en je hebt daar de verwoesting door de Gordunni gezien.$B$BNou, zoals je ziet, heb ik het hier heel druk, dus je kunt beter verdergaan.$B$BNogmaals bedankt, $N.",
+   "g": [
+    [
+     "verlangt",
+     "yearn, long (verlangen)"
+    ],
+    [
+     "je in te zetten",
+     "to dedicate yourself (zich inzetten)"
+    ],
+    [
+     "zaak",
+     "cause"
+    ],
+    [
+     "krat",
+     "crate"
+    ],
+    [
+     "druïde",
+     "druid"
+    ],
+    [
+     "uit te komen",
+     "to hatch (uitkomen)"
+    ],
+    [
+     "hippogriefen",
+     "hippogryphs (hippogrief)"
+    ],
+    [
+     "zending",
+     "shipment"
+    ],
+    [
+     "neem ik aan",
+     "I assume (aannemen)"
+    ],
+    [
+     "het goed doen",
+     "to flourish, do well"
+    ],
+    [
+     "maar al te goed",
+     "all too well"
+    ],
+    [
+     "verwoesting",
+     "devastation"
+    ]
+   ]
+  },
+  "10": {
+   "t": "De redding van Scrimshank",
+   "d": "O, dit is echt verschrikkelijk! Ik heb mijn beste assistent, Junior Surveyor Scrimshank, naar de woestijn ten zuidoosten van hier gestuurd. Dat gebied noemen we de Gaping Chasm. Nou, hij is vermist, en in zijn laatste verslag stond dat er nog meer van die rare insecten waren waar hij was. Zouden ze nu al twee grote gebieden van de woestijn hebben overspoeld?$B$BGa alsjeblieft naar de Gaping Chasm en zoek naar Scrimshank! Dat... of vind in elk geval zijn meetapparatuur. Ik vrees dat dat misschien het enige is wat er nog over is van die arme kerel.",
+   "o": "Ontdek wat er met Junior Surveyor Scrimshank is gebeurd, en breng hem of zijn meetapparatuur naar Senior Surveyor Fizzledowser in Gadgetzan.",
+   "p": "Nou, wat voor nieuws heb je? Je ziet eruit alsof je flink hebt gevochten... Leeft Scrimshank nog?",
+   "c": "Hij was een goede goblin, de jonge Scrimshank. Laten we hopen dat hij niet voor niets is gestorven, dankzij wat hij met zijn meetapparatuur heeft kunnen vastleggen.$B$BHet lijkt erop dat we met deze insecten een flink probleem hebben. Ze zijn veel te sluw, en het onderzoek dat we tot nu toe hebben gedaan, wijst erop dat ze misschien zelfs worden bestuurd door een derde partij! Als dat zo is, dan voorspelt dat niet alleen kwaad voor Gadgetzan, maar voor de hele woestijn!",
+   "g": [
+    [
+     "verschrikkelijk",
+     "terrible"
+    ],
+    [
+     "vermist",
+     "missing"
+    ],
+    [
+     "verslag",
+     "report"
+    ],
+    [
+     "overspoeld",
+     "overrun, infested (overspoelen)"
+    ],
+    [
+     "meetapparatuur",
+     "surveying equipment"
+    ],
+    [
+     "ik vrees",
+     "I fear (vrezen)"
+    ],
+    [
+     "arme kerel",
+     "poor fellow"
+    ],
+    [
+     "niet voor niets",
+     "not in vain"
+    ],
+    [
+     "vastleggen",
+     "to record"
+    ],
+    [
+     "sluw",
+     "cunning"
+    ],
+    [
+     "wijst erop",
+     "indicates (wijzen op)"
+    ],
+    [
+     "een derde partij",
+     "a third party"
+    ],
+    [
+     "voorspelt kwaad",
+     "bodes ill (voorspellen)"
+    ]
+   ]
+  },
+  "110": {
+   "t": "Analyse van de insectendelen",
+   "d": "Ik ga wat tijd besteden aan het bekijken van de meetapparatuur van Scrimshank... en aan het regelen van zijn persoonlijke spullen. Ik heb zo'n knagend gevoel achter mijn oren dat dit niet het laatste verlies is dat we tegen deze insecten zullen lijden.$B$BIk wil graag dat je bij Alchemist Pestlezugg langsgaat om te zien of hij de insectendelen die we hem stuurden al heeft kunnen onderzoeken. Als ze klaar zijn, breng ze dan naar mij.",
+   "o": "Ga in Gadgetzan langs bij Alchemist Pestlezugg en vraag naar zijn analyse van de insectendelen.",
+   "c": "Ja, ik heb de resultaten hier. Ze zijn... op zijn minst verontrustend.$B$BWe denken dat ons eerste vermoeden klopt: de insecten worden bestuurd door een kracht van buitenaf. Als dat zo is, hebben we niet alleen te maken met een zeer machtige, onbekende kracht, maar ook met een kwaadaardige. Deze insecten zijn veranderd in pure verwoesters. Ik heb nog nooit zoiets gezien.",
+   "g": [
+    [
+     "besteden",
+     "to spend (time)"
+    ],
+    [
+     "regelen",
+     "to put in order, arrange"
+    ],
+    [
+     "persoonlijke spullen",
+     "personal effects"
+    ],
+    [
+     "knagend gevoel",
+     "nagging feeling"
+    ],
+    [
+     "verlies",
+     "loss"
+    ],
+    [
+     "lijden",
+     "to suffer"
+    ],
+    [
+     "langsgaat",
+     "drop by, check in (langsgaan)"
+    ],
+    [
+     "op zijn minst",
+     "to say the least, at least"
+    ],
+    [
+     "verontrustend",
+     "unsettling"
+    ],
+    [
+     "vermoeden",
+     "suspicion"
+    ],
+    [
+     "klopt",
+     "is correct (kloppen)"
+    ],
+    [
+     "kwaadaardige",
+     "malignant, evil (kwaadaardig)"
+    ],
+    [
+     "verwoesters",
+     "ravagers (verwoester)"
+    ]
+   ]
+  },
+  "113": {
+   "t": "Analyse van de insectendelen",
+   "d": "Senior Surveyor Fizzledowser moet dit verslag meteen zien. Eigenlijk... moet iedereen die kan lezen dit verslag zien. We staan tegenover een zware en ernstige bedreiging, niet alleen voor Tanaris en Gadgetzan, maar, als niemand er iets aan doet, voor heel zuidelijk Kalimdor. Ach, misschien zelfs voor heel Azeroth; niets wijst erop dat dit ding minder zal worden.$B$BLaat Fizzledowser een kopie van het verslag voor je maken, zodat je het vrij kunt verspreiden onder je bondgenoten. Iedereen moet van deze bedreiging weten!",
+   "o": "Breng het verslag naar Senior Surveyor Fizzledowser in Gadgetzan. Zorg dat hij je een kopie van het verslag geeft, zoals Alchemist Pestlezugg heeft gevraagd.",
+   "p": "Nou, junior landmeter $n, heeft de oude Pestlezugg dat verslag al klaar?",
+   "c": "Bedankt dat je het verslag hebt gebracht, junior landmeter $n; hier is je loon voor je ijverige dienst aan de Gadgetzan Water Company.$B$BMeestal geef ik onze waardevolle informatie niet graag zomaar weg aan wie er anders goed geld voor zou betalen, maar ik ken Pestlezugg al heel wat jaren. Als hij aanraadt om iedereen het te laten weten, dan moet dat maar. Geef me even, dan maak ik een kopie voor je.",
+   "g": [
+    [
+     "staan tegenover",
+     "to face"
+    ],
+    [
+     "bedreiging",
+     "threat"
+    ],
+    [
+     "zuidelijk",
+     "southern"
+    ],
+    [
+     "niets wijst erop",
+     "nothing indicates"
+    ],
+    [
+     "kopie",
+     "copy, duplicate"
+    ],
+    [
+     "verspreiden",
+     "to distribute, spread"
+    ],
+    [
+     "bondgenoten",
+     "allies (bondgenoot)"
+    ],
+    [
+     "loon",
+     "pay, wages"
+    ],
+    [
+     "ijverige",
+     "diligent (ijverig)"
+    ],
+    [
+     "waardevolle",
+     "valuable (waardevol)"
+    ],
+    [
+     "zomaar weggeven",
+     "to hand out freely"
+    ],
+    [
+     "aanraadt",
+     "recommends (aanraden)"
+    ],
+    [
+     "dan moet dat maar",
+     "then so be it"
+    ]
+   ]
+  },
+  "351": {
+   "t": "Vind OOX-17/TN!",
+   "d": "Je hebt een vreemd, eivormig apparaat van metaal gevonden. Als je aan een van de knoppen draait, komt het ei tot leven. Het gaat open en wordt een soort robotapparaat van gnomen! Uit het robotei klinkt krakend een stem.$B$B\"Mijn naam is Oglethorpe, en mijn terugkeerrobot is vermist! Ik beloon je als je hem terugvindt! Breng dit baken alsjeblieft naar de robot. Uitstekend, ik heb de coördinaten voor je berekend! Hij is neergestort bij de Gaping Chasm in Tanaris!\"",
+   "o": "Breng het Distress Beacon naar Oglethorpe's terugkeerrobot.",
+   "p": "Het lijkt erop dat je de resten hebt gevonden van... een robotkip? De stem uit het ei kraakt weer:$B$B\"Ja, uitstekend werk! Dit is inderdaad mijn terugkeerrobot, maar volgens mijn sensoren heeft hij een startduw nodig voordat hij terug kan vliegen naar Booty Bay voor reparatie. Leg het baken maar in de rover. Het baken doet de rest!\"",
+   "c": "Je legt het ei... het noodbaken... in de kip... de terugkeerrobot.$B$BJe hoort gezoem en gesnor uit de robot terwijl hij moeite doet om op te staan. Als de robot tot leven komt, hoor je de stem van Oglethorpe nog een keer, maar nu uit de robot:$B$B\"OOX-17/TN werkt in elk geval, maar hij moet flink gerepareerd worden! Hij is veel te zwaar om te dragen... maar ik denk dat ik een idee heb. Wil jij nog wat langer over hem waken?\"",
+   "g": [
+    [
+     "eivormig",
+     "egg-shaped"
+    ],
+    [
+     "knoppen",
+     "knobs (knop)"
+    ],
+    [
+     "krakend",
+     "crackling (kraken)"
+    ],
+    [
+     "terugkeerrobot",
+     "homing robot"
+    ],
+    [
+     "baken",
+     "beacon"
+    ],
+    [
+     "coördinaten",
+     "coordinates"
+    ],
+    [
+     "berekend",
+     "computed (berekenen)"
+    ],
+    [
+     "neergestort",
+     "crashed (neerstorten)"
+    ],
+    [
+     "resten",
+     "wreckage, remains"
+    ],
+    [
+     "startduw",
+     "jump start"
+    ],
+    [
+     "noodbaken",
+     "distress beacon"
+    ],
+    [
+     "gezoem en gesnor",
+     "hums and whirs"
+    ],
+    [
+     "moeite doet",
+     "struggles (moeite doen)"
+    ],
+    [
+     "waken over",
+     "to watch over"
+    ]
+   ]
+  },
+  "648": {
+   "t": "Red OOX-17/TN!",
+   "d": "De stem van de gnoom kraakt weer uit de robot:$B$B\"Ik moet OOX-17/TN naar een open, veilige plek brengen, zodat hij aan een lange opstijgprocedure kan beginnen. Hij heeft een ingebouwde camouflage, maar ik heb aan mijn kant tijd nodig om die weer werkend te krijgen. Ik wil dat je de robot begeleidt van waar hij nu is naar, laten we zeggen, Steamwheedle Port! Dat is een perfecte plek, en de tocht duurt lang genoeg om alles weer aan de praat te krijgen!\"$B$B\"Breng hem veilig naar de haven en kom daarna met me praten in Booty Bay! Oglethorpe Obnoticus, over en uit!\"",
+   "o": "Begeleid OOX-17/TN naar Steamwheedle Port en meld je daarna bij Oglethorpe Obnoticus in Booty Bay.",
+   "c": "O, JIJ bent de grote redder van OOX-17/TN! Ik kan niet eens beginnen te zeggen hoe dankbaar ik je ben voor je hulp! Mijn reeks terugkeerrobots moet nog verder ontwikkeld worden, maar dankzij jouw redding heb ik ontelbare uren aan herbouwen bespaard, en ook heel wat goudstukken aan kosten voor nieuwe bindingen!$B$BKies alsjeblieft een van deze voorwerpen die ik heb. Hopelijk heb je er veel aan. Nogmaals bedankt voor je royale hulp; mijn robots en ik staan bij je in het krijt!",
+   "e": "Begeleid OOX-17/TN naar Steamwheedle Port",
+   "g": [
+    [
+     "opstijgprocedure",
+     "take-off procedure"
+    ],
+    [
+     "ingebouwde",
+     "built-in (ingebouwd)"
+    ],
+    [
+     "camouflage",
+     "cloaking, camouflage"
+    ],
+    [
+     "werkend te krijgen",
+     "to get working"
+    ],
+    [
+     "begeleidt",
+     "escort (begeleiden)"
+    ],
+    [
+     "aan de praat te krijgen",
+     "to get running"
+    ],
+    [
+     "over en uit",
+     "over and out"
+    ],
+    [
+     "meld je",
+     "report (zich melden)"
+    ],
+    [
+     "redder",
+     "savior"
+    ],
+    [
+     "ontwikkeld",
+     "developed (ontwikkelen)"
+    ],
+    [
+     "ontelbare",
+     "countless (ontelbaar)"
+    ],
+    [
+     "bespaard",
+     "saved (besparen)"
+    ],
+    [
+     "bindingen",
+     "bindings (binding)"
+    ],
+    [
+     "royale",
+     "generous (royaal)"
+    ],
+    [
+     "in het krijt staan",
+     "to be in someone's debt"
+    ]
+   ]
+  },
+  "3161": {
+   "t": "Gahz'ridian",
+   "d": "$N, ik ben wetenschapper, maar in mijn hart ben ik ook een schatzoeker!$B$BLang geleden, toen trollen dit land bewoonden, maakten ze grote hoeveelheden ornamenten naar het voorbeeld van Gahz'rilla, een hydra die ze als god vereerden. Deze ornamenten zijn gesneden uit een element dat ik \"Gahz'ridian\" noem, naar de hydragod.$B$BIk heb er zelf wat gevonden, maar ik wil er graag meer om te bestuderen. Misschien kun jij er wat vinden?$B$BIk heb zelfs een detector uitgevonden waarmee je Gahz'ridian heel makkelijk vindt! Zet hem gewoon op, en het zoeken begint!",
+   "o": "Marvon Rivetseeker in Tanaris wil dat je 30 Gahz'ridian Ornaments verzamelt.",
+   "p": "Heb je problemen?$B$BJe kunt Gahz'ridian bijna overal in Tanaris vinden, $N, dus blijf zoeken!",
+   "c": "Perfect; deze ornamenten zijn perfect voor mijn onderzoek. Heel erg bedankt voor je hulp, $N.$B$BO, mag ik mijn helm terug?",
+   "g": [
+    [
+     "schatzoeker",
+     "treasure hunter"
+    ],
+    [
+     "bewoonden",
+     "occupied, inhabited (bewonen)"
+    ],
+    [
+     "hoeveelheden",
+     "amounts (hoeveelheid)"
+    ],
+    [
+     "ornamenten",
+     "ornaments (ornament)"
+    ],
+    [
+     "naar het voorbeeld van",
+     "modeled after"
+    ],
+    [
+     "hydra",
+     "hydra"
+    ],
+    [
+     "vereerden",
+     "worshipped (vereren)"
+    ],
+    [
+     "gesneden",
+     "carved (snijden)"
+    ],
+    [
+     "bestuderen",
+     "to study"
+    ],
+    [
+     "uitgevonden",
+     "invented (uitvinden)"
+    ],
+    [
+     "helm",
+     "helmet"
+    ]
+   ]
+  },
+  "162": {
+   "t": "De opkomst van de silithid",
+   "d": "Ik raad je dringend aan om dit verslag naar iemand te brengen die verstand heeft van dit soort dingen.$B$BIk ken een nachtelf, een geleerde die Gracina Spiritmight heet. Ze heeft veel tijd besteed aan het bestuderen van levensvormen die alleen in de ecologie van Azeroth voorkomen; en ze is ook nog historicus! Als je iemand wilt die kan helpen uitzoeken wat deze bedreiging precies is, en belangrijker nog, hoe we haar kunnen stoppen, geef haar dan het verslag. We zullen de hulp nodig hebben.$B$BHet laatste wat ik hoorde, is dat ze in de Temple of the Moon in Darnassus woont.",
+   "o": "Breng het Insect Analysis Report naar Gracina Spiritmight in Darnassus.",
+   "p": "Vrede en rust zij met je, vreemdeling. Waarom heb je me vandaag opgezocht?",
+   "c": "Dit verslag... wij nachtelfen kennen de verschrikking die hier wordt beschreven. Fizzledowser was wijs om dit, en jou, naar mij te sturen.$B$BDeze wezens zullen de woestijn van Tanaris snel opslokken; ze zijn niets minder dan een van de grootste gevaren die we ooit zullen tegenkomen. Onthoud deze naam goed, $n: silithid. De insecten die hier worden genoemd, zijn de silithid, en ze zijn de werktuigen van een van de grootste bedreigingen voor zowel de Horde als de Alliance.$B$BWaren we maar slim genoeg geweest om dat eerder te zien.",
+   "g": [
+    [
+     "opkomst",
+     "rise"
+    ],
+    [
+     "ik raad je dringend aan",
+     "I urge you (aanraden)"
+    ],
+    [
+     "verstand heeft van",
+     "has knowledge of"
+    ],
+    [
+     "geleerde",
+     "scholar"
+    ],
+    [
+     "levensvormen",
+     "life forms (levensvorm)"
+    ],
+    [
+     "ecologie",
+     "ecology"
+    ],
+    [
+     "voorkomen",
+     "occur, are found"
+    ],
+    [
+     "historicus",
+     "historian"
+    ],
+    [
+     "vrede en rust zij met je",
+     "peace and tranquility be with you"
+    ],
+    [
+     "opgezocht",
+     "sought out (opzoeken)"
+    ],
+    [
+     "verschrikking",
+     "terror"
+    ],
+    [
+     "opslokken",
+     "to devour, swallow up"
+    ],
+    [
+     "niets minder dan",
+     "nothing short of"
+    ],
+    [
+     "werktuigen",
+     "tools (werktuig)"
+    ]
+   ]
+  },
+  "2605": {
+   "t": "De dorstige goblin",
+   "d": "Ik heb een idee, zie je. Ik heb gehoord over vreemde wezens die dew collectors heten en die in het zuidwesten leven... en dat ze water kunnen opslaan in speciale klieren.$B$BAls ik een van die klieren kan krijgen, kan ik volgens mij een drankje maken dat mijn vreselijke dorst lest! Denk je dat je me kunt helpen, $N?$B$BZoek naar de cactustuin, $N; daar vind je de dew collectors.",
+   "o": "Verzamel een Laden Dew Gland en breng die naar Marin Noggenfogger in Gadgetzan.",
+   "p": "Zeg alsjeblieft dat je de dew collectors hebt gevonden?",
+   "c": "O, geweldig! Geef hier, laat me het drinken!",
+   "g": [
+    [
+     "dorstige",
+     "thirsty (dorstig)"
+    ],
+    [
+     "wezens",
+     "creatures (wezen)"
+    ],
+    [
+     "opslaan",
+     "to store"
+    ],
+    [
+     "klieren",
+     "glands (klier)"
+    ],
+    [
+     "dorst",
+     "thirst"
+    ],
+    [
+     "lest",
+     "quenches (lessen)"
+    ],
+    [
+     "cactustuin",
+     "cactus garden"
+    ],
+    [
+     "geef hier",
+     "give it here"
+    ]
+   ]
+  },
+  "2606": {
+   "t": "Goede smaak",
+   "d": "Bah! Dit spul smaakt vreselijk! Dat idee kan ik dus wel vergeten...$B$BWacht, wat zeg je? O, ik weet het, ik weet het, je vindt dat ik dit spul niet moet opgeven. Nou, goed dan.$B$BEhhh, ik heb een idee! Briljant! Breng deze dauw naar mijn vriendin Sprinkle; ze is een uitstekende kok. Vertel haar wat we hier van plan zijn, en dat we willen dat het wat makkelijker naar binnen gaat.$B$BIk bedoel, als het zo vies smaakt, moet het op zijn minst wat pit hebben... En dat voel ik gewoon niet...",
+   "o": "Marin Noggenfogger wil dat je met Sprinkle in Gadgetzan praat.",
+   "p": "Dus de oude Marin is weer bezig, hè? Waar is dit brouwsel van gemaakt?",
+   "c": "Marin is een goede vent, begrijp me niet verkeerd, alleen een beetje... excentriek, zou ik zeggen.$B$BEn natuurlijk heeft hij mijn hulp weer eens nodig.",
+   "g": [
+    [
+     "spul",
+     "stuff"
+    ],
+    [
+     "opgeven",
+     "to give up"
+    ],
+    [
+     "briljant",
+     "brilliant"
+    ],
+    [
+     "dauw",
+     "dew"
+    ],
+    [
+     "van plan",
+     "planning, up to"
+    ],
+    [
+     "naar binnen gaat",
+     "goes down (naar binnen gaan)"
+    ],
+    [
+     "vies",
+     "nasty, foul"
+    ],
+    [
+     "pit",
+     "kick, punch"
+    ],
+    [
+     "brouwsel",
+     "concoction, brew"
+    ],
+    [
+     "vent",
+     "guy, fellow"
+    ],
+    [
+     "begrijp me niet verkeerd",
+     "don't get me wrong"
+    ],
+    [
+     "excentriek",
+     "eccentric"
+    ],
+    [
+     "weer eens",
+     "yet again"
+    ]
+   ]
+  },
+  "2641": {
+   "t": "Sprinkles geheime ingrediënt",
+   "d": "Toen ik klein was, kookte mijn zus altijd. Het was vreselijk! Sommige van haar brouwsels kreeg ik bijna niet door mijn keel, tot ik vond wat ik graag mijn \"geheime\" ingrediënt noem! Doe het bij wat dan ook, en... WAUW! Het smaakt geweldig!$B$BWat het is, vraag je? Het is een paddenstoel die Violet Tragan heet. Als je wilt dat ik je help om dit afschuwelijk smakende brouwsel in iets eetbaars te veranderen, ga dan naar de Hinterlands en zoek daar een klein meer.$B$BO, en onthoud: de Violet Tragan vind je alleen onder water.",
+   "o": "Sprinkle in Gadgetzan wil dat je een Violet Tragan verzamelt en naar haar terugbrengt.",
+   "p": "Onder het water van dat meer: dat is de enige plek waar je de Violet Tragan kunt vinden. Ik hoop dat je goed je adem kunt inhouden!",
+   "c": "Dat is het spul, $N!$B$BHet ziet er zo lekker uit, misschien ga ik wel... Haha, ik had je!",
+   "g": [
+    [
+     "geheime",
+     "secret (geheim)"
+    ],
+    [
+     "ingrediënt",
+     "ingredient"
+    ],
+    [
+     "brouwsels",
+     "concoctions (brouwsel)"
+    ],
+    [
+     "door mijn keel",
+     "down my throat"
+    ],
+    [
+     "wat dan ook",
+     "anything at all"
+    ],
+    [
+     "paddenstoel",
+     "mushroom"
+    ],
+    [
+     "afschuwelijk",
+     "horribly, horrid"
+    ],
+    [
+     "eetbaars",
+     "edible (eetbaar)"
+    ],
+    [
+     "meer",
+     "lake"
+    ],
+    [
+     "je adem inhouden",
+     "to hold your breath"
+    ],
+    [
+     "ik had je",
+     "gotcha"
+    ]
+   ]
+  },
+  "2661": {
+   "t": "Een levering voor Marin",
+   "d": "Hier is het Violet Powder, $N. Breng het naar Marin en zeg hem dat hij me een gunst schuldig is!",
+   "o": "Sprinkle wil dat je het Violet Powder naar Marin Noggenfogger in Gadgetzan brengt.",
+   "p": "O, $N, eindelijk ben je terug. Wat heb je meegebracht?",
+   "c": "Violet Powder, hè? Laten we het proberen. Erger kan het in elk geval niet worden, dat is zeker!",
+   "g": [
+    [
+     "levering",
+     "delivery"
+    ],
+    [
+     "gunst",
+     "favor"
+    ],
+    [
+     "schuldig",
+     "owing, indebted"
+    ],
+    [
+     "eindelijk",
+     "finally"
+    ],
+    [
+     "meegebracht",
+     "brought (meebrengen)"
+    ],
+    [
+     "erger",
+     "worse"
+    ],
+    [
+     "in elk geval",
+     "in any case"
+    ]
+   ]
+  },
+  "2662": {
+   "t": "Noggenfogger Elixir",
+   "d": "Nu dit poeder nog door de dauw mengen.$B$BKom over een minuutje terug en praat met me... als ik het fantastische Noggenfogger Elixir heb geperfectioneerd!",
+   "o": "Marin Noggenfogger wil dat je weer met hem praat nadat hij zijn elixer heeft gemaakt.",
+   "c": "Drink dit! Het is echt heerlijk!!!$B$BIk wist dat ik het kon... O, nogmaals bedankt voor je hulp, $N, maar ga alsjeblieft een beetje opzij, wil je? Je staat mijn zaak in de weg! Ik ga miljoenen verdienen met het fantastische Noggenfogger Elixir, miljoenen!$B$BWat zeg je? Zegt Sprinkle dat ik haar een gunst schuldig ben? O, die Sprinkle, altijd in voor een grapje!",
+   "g": [
+    [
+     "poeder",
+     "powder"
+    ],
+    [
+     "mengen",
+     "to mix"
+    ],
+    [
+     "minuutje",
+     "a minute (minuut)"
+    ],
+    [
+     "fantastische",
+     "fabulous (fantastisch)"
+    ],
+    [
+     "geperfectioneerd",
+     "perfected (perfectioneren)"
+    ],
+    [
+     "elixer",
+     "elixir"
+    ],
+    [
+     "heerlijk",
+     "wonderful, delicious"
+    ],
+    [
+     "opzij",
+     "aside"
+    ],
+    [
+     "in de weg",
+     "in the way"
+    ],
+    [
+     "zaak",
+     "business, shop"
+    ],
+    [
+     "miljoenen",
+     "millions (miljoen)"
+    ],
+    [
+     "in voor een grapje",
+     "up for a joke, a kidder"
+    ]
+   ]
+  },
+  "5863": {
+   "t": "De Dunemaul Compound",
+   "d": "Pas geleden is er een grote groep rondtrekkende ogers in Tanaris aangekomen. Ten zuiden van hier hebben ze een groot gebied van de woestijn ingenomen en er een kamp gebouwd. Verschillende kleinere groepen trekken nu door de woestijn, en sommige daarvan zijn de oude trollenruïnes binnengevallen.$B$BDe Dunemaul Compound moet vernietigd worden! We mogen niet toestaan dat deze ogers een leger opbouwen.$B$BDe leider van deze groep heet Gor'marok the Ravager. Ik denk dat het einde van zijn leiderschap het begin van het einde zal zijn voor de ogers.",
+   "o": "Andi Lynn in Gadgetzan wil dat je de Dunemaul Compound vernietigt door 10 Dunemaul Brutes, 10 Dunemaul Enforcers en Gor'marok the Ravager te doden.",
+   "p": "Ik maak me zo'n zorgen! Wees alsjeblieft voorzichtig!",
+   "c": "Ik ben zo blij dat je dit voor me hebt kunnen doen, $N! Bedankt voor je hulp!",
+   "g": [
+    [
+     "pas geleden",
+     "just recently"
+    ],
+    [
+     "rondtrekkende",
+     "nomadic, wandering (rondtrekken)"
+    ],
+    [
+     "ogers",
+     "ogres (oger)"
+    ],
+    [
+     "ingenomen",
+     "taken over (innemen)"
+    ],
+    [
+     "trollenruïnes",
+     "troll ruins"
+    ],
+    [
+     "binnengevallen",
+     "invaded (binnenvallen)"
+    ],
+    [
+     "vernietigd",
+     "destroyed (vernietigen)"
+    ],
+    [
+     "toestaan",
+     "to allow"
+    ],
+    [
+     "opbouwen",
+     "to build up"
+    ],
+    [
+     "leiderschap",
+     "leadership"
+    ],
+    [
+     "ik maak me zorgen",
+     "I'm worried (zich zorgen maken)"
+    ]
+   ]
+  },
+  "1560": {
+   "t": "Tooga's opdracht",
+   "d": "Ik ben zo verdwaald!$b$bMijn vrouw, Torta, stuurde me eropuit om eten voor het avondmaal te halen, en ik moet ergens verkeerd zijn afgeslagen.$b$bWil je zo vriendelijk zijn om me terug te brengen naar Torta? Ze wacht op me net ten zuiden van Steamwheedle Port.",
+   "o": "Wijs Tooga de weg terug naar zijn vrouw, Torta.",
+   "p": "Waar is Tooga?",
+   "c": "Dus hij kon de weg terug niet alleen vinden? Typisch.$b$bNou, ik denk dat je wel iets verdient voor de moeite....",
+   "e": "Breng Tooga naar Torta",
+   "g": [
+    [
+     "opdracht",
+     "quest, task"
+    ],
+    [
+     "verdwaald",
+     "lost (verdwalen)"
+    ],
+    [
+     "eropuit",
+     "out (on an errand)"
+    ],
+    [
+     "avondmaal",
+     "dinner, supper"
+    ],
+    [
+     "verkeerd afgeslagen",
+     "taken a wrong turn (afslaan)"
+    ],
+    [
+     "zo vriendelijk zijn",
+     "to be so kind"
+    ],
+    [
+     "wijs de weg",
+     "show the way (wijzen)"
+    ],
+    [
+     "typisch",
+     "figures, typical"
+    ],
+    [
+     "moeite",
+     "trouble, effort"
+    ]
+   ]
+  },
+  "2954": {
+   "t": "De Stone Watcher",
+   "d": "\"Gegroet. Ik ben een bewaker van de toegang. Tenzij je de Plates of Uldum al in je set schijven hebt opgenomen, sta ik geen toegang tot het complex van Uldum toe.\"$B$BDe verschijning van de Stone Watcher of Norgannon moet de reactie zijn waarop men hoopte toen je met de platina schijven naar de woestijn van Tanaris werd gestuurd. Zoals je is opgedragen, moet je uitzoeken wat het verhaal achter de Stone Watcher is voordat je verdergaat.",
+   "o": "Ontdek het doel van de Stone Watcher of Norgannon en gebruik daarna de Uldum Pedestal in de woestijn van Tanaris.",
+   "p": "Je moet eerst het doel van de Stone Watcher ontdekken voordat je verder kunt gaan...",
+   "c": "De stem van de Stone Watcher klinkt vol macht en gezag:$B$B\"Je schijven krijg je terug zodra je de sokkel gebruikt. Als je de Plates of Uldum hebt verkregen en ze aan je bestaande set schijven hebt toegevoegd, mag je het complex binnengaan.\"",
+   "e": "Ontdek het doel van de Stone Watcher of Norgannon",
+   "g": [
+    [
+     "gegroet",
+     "salutations, greetings"
+    ],
+    [
+     "bewaker",
+     "guardian"
+    ],
+    [
+     "toegang",
+     "entry, access"
+    ],
+    [
+     "tenzij",
+     "unless"
+    ],
+    [
+     "schijven",
+     "discs (schijf)"
+    ],
+    [
+     "opgenomen",
+     "integrated, included (opnemen)"
+    ],
+    [
+     "verschijning",
+     "appearance"
+    ],
+    [
+     "platina",
+     "platinum"
+    ],
+    [
+     "opgedragen",
+     "instructed (opdragen)"
+    ],
+    [
+     "doel",
+     "purpose"
+    ],
+    [
+     "gezag",
+     "authority"
+    ],
+    [
+     "sokkel",
+     "pedestal"
+    ],
+    [
+     "verkregen",
+     "obtained (verkrijgen)"
+    ],
+    [
+     "bestaande",
+     "existing (bestaan)"
+    ]
+   ]
+  },
+  "3362": {
+   "t": "Thistleshrub Valley",
+   "d": "Heb je Thistleshrub Valley weleens gezien? Het is een heel gevaarlijke plek, $N.$B$BDie vreemde beesten daar vertrouw ik geen minuut! Gnarled thistleshrubs en thistleshrub rootshapers, zo heetten ze geloof ik...$B$BHoe dan ook, ik wil de vallei in, maar met al die thistleshrubs daar ga ik er echt niet meer heen. Maar hier kom jij in beeld: als jij er een paar opruimt, denk ik er misschien over om terug te gaan. Wat vind je, $N? Help je me?",
+   "o": "Tran'rek in Gadgetzan wil dat je 8 Gnarled Thistleshrubs en 8 Thistleshrub Rootshapers doodt.",
+   "p": "Ik wil die cactus in de vallei graag van dichterbij bekijken... Laat er dus wat van heel, wil je?",
+   "c": "Zijn ze zó groot? Misschien moet ik mijn plan nog eens overdenken...$B$BMaar jij hebt je aan je deel van de afspraak gehouden, dus hier is wat ik beloofd heb.",
+   "g": [
+    [
+     "weleens",
+     "ever"
+    ],
+    [
+     "vertrouw",
+     "trust (vertrouwen)"
+    ],
+    [
+     "hoe dan ook",
+     "anyhow"
+    ],
+    [
+     "vallei",
+     "valley"
+    ],
+    [
+     "hier kom jij in beeld",
+     "here's where you come in"
+    ],
+    [
+     "opruimt",
+     "clear out (opruimen)"
+    ],
+    [
+     "van dichterbij",
+     "more closely"
+    ],
+    [
+     "heel",
+     "in one piece, whole"
+    ],
+    [
+     "overdenken",
+     "to rethink"
+    ],
+    [
+     "afspraak",
+     "deal, bargain"
+    ],
+    [
+     "gehouden",
+     "kept (zich houden aan)"
+    ],
+    [
+     "beloofd",
+     "promised (beloven)"
+    ]
+   ]
+  },
+  "3444": {
+   "t": "De Stone Circle",
+   "d": "Ik ben ooit de onheilspellende zalen van de Sunken Temple binnengegaan. Het kwaad op die plek dringt door in iedereen die er binnenkomt; ik vond met moeite de weg naar buiten, wadend door het slijm dat nu de vloeren bedekt. Het enige wat ik me herinner, is dat ik door een grote, ronde zaal vol slangenbeelden strompelde...$B$BOnlangs vond ik een ronde steen waarop hetzelfde slangensymbool leek te staan. Ik heb hem laten inpakken en naar mijn werkplaats in Ratchet laten verzenden. Haal hem op, dan kan ik je misschien meer vertellen.",
+   "o": "Haal de Stone Circle op uit de werkplaats van Marvon Rivetseeker in Ratchet.",
+   "p": "Ratchet is niet ver van hier, $N. De reis zou niet lang moeten duren.",
+   "c": "Ja... Dit is de steen.$B$BHet komt nu allemaal terug, $N...",
+   "g": [
+    [
+     "onheilspellende",
+     "foreboding (onheilspellend)"
+    ],
+    [
+     "zalen",
+     "chambers, halls (zaal)"
+    ],
+    [
+     "dringt door",
+     "penetrates (doordringen)"
+    ],
+    [
+     "met moeite",
+     "barely, with difficulty"
+    ],
+    [
+     "wadend",
+     "wading (waden)"
+    ],
+    [
+     "slijm",
+     "ooze, slime"
+    ],
+    [
+     "bedekt",
+     "covers (bedekken)"
+    ],
+    [
+     "slangenbeelden",
+     "serpent statues (slangenbeeld)"
+    ],
+    [
+     "strompelde",
+     "stumbled (strompelen)"
+    ],
+    [
+     "onlangs",
+     "recently"
+    ],
+    [
+     "slangensymbool",
+     "serpent symbol"
+    ],
+    [
+     "werkplaats",
+     "workshop"
+    ],
+    [
+     "verzenden",
+     "to ship, send"
+    ]
+   ]
+  },
+  "4496": {
+   "t": "Gestuntel in de jungle",
+   "d": "Uit mijn onderzoek bleek dat de silithid net bijen zijn: vernietig de koningin van het nest, en de rest zou in de war moeten raken. Ik ga een lokmiddel brouwen om de koningin naar buiten te lokken; als ze eenmaal is opgeroepen, schakel jij haar uit.$B$BMaar eerst hebben we wat ingrediënten nodig; we willen niet dat je onvoorbereid de jungle in stuntelt. Ga naar het westen, naar het silithidnest in Un'Goro Crater, en haal een geurklier van een van de insecten. Ik heb ook wat monsters van de grond van Un'Goro nodig.",
+   "o": "Breng een Gorishi Scent Gland en 5 Un'Goro Soil naar Alchemist Pestlezugg in Gadgetzan.",
+   "p": "Het kan even duren voordat je een geschikte geurklier vindt. De klier mag niet beschadigd zijn, maar de manier waarop je er een krijgt, helpt daar zeker niet bij. De grond zou wel makkelijk genoeg te vinden moeten zijn, denk ik.$B$BHoe dan ook, heb je de spullen die ik nodig heb om het lokmiddel te maken?",
+   "c": "De geurklier, ah ja. Het vlies lijkt heel te zijn, uitstekend. De grond, ja, die zou perfect moeten werken. Met mijn speciale toevoegingen kan ik dit allemaal fijnmalen tot het perfecte lokmiddel.$B$BGeef me even om het lokmiddel te maken, $N. Als het klaar is, kunnen we de volgende stap zetten, die de silithid hopelijk tegenhoudt voordat ze Gadgetzan overspoelen... en de rest van Kalimdor.",
+   "g": [
+    [
+     "gestuntel",
+     "bungling"
+    ],
+    [
+     "bleek",
+     "turned out, revealed (blijken)"
+    ],
+    [
+     "bijen",
+     "bees (bij)"
+    ],
+    [
+     "nest",
+     "hive, nest"
+    ],
+    [
+     "in de war raken",
+     "to be thrown into disarray"
+    ],
+    [
+     "lokmiddel",
+     "lure"
+    ],
+    [
+     "opgeroepen",
+     "summoned (oproepen)"
+    ],
+    [
+     "schakel uit",
+     "take down (uitschakelen)"
+    ],
+    [
+     "onvoorbereid",
+     "unprepared"
+    ],
+    [
+     "stuntelt",
+     "bungles (stuntelen)"
+    ],
+    [
+     "geurklier",
+     "scent gland"
+    ],
+    [
+     "geschikte",
+     "suitable (geschikt)"
+    ],
+    [
+     "beschadigd",
+     "damaged (beschadigen)"
+    ],
+    [
+     "vlies",
+     "membrane"
+    ],
+    [
+     "toevoegingen",
+     "additions (toevoeging)"
+    ],
+    [
+     "fijnmalen",
+     "to grind up"
+    ]
+   ]
+  },
+  "4504": {
+   "t": "Superkleverig",
+   "d": "Ik zoek altijd een snelle manier om een goudstuk te verdienen, $N. Als je me helpt met mijn nieuwste idee, krijg je een klein deel van de winst. Wat vind je daarvan?$B$BDat dacht ik al!$B$BGa naar de teerputten in het noorden van Un'Goro Crater en verzamel wat teer voor me. Niet zomaar teer, hoor; je moet het halen bij de beesten die rond de teerputten leven. Gewone teer is gewoon niet kleverig genoeg.$B$BDe plantachtige wezens hebben chlorofyl in hun huid, en als je dat met de teer mengt, wordt het superkleverig!",
+   "o": "Verzamel 12 Super Sticky Tar voor Tran'rek in Gadgetzan.",
+   "p": "Tran'rek heeft het weer geflikt: deze superkleverige lijm wordt een rage!",
+   "c": "Ja, deze teer is precies goed...$B$BHé, wacht eens even, mijn handen... Ik krijg ze niet meer uit elkaar...$B$BMisschien was dit toch niet zo'n goed idee. O, maar wacht! Superkleverige-teerverwijderaar! Daar zit het echte geld!",
+   "g": [
+    [
+     "superkleverig",
+     "super sticky"
+    ],
+    [
+     "goudstuk",
+     "gold piece"
+    ],
+    [
+     "winst",
+     "profit"
+    ],
+    [
+     "teerputten",
+     "tar pits (teerput)"
+    ],
+    [
+     "teer",
+     "tar"
+    ],
+    [
+     "niet zomaar",
+     "not just any"
+    ],
+    [
+     "kleverig",
+     "sticky"
+    ],
+    [
+     "plantachtige",
+     "plant-like (plantachtig)"
+    ],
+    [
+     "chlorofyl",
+     "chlorophyll"
+    ],
+    [
+     "het weer geflikt",
+     "done it again (flikken)"
+    ],
+    [
+     "lijm",
+     "glue"
+    ],
+    [
+     "een rage",
+     "all the rage, a craze"
+    ],
+    [
+     "uit elkaar",
+     "apart"
+    ],
+    [
+     "teerverwijderaar",
+     "tar remover"
+    ]
+   ]
+  },
+  "4507": {
+   "t": "Pion slaat koningin",
+   "d": "Hier is het lokmiddel. Ergens in het netwerk van het nest zou een soort kristal moeten zijn. We denken dat de silithid het kristal gebruiken als een soort apparaat om het hele nest op elkaar af te stemmen. Waar dat kristal zou kunnen zijn? Ik zou het proberen in de broedkamers in het nest.$B$BAls je het lokmiddel op het kristal gebruikt, zou de koningin tevoorschijn moeten komen, maar wees gewaarschuwd: ze wordt waarschijnlijk beschermd door een aantal bewakers. Schakel de koningin uit en haal haar hersenen eruit. Hoe vies dat ook klinkt, we moeten ze echt dringend onderzoeken. Succes, $N!",
+   "o": "Versla de Gorishi Hive Queen zodra ze is opgeroepen.$B$BBreng het Gorishi Queen's Brain naar Alchemist Pestlezugg in Gadgetzan.",
+   "p": "Het is absoluut noodzakelijk dat we de hersenen van de koningin krijgen voor ons onderzoek. Door wat we hebben ontdekt, denken we dat deze silithid heel goed bestuurd kunnen worden door een kwaadaardige intelligentie. Ik huiver bij de gedachte aan wat iets zo verraderlijks als de silithid zou kunnen besturen, $N.",
+   "c": "Fantastisch, $N! We hebben hier vandaag een flinke overwinning behaald. Het zal even duren voordat we helemaal begrijpen wat we hier hebben, maar we zullen het goed gebruiken, maak je daar maar geen zorgen over.$B$BWat de silithid betreft: ik betwijfel echt of dit hun volledige aanwezigheid was. Dit is een veel te nette oplossing, helaas.",
+   "g": [
+    [
+     "pion",
+     "pawn"
+    ],
+    [
+     "slaat",
+     "captures (slaan, in chess)"
+    ],
+    [
+     "kristal",
+     "crystal"
+    ],
+    [
+     "af te stemmen",
+     "to attune (afstemmen)"
+    ],
+    [
+     "broedkamers",
+     "hatcheries (broedkamer)"
+    ],
+    [
+     "tevoorschijn komen",
+     "to come out, appear"
+    ],
+    [
+     "wees gewaarschuwd",
+     "be warned"
+    ],
+    [
+     "hersenen",
+     "brain"
+    ],
+    [
+     "noodzakelijk",
+     "imperative, necessary"
+    ],
+    [
+     "ik huiver",
+     "I shudder (huiveren)"
+    ],
+    [
+     "verraderlijks",
+     "insidious (verraderlijk)"
+    ],
+    [
+     "overwinning",
+     "victory"
+    ],
+    [
+     "betwijfel",
+     "doubt (betwijfelen)"
+    ],
+    [
+     "aanwezigheid",
+     "presence"
+    ],
+    [
+     "oplossing",
+     "resolution, solution"
+    ]
+   ]
+  }
+ },
+ "words": {
+  "afgeslagen": "turned (afslaan: to turn off a road)",
+  "afgetapte": "tapped (aftappen: to draw off)",
+  "beacon": "English item name: beacon",
+  "binnengegaan": "gone in, entered (binnengaan)",
+  "binnenkomen": "to come in, enter",
+  "collectors": "English creature name: collectors",
+  "complex": "complex (group of buildings)",
+  "detector": "detector",
+  "distress": "English item name: distress",
+  "dowsing": "English item name: dowsing",
+  "duren": "to last, take (time)",
+  "ehhh": "uhhh (hesitation)",
+  "geflikt": "pulled off, done (flikken, informal)",
+  "hydragod": "hydra god",
+  "innemen": "to seize, take over",
+  "inpakken": "to pack up",
+  "klier": "gland",
+  "knagend": "nagging, gnawing (knagen)",
+  "kookte": "cooked (koken)",
+  "kruipend": "crawling (kruipen)",
+  "netwerk": "network",
+  "robotapparaat": "robotic device",
+  "rover": "rover (vehicle)",
+  "service": "service",
+  "silithidnest": "silithid hive",
+  "smakende": "tasting (smaken)",
+  "sprinkles": "Sprinkle's (possessive)",
+  "superkleverige": "super sticky (superkleverig)",
+  "superkleverige-teerverwijderaar": "super sticky tar remover",
+  "tap": "tap (aftappen: to draw off)",
+  "tapped": "English item name: tapped",
+  "terugkeerrobots": "homing robots (terugkeerrobot)",
+  "toegebracht": "dealt, inflicted (toebrengen)",
+  "toegevoegd": "added (toevoegen)",
+  "untapped": "English item name: untapped",
+  "vermoorden": "to murder",
+  "vloeren": "floors (vloer)",
+  "waarbij": "in which, where",
+  "wastewander-bandieten": "Wastewander outlaws (bandiet)",
+  "waterbronnen": "water sources (waterbron)",
+  "wateronderzoek": "water survey",
+  "werkend": "working (werken)",
+  "wetenschapper": "scientist",
+  "widget": "English item name: widget",
+  "zó": "so (stressed)"
+ },
+ "terms": {
+  "silithid": "silithid: insect-like creatures from the Warcraft world, serving a hidden power"
+ }
+}
