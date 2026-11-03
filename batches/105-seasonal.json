@@ -1,0 +1,1790 @@
+{
+  "quests": {
+    "8763": {
+      "t": "De held van de dag",
+      "d": "Luister... Ik mag je dit eigenlijk niet vertellen, maar omdat jij de held van de dag bent en zo...$B$BIn deze tijd van het jaar ligt er overal verse hulst, maar die blijft nooit lang goed. We hebben een machine die hulst bewaart - hij bederft nooit! We gebruiken hem om de feestdagen wat op te fleuren... en de winst in de zomer!$B$BIk laat je de machine gebruiken, maar alleen als je een meesterkok bent. Je hebt wat Deeprock Salt nodig en twee, drie, laten we zeggen vijf goudstukken. Dan krijg je een mooie partij die je mag houden.",
+      "o": "Breng 1 Deeprock Salt en 5 goudstukken naar een Holly Preserver-machine. Daar krijg je 5 Preserved Holly.",
+      "p": "De \"Holly Preserver\"-machine lijkt eerst op een soort distilleerketel, maar als je goed kijkt, zie je dat er dingen aan veranderd zijn op een goblinachtige manier. Toch begrijp je dankzij je kookkunst hoe de machine werkt.$B$BEr zit al verse hulst in de machine. Je hoeft alleen wat Deeprock Salt en vijf goudstukken te geven om de machine aan het werk te zetten.",
+      "c": "De machine rommelt een beetje en blaast wat stoom uit als hij begint te werken. Niet veel later stopt hij weer, aangekondigd door nog een klein straaltje stoom. Een luikje gaat open, en je ziet een partij bewaarde hulst!",
+      "g": [
+        [
+          "hulst",
+          "holly"
+        ],
+        [
+          "bederft",
+          "goes bad, spoils (bederven)"
+        ],
+        [
+          "op te fleuren",
+          "to brighten up (opfleuren)"
+        ],
+        [
+          "winst",
+          "profit"
+        ],
+        [
+          "partij",
+          "batch"
+        ],
+        [
+          "distilleerketel",
+          "still (for distilling)"
+        ],
+        [
+          "goblinachtige",
+          "goblin-like"
+        ],
+        [
+          "kookkunst",
+          "cooking skill"
+        ],
+        [
+          "rommelt",
+          "rumbles (rommelen)"
+        ],
+        [
+          "aangekondigd",
+          "announced, heralded (aankondigen)"
+        ],
+        [
+          "straaltje",
+          "small jet"
+        ],
+        [
+          "luikje",
+          "small hatch"
+        ]
+      ]
+    },
+    "8860": {
+      "t": "Nieuwjaarsfeest!",
+      "d": "Stormwind houdt een feest voor het nieuwe jaar! De hele dag kun je vandaag gratis drank krijgen, en 's avonds is er een vuurwerkshow! Het wordt vast heel leuk... maar in Booty Bay is vandaag ook een feest; ik wed dat dat nog beter wordt!$B$BMaar goed, Innkeeper Allison in Stormwind heeft een voorraad eten van Smoky Wood Pasture nodig om alle feestgangers te eten te geven. Wil je me een plezier doen en het bezorgen?$B$BBedankt, $N! Innkeeper Allison is in de Gilded Rose, in het Trade District van Stormwind.",
+      "o": "Breng de Smokywood Supplies naar Innkeeper Allison in Stormwind.",
+      "p": "Gegroet! Kom je voor het feest? Of moet je misschien gewoon je vermoeide voeten rust geven...",
+      "c": "O, mijn Smokywood-voorraad! Prachtig! Die heb ik nodig om alle mensen in de stad te eten te geven tijdens het feest!$B$BDank je, $N. Neem dit alsjeblieft als betaling, en vergeet niet te drinken en te dansen met de feestvierders buiten!",
+      "g": [
+        [
+          "vuurwerkshow",
+          "fireworks show"
+        ],
+        [
+          "ik wed",
+          "I bet (wedden)"
+        ],
+        [
+          "voorraad",
+          "supply, stock"
+        ],
+        [
+          "feestgangers",
+          "party-goers"
+        ],
+        [
+          "een plezier doen",
+          "to do a favour"
+        ],
+        [
+          "bezorgen",
+          "to deliver"
+        ],
+        [
+          "vermoeide",
+          "weary, tired (vermoeid)"
+        ],
+        [
+          "betaling",
+          "payment"
+        ],
+        [
+          "feestvierders",
+          "revellers"
+        ]
+      ]
+    },
+    "8868": {
+      "t": "De zegen van Elune",
+      "d": "Het beest Omen was ooit een held van deze wereld. Omen was een wolf met grote kracht en veel geluk. Hij vocht naast de helden van de War of the Ancients, tot hij bezweek aan demonische magie. Hij keerde zich tegen zijn bondgenoten, raasde door Azeroth en liet dood en angst achter zich.$B$BOmen werd uiteindelijk hier verslagen, in Moonglade, en nu slaapt hij in het slib van Lake Elune'ara. Maar elk nieuw jaar, tijdens het festival, komt hij in beweging...$B$BVerzamel kameraden, $N, roep het beest Omen op en versla hem. Verdien de zegen van Elune!",
+      "o": "Roep Omen op, versla hem en ontvang Elune's Blessing. Ga terug naar Valadar Starsong in Nighthaven.",
+      "p": "Omen beweegt nog altijd onder Lake Elune'ara, $n...",
+      "c": "Heel goed gedaan, $N. Door Omen te verslaan heb je zijn geest teruggestuurd naar het water van Elune'ara. Het beest zelf is door Elune gezegend en kan dus niet sterven, maar zijn woede zal weer een jaar lang bedaren.",
+      "e": "Ontvang Elune's Blessing.",
+      "g": [
+        [
+          "zegen",
+          "blessing"
+        ],
+        [
+          "bezweek",
+          "succumbed (bezwijken)"
+        ],
+        [
+          "demonische",
+          "demonic"
+        ],
+        [
+          "keerde zich tegen",
+          "turned against (zich keren tegen)"
+        ],
+        [
+          "bondgenoten",
+          "allies (bondgenoot)"
+        ],
+        [
+          "raasde",
+          "raged (razen)"
+        ],
+        [
+          "slib",
+          "silt, mud"
+        ],
+        [
+          "komt in beweging",
+          "stirs, starts to move"
+        ],
+        [
+          "kameraden",
+          "comrades (kameraad)"
+        ],
+        [
+          "roep op",
+          "summon (oproepen)"
+        ],
+        [
+          "gezegend",
+          "blessed (zegenen)"
+        ],
+        [
+          "bedaren",
+          "to calm down, subside"
+        ]
+      ]
+    },
+    "8897": {
+      "t": "Liefste Colara,",
+      "d": "Ik moet hier bij de poort de wacht houden, maar ik maak me altijd zorgen om mijn liefje, Colara. Ik zie haar maar een paar uur, als ik geluk heb, en tja, kijk nou naar mij. Ik krijg het loon van een lage officier, en ik kan elke dag naar het front geroepen worden.$b$bZou ze me gewoon vergeten? Er zijn veel mannen in de stad. Veel rijke mannen.$b$bHoe dan ook, ik heb wat dingen opgeschreven... niets bijzonders, maar als je het naar haar kunt brengen, zou dat geweldig zijn.",
+      "o": "Bezorg Lieutenant Heldric's Carefully Penned Note bij Colara Dean buiten de bank in Stormwind.",
+      "p": "$gHallo daar, knapperd. Kan ik je ergens mee helpen?:Goh! Kan ik je ergens mee helpen?;",
+      "c": "O, wat lief! Dit is de eerste keer dat hij me iets stuurt. Denk je dat hij het serieus meent?$b$bColara Heldric? Dat klinkt eigenlijk wel mooi. O, maar ik loop op de zaken vooruit. Dank je.",
+      "g": [
+        [
+          "de wacht houden",
+          "to keep watch"
+        ],
+        [
+          "liefje",
+          "sweetheart"
+        ],
+        [
+          "loon",
+          "pay, wages"
+        ],
+        [
+          "officier",
+          "officer"
+        ],
+        [
+          "het front",
+          "the front (war)"
+        ],
+        [
+          "hoe dan ook",
+          "anyway"
+        ],
+        [
+          "knapperd",
+          "handsome (man)"
+        ],
+        [
+          "meent het serieus",
+          "is serious about it (menen)"
+        ],
+        [
+          "ik loop op de zaken vooruit",
+          "I'm getting ahead of myself"
+        ]
+      ]
+    },
+    "8898": {
+      "t": "Liefste Colara,",
+      "d": "Ik heb in Stormwind een meisje ontmoet, toen ik daar voor het laatst voor zaken van de bank was. Ze heeft mijn hart gestolen. Nu kan ik niet meer ophouden met aan haar denken! Ik wil haar dit bericht sturen - ik heb het twaalf keer herschreven!$b$bDe post is nu zo vol, en ik wil zeker weten dat het aankomt.$b$bAls je die kant op gaat, kun je me dan helpen?",
+      "o": "Bezorg de Creased Letter bij Colara Dean buiten de bank in Stormwind.",
+      "p": "Hallo daar, knapperd. Kan ik je ergens mee helpen?",
+      "c": "Tormek? O ja, die herinner ik me wel. Hij had een heel mooie baard, met een mooie glimlach eronder.$B$BAh, ik kan niet geloven dat hij me niet vergeten is!",
+      "g": [
+        [
+          "zaken",
+          "business"
+        ],
+        [
+          "gestolen",
+          "stolen (stelen)"
+        ],
+        [
+          "ophouden",
+          "to stop"
+        ],
+        [
+          "herschreven",
+          "rewritten (herschrijven)"
+        ],
+        [
+          "aankomt",
+          "arrives (aankomen)"
+        ],
+        [
+          "die kant op",
+          "that way"
+        ],
+        [
+          "herinner me",
+          "remember (zich herinneren)"
+        ],
+        [
+          "glimlach",
+          "smile"
+        ],
+        [
+          "eronder",
+          "underneath it"
+        ]
+      ]
+    },
+    "8899": {
+      "t": "Liefste Colara,",
+      "d": "Hoe beschrijf ik haar schoonheid? Duizenden jaren aan woorden, en toch weet ik het niet.$b$bDeze stervelingen brengen de geest in verwarring en maken van ons brabbelende dwazen.$b$bIk heb te lang naar deze woorden gestaard. Ik kan er geen mooiere betekenis meer uit persen. Nee, ze moet het nu krijgen, anders trekt een andere aanbidder vast haar aandacht.",
+      "o": "Bezorg de Immaculate Letter bij Colara Dean buiten de bank in Stormwind.",
+      "p": "Hallo daar, knapperd. Kan ik je ergens mee helpen?",
+      "c": "Zoiets heb ik nog nooit gekregen. Wat mooi!",
+      "g": [
+        [
+          "schoonheid",
+          "beauty"
+        ],
+        [
+          "stervelingen",
+          "mortals (sterveling)"
+        ],
+        [
+          "verwarring",
+          "confusion"
+        ],
+        [
+          "brabbelende",
+          "babbling (brabbelen)"
+        ],
+        [
+          "dwazen",
+          "fools (dwaas)"
+        ],
+        [
+          "gestaard",
+          "stared (staren)"
+        ],
+        [
+          "persen",
+          "to squeeze, press"
+        ],
+        [
+          "aanbidder",
+          "suitor, admirer"
+        ],
+        [
+          "aandacht",
+          "attention"
+        ]
+      ]
+    },
+    "8903": {
+      "t": "Gevaarlijke liefde",
+      "d": "Er is iets onnatuurlijks aan deze epidemie van liefde. Het hoort niet, het is een doorn in het oog, en in het ergste geval kan het een gevaar zijn voor de veiligheid van de Alliance zelf.$b$bDenk eens na: wat als de wachters ook door deze vreemde kwaal gegrepen zijn? Er moet iets gebeuren.$b$bGa naar een van de wachters hier in Stormwind en kijk of zij ook in deze dwaasheid zijn meegesleept.",
+      "o": "Haal een Stormwind Guard's Card en breng die terug naar Aristan Mottar in Stormwind.",
+      "p": "Maakte ik me terecht zorgen? Zijn de wachters getroffen door deze liefdesziekte?",
+      "c": "Het is dus waar. Dit is ongelooflijk. Hoe heeft dit kunnen gebeuren? Laat me even nadenken. Er moet een reden achter zitten.",
+      "g": [
+        [
+          "onnatuurlijks",
+          "unnatural (onnatuurlijk)"
+        ],
+        [
+          "het hoort niet",
+          "it's not proper"
+        ],
+        [
+          "een doorn in het oog",
+          "an eyesore"
+        ],
+        [
+          "in het ergste geval",
+          "at worst"
+        ],
+        [
+          "kwaal",
+          "affliction, ailment"
+        ],
+        [
+          "gegrepen",
+          "seized, taken (grijpen)"
+        ],
+        [
+          "dwaasheid",
+          "foolishness"
+        ],
+        [
+          "meegesleept",
+          "carried away (meeslepen)"
+        ],
+        [
+          "terecht",
+          "rightly"
+        ],
+        [
+          "getroffen",
+          "struck, afflicted (treffen)"
+        ],
+        [
+          "liefdesziekte",
+          "lovesickness"
+        ],
+        [
+          "ongelooflijk",
+          "unbelievable"
+        ]
+      ]
+    },
+    "8993": {
+      "t": "Cadeaus geven",
+      "p": "Kom je een cadeau van liefde en bewondering brengen voor je favoriete leider?",
+      "c": "Geweldig! Geweldig! Ik leg dit bij de stapel andere cadeaus.$b$bIk had er niet zo veel verwacht! Je moet echt van je leiders houden.$b$bZo, laat me er nog eentje bij tellen...",
+      "g": [
+        [
+          "bewondering",
+          "adoration, admiration"
+        ],
+        [
+          "favoriete",
+          "favourite"
+        ],
+        [
+          "stapel",
+          "pile"
+        ],
+        [
+          "verwacht",
+          "expected (verwachten)"
+        ],
+        [
+          "bij tellen",
+          "to add to the count (bijtellen)"
+        ]
+      ]
+    },
+    "9024": {
+      "t": "Aristans vermoeden",
+      "d": "Ik heb het! Heb je de nieuwe geur in de wind geroken? De nieuwe eau de colognes en parfums die in de mode zijn gekomen? Onze wachters zouden hun plichten niet zo makkelijk verwaarlozen.$b$bTenminste, niet als hun denken niet vertroebeld is door een of andere smerige alchemie.$b$bEr is maar één manier om het zeker te weten: breng een fles eau de cologne en een fles parfum naar Morgan Pestle, en vertel hem wat ik vermoed. Als je terugkomt, betaal ik je terug wat je ervoor hebt uitgegeven.",
+      "o": "Breng 1 Cologne Bottle en 1 Perfume Bottle naar Morgan Pestle in het Trade District van Stormwind.",
+      "p": "Kan ik je ergens mee helpen?",
+      "c": "Ik begrijp Aristans zorgen, maar ik denk echt dat hij overdrijft. Laat jonge mannen en vrouwen toch doen wat ze willen. Ik denk dat Aristan vergeten is wat het betekent om jong en verliefd te zijn.$b$bMaar dat kunnen we hem beter niet vertellen. We gaan er maar in mee.",
+      "g": [
+        [
+          "vermoeden",
+          "hunch, suspicion"
+        ],
+        [
+          "geur",
+          "smell, fragrance"
+        ],
+        [
+          "in de mode",
+          "in fashion"
+        ],
+        [
+          "plichten",
+          "duties (plicht)"
+        ],
+        [
+          "verwaarlozen",
+          "to neglect"
+        ],
+        [
+          "vertroebeld",
+          "clouded (vertroebelen)"
+        ],
+        [
+          "smerige",
+          "foul, dirty (smerig)"
+        ],
+        [
+          "vermoed",
+          "suspect (vermoeden)"
+        ],
+        [
+          "uitgegeven",
+          "spent (uitgeven)"
+        ],
+        [
+          "overdrijft",
+          "exaggerates, overreacts (overdrijven)"
+        ],
+        [
+          "verliefd",
+          "in love"
+        ],
+        [
+          "we gaan er maar in mee",
+          "we'll just humour him"
+        ]
+      ]
+    },
+    "9025": {
+      "t": "Morgans ontdekking",
+      "d": "Nou ja, zeg. Het lijkt erop dat Aristan toch iets op het spoor is. Ik heb sporen gevonden van stoffen die gebruikt worden in liefdesdrankjes en in verraderlijke drankjes die de geest veranderen.$b$bHet is niet ongewoon dat parfums daar wat van bevatten, maar een paar van de ingrediënten die ik gevonden heb... Daar zit een luchtje aan.",
+      "o": "Ga terug naar Aristan Mottar buiten de bank in het Trade District van Stormwind.",
+      "c": "Ik dacht al dat het zo zou zijn, maar het blijft verontrustend dat mijn vermoedens klopten. We moeten goed nadenken over onze volgende stap.$b$bHier, dit is om je terug te betalen voor de eau de cologne en de parfum.",
+      "g": [
+        [
+          "ontdekking",
+          "discovery"
+        ],
+        [
+          "nou ja, zeg",
+          "well, I'll be"
+        ],
+        [
+          "op het spoor",
+          "on to (something)"
+        ],
+        [
+          "sporen",
+          "traces (spoor)"
+        ],
+        [
+          "stoffen",
+          "substances (stof)"
+        ],
+        [
+          "liefdesdrankjes",
+          "love potions"
+        ],
+        [
+          "verraderlijke",
+          "insidious, treacherous (verraderlijk)"
+        ],
+        [
+          "ongewoon",
+          "unusual"
+        ],
+        [
+          "bevatten",
+          "to contain"
+        ],
+        [
+          "daar zit een luchtje aan",
+          "something smells fishy about it"
+        ],
+        [
+          "verontrustend",
+          "unsettling"
+        ],
+        [
+          "vermoedens",
+          "suspicions (vermoeden)"
+        ],
+        [
+          "klopten",
+          "were right (kloppen)"
+        ]
+      ]
+    },
+    "9026": {
+      "t": "Op zoek naar de bron",
+      "d": "We moeten de bron vinden. Ik heb veel meer mensen dan normaal - ook wachters - in en uit The Gilded Rose zien gaan. Praat met Allison. Als zij ze verkoopt, kan ze je vertellen waar ze vandaan komen.",
+      "o": "Spreek met Innkeeper Allison in The Gilded Rose in het Trade District van Stormwind.",
+      "c": "O ja, ik heb de parfum en eau de cologne pas net binnengekregen. Het verkoopt zo goed dat ik niet weet hoe lang ik het nog in de schappen kan houden.$b$bAls je het mij vraagt, is het eigenlijk een beetje saai. Iedereen die hetzelfde ruikt? Het ruikt heerlijk, maar toch.",
+      "g": [
+        [
+          "bron",
+          "source"
+        ],
+        [
+          "vandaan",
+          "from (where)"
+        ],
+        [
+          "binnengekregen",
+          "got in (stock) (binnenkrijgen)"
+        ],
+        [
+          "schappen",
+          "shelves (schap)"
+        ],
+        [
+          "als je het mij vraagt",
+          "if you ask me"
+        ],
+        [
+          "saai",
+          "boring"
+        ],
+        [
+          "ruikt",
+          "smells (ruiken)"
+        ],
+        [
+          "maar toch",
+          "but still"
+        ]
+      ]
+    },
+    "9027": {
+      "t": "Op zoek naar de bron",
+      "d": "Is er iets vreemds met de eau de cologne? Dat kan. Ik heb nog nooit zoveel mensen achter één product aan zien gaan.$b$bKijk, als er iets mis mee is, wil ik dat ook weten. Ik heb mijn voorraad gekocht van een koopman die Evert Sorisam heet. Hij is nieuw in de stad.$b$bHij zei dat hij wat goederen had die hij naar The Finest Thread ging brengen.",
+      "o": "Spreek met Evert Sorisam in The Finest Thread langs de kanalen van Stormwind.",
+      "c": "Ja, natuurlijk. Die geuren zijn dit seizoen de populairste artikelen. Je bent vast de vijfde of zesde persoon dit uur die ernaar vraagt.$b$bIk ben bang dat mijn voorraad helemaal uitverkocht is. Als je wat wilt, moet je met Allison praten, de waardin van The Gilded Rose.$b$bVerspil wel geen tijd. Ik denk dat je de $geau de cologne:parfum; onweerstaanbaar zult vinden.",
+      "g": [
+        [
+          "vreemds",
+          "strange (vreemd)"
+        ],
+        [
+          "achter aan gaan",
+          "to go after (achter iets aan gaan)"
+        ],
+        [
+          "mis",
+          "wrong"
+        ],
+        [
+          "koopman",
+          "merchant"
+        ],
+        [
+          "goederen",
+          "goods"
+        ],
+        [
+          "kanalen",
+          "canals (kanaal)"
+        ],
+        [
+          "artikelen",
+          "items, articles (artikel)"
+        ],
+        [
+          "uitverkocht",
+          "sold out"
+        ],
+        [
+          "waardin",
+          "innkeeper (f.)"
+        ],
+        [
+          "verspil",
+          "waste (verspillen)"
+        ],
+        [
+          "onweerstaanbaar",
+          "irresistible"
+        ]
+      ]
+    },
+    "9028": {
+      "t": "De bron onthuld",
+      "d": "Wat? Verraad? Nee, nee. Ik verzeker je dat mijn bedoelingen volkomen onschuldig zijn.$b$bIs het zo verkeerd om mensen te helpen die het pijnlijke ritueel van het hofmaken makkelijker willen maken? Kom, dat is toch geen misdaad.$b$bEn om te bewijzen dat ik geen kwaad wil, vertel ik je zelfs wie mijn leverancier is.$b$bZe werden naar me verscheept door een zekere Staffron Lerent, een soort apotheker. Ik heb nooit met hem gesproken.$b$bOnze goblin-tussenpersoon zei dat hij werkte in de heuvels boven Hillsbrad, voorbij dat geheimzinnige Ravenholdt Manor. Ik wens je veel geluk als je hem gaat zoeken.",
+      "o": "Zoek Apothecary Staffron Lerent in de Hillsbrad Foothills achter Ravenholdt Manor.",
+      "c": "Ja, ik heb die geuren gemaakt. Heerlijke geur, nietwaar? Onweerstaanbaar.$b$bZodra de krijgers van de Alliance en de Horde allemaal door deze gevoelens van liefde getroffen zijn, zullen ze machteloos zijn om de opkomst van de Shadow Council tegen te houden.$b$bZe zullen verzwakt zijn en onvoorbereid. Terwijl ze zich zorgen maken om hun geliefden, raken ze hun scherpte kwijt.$b$bDe oplossing was zo simpel. Waarom duurde het zo lang voordat ik erop kwam? Ieders zwakte ligt in het hart. En er is niets wat je kunt doen om het onvermijdelijke tegen te houden.",
+      "g": [
+        [
+          "onthuld",
+          "revealed (onthullen)"
+        ],
+        [
+          "verraad",
+          "treason"
+        ],
+        [
+          "verzeker",
+          "assure (verzekeren)"
+        ],
+        [
+          "bedoelingen",
+          "intentions (bedoeling)"
+        ],
+        [
+          "onschuldig",
+          "harmless, innocent"
+        ],
+        [
+          "het hofmaken",
+          "courtship"
+        ],
+        [
+          "leverancier",
+          "supplier"
+        ],
+        [
+          "verscheept",
+          "shipped (verschepen)"
+        ],
+        [
+          "apotheker",
+          "apothecary"
+        ],
+        [
+          "tussenpersoon",
+          "middleman"
+        ],
+        [
+          "geheimzinnige",
+          "mysterious (geheimzinnig)"
+        ],
+        [
+          "machteloos",
+          "powerless"
+        ],
+        [
+          "opkomst",
+          "rise"
+        ],
+        [
+          "onvoorbereid",
+          "unprepared"
+        ],
+        [
+          "scherpte",
+          "edge, sharpness"
+        ],
+        [
+          "het onvermijdelijke",
+          "the inevitable"
+        ]
+      ]
+    },
+    "9029": {
+      "t": "Een borrelende ketel",
+      "c": "Er stijgt een aangename geur op uit de ketel.",
+      "g": [
+        [
+          "borrelende",
+          "bubbling (borrelen)"
+        ],
+        [
+          "ketel",
+          "cauldron"
+        ],
+        [
+          "stijgt op",
+          "rises up, wafts (opstijgen)"
+        ],
+        [
+          "aangename",
+          "pleasant (aangenaam)"
+        ],
+        [
+          "geur",
+          "smell"
+        ]
+      ]
+    },
+    "171": {
+      "t": "Een beschermer van de Alliance",
+      "d": "Je bent zo ontzettend lief voor me geweest, $N. Ik had nooit gedacht dat ik zoveel plezier zou hebben tijdens Children's Week. Dank je wel. Ik wil niet verdrietig zijn over wat er met me gebeurd is en zo - mijn ouders zeiden altijd dat ik sterker moest zijn dan alle nare dingen die gebeuren. Weet je, als ik groot ben, wil ik een held worden... net als jij.$B$BHet spijt me dat ik het moet zeggen, maar het is tijd om naar huis te gaan. Laten we teruggaan, dan vertel ik de directrice wat een geweldig persoon jij bent!",
+      "o": "Breng je pupil terug naar het weeshuis van Stormwind door de Human Orphan Whistle in te leveren bij Orphan Matron Nightingale in het Cathedral District.",
+      "p": "Fijn je weer te zien, $N. Heb je de taken gedaan waarvoor je je tijdens Children's Week hebt aangemeld?",
+      "c": "Moge de hemel je zegenen, $N. Je hebt meer voor Randis gedaan dan de meeste mensen ooit voor hem zouden doen. Dank je - je bent een stralende ster aan de hemel van de Alliance.$b$bAlsjeblieft - als je tijd hebt, kom ons dan nog eens bezoeken. Ik weet dat Randis dat leuk zou vinden, en ik ook.",
+      "g": [
+        [
+          "beschermer",
+          "warden, protector"
+        ],
+        [
+          "ontzettend",
+          "terribly, very"
+        ],
+        [
+          "verdrietig",
+          "sad"
+        ],
+        [
+          "nare",
+          "bad, nasty (naar)"
+        ],
+        [
+          "directrice",
+          "matron, head (f.)"
+        ],
+        [
+          "pupil",
+          "ward"
+        ],
+        [
+          "weeshuis",
+          "orphanage"
+        ],
+        [
+          "in te leveren",
+          "to hand in (inleveren)"
+        ],
+        [
+          "aangemeld",
+          "volunteered, signed up (zich aanmelden)"
+        ],
+        [
+          "moge de hemel je zegenen",
+          "may the heavens bless you"
+        ],
+        [
+          "stralende",
+          "shining (stralend)"
+        ]
+      ]
+    },
+    "558": {
+      "t": "Jaina's handtekening",
+      "d": "Ze zeggen dat Lady Jaina Proudmoore in Theramore een van de grootste helden is die de Alliance ooit heeft gehad. Als ik groot ben, wil ik ook een held van de Alliance worden!$B$BKen jij Jaina, $N? Wil je me alsjeblieft een plezier doen? Kun je haar handtekening voor me halen? Ik weet niet hoe ik het haar moet vragen, en ze heeft vast geen tijd voor iemand zoals ik... maar jij! Jij bent een avonturier, net als zij! Ik wed dat ze jou zo haar handtekening geeft!$B$BAlsjeblieft?",
+      "o": "Reis naar Theramore en kijk of je Lady Jaina Proudmoore's handtekening kunt krijgen voor je pupil.",
+      "p": "Later wil ik net zo'n held worden als Jaina... nou ja, een jongensheld dan.",
+      "c": "WOW! Je hebt de handtekening van Lady Jaina voor me! Heel erg bedankt! En wow... ze heeft er een persoonlijk berichtje op geschreven - voor mij! Ik wist wel dat ze echt cool zou zijn, en misschien bedank ik haar ooit zelf... als ik een held van de Alliance word!$B$BJij bent de beste, $N. Bedankt dat je zo lief voor me bent.",
+      "g": [
+        [
+          "handtekening",
+          "autograph, signature"
+        ],
+        [
+          "een plezier doen",
+          "to do a favour"
+        ],
+        [
+          "avonturier",
+          "adventurer"
+        ],
+        [
+          "ik wed",
+          "I bet (wedden)"
+        ],
+        [
+          "pupil",
+          "ward"
+        ],
+        [
+          "jongensheld",
+          "boy hero"
+        ],
+        [
+          "persoonlijk",
+          "personal"
+        ],
+        [
+          "berichtje",
+          "little message"
+        ]
+      ]
+    },
+    "1468": {
+      "t": "Children's Week",
+      "d": "Wil je ons hier in het weeshuis helpen? Je bent een zegen, vriend; je hulp tijdens Children's Week is onmisbaar.$B$BNeem dit fluitje. Je kunt het maar korte tijd gebruiken - meestal niet langer dan Children's Week zelf. Als je het gebruikt, kun je praten met het kind waarvoor je beloofd hebt te zorgen. Als je het nog een keer gebruikt, stuur je het kind weg.$B$BGa vooral je gang, $N - gebruik het fluitje en ontmoet je pupil! Ik weet zeker dat het kind je heel graag wil ontmoeten.",
+      "o": "Gebruik de Human Orphan Whistle om te praten met het kind waarvoor je tijdens Children's Week zorgt.",
+      "c": "Eh... hoi. Ik heet Randis, en ik denk dat jij voor me gaat zorgen? Je bent een avonturier, net als mijn mama en papa waren. Ik ben blij je te ontmoeten.$B$BIk hoop dat we samen veel plezier hebben. Er zijn een paar dingen die ik graag wil doen, en de directrice zegt dat je deze week een soort grote $gbroer:zus; voor me bent. Dat zou ik heel erg fijn vinden, ja $gmeneer:mevrouw;.",
+      "g": [
+        [
+          "weeshuis",
+          "orphanage"
+        ],
+        [
+          "zegen",
+          "blessing"
+        ],
+        [
+          "onmisbaar",
+          "invaluable, indispensable"
+        ],
+        [
+          "fluitje",
+          "whistle"
+        ],
+        [
+          "meestal",
+          "usually"
+        ],
+        [
+          "stuur weg",
+          "send away, dismiss (wegsturen)"
+        ],
+        [
+          "ga vooral je gang",
+          "by all means, go ahead"
+        ],
+        [
+          "pupil",
+          "ward"
+        ],
+        [
+          "directrice",
+          "matron, head (f.)"
+        ]
+      ]
+    },
+    "1479": {
+      "t": "De Bough of the Eternals",
+      "d": "Ik heb verhalen gehoord dat de nachtelfen hun bank in een boom hebben - een boom die op een beer lijkt! Dat is zo cool! Nachtelfen zijn leuk, omdat ze van de natuur houden en zo, maar beren zijn gewoon superleuk!$B$BWil je me alsjeblieft meenemen naar de berenboom in Darnassus? Er gaat een boot die ons daar dichtbij brengt, en het duurt vast niet lang. Alsjeblieft, alsjeblieft, alsjeblieft!",
+      "o": "Breng de wees naar de bank van Darnassus. De bank zelf is uitgehold in een boom die de Bough of the Eternals heet.",
+      "p": "Zijn we er al?",
+      "c": "Wow, dat is nog cooler dan ik dacht - de Bough of the Eternals! Ik dacht niet dat hij zo groot zou zijn, maar hij is echt zo groot! Zag je die vogel er bovenop ook?! Ik vraag me af hoe ze de takken er zo uit hebben laten zien!$B$BBedankt dat je me naar Darnassus hebt gebracht, $N. Je bent geweldig!",
+      "e": "Ga naar de bank in Darnassus, ook wel de Bough of the Eternals genoemd.",
+      "g": [
+        [
+          "nachtelfen",
+          "night elves (nachtelf)"
+        ],
+        [
+          "superleuk",
+          "totally awesome"
+        ],
+        [
+          "berenboom",
+          "bear-tree"
+        ],
+        [
+          "dichtbij",
+          "close by"
+        ],
+        [
+          "wees",
+          "orphan"
+        ],
+        [
+          "uitgehold",
+          "hollowed out (uithollen)"
+        ],
+        [
+          "bovenop",
+          "on top"
+        ],
+        [
+          "ik vraag me af",
+          "I wonder (zich afvragen)"
+        ],
+        [
+          "takken",
+          "branches (tak)"
+        ],
+        [
+          "ook wel genoemd",
+          "also known as"
+        ]
+      ]
+    },
+    "1558": {
+      "t": "De Stonewrought Dam",
+      "d": "In Ironforge wonen alle dwergen en gnomen. Daar vlakbij is een plek die Loch Modan heet, en de dwergen hebben daar een ENORME dam gebouwd. Ze zeggen dat het een van de grootste dingen is die iemand ooit heeft gemaakt. Wow!$B$BKun je me alsjeblieft naar Loch Modan brengen om de dam te zien? Ik denk dat hij de Stone... eh... Stonewrench Dam heet? Stonewrought? Hij is groot - dat is zeker. Ik wil graag uitkijken over de grote waterval. Ik beloof dat ik niet te ver voorover leun!",
+      "o": "Breng de wees naar de Stonewrought Dam in Loch Modan. Neem hem mee naar het midden van de dam, zodat hij over de reusachtige waterval kan uitkijken.",
+      "c": "WOW - de dam was VEEL groter dan ik dacht! Ik kon mezelf bijna niet horen praten door het geluid van al dat stromende water! Hé, denk je dat het water ooit opraakt? Jeetje, wat zou er gebeuren als die dam ooit brak! WOW, dat zou eng zijn!$B$BBedankt dat je me de dam hebt laten zien. Dat was heel aardig van je. Ik zei toch dat ik niet te ver voorover zou leunen!",
+      "e": "Ga naar de top van de Stonewrought Dam in Loch Modan.",
+      "g": [
+        [
+          "dwergen",
+          "dwarves (dwerg)"
+        ],
+        [
+          "vlakbij",
+          "nearby"
+        ],
+        [
+          "enorme",
+          "huge (enorm)"
+        ],
+        [
+          "uitkijken over",
+          "to look out over"
+        ],
+        [
+          "waterval",
+          "waterfall"
+        ],
+        [
+          "voorover leun",
+          "lean forward (voorover leunen)"
+        ],
+        [
+          "wees",
+          "orphan"
+        ],
+        [
+          "reusachtige",
+          "giant (reusachtig)"
+        ],
+        [
+          "stromende",
+          "rushing, flowing (stromen)"
+        ],
+        [
+          "opraakt",
+          "runs out (opraken)"
+        ],
+        [
+          "jeetje",
+          "man!, gosh"
+        ],
+        [
+          "eng",
+          "scary"
+        ]
+      ]
+    },
+    "1687": {
+      "t": "De spookvuurtoren",
+      "d": "Soms vertellen onze verzorgsters in het weeshuis 's avonds laat enge verhalen. Die zijn SUPER! Er is er een over een geest die in een vuurtoren in Westfall spookt. Ze zeggen dat hij een piratenkapitein was, en dat andere piraten zijn schip van hem hebben afgepakt. Wow!$B$BWil je me alsjeblieft naar de vuurtoren in Westfall brengen? Ik wil zien of de geest van die kapitein er is! Ik beloof dat ik dicht bij je blijf; ik ren niet weg of zo!",
+      "o": "Breng de wees naar de vuurtoren voor de kust van Westfall.",
+      "c": "WOW, dat was een echte geest! Dat was zo geweldig - ik kan niet wachten om het aan iedereen in het weeshuis te vertellen. Captain Grayson... hij zag er zelfs uit als een piraat! Als ik groot ben, wil ik ook een spookpiraat worden!$B$BBedankt dat je me naar Westfall hebt gebracht, $N. Ik weet dat er enge dingen zijn in de wildernis van Westfall, en ik hoop dat ik niet te lastig was. Je bent geweldig!",
+      "e": "Ga naar de Westfall Lighthouse.",
+      "g": [
+        [
+          "spookvuurtoren",
+          "spooky lighthouse"
+        ],
+        [
+          "verzorgsters",
+          "carers, matrons (verzorgster)"
+        ],
+        [
+          "enge",
+          "scary (eng)"
+        ],
+        [
+          "spookt",
+          "haunts (spoken)"
+        ],
+        [
+          "piratenkapitein",
+          "pirate captain"
+        ],
+        [
+          "afgepakt",
+          "taken away (afpakken)"
+        ],
+        [
+          "of zo",
+          "or anything"
+        ],
+        [
+          "voor de kust",
+          "off the coast"
+        ],
+        [
+          "spookpiraat",
+          "ghost pirate"
+        ],
+        [
+          "wildernis",
+          "wilds, wilderness"
+        ],
+        [
+          "lastig",
+          "troublesome, a pain"
+        ]
+      ]
+    },
+    "4822": {
+      "t": "Jij gilt, ik gil...",
+      "d": "IJS! O alsjeblieft, alsjeblieft, alsjeblieft, kun je wat ijs voor me halen?! Aardbei is mijn lievelingssmaak, en er is geen beter aardbeienijs in de wereld dan Tigule and Foror's Strawberry Ice Cream! Het is mijn lievelingsijs van de hele wereld!$B$BIk heb het lang geleden één keer gehad, toen ik bij het racecircuit van Shimmering Flats was, maar ik heb gehoord dat ze het nu misschien ook in de stad verkopen! Alsjeblieft? Heel alsjeblieft? Met Tigule and Foror's Strawberry Ice Cream erop??!?!",
+      "o": "Haal wat Strawberry Ice Cream voor je pupil. De jongen wil blijkbaar het liefst ijs van het merk Tigule and Foror.",
+      "p": "Ik wou dat ze meer smaken ijs maakten dan alleen aardbei, maar ik heb wel geluk dat aardbei mijn lievelingssmaak is!",
+      "c": "Mmmmmmmmm! Ik ben dol op hun aardbeienijs! Als Tigule en Foror één ding kunnen, dan is het ijs maken!$B$BHeel erg bedankt, $N - dit is de lekkerste traktatie ooit!",
+      "g": [
+        [
+          "gilt",
+          "screams (gillen)"
+        ],
+        [
+          "aardbei",
+          "strawberry"
+        ],
+        [
+          "lievelingssmaak",
+          "favourite flavour"
+        ],
+        [
+          "aardbeienijs",
+          "strawberry ice cream"
+        ],
+        [
+          "racecircuit",
+          "race track"
+        ],
+        [
+          "blijkbaar",
+          "apparently"
+        ],
+        [
+          "het liefst",
+          "preferably, most of all"
+        ],
+        [
+          "merk",
+          "brand"
+        ],
+        [
+          "ik wou dat",
+          "I wish"
+        ],
+        [
+          "dol op",
+          "crazy about"
+        ],
+        [
+          "traktatie",
+          "treat"
+        ]
+      ]
+    },
+    "8764": {
+      "t": "Een ander pad - Niet langer Protector",
+      "p": "Kampioen, als je besluit een ander pad te bewandelen, geef me dan je zegelring en een berg scarabeeën van onze vijanden in Ahn'Qiraj.",
+      "c": "Het ga je goed, $n. Als je van gedachten verandert, zal ik hier zijn om je te helpen.",
+      "g": [
+        [
+          "niet langer",
+          "no more, no longer"
+        ],
+        [
+          "kampioen",
+          "champion"
+        ],
+        [
+          "pad",
+          "path"
+        ],
+        [
+          "bewandelen",
+          "to walk (a path)"
+        ],
+        [
+          "zegelring",
+          "signet ring"
+        ],
+        [
+          "scarabeeën",
+          "scarabs (scarabee)"
+        ],
+        [
+          "het ga je goed",
+          "be well"
+        ],
+        [
+          "van gedachten verandert",
+          "change your mind (van gedachten veranderen)"
+        ]
+      ]
+    },
+    "8765": {
+      "t": "Een ander pad - Niet langer Invoker",
+      "p": "Kampioen, als je besluit een ander pad te bewandelen, geef me dan je zegelring en een berg scarabeeën van onze vijanden in Ahn'Qiraj.",
+      "c": "Het ga je goed, $n. Als je van gedachten verandert, zal ik hier zijn om je te helpen.",
+      "g": [
+        [
+          "niet langer",
+          "no more, no longer"
+        ],
+        [
+          "kampioen",
+          "champion"
+        ],
+        [
+          "pad",
+          "path"
+        ],
+        [
+          "bewandelen",
+          "to walk (a path)"
+        ],
+        [
+          "zegelring",
+          "signet ring"
+        ],
+        [
+          "scarabeeën",
+          "scarabs (scarabee)"
+        ],
+        [
+          "het ga je goed",
+          "be well"
+        ],
+        [
+          "van gedachten verandert",
+          "change your mind (van gedachten veranderen)"
+        ]
+      ]
+    },
+    "8766": {
+      "t": "Een ander pad - Niet langer Conqueror",
+      "p": "Kampioen, als je besluit een ander pad te bewandelen, geef me dan je zegelring en een berg scarabeeën van onze vijanden in Ahn'Qiraj.",
+      "c": "Het ga je goed, $n. Als je van gedachten verandert, zal ik hier zijn om je te helpen.",
+      "g": [
+        [
+          "niet langer",
+          "no more, no longer"
+        ],
+        [
+          "kampioen",
+          "champion"
+        ],
+        [
+          "pad",
+          "path"
+        ],
+        [
+          "bewandelen",
+          "to walk (a path)"
+        ],
+        [
+          "zegelring",
+          "signet ring"
+        ],
+        [
+          "scarabeeën",
+          "scarabs (scarabee)"
+        ],
+        [
+          "het ga je goed",
+          "be well"
+        ],
+        [
+          "van gedachten verandert",
+          "change your mind (van gedachten veranderen)"
+        ]
+      ]
+    },
+    "8734": {
+      "t": "Tyrande en Remulos",
+      "d": "Tyrande zal op de hoogte gebracht worden, sterveling. Shan'do Stormrage heeft me op deze mogelijkheid voorbereid.$B$BNu moet je naar Moonglade reizen en met Remulos spreken. Hij zal je verder vertellen hoe Eranikus opgeroepen moet worden.$B$BWe wensen je allemaal veel geluk.",
+      "o": "Reis naar Moonglade en spreek met Keeper Remulos.",
+      "c": "Het zou onmogelijk zijn om Eranikus uit de Droom te trekken als hij weigert. Maar zijn plannen dwingen hem om onze wereld binnen te komen. Hij wil de levende vorm van Malfurion vernietigen. Als hem dat lukt, betekent dat het einde van een van de machtigste bondgenoten van de Droom. Als Malfurion valt, zou de Nightmare alles wat er dan nog over is volledig verslinden...",
+      "g": [
+        [
+          "op de hoogte gebracht",
+          "notified, informed (op de hoogte brengen)"
+        ],
+        [
+          "sterveling",
+          "mortal"
+        ],
+        [
+          "mogelijkheid",
+          "possibility, contingency"
+        ],
+        [
+          "voorbereid",
+          "prepared (voorbereiden)"
+        ],
+        [
+          "opgeroepen",
+          "summoned (oproepen)"
+        ],
+        [
+          "weigert",
+          "refuses (weigeren)"
+        ],
+        [
+          "dwingen",
+          "to force"
+        ],
+        [
+          "levende vorm",
+          "living manifestation, living form"
+        ],
+        [
+          "machtigste",
+          "most powerful (machtig)"
+        ],
+        [
+          "bondgenoten",
+          "allies (bondgenoot)"
+        ],
+        [
+          "volledig",
+          "wholly, completely"
+        ],
+        [
+          "verslinden",
+          "to devour, consume"
+        ]
+      ]
+    },
+    "9267": {
+      "t": "Oude wonden helen",
+      "p": "Je kunt maar beter twee keer nadenken voordat je een voet in Ratchet zet, $n! Er gaan verhalen rond over je smerige daden.$b$bMaar je hebt geluk: er is net een schip aangekomen met veel gewonden na een gevecht met de Bloodsail Buccaneers. Dit is je kans om te bewijzen dat je geen volslagen schurk bent. Help ons een handje door linnen stof te brengen voor verband en lege flesjes voor drankjes.",
+      "c": "Ik ben blij dat je inziet wat je fout hebt gedaan, $N. Blijf de spullen brengen; we vergeten je niet zo snel, $Gmeneer:juffrouw;!",
+      "g": [
+        [
+          "wonden",
+          "wounds (wond)"
+        ],
+        [
+          "helen",
+          "to heal, mend"
+        ],
+        [
+          "je kunt maar beter",
+          "you'd better"
+        ],
+        [
+          "er gaan verhalen rond",
+          "word is getting around"
+        ],
+        [
+          "smerige daden",
+          "dirty deeds"
+        ],
+        [
+          "gewonden",
+          "wounded people"
+        ],
+        [
+          "volslagen",
+          "complete, utter"
+        ],
+        [
+          "schurk",
+          "scoundrel"
+        ],
+        [
+          "help een handje",
+          "lend a hand (een handje helpen)"
+        ],
+        [
+          "linnen stof",
+          "linen cloth"
+        ],
+        [
+          "verband",
+          "bandages"
+        ],
+        [
+          "flesjes",
+          "vials, small bottles (flesje)"
+        ],
+        [
+          "inziet",
+          "realise, see (inzien)"
+        ],
+        [
+          "juffrouw",
+          "miss"
+        ]
+      ]
+    },
+    "8041": {
+      "t": "De kracht van Mount Mugamba",
+      "c": "Gegroet, $c. Ik ben Jin'rokh the Breaker, trol van Mugamba. Wij van de Zandalar-stam erkennen wat je hebt bereikt. We groeten je volharding en je wilskracht.$b$bDraag deze talisman om je nek, $c. Laat de kracht van Mount Mugamba door je hele wezen stromen. Laat het je kracht geven wanneer je onze vijanden neerslaat!",
+      "g": [
+        [
+          "gegroet",
+          "hail, greetings"
+        ],
+        [
+          "stam",
+          "tribe"
+        ],
+        [
+          "erkennen",
+          "to recognise"
+        ],
+        [
+          "bereikt",
+          "accomplished (bereiken)"
+        ],
+        [
+          "volharding",
+          "tenacity, perseverance"
+        ],
+        [
+          "wilskracht",
+          "strength of will"
+        ],
+        [
+          "talisman",
+          "talisman"
+        ],
+        [
+          "wezen",
+          "being"
+        ],
+        [
+          "stromen",
+          "to flow"
+        ],
+        [
+          "neerslaat",
+          "strike down (neerslaan)"
+        ]
+      ]
+    },
+    "8042": {
+      "t": "De kracht van Mount Mugamba",
+      "p": "Het is goed om te zien dat je in goede gezondheid bent, $n. De glorieuze gevechten die je hebt geleverd, raken al het leven op deze planeet. Hakkar mag de grenzen van Zul'Gurub nooit verlaten, want dan stort de wereld zeker in onder zijn enorme honger.$b$bGeef me je talisman, dan maak ik hem sterker. Gebruik de kracht van Mugamba om onze vijanden te straffen!",
+      "c": "Onze wegen zullen elkaar weer kruisen, $c.",
+      "g": [
+        [
+          "gezondheid",
+          "health"
+        ],
+        [
+          "glorieuze",
+          "glorious (glorieus)"
+        ],
+        [
+          "geleverd",
+          "fought, undertaken (een gevecht leveren)"
+        ],
+        [
+          "raken",
+          "to affect, touch"
+        ],
+        [
+          "grenzen",
+          "confines, borders (grens)"
+        ],
+        [
+          "stort in",
+          "collapses (instorten)"
+        ],
+        [
+          "enorme",
+          "immense (enorm)"
+        ],
+        [
+          "straffen",
+          "to punish"
+        ],
+        [
+          "kruisen",
+          "to cross"
+        ]
+      ]
+    },
+    "8043": {
+      "t": "De kracht van Mount Mugamba",
+      "p": "Meester $n, je bent terug! Molthor heeft de koning bericht gestuurd over je daden. Je naam is zelfs bekend in de South Seas. Misschien word je ooit een legendarische $c - een verhaal voor alle tijden.$b$bGeef me je talisman, zodat ik zijn kracht nog een keer kan versterken.",
+      "c": "Gebruik je nieuwe kracht om de Gurubashi te vernietigen!",
+      "g": [
+        [
+          "meester",
+          "master"
+        ],
+        [
+          "bericht gestuurd",
+          "sent word (bericht sturen)"
+        ],
+        [
+          "daden",
+          "deeds (daad)"
+        ],
+        [
+          "legendarische",
+          "legendary (legendarisch)"
+        ],
+        [
+          "voor alle tijden",
+          "for the ages"
+        ],
+        [
+          "versterken",
+          "to amplify, strengthen"
+        ],
+        [
+          "vernietigen",
+          "to destroy"
+        ]
+      ]
+    },
+    "8044": {
+      "t": "De woede van Mount Mugamba",
+      "p": "King Rastakhan doet je de groeten, Meester $n. Zo'n eer is nog nooit gegeven aan iemand buiten de Zandalar-stam.$b$b<Jin'rokh buigt.>$b$bGeef me je talisman, zodat ik hem nog een keer kan versterken. Weet dat de woede van Mugamba nu diep verbonden is met je ziel.",
+      "c": "Zul'jin zou jaloers zijn, $c. Ga voort en verover!",
+      "g": [
+        [
+          "woede",
+          "rage"
+        ],
+        [
+          "doet je de groeten",
+          "sends his regards (de groeten doen)"
+        ],
+        [
+          "eer",
+          "honour"
+        ],
+        [
+          "buigt",
+          "bows (buigen)"
+        ],
+        [
+          "versterken",
+          "to enhance, strengthen"
+        ],
+        [
+          "verbonden",
+          "connected (verbinden)"
+        ],
+        [
+          "ziel",
+          "soul"
+        ],
+        [
+          "jaloers",
+          "envious, jealous"
+        ],
+        [
+          "ga voort",
+          "go forth (voortgaan)"
+        ],
+        [
+          "verover",
+          "conquer (veroveren)"
+        ]
+      ]
+    },
+    "8045": {
+      "t": "Het brandmerk van de heiden",
+      "c": "Weet dit, heiden: een ramp heeft ons samengebracht. Jouw heidense gewoonten worden door de Zandalar niet begrepen en niet gewaardeerd, maar we zijn een eerlijk volk. Draag dit brandmerk om je nek. Het zal dienen als waarschuwing voor onze vijanden en als teken van je vriendschap met de Zandalar.$B$BBlijf ons volk dienen, dan zal ik de kracht van het brandmerk versterken.",
+      "g": [
+        [
+          "brandmerk",
+          "brand"
+        ],
+        [
+          "heiden",
+          "heathen"
+        ],
+        [
+          "ramp",
+          "catastrophe, disaster"
+        ],
+        [
+          "samengebracht",
+          "brought together (samenbrengen)"
+        ],
+        [
+          "heidense",
+          "pagan (heidens)"
+        ],
+        [
+          "gewoonten",
+          "ways, customs (gewoonte)"
+        ],
+        [
+          "gewaardeerd",
+          "appreciated (waarderen)"
+        ],
+        [
+          "eerlijk",
+          "fair, honest"
+        ],
+        [
+          "dienen",
+          "to serve"
+        ],
+        [
+          "waarschuwing",
+          "warning"
+        ],
+        [
+          "teken",
+          "sign, symbol"
+        ]
+      ]
+    },
+    "8046": {
+      "t": "Het brandmerk van de heiden",
+      "p": "Misschien heb ik te snel geoordeeld, $c. Het lijkt erop dat je blinde geloof in dit Licht toch enige waarde heeft.$B$BGeef me je brandmerk, dan versterk ik zijn kracht.",
+      "c": "Doe wat je moet doen om onze vijanden te verslaan, $c. Zelfs als dat betekent dat je het Licht gebruikt.$B$B<Jin'rokh huivert.>",
+      "g": [
+        [
+          "geoordeeld",
+          "judged (oordelen)"
+        ],
+        [
+          "blinde",
+          "blind (blind)"
+        ],
+        [
+          "geloof",
+          "faith"
+        ],
+        [
+          "enige",
+          "some"
+        ],
+        [
+          "waarde",
+          "value"
+        ],
+        [
+          "brandmerk",
+          "brand"
+        ],
+        [
+          "huivert",
+          "shudders (huiveren)"
+        ]
+      ]
+    },
+    "8047": {
+      "t": "Het brandmerk van de heiden",
+      "p": "Ik moet bekennen dat ik niet dacht dat je de vastberadenheid had om deze zaak tot het einde te brengen, $c. De Zandalar zien je nu als een onmisbare bondgenoot. Heel goed gedaan.$B$BGeef me je brandmerk, dan versterk ik nog een keer zijn kracht.",
+      "c": "Ons geloof verschilt, maar onze zaak is rechtvaardig. Sla onze vijanden neer, edele $c.",
+      "g": [
+        [
+          "bekennen",
+          "to confess"
+        ],
+        [
+          "vastberadenheid",
+          "resolution, determination"
+        ],
+        [
+          "zaak",
+          "cause"
+        ],
+        [
+          "onmisbare",
+          "invaluable (onmisbaar)"
+        ],
+        [
+          "bondgenoot",
+          "ally"
+        ],
+        [
+          "verschilt",
+          "differs (verschillen)"
+        ],
+        [
+          "rechtvaardig",
+          "righteous, just"
+        ],
+        [
+          "edele",
+          "noble (edel)"
+        ]
+      ]
+    },
+    "8048": {
+      "t": "Het brandmerk van de held",
+      "p": "De koning heeft erkend dat je bestaat, $c. Je bent de eerste van jouw soort die door Rastakhan aanvaard wordt als echte bondgenoot van de Zandalar.$b$bJe zult rijk beloond worden voor je moeite. Laat je brandmerk zien, dan geef ik het de laatste versterking.",
+      "c": "Waakzaamheid, eer, trouw, moed... Jij hebt al deze eigenschappen, en dat zal je brandmerk ook hebben.",
+      "g": [
+        [
+          "erkend",
+          "acknowledged (erkennen)"
+        ],
+        [
+          "soort",
+          "kind"
+        ],
+        [
+          "aanvaard",
+          "accepted (aanvaarden)"
+        ],
+        [
+          "beloond",
+          "rewarded (belonen)"
+        ],
+        [
+          "moeite",
+          "efforts"
+        ],
+        [
+          "versterking",
+          "amplification, strengthening"
+        ],
+        [
+          "waakzaamheid",
+          "vigilance"
+        ],
+        [
+          "trouw",
+          "loyalty"
+        ],
+        [
+          "moed",
+          "bravery, courage"
+        ],
+        [
+          "eigenschappen",
+          "traits (eigenschap)"
+        ]
+      ]
+    },
+    "8049": {
+      "t": "Het Eye of Zuldazar",
+      "c": "Neem deze talisman aan als teken van onze waardering, $gpriester:priesteres;.$B$BHet Eye of Zuldazar wordt krachtiger naarmate je band met de trollen van Zandalar sterker wordt. Kom af en toe bij me terug, dan zal ik het juweel met kracht vullen.",
+      "g": [
+        [
+          "neem aan",
+          "accept (aannemen)"
+        ],
+        [
+          "teken",
+          "token, sign"
+        ],
+        [
+          "waardering",
+          "appreciation"
+        ],
+        [
+          "priesteres",
+          "priestess"
+        ],
+        [
+          "krachtiger",
+          "more powerful"
+        ],
+        [
+          "naarmate",
+          "as (to the degree that)"
+        ],
+        [
+          "band",
+          "bond"
+        ],
+        [
+          "af en toe",
+          "now and then, periodically"
+        ],
+        [
+          "juweel",
+          "jewel"
+        ]
+      ]
+    },
+    "8050": {
+      "t": "Het Eye of Zuldazar",
+      "p": "Welkom, $gpriester:priesteres;. Het Eye of Zuldazar trilt van de energie. Je bent klaar voor de volgende stap. Geef me de talisman, dan vul ik hem met kracht.",
+      "c": "Ga door met je strijd tegen de Soulflayer en zijn dienaren, $N. Hij mag de grenzen van Zul'Gurub nooit verlaten.",
+      "g": [
+        [
+          "trilt",
+          "pulses, trembles (trillen)"
+        ],
+        [
+          "stap",
+          "step"
+        ],
+        [
+          "vul",
+          "fill (vullen)"
+        ],
+        [
+          "strijd",
+          "battle, fight"
+        ],
+        [
+          "dienaren",
+          "minions, servants (dienaar)"
+        ],
+        [
+          "grenzen",
+          "confines (grens)"
+        ]
+      ]
+    },
+    "8051": {
+      "t": "Het Eye of Zuldazar",
+      "p": "Verhalen over je gevechten tegen de Gurubashi worden in de wind gefluisterd, $gpriester:priesteres;. Zelfs het koningshuis begint over je daden te praten. Er gaat het gerucht dat King Rastakhan je zelfs bij naam heeft genoemd.$B$BHet is tijd om het Eye met kracht te vullen. Geef me de talisman, dan doe ik het voor je.",
+      "c": "Wees vastberaden in wat je doet, $N. De Soulflayer zal proberen je levenswil weg te zuigen.",
+      "g": [
+        [
+          "gefluisterd",
+          "whispered (fluisteren)"
+        ],
+        [
+          "koningshuis",
+          "royalty, royal family"
+        ],
+        [
+          "daden",
+          "deeds (daad)"
+        ],
+        [
+          "gerucht",
+          "rumour"
+        ],
+        [
+          "bij naam genoemd",
+          "mentioned by name (noemen)"
+        ],
+        [
+          "vastberaden",
+          "resolute"
+        ],
+        [
+          "levenswil",
+          "will to live"
+        ],
+        [
+          "weg te zuigen",
+          "to siphon away (wegzuigen)"
+        ]
+      ]
+    },
+    "8052": {
+      "t": "Het All-Seeing Eye of Zuldazar",
+      "p": "Hadden we er maar tienduizend meer zoals jij, $n. Dan zouden de legers van Hakkar in een oogwenk alle kanten op verspreid zijn.$b$b<Al'tabim zucht.>$b$bHelaas... het Eye is klaar om zijn volle kracht te bereiken. Geef het aan mij.",
+      "c": "Sla ze allemaal neer en laat Hakkar ze maar uitzoeken...",
+      "g": [
+        [
+          "hadden we maar",
+          "if only we had"
+        ],
+        [
+          "legers",
+          "armies (leger)"
+        ],
+        [
+          "in een oogwenk",
+          "in the blink of an eye"
+        ],
+        [
+          "verspreid",
+          "scattered (verspreiden)"
+        ],
+        [
+          "zucht",
+          "sighs (zuchten)"
+        ],
+        [
+          "helaas",
+          "alas"
+        ],
+        [
+          "volle kracht",
+          "full potential, full power"
+        ],
+        [
+          "uitzoeken",
+          "to sort out"
+        ]
+      ]
+    }
+  },
+  "words": {
+    "aristans": "Aristan's",
+    "beschrijf": "describe (beschrijven)",
+    "cooler": "cooler",
+    "epidemie": "epidemic",
+    "gil": "scream (gillen)",
+    "goblin-tussenpersoon": "goblin middleman",
+    "hofmaken": "courting, courtship",
+    "leun": "lean (leunen)",
+    "luchtje": "smell; 'er zit een luchtje aan' = something is fishy",
+    "morgans": "Morgan's",
+    "oogwenk": "blink of an eye",
+    "populairste": "most popular (populair)",
+    "smokywood-voorraad": "Smokywood supplies",
+    "volkomen": "completely, perfectly",
+    "zandalar-stam": "Zandalar tribe"
+  },
+  "terms": {
+    "Shan'do": "night elf word for 'honored teacher'"
+  }
+}
