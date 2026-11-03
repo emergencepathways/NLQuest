@@ -1,0 +1,1275 @@
+{
+  "quests": {
+    "3084": {
+      "t": "Een tablet met runen",
+      "d": "Ah, er is een tablet voor je gekomen terwijl je weg was, $N.$B$BLees het als je tijd hebt. Als ik me niet vergis, komt het van de sjamaan-trainer Shikrik. Ze wil met je praten als je klaar bent.",
+      "o": "Spreek met Shikrik in de Valley of Trials.",
+      "p": "Ah, welkom, $N. Ik ben blij dat je er bent. Mijn dagen zijn lang en zelfs druk geworden, want ik heb zoveel leerlingen. Maar als er iemand van jouw soort komt, geeft me dat een groot gevoel van voldoening. Ik weet nog hoe ik zelf les kreeg van een van jullie sjamanen.",
+      "c": "Je weet het vast al: de elementen geven ons onze kracht. Vuur, aarde, water en lucht. Dat is ons gereedschap.$b$bOnze kracht komt van de geesten van onze voorouders. Wij zijn de leiders van ons volk. Wat Thrall is voor de Horde, dat zijn wij voor de dorpen en steden die we bezoeken. Ze zullen bij ons wijsheid en bescherming zoeken. Je moet vaak trainen, dan ben je beter voorbereid. Voel je dat je meer kracht hebt gekregen? Kom dan naar mij. Dan leer ik je wat ik kan.",
+      "g": [
+        [
+          "tablet",
+          "tablet (of stone, clay)"
+        ],
+        [
+          "runen",
+          "runes (rune)"
+        ],
+        [
+          "vergis",
+          "am mistaken (zich vergissen)"
+        ],
+        [
+          "sjamaan",
+          "shaman"
+        ],
+        [
+          "leerlingen",
+          "students (leerling)"
+        ],
+        [
+          "soort",
+          "kind, sort"
+        ],
+        [
+          "voldoening",
+          "satisfaction, sense of accomplishment"
+        ],
+        [
+          "gereedschap",
+          "tools"
+        ],
+        [
+          "voorouders",
+          "ancestors (voorouder)"
+        ],
+        [
+          "bescherming",
+          "protection"
+        ],
+        [
+          "voorbereid",
+          "prepared (voorbereiden)"
+        ]
+      ]
+    },
+    "3089": {
+      "t": "Een perkament met runen",
+      "d": "Ah, er is een perkament voor je gekomen terwijl je weg was, $N.$B$BLees het als je tijd hebt. Als ik me niet vergis, komt het van de sjamaan-trainer Shikrik. Ze wil met je praten als je klaar bent.",
+      "o": "Lees de Rune-Inscribed Parchment en spreek met Shikrik in de Valley of Trials.",
+      "p": "Zo, je bent er. Ik vroeg me al af wanneer je zou komen. Ik heb het perkament al een tijd geleden gestuurd. Ik wist niet zeker of het was aangekomen.$B$BMaar genoeg gepraat... Je bent hier omdat je gekozen bent. Gekozen om het geestelijke leven van ons volk te leiden.",
+      "c": "Jij wordt het kanaal waardoor onze voorouders spreken. De kracht van de elementen staat altijd voor je klaar. Je vijanden vernietigen wordt kinderspel. Je bondgenoten genezen wordt zo makkelijk als ademen. Denk hieraan als je nieuwe uitdagingen tegenkomt. Kom zo vaak terug als je wilt. Ik blijf hier. Ik leer je nieuwe spreuken en ik wijs je de juiste weg als je klaar bent.",
+      "g": [
+        [
+          "perkament",
+          "parchment"
+        ],
+        [
+          "vroeg me al af",
+          "was already wondering (zich afvragen)"
+        ],
+        [
+          "aangekomen",
+          "arrived (aankomen)"
+        ],
+        [
+          "genoeg gepraat",
+          "enough talk"
+        ],
+        [
+          "gekozen",
+          "chosen (kiezen)"
+        ],
+        [
+          "geestelijke",
+          "spiritual (geestelijk)"
+        ],
+        [
+          "kanaal",
+          "channel, conduit"
+        ],
+        [
+          "vernietigen",
+          "to destroy"
+        ],
+        [
+          "kinderspel",
+          "child's play"
+        ],
+        [
+          "bondgenoten",
+          "allies (bondgenoot)"
+        ],
+        [
+          "genezen",
+          "to heal"
+        ],
+        [
+          "ademen",
+          "to breathe"
+        ],
+        [
+          "uitdagingen",
+          "challenges (uitdaging)"
+        ],
+        [
+          "spreuken",
+          "spells (spreuk)"
+        ]
+      ]
+    },
+    "3093": {
+      "t": "Een briefje met runen",
+      "d": "Net was er een boodschapper die je zocht, $N. Ik denk dat Meela, de sjamaan-trainer, haar gestuurd heeft. Als dit briefje van Meela is, zou ik het snel lezen.$b",
+      "o": "Lees de Rune-Inscribed Note en spreek met Meela Dawnstrider in Camp Narache.",
+      "p": "Zo snel als water uit de lucht valt, sta je hier voor me. Ik ben blij dat je zo snel bent. Het betekent dat je begrijpt hoe belangrijk ons gesprek is, en hoe belangrijk het is dat je hier bent. Ik ben geen leider, maar ik begrijp de elementen. En ik kan spreken met de geesten van ons volk. Ik zal je leren hetzelfde te doen.",
+      "c": "We zien elkaar de komende tijd nog vaak. Hopelijk ga je elke keer een beetje sterker bij me weg... een beetje beter voorbereid. Je geest zal fel en heet branden, zoals de Eternal Flame.$b$bGa nu, $N. Ga en test jezelf. Ik ben hier als je me nodig hebt.",
+      "g": [
+        [
+          "boodschapper",
+          "messenger"
+        ],
+        [
+          "briefje",
+          "note (brief)"
+        ],
+        [
+          "gesprek",
+          "meeting, conversation"
+        ],
+        [
+          "hetzelfde",
+          "the same"
+        ],
+        [
+          "Hopelijk",
+          "hopefully"
+        ],
+        [
+          "voorbereid",
+          "prepared (voorbereiden)"
+        ],
+        [
+          "geest",
+          "spirit"
+        ],
+        [
+          "fel",
+          "bright, fierce"
+        ],
+        [
+          "branden",
+          "to burn"
+        ]
+      ]
+    },
+    "1462": {
+      "t": "Sapta van aarde",
+      "c": "Neem dit en vergeet het niet: het is heilig.",
+      "g": [
+        [
+          "Neem",
+          "take (nemen)"
+        ],
+        [
+          "vergeet",
+          "forget (vergeten)"
+        ],
+        [
+          "heilig",
+          "sacred, holy"
+        ]
+      ]
+    },
+    "1463": {
+      "t": "Sapta van aarde",
+      "c": "Ik geef je er een, in goed vertrouwen. Je hebt jezelf al één keer bewezen. Maar ik denk zo dat je in de toekomst voorzichtiger moet zijn.",
+      "g": [
+        [
+          "vertrouwen",
+          "trust, faith"
+        ],
+        [
+          "in goed vertrouwen",
+          "in good faith"
+        ],
+        [
+          "bewezen",
+          "proved (bewijzen)"
+        ],
+        [
+          "toekomst",
+          "future"
+        ],
+        [
+          "voorzichtiger",
+          "more careful (voorzichtig)"
+        ]
+      ]
+    },
+    "1516": {
+      "t": "De roep van de aarde",
+      "d": "Het is nu tijd, jonge $c. Je bent sterk geworden en je geest houdt stand zoals de aarde. Je volgt het pad van de sjamaan. Dat laat zien dat je al wijs bent, nog voordat je jezelf hebt bewezen.$B$BHet element aarde zal je lot leiden. Als je er klaar voor bent, wordt het een deel van jou. Maar je moet voor de aarde zelf gaan staan. Als je klaar bent, zie je dingen die alleen sjamanen kennen.$B$BZoek de Felstalkers in het noorden. Neem twee van hun hoeven. Kom dan terug naar mij, dan praten we verder over je toekomst.$b",
+      "o": "Breng 2 Felstalker Hooves naar Canaga Earthcaller in de Valley of Trials.",
+      "p": "Geduld is de grootste deugd van de aarde. De aarde ziet de kringloop van alle dingen: bergen worden woestijnen, rivieren worden kloven. De aarde is het koppigste en wijste van alle elementen. Ze accepteert geen ongeduld.$B$BDe aarde roept je nu, want er komt een tijd van strijd aan. Als je met succes terugkomt, ben je weer een stuk dichter bij heel worden.$B$BAnderen zullen jaloers zijn op je wijsheid. En ze zullen je haten, omdat ze zelf niets weten.",
+      "c": "Uitstekend. Je succes laat zien dat je klaar bent.$B$BVan alle elementen is aarde de basis van alles. Aarde is je kracht, je uithoudingsvermogen en je geduld. Aarde zal je beschermen, maar alleen als je haar het juiste respect geeft. Net als de andere elementen kan zelfs aarde grillig zijn. Aarde is de basis van het leven. Als je haar wetten volgt, krijg je meer wijsheid. Vergeet nooit de geheimen die de aarde met je deelt.$B$BIk maak nu een sapta voor je. Als je hem aanneemt, ga je je pad begrijpen.",
+      "g": [
+        [
+          "houdt stand",
+          "endures (standhouden)"
+        ],
+        [
+          "wijs",
+          "wise"
+        ],
+        [
+          "bewezen",
+          "proved (bewijzen)"
+        ],
+        [
+          "lot",
+          "fate, destiny"
+        ],
+        [
+          "hoeven",
+          "hooves (hoef)"
+        ],
+        [
+          "Geduld",
+          "patience"
+        ],
+        [
+          "deugd",
+          "virtue"
+        ],
+        [
+          "kringloop",
+          "cycle"
+        ],
+        [
+          "kloven",
+          "canyons (kloof)"
+        ],
+        [
+          "koppigste",
+          "most stubborn (koppig)"
+        ],
+        [
+          "ongeduld",
+          "impatience"
+        ],
+        [
+          "strijd",
+          "conflict, battle"
+        ],
+        [
+          "heel worden",
+          "to become whole"
+        ],
+        [
+          "jaloers",
+          "envious, jealous"
+        ],
+        [
+          "uithoudingsvermogen",
+          "stamina"
+        ],
+        [
+          "grillig",
+          "fickle, unpredictable"
+        ]
+      ]
+    },
+    "1517": {
+      "t": "De roep van de aarde",
+      "d": "Een sapta is een drank die onze geest aan de elementen bindt. Er zit magie in. Wie een sterke wil heeft, kan met dit drankje de elementen zien zoals niemand anders dat kan. Je geest wordt verbonden met het element waarvoor de sapta gemaakt is. Maar weinig sjamanen kennen het recept.$B$BJe drinkt de sapta altijd op een heilige plek, en nooit ergens anders. Vergeet dat niet.$B$BZoek Spirit Rock, ten zuidwesten van hier. Het ligt aan het eind van het Hidden Path. Drink daar je sapta, en... nou ja, je zult het zien.",
+      "o": "Zoek Spirit Rock en drink de Earth Sapta.",
+      "c": "Ah... $N... de aarde is blij dat je hier bent.$B$BJe bent nu verbonden, met lichaam en geest. Je gaat verder en je weet: de bergen zijn je kracht, de vlakten je geduld, en de wereld zelf je wezen.$B$BAls je nederig voor de aarde staat, slaag je voor dit ritueel. Meer is niet nodig. Maar de andere elementen zijn niet zo rustig. Ze kunnen chaotisch zijn, en vaak gewelddadig. Zo zijn de elementen nu eenmaal. Twee kanten die tegen elkaar ingaan. Je moet deze dingen heel goed leren kennen.",
+      "g": [
+        [
+          "drank",
+          "drink"
+        ],
+        [
+          "bindt",
+          "binds (binden)"
+        ],
+        [
+          "wil",
+          "will"
+        ],
+        [
+          "verbonden",
+          "connected, bound (verbinden)"
+        ],
+        [
+          "recept",
+          "recipe"
+        ],
+        [
+          "heilige",
+          "holy (heilig)"
+        ],
+        [
+          "ten zuidwesten van",
+          "southwest of"
+        ],
+        [
+          "vlakten",
+          "plains (vlakte)"
+        ],
+        [
+          "wezen",
+          "essence, being"
+        ],
+        [
+          "nederig",
+          "humbly, humble"
+        ],
+        [
+          "slaag je",
+          "you pass (slagen)"
+        ],
+        [
+          "ritueel",
+          "rite, ritual"
+        ],
+        [
+          "gewelddadig",
+          "violent"
+        ],
+        [
+          "nu eenmaal",
+          "simply, just (the way it is)"
+        ],
+        [
+          "tegen elkaar ingaan",
+          "oppose one another"
+        ]
+      ]
+    },
+    "1518": {
+      "t": "De roep van de aarde",
+      "d": "Neem dit ruwe kwarts van me aan. Breng het naar Canaga Earthcaller als bewijs dat we elkaar ontmoet hebben. Hij maakt een totem voor je, en dit steentje wordt het hart ervan. Het lijkt misschien klein. Maar je zult merken dat grootte niet belangrijk is. Zelfs de kleinste dingen kunnen langer bestaan dan veel andere dingen.$B$BWees geduldig, $N. Blijf sterk. En zoek wijsheid. Dat vraagt de aarde van je. Uiteindelijk word je één met de aarde. Respecteer haar, zoals zij jou zal respecteren.",
+      "o": "Breng de Rough Quartz naar Canaga Earthcaller in de Valley of Trials.",
+      "p": "Ik wil de eerste zijn die je helemaal welkom heet op het eerste van vier paden. Die paden zullen je lot voor altijd leiden.$B$BHeb je de steen die de aarde je gaf? Dan geef ik je de totem die ze beloofd heeft.$B$BZo niet, ga dan weg tot je je weg hebt gevonden.",
+      "c": "Uitstekend!$B$BDe totem die ik voor je maak, is meer dan een teken van je plaats als $C. Hij heeft ook andere krachten. Je kunt de totem bijvoorbeeld gebruiken als focus voor spreuken. Die spreuken zijn verbonden met de aarde. Hoe wijzer je wordt, hoe meer krachten van de aarde je kunt gebruiken.$B$BDe trainers weten wanneer je klaar bent voor meer kennis.$B$BMaar neem nu deze aardetotem, en een boekrol die je je eerste vaardigheid leert.",
+      "g": [
+        [
+          "ruwe",
+          "rough (ruw)"
+        ],
+        [
+          "kwarts",
+          "quartz"
+        ],
+        [
+          "bewijs",
+          "proof"
+        ],
+        [
+          "steentje",
+          "pebble, little stone"
+        ],
+        [
+          "grootte",
+          "size"
+        ],
+        [
+          "bestaan",
+          "to exist, to last"
+        ],
+        [
+          "geduldig",
+          "patient"
+        ],
+        [
+          "Uiteindelijk",
+          "in the end"
+        ],
+        [
+          "welkom heet",
+          "welcome (welkom heten)"
+        ],
+        [
+          "beloofd",
+          "promised (beloven)"
+        ],
+        [
+          "teken",
+          "sign, symbol"
+        ],
+        [
+          "kennis",
+          "knowledge"
+        ],
+        [
+          "aardetotem",
+          "earth totem"
+        ],
+        [
+          "boekrol",
+          "scroll"
+        ],
+        [
+          "vaardigheid",
+          "ability, skill"
+        ]
+      ]
+    },
+    "1519": {
+      "t": "De roep van de aarde",
+      "d": "De tijd is gekomen, jonge $c. Je lichaam wordt ouder en sterker, en je geest houdt stand zoals de aarde. Ik zie het in je: je bent al wijs.$B$BDe aarde leidt ons volk. Ze spreekt tot ons, en na een tijd spreekt ze ook tot jou. Maar je moet eerst getest worden. Als je klaar bent, zul je dingen zien die alleen ons soort kent.$B$BZoek de sjamanen van de Bristleback in hun ravijn in het oosten. Neem van hen een zalf die ze bij hun rituelen gebruiken. Kom pas terug als je genoeg hebt voor je eigen drankje.",
+      "o": "Breng 2 porties Ritual Salve naar Seer Ravenfeather in Camp Narache.",
+      "p": "De aarde is geduldig. Ze wacht op je tot je klaar bent. Want ze weet dat na een tijd alles vergaat en opnieuw geboren wordt. Zo gaat de kringloop. Bergen worden woestijnen. Rivieren worden kloven. De aarde is het koppigste en wijste van alle elementen.$B$BJe moet vooral geduld en uithoudingsvermogen leren. De aarde roept je nu, want ze voelt dat je klaar bent. Als het je lukt, is dit je wedergeboorte. Daarna kun je nooit meer terug naar onwetendheid.",
+      "c": "Goed, $N. Je bent teruggekomen. Dat betekent dat je echt klaar bent voor de volgende stap.$B$BVan alle elementen is aarde de basis van alles. Aarde is je kracht, je uithoudingsvermogen en je geduld. De Earth Mother zal je beschermen, maar alleen als je haar het juiste respect geeft. Zij is de basis van het leven. Als je haar wetten volgt, krijg je meer wijsheid. Vergeet nooit de geheimen die ze met je deelt.$B$BIk maak nu je sapta voor je. Als je hem aanneemt, gaat er een nieuw pad voor je open.",
+      "g": [
+        [
+          "houdt stand",
+          "endures (standhouden)"
+        ],
+        [
+          "ravijn",
+          "ravine"
+        ],
+        [
+          "zalf",
+          "salve, ointment"
+        ],
+        [
+          "rituelen",
+          "rituals (ritueel)"
+        ],
+        [
+          "porties",
+          "portions, applications (portie)"
+        ],
+        [
+          "vergaat",
+          "decays, erodes (vergaan)"
+        ],
+        [
+          "kringloop",
+          "cycle"
+        ],
+        [
+          "kloven",
+          "canyons (kloof)"
+        ],
+        [
+          "koppigste",
+          "most stubborn (koppig)"
+        ],
+        [
+          "uithoudingsvermogen",
+          "stamina"
+        ],
+        [
+          "wedergeboorte",
+          "rebirth"
+        ],
+        [
+          "onwetendheid",
+          "ignorance"
+        ],
+        [
+          "beschermen",
+          "to protect"
+        ],
+        [
+          "wetten",
+          "laws (wet)"
+        ]
+      ]
+    },
+    "1520": {
+      "t": "De roep van de aarde",
+      "d": "Een sapta is een drank die onze geest aan de elementen bindt. Er zit magie in. Wie open van geest is, kan met dit drankje de elementen zien zoals niemand ze ooit heeft gezien. Je geest wordt voor altijd verbonden met het element waarvoor de sapta gemaakt is. Maar weinig van ons soort kennen het geheim van hoe je hem maakt.$B$BJe drinkt de sapta altijd op een heilige plek, en nooit ergens anders.$B$BZoek het sjamaanheiligdom ten oosten van hier en drink daar van de sapta.",
+      "o": "Zoek Kodo Rock en drink de Earth Sapta.",
+      "c": "Ah... $N... de aarde is blij dat je hier bent.$B$BJe bent nu verbonden, met lichaam en geest. Je gaat verder en je weet: de bergen zijn je kracht, de vlakten je geduld, en de wereld zelf je wezen.$B$BAls je nederig voor de aarde staat, slaag je voor dit ritueel. Meer is niet nodig. Maar de andere elementen zijn niet zo rustig. Ze kunnen chaotisch zijn, en vaak gewelddadig. Zo zijn de elementen nu eenmaal. Twee kanten die tegen elkaar ingaan. Je moet deze dingen heel goed leren kennen.",
+      "g": [
+        [
+          "drank",
+          "drink"
+        ],
+        [
+          "bindt",
+          "binds (binden)"
+        ],
+        [
+          "open van geest",
+          "open-minded"
+        ],
+        [
+          "verbonden",
+          "connected, bound (verbinden)"
+        ],
+        [
+          "sjamaanheiligdom",
+          "shaman shrine"
+        ],
+        [
+          "ten oosten van",
+          "east of"
+        ],
+        [
+          "vlakten",
+          "plains (vlakte)"
+        ],
+        [
+          "wezen",
+          "essence, being"
+        ],
+        [
+          "nederig",
+          "humbly, humble"
+        ],
+        [
+          "slaag je",
+          "you pass (slagen)"
+        ],
+        [
+          "ritueel",
+          "rite, ritual"
+        ],
+        [
+          "gewelddadig",
+          "violent"
+        ],
+        [
+          "tegen elkaar ingaan",
+          "oppose one another"
+        ]
+      ]
+    },
+    "1521": {
+      "t": "De roep van de aarde",
+      "d": "Neem dit ruwe kwarts van me aan. Breng het naar Seer Ravenfeather als bewijs dat we elkaar ontmoet hebben. Zij maakt een totem voor je, en dit steentje wordt het hart ervan. Het lijkt misschien klein. Maar je zult merken dat grootte niet belangrijk is. Zelfs de kleinste dingen kunnen langer bestaan dan bergen.$B$BWees geduldig, $N. Blijf sterk. En zoek wijsheid. Dat vraagt de aarde van je. Uiteindelijk word je één met de aarde. Respecteer haar, zoals zij jou zal respecteren.",
+      "o": "Breng de Rough Quartz naar Seer Ravenfeather in Camp Narache.",
+      "p": "Gegroet, $N. Je zou niet terugkomen als je je taak niet had gedaan. Mag ik de eerste zijn die je helemaal welkom heet op het eerste van vier paden? Die paden zullen je reizen voor altijd bepalen.$B$BHeb je de steen die de aarde je gaf? Dan geef ik je de totem die ze beloofd heeft. Zo niet, dan heb ik medelijden met je. Je kunt heel trots zijn als je je helemaal aan de elementen hebt gegeven.",
+      "c": "Prachtig.$B$BDe totem die ik voor je maak, is meer dan een teken. Hij heeft ook andere krachten. Je kunt de totem bijvoorbeeld gebruiken als focus voor spreuken. Die spreuken zijn verbonden met de aarde. Hoe wijzer je wordt, hoe meer krachten van de aarde je kunt gebruiken. Overal in Kalimdor zijn trainers. Zij weten wanneer je klaar bent voor meer kennis, en ze vertellen het je als je bij ze langskomt.$B$BMaar neem nu deze aardetotem, en een boekrol die je je eerste vaardigheid leert.",
+      "g": [
+        [
+          "ruwe",
+          "rough (ruw)"
+        ],
+        [
+          "kwarts",
+          "quartz"
+        ],
+        [
+          "bewijs",
+          "proof"
+        ],
+        [
+          "steentje",
+          "pebble, little stone"
+        ],
+        [
+          "grootte",
+          "size"
+        ],
+        [
+          "Uiteindelijk",
+          "in the end"
+        ],
+        [
+          "Gegroet",
+          "greetings"
+        ],
+        [
+          "bepalen",
+          "to determine, to rule"
+        ],
+        [
+          "medelijden",
+          "pity"
+        ],
+        [
+          "trots",
+          "proud"
+        ],
+        [
+          "teken",
+          "sign, symbol"
+        ],
+        [
+          "kennis",
+          "knowledge"
+        ],
+        [
+          "langskomt",
+          "drop by, visit (langskomen)"
+        ],
+        [
+          "boekrol",
+          "scroll"
+        ],
+        [
+          "vaardigheid",
+          "ability, skill"
+        ]
+      ]
+    },
+    "1522": {
+      "t": "De roep van het vuur",
+      "d": "Het vuur is met je, man. Ik zie dat je al sterk bent in de wegen van de aarde. En ik denk dat je klaar bent om met Kranal te praten.$B$BKranal woont ten noorden van de Crossroads in de Barrens. Hij is sterk in de wegen van de elementen. Hij kan je de wegen van het vuur leren... als je denkt dat je klaar bent.$B$BHij is makkelijk te vinden. Ga alleen niet te ver. Ga je te ver, dan kom je in het land van de elfen.",
+      "o": "Zoek Kranal Fiss in de Barrens.",
+      "c": "Hmmm, heeft Searn je naar mij gestuurd?$B$BNou, Searn was altijd te vertrouwen. Dus dan ben je klaar om mee te doen aan de volgende sapta: de sapta van vuur.$B$BIk zie het al in je ogen: het branden, het verlangen. Je hebt macht geproefd, en nu ben je klaar voor meer. Geduld, $N. Denk aan wat de aarde je heeft geleerd. Macht en vernietiging komen makkelijk. Maar je moet nog steeds weten wanneer je je moet inhouden.",
+      "g": [
+        [
+          "wegen",
+          "ways (weg)"
+        ],
+        [
+          "ten noorden van",
+          "north of"
+        ],
+        [
+          "elfen",
+          "elves (elf)"
+        ],
+        [
+          "te vertrouwen",
+          "trustworthy"
+        ],
+        [
+          "verlangen",
+          "desire"
+        ],
+        [
+          "macht",
+          "power"
+        ],
+        [
+          "geproefd",
+          "tasted (proeven)"
+        ],
+        [
+          "vernietiging",
+          "destruction"
+        ],
+        [
+          "je inhouden",
+          "to hold back, stay your hand (zich inhouden)"
+        ]
+      ]
+    },
+    "1523": {
+      "t": "De roep van het vuur",
+      "d": "Het is lang geleden dat je voor het laatst getest bent, $N. Je bent tot nu toe geduldig geweest in je studie. Maar nu is het tijd dat je meer leert. Het is tijd dat je leert over vernietiging... en chaos. Je kunt het element vuur leren begrijpen, als je er de prijs voor wilt betalen.$B$BZoek Kranal Fiss in de Barrens. Hij woont in een klein huisje ten noorden van de Crossroads. Maar let op: ben je in het land van de nachtelfen, dan ben je te ver gegaan.",
+      "o": "Zoek Kranal Fiss in de Barrens.",
+      "c": "Hmmm, heeft Xanis je naar mij gestuurd?$B$BNou, Xanis was altijd te vertrouwen. Dus dan ben je klaar om mee te doen aan de volgende sapta: de sapta van vuur.$B$BIk zie het al in je ogen: het branden, het verlangen. Je hebt macht geproefd, en nu ben je klaar voor meer. Geduld, $N. Denk aan wat de aarde je heeft geleerd. Macht en vernietiging komen makkelijk. Maar je moet nog steeds weten wanneer je je moet inhouden.",
+      "g": [
+        [
+          "tot nu toe",
+          "thus far"
+        ],
+        [
+          "studie",
+          "studies"
+        ],
+        [
+          "vernietiging",
+          "destruction"
+        ],
+        [
+          "de prijs",
+          "the price"
+        ],
+        [
+          "huisje",
+          "small house, dwelling"
+        ],
+        [
+          "let op",
+          "be careful, mind"
+        ],
+        [
+          "nachtelfen",
+          "night elves (nachtelf)"
+        ],
+        [
+          "te vertrouwen",
+          "trustworthy"
+        ],
+        [
+          "verlangen",
+          "desire"
+        ],
+        [
+          "geproefd",
+          "tasted (proeven)"
+        ],
+        [
+          "je inhouden",
+          "to hold back, stay your hand (zich inhouden)"
+        ]
+      ]
+    },
+    "2983": {
+      "t": "De roep van het vuur",
+      "d": "Het is een tijd geleden dat je voor het laatst getest bent, $N. Je bent tot nu toe geduldig geweest in je studie. Maar nu is het tijd dat je leert over grotere krachten... Het is tijd dat je echte macht leert kennen. Het element vuur is van jou, als je er de prijs voor wilt betalen.$B$BZoek Kranal Fiss in de Barrens. Hij woont in een klein huisje ten noorden van de Crossroads. Maar let op: ben je in het vervloekte land van de nachtelfen, dan ben je veel te ver gegaan.",
+      "o": "Zoek Kranal Fiss in de Barrens.",
+      "c": "Hmmm, heeft Swart je naar mij gestuurd?$B$BNou, Swart was altijd te vertrouwen. Dus dan ben je klaar om mee te doen aan de volgende sapta: de sapta van vuur.$B$BIk zie het al in je ogen: het branden, het verlangen. Je hebt macht geproefd, en nu ben je klaar voor meer. Geduld, $N. Denk aan wat de aarde je heeft geleerd. Macht en vernietiging komen makkelijk. Maar je moet nog steeds weten wanneer je je moet inhouden.",
+      "g": [
+        [
+          "tot nu toe",
+          "thus far"
+        ],
+        [
+          "studie",
+          "studies"
+        ],
+        [
+          "macht",
+          "power"
+        ],
+        [
+          "de prijs",
+          "the price"
+        ],
+        [
+          "huisje",
+          "small house, dwelling"
+        ],
+        [
+          "let op",
+          "be careful, mind"
+        ],
+        [
+          "vervloekte",
+          "blasted, cursed (vervloekt)"
+        ],
+        [
+          "nachtelfen",
+          "night elves (nachtelf)"
+        ],
+        [
+          "te vertrouwen",
+          "trustworthy"
+        ],
+        [
+          "verlangen",
+          "desire"
+        ],
+        [
+          "geproefd",
+          "tasted (proeven)"
+        ],
+        [
+          "je inhouden",
+          "to hold back, stay your hand (zich inhouden)"
+        ]
+      ]
+    },
+    "2984": {
+      "t": "De roep van het vuur",
+      "d": "Het is lang geleden dat je voor het laatst getest bent, $N. Je bent tot nu toe geduldig geweest in je studie. Maar nu is het tijd dat je meer leert. Het is tijd dat je leert over vernietiging... en chaos. Je kunt het element vuur leren begrijpen, als je er de prijs voor wilt betalen.$B$BZoek Kranal Fiss in de Barrens. Hij woont in een klein huisje ten noorden van de Crossroads. Maar let op: ben je in het land van de nachtelfen, dan ben je te ver gegaan.",
+      "o": "Zoek Kranal Fiss in de Barrens.",
+      "c": "Hmmm, heeft Narm je naar mij gestuurd?$B$BNou, Narm was altijd te vertrouwen. Dus dan ben je klaar om mee te doen aan de volgende sapta: de sapta van vuur.$B$BIk zie het al in je ogen: het branden, het verlangen. Je hebt macht geproefd, en nu ben je klaar voor meer. Geduld, $N. Denk aan wat de aarde je heeft geleerd. Macht en vernietiging komen makkelijk. Maar je moet nog steeds weten wanneer je je moet inhouden.",
+      "g": [
+        [
+          "tot nu toe",
+          "thus far"
+        ],
+        [
+          "studie",
+          "studies"
+        ],
+        [
+          "vernietiging",
+          "destruction"
+        ],
+        [
+          "de prijs",
+          "the price"
+        ],
+        [
+          "huisje",
+          "small house, dwelling"
+        ],
+        [
+          "let op",
+          "be careful, mind"
+        ],
+        [
+          "nachtelfen",
+          "night elves (nachtelf)"
+        ],
+        [
+          "te vertrouwen",
+          "trustworthy"
+        ],
+        [
+          "verlangen",
+          "desire"
+        ],
+        [
+          "geproefd",
+          "tasted (proeven)"
+        ],
+        [
+          "je inhouden",
+          "to hold back, stay your hand (zich inhouden)"
+        ]
+      ]
+    },
+    "1524": {
+      "t": "De roep van het vuur",
+      "d": "Je bent sterk genoeg om de totem van vuur te gebruiken. Maar dat betekent niet dat je er klaar voor bent.$B$BLangs de Southfury River in Durotar, voor de Great Sea, ligt een verborgen pad. Het gaat naar een van de hoogste toppen van het land. Klim naar boven. Daar vind je een van onze heilige plaatsen: de Shrine of the Dormant Flame. Telf Joolam waakt erover.$B$BBreng deze fakkel naar hem. Hij laat zien dat je het vuur probeert te temmen. Steek hem aan bij de vuurschaal van het heiligdom en breng hem brandend bij mij terug. Dan zorg ik dat je de totem van vuur krijgt.",
+      "o": "Breng de Torch of the Dormant Flame naar Telf Joolam in Durotar.",
+      "p": "Gegroet, $N. Je bent bij de Shrine of the Dormant Flame. Alleen wie genoeg weet van de kunsten van de sjamaan, leert ooit de geheimen van deze plek en haar kracht. Het spijt me dat je zo'n lange reis hebt gemaakt en nu terug moet. De tocht hierheen is tenslotte verre van veilig. Maar ik ben de bewaker van het heiligdom, en ik kan niet zomaar iedereen hier laten rondlopen.",
+      "c": "Ah, mijn fout, $N. Sorry. Ik zag niet dat je de Torch had. Ik ben blij je te leren kennen.$B$BVeel avonturiers komen hier. Ze zoeken verloren schatten, of magische wezens om te doden. Maar ze moeten weer weg, want het heiligdom lijkt leeg. Wij weten de waarheid, nietwaar, $N?$B$BDit heiligdom heeft een groter geheim, verborgen voor de gewone leden van de Horde. Voor ons is het heilig.",
+      "g": [
+        [
+          "verborgen",
+          "hidden"
+        ],
+        [
+          "toppen",
+          "peaks (top)"
+        ],
+        [
+          "waakt erover",
+          "watches over it (waken)"
+        ],
+        [
+          "fakkel",
+          "torch"
+        ],
+        [
+          "temmen",
+          "to tame"
+        ],
+        [
+          "Steek hem aan",
+          "light it (aansteken)"
+        ],
+        [
+          "vuurschaal",
+          "brazier"
+        ],
+        [
+          "heiligdom",
+          "shrine, sanctuary"
+        ],
+        [
+          "brandend",
+          "burning, aflame"
+        ],
+        [
+          "kunsten",
+          "arts (kunst)"
+        ],
+        [
+          "tenslotte",
+          "after all"
+        ],
+        [
+          "verre van",
+          "far from"
+        ],
+        [
+          "bewaker",
+          "keeper, guard"
+        ],
+        [
+          "avonturiers",
+          "adventurers (avonturier)"
+        ],
+        [
+          "nietwaar",
+          "isn't it, don't we"
+        ]
+      ]
+    },
+    "1525": {
+      "t": "De roep van het vuur",
+      "d": "Maar je bent hier niet voor een geschiedenisles, toch? Je komt voor de Eternal Flame en de vuurtotem.$B$BDe eerste stap is een sapta maken die jou aan de vlam bindt.$B$BIk kan de vuursapta voor je maken als je me twee dingen brengt. Het eerste is vuurteer. Dat is iets eenvoudigs. De magiërs van de Razormane in het oosten van de Barrens hebben het meestal bij zich.$B$BHet tweede is gevaarlijker: een zakje met reagentia van een van de sekteleden van de Burning Blade. Je vindt ze in een grot boven de ravijnen, ten noordoosten van Razor Hill.",
+      "o": "Breng 1 Fire Tar en 1 Reagent Pouch naar Telf Joolam in Durotar.",
+      "p": "Ik heb genoeg ingrediënten voor een sapta van vuur, als jij het zakje met reagentia en wat vuurteer vindt. De fanatici van de Burning Blade hebben in die zakjes de juiste onderdelen voor de meeste van hun spreuken. En meestal hebben ze genoeg van de dingen die ik nodig heb. Dan hoeven we niet veel verder naar iets anders te zoeken.$B$BWe maken sapta's altijd van ingrediënten die nauw verbonden zijn met hun eigen element. De heksenmeesters zijn verbonden met vuur. Dat maakt ons werk makkelijker.",
+      "c": "Deze zijn prima, $N.$B$BVuur is meer dan chaos en vernietiging. Onthoud dat goed. Vuur gaat ook over leven en schepping. Alle dingen zijn zo met elkaar verbonden. Krachten werken tegen elkaar in, maar tegelijk kan de ene niet bestaan zonder de andere. Ze doven elkaar uit, maar ze geven elkaar ook betekenis. Onthoud dit altijd.$B$BAls je verschillende soorten magie samen gebruikt, laat je niet alleen echte vaardigheid zien. Je laat ook grote wijsheid zien.",
+      "g": [
+        [
+          "geschiedenisles",
+          "history lesson"
+        ],
+        [
+          "vuurtotem",
+          "fire totem"
+        ],
+        [
+          "vuurteer",
+          "fire tar"
+        ],
+        [
+          "magiërs",
+          "mages, spellcasters (magiër)"
+        ],
+        [
+          "zakje",
+          "pouch, small bag"
+        ],
+        [
+          "reagentia",
+          "reagents (reagens)"
+        ],
+        [
+          "sekteleden",
+          "cultists (sektelid)"
+        ],
+        [
+          "grot",
+          "cave"
+        ],
+        [
+          "fanatici",
+          "fanatics (fanaticus)"
+        ],
+        [
+          "onderdelen",
+          "components (onderdeel)"
+        ],
+        [
+          "nauw",
+          "closely"
+        ],
+        [
+          "heksenmeesters",
+          "warlocks (heksenmeester)"
+        ],
+        [
+          "schepping",
+          "creation"
+        ],
+        [
+          "doven elkaar uit",
+          "extinguish one another (uitdoven)"
+        ],
+        [
+          "betekenis",
+          "meaning"
+        ]
+      ]
+    },
+    "1464": {
+      "t": "Sapta van vuur",
+      "o": "Spreek met Telf Joolam voor een nieuwe Fire Sapta.",
+      "p": "Spreek met Telf Joolam voor een nieuwe Fire Sapta.",
+      "c": "Moge het vuur branden in je hart, $N.$B$BDe elementen wachten op je.",
+      "g": [
+        [
+          "Spreek",
+          "speak (spreken)"
+        ],
+        [
+          "nieuwe",
+          "another, new (nieuw)"
+        ],
+        [
+          "Moge",
+          "may (mogen)"
+        ],
+        [
+          "branden",
+          "to burn"
+        ],
+        [
+          "wachten op",
+          "to wait for, await"
+        ]
+      ]
+    },
+    "1526": {
+      "t": "De roep van het vuur",
+      "d": "De vuursapta is klaar. Het is tijd dat je de vlam onder ogen komt. Gebruik de sapta bij het heiligdom en ga naar de top van de berg. Daar is een verschijning van het vuur. Je moet tegen hem vechten. Hij valt niet aan voordat je klaar bent. Maar hij zal merken dat je hem kunt zien.$B$BVersla hem snel, $N, want hoe langer je erover doet, hoe sterker hij wordt. Is hij verslagen? Leg dan zijn gloeiende kolen in de vuurschaal en steek de fakkel aan.",
+      "o": "Versla de Minor Manifestation of Fire en leg de Glowing Ember in de vuurschaal boven op de Shrine of Eternal Flame.",
+      "p": "De vuurschaal is ongeveer een derde zo hoog als jij. Hij ziet er gewoon uit, behalve de opschriften op de gladde metalen stangen. Het metaal is niet aangetast door het weer. De kom bovenop voelt koel aan.",
+      "c": "Er gaat een witheet vuur aan in de kom als je de gloeiende kool erin legt. Je voelt de magie van de sapta door je lichaam stromen. Het vuur danst ritmisch voor je.$B$BJe houdt de bovenkant van de fakkel in de schaal. Meteen vat hij vlam.",
+      "g": [
+        [
+          "vuursapta",
+          "fire sapta"
+        ],
+        [
+          "onder ogen komt",
+          "face (onder ogen komen)"
+        ],
+        [
+          "verschijning",
+          "manifestation, apparition"
+        ],
+        [
+          "valt niet aan",
+          "does not attack (aanvallen)"
+        ],
+        [
+          "Versla",
+          "defeat (verslaan)"
+        ],
+        [
+          "gloeiende",
+          "glowing (gloeiend)"
+        ],
+        [
+          "kolen",
+          "embers, coals (kool)"
+        ],
+        [
+          "vuurschaal",
+          "brazier"
+        ],
+        [
+          "opschriften",
+          "inscriptions (opschrift)"
+        ],
+        [
+          "stangen",
+          "rails, rods (stang)"
+        ],
+        [
+          "aangetast",
+          "affected, worn (aantasten)"
+        ],
+        [
+          "kom",
+          "bowl"
+        ],
+        [
+          "witheet",
+          "white-hot"
+        ],
+        [
+          "ritmisch",
+          "rhythmically"
+        ],
+        [
+          "vat hij vlam",
+          "it catches fire (vlam vatten)"
+        ]
+      ]
+    },
+    "1527": {
+      "t": "De roep van het vuur",
+      "d": "Je houdt de fakkel stevig vast. Je draait je om, weg van de vuurschaal, en kijkt uit over Durotar. Je voelt een opwinding die aan je geest trekt. De wind wordt sterker en laat de vlam wild dansen.$B$BJe gaat het pad af, terug naar de Barrens, op zoek naar Kranal Fiss.",
+      "o": "Breng de Torch of Eternal Flame naar Kranal Fiss in de Barrens.",
+      "p": "Ja, $N? Wat heb je daar?",
+      "c": "Je geest brandt feller dan elke fakkel die ik ooit heb gezien, $N. Daar mag je trots op zijn.$B$BAls je dit pad blijft volgen, zul je de elementen bevelen. Onze broeders zullen bij jou leiding en wijsheid zoeken. Laat mij de eerste zijn die je feliciteert. Hier is je nieuwste totem.",
+      "g": [
+        [
+          "stevig",
+          "firmly"
+        ],
+        [
+          "draait je om",
+          "turn around (zich omdraaien)"
+        ],
+        [
+          "kijkt uit over",
+          "look out over (uitkijken)"
+        ],
+        [
+          "opwinding",
+          "excitement"
+        ],
+        [
+          "trekt",
+          "pulls, tugs (trekken)"
+        ],
+        [
+          "op zoek naar",
+          "in search of"
+        ],
+        [
+          "feller",
+          "brighter (fel)"
+        ],
+        [
+          "bevelen",
+          "to command"
+        ],
+        [
+          "broeders",
+          "brethren (broeder)"
+        ],
+        [
+          "leiding",
+          "guidance"
+        ],
+        [
+          "feliciteert",
+          "congratulate (feliciteren)"
+        ]
+      ]
+    },
+    "1528": {
+      "t": "De roep van het water",
+      "d": "Water is in je toekomst, man. Ik zie dat je al sterk bent in de wegen van het vuur. En ik denk dat je klaar bent om met Islen te praten.$B$BIslen woont aan de kust van de Barrens. Ga naar het zuiden langs de Southfury River, dan kun je haar niet missen. Kijk naar de grote haai! Ze is sterk in de wegen van de elementen. Ze kan je de wegen van het water leren... als je denkt dat je klaar bent.$B$BZe is makkelijk te vinden. Ga alleen niet te ver naar het zuiden. Ze woont net voorbij Ratchet.",
+      "o": "Zoek Islen Waterseer in de Barrens.",
+      "c": "De wind komt snel vanaf de horizon naar je toe. De aarde staat stevig onder je voeten. En je geest is al verwarmd door het vuur. Ik zou zeggen: het is tijd dat je leert over de zuiverheid van water.$B$BJe pad heeft je tot hier gebracht. Je geest zal je de kracht geven om nog verder te gaan. Maar de eerste stap moet jij zelf zetten.",
+      "g": [
+        [
+          "toekomst",
+          "future"
+        ],
+        [
+          "wegen",
+          "ways (weg)"
+        ],
+        [
+          "kust",
+          "coast"
+        ],
+        [
+          "missen",
+          "to miss"
+        ],
+        [
+          "haai",
+          "shark"
+        ],
+        [
+          "net voorbij",
+          "just beyond"
+        ],
+        [
+          "horizon",
+          "horizon"
+        ],
+        [
+          "stevig",
+          "steady, firm"
+        ],
+        [
+          "verwarmd",
+          "warmed (verwarmen)"
+        ],
+        [
+          "zuiverheid",
+          "purity"
+        ],
+        [
+          "zetten",
+          "to take (a step), to set"
+        ]
+      ]
+    },
+    "1529": {
+      "t": "De roep van het water",
+      "d": "Het is lang geleden dat je voor het laatst getest bent, $N. Je bent tot nu toe geduldig geweest in je studie. Maar nu is het tijd dat je meer leert. Het is tijd dat je leert over de zuiverheid van water.$B$BZoek Islen Waterseer in de Barrens. Ze is aan de oostkust, ten zuiden van de Southfury River en Ratchet. Je vindt haar daar bij haar vissershut. Succes, $N.",
+      "o": "Zoek Islen Waterseer in de Barrens.",
+      "c": "De wind komt snel vanaf de horizon naar je toe. De aarde staat stevig onder je voeten. En je geest is al verwarmd door het vuur. Ik zou zeggen: het is tijd dat je leert over de zuiverheid van water.$B$BJe pad heeft je tot hier gebracht. Je geest zal je de kracht geven om nog verder te gaan. Maar de eerste stap moet jij zelf zetten.",
+      "g": [
+        [
+          "tot nu toe",
+          "thus far"
+        ],
+        [
+          "studie",
+          "studies"
+        ],
+        [
+          "zuiverheid",
+          "purity"
+        ],
+        [
+          "oostkust",
+          "east coast"
+        ],
+        [
+          "ten zuiden van",
+          "south of"
+        ],
+        [
+          "vissershut",
+          "fishing hut"
+        ],
+        [
+          "Succes",
+          "good luck"
+        ],
+        [
+          "horizon",
+          "horizon"
+        ],
+        [
+          "verwarmd",
+          "warmed (verwarmen)"
+        ],
+        [
+          "zetten",
+          "to take (a step), to set"
+        ]
+      ]
+    },
+    "2985": {
+      "t": "De roep van het water",
+      "d": "Je lijkt klaar voor je volgende test, $N. Je bent geduldig geweest in je studie, maar nu is het tijd dat je meer leert. Het is tijd dat je leert over de zuiverheid van water.$B$BZoek Islen Waterseer in de Barrens. Ze is aan de oostkust, ten zuiden van de Southfury River en Ratchet. Je vindt haar daar bij haar vissershut. Succes, $N.",
+      "o": "Zoek Islen Waterseer in de Barrens.",
+      "c": "De wind komt snel vanaf de horizon naar je toe. De aarde staat stevig onder je voeten. En je geest is al verwarmd door het vuur. Ik zou zeggen: het is tijd dat je leert over de zuiverheid van water.$B$BJe pad heeft je tot hier gebracht. Je geest zal je de kracht geven om nog verder te gaan. Maar de eerste stap moet jij zelf zetten.",
+      "g": [
+        [
+          "volgende",
+          "next"
+        ],
+        [
+          "studie",
+          "studies"
+        ],
+        [
+          "zuiverheid",
+          "purity"
+        ],
+        [
+          "oostkust",
+          "east coast"
+        ],
+        [
+          "ten zuiden van",
+          "south of"
+        ],
+        [
+          "vissershut",
+          "fishing hut"
+        ],
+        [
+          "Succes",
+          "good luck"
+        ],
+        [
+          "horizon",
+          "horizon"
+        ],
+        [
+          "verwarmd",
+          "warmed (verwarmen)"
+        ],
+        [
+          "zetten",
+          "to take (a step), to set"
+        ]
+      ]
+    }
+  },
+  "words": {
+    "chaotisch": "chaotic",
+    "danst": "dances (dansen)",
+    "eenvoudigs": "simple (eenvoudig; iets eenvoudigs = something simple)",
+    "element": "element",
+    "focus": "focus",
+    "gladde": "smooth (glad)",
+    "haten": "to hate",
+    "ingaan": "to go into; tegen elkaar ingaan = to oppose one another",
+    "inhouden": "to hold back; zich inhouden = to restrain oneself",
+    "kool": "ember, coal (also: cabbage)",
+    "ravijnen": "ravines (ravijn)",
+    "sapta's": "saptas (sapta)",
+    "sjamaan-trainer": "shaman trainer",
+    "woestijnen": "deserts (woestijn)",
+    "xanis": "Xanis (Xanis Flameweaver, a name)"
+  },
+  "terms": {
+    "sapta": "sapta: a holy drink that binds a shaman's spirit to one of the elements, in the Warcraft world"
+  }
+}
