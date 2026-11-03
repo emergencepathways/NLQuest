@@ -1,0 +1,1644 @@
+{
+  "quests": {
+    "4021": {
+      "t": "Tegenaanval!",
+      "d": "De Horde prijst je succes tegen de Kolkar. Maar de Kolkar zelf zijn razend geworden. Ik heb berichten dat een groep Kolkar uit hun thuis in Desolace naar de Barrens is gekomen. Ze willen wraak. Volgens mijn laatste bericht trekken ze nu al op tegen deze bunkers, vanuit het westen!$B$BVecht tegen de Kolkar-indringers en maak een einde aan hun dreiging in de Barrens. Dood ze tot hun leider, Warlord Krom'zar, verschijnt. Versla hem en breng me een stuk van zijn banier als bewijs.$B$BWe rekenen op je, $N.",
+      "o": "Breng een Piece of Krom'zar's Banner naar Regthar Deathgate, ten westen van de Crossroads.",
+      "p": "Heb je de banier?",
+      "c": "Het is je gelukt! Je hebt de Kolkar verslagen!$B$BIk zorg ervoor dat Thrall hoort wat je hier gedaan hebt, $N.$B$BSta rechtop. Je maakt jezelf en de Horde trots.",
+      "g": [
+        [
+          "Tegenaanval",
+          "counterattack"
+        ],
+        [
+          "prijst",
+          "praises (prijzen)"
+        ],
+        [
+          "razend",
+          "furious, maddened"
+        ],
+        [
+          "wraak",
+          "revenge"
+        ],
+        [
+          "trekken ... op",
+          "march, advance (optrekken)"
+        ],
+        [
+          "indringers",
+          "invaders (indringer)"
+        ],
+        [
+          "dreiging",
+          "threat"
+        ],
+        [
+          "verschijnt",
+          "appears (verschijnen)"
+        ],
+        [
+          "Versla",
+          "defeat (verslaan)"
+        ],
+        [
+          "banier",
+          "banner"
+        ],
+        [
+          "bewijs",
+          "proof"
+        ],
+        [
+          "rekenen op",
+          "count on"
+        ]
+      ]
+    },
+    "4921": {
+      "t": "Verloren in de strijd",
+      "d": "We vochten in een klein kamp van de tauren. Toen raakten we elkaar kwijt. Ze hield in haar eentje drie Bristlebacks tegen. Maar het werden er te veel voor ons. Ik lokte er een paar weg. Toen zag ik hoe nieuwe vijanden haar overweldigden. In mijn woede draaide ik me om naar mijn vijanden. Maar ze waren met zo veel dat ze me makkelijk neersloegen.$B$BIk werd wakker en een tauren-druïde verzorgde mijn wonden. Hij had me gevonden op de Gold Road, toen ik viel.$B$BAlsjeblieft, $c, zoek een teken van mijn vrouw.",
+      "o": "Zoek de vrouw van Mankrik en ga dan terug naar hem in de Crossroads.",
+      "p": "Heb je al een teken van haar gevonden? De pijn in mijn borst zegt me dat het ergste is gebeurd. Maar ik hoop dat je haar veilig en gezond vindt.",
+      "c": "Ik begrijp het. Dank je, $c.",
+      "o1": "Vind de vrouw van Mankrik",
+      "g": [
+        [
+          "raakten ... kwijt",
+          "lost (kwijtraken)"
+        ],
+        [
+          "in haar eentje",
+          "by herself"
+        ],
+        [
+          "hield ... tegen",
+          "held off (tegenhouden)"
+        ],
+        [
+          "lokte",
+          "lured (lokken)"
+        ],
+        [
+          "overweldigden",
+          "overwhelmed (overweldigen)"
+        ],
+        [
+          "woede",
+          "rage, anger"
+        ],
+        [
+          "neersloegen",
+          "knocked down (neerslaan)"
+        ],
+        [
+          "verzorgde",
+          "tended (verzorgen)"
+        ],
+        [
+          "wonden",
+          "wounds (wond)"
+        ],
+        [
+          "teken",
+          "sign"
+        ],
+        [
+          "borst",
+          "chest"
+        ],
+        [
+          "het ergste",
+          "the worst"
+        ]
+      ]
+    },
+    "5042": {
+      "t": "De kracht van Agamaggan",
+      "p": "Ik heb 4 bloedscherven nodig als je de kracht van Agamaggan wilt, $r.$B$BJe vijanden zullen bang wegkruipen voor je kracht als je deze zegen krijgt. <snuift>$B$BDe grootste krijgers van de Razormane zijn vol van zulke kracht!",
+      "c": "Kon Mangletooth maar vrij zijn om te zien hoe je de verraders vernietigt! <snuift>$B$BIk dank je dat je meer Bristlebacks hebt vernietigd om deze scherven te verzamelen. Ga daar alsjeblieft mee door, dan blijf ik je helpen. <snuift>",
+      "g": [
+        [
+          "bloedscherven",
+          "blood shards (bloedscherf)"
+        ],
+        [
+          "wegkruipen",
+          "cower, creep away"
+        ],
+        [
+          "zegen",
+          "blessing"
+        ],
+        [
+          "<snuift>",
+          "<snorts> (snuiven)"
+        ],
+        [
+          "Kon ... maar",
+          "if only ... could"
+        ],
+        [
+          "verraders",
+          "traitors (verrader)"
+        ],
+        [
+          "vernietigt",
+          "destroy (vernietigen)"
+        ],
+        [
+          "scherven",
+          "shards (scherf)"
+        ],
+        [
+          "verzamelen",
+          "collect, gather"
+        ]
+      ]
+    },
+    "5043": {
+      "t": "De behendigheid van Agamaggan",
+      "p": "Men zegt dat de beste verkenners van mijn stam niemand gelijk hebben in hun precisie. En geen schurk <snuift> is zo snel als zij in de strijd.$B$BBreng me 4 bloedscherven en ik maak je nog behendiger dan elk geboren quilboar.",
+      "c": "Moge je doel altijd raak zijn, en moge je wapen altijd goed treffen, $r.$B$BDe geest van Agamaggan is met je. Kom <snuift> terug naar me als je wilt. Mangletooth zal je opnieuw zegenen als de grote zwijnengod mij waardig vindt. <snuift>",
+      "g": [
+        [
+          "behendigheid",
+          "agility"
+        ],
+        [
+          "verkenners",
+          "scouts (verkenner)"
+        ],
+        [
+          "stam",
+          "tribe"
+        ],
+        [
+          "niemand gelijk hebben",
+          "have no equal"
+        ],
+        [
+          "precisie",
+          "accuracy"
+        ],
+        [
+          "schurk",
+          "rogue"
+        ],
+        [
+          "behendiger",
+          "more agile (behendig)"
+        ],
+        [
+          "raak",
+          "on target"
+        ],
+        [
+          "treffen",
+          "hit, strike"
+        ],
+        [
+          "zegenen",
+          "bless"
+        ],
+        [
+          "zwijnengod",
+          "boar god"
+        ],
+        [
+          "waardig",
+          "worthy"
+        ]
+      ]
+    },
+    "5044": {
+      "t": "De wijsheid van Agamaggan",
+      "p": "De sjamanen en geomancers van de quilboar-stammen <snuift> roepen de kracht van Agamaggan aan. Die helpt hen in de strijd en in hun rituelen, $r.$B$BWil jij ook de extra kracht van de zegen van Agamaggan voor je spreuken? Breng me dan 4 bloedscherven en Mangletooth zal je helpen. <snuift>",
+      "c": "Je vijanden moeten nu nog banger voor je zijn, $r. <snuift>$B$BVertel Mangletooth verhalen over je sluwheid in de strijd als we elkaar weer zien, in dit leven of in het volgende. <snuift>",
+      "g": [
+        [
+          "wijsheid",
+          "wisdom"
+        ],
+        [
+          "sjamanen",
+          "shamans (sjamaan)"
+        ],
+        [
+          "roepen ... aan",
+          "call upon (aanroepen)"
+        ],
+        [
+          "rituelen",
+          "rituals (ritueel)"
+        ],
+        [
+          "spreuken",
+          "spells (spreuk)"
+        ],
+        [
+          "banger",
+          "more afraid (bang)"
+        ],
+        [
+          "sluwheid",
+          "cunning"
+        ],
+        [
+          "het volgende",
+          "the next one"
+        ]
+      ]
+    },
+    "5045": {
+      "t": "Opstijgende geest",
+      "p": "Alle soorten krijgers <snuift> hebben een sterke geest nodig. Die drijft je tot grotere daden als alle hoop verloren is. Dat weten de <snuift> Razormane ook. We zijn een spirituele stam. We zijn trotser op onze band met Agamaggan dan op onze kracht <snuift> in de strijd.$B$BBreng me 4 bloedscherven en ik zegen je geest voor de strijd. <snuift>",
+      "c": "Onze grootste krijgers en onze grootste <snuift> sjamanen zouden jaloers zijn op je wilskracht, $r.$B$BVersla meer Bristlebacks en weet dat ze je niet kunnen tegenhouden! <snuift>",
+      "g": [
+        [
+          "Opstijgende",
+          "rising (opstijgen)"
+        ],
+        [
+          "drijft",
+          "drives (drijven)"
+        ],
+        [
+          "daden",
+          "deeds (daad)"
+        ],
+        [
+          "hoop",
+          "hope"
+        ],
+        [
+          "spirituele",
+          "spiritual"
+        ],
+        [
+          "trotser",
+          "prouder (trots)"
+        ],
+        [
+          "band",
+          "bond, connection"
+        ],
+        [
+          "jaloers",
+          "jealous, envious"
+        ],
+        [
+          "wilskracht",
+          "willpower"
+        ],
+        [
+          "tegenhouden",
+          "stop, hold back"
+        ]
+      ]
+    },
+    "5046": {
+      "t": "Razorhide",
+      "p": "Iedereen die <snuift> ten strijde trekt, heeft bescherming nodig. Hun botten moeten sterk zijn. Hun huid taai. <snuift> Mijn stam weet dat ook. Onze stekels en huid beschermen ons van nature. Maar daarnaast <snuift> vragen we Agamaggan vaak om ons tegen kwaad te beschermen voordat we ten oorlog trekken.$B$BBreng me 4 bloedscherven <snuift> en ik geef je dezelfde bescherming.",
+      "c": "Trek ten oorlog, $r.",
+      "g": [
+        [
+          "ten strijde trekt",
+          "goes into battle (ten strijde trekken)"
+        ],
+        [
+          "bescherming",
+          "protection"
+        ],
+        [
+          "botten",
+          "bones (bot)"
+        ],
+        [
+          "huid",
+          "skin, hide"
+        ],
+        [
+          "taai",
+          "tough"
+        ],
+        [
+          "stekels",
+          "quills, spines (stekel)"
+        ],
+        [
+          "van nature",
+          "naturally"
+        ],
+        [
+          "daarnaast",
+          "in addition"
+        ],
+        [
+          "kwaad",
+          "harm, evil"
+        ],
+        [
+          "ten oorlog trekken",
+          "go to war"
+        ]
+      ]
+    },
+    "6382": {
+      "t": "De jacht in Ashenvale",
+      "d": "Je kracht maakt indruk op me, $c. Je bent bereid om de jacht te omarmen. Daardoor geloof ik dat je verder kunt gaan naar groter wild... en grotere uitdagingen.$B$BDe bossen van Ashenvale zijn een groot, wild gebied. De Horde wil daar haar eigen wil opleggen, zowel politiek als spiritueel. Wil je jezelf bewijzen in een onbekend land? Zoek dan de hulp van Senani Thunderheart in Splintertree Post. Die buitenpost ligt recht naar het noorden van het pad dat uit de Barrens komt.",
+      "o": "Praat met Senani Thunderheart in Splintertree Post, Ashenvale.",
+      "c": "Welkom aan de nieuwe grens, $N. Ashenvale is een land vol kansen. Een jonge $C zoals jij kan hier eindeloos veel kansen vinden om te laten zien wat je waard bent. Kijk rond in de buitenpost hier. En reis zeker naar de Zoram Strand, want de Horde heeft daar ook een buitenpost.$B$BJe bent hier, dus je wilt meer leren over de jacht. Luister goed, dan vertel ik je graag wat je moet weten.",
+      "g": [
+        [
+          "maakt indruk",
+          "impresses (indruk maken)"
+        ],
+        [
+          "bereid",
+          "willing"
+        ],
+        [
+          "omarmen",
+          "embrace"
+        ],
+        [
+          "wild",
+          "game (animals); wild"
+        ],
+        [
+          "uitdagingen",
+          "challenges (uitdaging)"
+        ],
+        [
+          "opleggen",
+          "impose"
+        ],
+        [
+          "zowel ... als",
+          "both ... and"
+        ],
+        [
+          "politiek",
+          "politically"
+        ],
+        [
+          "bewijzen",
+          "prove"
+        ],
+        [
+          "buitenpost",
+          "outpost"
+        ],
+        [
+          "grens",
+          "frontier, border"
+        ],
+        [
+          "kansen",
+          "chances, opportunities (kans)"
+        ],
+        [
+          "eindeloos",
+          "endless(ly)"
+        ],
+        [
+          "wat je waard bent",
+          "what you are worth, your mettle"
+        ]
+      ]
+    },
+    "878": {
+      "t": "Stammen in oorlog",
+      "d": "Je moet mijn vijanden aanvallen. <snuift> Je moet Mangletooth en de Razormane helpen door de Bristlebacks te verzwakken. Beide stammen zijn erg spiritueel. Ze zijn verbonden met de aarde en haar kracht. <snuift> Die geeft ons kracht in alles... vooral in oorlog.$B$BWil je weten wie Thork <snuift> en de Horde echt zoveel leed bezorgt? Help dan Mangletooth! Val de spirituele leiders van de Bristlebacks in het noorden aan. Verzwak ze, zodat de Razormanes ze kunnen verslaan en over de Barrens kunnen heersen.",
+      "o": "Dood 6 Bristleback Water Seekers, 12 Bristleback Thornweavers en 12 Bristleback Geomancers en ga terug naar Mangletooth in Camp Taurajo in de Barrens.",
+      "p": "Meer informatie <snuift> voor de Horde als je de wijzen van de Bristlebacks hebt gedood, $r. <snuift> Geen moment eerder! Mangletooth is geen dwaas.",
+      "c": "Ja, ja... vol vreugde, want eindelijk <snuift> kennen de Bristlebacks de pijn van mijn stam, $r. Zo zou ik me moeten voelen. Maar dat <snuift> is niet zo.$B$BJij helpt je volk en zij eren je. Mangletooth helpt zijn volk, en wat doen zij? Ze keren hem de rug toe. Ze vergeten hem en laten hem wegrotten in een kooi!$B$BIk help ze zelfs nu ik achter tralies zit, en ze sturen niemand om me te redden!",
+      "g": [
+        [
+          "verzwakken",
+          "weaken"
+        ],
+        [
+          "verbonden",
+          "connected, tied (verbinden)"
+        ],
+        [
+          "leed bezorgt",
+          "causes suffering (leed bezorgen)"
+        ],
+        [
+          "Verzwak",
+          "weaken (verzwakken)"
+        ],
+        [
+          "heersen",
+          "rule"
+        ],
+        [
+          "wijzen",
+          "wise ones (wijze)"
+        ],
+        [
+          "dwaas",
+          "fool"
+        ],
+        [
+          "vreugde",
+          "joy"
+        ],
+        [
+          "eren",
+          "honor (eren)"
+        ],
+        [
+          "keren ... de rug toe",
+          "turn their backs on (de rug toekeren)"
+        ],
+        [
+          "wegrotten",
+          "rot away"
+        ],
+        [
+          "kooi",
+          "cage"
+        ],
+        [
+          "tralies",
+          "bars"
+        ]
+      ]
+    },
+    "5052": {
+      "t": "Bloedscherven van Agamaggan",
+      "d": "Naast de doornen had het bloed <snuift> ook invloed op andere delen van de aarde: bloedrode stenen, gemengd met andere mineralen. De Bristlebacks graven deze scherven op. Ze dragen ze als totems <snuift> voor kracht in de strijd, en als totems voor hun magie. <snuift>$B$BIk ken de geheimen van die magie.$B$BBreng Mangletooth één van deze bloedscherven om te laten zien dat je het begrijpt. Breng Mangletooth veel scherven, dan zegent hij je met quilboar-magie: de magie van Agamaggan! <snuift>",
+      "o": "Breng een Blood Shard naar Mangletooth in Camp Taurajo in de Barrens.$B$BVerzamel meer Blood Shards als je wilt dat hij je zegent met de kracht van Agamaggan.",
+      "p": "Onze stammen komen in groten getale naar de gebieden met doornen in de hele Barrens <snuift>, want het zijn heilige plaatsen. Maar geen enkele is zo heilig als Razorfen. Het hele Razorfen is het lichaam van Agamaggan. <snuift> Maar de Downs zijn extra beschermd, want de ingang is gemaakt van zijn grote muil! <snuift> Die slikt iedereen die hem niet trouw is in één keer door. En hij spuugt hun lichamen uit als hij ze heeft fijngekauwd! <snuift>$B$BAgamaggan heeft zijn lichaam achtergelaten om ons te beschermen. En hij geeft ons van zijn geest, zodat wij hem kunnen beschermen. <snuift>",
+      "c": "Ah, je begrijpt het echt. <snuift> Mijn woorden waren niet aan dovemansoren gericht, $r. Mangletooth zit misschien in een kooi, maar geen kooi kan de kracht van Agamaggan tegenhouden! <snuift>$B$BDe aanraking van de scherf, het gevoel ervan... het is lang geleden, $r.$B$BWeet je hoe het is? Om van je kracht afgesneden te worden?$B$BMaar dat is een verhaal voor een andere keer. Ik heb je informatie beloofd. Ik heb je de kracht van Agamaggan beloofd. Mijn volk keerde Mangletooth de rug toe. Nu laat ik jou op hen los. <snuift>",
+      "g": [
+        [
+          "doornen",
+          "thorns (doorn)"
+        ],
+        [
+          "invloed",
+          "influence, effect"
+        ],
+        [
+          "gemengd",
+          "mixed (mengen)"
+        ],
+        [
+          "graven ... op",
+          "dig up (opgraven)"
+        ],
+        [
+          "geheimen",
+          "secrets (geheim)"
+        ],
+        [
+          "in groten getale",
+          "in great numbers, flock"
+        ],
+        [
+          "heilige",
+          "holy (heilig)"
+        ],
+        [
+          "ingang",
+          "entrance"
+        ],
+        [
+          "muil",
+          "maw, jaws"
+        ],
+        [
+          "trouw",
+          "loyal"
+        ],
+        [
+          "slikt ... door",
+          "swallows (doorslikken)"
+        ],
+        [
+          "fijngekauwd",
+          "chewed up (fijnkauwen)"
+        ],
+        [
+          "aan dovemansoren gericht",
+          "lost on deaf ears"
+        ],
+        [
+          "aanraking",
+          "touch"
+        ],
+        [
+          "afgesneden",
+          "cut off, severed (afsnijden)"
+        ],
+        [
+          "laat ... op hen los",
+          "set loose upon them (loslaten op)"
+        ]
+      ]
+    },
+    "868": {
+      "t": "Eierjacht",
+      "d": "Hé, $N. Ik ben naar de Crossroads gestuurd om over het land te waken. Ik moet noteren wat er gebeurt, voor mijn meesters in Orgrimmar.$B$BEén ding dat ik bestudeer, zijn de insectachtige wezens in het zuiden, in de Field of Giants. We weten weinig over die wezens, dus ik ga er meer over ontdekken. Ze lijken intelligent te zijn, meer dan een gewoon dier.$B$BNeem deze graafklauw en verzamel wat eieren van de wezens uit hun heuvels. Maar wees voorzichtig: als ze gealarmeerd worden, vallen ze je aan.",
+      "o": "Breng 12 Silithid Eggs en de Digging Claw naar Korran in de Crossroads.",
+      "p": "Wees voorzichtig met de eieren die je vindt, $N. Als ze breken, heb ik er niks aan.",
+      "c": "Je maakt me blij, $N. De eieren en het gereedschap. Goed gedaan.$B$BEn als beloning...",
+      "g": [
+        [
+          "Eierjacht",
+          "egg hunt"
+        ],
+        [
+          "waken",
+          "watch over, keep watch"
+        ],
+        [
+          "noteren",
+          "take note, write down"
+        ],
+        [
+          "meesters",
+          "masters (meester)"
+        ],
+        [
+          "bestudeer",
+          "study (bestuderen)"
+        ],
+        [
+          "insectachtige",
+          "insect-like"
+        ],
+        [
+          "wezens",
+          "creatures (wezen)"
+        ],
+        [
+          "ontdekken",
+          "discover"
+        ],
+        [
+          "graafklauw",
+          "digging claw"
+        ],
+        [
+          "heuvels",
+          "mounds, hills (heuvel)"
+        ],
+        [
+          "gealarmeerd",
+          "alerted (alarmeren)"
+        ],
+        [
+          "heb ik er niks aan",
+          "they're no good to me"
+        ],
+        [
+          "gereedschap",
+          "tool(s)"
+        ],
+        [
+          "beloning",
+          "reward"
+        ]
+      ]
+    },
+    "883": {
+      "t": "Lakota'mani",
+      "d": "De Hoof of Lakota'mani is een symbool van de kracht van de grote kodo.",
+      "o": "Breng de Hoof of Lakota'mani naar Jorn in Camp Taurajo.",
+      "p": "$N, toen je dichterbij kwam, zag ik een nieuwe kracht in je pas. Zeg me: heeft je geest de grote Lakota'mani ontmoet?",
+      "c": "Lakota'mani heet \"Aardschudder\" in onze taal, en zijn stappen zijn als verzamelde donder. Hij is nu met je, en zijn moed mengt zich met de jouwe. Samen is er geen strijd die je niet aankunt.$B$BLoop rechtop, $N. Loop rechtop, Aardschudder.",
+      "g": [
+        [
+          "symbool",
+          "symbol"
+        ],
+        [
+          "pas",
+          "stride, step"
+        ],
+        [
+          "ontmoet",
+          "met (ontmoeten)"
+        ],
+        [
+          "Aardschudder",
+          "Earthshaker"
+        ],
+        [
+          "verzamelde",
+          "gathered (verzamelen)"
+        ],
+        [
+          "donder",
+          "thunder"
+        ],
+        [
+          "moed",
+          "courage"
+        ],
+        [
+          "mengt zich",
+          "mingles (zich mengen)"
+        ],
+        [
+          "aankunt",
+          "can handle (aankunnen)"
+        ],
+        [
+          "rechtop",
+          "upright, tall"
+        ]
+      ]
+    },
+    "843": {
+      "t": "Ganns terugwinning",
+      "d": "Alleen dwaal ik over deze wegen.$b$bDe dwergen van Bael Modan hebben geen respect voor mijn land. Vreselijke ontploffingen slaan diepe gaten in de grond, terwijl lawaaiige machines de heuvels openscheuren. Land dat ooit een thuis was voor mijn stam en voor ons zorgde, zit nu vol met dwergen die alles vernielen.$b$bWe hebben geprobeerd om het met overleg op te lossen, maar dat is mislukt. Nu is het tijd om vastberaden te handelen.$b$bVerdrijf de dwergen met geweld uit de opgraving van Bael Modan. En breng me het dagboek van hun leider, Prospector Khazgorm.",
+      "o": "Gann Stonespire wil dat je 15 Bael'dun Excavators en 5 Bael'dun Foremen doodt.$b$bBreng Khazgorm's Journal naar Gann Stonespire.",
+      "p": "Veel onschuldige tauren zijn gestorven of werden van de geboortegrond van hun voorouders verjaagd, toen de dwergen van Bael Modan kwamen. Mijn land moet teruggewonnen worden!",
+      "c": "Khazgorm kreeg het lot dat hij verdiende. Ik voel geen spijt voor die dwaas. Hij was een ongelovige op deze landen.$b$bMoge zijn dood een waarschuwing zijn voor iedereen die onze manier van leven wil verstoren.$b$bLaat me nu even het dagboek van de dwerg bestuderen...",
+      "g": [
+        [
+          "terugwinning",
+          "reclamation"
+        ],
+        [
+          "dwaal",
+          "wander (dwalen)"
+        ],
+        [
+          "ontploffingen",
+          "explosions, blasts (ontploffing)"
+        ],
+        [
+          "lawaaiige",
+          "noisy (lawaaiig)"
+        ],
+        [
+          "openscheuren",
+          "rip open"
+        ],
+        [
+          "vernielen",
+          "destroy, wreck"
+        ],
+        [
+          "overleg",
+          "negotiation, consultation"
+        ],
+        [
+          "mislukt",
+          "failed (mislukken)"
+        ],
+        [
+          "vastberaden",
+          "decisive(ly), determined"
+        ],
+        [
+          "Verdrijf",
+          "drive out (verdrijven)"
+        ],
+        [
+          "opgraving",
+          "excavation"
+        ],
+        [
+          "dagboek",
+          "journal, diary"
+        ],
+        [
+          "onschuldige",
+          "innocent (onschuldig)"
+        ],
+        [
+          "geboortegrond",
+          "birthplace, native land"
+        ],
+        [
+          "voorouders",
+          "ancestors (voorouder)"
+        ],
+        [
+          "verjaagd",
+          "chased away (verjagen)"
+        ],
+        [
+          "lot",
+          "fate"
+        ],
+        [
+          "spijt",
+          "remorse, regret"
+        ],
+        [
+          "ongelovige",
+          "infidel, unbeliever"
+        ],
+        [
+          "verstoren",
+          "disrupt, disturb"
+        ]
+      ]
+    },
+    "822": {
+      "t": "Chens lege vat",
+      "d": "Lekker spul, die stormstout, hè?$B$BIk heb nog een recept dat ik van Chen heb geleerd. Heb je interesse? Het is snel gemaakt, en het kan handig zijn als je nog meer avonturen wilt beleven.$B$BBreng me 5 bliksemklieren van stormhides, 1 speekselklier van een greater thunderhawk, en een kodolever van een kodo uit de Barrens.$B$BZoals ik al zei: dit spul is sterk. Het is het trogg-bier waar ik je eerder over vertelde.",
+      "o": "Breng 5 Lightning Glands, 1 Thunderhawk Saliva Gland en 1 Kodo Liver naar Brewmaster Drohn in Ratchet.",
+      "p": "Werk je hard aan het vinden van die ingrediënten, $N?",
+      "c": "Haha! Ik wist dat je dit bier niet kon weerstaan. Kom altijd terug als je meer wilt, $N. Breng me dan gewoon meer van de ingrediënten die je voor me hebt verzameld.",
+      "g": [
+        [
+          "vat",
+          "keg, barrel"
+        ],
+        [
+          "spul",
+          "stuff"
+        ],
+        [
+          "recept",
+          "recipe"
+        ],
+        [
+          "handig",
+          "useful, handy"
+        ],
+        [
+          "avonturen",
+          "adventures (avontuur)"
+        ],
+        [
+          "beleven",
+          "experience"
+        ],
+        [
+          "bliksemklieren",
+          "lightning glands (bliksemklier)"
+        ],
+        [
+          "speekselklier",
+          "saliva gland"
+        ],
+        [
+          "kodolever",
+          "kodo liver"
+        ],
+        [
+          "ingrediënten",
+          "ingredients (ingrediënt)"
+        ],
+        [
+          "weerstaan",
+          "resist"
+        ]
+      ]
+    },
+    "884": {
+      "t": "Owatanka",
+      "d": "Als je de staartpunt van Owatanka aanraakt, springen er vonken af.",
+      "o": "Breng Owatanka's Tailspike naar Jorn in Camp Taurajo.",
+      "p": "$N, er zit een nieuwe kracht achter je ogen! Je hebt de machtige Owatanka ontmoet, of niet?",
+      "c": "De tauren noemen de donderhagedis Owatanka \"Blauwe Bliksem\", want in hem zit een snelheid die je bij zijn grootte niet verwacht. Men zegt dat de bliksem Blauwe Bliksem lang geleden raakte. Gevoed door de woede van de hemel heeft het grote beest eindeloos veel energie.$B$BMoge zijn energie door je heen stromen, $N. Want je houdt nu gelijke tred met Owatanka.",
+      "g": [
+        [
+          "staartpunt",
+          "tailspike, tail tip"
+        ],
+        [
+          "aanraakt",
+          "touch (aanraken)"
+        ],
+        [
+          "vonken",
+          "sparks (vonk)"
+        ],
+        [
+          "machtige",
+          "mighty (machtig)"
+        ],
+        [
+          "donderhagedis",
+          "thunder lizard"
+        ],
+        [
+          "Bliksem",
+          "lightning, bolt"
+        ],
+        [
+          "grootte",
+          "size"
+        ],
+        [
+          "Gevoed",
+          "fed (voeden)"
+        ],
+        [
+          "hemel",
+          "sky, heaven"
+        ],
+        [
+          "beest",
+          "beast"
+        ],
+        [
+          "stromen",
+          "flow"
+        ],
+        [
+          "gelijke tred houden",
+          "keep pace"
+        ]
+      ]
+    },
+    "893": {
+      "t": "Wapens naar keuze",
+      "d": "Ik hoor dat de Razormane-quilboars in het zuiden, voorbij de Field of Giants, geen goede smeden hebben. Toch zijn ze blijkbaar begonnen met het maken van stevigere wapens. Ik wil graag een paar verschillende soorten in handen krijgen om hun technieken te leren, als dat kan.$B$BWil je eer brengen aan de Horde? Breng me dan voorbeelden van hun wapens. Zoek een dolk van hun stalkers, een toverstaf van hun zieners, en een schild van hun warfrenzy. Dan ben ik tevreden!",
+      "o": "Breng een Razormane Backstabber, een Charred Razormane Wand en een Razormane War Shield naar Tatternack Steelforge in Camp Taurajo in de Barrens.",
+      "p": "Ik twijfel er ook aan dat die zielige quilboars goed kunnen smeden. Maar ik doe wat de Warchief beveelt, en ik ga zoveel mogelijk leren over de Razormane-stam.$B$BIk heb wel saaiere taken gehad, en die doe ik graag als het de orcs helpt.",
+      "c": "Uitstekend, uitstekende exemplaren.$B$BDe quilboars zijn verder dan ik had verwacht.$B$BHier, $c, neem dit en ga uit de weg. Ik moet deze wapens beter bekijken. Misschien hebben we onze vijand onderschat. En zo'n fout kunnen we ons niet veroorloven.",
+      "g": [
+        [
+          "naar keuze",
+          "of choice"
+        ],
+        [
+          "smeden",
+          "blacksmiths (smid); to forge"
+        ],
+        [
+          "blijkbaar",
+          "apparently"
+        ],
+        [
+          "stevigere",
+          "sturdier (stevig)"
+        ],
+        [
+          "technieken",
+          "techniques (techniek)"
+        ],
+        [
+          "eer",
+          "honor"
+        ],
+        [
+          "dolk",
+          "dagger"
+        ],
+        [
+          "toverstaf",
+          "wand"
+        ],
+        [
+          "zieners",
+          "seers (ziener)"
+        ],
+        [
+          "schild",
+          "shield"
+        ],
+        [
+          "twijfel",
+          "doubt (twijfelen)"
+        ],
+        [
+          "zielige",
+          "pathetic (zielig)"
+        ],
+        [
+          "beveelt",
+          "commands (bevelen)"
+        ],
+        [
+          "saaiere",
+          "more menial, duller (saai)"
+        ],
+        [
+          "exemplaren",
+          "specimens (exemplaar)"
+        ],
+        [
+          "onderschat",
+          "underestimated (onderschatten)"
+        ],
+        [
+          "ons ... veroorloven",
+          "afford (zich veroorloven)"
+        ]
+      ]
+    },
+    "897": {
+      "t": "De Harvester",
+      "d": "Dit vreemde, insectachtige wezen lijkt buiten de natuurlijke orde te staan. Het lijkt alsof het niet in de Barrens thuishoort.",
+      "o": "Breng de Harvester's Head naar Jorn Skyseer.",
+      "p": "Je lijkt bezorgd, $N. Hoe gaan je lessen in de Barrens? Heb je iets gevonden dat je verontrust?",
+      "c": "Ik kan niets zeggen over de aard van dit beest, want zijn geest is gevlucht. Maar zoals je al dacht: het hoort niet in de Barrens thuis. Ik vrees dat het een sombere toekomst voor ons volk aankondigt...$B$BMaar bereid je nu voor, en laten we hopen dat de tijd het mysterie van dit wezen oplost.",
+      "g": [
+        [
+          "natuurlijke",
+          "natural (natuurlijk)"
+        ],
+        [
+          "orde",
+          "order"
+        ],
+        [
+          "thuishoort",
+          "belongs (thuishoren)"
+        ],
+        [
+          "bezorgd",
+          "worried, troubled"
+        ],
+        [
+          "verontrust",
+          "disturbs (verontrusten)"
+        ],
+        [
+          "aard",
+          "nature"
+        ],
+        [
+          "gevlucht",
+          "fled (vluchten)"
+        ],
+        [
+          "vrees",
+          "fear (vrezen)"
+        ],
+        [
+          "sombere",
+          "grim, gloomy (somber)"
+        ],
+        [
+          "aankondigt",
+          "heralds, announces (aankondigen)"
+        ],
+        [
+          "bereid je ... voor",
+          "prepare yourself (zich voorbereiden)"
+        ],
+        [
+          "mysterie",
+          "mystery"
+        ],
+        [
+          "oplost",
+          "solves, unravels (oplossen)"
+        ]
+      ]
+    },
+    "879": {
+      "t": "Verraad van binnenuit",
+      "d": "Drie leden van mijn stam kwamen uit de Kraul om de aanvallen op de Horde te leiden, $r. <snuift> Ze zijn meedogenloos en sluw. Als je ze verslaat, krijgen je Crossroads en zelfs het grootste deel van de Barrens vrede... <snuift> tenminste van de Razormane-stam. <snuift>$B$BNak, Kuz en Lok Orcbane zijn degenen die je zoekt. Ze zijn ver in het zuiden van de Barrens. Eén is een spreukenwever, een ander een spoorzoeker, en hun leider, die Orcbane heet, <snuift> is een krijger. Dood ze, $r, zoals zij mij hebben gedood.",
+      "o": "Dood Nak, Kuz en Lok Orcbane en breng hun schedels naar Mangletooth in Camp Taurajo in de Barrens.",
+      "p": "Hoe gaat je jacht, $r? <snuift>$B$BThork denkt dat hij weet wie de aanvallen op zijn volk leidt, <snuift> maar hij zal leren hoe fout hij zit als het je lukt.$B$BMijn dood is onvermijdelijk. Maar jij hebt mijn vijanden veel pijn gedaan, dus Mangletooth heeft nergens spijt van. <snuift>",
+      "c": "Het is dus gedaan. Beter dat het zo eindigt, zegt Mangletooth. <snuift> Ze hadden <snuift> moeten zorgen dat ik dood was toen ze me de rug toekeerden. Nu lieten ze <snuift> me achter in deze vergeten kooi.$B$BEr is nog maar één taak voor je over, $r.",
+      "g": [
+        [
+          "Verraad",
+          "betrayal"
+        ],
+        [
+          "van binnenuit",
+          "from within"
+        ],
+        [
+          "leden",
+          "members (lid)"
+        ],
+        [
+          "aanvallen",
+          "raids, attacks (aanval)"
+        ],
+        [
+          "meedogenloos",
+          "ruthless"
+        ],
+        [
+          "sluw",
+          "cunning"
+        ],
+        [
+          "tenminste",
+          "at least"
+        ],
+        [
+          "degenen",
+          "the ones"
+        ],
+        [
+          "spreukenwever",
+          "spell caster"
+        ],
+        [
+          "spoorzoeker",
+          "tracker"
+        ],
+        [
+          "schedels",
+          "skulls (schedel)"
+        ],
+        [
+          "fout zit",
+          "is wrong (fout zitten)"
+        ],
+        [
+          "onvermijdelijk",
+          "inescapable, unavoidable"
+        ],
+        [
+          "vergeten",
+          "forsaken, forgotten"
+        ]
+      ]
+    },
+    "885": {
+      "t": "Washte Pawne",
+      "d": "De veer van Washte Pawne doet pijn als je hem aanraakt.",
+      "o": "Breng Washte Pawne's Feather naar Jorn Skyseer in Camp Taurajo.",
+      "p": "Er zit nieuwe vastberadenheid in je, $N. Vastberadenheid die uit pijn geboren is...$B$BDraag je de last van de dood van Washte Pawne?",
+      "c": "De donderhavik is een zeldzaam beest in de Barrens. Zijn dood kan groot geluk voorspellen, of grote ondergang.$B$BMaar Washte Pawne, in het Taurahe \"Geestbijter\" genoemd, kan geen van beide brengen... of allebei.$B$BDe pijn die je voelde toen je op Geestbijter jaagde, is de steek die iedereen voelt die veel wint tegen een hoge prijs. De steek die je voelde, is de pijn van spijt.$B$BMaar ik zie dat je die hebt overwonnen. Je hebt geleerd dat spijt verandert in wijsheid, en dat je door pijn kracht krijgt.$B$BJe hebt veel geleerd, $N.",
+      "g": [
+        [
+          "veer",
+          "feather"
+        ],
+        [
+          "vastberadenheid",
+          "resolve, determination"
+        ],
+        [
+          "last",
+          "burden"
+        ],
+        [
+          "donderhavik",
+          "thunderhawk"
+        ],
+        [
+          "zeldzaam",
+          "rare"
+        ],
+        [
+          "voorspellen",
+          "predict, portend"
+        ],
+        [
+          "ondergang",
+          "doom, downfall"
+        ],
+        [
+          "Geestbijter",
+          "Spirit Biter"
+        ],
+        [
+          "geen van beide",
+          "neither"
+        ],
+        [
+          "steek",
+          "sting, pang"
+        ],
+        [
+          "prijs",
+          "price, cost"
+        ],
+        [
+          "overwonnen",
+          "conquered, overcome (overwinnen)"
+        ]
+      ]
+    },
+    "906": {
+      "t": "Verraad van binnenuit",
+      "d": "Breng het hoofd van Lok naar Thork in de Crossroads, $r. <snuift> Dan weet hij zonder woorden wat er met mijn stam is gebeurd. Ha, niet dat hij zou geloven dat Mangletooth <snuift> zulke dingen heeft helpen doen. Maar ik weet zeker dat hij je beloont voor zo'n grote daad. <snuift>$B$BIk blijf je zegenen met de kracht van Agamaggan zolang ik in deze kooi zit, $r. Tot dan, vaarwel.",
+      "o": "Breng Lok's Skull naar Thork in de Crossroads in de Barrens.",
+      "p": "Ja, wat is er?",
+      "c": "Heb je de leider van de Razormane gevonden en hem zelf gedood, $N? Geweldig.$B$BIk heb geen woorden, maar dat betekent niet dat ik je niet dankbaar ben. De mensen van de Crossroads doen er goed aan om je kracht te respecteren.$B$BIk moet toegeven: ik dacht dat de leider van deze aanvallen op onze aanvoerroutes een andere quilboar was. Nogmaals bedankt, $N.",
+      "g": [
+        [
+          "beloont",
+          "rewards (belonen)"
+        ],
+        [
+          "daad",
+          "deed"
+        ],
+        [
+          "zolang",
+          "as long as"
+        ],
+        [
+          "vaarwel",
+          "farewell"
+        ],
+        [
+          "dankbaar",
+          "grateful"
+        ],
+        [
+          "doen er goed aan",
+          "would do well to (er goed aan doen)"
+        ],
+        [
+          "toegeven",
+          "admit"
+        ],
+        [
+          "aanvoerroutes",
+          "supply lines (aanvoerroute)"
+        ],
+        [
+          "Nogmaals",
+          "once again"
+        ]
+      ]
+    },
+    "3369": {
+      "t": "In nachtmerries",
+      "d": "Deze scherf bevat grote geheimen. Hij is de pure essentie van de Emerald Dream. Maar wat ik in deze scherf zie, is geen droom. Zo'n visioen zou je een nachtmerrie noemen.$B$BIk wil je niet ongerust maken, $N, maar ik denk dat je deze scherf zo snel mogelijk aan een wijze druïde moet geven.$B$BJe moet Hamuul Runetotem op Elder Rise vinden. Ga naar Thunder Bluff. Meer kan ik niet zeggen.",
+      "o": "Breng de Nightmare Shard naar Hamuul Runetotem op Elder Rise.",
+      "p": "Kan ik je ergens mee helpen?",
+      "c": "Heeft Falla je naar mij gestuurd? Nou, laat me die scherf eens zien waar ze volgens jou zo aarzelend over sprak...$B$B<Hamuul kijkt in de scherf>$B$BOh... Ik had niet... Nou.$B$B$N, dank je dat je dit bij me hebt gebracht. Maar het is niet verstandig om over zulke dingen te praten, dat raad ik je aan. Hier moet je je niet mee bezighouden.$B$BLaten we zeggen dat de dingen in de Emerald Dream niet zo zijn als we dachten...$B$BMisschien kruisen onze wegen elkaar later nog eens.$b",
+      "g": [
+        [
+          "nachtmerries",
+          "nightmares (nachtmerrie)"
+        ],
+        [
+          "bevat",
+          "contains (bevatten)"
+        ],
+        [
+          "essentie",
+          "essence"
+        ],
+        [
+          "visioen",
+          "vision"
+        ],
+        [
+          "ongerust maken",
+          "alarm, worry"
+        ],
+        [
+          "aarzelend",
+          "hesitant(ly)"
+        ],
+        [
+          "verstandig",
+          "wise, sensible"
+        ],
+        [
+          "raad ... aan",
+          "advise (aanraden)"
+        ],
+        [
+          "je ... bezighouden",
+          "concern yourself (zich bezighouden)"
+        ],
+        [
+          "kruisen",
+          "cross"
+        ]
+      ]
+    },
+    "3513": {
+      "t": "De rol met runen",
+      "d": "De officieel uitziende rol is strak omwikkeld met een zilverachtig lint. Je weet zeker dat iemand dit wil zien, maar wie?$B$BEr is een buitenpost bij de grens met Ashenvale in het noorden. Als de informatie op deze rol over de nachtelfen gaat, is dat de plek om hem naartoe te brengen.",
+      "o": "Breng de Runed Scroll naar de noordelijke wachttoren in de Barrens.",
+      "p": "Wat heb je daar?",
+      "c": "Nou, nou... Waar heb je dit gevonden?",
+      "g": [
+        [
+          "runen",
+          "runes (rune)"
+        ],
+        [
+          "officieel uitziende",
+          "official-looking"
+        ],
+        [
+          "rol",
+          "scroll, roll"
+        ],
+        [
+          "strak",
+          "tightly"
+        ],
+        [
+          "omwikkeld",
+          "wrapped (omwikkelen)"
+        ],
+        [
+          "zilverachtig",
+          "silvery"
+        ],
+        [
+          "lint",
+          "ribbon"
+        ],
+        [
+          "nachtelfen",
+          "night elves (nachtelf)"
+        ],
+        [
+          "wachttoren",
+          "guard tower"
+        ]
+      ]
+    },
+    "846": {
+      "t": "De wraak van Gann",
+      "d": "Het is duidelijk dat de prospector afhankelijk was van explosieven en die lawaaiige voertuigen om de grond open te scheuren. We kunnen verwachten dat er snel een nieuwe voorman komt.$b$bIk wil de dwergen met hun eigen middelen terugpakken. Volgens deze plannen kunnen we een springlading maken als we nitroglycerine mengen met houtpulp en natriumnitraat. De schutters, soldaten en officieren in de Keep hebben die spullen, weten we.$b$bVerzamel deze dingen en breng ze naar me. Ik maak een lading die de dwergen niet zullen vergeten!",
+      "o": "Gann Stonespire wil dat je hem 6 flesjes Nitroglycerin, 6 bundels Wood Pulp en 6 monsters Sodium Nitrate brengt.",
+      "p": "Ik zie dat je terug bent, $n.$b$bDe dood van Khazgorm kan het graven in het land van mijn voorouders wat vertragen. Maar het maakt zeker geen einde aan de vernieling.$b$bDe Keep in Bael Modan wordt een steeds grotere militaire dreiging. Hij is gebouwd om de opgraving te verdedigen, maar nu is hij ook klaar om aan te vallen.$b$bAls je de ingrediënten hebt waar ik om vroeg, kan ik een lading maken. Die zal de haastige dwergen laten nadenken over wat ze hier in de Barrens doen.",
+      "c": "Ik zie dat je erg ijverig bent, $c.$b$bWe hebben zeker binnenkort een passende verrassing voor die dwergen.",
+      "g": [
+        [
+          "afhankelijk",
+          "dependent"
+        ],
+        [
+          "explosieven",
+          "explosives (explosief)"
+        ],
+        [
+          "voertuigen",
+          "vehicles (voertuig)"
+        ],
+        [
+          "voorman",
+          "foreman"
+        ],
+        [
+          "met hun eigen middelen terugpakken",
+          "give them a taste of their own medicine"
+        ],
+        [
+          "springlading",
+          "explosive charge"
+        ],
+        [
+          "houtpulp",
+          "wood pulp"
+        ],
+        [
+          "natriumnitraat",
+          "sodium nitrate"
+        ],
+        [
+          "schutters",
+          "riflemen (schutter)"
+        ],
+        [
+          "flesjes",
+          "vials (flesje)"
+        ],
+        [
+          "bundels",
+          "bundles (bundel)"
+        ],
+        [
+          "monsters",
+          "samples (monster)"
+        ],
+        [
+          "vertragen",
+          "delay, slow down"
+        ],
+        [
+          "vernieling",
+          "destruction"
+        ],
+        [
+          "verdedigen",
+          "defend"
+        ],
+        [
+          "haastige",
+          "hasty (haastig)"
+        ],
+        [
+          "ijverig",
+          "industrious, hard-working"
+        ],
+        [
+          "passende",
+          "fitting (passend)"
+        ]
+      ]
+    },
+    "849": {
+      "t": "De wraak van Gann",
+      "d": "Met de plannen van Khazgorm moet het geen probleem zijn om een springlading te maken.$b$bAh, daar is hij.$b$bNu, $n, ik ga je een speciale taak toevertrouwen. Neem deze springstok en blaas er de vliegmachine in Bael Modan mee op.$b$bDe vliegmachine is niet alleen een belangrijk deel van de opgraving. Hij is ook een oorlogswapen. En nog belangrijker: hij is een symbool van macht en een belediging voor de herinnering aan mijn stam.$b$bMaak me trots door deze heldhaftige taak te volbrengen, dan word je beloond.",
+      "o": "Vernietig de vliegmachine in Bael Modan en ga terug naar Gann Stonespire.",
+      "p": "Als de vliegmachine van de dwergen vernietigd is, voel ik de zoete voldoening van wraak.",
+      "c": "Goed gedaan, $n! Moge je in Thunder Bluff geëerd worden als beschermer van de heilige landen van de tauren, en als held van de verloren stam.",
+      "o1": "Bael Modan Flying Machine vernietigd",
+      "g": [
+        [
+          "toevertrouwen",
+          "entrust"
+        ],
+        [
+          "springstok",
+          "explosive stick"
+        ],
+        [
+          "blaas ... op",
+          "blow up (opblazen)"
+        ],
+        [
+          "vliegmachine",
+          "flying machine"
+        ],
+        [
+          "oorlogswapen",
+          "weapon of war"
+        ],
+        [
+          "macht",
+          "power"
+        ],
+        [
+          "belediging",
+          "insult"
+        ],
+        [
+          "herinnering",
+          "memory"
+        ],
+        [
+          "heldhaftige",
+          "heroic (heldhaftig)"
+        ],
+        [
+          "volbrengen",
+          "complete, accomplish"
+        ],
+        [
+          "voldoening",
+          "satisfaction"
+        ],
+        [
+          "geëerd",
+          "honored, revered (eren)"
+        ],
+        [
+          "beschermer",
+          "defender, protector"
+        ]
+      ]
+    },
+    "873": {
+      "t": "Isha Awak",
+      "d": "De grote Isha Awak is de heer van deze wateren. Groot is zijn kracht, en ernstig zijn trots. De mensen aan de kust zijn bang voor hem, want hij heeft er al veel van opgegeten.$B$BMaar ik ben niet bang voor hem. Ik ben dankbaar dat hij hier is. Hij is een waardige uitdaging en een eervolle prooi.$B$BAls je er klaar voor bent, zwem dan naar buiten en zoek Isha Awak, de Diepe Ondergang.$B$BZijn geest woont in zijn hart. Wie het hart hoort kloppen, kent zijn lot.",
+      "o": "Breng het Heart of Isha Awak naar Mahren Skyseer.",
+      "p": "Wees niet bang voor het water, $r.",
+      "c": "Je bent nu één met Isha Awak, $N. Zijn geest is met je. Hij loert in je ogen...$B$BOgen die op een dag zullen leren zien.",
+      "g": [
+        [
+          "heer",
+          "lord"
+        ],
+        [
+          "ernstig",
+          "solemn, serious"
+        ],
+        [
+          "kust",
+          "coast"
+        ],
+        [
+          "waardige",
+          "worthy (waardig)"
+        ],
+        [
+          "eervolle",
+          "honorable (eervol)"
+        ],
+        [
+          "prooi",
+          "prey"
+        ],
+        [
+          "Ondergang",
+          "doom"
+        ],
+        [
+          "kloppen",
+          "beat (of a heart)"
+        ],
+        [
+          "lot",
+          "fate"
+        ],
+        [
+          "loert",
+          "lurks (loeren)"
+        ]
+      ]
+    },
+    "874": {
+      "t": "Mahren Skyseer",
+      "d": "Je hebt op de beesten van de Barrens gejaagd. Je geest is sterk. Maar een jager moet altijd voorbereid zijn. Een echte jager kan een prooi langs elk pad besluipen. Bergen en moerassen houden $ghem:haar; niet tegen.$B$BZelfs de zee niet.$B$BZoek mijn zus, Mahren. Ze jaagt op de grote waterbeesten langs de kust. Zij leert je hoe die dieren leven.$B$BMaar wees voorzichtig als je haar zoekt, want de kust van de Barrens is in handen van mensen.",
+      "o": "Praat met Mahren Skyseer.",
+      "c": "Heeft mijn broer je gestuurd? Dan heb je jezelf aan hem bewezen. Als je het respect van Jorn hebt verdiend, heb je ook mijn respect.$B$BBen je klaar om verder te gaan op het pad van de jager?",
+      "g": [
+        [
+          "voorbereid",
+          "prepared (voorbereiden)"
+        ],
+        [
+          "besluipen",
+          "stalk, sneak up on"
+        ],
+        [
+          "moerassen",
+          "swamps (moeras)"
+        ],
+        [
+          "houden ... tegen",
+          "stop, hold back (tegenhouden)"
+        ],
+        [
+          "waterbeesten",
+          "water beasts (waterbeest)"
+        ],
+        [
+          "in handen van",
+          "in the hands of, held by"
+        ],
+        [
+          "bewezen",
+          "proven (bewijzen)"
+        ],
+        [
+          "verdiend",
+          "earned (verdienen)"
+        ]
+      ]
+    },
+    "1153": {
+      "t": "Een nieuw ertsmonster",
+      "d": "$C, je hebt me eerder goed geholpen. De warchief is tot nu toe tevreden met wat ik heb bereikt. Hij vraagt me om met nieuwe vastberadenheid door te gaan. Mijn eer zegt dat ik je bij de warchief de erkenning moet geven die je verdient voor alles wat je gedaan hebt. Maar eerst vraag ik je opnieuw om hulp.$B$BOnlangs kwamen er reizigers uit het zuiden, uit een plek die Thousand Needles heet. Daar doodden ze een kobold met een ongewoon ertsmonster. Maar ze wilden het niet verkopen. Ik wil een monster van dat erts om het te onderzoeken.",
+      "o": "Vind een Unrefined Ore Sample op een Gravelsnout Digger of Surveyor en breng het naar Tatternack Steelforge in Camp Taurajo in de Barrens.",
+      "p": "Ik zag de reizigers weer: degenen die me geen monster van het erts wilden verkopen. Ik spuugde naar ze, omdat ze de warchief niet wilden helpen.$B$BMogen ze sterven in de strijd als lafaards, en niet als krijgers. Dat zou het recht moeten zijn van iedereen die zich bij de Horde aansluit.",
+      "c": "Een goed monster, $N. Echt een goed monster.$B$BNu het jou gelukt is, kunnen die reizigers niet meer opscheppen over het erts dat ze vonden.$B$BIk ga er meteen mee aan het werk. Als het sterk genoeg blijkt, stuur ik een wapen van dit materiaal naar de warchief om hem ons succes te laten zien.$B$BIk zal je hulp niet vergeten, $C.",
+      "g": [
+        [
+          "ertsmonster",
+          "ore sample"
+        ],
+        [
+          "bereikt",
+          "achieved (bereiken)"
+        ],
+        [
+          "erkenning",
+          "recognition"
+        ],
+        [
+          "Onlangs",
+          "recently"
+        ],
+        [
+          "reizigers",
+          "travelers (reiziger)"
+        ],
+        [
+          "ongewoon",
+          "unusual"
+        ],
+        [
+          "onderzoeken",
+          "examine, investigate"
+        ],
+        [
+          "spuugde",
+          "spat (spugen)"
+        ],
+        [
+          "lafaards",
+          "cowards (lafaard)"
+        ],
+        [
+          "recht",
+          "right"
+        ],
+        [
+          "zich ... aansluit",
+          "allies with, joins (zich aansluiten)"
+        ],
+        [
+          "opscheppen",
+          "boast, lord over"
+        ],
+        [
+          "blijkt",
+          "turns out, proves (blijken)"
+        ]
+      ]
+    },
+    "3514": {
+      "t": "De aanwezigheid van de Horde",
+      "d": "Deze rol komt van die sluwe dryade Rynthariel, Keymaster van de Talon Den op Stonetalon Peak.$B$BZe zal geen contact meer hebben met de boodschapper van wie je dit hebt afgepakt, heh. Maar we moeten hier standhouden. De Horde accepteert haar lopers hier niet.$B$B$N, reis naar de Talon Den. Dood Rynthariel, en zet dan een teken neer dat iedereen kan zien. Neem deze Horde-vlag, $N. Zet hem neer in de Talon Den. Dan zijn ze niet meer zo dom om nog een boodschapper door ons gebied te sturen.",
+      "o": "Dood de leider van de Talon Den, Rynthariel the Keymaster.",
+      "p": "We kunnen de Alliance niet op ons land toestaan, $N. Laat dat duidelijk zijn.",
+      "c": "Jij bent een taaie! Rynthariel uit de Den verwijderen is een grote stap, $N. Het duurt lang voor ze zich weer verzamelen, dus we kunnen rekenen op minder Alliance-lopers in de Barrens. Ze denken wel twee keer na voordat ze er nog een deze kant op sturen.$B$BDank je.",
+      "g": [
+        [
+          "aanwezigheid",
+          "presence"
+        ],
+        [
+          "sluwe",
+          "scheming, sly (sluw)"
+        ],
+        [
+          "dryade",
+          "dryad"
+        ],
+        [
+          "boodschapper",
+          "messenger"
+        ],
+        [
+          "afgepakt",
+          "taken from, looted (afpakken)"
+        ],
+        [
+          "standhouden",
+          "stand one's ground"
+        ],
+        [
+          "lopers",
+          "runners (loper)"
+        ],
+        [
+          "vlag",
+          "flag"
+        ],
+        [
+          "gebied",
+          "territory, area"
+        ],
+        [
+          "toestaan",
+          "allow"
+        ],
+        [
+          "taaie",
+          "tough one"
+        ],
+        [
+          "verwijderen",
+          "remove, rid"
+        ],
+        [
+          "twee keer nadenken",
+          "think twice"
+        ]
+      ]
+    }
+  },
+  "words": {
+    "alliance-lopers": "Alliance runners (loper)",
+    "bezighouden": "keep busy; zich bezighouden met = concern oneself with",
+    "bloedrode": "blood-red (bloedrood)",
+    "bunkers": "bunkers (bunker)",
+    "chens": "Chen's",
+    "dovemansoren": "deaf ears; aan dovemansoren gericht = lost on deaf ears",
+    "eindigt": "ends (eindigen)",
+    "ganns": "Gann's",
+    "horde-vlag": "Horde flag",
+    "keerde": "turned (keren)",
+    "kolkar-indringers": "Kolkar invaders (indringer)",
+    "leed": "suffering, grief",
+    "nitroglycerine": "nitroglycerin",
+    "quilboar-magie": "quilboar magic",
+    "quilboar-stammen": "quilboar tribes (stam)",
+    "slikt": "swallows (slikken)",
+    "snuift": "snorts (snuiven)",
+    "springen": "jump; spring off (vonken springen af = sparks fly)",
+    "strijde": "battle (old form of strijd: ten strijde = into battle)",
+    "tauren-druïde": "tauren druid",
+    "teruggewonnen": "reclaimed, won back (terugwinnen)",
+    "terugpakken": "get back at, pay back",
+    "toekeerden": "turned towards (toekeren); de rug toekeren = turn one's back on",
+    "tred": "step, pace; gelijke tred houden = keep pace",
+    "voorbeelden": "examples (voorbeeld)",
+    "warfrenzy": "Warfrenzy (Razormane warriors, English name)",
+    "zorgde": "took care, provided (zorgen)"
+  },
+  "terms": {}
+}
