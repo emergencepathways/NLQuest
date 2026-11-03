@@ -111,6 +111,7 @@ Data\Batch_64_Blackrock_Mountain.lua
 Data\Batch_135_Ahn_Qiraj_War.lua
 Data\Batch_65_Blackrock_Depths_36_Voorquests.lua
 Data\Batch_136_Warsong_Gulch.lua
+Data\Batch_137_Arathi_Basin.lua
 
 Display.lua
 Reader.lua
