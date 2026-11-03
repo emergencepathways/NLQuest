@@ -1,6 +1,7 @@
 # Changelog
 
 ## Unreleased
+- Batch 36: Badlands and Feralas from level 25 to 45 (Tremors of the Earth, Ambassador Infernus, Fiery Blaze Enchantments, Lotwil's elemental, the Hatecrest naga and Lord Shalzaru chain, The Missing Courier chain, The High Wilderness, OOX-22/FE, ...) (22 quests, 1028 in total).
 - Batch 33: Duskwood from level 31 to 45 (Worgen in the Woods, Morbent Fel, The Legend of Stalvan, the Morgan Ladimore chain, Supplies for Nethergarde) and Alterac Mountains from level 33 to 40 (the Syndicate chain, Crushridge Bounty, Crushridge Warmongers, Dark Council, Stormpike's Deciphering) (24 quests, 1006 in total).
 - Batch 32: Stranglethorn Vale from level 40 to 45 (The Bloodsail Buccaneers chain, Raptor Mastery and Big Game Hunter, Sea Wolf MacKinley's debt collecting, Akiris by the Bundle, Cortello's Riddle, Zanzil's Secret, Stranglethorn Fever) (25 quests, 982 in total).
 - Batch auto-merge is now a merge queue (tools/automerge.py): it merges by pushing to main instead of asking GitHub to merge a pull request seconds after changing it (which GitHub often refused, leaving batches 32, 33, 36, 107, 109, 110, 111 and 112 open), handles every waiting batch in each run, retries every 30 minutes, and puts the real error on the pull request when a batch can't merge.
