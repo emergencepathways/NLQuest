@@ -150,6 +150,7 @@ Data\Batch_84_Stranglethorn_Vale.lua
 Data\Batch_85_Engineering.lua
 Data\Batch_105_Seasonal.lua
 Data\Batch_86_Ironforge.lua
+Data\Batch_87_Ironforge.lua
 
 Display.lua
 Reader.lua

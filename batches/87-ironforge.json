@@ -1,0 +1,1650 @@
+{
+ "quests": {
+  "8956": {
+   "t": "De laatste woorden van Anthion",
+   "d": "De ziel van Valthalak zat in dit amulet. Uit hebzucht hebben we het dwaas in drie delen gesplitst. We wisten niet welke vloek ons te wachten stond.$B$BDe enige manier om de spreuk van Valthalak te stoppen, is het medaillon weer in elkaar te zetten. Ga terug naar Deliana en zeg haar dat Bodley haar enige hoop is om de overige stukken te vinden. Praat met haar over de beloningen die je hebt afgesproken.$B$BVoor één keer zal ik in vrede rusten. Ik wens je veel geluk; je zult elk beetje ervan nodig hebben!",
+   "o": "Ga terug naar Deliana in Ironforge met een set Shadowcraft Boots, Shadowcraft Pants en Shadowcraft Spaulders.",
+   "p": "Je bent terug, $N. Je moet me alles vertellen over wat je hebt ontdekt. Maar laten we eerst je beloning regelen.",
+   "c": "Ik kan niet geloven dat ons leven zo goed als verloren is, en dat allemaal door een stom medaillon! En weet je zeker dat Anthion Bodley noemde?$B$BNou, je hebt je werk gedaan, dus laten we je beloning maar snel afhandelen.",
+   "g": [
+    [
+     "hebzucht",
+     "greed"
+    ],
+    [
+     "dwaas",
+     "foolishly, foolish"
+    ],
+    [
+     "gesplitst",
+     "split (splitsen)"
+    ],
+    [
+     "vloek",
+     "curse"
+    ],
+    [
+     "te wachten stond",
+     "awaited (te wachten staan)"
+    ],
+    [
+     "medaillon",
+     "medallion"
+    ],
+    [
+     "in elkaar te zetten",
+     "to put together (in elkaar zetten)"
+    ],
+    [
+     "overige",
+     "remaining, other"
+    ],
+    [
+     "afgesproken",
+     "arranged, agreed (afspreken)"
+    ],
+    [
+     "rusten",
+     "to rest"
+    ],
+    [
+     "regelen",
+     "to arrange, sort out"
+    ],
+    [
+     "zo goed als",
+     "all but, practically"
+    ],
+    [
+     "noemde",
+     "mentioned (noemen)"
+    ],
+    [
+     "afhandelen",
+     "to deal with, get out of the way"
+    ]
+   ]
+  },
+  "8958": {
+   "t": "De laatste woorden van Anthion",
+   "d": "De ziel van Valthalak zat in dit amulet. Uit hebzucht hebben we het dwaas in drie delen gesplitst. We wisten niet welke vloek ons te wachten stond.$B$BDe enige manier om de spreuk van Valthalak te stoppen, is het medaillon weer in elkaar te zetten. Ga terug naar Deliana en zeg haar dat Bodley haar enige hoop is om de overige stukken te vinden. Praat met haar over de beloningen die je hebt afgesproken.$B$BVoor één keer zal ik in vrede rusten. Ik wens je veel geluk; je zult elk beetje ervan nodig hebben!",
+   "o": "Ga terug naar Deliana in Ironforge met een set Dreadmist Sandals, Dreadmist Leggings en Dreadmist Mantle.",
+   "p": "Je bent terug, $N. Je moet me alles vertellen over wat je hebt ontdekt. Maar laten we eerst je beloning regelen.",
+   "c": "Ik kan niet geloven dat ons leven zo goed als verloren is, en dat allemaal door een stom medaillon! En weet je zeker dat Anthion Bodley noemde?$B$BNou, je hebt je werk gedaan, dus laten we je beloning maar snel afhandelen.",
+   "g": [
+    [
+     "hebzucht",
+     "greed"
+    ],
+    [
+     "dwaas",
+     "foolishly, foolish"
+    ],
+    [
+     "gesplitst",
+     "split (splitsen)"
+    ],
+    [
+     "vloek",
+     "curse"
+    ],
+    [
+     "te wachten stond",
+     "awaited (te wachten staan)"
+    ],
+    [
+     "medaillon",
+     "medallion"
+    ],
+    [
+     "in elkaar te zetten",
+     "to put together (in elkaar zetten)"
+    ],
+    [
+     "overige",
+     "remaining, other"
+    ],
+    [
+     "afgesproken",
+     "arranged, agreed (afspreken)"
+    ],
+    [
+     "rusten",
+     "to rest"
+    ],
+    [
+     "regelen",
+     "to arrange, sort out"
+    ],
+    [
+     "zo goed als",
+     "all but, practically"
+    ],
+    [
+     "noemde",
+     "mentioned (noemen)"
+    ],
+    [
+     "afhandelen",
+     "to deal with, get out of the way"
+    ]
+   ]
+  },
+  "8959": {
+   "t": "De laatste woorden van Anthion",
+   "d": "De ziel van Valthalak zat in dit amulet. Uit hebzucht hebben we het dwaas in drie delen gesplitst. We wisten niet welke vloek ons te wachten stond.$B$BDe enige manier om de spreuk van Valthalak te stoppen, is het medaillon weer in elkaar te zetten. Ga terug naar Deliana en zeg haar dat Bodley haar enige hoop is om de overige stukken te vinden. Praat met haar over de beloningen die je hebt afgesproken.$B$BVoor één keer zal ik in vrede rusten. Ik wens je veel geluk; je zult elk beetje ervan nodig hebben!",
+   "o": "Ga terug naar Deliana in Ironforge met een set Boots of Valor, Legplates of Valor en Spaulders of Valor.",
+   "p": "Je bent terug, $N. Je moet me alles vertellen over wat je hebt ontdekt. Maar laten we eerst je beloning regelen.",
+   "c": "Ik kan niet geloven dat ons leven zo goed als verloren is, en dat allemaal door een stom medaillon! En weet je zeker dat Anthion Bodley noemde?$B$BNou, je hebt je werk gedaan, dus laten we je beloning maar snel afhandelen.",
+   "g": [
+    [
+     "hebzucht",
+     "greed"
+    ],
+    [
+     "dwaas",
+     "foolishly, foolish"
+    ],
+    [
+     "gesplitst",
+     "split (splitsen)"
+    ],
+    [
+     "vloek",
+     "curse"
+    ],
+    [
+     "te wachten stond",
+     "awaited (te wachten staan)"
+    ],
+    [
+     "medaillon",
+     "medallion"
+    ],
+    [
+     "in elkaar te zetten",
+     "to put together (in elkaar zetten)"
+    ],
+    [
+     "overige",
+     "remaining, other"
+    ],
+    [
+     "afgesproken",
+     "arranged, agreed (afspreken)"
+    ],
+    [
+     "rusten",
+     "to rest"
+    ],
+    [
+     "regelen",
+     "to arrange, sort out"
+    ],
+    [
+     "zo goed als",
+     "all but, practically"
+    ],
+    [
+     "noemde",
+     "mentioned (noemen)"
+    ],
+    [
+     "afhandelen",
+     "to deal with, get out of the way"
+    ]
+   ]
+  },
+  "8997": {
+   "t": "Terug naar het begin",
+   "d": "Ik denk dat dit dan het afscheid is, mijn vriend. Maar ik ben hier altijd als je terug wilt komen om af en toe met me te praten. Waarschijnlijk terwijl je hier rondhangt en wacht tot je maten zich bij je voegen voor een aanval op Blackrock Spire.$B$BGa nu, voordat ik begin te huilen. Ga terug naar Deliana in Ironforge en vertel haar wat er is gebeurd.",
+   "o": "Praat met Deliana bij The High Seat in Ironforge.",
+   "c": "Ik ben erg blij dat je veilig bij me terug bent, $N. Je ziet er goed uit, al ben je wel een beetje gehavend.$B$BKom, vertel me alles wat er is voorgevallen.",
+   "g": [
+    [
+     "afscheid",
+     "goodbye, farewell"
+    ],
+    [
+     "af en toe",
+     "from time to time"
+    ],
+    [
+     "rondhangt",
+     "loiter, hang around (rondhangen)"
+    ],
+    [
+     "maten",
+     "buddies, mates (maat)"
+    ],
+    [
+     "zich bij je voegen",
+     "join you (zich voegen bij)"
+    ],
+    [
+     "aanval",
+     "attack, raid"
+    ],
+    [
+     "huilen",
+     "to cry"
+    ],
+    [
+     "gehavend",
+     "battered, worse for wear"
+    ],
+    [
+     "voorgevallen",
+     "happened, transpired (voorvallen)"
+    ]
+   ]
+  },
+  "8999": {
+   "t": "Het beste voor het laatst",
+   "d": "Wat een geweldig verhaal, $N! Je hebt mijn dank, en de oprechte dankbaarheid van iedereen die erbij betrokken was. Nu kan ik 's nachts misschien slapen met allebei mijn ogen dicht.$B$BWat je beloning betreft: ik denk dat ik een paar dingen heb waar je echt van zult genieten.",
+   "o": "Geef Deliana je Wildheart Cowl en Wildheart Vest.",
+   "p": "Zoals we hebben afgesproken: ben je klaar om je Wildheart-stukken in te leveren in ruil voor je nieuwe Feralheart Cowl en Vest?",
+   "c": "Ik ga je missen, $N. Ik ben je zo veel dank verschuldigd; ik denk dat ik dat nooit kan terugbetalen.$B$BIk hoop dat je geniet van je nieuwe pantser voor hoofd en borst, en dat het je nog lang zal beschermen.",
+   "g": [
+    [
+     "geweldig",
+     "amazing"
+    ],
+    [
+     "oprechte",
+     "heartfelt, sincere (oprecht)"
+    ],
+    [
+     "dankbaarheid",
+     "gratitude"
+    ],
+    [
+     "betrokken",
+     "involved"
+    ],
+    [
+     "allebei",
+     "both"
+    ],
+    [
+     "wat je beloning betreft",
+     "as to your reward"
+    ],
+    [
+     "genieten",
+     "to enjoy"
+    ],
+    [
+     "zoals we hebben afgesproken",
+     "as per our deal"
+    ],
+    [
+     "in te leveren",
+     "to hand over (inleveren)"
+    ],
+    [
+     "in ruil voor",
+     "in exchange for"
+    ],
+    [
+     "dank verschuldigd",
+     "owe a debt of gratitude"
+    ],
+    [
+     "terugbetalen",
+     "to repay"
+    ],
+    [
+     "pantser",
+     "armor"
+    ],
+    [
+     "beschermen",
+     "to protect"
+    ]
+   ]
+  },
+  "9000": {
+   "t": "Het beste voor het laatst",
+   "d": "Wat een geweldig verhaal, $N! Je hebt mijn dank, en de oprechte dankbaarheid van iedereen die erbij betrokken was. Nu kan ik 's nachts misschien slapen met allebei mijn ogen dicht.$B$BWat je beloning betreft: ik denk dat ik een paar dingen heb waar je echt van zult genieten.",
+   "o": "Geef Deliana je Beaststalker's Cap en Beaststalker's Tunic.",
+   "p": "Zoals we hebben afgesproken: ben je klaar om je Beaststalker-stukken in te leveren in ruil voor je nieuwe Beastmaster's Cap en Tunic?",
+   "c": "Ik ga je missen, $N. Ik ben je zo veel dank verschuldigd; ik denk dat ik dat nooit kan terugbetalen.$B$BIk hoop dat je geniet van je nieuwe pantser voor hoofd en borst, en dat het je nog lang zal beschermen.",
+   "g": [
+    [
+     "geweldig",
+     "amazing"
+    ],
+    [
+     "oprechte",
+     "heartfelt, sincere (oprecht)"
+    ],
+    [
+     "dankbaarheid",
+     "gratitude"
+    ],
+    [
+     "betrokken",
+     "involved"
+    ],
+    [
+     "allebei",
+     "both"
+    ],
+    [
+     "wat je beloning betreft",
+     "as to your reward"
+    ],
+    [
+     "genieten",
+     "to enjoy"
+    ],
+    [
+     "zoals we hebben afgesproken",
+     "as per our deal"
+    ],
+    [
+     "in te leveren",
+     "to hand over (inleveren)"
+    ],
+    [
+     "in ruil voor",
+     "in exchange for"
+    ],
+    [
+     "dank verschuldigd",
+     "owe a debt of gratitude"
+    ],
+    [
+     "terugbetalen",
+     "to repay"
+    ],
+    [
+     "pantser",
+     "armor"
+    ],
+    [
+     "beschermen",
+     "to protect"
+    ]
+   ]
+  },
+  "9001": {
+   "t": "Het beste voor het laatst",
+   "d": "Wat een geweldig verhaal, $N! Je hebt mijn dank, en de oprechte dankbaarheid van iedereen die erbij betrokken was. Nu kan ik 's nachts misschien slapen met allebei mijn ogen dicht.$B$BWat je beloning betreft: ik denk dat ik een paar dingen heb waar je echt van zult genieten.",
+   "o": "Geef Deliana je Magister's Crown en Magister's Robes.",
+   "p": "Zoals we hebben afgesproken: ben je klaar om je Magister's-stukken in te leveren in ruil voor je nieuwe Sorcerer's Crown en Robes?",
+   "c": "Ik ga je missen, $N. Ik ben je zo veel dank verschuldigd; ik denk dat ik dat nooit kan terugbetalen.$B$BIk hoop dat je geniet van je nieuwe pantser voor hoofd en borst, en dat het je nog lang zal beschermen.",
+   "g": [
+    [
+     "geweldig",
+     "amazing"
+    ],
+    [
+     "oprechte",
+     "heartfelt, sincere (oprecht)"
+    ],
+    [
+     "dankbaarheid",
+     "gratitude"
+    ],
+    [
+     "betrokken",
+     "involved"
+    ],
+    [
+     "allebei",
+     "both"
+    ],
+    [
+     "wat je beloning betreft",
+     "as to your reward"
+    ],
+    [
+     "genieten",
+     "to enjoy"
+    ],
+    [
+     "zoals we hebben afgesproken",
+     "as per our deal"
+    ],
+    [
+     "in te leveren",
+     "to hand over (inleveren)"
+    ],
+    [
+     "in ruil voor",
+     "in exchange for"
+    ],
+    [
+     "dank verschuldigd",
+     "owe a debt of gratitude"
+    ],
+    [
+     "terugbetalen",
+     "to repay"
+    ],
+    [
+     "pantser",
+     "armor"
+    ],
+    [
+     "beschermen",
+     "to protect"
+    ]
+   ]
+  },
+  "9002": {
+   "t": "Het beste voor het laatst",
+   "d": "Wat een geweldig verhaal, $N! Je hebt mijn dank, en de oprechte dankbaarheid van iedereen die erbij betrokken was. Nu kan ik 's nachts misschien slapen met allebei mijn ogen dicht.$B$BWat je beloning betreft: ik denk dat ik een paar dingen heb waar je echt van zult genieten.",
+   "o": "Geef Deliana je Lightforge Helm en Lightforge Breastplate.",
+   "p": "Zoals we hebben afgesproken: ben je klaar om je Lightforge-stukken in te leveren in ruil voor je nieuwe Soulforge Helmet en Breastplate?",
+   "c": "Ik ga je missen, $N. Ik ben je zo veel dank verschuldigd; ik denk dat ik dat nooit kan terugbetalen.$B$BIk hoop dat je geniet van je nieuwe pantser voor hoofd en borst, en dat het je nog lang zal beschermen.",
+   "g": [
+    [
+     "geweldig",
+     "amazing"
+    ],
+    [
+     "oprechte",
+     "heartfelt, sincere (oprecht)"
+    ],
+    [
+     "dankbaarheid",
+     "gratitude"
+    ],
+    [
+     "betrokken",
+     "involved"
+    ],
+    [
+     "allebei",
+     "both"
+    ],
+    [
+     "wat je beloning betreft",
+     "as to your reward"
+    ],
+    [
+     "genieten",
+     "to enjoy"
+    ],
+    [
+     "zoals we hebben afgesproken",
+     "as per our deal"
+    ],
+    [
+     "in te leveren",
+     "to hand over (inleveren)"
+    ],
+    [
+     "in ruil voor",
+     "in exchange for"
+    ],
+    [
+     "dank verschuldigd",
+     "owe a debt of gratitude"
+    ],
+    [
+     "terugbetalen",
+     "to repay"
+    ],
+    [
+     "pantser",
+     "armor"
+    ],
+    [
+     "beschermen",
+     "to protect"
+    ]
+   ]
+  },
+  "9003": {
+   "t": "Het beste voor het laatst",
+   "d": "Wat een geweldig verhaal, $N! Je hebt mijn dank, en de oprechte dankbaarheid van iedereen die erbij betrokken was. Nu kan ik 's nachts misschien slapen met allebei mijn ogen dicht.$B$BWat je beloning betreft: ik denk dat ik een paar dingen heb waar je echt van zult genieten.",
+   "o": "Geef Deliana je Devout Crown en Devout Robe.",
+   "p": "Zoals we hebben afgesproken: ben je klaar om je Devout-stukken in te leveren in ruil voor je nieuwe Virtuous Crown en Robe?",
+   "c": "Ik ga je missen, $N. Ik ben je zo veel dank verschuldigd; ik denk dat ik dat nooit kan terugbetalen.$B$BIk hoop dat je geniet van je nieuwe pantser voor hoofd en borst, en dat het je nog lang zal beschermen.",
+   "g": [
+    [
+     "geweldig",
+     "amazing"
+    ],
+    [
+     "oprechte",
+     "heartfelt, sincere (oprecht)"
+    ],
+    [
+     "dankbaarheid",
+     "gratitude"
+    ],
+    [
+     "betrokken",
+     "involved"
+    ],
+    [
+     "allebei",
+     "both"
+    ],
+    [
+     "wat je beloning betreft",
+     "as to your reward"
+    ],
+    [
+     "genieten",
+     "to enjoy"
+    ],
+    [
+     "zoals we hebben afgesproken",
+     "as per our deal"
+    ],
+    [
+     "in te leveren",
+     "to hand over (inleveren)"
+    ],
+    [
+     "in ruil voor",
+     "in exchange for"
+    ],
+    [
+     "dank verschuldigd",
+     "owe a debt of gratitude"
+    ],
+    [
+     "terugbetalen",
+     "to repay"
+    ],
+    [
+     "pantser",
+     "armor"
+    ],
+    [
+     "beschermen",
+     "to protect"
+    ]
+   ]
+  },
+  "9004": {
+   "t": "Het beste voor het laatst",
+   "d": "Wat een geweldig verhaal, $N! Je hebt mijn dank, en de oprechte dankbaarheid van iedereen die erbij betrokken was. Nu kan ik 's nachts misschien slapen met allebei mijn ogen dicht.$B$BWat je beloning betreft: ik denk dat ik een paar dingen heb waar je echt van zult genieten.",
+   "o": "Geef Deliana je Shadowcraft Cap en Shadowcraft Tunic.",
+   "p": "Zoals we hebben afgesproken: ben je klaar om je Shadowcraft-stukken in te leveren in ruil voor je nieuwe Darkmantle Cap en Tunic?",
+   "c": "Ik ga je missen, $N. Ik ben je zo veel dank verschuldigd; ik denk dat ik dat nooit kan terugbetalen.$B$BIk hoop dat je geniet van je nieuwe pantser voor hoofd en borst, en dat het je nog lang zal beschermen.",
+   "g": [
+    [
+     "geweldig",
+     "amazing"
+    ],
+    [
+     "oprechte",
+     "heartfelt, sincere (oprecht)"
+    ],
+    [
+     "dankbaarheid",
+     "gratitude"
+    ],
+    [
+     "betrokken",
+     "involved"
+    ],
+    [
+     "allebei",
+     "both"
+    ],
+    [
+     "wat je beloning betreft",
+     "as to your reward"
+    ],
+    [
+     "genieten",
+     "to enjoy"
+    ],
+    [
+     "zoals we hebben afgesproken",
+     "as per our deal"
+    ],
+    [
+     "in te leveren",
+     "to hand over (inleveren)"
+    ],
+    [
+     "in ruil voor",
+     "in exchange for"
+    ],
+    [
+     "dank verschuldigd",
+     "owe a debt of gratitude"
+    ],
+    [
+     "terugbetalen",
+     "to repay"
+    ],
+    [
+     "pantser",
+     "armor"
+    ],
+    [
+     "beschermen",
+     "to protect"
+    ]
+   ]
+  },
+  "9005": {
+   "t": "Het beste voor het laatst",
+   "d": "Wat een geweldig verhaal, $N! Je hebt mijn dank, en de oprechte dankbaarheid van iedereen die erbij betrokken was. Nu kan ik 's nachts misschien slapen met allebei mijn ogen dicht.$B$BWat je beloning betreft: ik denk dat ik een paar dingen heb waar je echt van zult genieten.",
+   "o": "Geef Deliana je Dreadmist Mask en Dreadmist Robe.",
+   "p": "Zoals we hebben afgesproken: ben je klaar om je Dreadmist-stukken in te leveren in ruil voor je nieuwe Deathmist Mask en Robe?",
+   "c": "Ik ga je missen, $N. Ik ben je zo veel dank verschuldigd; ik denk dat ik dat nooit kan terugbetalen.$B$BIk hoop dat je geniet van je nieuwe pantser voor hoofd en borst, en dat het je nog lang zal beschermen.",
+   "g": [
+    [
+     "geweldig",
+     "amazing"
+    ],
+    [
+     "oprechte",
+     "heartfelt, sincere (oprecht)"
+    ],
+    [
+     "dankbaarheid",
+     "gratitude"
+    ],
+    [
+     "betrokken",
+     "involved"
+    ],
+    [
+     "allebei",
+     "both"
+    ],
+    [
+     "wat je beloning betreft",
+     "as to your reward"
+    ],
+    [
+     "genieten",
+     "to enjoy"
+    ],
+    [
+     "zoals we hebben afgesproken",
+     "as per our deal"
+    ],
+    [
+     "in te leveren",
+     "to hand over (inleveren)"
+    ],
+    [
+     "in ruil voor",
+     "in exchange for"
+    ],
+    [
+     "dank verschuldigd",
+     "owe a debt of gratitude"
+    ],
+    [
+     "terugbetalen",
+     "to repay"
+    ],
+    [
+     "pantser",
+     "armor"
+    ],
+    [
+     "beschermen",
+     "to protect"
+    ]
+   ]
+  },
+  "9006": {
+   "t": "Het beste voor het laatst",
+   "d": "Wat een geweldig verhaal, $N! Je hebt mijn dank, en de oprechte dankbaarheid van iedereen die erbij betrokken was. Nu kan ik 's nachts misschien slapen met allebei mijn ogen dicht.$B$BWat je beloning betreft: ik denk dat ik een paar dingen heb waar je echt van zult genieten.",
+   "o": "Geef Deliana je Helm of Valor en Breastplate of Valor.",
+   "p": "Zoals we hebben afgesproken: ben je klaar om je Valor-stukken in te leveren in ruil voor je nieuwe Helm en Breastplate of Heroism?",
+   "c": "Ik ga je missen, $N. Ik ben je zo veel dank verschuldigd; ik denk dat ik dat nooit kan terugbetalen.$B$BIk hoop dat je geniet van je nieuwe pantser voor hoofd en borst, en dat het je nog lang zal beschermen.",
+   "g": [
+    [
+     "geweldig",
+     "amazing"
+    ],
+    [
+     "oprechte",
+     "heartfelt, sincere (oprecht)"
+    ],
+    [
+     "dankbaarheid",
+     "gratitude"
+    ],
+    [
+     "betrokken",
+     "involved"
+    ],
+    [
+     "allebei",
+     "both"
+    ],
+    [
+     "wat je beloning betreft",
+     "as to your reward"
+    ],
+    [
+     "genieten",
+     "to enjoy"
+    ],
+    [
+     "zoals we hebben afgesproken",
+     "as per our deal"
+    ],
+    [
+     "in te leveren",
+     "to hand over (inleveren)"
+    ],
+    [
+     "in ruil voor",
+     "in exchange for"
+    ],
+    [
+     "dank verschuldigd",
+     "owe a debt of gratitude"
+    ],
+    [
+     "terugbetalen",
+     "to repay"
+    ],
+    [
+     "pantser",
+     "armor"
+    ],
+    [
+     "beschermen",
+     "to protect"
+    ]
+   ]
+  },
+  "7028": {
+   "t": "Verwrongen kwaad",
+   "d": "De kristalgrotten van Terramok liggen in het westen, diep in Maraudon... Het is een oude plek met veel geschiedenis. En ik wil daar graag een stukje van in handen krijgen, $c. Achter de reusachtige deuren liggen relikwieën van de oude goden verborgen.$B$BAls je het verwrongen kwaad in Maraudon durft te trotseren, zorg ik ervoor dat het de moeite waard is. Verzamel de Theradric Crystal Carvings die je vindt, en breng ze naar mij.$B$BAls ik de beeldjes heb, kan ik ze... bestuderen. Deze krachten hebben te lang gerust...",
+   "o": "Verzamel 25 Theradric Crystal Carvings voor Willow in Desolace.",
+   "p": "Stel geen vragen!$B$BJe kent mijn verzoek.",
+   "c": "Ha ha ha! Ik wist dat je terug zou komen.$B$B<Willow mompelt.>$B$B...Zo makkelijk over te halen.$B$B...Doet alles voor de juiste prijs. He he he...",
+   "g": [
+    [
+     "kristalgrotten",
+     "crystal caverns (kristalgrot)"
+    ],
+    [
+     "in handen krijgen",
+     "get one's hands on"
+    ],
+    [
+     "reusachtige",
+     "giant (reusachtig)"
+    ],
+    [
+     "relikwieën",
+     "relics (relikwie)"
+    ],
+    [
+     "verborgen",
+     "hidden (verbergen)"
+    ],
+    [
+     "verwrongen",
+     "twisted"
+    ],
+    [
+     "trotseren",
+     "to brave, defy"
+    ],
+    [
+     "de moeite waard",
+     "worth it, worth the time"
+    ],
+    [
+     "beeldjes",
+     "carvings, figurines (beeldje)"
+    ],
+    [
+     "bestuderen",
+     "to study"
+    ],
+    [
+     "gerust",
+     "rested (rusten)"
+    ],
+    [
+     "verzoek",
+     "request"
+    ],
+    [
+     "mompelt",
+     "mutters (mompelen)"
+    ],
+    [
+     "over te halen",
+     "to convince (overhalen)"
+    ]
+   ]
+  },
+  "7041": {
+   "t": "Het verderf van Vyletongue",
+   "d": "Een sater die Vyletongue heet, heeft de grotten van Maraudon verdorven. Daardoor groeien veel planten daarbinnen niet goed meer.$B$BNeem dit flesje, $N. Vul het bij de verdorven oranje poel in de grotten. De laag aan de binnenkant van het flesje gaat de gifstoffen tegen en maakt er een geneesmiddel van.$B$BZoek de Vylestem Vines in de oranje grotten en gebruik de gezuiverde vloeistof op ze. Het verderf wordt dan uit de plant verdreven, maar weet dat Vyletongue de plant nog steeds in zijn macht heeft. Hij kan hem tegen je gebruiken...",
+   "o": "Vul de Coated Cerulean Vial bij de oranje kristalpoel in Maraudon.$B$BGebruik de Filled Cerulean Vial op de Vylestem Vines om de verdorven Noxxious Scion naar buiten te dwingen.$B$BGenees 8 planten door deze Noxxious Scion te doden, en ga dan terug naar Talendria in Nijel's Point.",
+   "p": "Als je de plant kunt genezen, gaat hij weer groeien. We moeten doen wat we kunnen, $N...",
+   "c": "Bedankt dat je dit terugbrengt, $N. Met de overgebleven vloeistof die je hebt meegebracht, kan ik verder met mijn onderzoek.$b$bEr is nog veel te doen, maar je hebt een deel van het verderf genezen dat Vyletongue door Maraudon heeft verspreid. Neem dit alsjeblieft aan, met mijn dank.",
+   "o1": "Vylestem Vines genezen",
+   "g": [
+    [
+     "sater",
+     "satyr"
+    ],
+    [
+     "verdorven",
+     "corrupted (verderven)"
+    ],
+    [
+     "flesje",
+     "vial, small bottle (fles)"
+    ],
+    [
+     "poel",
+     "pool"
+    ],
+    [
+     "laag",
+     "coating, layer"
+    ],
+    [
+     "gaat de gifstoffen tegen",
+     "counters the toxins (tegengaan)"
+    ],
+    [
+     "geneesmiddel",
+     "healing agent, medicine"
+    ],
+    [
+     "gezuiverde",
+     "purified (zuiveren)"
+    ],
+    [
+     "vloeistof",
+     "liquid"
+    ],
+    [
+     "verderf",
+     "corruption"
+    ],
+    [
+     "verdreven",
+     "driven out, purged (verdrijven)"
+    ],
+    [
+     "in zijn macht",
+     "in his power, under his control"
+    ],
+    [
+     "dwingen",
+     "to force"
+    ],
+    [
+     "overgebleven",
+     "remaining (overblijven)"
+    ],
+    [
+     "verspreid",
+     "spread (verspreiden)"
+    ]
+   ]
+  },
+  "7067": {
+   "t": "De instructies van de paria",
+   "d": "Ik ben verbannen als ketter, maar mijn geloof is nog altijd waar. Dat alleen drijft me voort. Maar om mijn lot te vervullen, heb ik de hulp nodig van een buitenstaander... iemand die bij geen enkele centaurenstam hoort.$B$BVoor deze taak moet iemand de heilige zalen van Maraudon betreden. Het is een graftombe die mijn volk beschermt, en alleen de meest vromen mogen er ooit naar binnen.$B$BAls je me wilt helpen, hoef je alleen maar te knikken. Dan geef ik je een perkament met mijn instructies. Lees het door en denk na over mijn woorden.",
+   "o": "Lees de Pariah's Instructions. Haal daarna de Amulet of Union uit Maraudon en breng hem naar de Centaur Pariah in het zuiden van Desolace.",
+   "p": "Wat heb je besloten, $N? Kun je me helpen? Zet je voet op heilige grond om me te helpen één grote centaurenstam te smeden!?",
+   "c": "Dit is het, $r! Dit is het! Nu kan ik beginnen aan de grote taak om de stammen te verenigen. Dank je.$B$BNeem dit alsjeblieft voor je moeite. Ik hoop dat we elkaar de volgende keer onder heel andere omstandigheden ontmoeten.",
+   "g": [
+    [
+     "paria",
+     "pariah, outcast"
+    ],
+    [
+     "verbannen",
+     "exiled (verbannen)"
+    ],
+    [
+     "ketter",
+     "heretic"
+    ],
+    [
+     "drijft me voort",
+     "drives me onward (voortdrijven)"
+    ],
+    [
+     "lot",
+     "destiny, fate"
+    ],
+    [
+     "vervullen",
+     "to fulfil, complete"
+    ],
+    [
+     "buitenstaander",
+     "outsider"
+    ],
+    [
+     "centaurenstam",
+     "centaur tribe"
+    ],
+    [
+     "betreden",
+     "to enter, set foot in"
+    ],
+    [
+     "graftombe",
+     "tomb"
+    ],
+    [
+     "vromen",
+     "the devout (vroom)"
+    ],
+    [
+     "knikken",
+     "to nod"
+    ],
+    [
+     "perkament",
+     "parchment"
+    ],
+    [
+     "smeden",
+     "to forge"
+    ],
+    [
+     "omstandigheden",
+     "circumstances, terms (omstandigheid)"
+    ]
+   ]
+  },
+  "7044": {
+   "t": "Legenden van Maraudon",
+   "d": "Een duistere sater die Lord Vyletongue heet, heeft zijn kwaad door deze kronkelende grotten verspreid. Hij heeft de geest van iedereen hier vergiftigd. Hij woont nog altijd achter de paarse kristallen.$B$BVyletongue heeft ook een levend symbool van zijn verderf gemaakt: Noxxion, dat achter de oranje kristallen leeft. Samen hebben ze de twee delen van de scepter van mijn broer gestolen. Celebras, mijn broer... hij dwaalt blind rond daarbinnen, vervloekt door het verderf.$B$BJe moet hem helpen! Vind de stukken, en praat met mijn broer... op de een of andere manier.",
+   "o": "Haal de twee delen van de Scepter of Celebras terug: de Celebrian Rod en de Celebrian Diamond.$B$BVind een manier om met Celebras te praten.",
+   "p": "Ik ben ontwaakt uit een nachtmerrie die nooit leek te eindigen...",
+   "c": "Nu je de twee delen van mijn scepter hebt teruggevonden, heb ik hoop dat Maraudon op een dag bevrijd wordt van het verderf van Vyle.",
+   "g": [
+    [
+     "duistere",
+     "dark (duister)"
+    ],
+    [
+     "kronkelende",
+     "twisting (kronkelen)"
+    ],
+    [
+     "vergiftigd",
+     "poisoned (vergiftigen)"
+    ],
+    [
+     "kristallen",
+     "crystals (kristal)"
+    ],
+    [
+     "verderf",
+     "corruption"
+    ],
+    [
+     "scepter",
+     "scepter"
+    ],
+    [
+     "dwaalt blind rond",
+     "wanders blindly (rondwalen)"
+    ],
+    [
+     "vervloekt",
+     "cursed (vervloeken)"
+    ],
+    [
+     "op de een of andere manier",
+     "somehow"
+    ],
+    [
+     "ontwaakt",
+     "awoken (ontwaken)"
+    ],
+    [
+     "nachtmerrie",
+     "nightmare"
+    ],
+    [
+     "teruggevonden",
+     "recovered, found again (terugvinden)"
+    ],
+    [
+     "bevrijd",
+     "freed, rid of (bevrijden)"
+    ]
+   ]
+  },
+  "7046": {
+   "t": "De scepter van Celebras",
+   "d": "Mijn scepter was ooit een bron van hoop voor mij. Met zijn kracht kon ik snel door deze grotten reizen. Ik hoopte de geest van mijn oom vrede te brengen... Die taak geef ik nu aan jou.$B$BOm de twee delen weer één te laten worden, heb ik je hulp nodig bij het ritueel. Volg me alsjeblieft, en luister naar mijn aanwijzingen terwijl ik de energie kanaliseer die nodig is om de staf weer met de diamant te verenigen.$B$BSamen maken we de Scepter of Celebras opnieuw!",
+   "o": "Help Celebras the Redeemed terwijl hij de Scepter of Celebras maakt.$B$BPraat met hem als het ritueel klaar is.",
+   "p": "Als je het ritueel opnieuw wilt beginnen, breek dan onze eerste poging af en praat daarna weer met me.",
+   "c": "Neem dit alsjeblieft aan, en weet dat de kracht die je nu hebt gekregen voor het goede gebruikt moet worden. Zet je reis door de grotten voort, en met wat hoop vind je de resten van mijn oom. Er wacht je veel gevaar, $N.$B$BPraat weer met me als het nodig is.",
+   "e": "Maak de Scepter of Celebras",
+   "g": [
+    [
+     "bron",
+     "source"
+    ],
+    [
+     "oom",
+     "uncle"
+    ],
+    [
+     "ritueel",
+     "ritual"
+    ],
+    [
+     "aanwijzingen",
+     "instructions (aanwijzing)"
+    ],
+    [
+     "kanaliseer",
+     "channel (kanaliseren)"
+    ],
+    [
+     "staf",
+     "rod, staff"
+    ],
+    [
+     "verenigen",
+     "to reunite, unite"
+    ],
+    [
+     "poging",
+     "attempt"
+    ],
+    [
+     "voort",
+     "onward (voortzetten = continue)"
+    ],
+    [
+     "resten",
+     "remains (rest)"
+    ],
+    [
+     "gevaar",
+     "danger"
+    ]
+   ]
+  },
+  "7065": {
+   "t": "Verderf van aarde en zaad",
+   "d": "In de diepten van Maraudon leeft een wezen van chaos en kwaad, $N. Princess Theradras is een elementaire kracht van aarde, die op de een of andere manier verwant is aan de Oude Goden. Lang geleden zocht Zaetar haar op, de eerste zoon van Cenarius. De nakomelingen van hun... relatie zijn de wezens die we centauren noemen. Altijd zo dankbaar, die centauren: ze doodden Zaetar, en nu bewaart Theradras zijn stoffelijk overschot. Mijn taak hier is om anderen te vinden die machtig genoeg zijn om Theradras te verslaan, zodat we de resten van Zaetar kunnen terughalen voordat we naar Stonetalon teruggaan.",
+   "o": "Dood Princess Theradras en ga terug naar Keeper Marandis bij Nijel's Point in Desolace.",
+   "p": "Ik voel het gewicht ervan dat ik de sterfelijke rassen om hulp smeek, maar we hebben geen andere keus. De rassen van Azeroth hebben zonder twijfel bewezen dat ze zulke dingen kunnen overwinnen als ze samenwerken. Daarom vraag ik hen om hulp.$B$BIk hoop alleen dat het genoeg is.$B$BZaetar, de broer van Remulos, heeft veel leed over deze wereld gebracht, en uiteindelijk leidde dat tot zijn eigen dood. Daar zit een les in voor ons allemaal, als we wijs genoeg zijn om die te zien.",
+   "c": "Dit is werkelijk prachtig nieuws, $N! Dank je!$B$BHet zit me wel dwars dat je de resten van Zaetar niet hebt kunnen terugbrengen, maar wie ben ik om de wil van de eerstgeborene van Cenarius in twijfel te trekken? Misschien breekt nu de wil van de centauren en wordt hun bloeddorst minder. We kunnen alleen maar hopen.$B$BAls onze missie zou slagen, kreeg ik deze voorwerpen om iedereen te belonen die ons hielp. Je mag er één kiezen als blijk van dank.",
+   "g": [
+    [
+     "diepten",
+     "depths (diepte)"
+    ],
+    [
+     "elementaire",
+     "elemental"
+    ],
+    [
+     "verwant",
+     "related"
+    ],
+    [
+     "nakomelingen",
+     "offspring (nakomeling)"
+    ],
+    [
+     "stoffelijk overschot",
+     "remains (of a body)"
+    ],
+    [
+     "verslaan",
+     "to defeat, slay"
+    ],
+    [
+     "sterfelijke",
+     "mortal (sterfelijk)"
+    ],
+    [
+     "smeek",
+     "beg, plead (smeken)"
+    ],
+    [
+     "overwinnen",
+     "to overcome"
+    ],
+    [
+     "leed",
+     "suffering, pain"
+    ],
+    [
+     "uiteindelijk",
+     "ultimately, in the end"
+    ],
+    [
+     "zit me wel dwars",
+     "it does concern me (dwarszitten)"
+    ],
+    [
+     "eerstgeborene",
+     "first born"
+    ],
+    [
+     "in twijfel te trekken",
+     "to question (in twijfel trekken)"
+    ],
+    [
+     "bloeddorst",
+     "thirst for blood"
+    ],
+    [
+     "blijk van dank",
+     "token of thanks"
+    ]
+   ]
+  },
+  "7066": {
+   "t": "Zaad van het leven",
+   "d": "De mislukte centauren, mijn zonen en dochters, hebben hun vader nodig.$B$BKijk om je heen. Deze plek ademt hoop en alles wat mijn vader Cenarius predikt. Het is uit mij gegroeid! En dat kan ik hun niet afnemen... zelfs niet voor hun misdaden tegen mij.$B$BMaar ik wil je één ding vragen om mijn broer gerust te stellen. Neem dit... het is het eerste zaadje dat viel uit het leven dat mijn resten hebben gevoed. Zeg hem dat mijn geest hier blijft, en dat ik verder leef. Ik weet zeker dat hij het zal begrijpen.",
+   "o": "Zoek Remulos op in Moonglade en geef hem de Seed of Life.",
+   "p": "Je ruikt naar verderf, $N... net als veel avonturiers tegenwoordig. Maar er is iets anders aan jou. Is er iets waarover je met me wilt praten? Je hebt een uitstraling die me bekend voorkomt, maar ik weet niet waarvan.$B$BIk smeek je, vertel me waarom je mij wilde spreken.",
+   "c": "Dus mijn broer heeft eindelijk vrede gevonden? Ik ben trots dat ik deze dag nog heb mogen meemaken. Hij was zo arrogant en boos dat ik echt dacht dat we hem kwijt waren, maar dit... dit symbool van zijn offer bewijst dat hij niet verloren is. Hij is alleen herboren. Hij neemt zijn plaats in de natuur in, zoals zijn plicht was.$B$BDank je, $N. Door dit naar mij te brengen, heb je een beetje hoop veiliggesteld die ik dacht ooit verloren te hebben. Dit zaad zal ooit belangrijk zijn voor het volk van dit door oorlog verscheurde land... dat voel ik.",
+   "g": [
+    [
+     "mislukte",
+     "misbegotten, failed (mislukt)"
+    ],
+    [
+     "ademt",
+     "breathes, rings of (ademen)"
+    ],
+    [
+     "predikt",
+     "preaches (prediken)"
+    ],
+    [
+     "afnemen",
+     "to take away"
+    ],
+    [
+     "misdaden",
+     "crimes (misdaad)"
+    ],
+    [
+     "gerust te stellen",
+     "to ease the mind (geruststellen)"
+    ],
+    [
+     "gevoed",
+     "nourished (voeden)"
+    ],
+    [
+     "uitstraling",
+     "aura"
+    ],
+    [
+     "bekend voorkomt",
+     "seems familiar (bekend voorkomen)"
+    ],
+    [
+     "smeek",
+     "beg, implore (smeken)"
+    ],
+    [
+     "meemaken",
+     "to live to see, experience"
+    ],
+    [
+     "offer",
+     "sacrifice"
+    ],
+    [
+     "herboren",
+     "reborn"
+    ],
+    [
+     "plicht",
+     "duty"
+    ],
+    [
+     "veiliggesteld",
+     "secured (veiligstellen)"
+    ],
+    [
+     "verscheurde",
+     "torn (verscheuren)"
+    ]
+   ]
+  },
+  "2278": {
+   "t": "De platina schijven",
+   "d": "Het middelpunt van deze schatkamer zijn vier enorme platina schijven. Op elke schijf staan veel tekens van onbekende herkomst. Als je ze aanraakt, tintelt je hand. Vlak nadat je de schijven hebt aangeraakt, verschijnt de gedaante van een grote stenen wachter.$B$B\"Gegroet. Ik ben een bewaarder van kennis. Hoe de Makers de Earthen hebben gemaakt, is hier vastgelegd en bewaard voor deze wereld, in de Discs of Norgannon.\"$B$BJe hebt een schat aan wereldkennis ontdekt die nog nooit eerder gevonden was!",
+   "o": "Praat met de stone watcher en ontdek welke oude kennis hij bewaart. Als je hebt geleerd wat hij te bieden heeft, activeer dan de Discs of Norgannon.",
+   "p": "De stem van de stenen wachter lijkt diep in je binnenste te weerklinken:$B$B\"Je moet eerst voldoen aan de vereiste voor gegevensopname van de Discs of Norgannon. Als je aan deze eis hebt voldaan, mag je een draagbare versie van de opgeslagen gegevens krijgen. Zorg ervoor dat je eerst alle informatie in dit archief volledig hebt verkend.\"",
+   "c": "Je volgt de aanwijzingen van de stenen wachter op. Nu je over de geschiedenis van de Earthen, de troggs en de dwergen hebt geleerd, gebruik je de Discs of Norgannon opnieuw. Er klinkt een zacht, kort gezoem uit de schijven. Dan spreekt de stenen wachter:$B$B\"De schijven zijn nu samengesteld. Gebruik de Discs of Norgannon nog één keer om je persoonlijke exemplaar te ontvangen.\"",
+   "e": "Ontdek welke kennis de stone watcher te bieden heeft",
+   "g": [
+    [
+     "middelpunt",
+     "centerpiece"
+    ],
+    [
+     "schatkamer",
+     "treasure chamber"
+    ],
+    [
+     "platina",
+     "platinum"
+    ],
+    [
+     "herkomst",
+     "origin"
+    ],
+    [
+     "tintelt",
+     "tingles (tintelen)"
+    ],
+    [
+     "gedaante",
+     "visage, figure"
+    ],
+    [
+     "wachter",
+     "watcher, guard"
+    ],
+    [
+     "gegroet",
+     "greetings, salutations"
+    ],
+    [
+     "vastgelegd",
+     "recorded, chronicled (vastleggen)"
+    ],
+    [
+     "binnenste",
+     "inner being, inside"
+    ],
+    [
+     "weerklinken",
+     "to resonate, echo"
+    ],
+    [
+     "voldoen aan",
+     "to satisfy, meet (a requirement)"
+    ],
+    [
+     "gegevensopname",
+     "data assimilation"
+    ],
+    [
+     "draagbare",
+     "portable (draagbaar)"
+    ],
+    [
+     "gezoem",
+     "hum, humming"
+    ]
+   ]
+  },
+  "2279": {
+   "t": "De platina schijven",
+   "d": "Als je de Discs of Norgannon nog eens aanraakt, tintelt je hand weer. Maar deze keer hoor je een vreemd schurend geluid binnen in de schijven.$B$BOpeens wordt je rugzak zwaarder dan eerst. Daarin vind je een kleine versie van de schijven!$B$BZo'n voorwerp is ongetwijfeld van onschatbare waarde voor iemand die interesse heeft in de oude geschiedenis van Azeroth. De Explorers' League in Ironforge is zo'n groep, bekend in de hele Alliance; misschien kunnen zij het goed gebruiken.",
+   "o": "Breng de kleine versie van de Discs of Norgannon naar de Explorers' League in Ironforge.",
+   "p": "Ja, kan ik je ergens mee helpen? Ik verzeker je dat ik het op dit moment erg druk heb. Maar als het van groot belang is voor de Explorers' League, dan ben ik een en al oor!",
+   "c": "Wat heb je daar... o, mijn hemel. Waar heb je dit gevonden?$B$BNee, echt waar?$B$BJe hebt met wie gesproken, waarover?$B$BNEE, ECHT WAAR?!$B$BBeste $C, misschien heb je net de archeologische vondst van het jaar gedaan! Bij de goden, wie hou ik voor de gek: de vondst van de eeuw! Als deze schijven zijn wat ik denk, dan kunnen ze precies de sleutel zijn waar we naar zoeken! Ze kunnen misschien eens en voor altijd bewijzen dat de magische schepping van de dwergen echt is!",
+   "g": [
+    [
+     "schurend",
+     "grinding (schuren)"
+    ],
+    [
+     "rugzak",
+     "backpack"
+    ],
+    [
+     "opeens",
+     "suddenly"
+    ],
+    [
+     "ongetwijfeld",
+     "no doubt"
+    ],
+    [
+     "onschatbare waarde",
+     "invaluable worth"
+    ],
+    [
+     "verzeker",
+     "assure (verzekeren)"
+    ],
+    [
+     "van groot belang",
+     "of great importance"
+    ],
+    [
+     "een en al oor",
+     "all ears"
+    ],
+    [
+     "archeologische",
+     "archaeological"
+    ],
+    [
+     "vondst",
+     "find, discovery"
+    ],
+    [
+     "wie hou ik voor de gek",
+     "who am I kidding (voor de gek houden)"
+    ],
+    [
+     "eeuw",
+     "century"
+    ],
+    [
+     "eens en voor altijd",
+     "once and for all"
+    ],
+    [
+     "schepping",
+     "creation"
+    ]
+   ]
+  },
+  "3661": {
+   "t": "Uitverkoren door Elune?",
+   "d": "Wildkin zijn heel onvoorspelbare wezens, $N. Ze kunnen ongelooflijk zachtaardig zijn, maar ze worden enorm woest als iets wat zij belangrijk vinden in gevaar is.$B$BEr gaan geruchten dat deze beesten door Elune zijn geschapen, en ik wil graag uitzoeken of dat echt waar is.$B$BOnlangs hoorde ik over een groep wildkin die in de Hinterlands leeft: Vicious, Primitive en Savage Owlbeasts. Je kunt ze vinden tussen de dieren daar. Wil je wat veren van wildkin voor me verzamelen?",
+   "o": "Verzamel 15 Wildkin Feathers uit de Hinterlands voor Erelas Ambersky in Rut'theran Village.",
+   "p": "Probeer ze te ontwijken als het kan, $N. De wildkin kunnen je interesse verkeerd opvatten, alsof je ze kwaad wilt doen...",
+   "c": "Bedankt dat je deze naar me hebt gebracht, $N.$B$BWat heb je over de wildkin geleerd?$B$BMisschien vertellen deze veren ons meer. Woeste monsters, of gewoon misleide huisdieren? Ik wil op een dag de waarheid weten...$B$BIk ga verder met mijn onderzoek. Kom alsjeblieft na een tijdje terug om weer met me te praten.",
+   "g": [
+    [
+     "uitverkoren",
+     "favored, chosen"
+    ],
+    [
+     "onvoorspelbare",
+     "unpredictable (onvoorspelbaar)"
+    ],
+    [
+     "zachtaardig",
+     "gentle"
+    ],
+    [
+     "woest",
+     "ferocious, wild"
+    ],
+    [
+     "in gevaar",
+     "in danger, threatened"
+    ],
+    [
+     "geruchten",
+     "rumors (gerucht)"
+    ],
+    [
+     "geschapen",
+     "created (scheppen)"
+    ],
+    [
+     "uitzoeken",
+     "to find out"
+    ],
+    [
+     "onlangs",
+     "recently"
+    ],
+    [
+     "veren",
+     "feathers (veer)"
+    ],
+    [
+     "ontwijken",
+     "to avoid"
+    ],
+    [
+     "verkeerd opvatten",
+     "to misread"
+    ],
+    [
+     "misleide",
+     "misguided (misleid)"
+    ],
+    [
+     "onderzoek",
+     "research"
+    ]
+   ]
+  },
+  "978": {
+   "t": "Door de maan aangeraakte wildkin",
+   "d": "Veren van wildkin uit de Hinterlands lijken sporen van magische eigenschappen te bevatten. Deze krachten... ze lijken niet door de wezens gebruikt te worden. Het is meer alsof ze gewoon aangeboren zijn bij de soort, een deel van hun diepste wezen.$B$BTijdens mijn onderzoek hoorde ik dat een grote groep wildkin in de besneeuwde landen van Winterspring woont. Zouden deze wezens dezelfde krachten hebben? Help me alsjeblieft een antwoord te vinden, $N. Ga naar Winterspring en verzamel veren die op de grond zijn gevallen, en kom dan terug bij mij.",
+   "o": "Verzamel 10 Moontouched Feathers in Winterspring en ga dan terug naar Erelas Ambersky in Rut'theran Village.",
+   "p": "Waar zouden deze krachten vandaan kunnen komen? Ik denk dat we op het goede spoor zitten om het antwoord te vinden, $N.",
+   "c": "Nu kan ik de veren vergelijken... Eens kijken...",
+   "g": [
+    [
+     "aangeraakte",
+     "touched (aanraken)"
+    ],
+    [
+     "sporen",
+     "traces (spoor)"
+    ],
+    [
+     "eigenschappen",
+     "qualities, properties (eigenschap)"
+    ],
+    [
+     "bevatten",
+     "to contain"
+    ],
+    [
+     "aangeboren",
+     "inherent, innate"
+    ],
+    [
+     "soort",
+     "species, kind"
+    ],
+    [
+     "wezen",
+     "essence, being"
+    ],
+    [
+     "besneeuwde",
+     "snowy (besneeuwd)"
+    ],
+    [
+     "op het goede spoor",
+     "on the right track"
+    ],
+    [
+     "vergelijken",
+     "to compare"
+    ],
+    [
+     "eens kijken",
+     "let's see"
+    ]
+   ]
+  },
+  "5250": {
+   "t": "Starfall",
+   "d": "In Winterspring, ten noorden van Felwood, liggen veel oude elfenruïnes. Het is een ruw land, maar het bevat veel geheimen en plekken om te verkennen.$B$BMijn studie hier houdt me zo bezig dat ik al een tijd niet de kans heb gehad om naar Winterspring te reizen. Maar er is geen reden waarom jij er niet heen zou gaan om de ruïnes te bestuderen.$B$BKijk daar uit naar Wynd Nightchaser. Hij is meestal in Starfall en weet veel over de omgeving.$B$BZeg hem dat je een leerling van mij bent...",
+   "o": "Vind Starfall in Winterspring en praat met Wynd Nightchaser.",
+   "c": "Een leerling van Daryn Lightwind? Leuk je te ontmoeten, $N.",
+   "g": [
+    [
+     "ten noorden van",
+     "to the north of"
+    ],
+    [
+     "elfenruïnes",
+     "elven ruins"
+    ],
+    [
+     "ruw",
+     "harsh, rough"
+    ],
+    [
+     "geheimen",
+     "secrets (geheim)"
+    ],
+    [
+     "verkennen",
+     "to explore"
+    ],
+    [
+     "houdt me zo bezig",
+     "keeps me so busy (bezighouden)"
+    ],
+    [
+     "kans",
+     "opportunity, chance"
+    ],
+    [
+     "bestuderen",
+     "to study"
+    ],
+    [
+     "kijk daar uit naar",
+     "look out for there (uitkijken naar)"
+    ],
+    [
+     "omgeving",
+     "area, surroundings"
+    ],
+    [
+     "leerling",
+     "student, pupil"
+    ]
+   ]
+  },
+  "979": {
+   "t": "Zoek Ranshalla",
+   "d": "Ja, ja, deze veren lijken dezelfde magische betovering te hebben die ik eerder opmerkte... Ik weet niet zeker wat we zullen vinden, maar ik dring erop aan dat je blijft zoeken naar antwoorden, $N.$B$BEen collega van mij is onlangs naar Winterspring gereisd om de wildkin daar in hun eigen leefgebied te bekijken. Waarom haal je haar niet in om te zien wat zij heeft ontdekt?",
+   "o": "Vind Ranshalla in het oosten van Winterspring.",
+   "c": "Hoi! Heeft Erelas je gestuurd? Mooi, ik wilde net omhoog naar de grotten reizen, en ik vind wat gezelschap niet erg.",
+   "g": [
+    [
+     "betovering",
+     "enchantment"
+    ],
+    [
+     "opmerkte",
+     "noticed (opmerken)"
+    ],
+    [
+     "dring erop aan",
+     "urge (aandringen)"
+    ],
+    [
+     "collega",
+     "colleague"
+    ],
+    [
+     "onlangs",
+     "recently"
+    ],
+    [
+     "leefgebied",
+     "habitat"
+    ],
+    [
+     "haal je haar niet in",
+     "don't you catch up with her (inhalen)"
+    ],
+    [
+     "gezelschap",
+     "company"
+    ],
+    [
+     "niet erg",
+     "don't mind (niet erg vinden)"
+    ]
+   ]
+  },
+  "3182": {
+   "t": "Bewijs van je daad",
+   "d": "Verwacht je dat ik zo'n verhaal geloof? In de echte hoorn zou mijn gebroken bijlkop nog vastzitten.$B$BLuister, breng die duidelijke namaak naar Curator Thorius in Ironforge. Als hij je bewering kan bevestigen, krijg je een bewijs van je daad. Breng dat bewijs terug naar mij, dan geef ik je de sleutel van de Searing Gorge.$B$BVooruit, ga!",
+   "o": "Breng Margol's Gigantic Horn naar Curator Thorius in Ironforge.",
+   "p": "Wel, hallo daar, $g jongeman:jongedame;. Wil je een rondleiding door het museum?",
+   "c": "Wat is dit?$B$BO, ik kan het niet geloven! Besef je wel wat je hier hebt, $r? Dit is de hoorn van Margol the Rager! Margol, de vloek van elke archeoloog die ooit een voet in de Searing Gorge heeft gezet.$B$BMag ik hem houden?$b",
+   "g": [
+    [
+     "daad",
+     "deed"
+    ],
+    [
+     "verwacht",
+     "expect (verwachten)"
+    ],
+    [
+     "hoorn",
+     "horn"
+    ],
+    [
+     "bijlkop",
+     "axe head"
+    ],
+    [
+     "vastzitten",
+     "to be lodged, stuck"
+    ],
+    [
+     "namaak",
+     "fake"
+    ],
+    [
+     "bewering",
+     "claim"
+    ],
+    [
+     "bevestigen",
+     "to validate, confirm"
+    ],
+    [
+     "vooruit",
+     "get going, come on"
+    ],
+    [
+     "rondleiding",
+     "tour"
+    ],
+    [
+     "besef",
+     "realize (beseffen)"
+    ],
+    [
+     "vloek",
+     "bane, curse"
+    ],
+    [
+     "archeoloog",
+     "archaeologist"
+    ]
+   ]
+  }
+ },
+ "words": {
+  "dochters": "daughters (dochter)",
+  "kristalpoel": "crystal pool",
+  "lightforge-stukken": "Lightforge pieces (stuk)",
+  "makers": "Creators, makers (maker)",
+  "samengesteld": "synthesized, put together (samenstellen)",
+  "vereiste": "requirement, prerequisite",
+  "wereldkennis": "worldly lore, knowledge of the world"
+ },
+ "terms": {
+  "wildkin": "wildkin: owl-like creatures from the Warcraft world, said to be created by Elune"
+ }
+}
