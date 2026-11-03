@@ -138,20 +138,16 @@ Then attach `captured.json` to a *Missing quest* report. If Forever changes the 
 
 ## 5. What's translated
 
-| Batch | Quests | Status |
-|---|---|---|
-| Coldridge Valley | 13 | ✅ |
-| Dun Morogh | 31 | ✅ |
-| Dwarf class runes (level 1) | 5 | ✅ |
-| Northshire + Elwynn Forest | 48 | |
-| Shadowglen + Teldrassil (first part) | 29 | ✅ |
-| Teldrassil (rest) + Darnassus | | next |
-| Alliance class quests up to level 10 | 102 | |
-| Dungeons, levels 10–60 (Alliance) | 214 | |
-| Attunements (Molten Core, Onyxia, Blackwing Lair, Upper Blackrock Spire, Scholomance, Blackrock Depths key) | 31 | |
-| Cozy Sleeping Bag (Forever) | — | after launch, via capture |
+More than 4,200 quests are translated.
 
-`tools/roadmap_v1.json` lists every quest ID in each batch.
+| Content | Status |
+|---|---|
+| All Alliance quests in Classic Era | ✅ Done |
+| All Horde quests in Classic Era | ✅ Done |
+| Forever: new leveling quests | Planned, added after launch |
+| Forever: attunement quests | Planned, added after launch |
+| Forever: PvP quests | Planned, added after launch |
+| Forever: profession quests | Planned, added after launch |
 
 ---
 

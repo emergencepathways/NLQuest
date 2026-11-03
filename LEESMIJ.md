@@ -138,20 +138,16 @@ Voeg `captured.json` dan toe aan een melding *Missing quest*. Verandert Forever 
 
 ## 5. Wat is er vertaald?
 
-| Ronde | Quests | Status |
-|---|---|---|
-| Coldridge Valley | 13 | ✅ |
-| Dun Morogh | 31 | ✅ |
-| Runen van de klassentrainers voor dwergen (level 1) | 5 | ✅ |
-| Northshire + Elwynn Forest | 48 | |
-| Shadowglen + Teldrassil (eerste deel) | 29 | ✅ |
-| Teldrassil (rest) + Darnassus | | volgende |
-| Klassenquests van de Alliance tot level 10 | 102 | |
-| Kerkers, level 10–60 (Alliance) | 214 | |
-| Attunements (Molten Core, Onyxia, Blackwing Lair, Upper Blackrock Spire, Scholomance, sleutel van Blackrock Depths) | 31 | |
-| Cozy Sleeping Bag (Forever) | — | na de lancering, via capture |
+Er zijn meer dan 4.200 quests vertaald.
 
-In `tools/roadmap_v1.json` staat elk quest-ID per ronde.
+| Inhoud | Status |
+|---|---|
+| Alle Alliance-quests in Classic Era | ✅ Klaar |
+| Alle Horde-quests in Classic Era | ✅ Klaar |
+| Forever: nieuwe levelquests | Gepland, komt na de lancering |
+| Forever: attunementquests | Gepland, komt na de lancering |
+| Forever: PvP-quests | Gepland, komt na de lancering |
+| Forever: beroepsquests | Gepland, komt na de lancering |
 
 ---
 
