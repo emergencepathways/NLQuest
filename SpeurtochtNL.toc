@@ -61,6 +61,7 @@ Data\Batch_110_Tirisfal_Glades.lua
 Data\Batch_111_Mulgore.lua
 Data\Batch_112_Orgrimmar.lua
 Data\Batch_39_Uldaman_6_Voorquests.lua
+Data\Batch_113_Orgrimmar.lua
 
 Display.lua
 Reader.lua
