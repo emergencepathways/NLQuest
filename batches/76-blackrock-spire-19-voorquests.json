@@ -1,0 +1,1598 @@
+{
+ "quests": {
+  "4981": {
+   "t": "Agent Bijou",
+   "d": "Vertrouw nooit een goblin. Daar komt het op neer, $N.$B$BHaar naam is Bijou. Ze is een van onze gladste agenten. Ik ontdekte dat ze werkte voor een louche handelaar in exotische huisdieren uit de Burning Steppes, Kibler genaamd. Eigenlijk speelde ze dus een dubbel spel met ons. Erger nog: ze gebruikte geld van de Horde om haar eigen zaken te betalen.$B$BIk wil dat ze levend hier teruggebracht wordt.$B$BZe is voor het laatst gezien toen ze Blackrock Spire binnenging. Vind haar en breng haar terug.$B$BEn $N, laat je niet inpakken door haar mooie praatjes.",
+   "o": "Reis naar Blackrock Spire en ontdek wat er met Bijou is gebeurd.",
+   "c": "Ik ga niet tegen je liegen, $r. Ik had het geld nodig! Kibler betaalt heel, heel goed, veel beter dan de K.E.F. ooit zou kunnen.$B$BMaar twijfel niet aan mijn trouw! Waarom denk je dat ik hier beneden ben? Om voor die gekke goblin wat eieren van exotische dieren te halen, of iets anders dat net zo dom is? Nee, alleen iemand die echt niet goed wijs is, komt naar Blackrock Spire om huisdieren te verzamelen. Ja, ik denk niet dat er veel van zulke mensen op deze wereld zijn.$B$B<Bijou lacht.>$B$BHet laatste wat we nodig hebben, is dat zulke mensen zich gaan voortplanten.",
+   "g": [
+    [
+     "gladste",
+     "slipperiest (glad)"
+    ],
+    [
+     "louche",
+     "shady"
+    ],
+    [
+     "handelaar",
+     "dealer, trader"
+    ],
+    [
+     "dubbel spel",
+     "double game, two-timing"
+    ],
+    [
+     "levend",
+     "alive"
+    ],
+    [
+     "laat je niet inpakken",
+     "don't let yourself be fooled"
+    ],
+    [
+     "mooie praatjes",
+     "sweet talk"
+    ],
+    [
+     "trouw",
+     "loyalty"
+    ],
+    [
+     "niet goed wijs",
+     "daft, not right in the head"
+    ],
+    [
+     "voortplanten",
+     "to breed (zich voortplanten)"
+    ],
+    [
+     "exotische",
+     "exotic (exotisch)"
+    ]
+   ]
+  },
+  "4982": {
+   "t": "De spullen van Bijou",
+   "d": "'s Nachts, als deze plek maar licht bewaakt wordt, sluip ik door de stad. Ik maak aantekeningen en schrijf alles op wat ik zie dat strategische waarde kan hebben voor de K.E.F.$B$BMaar gisteravond ging alles vreselijk mis. Ik struikelde over een struikeldraad en liet een alarm afgaan. Ik verstopte mijn verkenningsspullen en rende weg om dekking te zoeken! Helaas kan ik niet terug naar die spullen. Ze hebben de patrouilles verdubbeld en verdrievoudigd! Al die informatie is verloren.$B$BHaal mijn spullen terug, dan ga ik zonder problemen terug naar de K.E.F.",
+   "o": "Vind Bijou's Belongings en breng ze terug naar haar. Je weet nog dat ze zei dat ze ze op de onderste verdieping van de stad had verstopt.$b",
+   "p": "Al geluk gehad?",
+   "c": "Het is je gelukt! Zodra Lexlort deze plannen heeft, vergeet hij alle nare dingen die hij met me wilde doen.$B$B$N, je bent mijn held!$b",
+   "g": [
+    [
+     "bewaakt",
+     "guarded (bewaken)"
+    ],
+    [
+     "sluip",
+     "sneak (sluipen)"
+    ],
+    [
+     "aantekeningen",
+     "notes"
+    ],
+    [
+     "strategische waarde",
+     "strategic value"
+    ],
+    [
+     "vreselijk",
+     "dreadfully, terribly"
+    ],
+    [
+     "struikeldraad",
+     "tripwire"
+    ],
+    [
+     "verkenningsspullen",
+     "recon gear"
+    ],
+    [
+     "dekking",
+     "cover"
+    ],
+    [
+     "verdubbeld",
+     "doubled (verdubbelen)"
+    ],
+    [
+     "verdrievoudigd",
+     "tripled (verdrievoudigen)"
+    ],
+    [
+     "onderste verdieping",
+     "bottom floor"
+    ],
+    [
+     "verstopt",
+     "hidden, stashed (verstoppen)"
+    ]
+   ]
+  },
+  "4941": {
+   "t": "De wijsheid van Eitrigg",
+   "d": "Leeft Rend?$B$BOnmogelijk!$B$BMen dacht dat Rend tientallen jaren geleden gedood was.$B$BZoek de wijsheid van Eitrigg op, $N. Niemand weet beter dan hij hoe de Blackrock werken. Als wat hier geschreven staat waar is, moet Eitrigg het weten. Niemand mag het recht op wraak ontzegd worden.$B$BJe vindt hem in Orgrimmar.$B$BAls je met Eitrigg hebt gesproken, overleg dan met de Warchief. Zo hoor je wat hij met dit probleem wil doen.",
+   "o": "Spreek met Eitrigg in Orgrimmar. Als je de zaak met Eitrigg hebt besproken, vraag dan Thrall om raad.$B$BJe weet nog dat je Eitrigg in de zaal van Thrall hebt gezien.",
+   "p": "Zie je niet dat ik niet gestoord mag worden?",
+   "c": "<Thrall lijkt ontzet door het nieuws dat je brengt.>",
+   "e": "Overleg met Eitrigg.",
+   "g": [
+    [
+     "wijsheid",
+     "wisdom"
+    ],
+    [
+     "tientallen jaren",
+     "decades"
+    ],
+    [
+     "gedood",
+     "slain (doden)"
+    ],
+    [
+     "wraak",
+     "vengeance, revenge"
+    ],
+    [
+     "ontzegd",
+     "denied (ontzeggen)"
+    ],
+    [
+     "overleg",
+     "confer, consult (overleggen)"
+    ],
+    [
+     "raad",
+     "counsel, advice"
+    ],
+    [
+     "zaal",
+     "hall, chamber"
+    ],
+    [
+     "gestoord",
+     "interrupted, disturbed (storen)"
+    ],
+    [
+     "ontzet",
+     "dismayed"
+    ]
+   ]
+  },
+  "4974": {
+   "t": "Voor de Horde!",
+   "d": "Rend durft zulke grote beweringen te doen omdat de zwarte drakenvlucht hem beschermt.$B$BJij, $N, vindt een manier om door de Halls of Ascension te komen. Daarna zoek je 'Warchief' Rend Blackhand op en vernietig je hem - VOOR DE HORDE!$B$B<Thrall slaat met een vuist op zijn troon.>$B$BAls je de volgende keer in mijn zaal terugkomt, houd je zijn hoofd triomfantelijk omhoog. Dan bied je het aan je Warchief aan. Doe dit en je wordt geëerd als een held van de Horde.",
+   "o": "Reis naar Blackrock Spire en dood Warchief Rend Blackhand. Neem zijn hoofd mee en keer terug naar Orgrimmar.",
+   "p": "<Thrall gromt.>",
+   "c": "Je hebt de troepen van Blackrock een verlammende klap toegebracht, $N. Nu hun Warchief dood is, wordt het Blackrock-legioen opnieuw in de muil van de chaos gegooid.$B$BTer ere van je heldendaden zal het volk van Kalimdor beloond worden!",
+   "g": [
+    [
+     "beweringen",
+     "claims"
+    ],
+    [
+     "drakenvlucht",
+     "dragonflight"
+    ],
+    [
+     "vernietig",
+     "destroy (vernietigen)"
+    ],
+    [
+     "vuist",
+     "fist"
+    ],
+    [
+     "troon",
+     "throne"
+    ],
+    [
+     "triomfantelijk",
+     "in triumph"
+    ],
+    [
+     "geëerd",
+     "honored (eren)"
+    ],
+    [
+     "gromt",
+     "grunts (grommen)"
+    ],
+    [
+     "verlammende",
+     "crippling (verlammend)"
+    ],
+    [
+     "toegebracht",
+     "dealt (toebrengen)"
+    ],
+    [
+     "legioen",
+     "legion"
+    ],
+    [
+     "muil",
+     "maw"
+    ],
+    [
+     "ter ere van",
+     "in honor of"
+    ],
+    [
+     "heldendaden",
+     "heroic deeds"
+    ]
+   ]
+  },
+  "6402": {
+   "t": "Afspraak in Stormwind",
+   "d": "Je gaat Windsor ontmoeten bij de poorten van Stormwind.$B$BWat Windsor gaat onthullen, zal de fundamenten van het koninkrijk doen schudden!$B$BProbeer er niet alleen heen te gaan, $N. Je moet een leger verzamelen! Roep je kameraden bij elkaar. Te wapen! $b$b",
+   "o": "Reis naar Stormwind City en ga naar de stadspoorten. Spreek met Squire Rowe, zodat hij Marshal Windsor kan laten weten dat je er bent.",
+   "c": "Voordat we beginnen, vraag ik je eerst een leger te verzamelen. We staan tenslotte tegenover een draak!",
+   "g": [
+    [
+     "afspraak",
+     "rendezvous, meeting"
+    ],
+    [
+     "poorten",
+     "gates (poort)"
+    ],
+    [
+     "onthullen",
+     "to reveal, unveil"
+    ],
+    [
+     "fundamenten",
+     "foundations"
+    ],
+    [
+     "doen schudden",
+     "make shake"
+    ],
+    [
+     "leger",
+     "army"
+    ],
+    [
+     "kameraden",
+     "comrades"
+    ],
+    [
+     "te wapen",
+     "to arms"
+    ],
+    [
+     "stadspoorten",
+     "city gates"
+    ],
+    [
+     "tenslotte",
+     "after all"
+    ]
+   ]
+  },
+  "6403": {
+   "t": "De grote maskerade",
+   "d": "Het was me een avontuur, vriend. Ik ben je veel dank verschuldigd. Misschien, als alles voorbij is...$B$BJe hebt nu vast al ontdekt dat Lady Prestor Onyxia is: kroost van Deathwing, tweelingzus van Nefarian, de tiran van de Spire.$B$BTe lang heeft ze ons koninkrijk in haar betoverende blik gevangen gehouden. Zelfs de Highlord wordt door haar bedrog beheerst. Hij is een marionet. Vandaag eindigt het allemaal... De betovering zal verbroken worden.$B$BMaak je geen zorgen, want samen zullen we winnen!$B$BBen je er klaar voor?",
+   "o": "Volg Reginald Windsor door Stormwind. Bescherm hem tegen gevaar!",
+   "p": "Ik... ik... ik was machteloos.",
+   "c": "<Bolvar houdt het gebroken medaillon vast.>$B$BDe magie die erin zit, moet opnieuw ontstoken worden. Het oog van de draak moet afgestemd worden.$B$BDoor het offer van Windsor is ons koninkrijk bevrijd, maar de dreiging van Onyxia en haar familie blijft altijd boven ons hangen.$B$BDit medaillon hield mijn geest en lichaam gevangen. Het gaf me ook toegang tot de geest van Onyxia zelf, tot haar geheimen. De visioenen zijn nu wel vaag, maar sommige dingen herinner ik me.",
+   "e": "De mars van Reginald",
+   "g": [
+    [
+     "verschuldigd",
+     "owed (verschuldigd zijn)"
+    ],
+    [
+     "kroost",
+     "brood, offspring"
+    ],
+    [
+     "tweelingzus",
+     "twin sister"
+    ],
+    [
+     "tiran",
+     "tyrant"
+    ],
+    [
+     "betoverende",
+     "captivating, enchanting"
+    ],
+    [
+     "blik",
+     "gaze"
+    ],
+    [
+     "bedrog",
+     "trickery, deceit"
+    ],
+    [
+     "beheerst",
+     "controlled (beheersen)"
+    ],
+    [
+     "marionet",
+     "puppet"
+    ],
+    [
+     "betovering",
+     "spell, enchantment"
+    ],
+    [
+     "verbroken",
+     "broken (verbreken)"
+    ],
+    [
+     "machteloos",
+     "powerless"
+    ],
+    [
+     "ontstoken",
+     "reignited (ontsteken)"
+    ],
+    [
+     "afgestemd",
+     "attuned (afstemmen)"
+    ],
+    [
+     "offer",
+     "sacrifice"
+    ]
+   ]
+  },
+  "6501": {
+   "t": "Het oog van de draak",
+   "d": "Een fragment van het gebroken medaillon is alles wat ik je kan geven.$B$BJe moet een ander wezen met drakenbloed vinden dat je wil helpen een nieuwe sleutel te smeden. Als je deze sleutel hebt, moet je naar de Wyrmbog in Dustwallow Marsh reizen. Daar vind je haar hol, $N.$B$BWaar vind je andere drakenvluchten die willen helpen? Helaas weet ik dat niet... Men zegt dat ze bestaan. Sommigen werken en leven misschien zelfs tussen ons, vermomd als een van de mensachtige rassen. Ik wens je succes.$b",
+   "o": "Je moet de wereld afzoeken naar een wezen dat de kracht van het Fragment of the Dragon's Eye kan herstellen. Het enige wat je over zo'n wezen weet, is dat het bestaat.",
+   "p": "Ik voel een kwade aura die van je afstraalt, $r. Wat zou je bij je kunnen hebben dat zo'n aura uitstraalt?$b",
+   "c": "Dat had ik kunnen weten: een stuk van de zwarte broedmoeder, Onyxia. Wat walgelijk...$b",
+   "g": [
+    [
+     "drakenbloed",
+     "dragon blood"
+    ],
+    [
+     "smeden",
+     "to forge"
+    ],
+    [
+     "hol",
+     "lair"
+    ],
+    [
+     "drakenvluchten",
+     "dragonflights"
+    ],
+    [
+     "vermomd",
+     "disguised (vermommen)"
+    ],
+    [
+     "mensachtige",
+     "humanoid"
+    ],
+    [
+     "afzoeken",
+     "to search all over"
+    ],
+    [
+     "herstellen",
+     "to restore"
+    ],
+    [
+     "kwade",
+     "evil (kwaad)"
+    ],
+    [
+     "afstraalt",
+     "radiates (afstralen)"
+    ],
+    [
+     "uitstraalt",
+     "emits (uitstralen)"
+    ],
+    [
+     "broedmoeder",
+     "brood mother"
+    ],
+    [
+     "walgelijk",
+     "revolting, disgusting"
+    ]
+   ]
+  },
+  "6566": {
+   "t": "Wat de wind meebrengt",
+   "d": "Het is goed je weer te zien, $N. De wind brengt nieuws mee uit het Eastern Kingdom.$B$BGa zitten en luister. $b",
+   "o": "Luister naar Thrall.",
+   "p": "Geduld, $N. Let goed op!",
+   "c": "Ben je klaar om deze taak op je te nemen?$b",
+   "e": "Het verhaal van Thrall",
+   "g": [
+    [
+     "meebrengt",
+     "carries along (meebrengen)"
+    ],
+    [
+     "geduld",
+     "patience"
+    ],
+    [
+     "let goed op",
+     "pay attention"
+    ],
+    [
+     "taak",
+     "task"
+    ],
+    [
+     "op je te nemen",
+     "to take on (op je nemen)"
+    ]
+   ]
+  },
+  "6567": {
+   "t": "De kampioen van de Horde",
+   "d": "Een van mijn kampioenen heeft me laten weten dat er misschien een weg naar het hol van de draak bestaat. Je moet hem opzoeken.$B$BRexxar zwerft door de kale woestijn van Desolace, tussen Stonetalon en Feralas. Hij wacht op je komst.",
+   "o": "Zoek Rexxar op. De Warchief heeft je verteld waar hij ongeveer is. Zoek op de paden van Desolace, tussen de Stonetalon Mountains en Feralas.$b",
+   "c": "Er is maar één weg naar het hol van de draak, $r.$B$BWeet je, alleen de sterksten van de Black Dragonflight mogen het hol van de broedmoeder binnen. Je moet veel beproevingen doorstaan, en de sleutel om binnen te komen moet door General Drakkisath zelf plechtig betoverd worden!$B$BOmdat jij geen zwarte draak bent, kan het moeilijk voor je zijn om binnen te komen.$B$B<Rexxar grijnst.>",
+   "g": [
+    [
+     "kampioen",
+     "champion"
+    ],
+    [
+     "hol",
+     "lair"
+    ],
+    [
+     "zwerft",
+     "wanders (zwerven)"
+    ],
+    [
+     "kale",
+     "barren (kaal)"
+    ],
+    [
+     "komst",
+     "arrival"
+    ],
+    [
+     "broedmoeder",
+     "brood mother"
+    ],
+    [
+     "beproevingen",
+     "trials"
+    ],
+    [
+     "doorstaan",
+     "to pass, endure"
+    ],
+    [
+     "plechtig",
+     "ceremoniously, solemnly"
+    ],
+    [
+     "betoverd",
+     "enchanted (betoveren)"
+    ],
+    [
+     "grijnst",
+     "grins (grijnzen)"
+    ]
+   ]
+  },
+  "6568": {
+   "t": "Het testament van Rexxar",
+   "d": "Wat weet je van illusies, $N? Want het is een illusie die je moet maken om de verdediging van de Black Flight te omzeilen.$B$BIk ken iemand die je misschien wil helpen bij je misleiding. Ze heeft ons volk vroeger geholpen, als ze vond dat de zaak het waard was.$B$BIn de Western Plaguelands vind je Myranda the Hag, een meester in illusies. Ze is verbannen uit de alliantie van Lordaeron. Reis daarheen en neem dit bericht mee.",
+   "o": "Breng Rexxar's Testament naar Myranda the Hag in de Western Plaguelands.",
+   "p": "Ik zie niet vaak iemand van de Horde in deze delen van Lordaeron. Wat heb je voor Myranda?",
+   "c": "<Myranda houdt het briefje vast, wacht even en glimlacht dan.>$B$BHoe gaat het met hem? Met Rexxar, bedoel ik. Ach, kom nou, kijk niet zo verward. De brief is met opzet leeg gelaten. Hij droeg de bedoelingen en gedachten van zijn maker met zich mee. Als je kijkt naar wat erin staat, is het geen wonder dat Rexxar hem zo heeft gelaten. Stel je voor dat je gevangen of gedood was en deze informatie werd ontdekt!$B$BAch, laat maar! Myranda zal je helpen, $r. Ik ben de Warchief nog een gunst of twee verschuldigd.$B$B<Myranda glimlacht.>$b",
+   "g": [
+    [
+     "verdediging",
+     "defense"
+    ],
+    [
+     "omzeilen",
+     "to get around, circumvent"
+    ],
+    [
+     "misleiding",
+     "deception"
+    ],
+    [
+     "verbannen",
+     "exiled"
+    ],
+    [
+     "meester",
+     "master"
+    ],
+    [
+     "briefje",
+     "note"
+    ],
+    [
+     "verward",
+     "confused"
+    ],
+    [
+     "met opzet",
+     "on purpose"
+    ],
+    [
+     "bedoelingen",
+     "intentions"
+    ],
+    [
+     "stel je voor",
+     "imagine"
+    ],
+    [
+     "laat maar",
+     "never mind"
+    ],
+    [
+     "gunst",
+     "favor"
+    ],
+    [
+     "verschuldigd",
+     "owed"
+    ]
+   ]
+  },
+  "8957": {
+   "t": "De afscheidswoorden van Anthion",
+   "d": "De ziel van Valthalak zat in deze amulet opgesloten. Uit hebzucht hebben we hem dom genoeg in drie delen gesplitst. We wisten niet welke vloek ons te wachten stond.$B$BDe enige manier om de spreuk van Valthalak te stoppen, is de amulet weer in elkaar te zetten. Ga terug naar Mokvar en zeg hem dat Bodley zijn enige hoop is om de andere stukken te vinden. Praat met hem over de beloningen die je hebt afgesproken.$B$BIk zal voor één keer in vrede rusten. Ik wens je veel geluk; je zult elk beetje ervan nodig hebben!",
+   "o": "Keer terug naar Mokvar in Orgrimmar met een set Boots of Elements, Kilt of Elements en Pauldrons of Elements.",
+   "p": "Je bent terug, $N. Je moet me alles vertellen over wat je hebt ontdekt. Maar laten we eerst je beloning regelen.",
+   "c": "Ik kan niet geloven dat onze levens zo goed als verloren zijn, allemaal door een stom medaillon! En weet je zeker dat Anthion Bodley noemde?$B$BNou, je hebt je werk gedaan, dus laten we je beloning maar regelen.",
+   "g": [
+    [
+     "ziel",
+     "soul"
+    ],
+    [
+     "opgesloten",
+     "stored, locked up (opsluiten)"
+    ],
+    [
+     "hebzucht",
+     "greed"
+    ],
+    [
+     "dom genoeg",
+     "foolishly"
+    ],
+    [
+     "gesplitst",
+     "split (splitsen)"
+    ],
+    [
+     "vloek",
+     "curse"
+    ],
+    [
+     "te wachten stond",
+     "lay in store, awaited"
+    ],
+    [
+     "spreuk",
+     "spell"
+    ],
+    [
+     "in elkaar te zetten",
+     "to put together"
+    ],
+    [
+     "afgesproken",
+     "arranged (afspreken)"
+    ],
+    [
+     "in vrede rusten",
+     "rest in peace"
+    ],
+    [
+     "zo goed als verloren",
+     "all but forfeit"
+    ],
+    [
+     "stom",
+     "stupid"
+    ]
+   ]
+  },
+  "9016": {
+   "t": "De afscheidswoorden van Anthion",
+   "d": "De ziel van Valthalak zat in deze amulet opgesloten. Uit hebzucht hebben we hem dom genoeg in drie delen gesplitst. We wisten niet welke vloek ons te wachten stond.$B$BDe enige manier om de spreuk van Valthalak te stoppen, is de amulet weer in elkaar te zetten. Ga terug naar Mokvar en zeg hem dat Bodley zijn enige hoop is om de andere stukken te vinden. Praat met hem over de beloningen die je hebt afgesproken.$B$BIk zal voor één keer in vrede rusten. Ik wens je veel geluk; je zult elk beetje ervan nodig hebben!",
+   "o": "Keer terug naar Mokvar in Orgrimmar met een set Wildheart Boots, een Wildheart Kilt en Wildheart Spaulders.$b",
+   "p": "Je bent terug, en ik zie in je ogen dat je me veel te vertellen hebt, $N. Laten we eerst je beloning regelen.",
+   "c": "Deze vloek werd ons opgelegd voor niet meer dan een medaillon. Lord Valthalak weet echt hoe hij wrok moet koesteren.$B$BWe zullen proberen de andere stukken te vinden, hopelijk voordat ik te vroeg aan mijn einde kom. Maar laten we eerst naar je beloning kijken.",
+   "g": [
+    [
+     "ziel",
+     "soul"
+    ],
+    [
+     "opgesloten",
+     "stored, locked up (opsluiten)"
+    ],
+    [
+     "hebzucht",
+     "greed"
+    ],
+    [
+     "dom genoeg",
+     "foolishly"
+    ],
+    [
+     "gesplitst",
+     "split (splitsen)"
+    ],
+    [
+     "vloek",
+     "curse"
+    ],
+    [
+     "te wachten stond",
+     "lay in store, awaited"
+    ],
+    [
+     "spreuk",
+     "spell"
+    ],
+    [
+     "in elkaar te zetten",
+     "to put together"
+    ],
+    [
+     "afgesproken",
+     "arranged (afspreken)"
+    ],
+    [
+     "in vrede rusten",
+     "rest in peace"
+    ],
+    [
+     "opgelegd",
+     "bestowed, imposed (opleggen)"
+    ],
+    [
+     "wrok",
+     "grudge"
+    ],
+    [
+     "koesteren",
+     "to hold, cherish"
+    ],
+    [
+     "te vroeg aan mijn einde kom",
+     "meet an untimely end"
+    ]
+   ]
+  },
+  "9017": {
+   "t": "De afscheidswoorden van Anthion",
+   "d": "De ziel van Valthalak zat in deze amulet opgesloten. Uit hebzucht hebben we hem dom genoeg in drie delen gesplitst. We wisten niet welke vloek ons te wachten stond.$B$BDe enige manier om de spreuk van Valthalak te stoppen, is de amulet weer in elkaar te zetten. Ga terug naar Mokvar en zeg hem dat Bodley zijn enige hoop is om de andere stukken te vinden. Praat met hem over de beloningen die je hebt afgesproken.$B$BIk zal voor één keer in vrede rusten. Ik wens je veel geluk; je zult elk beetje ervan nodig hebben!",
+   "o": "Keer terug naar Mokvar in Orgrimmar met een set Beaststalker's Boots, Beaststalker's Pants en Beaststalker's Mantle.",
+   "p": "Je bent terug, en ik zie in je ogen dat je me veel te vertellen hebt, $N. Laten we eerst je beloning regelen.",
+   "c": "Deze vloek werd ons opgelegd voor niet meer dan een medaillon. Lord Valthalak weet echt hoe hij wrok moet koesteren.$B$BWe zullen proberen de andere stukken te vinden, hopelijk voordat ik te vroeg aan mijn einde kom. Maar laten we eerst naar je beloning kijken.",
+   "g": [
+    [
+     "ziel",
+     "soul"
+    ],
+    [
+     "opgesloten",
+     "stored, locked up (opsluiten)"
+    ],
+    [
+     "hebzucht",
+     "greed"
+    ],
+    [
+     "dom genoeg",
+     "foolishly"
+    ],
+    [
+     "gesplitst",
+     "split (splitsen)"
+    ],
+    [
+     "vloek",
+     "curse"
+    ],
+    [
+     "te wachten stond",
+     "lay in store, awaited"
+    ],
+    [
+     "spreuk",
+     "spell"
+    ],
+    [
+     "in elkaar te zetten",
+     "to put together"
+    ],
+    [
+     "afgesproken",
+     "arranged (afspreken)"
+    ],
+    [
+     "in vrede rusten",
+     "rest in peace"
+    ],
+    [
+     "opgelegd",
+     "bestowed, imposed (opleggen)"
+    ],
+    [
+     "wrok",
+     "grudge"
+    ],
+    [
+     "koesteren",
+     "to hold, cherish"
+    ],
+    [
+     "te vroeg aan mijn einde kom",
+     "meet an untimely end"
+    ]
+   ]
+  },
+  "9018": {
+   "t": "De afscheidswoorden van Anthion",
+   "d": "De ziel van Valthalak zat in deze amulet opgesloten. Uit hebzucht hebben we hem dom genoeg in drie delen gesplitst. We wisten niet welke vloek ons te wachten stond.$B$BDe enige manier om de spreuk van Valthalak te stoppen, is de amulet weer in elkaar te zetten. Ga terug naar Mokvar en zeg hem dat Bodley zijn enige hoop is om de andere stukken te vinden. Praat met hem over de beloningen die je hebt afgesproken.$B$BIk zal voor één keer in vrede rusten. Ik wens je veel geluk; je zult elk beetje ervan nodig hebben!",
+   "o": "Keer terug naar Mokvar in Orgrimmar met een set Magister's Boots, Magister's Leggings en Magister's Mantle.",
+   "p": "Je bent terug, en ik zie in je ogen dat je me veel te vertellen hebt, $N. Laten we eerst je beloning regelen.",
+   "c": "Deze vloek werd ons opgelegd voor niet meer dan een medaillon. Lord Valthalak weet echt hoe hij wrok moet koesteren.$B$BWe zullen proberen de andere stukken te vinden, hopelijk voordat ik te vroeg aan mijn einde kom. Maar laten we eerst naar je beloning kijken.",
+   "g": [
+    [
+     "ziel",
+     "soul"
+    ],
+    [
+     "opgesloten",
+     "stored, locked up (opsluiten)"
+    ],
+    [
+     "hebzucht",
+     "greed"
+    ],
+    [
+     "dom genoeg",
+     "foolishly"
+    ],
+    [
+     "gesplitst",
+     "split (splitsen)"
+    ],
+    [
+     "vloek",
+     "curse"
+    ],
+    [
+     "te wachten stond",
+     "lay in store, awaited"
+    ],
+    [
+     "spreuk",
+     "spell"
+    ],
+    [
+     "in elkaar te zetten",
+     "to put together"
+    ],
+    [
+     "afgesproken",
+     "arranged (afspreken)"
+    ],
+    [
+     "in vrede rusten",
+     "rest in peace"
+    ],
+    [
+     "opgelegd",
+     "bestowed, imposed (opleggen)"
+    ],
+    [
+     "wrok",
+     "grudge"
+    ],
+    [
+     "koesteren",
+     "to hold, cherish"
+    ],
+    [
+     "te vroeg aan mijn einde kom",
+     "meet an untimely end"
+    ]
+   ]
+  },
+  "9019": {
+   "t": "De afscheidswoorden van Anthion",
+   "d": "De ziel van Valthalak zat in deze amulet opgesloten. Uit hebzucht hebben we hem dom genoeg in drie delen gesplitst. We wisten niet welke vloek ons te wachten stond.$B$BDe enige manier om de spreuk van Valthalak te stoppen, is de amulet weer in elkaar te zetten. Ga terug naar Mokvar en zeg hem dat Bodley zijn enige hoop is om de andere stukken te vinden. Praat met hem over de beloningen die je hebt afgesproken.$B$BIk zal voor één keer in vrede rusten. Ik wens je veel geluk; je zult elk beetje ervan nodig hebben!",
+   "o": "Keer terug naar Mokvar in Orgrimmar met een set Devout Sandals, Devout Skirt en Devout Mantle.",
+   "p": "Je bent terug, en ik zie in je ogen dat je me veel te vertellen hebt, $N. Laten we eerst je beloning regelen.",
+   "c": "Deze vloek werd ons opgelegd voor niet meer dan een medaillon. Lord Valthalak weet echt hoe hij wrok moet koesteren.$B$BWe zullen proberen de andere stukken te vinden, hopelijk voordat ik te vroeg aan mijn einde kom. Maar laten we eerst naar je beloning kijken.",
+   "g": [
+    [
+     "ziel",
+     "soul"
+    ],
+    [
+     "opgesloten",
+     "stored, locked up (opsluiten)"
+    ],
+    [
+     "hebzucht",
+     "greed"
+    ],
+    [
+     "dom genoeg",
+     "foolishly"
+    ],
+    [
+     "gesplitst",
+     "split (splitsen)"
+    ],
+    [
+     "vloek",
+     "curse"
+    ],
+    [
+     "te wachten stond",
+     "lay in store, awaited"
+    ],
+    [
+     "spreuk",
+     "spell"
+    ],
+    [
+     "in elkaar te zetten",
+     "to put together"
+    ],
+    [
+     "afgesproken",
+     "arranged (afspreken)"
+    ],
+    [
+     "in vrede rusten",
+     "rest in peace"
+    ],
+    [
+     "opgelegd",
+     "bestowed, imposed (opleggen)"
+    ],
+    [
+     "wrok",
+     "grudge"
+    ],
+    [
+     "koesteren",
+     "to hold, cherish"
+    ],
+    [
+     "te vroeg aan mijn einde kom",
+     "meet an untimely end"
+    ]
+   ]
+  },
+  "9020": {
+   "t": "De afscheidswoorden van Anthion",
+   "d": "De ziel van Valthalak zat in deze amulet opgesloten. Uit hebzucht hebben we hem dom genoeg in drie delen gesplitst. We wisten niet welke vloek ons te wachten stond.$B$BDe enige manier om de spreuk van Valthalak te stoppen, is de amulet weer in elkaar te zetten. Ga terug naar Mokvar en zeg hem dat Bodley zijn enige hoop is om de andere stukken te vinden. Praat met hem over de beloningen die je hebt afgesproken.$B$BIk zal voor één keer in vrede rusten. Ik wens je veel geluk; je zult elk beetje ervan nodig hebben!",
+   "o": "Keer terug naar Mokvar in Orgrimmar met een set Shadowcraft Boots, Shadowcraft Pants en Shadowcraft Spaulders.",
+   "p": "Je bent terug, en ik zie in je ogen dat je me veel te vertellen hebt, $N. Laten we eerst je beloning regelen.",
+   "c": "Deze vloek werd ons opgelegd voor niet meer dan een medaillon. Lord Valthalak weet echt hoe hij wrok moet koesteren.$B$BWe zullen proberen de andere stukken te vinden, hopelijk voordat ik te vroeg aan mijn einde kom. Maar laten we eerst naar je beloning kijken.",
+   "g": [
+    [
+     "ziel",
+     "soul"
+    ],
+    [
+     "opgesloten",
+     "stored, locked up (opsluiten)"
+    ],
+    [
+     "hebzucht",
+     "greed"
+    ],
+    [
+     "dom genoeg",
+     "foolishly"
+    ],
+    [
+     "gesplitst",
+     "split (splitsen)"
+    ],
+    [
+     "vloek",
+     "curse"
+    ],
+    [
+     "te wachten stond",
+     "lay in store, awaited"
+    ],
+    [
+     "spreuk",
+     "spell"
+    ],
+    [
+     "in elkaar te zetten",
+     "to put together"
+    ],
+    [
+     "afgesproken",
+     "arranged (afspreken)"
+    ],
+    [
+     "in vrede rusten",
+     "rest in peace"
+    ],
+    [
+     "opgelegd",
+     "bestowed, imposed (opleggen)"
+    ],
+    [
+     "wrok",
+     "grudge"
+    ],
+    [
+     "koesteren",
+     "to hold, cherish"
+    ],
+    [
+     "te vroeg aan mijn einde kom",
+     "meet an untimely end"
+    ]
+   ]
+  },
+  "9021": {
+   "t": "De afscheidswoorden van Anthion",
+   "d": "De ziel van Valthalak zat in deze amulet opgesloten. Uit hebzucht hebben we hem dom genoeg in drie delen gesplitst. We wisten niet welke vloek ons te wachten stond.$B$BDe enige manier om de spreuk van Valthalak te stoppen, is de amulet weer in elkaar te zetten. Ga terug naar Mokvar en zeg hem dat Bodley zijn enige hoop is om de andere stukken te vinden. Praat met hem over de beloningen die je hebt afgesproken.$B$BIk zal voor één keer in vrede rusten. Ik wens je veel geluk; je zult elk beetje ervan nodig hebben!",
+   "o": "Keer terug naar Mokvar in Orgrimmar met een set Dreadmist Sandals, Dreadmist Leggings en Dreadmist Mantle.",
+   "p": "Je bent terug, en ik zie in je ogen dat je me veel te vertellen hebt, $N. Laten we eerst je beloning regelen.",
+   "c": "Deze vloek werd ons opgelegd voor niet meer dan een medaillon. Lord Valthalak weet echt hoe hij wrok moet koesteren.$B$BWe zullen proberen de andere stukken te vinden, hopelijk voordat ik te vroeg aan mijn einde kom. Maar laten we eerst naar je beloning kijken.",
+   "g": [
+    [
+     "ziel",
+     "soul"
+    ],
+    [
+     "opgesloten",
+     "stored, locked up (opsluiten)"
+    ],
+    [
+     "hebzucht",
+     "greed"
+    ],
+    [
+     "dom genoeg",
+     "foolishly"
+    ],
+    [
+     "gesplitst",
+     "split (splitsen)"
+    ],
+    [
+     "vloek",
+     "curse"
+    ],
+    [
+     "te wachten stond",
+     "lay in store, awaited"
+    ],
+    [
+     "spreuk",
+     "spell"
+    ],
+    [
+     "in elkaar te zetten",
+     "to put together"
+    ],
+    [
+     "afgesproken",
+     "arranged (afspreken)"
+    ],
+    [
+     "in vrede rusten",
+     "rest in peace"
+    ],
+    [
+     "opgelegd",
+     "bestowed, imposed (opleggen)"
+    ],
+    [
+     "wrok",
+     "grudge"
+    ],
+    [
+     "koesteren",
+     "to hold, cherish"
+    ],
+    [
+     "te vroeg aan mijn einde kom",
+     "meet an untimely end"
+    ]
+   ]
+  },
+  "9022": {
+   "t": "De afscheidswoorden van Anthion",
+   "d": "De ziel van Valthalak zat in deze amulet opgesloten. Uit hebzucht hebben we hem dom genoeg in drie delen gesplitst. We wisten niet welke vloek ons te wachten stond.$B$BDe enige manier om de spreuk van Valthalak te stoppen, is de amulet weer in elkaar te zetten. Ga terug naar Mokvar en zeg hem dat Bodley zijn enige hoop is om de andere stukken te vinden. Praat met hem over de beloningen die je hebt afgesproken.$B$BIk zal voor één keer in vrede rusten. Ik wens je veel geluk; je zult elk beetje ervan nodig hebben!",
+   "o": "Keer terug naar Mokvar in Orgrimmar met een set Boots of Valor, Legplates of Valor en Spaulders of Valor.",
+   "p": "Je bent terug, en ik zie in je ogen dat je me veel te vertellen hebt, $N. Laten we eerst je beloning regelen.",
+   "c": "Deze vloek werd ons opgelegd voor niet meer dan een medaillon. Lord Valthalak weet echt hoe hij wrok moet koesteren.$B$BWe zullen proberen de andere stukken te vinden, hopelijk voordat ik te vroeg aan mijn einde kom. Maar laten we eerst naar je beloning kijken.",
+   "g": [
+    [
+     "ziel",
+     "soul"
+    ],
+    [
+     "opgesloten",
+     "stored, locked up (opsluiten)"
+    ],
+    [
+     "hebzucht",
+     "greed"
+    ],
+    [
+     "dom genoeg",
+     "foolishly"
+    ],
+    [
+     "gesplitst",
+     "split (splitsen)"
+    ],
+    [
+     "vloek",
+     "curse"
+    ],
+    [
+     "te wachten stond",
+     "lay in store, awaited"
+    ],
+    [
+     "spreuk",
+     "spell"
+    ],
+    [
+     "in elkaar te zetten",
+     "to put together"
+    ],
+    [
+     "afgesproken",
+     "arranged (afspreken)"
+    ],
+    [
+     "in vrede rusten",
+     "rest in peace"
+    ],
+    [
+     "opgelegd",
+     "bestowed, imposed (opleggen)"
+    ],
+    [
+     "wrok",
+     "grudge"
+    ],
+    [
+     "koesteren",
+     "to hold, cherish"
+    ],
+    [
+     "te vroeg aan mijn einde kom",
+     "meet an untimely end"
+    ]
+   ]
+  },
+  "9032": {
+   "t": "Het ongelukkige lot van Bodley",
+   "d": "Zat de ziel van Valthalak in het medaillon? Dan is het geen wonder dat het door zo'n sterke vloek werd beschermd.$B$BBodley vinden is een beetje een probleem. Het laatste wat ik van hem hoorde, was dat hij zich klaarmaakte om terug te gaan naar Blackrock Spire. Daarna heeft niemand meer iets van hem gehoord.$B$BZoek hem in Blackrock Mountain, al ben ik bang dat hij nu waarschijnlijk dood is. Ik raad je aan het apparaat van de goblin mee te nemen, vriend.",
+   "o": "Reis naar Blackrock Mountain en gebruik de Extra-Dimensional Ghost Revealer om Bodley bij Blackrock Spire te vinden.",
+   "c": "Ik ben zo blij dat je me kunt zien. Eindelijk iemand om mee te praten!$B$BWil je ons helpen, $N? Wil je helpen het kwaad dat we hebben gedaan ongedaan te maken en alles weer recht te zetten? Als het waar is dat je het Top Piece of Lord Valthalak's Amulet al hebt, dan kan ik je denk ik de goede kant op wijzen om de andere twee delen te krijgen. Dan kun je ze weer samenvoegen en hier een einde aan maken.$B$BO, trouwens, hallo, mijn naam is Bodley. Leuk je te ontmoeten!",
+   "g": [
+    [
+     "ongelukkige",
+     "unfortunate"
+    ],
+    [
+     "lot",
+     "fate"
+    ],
+    [
+     "ziel",
+     "soul"
+    ],
+    [
+     "vloek",
+     "curse"
+    ],
+    [
+     "klaarmaakte",
+     "was getting ready (zich klaarmaken)"
+    ],
+    [
+     "waarschijnlijk",
+     "probably"
+    ],
+    [
+     "raad je aan",
+     "suggest to you (aanraden)"
+    ],
+    [
+     "apparaat",
+     "device"
+    ],
+    [
+     "kwaad",
+     "wrong, evil"
+    ],
+    [
+     "ongedaan te maken",
+     "to undo"
+    ],
+    [
+     "recht te zetten",
+     "to put right"
+    ],
+    [
+     "de goede kant op wijzen",
+     "point in the right direction"
+    ],
+    [
+     "samenvoegen",
+     "to reunite, join together"
+    ]
+   ]
+  },
+  "4788": {
+   "t": "De laatste tabletten",
+   "d": "Terwijl ik naar de derde en vierde tablet van Mosh'aru kijk, moet jij de vijfde en zesde vinden! Het wordt niet makkelijk, want de Smolderthorn-trollen in Blackrock Spire hebben ze. De toren is een donkere berg van vuur tussen de Burning Steppes en de Searing Gorge.$B$BVeel succes, $N. Blackrock Spire is geen plek voor fatsoenlijke mensen...",
+   "o": "Breng de Fifth en Sixth Mosh'aru Tablets naar Prospector Ironboot in Tanaris.",
+   "p": "Ben je bij de toren geweest, $N? Heb je de vijfde en zesde tablet?",
+   "c": "Ongelooflijk! Je hebt ze gevonden! Je bent echt een held, $N!$B$BEn dat is maar goed ook, want ik heb de tabletten gelezen die je me eerder bracht. En uit wat ik heb begrepen... hebben we een held nodig om te stoppen wat er gaat komen...",
+   "g": [
+    [
+     "tabletten",
+     "tablets"
+    ],
+    [
+     "terwijl",
+     "while"
+    ],
+    [
+     "toren",
+     "tower, spire"
+    ],
+    [
+     "fatsoenlijke",
+     "decent (fatsoenlijk)"
+    ],
+    [
+     "ongelooflijk",
+     "unbelievable"
+    ],
+    [
+     "maar goed ook",
+     "a good thing too"
+    ],
+    [
+     "begrepen",
+     "understood, gathered (begrijpen)"
+    ]
+   ]
+  },
+  "4701": {
+   "t": "Laat haar inslapen",
+   "d": "Je hebt vast de worgs gezien waar de Blackrock-orcs het bevel over hebben.$B$BHet is vreemd: hoeveel we er ook vernietigen, hun aantal wordt nooit kleiner. Mijn verkenners melden dat de worgs in Blackrock Spire gefokt, getraind en uiteindelijk uitgevoerd worden. Dat is de hoofdstad van de Blackrock-orcs. Je moet naar Blackrock Spire reizen en de bron van deze dreiging ontdekken. Ontdek... en vernietig.$B$BVeel succes, $N. Moge Cenarius je beschermen...$b",
+   "o": "Reis naar Blackrock Spire en vernietig de bron van de worg-dreiging. Toen je bij Helendis wegging, riep hij een naam: Halycon. Zo noemen de orcs de worg.",
+   "p": "Heb je de bron van de worg-dreiging ontdekt en afgehandeld?",
+   "c": "Sta niet stil bij haar lijden, $N. Het beest was verdorven, een product van duistere magie. Je hebt de Alliance een grote dienst bewezen en je zult beloond worden.",
+   "g": [
+    [
+     "inslapen",
+     "to put down (an animal)"
+    ],
+    [
+     "bevel",
+     "command"
+    ],
+    [
+     "aantal",
+     "number"
+    ],
+    [
+     "verkenners",
+     "scouts"
+    ],
+    [
+     "gefokt",
+     "bred (fokken)"
+    ],
+    [
+     "uitgevoerd",
+     "exported (uitvoeren)"
+    ],
+    [
+     "bron",
+     "source"
+    ],
+    [
+     "dreiging",
+     "threat, menace"
+    ],
+    [
+     "moge",
+     "may (wish)"
+    ],
+    [
+     "afgehandeld",
+     "dealt with (afhandelen)"
+    ],
+    [
+     "sta niet stil bij",
+     "don't dwell on"
+    ],
+    [
+     "lijden",
+     "suffering"
+    ],
+    [
+     "verdorven",
+     "corrupt"
+    ],
+    [
+     "een dienst bewezen",
+     "done a service"
+    ]
+   ]
+  },
+  "4729": {
+   "t": "De exotische huisdieren van Kibler",
+   "d": "Je vraagt je waarschijnlijk af wat ik hier doe. Kijk naar de kooien! Is dat niet duidelijk?$B$BIk ben in de eerste plaats een dierenvriend, maar van beroep ben ik verkoper. Ik spoor exotische dieren op voor de rijken en beroemdheden. Dan tem ik de beesten, zodat ze zich gedragen als echte huisdieren.$B$BNu vraag je je waarschijnlijk af: “Wat kan ik voor je doen, Kibler?” Het antwoord is simpel: neem deze dierenkooi en vind een paar worg-welpen voor me. Daarvoor tem ik een worg voor jou!$b",
+   "o": "Reis naar Blackrock Spire en vind Bloodaxe Worg Pups. Gebruik de kooi om de woeste kleine beesten te vervoeren. Breng een Caged Worg Pup terug naar Kibler.",
+   "p": "<Kibler is druk bezig met ruziemaken met Opus.>$b",
+   "c": "Je hebt ze precies op het goede moment, $N. Iets later en ze waren niet meer te trainen! Geef me een minuutje, dan maak ik het kleine ventje klaar zodat je het mee naar huis kunt nemen.",
+   "g": [
+    [
+     "kooien",
+     "cages (kooi)"
+    ],
+    [
+     "in de eerste plaats",
+     "first and foremost"
+    ],
+    [
+     "dierenvriend",
+     "animal lover"
+    ],
+    [
+     "van beroep",
+     "by trade"
+    ],
+    [
+     "verkoper",
+     "salesman"
+    ],
+    [
+     "spoor",
+     "track (opsporen)"
+    ],
+    [
+     "beroemdheden",
+     "celebrities, the famous"
+    ],
+    [
+     "tem",
+     "tame (temmen)"
+    ],
+    [
+     "gedragen",
+     "behave (zich gedragen)"
+    ],
+    [
+     "welpen",
+     "pups, cubs"
+    ],
+    [
+     "woeste",
+     "fierce (woest)"
+    ],
+    [
+     "vervoeren",
+     "to carry, transport"
+    ],
+    [
+     "ruziemaken",
+     "arguing"
+    ],
+    [
+     "ventje",
+     "little fellow"
+    ]
+   ]
+  },
+  "4862": {
+   "t": "Es-Em-Ee-Er-Ie-Gee",
+   "d": "Geloof het of niet, er zijn mensen die willen betalen voor de smerigste getemde beesten!$B$BIk had Bijou de Spire in gestuurd om wat eieren van spire-spinnen te verzamelen, maar ik heb al weken niets van haar gehoord. Misschien kun jij me helpen?$B$BWeet je wat, $N? Ga naar Blackrock Spire en verzamel wat spire-spinneneieren voor me. Breng ze hier terug, en dan krijg je niet alleen wat geld van me, maar tem ik er ook nog een voor je!",
+   "o": "Reis naar Blackrock Spire en verzamel 15 Spire Spider Eggs voor Kibler.$B$BZo te horen kun je deze eieren bij spinnen vinden.$b",
+   "p": "Zitten er spinneneieren in je tas, of ben je gewoon blij om me te zien?",
+   "c": "Wat een lading! Ik bedoel, kijk naar al die eieren! Deze moeten een flinke hoop goud opleveren.$B$BZoals beloofd, hier is je eigen kleine beestje. Pas op dat het niet bijt!",
+   "g": [
+    [
+     "geloof het of niet",
+     "believe it or not"
+    ],
+    [
+     "smerigste",
+     "nastiest, vilest (smerig)"
+    ],
+    [
+     "getemde",
+     "tamed (temmen)"
+    ],
+    [
+     "spinneneieren",
+     "spider eggs"
+    ],
+    [
+     "weet je wat",
+     "I'll tell you what"
+    ],
+    [
+     "zo te horen",
+     "by the sound of it"
+    ],
+    [
+     "lading",
+     "load"
+    ],
+    [
+     "flinke",
+     "hefty (flink)"
+    ],
+    [
+     "opleveren",
+     "to bring in, yield"
+    ],
+    [
+     "beestje",
+     "little critter"
+    ],
+    [
+     "bijt",
+     "bites (bijten)"
+    ]
+   ]
+  },
+  "4983": {
+   "t": "Het verkenningsrapport van Bijou",
+   "d": "Breng dit rapport terug naar Lexlort. Het zal mijn goede naam herstellen en de K.E.F. zeker een strategisch voordeel geven tegen deze orcs.$B$BMet je meekomen? Ik heb veel te veel werk te doen. Ga nu, ze hebben deze rapporten zo snel mogelijk nodig!$b",
+   "o": "Breng Bijou's Reconnaissance Report terug naar Grandmaster Lexlort in Kargath.$b",
+   "p": "Waar is de goblin???",
+   "c": "Dat moet ik haar nageven: ze heeft zich weer eens uit een lastige situatie weten te kletsen! Deze rapporten zullen van onschatbare waarde zijn in onze omgang met de Blackrock-orcs.$B$BJe wordt natuurlijk beloond voor je harde werk.",
+   "g": [
+    [
+     "verkenningsrapport",
+     "reconnaissance report"
+    ],
+    [
+     "herstellen",
+     "to restore, redeem"
+    ],
+    [
+     "strategisch voordeel",
+     "strategic advantage"
+    ],
+    [
+     "nageven",
+     "to give credit (iemand iets nageven)"
+    ],
+    [
+     "lastige",
+     "sticky, awkward (lastig)"
+    ],
+    [
+     "kletsen",
+     "to talk (one's way out)"
+    ],
+    [
+     "onschatbare waarde",
+     "invaluable worth"
+    ],
+    [
+     "omgang",
+     "dealings"
+    ]
+   ]
+  },
+  "5001": {
+   "t": "De spullen van Bijou",
+   "d": "Normaal werk ik niet samen met een $r, maar het lijkt erop dat ik klem zit tussen een trol en een rots. Weet je, mijn missie hier is van het grootste belang voor de Horde. Maar de informatie die ik heb ontdekt, is ook belangrijk voor het welzijn van de Alliance. Geloof me, ik ben geen aanhanger van de Alliance, maar de dreiging van de Blackrock is groter dan alleen een stel orcs.$B$BAls jij mij helpt door mijn spullen te vinden, help ik jou met wat informatie die nuttig kan zijn voor jouw soort.$B$BAfgesproken?",
+   "o": "Vind Bijou's Belongings en breng ze terug naar haar. Veel succes!$b",
+   "p": "Al geluk gehad?",
+   "c": "Nou breekt mijn klomp! Waar waren ze??",
+   "g": [
+    [
+     "klem zit",
+     "am stuck (klem zitten)"
+    ],
+    [
+     "rots",
+     "rock"
+    ],
+    [
+     "van het grootste belang",
+     "of utmost importance"
+    ],
+    [
+     "welzijn",
+     "well-being"
+    ],
+    [
+     "aanhanger",
+     "supporter, sympathizer"
+    ],
+    [
+     "een stel",
+     "a bunch"
+    ],
+    [
+     "nuttig",
+     "useful"
+    ],
+    [
+     "jouw soort",
+     "your kind"
+    ],
+    [
+     "afgesproken",
+     "deal, agreed"
+    ],
+    [
+     "nou breekt mijn klomp",
+     "well I'll be (idiom)"
+    ]
+   ]
+  },
+  "5002": {
+   "t": "Bericht voor Maxwell",
+   "d": "Ik ben een goblin van mijn woord, $r. Luister nu goed:$B$BDeze orcs worden vooral gebruikt als lastdieren en kanonnenvoer voor de zwarte drakenvlucht!$B$BHun echte leider is niemand minder dan Nefarian, kroost van Deathwing. Ik heb ook ontdekt waar de ondergeschikten van Nefarian zich in dit deel van de burcht bevinden.$B$BBreng deze kaart naar Marshal Maxwell in de Burning Steppes. De plekken van deze schurken staan erop aangegeven, zodat je ze makkelijk herkent.",
+   "o": "Reis naar de Burning Steppes en geef Bijou's Information aan Marshal Maxwell.",
+   "p": "Ah, $N. Het is lang geleden.",
+   "c": "Dit komt overeen met veel van wat we al wisten. Toch is het interessante en nogal ongelukkige informatie.$B$BDe aanduidingen op deze kaart zullen waardevol zijn om de Blackrock-dreiging uit te dunnen.",
+   "g": [
+    [
+     "lastdieren",
+     "beasts of burden"
+    ],
+    [
+     "kanonnenvoer",
+     "cannon fodder"
+    ],
+    [
+     "drakenvlucht",
+     "dragonflight"
+    ],
+    [
+     "niemand minder dan",
+     "none other than"
+    ],
+    [
+     "kroost",
+     "brood, offspring"
+    ],
+    [
+     "ondergeschikten",
+     "subordinates"
+    ],
+    [
+     "burcht",
+     "citadel"
+    ],
+    [
+     "schurken",
+     "villains, fiends"
+    ],
+    [
+     "aangegeven",
+     "marked (aangeven)"
+    ],
+    [
+     "komt overeen",
+     "coincides (overeenkomen)"
+    ],
+    [
+     "aanduidingen",
+     "markings"
+    ],
+    [
+     "uit te dunnen",
+     "to thin out (uitdunnen)"
+    ]
+   ]
+  },
+  "4734": {
+   "t": "Eieren bevriezen",
+   "d": "$N, ik heb hard gewerkt aan een nieuw apparaat, de eggscilloscope! Het is gemaakt om een stoot koude energie op het ei van een zwarte draak af te vuren... en het helemaal te bevriezen! Kun jij het voor me testen?$B$BIk heb gehoord dat de draken hoog in Blackrock Spire een broedplaats hebben waar ze hun eieren uitbroeden. Daar moet je heen om de eggscilloscope te testen. Laat me daarna weten hoe het werkte!$B$BEn maak je geen zorgen. Bevroren drakeneieren zouden onschadelijk moeten zijn. Het zijn de niet-bevroren eieren waar je je zorgen over moet maken!",
+   "o": "Gebruik het Eggscilloscope Prototype op een ei in de Rookery.",
+   "p": "$N, heb je de eggscilloscope getest?",
+   "c": "Werkte het? Geweldig! Ik wist het wel!$b$bTerwijl je weg was, werkte ik aan een nieuwe versie van de eggscilloscope. Deze heeft een veel groter bereik.$b$bHier, je mag er een hebben voor als je teruggaat naar Blackrock Spire.",
+   "e": "Test het Eggscilloscope Prototype",
+   "g": [
+    [
+     "apparaat",
+     "device"
+    ],
+    [
+     "stoot",
+     "burst"
+    ],
+    [
+     "af te vuren",
+     "to fire (afvuren)"
+    ],
+    [
+     "bevriezen",
+     "to freeze"
+    ],
+    [
+     "broedplaats",
+     "rookery, breeding place"
+    ],
+    [
+     "uitbroeden",
+     "to hatch"
+    ],
+    [
+     "bevroren",
+     "frozen"
+    ],
+    [
+     "onschadelijk",
+     "harmless"
+    ],
+    [
+     "bereik",
+     "range"
+    ],
+    [
+     "geweldig",
+     "splendid, great"
+    ]
+   ]
+  }
+ },
+ "words": {
+  "afscheidswoorden": "parting words (afscheidswoord)",
+  "besproken": "discussed (bespreken)",
+  "binnenging": "went in, entered (binnengaan)",
+  "blackrock-legioen": "Blackrock legion",
+  "dierenkooi": "animal cage, beast cage",
+  "es-em-ee-er-ie-gee": "S-M-E-R-I-G spelled out: smerig = nasty",
+  "illusies": "illusions (illusie)",
+  "klem": "stuck, jammed (klem zitten)",
+  "mars": "march",
+  "maskerade": "masquerade",
+  "meekomen": "to come along",
+  "niet-bevroren": "unfrozen",
+  "opzet": "intent, purpose (met opzet = on purpose)",
+  "smolderthorn-trollen": "Smolderthorn trolls",
+  "spire-spinnen": "spire spiders",
+  "spire-spinneneieren": "spire spider eggs",
+  "sterksten": "the strongest (sterk)",
+  "struikelde": "stumbled, tripped (struikelen)",
+  "vijfde": "fifth",
+  "worg-dreiging": "worg menace",
+  "worg-welpen": "worg pups",
+  "zesde": "sixth"
+ },
+ "terms": {
+  "eggscilloscope": "eggscilloscope: Tinkee Steamboil's invented device (a pun on egg + oscilloscope)"
+ }
+}
