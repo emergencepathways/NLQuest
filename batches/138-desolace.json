@@ -1,0 +1,1693 @@
+{
+  "quests": {
+    "1361": {
+      "t": "Regthar Deathgate",
+      "d": "Regthar Deathgate, een krijger van de Horde, zoekt agenten voor een missie in het land Desolace. Praat met hem als je je als vrijwilliger wilt melden. Hij is gestationeerd in de Barrens, bij een rij bunkers ten westen van de Crossroads.$B$BEn slijp je wapens. Desolace is een land dat door oorlog verscheurd is.",
+      "o": "Spreek met Regthar Deathgate.",
+      "p": "Ik zie dat je taak nog niet af is, $N. Zal ik Sharlindra vertellen hoe onbekwaam je bent?",
+      "c": "Ja, ik zoek agenten. Deze missie gaat naar Desolace, tegen de centauren daar. Ik houd het kort, zodat je snel kunt beginnen.",
+      "g": [
+        [
+          "agenten",
+          "agents (agent)"
+        ],
+        [
+          "vrijwilliger",
+          "volunteer"
+        ],
+        [
+          "je ... melden",
+          "to volunteer, report (zich melden)"
+        ],
+        [
+          "gestationeerd",
+          "stationed"
+        ],
+        [
+          "bunkers",
+          "bunkers (bunker)"
+        ],
+        [
+          "ten westen van",
+          "west of"
+        ],
+        [
+          "slijp",
+          "sharpen (slijpen)"
+        ],
+        [
+          "verscheurd",
+          "torn (verscheuren)"
+        ],
+        [
+          "onbekwaam",
+          "inept, incompetent"
+        ],
+        [
+          "centauren",
+          "centaurs (centaur)"
+        ],
+        [
+          "ik houd het kort",
+          "I'll keep it brief (het kort houden)"
+        ]
+      ]
+    },
+    "1362": {
+      "t": "De Kolkar van Desolace",
+      "d": "De Kolkar-centauren wonen in Desolace, en hun troepen hebben zich tot in de Barrens verspreid. Dat is bekend, en we hebben hier agenten van de Horde die ze aanpakken.$B$BMaar zolang de centauren in Desolace sterk zijn, blijven ze altijd een gevaar. Het is tijd om dat gevaar weg te nemen.$B$BSpreek met Felgur Twocuts bij Ghost Walker Post in Desolace. Hij is erheen gestuurd om informatie over de centauren te verzamelen. Hij weet hoe we de Kolkar van Desolace het beste kunnen aanpakken.",
+      "o": "Spreek met Felgur Twocuts bij Ghost Walker Post in Desolace.",
+      "c": "Ben je hier in opdracht van Regthar? Dan ben je hier om de centauren aan te pakken. Goed.$B$BIk hoop dat je uitgerust bent. Ik weet niet hoe onze veldtocht tegen de centauren zal eindigen, maar ik weet wel dat de strijd lang zal duren.$B$BGa zitten en luister.",
+      "g": [
+        [
+          "troepen",
+          "troops, forces (troep)"
+        ],
+        [
+          "verspreid",
+          "spread (zich verspreiden)"
+        ],
+        [
+          "bekend",
+          "known"
+        ],
+        [
+          "aanpakken",
+          "to deal with, tackle"
+        ],
+        [
+          "zolang",
+          "as long as"
+        ],
+        [
+          "gevaar",
+          "danger, threat"
+        ],
+        [
+          "weg te nemen",
+          "to remove (wegnemen)"
+        ],
+        [
+          "verzamelen",
+          "to gather, collect"
+        ],
+        [
+          "in opdracht van",
+          "on the orders of"
+        ],
+        [
+          "uitgerust",
+          "rested (uitrusten)"
+        ],
+        [
+          "veldtocht",
+          "campaign (military)"
+        ],
+        [
+          "strijd",
+          "struggle, battle"
+        ]
+      ]
+    },
+    "1367": {
+      "t": "Verbond met de Magram",
+      "d": "Om de centauren te verslaan, moeten we hun haat tegen hen gebruiken. We sluiten een verbond met een van de clans. Via die clan leren we hoe we alle clans kunnen verslaan.$B$BAls je kiest voor een verbond met de Magram, dood dan hun vijanden, de Gelkis. Zo verdien je respect bij de Magram. Als je genoeg respect hebt verdiend, ga dan naar Warug, de woordvoerder van de Magram. Hij staat aan de rand van Magram Village, in het zuidoosten van Desolace.",
+      "o": "Bereik de reputatie Friendly bij de Magram en spreek dan met Warug.",
+      "p": "Weg! De Magram praten niet met zwakken. Wij doden ze!$B$BAls je met mij wilt praten, laat me dan zien dat je sterk bent. Kom terug als je veel Gelkis hebt gedood.",
+      "c": "De Gelkis huilen als ze je naam horen, $N. Ze zijn bang voor je en ze haten je. Ze haten je zoals ze de Magram haten!$b$bMisschien ben je sterk zoals de Magram. We zullen zien...",
+      "g": [
+        [
+          "verslaan",
+          "to defeat"
+        ],
+        [
+          "haat",
+          "hatred"
+        ],
+        [
+          "verbond",
+          "alliance"
+        ],
+        [
+          "sluiten een verbond",
+          "make an alliance (een verbond sluiten)"
+        ],
+        [
+          "verdien",
+          "earn (verdienen)"
+        ],
+        [
+          "verdiend",
+          "earned (verdienen)"
+        ],
+        [
+          "woordvoerder",
+          "spokesman"
+        ],
+        [
+          "aan de rand van",
+          "on the outskirts of"
+        ],
+        [
+          "zuidoosten",
+          "southeast"
+        ],
+        [
+          "zwakken",
+          "the weak (zwakke)"
+        ],
+        [
+          "huilen",
+          "to cry"
+        ]
+      ]
+    },
+    "1368": {
+      "t": "Verbond met de Gelkis",
+      "d": "Om de centauren te verslaan, moeten we hun haat tegen hen gebruiken. We sluiten een verbond met een van de clans. Via die clan leren we hoe we alle clans kunnen verslaan.$B$BAls je kiest voor een verbond met de Gelkis, dood dan hun meest gehate rivaal, de Magram. Als je het respect van de Gelkis hebt verdiend, ga dan naar Uthek the Wise, de sjamaan van de Gelkis. Hij staat aan de rand van Gelkis Village, in het zuidwesten van Desolace.",
+      "o": "Bereik de reputatie Friendly bij de Gelkis en spreek dan met Uthek the Wise.",
+      "p": "Je twee voeten staan op de aarde van de Gelkis. Je bent hier niet welkom!$B$BBewijs dat je vriendschap zoekt met de Gelkis. Dood Magram-centauren. Kom terug als de grond nat is van het bloed van de Magram.",
+      "c": "De aarde spreekt tegen mij. En ze zegt dat je veel Magram hebt gedood. Dat is goed.$B$BAls je een vriend van de Gelkis bent, luister dan. Ik heb meer taken voor je.",
+      "g": [
+        [
+          "verslaan",
+          "to defeat"
+        ],
+        [
+          "haat",
+          "hatred"
+        ],
+        [
+          "verbond",
+          "alliance"
+        ],
+        [
+          "gehate",
+          "hated (haten)"
+        ],
+        [
+          "rivaal",
+          "rival"
+        ],
+        [
+          "verdiend",
+          "earned (verdienen)"
+        ],
+        [
+          "sjamaan",
+          "shaman"
+        ],
+        [
+          "aan de rand van",
+          "on the outskirts of"
+        ],
+        [
+          "zuidwesten",
+          "southwest"
+        ],
+        [
+          "bewijs",
+          "prove (bewijzen)"
+        ],
+        [
+          "vriendschap",
+          "friendship"
+        ],
+        [
+          "aarde",
+          "earth"
+        ]
+      ]
+    },
+    "1480": {
+      "t": "De verderver",
+      "d": "De gescheurde huid ruikt rot. Hij lijkt droog en breekbaar, maar toch is hij opvallend soepel.$B$BAls je hem openrolt, zie je aan één kant duidelijk rode tekens van een soort taal. Onderaan de huid staat een heel duidelijk symbool. Je denkt dat het een soort handtekening is.$B$BMisschien kan Maurin je er meer over vertellen?",
+      "o": "Breng de Flayed Demon Skin naar Maurin Bonesplitter in Desolace.",
+      "p": "De Burning Blade begint te beseffen hoe zwak ze echt zijn. Hun magie is zielig, hun kracht is slap.$B$BHun enige macht komt van wie ze dienen, en niet van enig begrip van echte macht en kennis.",
+      "c": "Hm, deze runen zijn inderdaad een taal, $N, een oude taal. Ze lijken een beetje op de Eredun-taal, maar de verschillen zijn enorm. Als ik me niet vergis, is dit een soort contract... Hier, ja, dit symbool is de handtekening van de demon: Lord Azrethoc.",
+      "g": [
+        [
+          "verderver",
+          "corrupter"
+        ],
+        [
+          "gescheurde",
+          "torn (scheuren)"
+        ],
+        [
+          "huid",
+          "skin, hide"
+        ],
+        [
+          "rot",
+          "rotten"
+        ],
+        [
+          "breekbaar",
+          "fragile"
+        ],
+        [
+          "opvallend",
+          "remarkably"
+        ],
+        [
+          "soepel",
+          "pliable, supple"
+        ],
+        [
+          "openrolt",
+          "unroll (openrollen)"
+        ],
+        [
+          "tekens",
+          "markings, signs (teken)"
+        ],
+        [
+          "handtekening",
+          "signature"
+        ],
+        [
+          "beseffen",
+          "to realize"
+        ],
+        [
+          "zielig",
+          "pathetic"
+        ],
+        [
+          "slap",
+          "feeble, weak"
+        ],
+        [
+          "begrip",
+          "understanding"
+        ],
+        [
+          "als ik me niet vergis",
+          "if I am not mistaken (zich vergissen)"
+        ]
+      ]
+    },
+    "1481": {
+      "t": "De verderver",
+      "d": "Ik denk dat ik deze demonenheer kan vinden, als ik de juiste ingrediënten heb.$B$BAls hij echt zo machtig is als ik denk, heb ik dingen nodig van dodelijke wezens. Maar jij handelt in naam van de Warchief, dus ik weet zeker dat je mijn taak aanneemt.$B$BEerst moet ik alle beschermingen breken die hij heeft tegen magisch bespieden. Daarvoor heb ik de scalp van een sater nodig, maar niet van zomaar een sater. De scalp moet van een Hatefury shadowstalker komen.$B$BZoek ze tussen de oude ruïnes in het noordoosten van Desolace.",
+      "o": "Breng een Shadowstalker Scalp naar Maurin Bonesplitter in Desolace.",
+      "p": "Breng me geen verkeerde scalp, $c. Met de verkeerde ingrediënten kunnen we allebei sterven. Misschien heeft de demonenheer spreuken bij zich die iedereen doden die hem met magie wil bespieden.$B$BHet lot heeft me al genoeg pijn gedaan.",
+      "c": "De shadowstalkers konden je niet doden, $c. Indrukwekkend... heel indrukwekkend.$B$BDeze scalp is prima voor mijn spreuk. Terwijl je weg was, heb ik een paar van de andere ingrediënten voor de spreuk kunnen verzamelen.$B$BIk ben bijna klaar. Ik heb alleen nog een focus nodig voor de spreuk: iets dat een beeld laat zien van de demonenheer en van de plek waar hij is.",
+      "g": [
+        [
+          "demonenheer",
+          "demon lord"
+        ],
+        [
+          "ingrediënten",
+          "reagents, ingredients (ingrediënt)"
+        ],
+        [
+          "wezens",
+          "creatures (wezen)"
+        ],
+        [
+          "handelt",
+          "act (handelen)"
+        ],
+        [
+          "in naam van",
+          "in the name of"
+        ],
+        [
+          "aanneemt",
+          "accept (aannemen)"
+        ],
+        [
+          "beschermingen",
+          "wards, protections (bescherming)"
+        ],
+        [
+          "bespieden",
+          "to spy on, scry"
+        ],
+        [
+          "scalp",
+          "scalp"
+        ],
+        [
+          "sater",
+          "satyr"
+        ],
+        [
+          "zomaar een",
+          "just any"
+        ],
+        [
+          "ruïnes",
+          "ruins (ruïne)"
+        ],
+        [
+          "het lot",
+          "fate"
+        ],
+        [
+          "indrukwekkend",
+          "impressive"
+        ],
+        [
+          "beeld",
+          "image"
+        ]
+      ]
+    },
+    "1484": {
+      "t": "De verderver",
+      "d": "Dit wezen is veel gevaarlijker dan ik had verwacht. Takata twijfelt vast of ik zo'n wezen aankan. En het zou zijn eer beledigen als hij niet hoort wat er net is gebeurd.$B$BPraat met de zwaardvechter. Zeg hem dat je de demon wilt doden als hij dat toestaat. Maar dring niet te hard aan. Het is beter als hij denkt dat het zijn eigen idee is.",
+      "o": "Spreek met Takata Steelblade in Desolace.",
+      "c": "Ik heb gezien wat er net gebeurde met Maurin en de demonenheer. Dat wezen lijkt meer macht te hebben dan mijn metgezel, de heksenmeester, zelfs als verschijning. Ik vraag me af of hij deze taak aankan. Het zou de Warchief beter dienen als ik zelf ga. Maar ik heb hier mijn plichten. Ik zou mijn clan te schande maken als ik mijn plichten hier in de steek liet om voor mijn eigen eer tegen dit kwaad te vechten.",
+      "g": [
+        [
+          "verwacht",
+          "expected (verwachten)"
+        ],
+        [
+          "twijfelt",
+          "doubt (twijfelen)"
+        ],
+        [
+          "aankan",
+          "can handle (aankunnen)"
+        ],
+        [
+          "eer",
+          "honor"
+        ],
+        [
+          "beledigen",
+          "to insult"
+        ],
+        [
+          "zwaardvechter",
+          "swordsman"
+        ],
+        [
+          "toestaat",
+          "allow (toestaan)"
+        ],
+        [
+          "dring ... aan",
+          "insist, press (aandringen)"
+        ],
+        [
+          "metgezel",
+          "companion"
+        ],
+        [
+          "heksenmeester",
+          "warlock"
+        ],
+        [
+          "verschijning",
+          "apparition"
+        ],
+        [
+          "plichten",
+          "duties (plicht)"
+        ],
+        [
+          "te schande maken",
+          "to disgrace"
+        ],
+        [
+          "in de steek liet",
+          "abandoned, turned my back on (in de steek laten)"
+        ],
+        [
+          "kwaad",
+          "evil"
+        ]
+      ]
+    },
+    "1365": {
+      "t": "Khan Dez'hepah",
+      "d": "De Kolkar zijn niet de enige centauren in Desolace. Veel clans trekken rond over deze droge vlaktes. Ze vechten tegen elkaar en sterven in die gevechten. En het is goed dat ze onderling vechten, want ze zijn sterk en wreed. Als de centauren zich tegen ons zouden verenigen, zouden ze een felle vijand zijn.$B$BWe moeten ze aanpakken voordat ze zich verenigen.$B$BJe eerste taak is om de Kolkar-clan te verstoren. Dat doe je door hun leider te doden, Khan Dez'hepah.$B$BKolkar Village ligt ten noordoosten van hier. Ga, en moge het geluk met je zijn.",
+      "o": "Breng Khan Dez'hepah's Head naar Felgur Twocuts in Desolace.",
+      "p": "$N, heb je Khan Dez'hepah verslagen?",
+      "c": "Goed gedaan. Deze snelle aanval op de Kolkar laat duidelijk onze kracht zien, en kracht is wat de centauren het beste begrijpen.$B$BDe dood van de Kolkar-leider verstoort niet alleen die clan, maar laat ook de andere clans aarzelen.",
+      "g": [
+        [
+          "trekken rond",
+          "wander (rondtrekken)"
+        ],
+        [
+          "vlaktes",
+          "plains (vlakte)"
+        ],
+        [
+          "onderling",
+          "among themselves"
+        ],
+        [
+          "wreed",
+          "brutal, cruel"
+        ],
+        [
+          "verenigen",
+          "to unite"
+        ],
+        [
+          "fel",
+          "fierce"
+        ],
+        [
+          "felle",
+          "fierce (fel)"
+        ],
+        [
+          "verstoren",
+          "to disrupt"
+        ],
+        [
+          "verstoort",
+          "disrupts (verstoren)"
+        ],
+        [
+          "moge het geluk met je zijn",
+          "may fortune go with you"
+        ],
+        [
+          "verslagen",
+          "defeated (verslaan)"
+        ],
+        [
+          "aarzelen",
+          "to hesitate"
+        ]
+      ]
+    },
+    "1482": {
+      "t": "De verderver",
+      "d": "Een orakelkristal zou heel goed zijn. De naga maken ze, zodat hun orakels ze kunnen gebruiken.$B$BTen noordwesten van hier, langs de kust, ligt een groot koraalrif. Daar wonen de naga als ze zo dicht bij de kust zijn. Daar kun je hun orakels vinden. De Slitherblade zijn dodelijk en zullen niet blij zijn als je bij ze binnendringt. Wees dus voorzichtig en schiet op.$B$BAls je terugkomt, gaan we kijken of we deze demonenheer Azrethoc kunnen vinden.",
+      "o": "Breng een Oracle Crystal naar Maurin Bonesplitter in Desolace.",
+      "p": "Ik ben klaar voor het orakelkristal, $c. Als we deze Lord Azrethoc vinden en vernietigen, zal de Warchief ons allebei zeer dankbaar zijn. We doen er goed aan om samen te werken, en snel. Zo kunnen we onze eigen doelen bereiken en in de gunst komen bij de Warchief.",
+      "c": "Een kostbaar orakelkristal... zonder fouten... prachtig. Inderdaad.$B$BWe beginnen meteen. Deze demonenheer vinden moet onze eerste zorg zijn, en hem doden vraagt al onze aandacht.$B$BDoe een stap achteruit, $c, en laten we zien wat deze demon is en waar we hem kunnen vinden.",
+      "g": [
+        [
+          "orakelkristal",
+          "oracle crystal"
+        ],
+        [
+          "orakels",
+          "oracles (orakel)"
+        ],
+        [
+          "ten noordwesten van",
+          "northwest of"
+        ],
+        [
+          "kust",
+          "coast, shore"
+        ],
+        [
+          "koraalrif",
+          "coral reef"
+        ],
+        [
+          "binnendringt",
+          "intrude (binnendringen)"
+        ],
+        [
+          "schiet op",
+          "hurry up (opschieten)"
+        ],
+        [
+          "vernietigen",
+          "to destroy"
+        ],
+        [
+          "we doen er goed aan",
+          "we would do well (er goed aan doen)"
+        ],
+        [
+          "in de gunst komen",
+          "to curry favor"
+        ],
+        [
+          "kostbaar",
+          "precious"
+        ],
+        [
+          "zorg",
+          "concern"
+        ],
+        [
+          "aandacht",
+          "attention"
+        ],
+        [
+          "achteruit",
+          "back, backwards"
+        ]
+      ]
+    },
+    "6142": {
+      "t": "Aas van schelpdieren",
+      "d": "Je ziet eruit als een visser, $c! Ik vis heel graag. Ik vis al mijn hele leven. Het beste aas is het vlees van zachte schelpdieren. De vissen kunnen het gewoon niet weerstaan, snap je?$B$BIn het noorden vind je een scheepswrak voor de kust. Overal in dat gebied liggen zachte schelpdieren. Als je me 10 stukken vlees van zachte schelpdieren brengt, krijg je iets van me terug.",
+      "o": "Zoek 10 Soft-shelled Clam Meat en breng ze naar Mai'Lahii in Shadowprey Village.",
+      "p": "Ik kan niet wachten om te gaan vissen met vers vlees van zachte schelpdieren. Heb je de 10 stukken bij je die ik nodig heb?",
+      "c": "Perfect, mon. Dit is precies wat de medicijnman zei tegen mijn hoofdpijn. Hij zegt: 'Mai'Lahii, ga vissen. Dan voel je je beter.'$B$BNou, ik voel me nu al beter, bedankt, mon!",
+      "g": [
+        [
+          "aas",
+          "bait"
+        ],
+        [
+          "schelpdieren",
+          "clams, shellfish (schelpdier)"
+        ],
+        [
+          "zachte schelpdieren",
+          "soft-shelled clams"
+        ],
+        [
+          "visser",
+          "fisherman"
+        ],
+        [
+          "weerstaan",
+          "to resist"
+        ],
+        [
+          "snap je",
+          "you know what I mean? (snappen)"
+        ],
+        [
+          "scheepswrak",
+          "shipwreck"
+        ],
+        [
+          "voor de kust",
+          "off the coast"
+        ],
+        [
+          "gebied",
+          "area"
+        ],
+        [
+          "kan niet wachten",
+          "can't wait (wachten)"
+        ],
+        [
+          "medicijnman",
+          "witch doctor"
+        ],
+        [
+          "hoofdpijn",
+          "headache"
+        ]
+      ]
+    },
+    "6143": {
+      "t": "Andere vissen te bakken",
+      "d": "Misschien heb je het gehoord, misschien niet... Mijn bemanning en ik waren aan het vissen bij Ranazjar Isle, ten noorden van het scheepswrak voor de kust in het noorden. Vroeger visten we daar altijd. Nu denk ik alleen nog na over hoe ik mijn gevallen kameraden kan wreken.$B$BOp een ochtend vielen de naga ons aan. Ze doodden iedereen behalve mij.$B$BMijn geweten kan het schuldgevoel niet aan, $c. Ik wil dat je die naga voor me gaat bakken. Ik zorg ervoor dat het de moeite waard is. Denk je dat je me daarmee kunt helpen?",
+      "o": "Dood 7 Slitherblade Myrmidon, 7 Slitherblade Naga en 5 Slitherblade Sorceresses en praat dan met Drulzegar in Shadowprey in Desolace.",
+      "p": "Ik hoor nog steeds hun stemmen die om hulp riepen toen de naga hun chaos over ons loslieten. Als ik deze slechte knie niet had, zou ik je helpen om die vervloekte naga te doden!$B$BJe vindt ze bijna altijd diep in de koraalriffen onder het water... loerend... plannen smedend...",
+      "c": "Het nieuws dat de naga verslagen zijn, is heerlijk om te horen, maar mijn hart voelt nog steeds leeg. De rest van mijn leven zal ik eraan wijden om ze allemaal te laten doden.$B$BHier, mon, je beloning, zoals ik had beloofd. Hij is klein in vergelijking met de voldoening dat de naga gebakken zijn voor hun gehate daad tegen mijn bemanning.",
+      "g": [
+        [
+          "bemanning",
+          "crew"
+        ],
+        [
+          "gevallen",
+          "fallen (vallen)"
+        ],
+        [
+          "kameraden",
+          "comrades (kameraad)"
+        ],
+        [
+          "wreken",
+          "to avenge"
+        ],
+        [
+          "geweten",
+          "conscience"
+        ],
+        [
+          "schuldgevoel",
+          "guilt"
+        ],
+        [
+          "de moeite waard",
+          "worth the effort"
+        ],
+        [
+          "loslieten",
+          "unleashed (loslaten)"
+        ],
+        [
+          "vervloekte",
+          "blasted, cursed"
+        ],
+        [
+          "koraalriffen",
+          "coral reefs (koraalrif)"
+        ],
+        [
+          "loerend",
+          "lurking (loeren)"
+        ],
+        [
+          "plannen smedend",
+          "scheming (plannen smeden)"
+        ],
+        [
+          "eraan wijden",
+          "to dedicate to (wijden aan)"
+        ],
+        [
+          "in vergelijking met",
+          "in comparison to"
+        ],
+        [
+          "voldoening",
+          "gratification, satisfaction"
+        ],
+        [
+          "daad",
+          "act, deed"
+        ]
+      ]
+    },
+    "5386": {
+      "t": "Vangst van de dag",
+      "d": "De geur van gekookte vis is hier bij Ghost Walker Post al lang verdwenen. De trollen in Shadowprey Village zijn het beste in het vangen van vis... maar helaas heb ik door alle activiteiten van de centauren weinig tijd om naar de trollen te reizen. Hm...$B$BDoe me een plezier en reis naar Shadowprey Village. Praat met de visser daar, Jinar'Zillen, en breng mijn favoriet voor me mee: Bloodbelly-vis. De weg ten zuiden van hier brengt je naar het westen, naar het trollendorp.",
+      "o": "Praat met Jinar'Zillen in Shadowprey Village en breng daarna 2 Bloodbelly fish naar Nataka Longhorn.",
+      "p": "Mijn hoef tintelt en het water loopt me in de mond als ik aan gebakken Bloodbelly-vis denk... Heb je er een paar bij je?",
+      "c": "Je bent mijn redder, $N! Deze Bloodbelly-vissen zien er bijna goed genoeg uit om rauw te eten.$B$B<Nataka begint te kwijlen.>$B$BAlsjeblieft, kies een van deze spullen als betaling voor de vis.",
+      "g": [
+        [
+          "vangst",
+          "catch"
+        ],
+        [
+          "geur",
+          "smell"
+        ],
+        [
+          "gekookte",
+          "cooked (koken)"
+        ],
+        [
+          "verdwenen",
+          "gone, disappeared (verdwijnen)"
+        ],
+        [
+          "helaas",
+          "alas, unfortunately"
+        ],
+        [
+          "activiteiten",
+          "activities (activiteit)"
+        ],
+        [
+          "doe me een plezier",
+          "do me a favor"
+        ],
+        [
+          "hoef",
+          "hoof"
+        ],
+        [
+          "tintelt",
+          "tingles (tintelen)"
+        ],
+        [
+          "het water loopt me in de mond",
+          "my mouth waters"
+        ],
+        [
+          "redder",
+          "savior"
+        ],
+        [
+          "rauw",
+          "raw"
+        ],
+        [
+          "kwijlen",
+          "to drool, salivate"
+        ],
+        [
+          "betaling",
+          "payment"
+        ]
+      ]
+    },
+    "5381": {
+      "t": "Hand of Iruxos",
+      "d": "De Burning Blade heeft de Demon Box. Daarin ligt de machtige Hand of Iruxos. De Burning Blade gebruikt hem om demonenpoorten te openen bij Mannoroc Coven. We moeten de stroom demonen tegenhouden die onze wereld binnenkomt, $n!$B$BGebruik deze Demon Pick op het rode kristal in Thunder Axe Fortress, zodat je bij de Demon Box kunt komen.",
+      "o": "Haal de Demon Box uit Thunder Axe Fortress en breng hem samen met de Demon Pick terug naar Taiga Wisemane in Shadowprey Village.",
+      "p": "$n, heb je de Demon Box?",
+      "c": "Ah, de Demon Box. Geef hem aan mij, $c, dan zal ik hem openen... en zo de Hand of Iruxos aan je laten zien.",
+      "g": [
+        [
+          "daarin",
+          "within it, in it"
+        ],
+        [
+          "machtige",
+          "powerful (machtig)"
+        ],
+        [
+          "demonenpoorten",
+          "demonic portals (demonenpoort)"
+        ],
+        [
+          "stroom",
+          "tide, stream"
+        ],
+        [
+          "tegenhouden",
+          "to stop, hold back"
+        ],
+        [
+          "binnenkomt",
+          "enters (binnenkomen)"
+        ],
+        [
+          "kristal",
+          "crystal"
+        ],
+        [
+          "samen met",
+          "along with"
+        ],
+        [
+          "zo",
+          "thus, in this way"
+        ]
+      ]
+    },
+    "5581": {
+      "t": "Poorten van de Legion",
+      "d": "Kijk: de Hand of Iruxos. Een gruwelijk gezicht, zeker.$B$BJe moet hem bij je hebben als de demonenpoorten bij Mannoroc Coven verbannen moeten worden... en dat is wat ik je nu vraag. De dreiging van de demonen wordt groter, en we moeten deze poorten sluiten om de stroom demonen naar deze wereld te stoppen. Veel geluk, $N... en pas op voor de bewakers van de poorten.",
+      "o": "Verban 6 poorten bij Mannoroc Coven en ga terug naar Taiga Wisemane in Shadowprey Village.",
+      "p": "Heb je de demonenpoorten bij Mannoroc Coven verbannen?",
+      "c": "Je verdient lof, $n. Door jouw inzet hebben we veel bereikt in de strijd tegen de dreiging van de demonen, en heel Azeroth is daardoor veiliger.",
+      "o1": "Poorten verbannen",
+      "g": [
+        [
+          "poorten",
+          "portals (poort)"
+        ],
+        [
+          "gruwelijk",
+          "gruesome"
+        ],
+        [
+          "gezicht",
+          "sight"
+        ],
+        [
+          "verbannen",
+          "to banish; banished"
+        ],
+        [
+          "verban",
+          "banish (verbannen)"
+        ],
+        [
+          "dreiging",
+          "threat"
+        ],
+        [
+          "stroom",
+          "tide, stream"
+        ],
+        [
+          "pas op voor",
+          "beware of (oppassen)"
+        ],
+        [
+          "bewakers",
+          "guardians (bewaker)"
+        ],
+        [
+          "lof",
+          "praise"
+        ],
+        [
+          "inzet",
+          "effort, dedication"
+        ],
+        [
+          "daardoor",
+          "because of it"
+        ]
+      ]
+    },
+    "1488": {
+      "t": "De verderver",
+      "d": "Ik weet niets van deze Lord Azrethoc, maar ik ben het met Maurin eens: hij moet worden tegengehouden. Vooral als hij invloed probeert te krijgen op de Burning Blade om zijn eigen doelen te bereiken.$B$BJe hebt al laten zien dat je de Warchief wilt helpen. Ik vertrouw erop dat je een groep kunt verzamelen om de demonenheer en zijn dienaar, de heksenmeester, te doden.$B$BAls je klaar bent, ga dan recht naar het zuiden. Kom terug naar mij als de dreiging voorbij is.",
+      "o": "Dood Lord Azrethoc en Jugkar Grim'rod en ga terug naar Takata Steelblade in Desolace.",
+      "p": "Glorie aan de Horde, en dood aan onze vijanden, $N!$B$BDe demonen in Desolace zijn een groter gevaar dan ooit. Mijn hoop om terug te keren naar de Warchief wordt kleiner, nu er steeds meer van die smerige wezens lijken te verschijnen.$B$BSoms zou ik willen dat we alleen met de centauren te maken hadden.",
+      "c": "Een grote overwinning voor ons allemaal, $N. Laten we ons verheugen over je succes. Ik denk nu dat onze toekomst hier niet zo somber is als ik eerst dacht.$B$BDe demonen zullen gedood worden, de Burning Blade zal mislukken in hun plannen, en misschien hebben we op een dag weer een plek die we veilig ons thuis kunnen noemen.",
+      "g": [
+        [
+          "het eens zijn met",
+          "to agree with"
+        ],
+        [
+          "tegengehouden",
+          "stopped (tegenhouden)"
+        ],
+        [
+          "invloed",
+          "influence"
+        ],
+        [
+          "doelen",
+          "goals (doel)"
+        ],
+        [
+          "vertrouw erop",
+          "trust (erop vertrouwen)"
+        ],
+        [
+          "dienaar",
+          "servant"
+        ],
+        [
+          "glorie",
+          "glory"
+        ],
+        [
+          "terug te keren",
+          "to return (terugkeren)"
+        ],
+        [
+          "smerige",
+          "foul (smerig)"
+        ],
+        [
+          "verschijnen",
+          "to appear"
+        ],
+        [
+          "te maken hadden met",
+          "had to deal with (te maken hebben met)"
+        ],
+        [
+          "overwinning",
+          "victory"
+        ],
+        [
+          "ons verheugen",
+          "rejoice (zich verheugen)"
+        ],
+        [
+          "somber",
+          "bleak, gloomy"
+        ],
+        [
+          "mislukken",
+          "to fail"
+        ]
+      ]
+    },
+    "677": {
+      "t": "Te wapen",
+      "d": "De Witherbark-trollen en de Boulderfist-ogers van Arathi werken samen om ons uit dit land te verdrijven. Maar wij zullen niet door hun hand aan ons einde komen, en ook niet door de hand van iemand anders. We zullen ze doden en ze laten zien dat ook wij hier een thuis hebben.$B$BDe trollen hebben ons de rug toegekeerd. De ogers zouden ons als voedsel en beddengoed gebruiken als we dat zouden toelaten. Dat zal niet gebeuren.$B$BWe beginnen onze aanval op de Witherbark-trollen ten zuiden van hier. Dood ze in grote aantallen, en kom pas terug als hun kampen vol bloed zijn.",
+      "o": "Dood 10 Witherbark Axe Throwers, 10 Headhunters en 8 Witch Doctors en ga terug naar Drum Fel in de buitenpost Hammerfall.",
+      "p": "Als je mijn taak nog niet hebt afgemaakt, ben je misschien een lafaard in je hart en ook een beginner in de oorlog.",
+      "c": "De sporen van de oorlog zitten op je kleren, en het zweet druipt van je voorhoofd. Goed, heel goed.",
+      "g": [
+        [
+          "te wapen",
+          "call to arms, to arms!"
+        ],
+        [
+          "ogers",
+          "ogres (oger)"
+        ],
+        [
+          "verdrijven",
+          "to drive out"
+        ],
+        [
+          "aan ons einde komen",
+          "to meet our end"
+        ],
+        [
+          "de rug toegekeerd",
+          "turned their backs (de rug toekeren)"
+        ],
+        [
+          "beddengoed",
+          "bedding"
+        ],
+        [
+          "toelaten",
+          "to allow"
+        ],
+        [
+          "in grote aantallen",
+          "in droves"
+        ],
+        [
+          "kampen",
+          "camps (kamp)"
+        ],
+        [
+          "buitenpost",
+          "outpost"
+        ],
+        [
+          "lafaard",
+          "coward"
+        ],
+        [
+          "beginner",
+          "novice, tyro"
+        ],
+        [
+          "sporen",
+          "signs, traces (spoor)"
+        ],
+        [
+          "zweet",
+          "sweat"
+        ],
+        [
+          "druipt",
+          "drips (druipen)"
+        ],
+        [
+          "voorhoofd",
+          "forehead, brow"
+        ]
+      ]
+    },
+    "671": {
+      "t": "Vuile magie",
+      "d": "Ik voel al een tijd iets vreemds in de lucht... een gevoel dat in mijn bloed borrelt. Ik had mijn vermoedens. Ik ging op zoek naar de bron van mijn onrust. In het westen, bij Northfold Manor, vond ik de sporen die achterblijven na het oproepen van demonen. Toen ik dichterbij kwam, begon mijn bloed te koken en groeide de woede in mij.$b$bOp de grond zag ik een amulet van bloedsteen. Zo'n amulet wordt gebruikt om te helpen bij het oproepen van demonen. Maar het amulet dat ik vond, was uitgeput. Ik heb er nog een nodig om te onderzoeken, maar ik durf niet terug te gaan naar het landhuis. Kun je er een paar voor me halen?",
+      "o": "Haal 10 Bloodstone Amulets voor Tor'gan in Hammerfall.",
+      "p": "Er stroomt nog steeds bloed door mijn aderen dat ooit vervloekt was, $n. Als iemand... iets demonen oproept, moet dat worden tegengehouden.",
+      "c": "Het zal even duren voordat ik weet wat het Syndicate echt van plan is. Maar het maakt me ongerust dat ze zo duidelijk te maken hebben met duistere, demonische magie. Ik vertel het je als ik meer weet.",
+      "g": [
+        [
+          "vuile",
+          "foul (vuil)"
+        ],
+        [
+          "borrelt",
+          "simmers, bubbles (borrelen)"
+        ],
+        [
+          "vermoedens",
+          "suspicions (vermoeden)"
+        ],
+        [
+          "bron",
+          "source"
+        ],
+        [
+          "onrust",
+          "unease"
+        ],
+        [
+          "sporen",
+          "traces (spoor)"
+        ],
+        [
+          "achterblijven",
+          "to be left behind"
+        ],
+        [
+          "oproepen",
+          "summoning, to summon"
+        ],
+        [
+          "woede",
+          "rage"
+        ],
+        [
+          "bloedsteen",
+          "bloodstone"
+        ],
+        [
+          "uitgeput",
+          "depleted, exhausted"
+        ],
+        [
+          "onderzoeken",
+          "to examine"
+        ],
+        [
+          "landhuis",
+          "manor"
+        ],
+        [
+          "aderen",
+          "veins (ader)"
+        ],
+        [
+          "ongerust",
+          "worried, troubled"
+        ]
+      ]
+    },
+    "655": {
+      "t": "Hammerfall",
+      "d": "Ik zie het nog steeds duidelijk voor me, alsof het gisteren gebeurde... Zoveel jaren zonder hoop, met hout en staal die me aan deze vreselijke plek bonden. En toen eindelijk, eindelijk! Daar was de Warchief. Doomhammer in zijn harnas, zwart als middernacht, met zijn strijdhamer hoog in de lucht.$b$bHet was... te vreselijk... Dat de klap van een lafaard onze grootste held kon neerslaan. Van achteren kwam hij aanstormen op zijn paard, en toen ging zijn lans dwars door hem heen... Ik viel op mijn knieën. Welke hoop bleef er nog over? Welke hoop is er nog...",
+      "o": "Spreek met Tor'gan in Hammerfall.",
+      "c": "Ah, je hebt het over Gor'mul. Ja, uit wat hij zegt, lijkt het alsof hij nooit over de dood van Doomhammer heen is gekomen.$b$bGor'mul was hier een gevangene toen Thrall en Orgrim vochten om het kamp te bevrijden. Maar toen de aarde schudde en onze broeders ontsnapten, bleef hij achter. Hij zwierf jarenlang alleen en verloren rond, zonder richting of hoop, tot wij terugkwamen en ons hier in Hammerfall vestigden.",
+      "g": [
+        [
+          "alsof",
+          "as if"
+        ],
+        [
+          "staal",
+          "steel"
+        ],
+        [
+          "bonden",
+          "bound (binden)"
+        ],
+        [
+          "harnas",
+          "plate armor"
+        ],
+        [
+          "middernacht",
+          "midnight"
+        ],
+        [
+          "strijdhamer",
+          "warhammer"
+        ],
+        [
+          "klap",
+          "blow"
+        ],
+        [
+          "lafaard",
+          "coward"
+        ],
+        [
+          "neerslaan",
+          "to strike down"
+        ],
+        [
+          "aanstormen",
+          "to charge"
+        ],
+        [
+          "lans",
+          "lance"
+        ],
+        [
+          "dwars door",
+          "right through"
+        ],
+        [
+          "over ... heen is gekomen",
+          "has gotten over (over iets heen komen)"
+        ],
+        [
+          "gevangene",
+          "captive, prisoner"
+        ],
+        [
+          "bevrijden",
+          "to free"
+        ],
+        [
+          "broeders",
+          "brethren (broeder)"
+        ],
+        [
+          "zwierf ... rond",
+          "wandered (rondzwerven)"
+        ],
+        [
+          "vestigden",
+          "established ourselves (zich vestigen)"
+        ]
+      ]
+    },
+    "672": {
+      "t": "De geest opbeuren",
+      "d": "We probeerden hem zich hier thuis te laten voelen en hem op te vrolijken. We vertelden hem verhalen over onze machtige stad Orgrimmar in Kalimdor, maar niets raakte hem.$b$bVerhalen over onze jonge Warchief, Thrall, die het harnas en de hamer van Orgrim draagt... maar misschien... Misschien! Als we hem onze pas ontdekte sjamanistische magie laten zien, geeft dat hem misschien nieuwe hoop. Het is het proberen waard!$b$bWe kunnen een klein voorwerp voor hem maken, ja... Breng me wat raptorogen, dan kijk ik wat ik kan doen.",
+      "o": "Haal 10 Highland Raptor Eyes bij Highland Striders en Highland Thrashers voor Tor'gan in Hammerfall.",
+      "p": "Ik maak een amulet dat Gor'mul een deel van de kracht van de raptors geeft. Misschien maakt dat een vlam in hem wakker...",
+      "c": "Uitstekend. De geesten van de raptors die deze ogen gaven, zullen kracht geven aan wie dit amulet draagt.",
+      "g": [
+        [
+          "opbeuren",
+          "to cheer up, raise (spirits)"
+        ],
+        [
+          "op te vrolijken",
+          "to cheer up (opvrolijken)"
+        ],
+        [
+          "raakte",
+          "moved, touched (raken)"
+        ],
+        [
+          "harnas",
+          "armor"
+        ],
+        [
+          "pas ontdekte",
+          "newly found (ontdekken)"
+        ],
+        [
+          "sjamanistische",
+          "shamanistic"
+        ],
+        [
+          "het proberen waard",
+          "worth a try"
+        ],
+        [
+          "voorwerp",
+          "object"
+        ],
+        [
+          "raptorogen",
+          "raptor eyes (raptoroog)"
+        ],
+        [
+          "vlam",
+          "flame"
+        ],
+        [
+          "maakt ... wakker",
+          "awakens (wakker maken)"
+        ]
+      ]
+    },
+    "674": {
+      "t": "De geest opbeuren",
+      "d": "Hier, breng dit amulet naar Gor'mul. Kijk of de kracht van de raptors de vlam kan wekken van de krijger die ooit door zijn aderen brandde.",
+      "o": "Geef de Raptor Talon Amulet aan Gor'mul.",
+      "p": "Welke hoop is er als de hand van een lafaard de machtigste van de machtigsten kan doden? Welke hoop, vraag ik je!",
+      "c": "Wat is dit? Gepolijst bot. Wat moet ik met gepolijst bot? Brengt een snuisterij de Horde terug naar haar glorie?",
+      "g": [
+        [
+          "wekken",
+          "to awaken"
+        ],
+        [
+          "aderen",
+          "veins (ader)"
+        ],
+        [
+          "brandde",
+          "burned (branden)"
+        ],
+        [
+          "lafaard",
+          "coward"
+        ],
+        [
+          "machtigste",
+          "mightiest (machtig)"
+        ],
+        [
+          "gepolijst",
+          "polished (polijsten)"
+        ],
+        [
+          "bot",
+          "bone"
+        ],
+        [
+          "snuisterij",
+          "trinket"
+        ],
+        [
+          "glorie",
+          "glory"
+        ]
+      ]
+    },
+    "675": {
+      "t": "De geest opbeuren",
+      "d": "<Gor'mul gooit het amulet in de grond.>$b$bTor'gan heeft je gestuurd, hè? Pff! Waarom hij medelijden met me heeft, begrijp ik niet. Ik kreeg geen genade toen ik niet samen met mijn Warchief in de strijd mocht sterven. Het lot heeft me een wrede klap gegeven...",
+      "o": "Spreek met Tor'gan.",
+      "c": "Het heeft niet gewerkt, zie ik. Toch denk ik dat Gor'mul uiteindelijk weer zijn oude, trotse zelf wordt als we hem de kracht van de sjamanen laten zien. De kracht van het amulet was niet groot genoeg om hem onze nieuwe kracht te laten zien.",
+      "g": [
+        [
+          "gooit",
+          "tosses (gooien)"
+        ],
+        [
+          "medelijden",
+          "pity, mercy"
+        ],
+        [
+          "genade",
+          "mercy"
+        ],
+        [
+          "het lot",
+          "fate"
+        ],
+        [
+          "wrede",
+          "cruel (wreed)"
+        ],
+        [
+          "klap",
+          "blow"
+        ],
+        [
+          "uiteindelijk",
+          "eventually"
+        ],
+        [
+          "trotse",
+          "proud (trots)"
+        ],
+        [
+          "zelf",
+          "self"
+        ]
+      ]
+    },
+    "639": {
+      "t": "Sigil of Strom",
+      "d": "Lang geleden vochten de trollen tegen het Arathorian Empire en tegen onze sterkste tegenstander, Lord Ignaeus of Strom, die Trollbane werd genoemd. Hij reed de strijd in met Trol'kalar, wat 'trollendoder' betekent in hun oude taal.$b$bMaar nu zijn de zonen van Trollbane verzwakt, en hun vesting is een ruïne geworden.$b$bHet zwaard wordt beschermd door een aantal zegels die onder de overlevenden van Stromgarde verdeeld werden, en die moeten we terughalen.$b$bHet eerste zegel is door het Syndicate meegenomen. Een van hun mannen in Stromgarde moet het hebben.",
+      "o": "Haal de Sigil of Strom voor Zengu in Hammerfall.",
+      "p": "Heb je het eerste zegel al gevonden? Waarschijnlijk draagt een van de agenten van het Syndicate in Stromgarde het bij zich.",
+      "c": "Uitstekend, mon. Dat is een goed begin met het verzamelen van de zegels die we nodig hebben om Trol'kalar uit het graf van Trollbane te halen.",
+      "g": [
+        [
+          "tegenstander",
+          "adversary, opponent"
+        ],
+        [
+          "werd genoemd",
+          "was called (noemen)"
+        ],
+        [
+          "trollendoder",
+          "troll slayer"
+        ],
+        [
+          "verzwakt",
+          "weakened (verzwakken)"
+        ],
+        [
+          "vesting",
+          "stronghold, fortress"
+        ],
+        [
+          "ruïne",
+          "ruin"
+        ],
+        [
+          "zegels",
+          "sigils, seals (zegel)"
+        ],
+        [
+          "overlevenden",
+          "survivors (overlevende)"
+        ],
+        [
+          "verdeeld",
+          "divided (verdelen)"
+        ],
+        [
+          "terughalen",
+          "to retrieve"
+        ],
+        [
+          "meegenomen",
+          "taken (meenemen)"
+        ],
+        [
+          "graf",
+          "tomb, grave"
+        ]
+      ]
+    },
+    "701": {
+      "t": "De sluwheid van de raptor",
+      "d": "Met nog een paar voorwerpen kan ik iets maken dat Gor'mul de sluwheid van de raptor geeft! Als de kracht van de raptor door hem stroomt, zal Gor'mul onze nieuwe kracht leren kennen en de krijger terugvinden die in hem slaapt!$b$bIk heb raptorharten nodig om het voorwerp en de spreuk te maken.",
+      "o": "Haal 12 Raptor Hearts bij Highland Fleshstalkers voor Tor'gan.",
+      "p": "Mijn voorbereidingen zijn klaar. Ik heb alleen nog de raptorharten nodig.",
+      "c": "Ja, deze zijn perfect. Ik breng hun kracht en de geest van de raptors over in deze bol. Deze bol zal Gor'mul de vurige kracht en de intelligentie van de raptor geven.",
+      "g": [
+        [
+          "sluwheid",
+          "guile, cunning"
+        ],
+        [
+          "voorwerpen",
+          "objects (voorwerp)"
+        ],
+        [
+          "stroomt",
+          "flows (stromen)"
+        ],
+        [
+          "leren kennen",
+          "to get to know"
+        ],
+        [
+          "terugvinden",
+          "to rediscover, find again"
+        ],
+        [
+          "raptorharten",
+          "raptor hearts (raptorhart)"
+        ],
+        [
+          "voorbereidingen",
+          "preparations (voorbereiding)"
+        ],
+        [
+          "breng ... over",
+          "transfer (overbrengen)"
+        ],
+        [
+          "bol",
+          "orb, sphere"
+        ],
+        [
+          "vurige",
+          "fiery (vurig)"
+        ]
+      ]
+    },
+    "702": {
+      "t": "De sluwheid van de raptor",
+      "d": "Neem deze bol en gebruik zijn energie om Gor'mul de essentie van de raptor te geven. Dit zal zijn geest zeker nieuwe kracht geven, en een nieuw doel in het leven. Als hij weer normaal is, kunnen we hem uitleggen hoe het nu met de Horde gaat. Dan krijgen we de hulp van een grote krijger in onze eindeloze gevechten.",
+      "o": "Geef Tor'gan's Orb aan Gor'mul.",
+      "p": "Ben je weer terug? Inderdaad, er is niets wat ik nu liever wil dan nog meer medelijden van Tor'gan.$b$bWat heb je deze keer voor me? Misschien een stuk felgekleurd touwtje? Of een stuk touw om een einde te maken aan mijn ellende...",
+      "c": "Deze keer breng je me tenminste iets interessants. Er komt een vreemde kracht vanaf...",
+      "g": [
+        [
+          "bol",
+          "orb, sphere"
+        ],
+        [
+          "essentie",
+          "essence"
+        ],
+        [
+          "doel",
+          "purpose, goal"
+        ],
+        [
+          "uitleggen",
+          "to explain"
+        ],
+        [
+          "eindeloze",
+          "unceasing, endless (eindeloos)"
+        ],
+        [
+          "medelijden",
+          "pity"
+        ],
+        [
+          "felgekleurd",
+          "brightly colored"
+        ],
+        [
+          "touwtje",
+          "piece of string"
+        ],
+        [
+          "touw",
+          "rope"
+        ],
+        [
+          "ellende",
+          "misery"
+        ],
+        [
+          "tenminste",
+          "at least"
+        ],
+        [
+          "er komt ... vanaf",
+          "it emits, comes off it (afkomen van)"
+        ]
+      ]
+    },
+    "847": {
+      "t": "De sluwheid van de raptor",
+      "d": "Deze... deze kracht... Is dit de kracht van de sjamanen die Tor'gan me probeerde te laten zien? Ik moet zeggen, het is interessant. Zeg tegen Tor'gan dat hij me heeft overtuigd... voorlopig. Ik zal luisteren naar wat hij te zeggen heeft.",
+      "o": "Spreek met Tor'gan.",
+      "c": "Als de betovering is uitgewerkt, zal ik met Gor'mul praten. Bedankt voor je hulp bij het terugbrengen van Gor'mul naar het land van de levenden. Ik weet zeker dat hij je ook heel dankbaar is.",
+      "g": [
+        [
+          "sjamanen",
+          "shamans (sjamaan)"
+        ],
+        [
+          "overtuigd",
+          "convinced (overtuigen)"
+        ],
+        [
+          "voorlopig",
+          "for the time being"
+        ],
+        [
+          "betovering",
+          "enchantment"
+        ],
+        [
+          "is uitgewerkt",
+          "has worn off (uitwerken)"
+        ],
+        [
+          "terugbrengen",
+          "returning, bringing back"
+        ],
+        [
+          "de levenden",
+          "the living (levende)"
+        ],
+        [
+          "dankbaar",
+          "grateful"
+        ]
+      ]
+    },
+    "678": {
+      "t": "Te wapen",
+      "d": "Je kracht is duidelijk, $N. Nu gaan we zien hoe je het doet tegen een echte vijand.$B$BDe Boulderfists hebben een hol ten zuidwesten van hier, in de richting van de brug van de dwergen. Als ik me niet vergis, zullen de beukers en magiërs daar een grotere uitdaging voor je zijn. Dat waren ze tot nu toe ook voor ons.$B$BDood er zoveel als je kunt, en kom in levenden lijve naar me toe als het je lukt, of kom als geest als je faalt. Hoe dan ook zal ik je doorzettingsvermogen in de strijd prijzen.",
+      "o": "Dood 10 Boulderfist Brutes en 4 Boulderfist Magi en ga terug naar Drum Fel in de buitenpost Hammerfall.",
+      "p": "Je aarzelt. Waarom? Je hebt tot nu toe veel kracht laten zien, $N. Laat me nu niet in de steek.",
+      "c": "Je bent zo sterk als een kodo, en je honger naar strijd maakt je volk trots.",
+      "g": [
+        [
+          "hol",
+          "lair, den"
+        ],
+        [
+          "ten zuidwesten van",
+          "southwest of"
+        ],
+        [
+          "dwergen",
+          "dwarves (dwerg)"
+        ],
+        [
+          "als ik me niet vergis",
+          "if I'm not mistaken (zich vergissen)"
+        ],
+        [
+          "beukers",
+          "maulers (beuker)"
+        ],
+        [
+          "magiërs",
+          "magi (magiër)"
+        ],
+        [
+          "uitdaging",
+          "challenge"
+        ],
+        [
+          "in levenden lijve",
+          "in the flesh, in body"
+        ],
+        [
+          "faalt",
+          "fail (falen)"
+        ],
+        [
+          "hoe dan ook",
+          "either way, anyway"
+        ],
+        [
+          "doorzettingsvermogen",
+          "tenacity, perseverance"
+        ],
+        [
+          "prijzen",
+          "to praise"
+        ],
+        [
+          "aarzelt",
+          "hesitate (aarzelen)"
+        ],
+        [
+          "laat me ... niet in de steek",
+          "don't fail me, don't let me down (in de steek laten)"
+        ],
+        [
+          "honger naar strijd",
+          "lust for battle"
+        ]
+      ]
+    },
+    "640": {
+      "t": "Het gebroken zegel",
+      "d": "Het graf van Thoras Trollbane wordt beschermd door drie zegels. Het eerste heb je al teruggehaald van het Syndicate. De andere twee zijn moeilijker te krijgen, omdat ze in handen zijn van de militie van Stromgarde, die zich daar stevig heeft ingegraven.$b$bHet zegel van Thoradin werd door Galen, de zoon van Thoras, in elf stukken verdeeld en over de verdedigers van Stromgarde verspreid. Haal de stukken terug en breng ze naar Tor'gan, de trollensjamaan. Hij kan ze samenvoegen tot het complete zegel.",
+      "o": "Haal de 11 Sigil Fragments bij de verdedigers in Stromgarde en breng ze naar Tor'gan in Hammerfall.",
+      "p": "Throm'ka, $c. Zengu vertelde me dat je mijn hulp nodig had?",
+      "c": "Ah, moet ik dit zegel weer in elkaar zetten? Dat zou niet al te moeilijk moeten zijn... alle stukken lijken er te zijn, en de magische structuur is makkelijk te herstellen.$b$bMisschien kun je beter je ogen dichtdoen.",
+      "g": [
+        [
+          "graf",
+          "tomb, grave"
+        ],
+        [
+          "zegels",
+          "sigils, seals (zegel)"
+        ],
+        [
+          "teruggehaald",
+          "retrieved (terughalen)"
+        ],
+        [
+          "in handen zijn van",
+          "to be held by"
+        ],
+        [
+          "militie",
+          "militia"
+        ],
+        [
+          "stevig",
+          "firmly"
+        ],
+        [
+          "heeft ingegraven",
+          "has entrenched (zich ingraven)"
+        ],
+        [
+          "verdeeld",
+          "divided (verdelen)"
+        ],
+        [
+          "verdedigers",
+          "defenders (verdediger)"
+        ],
+        [
+          "verspreid",
+          "dispersed (verspreiden)"
+        ],
+        [
+          "trollensjamaan",
+          "troll shaman"
+        ],
+        [
+          "samenvoegen",
+          "to bind together, join"
+        ],
+        [
+          "in elkaar zetten",
+          "to put together, reconstruct"
+        ],
+        [
+          "herstellen",
+          "to restore, reform"
+        ],
+        [
+          "dichtdoen",
+          "to close"
+        ]
+      ]
+    },
+    "641": {
+      "t": "Sigil of Thoradin",
+      "d": "Het herstellen is perfect gelukt. Met het zegel kan nu het slot op het graf van Trollbane worden geopend. Breng het terug naar Zengu. Hij heeft vast nog meer taken voor je.",
+      "o": "Breng de herstelde Sigil of Thoradin naar Zengu in Hammerfall.",
+      "p": "$N! Heb je het tweede zegel?",
+      "c": "We zijn halverwege om Trol'kalar uit het graf van Trollbane te kunnen halen. We weten niet precies waar het derde zegel is, want de dragers ervan lijken veel door Arathi te trekken. Maar ik heb er vertrouwen in dat jij het kunt vinden.",
+      "g": [
+        [
+          "herstellen",
+          "restoring, reconstruction"
+        ],
+        [
+          "gelukt",
+          "succeeded (lukken)"
+        ],
+        [
+          "slot",
+          "seal, lock"
+        ],
+        [
+          "geopend",
+          "opened (openen)"
+        ],
+        [
+          "herstelde",
+          "restored (herstellen)"
+        ],
+        [
+          "halverwege",
+          "halfway"
+        ],
+        [
+          "dragers",
+          "holders, bearers (drager)"
+        ],
+        [
+          "trekken",
+          "to move around, travel"
+        ],
+        [
+          "ik heb er vertrouwen in",
+          "I have faith in it"
+        ]
+      ]
+    }
+  },
+  "words": {
+    "bloodbelly-vis": "Bloodbelly fish (a fish from Desolace)",
+    "bloodbelly-vissen": "Bloodbelly fish (plural)",
+    "boulderfist-ogers": "Boulderfist ogres",
+    "eredun-taal": "the Eredun language (eredun + taal)",
+    "ingegraven": "entrenched, dug in (zich ingraven)",
+    "kolkar-clan": "the Kolkar clan",
+    "kolkar-leider": "the Kolkar leader",
+    "lijve": "body (only in: in levenden lijve = in the flesh)",
+    "machtigsten": "the mightiest (machtig)",
+    "mon": "man (troll speech)",
+    "ochtend": "morning",
+    "ontsnapten": "escaped (ontsnappen)",
+    "riepen": "called, cried (roepen)",
+    "schudde": "shook (schudden)",
+    "smedend": "forging, scheming (smeden)",
+    "terugkwamen": "came back (terugkomen)",
+    "toegekeerd": "turned (toekeren)",
+    "vergelijking": "comparison",
+    "verheugen": "to rejoice (zich verheugen)",
+    "visten": "fished (vissen)",
+    "wijden": "to dedicate",
+    "zwierf": "wandered (zwerven)"
+  },
+  "terms": {}
+}
