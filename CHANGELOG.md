@@ -1,6 +1,7 @@
 # Changelog
 
 ## Unreleased
+- Batch 85: Engineering specializations (Show Your Work, The Pledge of Secrecy for gnomes, membership card renewals) and Ironforge from level 47 to 52 (the Uldum discs chain, At Last!, A Call to Arms: The Plaguelands!, Tymor's Azshara rubbings, A Little Slime Goes a Long Way) (23 quests, 3602 in total).
 - Batch 84: Stranglethorn Vale from level 46 to 60 (Mai'Zoth, Captain Smotts' sea giant chain, Whiskey Slim's Lost Grog, Message in a Bottle, the Bloodsail admiral chain), Zul'Farrak quests (Tiara of the Deep, Divino-matic Rod, Nekrum's Medallion, The Prophecy of Mosh'aru, Gahz'rilla) and the Gnome/Goblin Engineering specialization quests (28 quests, 3579 in total).
 - Batch 106: Zul'Gurub talisman quests from Al'tabim (Kajaro, Kezan's Taint), Maywiki (South Seas kelp, Voodress orb) and Falthir (Zandalrian shadow talismans, Maelstrom's Tendril), Zanza's enchantments (Hoodoo Hex, Animist's Caress, the Savage Guard arcana), Bodley's Alcaz Island divination and the Alliance Remember Alterac Valley! quests (32 quests, 3551 in total).
 - Batch 83: Class quests at level 50-60: Rogue (Syndicate Emblems, Junkboxes Needed), Priest (A Warning, The Balance of Light and Shadow), Mage (Warlord Krellian, Fragmented Magic) and Warlock (Swearing to Gakin, the infernal chain with Niby and Impsy, Daio's Doomguard prison, and the full Dreadsteed of Xoroth chain) (24 quests, 3519 in total).
