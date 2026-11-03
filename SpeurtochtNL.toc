@@ -103,6 +103,7 @@ Data\Batch_131_Hillsbrad_Foothills.lua
 Data\Batch_60_Felwood.lua
 Data\Batch_132_Thousand_Needles.lua
 Data\Batch_61_Sunken_Temple_24_Voorquests.lua
+Data\Batch_133_Razorfen_Kraul.lua
 Data\Batch_62_Sunken_Temple_24_Voorquests.lua
 
 Display.lua
