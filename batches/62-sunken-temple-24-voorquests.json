@@ -1,0 +1,1846 @@
+{
+  "quests": {
+    "8418": {
+      "t": "De Mightstone smeden",
+      "d": "Nu moeten we de Inert Scourgestones samenvoegen en een wapen maken dat de rijen van de ondoden kan breken. Dit is geen eenvoudige taak, $n. Alleen de trollen van de Sunken Temple hebben het soort zeldzame magie dat het kwaad van iets tegen zichzelf kan keren.$b$bIn de tempel heten de trollen Gasher, Mijan, Zolo, Hukku, Zul'lor en Loro. Voel geen spijt om hun verdorven zielen... ze zijn niet zonder kwaad.",
+      "o": "Breng de Voodoo Feathers naar Ashlam Valorfist.",
+      "p": "Heb je de ellendige trollen gedood?",
+      "c": "Dit is uitstekend, $n. Ik zou zeggen dat ik verbaasd ben, maar ik wist zonder twijfel dat je ons niet in de steek zou laten.$b$bHet is mij een eer om je een van de Holy Mightstones te schenken. Gebruik hem goed.",
+      "g": [
+        [
+          "smeden",
+          "to forge"
+        ],
+        [
+          "samenvoegen",
+          "to combine"
+        ],
+        [
+          "rijen",
+          "ranks, rows (rij)"
+        ],
+        [
+          "ondoden",
+          "undead"
+        ],
+        [
+          "zeldzame",
+          "rare (zeldzaam)"
+        ],
+        [
+          "keren",
+          "to turn"
+        ],
+        [
+          "spijt",
+          "regret, remorse"
+        ],
+        [
+          "verdorven",
+          "corrupt, depraved"
+        ],
+        [
+          "ellendige",
+          "wretched (ellendig)"
+        ],
+        [
+          "zonder twijfel",
+          "without question"
+        ],
+        [
+          "in de steek zou laten",
+          "would let down (in de steek laten)"
+        ],
+        [
+          "schenken",
+          "to bestow, to give"
+        ]
+      ]
+    },
+    "8422": {
+      "t": "Trollen met veren",
+      "d": "Mijn huisdiertje is bijna klaar. Nu heb ik alleen nog iets nodig om het mee te vullen.$b$bAlleen de voodooveren van de trollen in de Sunken Temple zijn goed genoeg. Ze heten Gasher, Mijan, Zolo, Hukku, Zul'lor en Loro. Dood ze. Dood ze allemaal.$b$bDit is geen eenvoudige taak, $n, dus ik zorg ervoor dat het de moeite waard is: je krijgt iets van Niby -- hij heeft het waarschijnlijk toch niet nodig.",
+      "o": "Breng in totaal 6 Voodoo Feathers van de trollen in de Sunken Temple.",
+      "p": "Heb je de veren meegebracht? Deze pop moet gevuld worden!",
+      "c": "Geweldig, nu is mijn huisdiertje af!$B$B<Impsy vult de pop snel en geeft hem een demonische knuffel.>$B$BO, wat een vreemde bijwerking hebben deze voodooveren...",
+      "g": [
+        [
+          "huisdiertje",
+          "little pet (huisdier)"
+        ],
+        [
+          "vullen",
+          "to fill, to stuff"
+        ],
+        [
+          "voodooveren",
+          "voodoo feathers (veer)"
+        ],
+        [
+          "de moeite waard",
+          "worth the effort, worth your while"
+        ],
+        [
+          "waarschijnlijk",
+          "probably"
+        ],
+        [
+          "pop",
+          "doll"
+        ],
+        [
+          "gevuld",
+          "filled, stuffed (vullen)"
+        ],
+        [
+          "demonische",
+          "demonic (demonisch)"
+        ],
+        [
+          "knuffel",
+          "hug"
+        ],
+        [
+          "bijwerking",
+          "side effect"
+        ]
+      ]
+    },
+    "8425": {
+      "t": "Voodooveren",
+      "d": "Jouw eer heeft mij wat rust gebracht. Het is niet meer dan juist dat ik je er iets voor teruggeef.$b$bMijn wapens en harnas waren prachtig toen ik nog leefde, maar nu heb ik er niets meer aan. Ze zijn beter op hun plaats in jouw bezit.$b$bReis naar de Sunken Temple en vernietig de trollenbewakers Gasher, Mijan, Zolo, Hukku, Zul'lor en Loro. Ze dragen magische veren die mijn fysieke lichaam lang genoeg opnieuw kunnen vormen om je een beloning te geven.",
+      "o": "Breng de Voodoo Feathers van de trollen in de Sunken Temple naar de Fallen Hero of the Horde.",
+      "p": "Ben je nu al terug? Tijd is voor mij niet meer hetzelfde. Misschien is het voor jou inderdaad een lange reis geweest...",
+      "c": "Eindelijk kan ik de koude aanraking van staal weer voelen, al is het maar voor even.",
+      "g": [
+        [
+          "eer",
+          "honor"
+        ],
+        [
+          "niet meer dan juist",
+          "only right"
+        ],
+        [
+          "harnas",
+          "armor"
+        ],
+        [
+          "bezit",
+          "possession"
+        ],
+        [
+          "vernietig",
+          "destroy (vernietigen)"
+        ],
+        [
+          "trollenbewakers",
+          "troll guardians"
+        ],
+        [
+          "fysieke",
+          "physical (fysiek)"
+        ],
+        [
+          "vormen",
+          "to form"
+        ],
+        [
+          "inderdaad",
+          "indeed"
+        ],
+        [
+          "aanraking",
+          "touch"
+        ],
+        [
+          "staal",
+          "steel"
+        ],
+        [
+          "al is het maar voor even",
+          "even if only for a moment"
+        ]
+      ]
+    },
+    "9053": {
+      "t": "Een beter ingrediënt",
+      "d": "Het is zoals ik vreesde -- het gif is gewoon te zwak voor zo'n machtig wezen.$b$bAls we een gif willen maken dat sterk genoeg is, moet je naar de bodem van de Temple of Atal'Hakkar gaan. Ontrafel de geheimen van het altaar en haal een Putrid Vine bij de bewaker daar. De tempel is gevaarlijk, en je doet er goed aan om vrienden mee te nemen.$b$bKom bij me terug als dit gedaan is.",
+      "o": "Haal een Putrid Vine bij de bewaker op de bodem van de Sunken Temple en keer terug naar Torwa Pathfinder.",
+      "p": "Heb je de rank teruggevonden?",
+      "c": "Eindelijk kan het gif helemaal gemaakt worden. Ik durf niet van je te vragen het nog een keer bij het wezen toe te dienen, want ik heb al te veel gevraagd.$B$BJe hebt mijn dank en respect. Moge het je goed gaan op je reizen, $N.",
+      "g": [
+        [
+          "vreesde",
+          "feared (vrezen)"
+        ],
+        [
+          "gif",
+          "toxin, poison"
+        ],
+        [
+          "wezen",
+          "creature"
+        ],
+        [
+          "bodem",
+          "bottom"
+        ],
+        [
+          "ontrafel",
+          "unravel, unlock (ontrafelen)"
+        ],
+        [
+          "altaar",
+          "altar"
+        ],
+        [
+          "je doet er goed aan",
+          "it would be wise, it would behoove you"
+        ],
+        [
+          "rank",
+          "vine"
+        ],
+        [
+          "durf",
+          "dare (durven)"
+        ],
+        [
+          "toe te dienen",
+          "to administer, to inflict (toedienen)"
+        ],
+        [
+          "moge",
+          "may (wish)"
+        ]
+      ]
+    },
+    "1446": {
+      "t": "Jammal'an de profeet",
+      "d": "Mijn Witherbark-metgezellen houden niet van vreemden rond hun huis.$b$bIk? Ik heb geen thuis meer. Ik ben verbannen door mijn volk, de grote Atal'ai-stam van de Swamp of Sorrows.$b$bOnze geestelijk leider, Jammal'an, had iets wat hij een profetie noemde. Hij gelooft dat het oproepen van de god Hakkar de Atal'ai onsterfelijkheid zal brengen.$b$bMaar ik drong aan op voorzichtigheid. Wat als de profetie niets meer was dan manipulatie?$b$bIk wil wraak voor mijn verbanning. Breng me het hoofd van Jammal'an. Misschien is mijn volk dan vrij.",
+      "o": "Breng het Head of Jammal'an naar de Atal'ai Exile in The Hinterlands.",
+      "p": "Als Jammal'an weg is, heb ik een kans om terug te keren naar mijn volk.$b$bMet Jammal'an als geestelijk leider gaan de Atal'ai een zekere ondergang tegemoet.",
+      "c": "Het roekeloze vertrouwen van Jammal'an in valse visioenen heeft mijn volk naar hun eeuwige ondergang geleid.$b$bIk dank je, $c, dat je mijn verbanning hebt gewroken. Ik rouw om mijn volk. Ik heb geen thuis om naar terug te keren.",
+      "g": [
+        [
+          "profeet",
+          "prophet"
+        ],
+        [
+          "metgezellen",
+          "companions (metgezel)"
+        ],
+        [
+          "verbannen",
+          "exiled (verbannen)"
+        ],
+        [
+          "stam",
+          "tribe"
+        ],
+        [
+          "geestelijk leider",
+          "spiritual leader"
+        ],
+        [
+          "profetie",
+          "prophecy"
+        ],
+        [
+          "oproepen",
+          "summoning, to summon"
+        ],
+        [
+          "onsterfelijkheid",
+          "immortality"
+        ],
+        [
+          "drong aan op voorzichtigheid",
+          "urged caution (aandringen op)"
+        ],
+        [
+          "wraak",
+          "revenge"
+        ],
+        [
+          "verbanning",
+          "exile"
+        ],
+        [
+          "ondergang",
+          "doom, destruction"
+        ],
+        [
+          "roekeloze",
+          "reckless (roekeloos)"
+        ],
+        [
+          "visioenen",
+          "visions (visioen)"
+        ],
+        [
+          "gewroken",
+          "avenged (wreken)"
+        ],
+        [
+          "rouw",
+          "mourn (rouwen)"
+        ]
+      ]
+    },
+    "3528": {
+      "t": "De god Hakkar",
+      "d": "Nu is het tijd om de essentie van de avatar van Hakkar te vangen.$B$BBreng het Egg of Hakkar naar het Sanctum of the Fallen God in de Sunken Temple in Azeroth. Roep de kracht van het ei aan om de dode god te wekken.$B$BHij zal zijn dienaren op je afsturen. Versla zijn bloeddrinkers en neem hun Hakkari-bloed. Gebruik dat bloed dan om de eeuwige vlammen te doven die de geest van Hakkar vasthouden. Als alle vlammen uit zijn, zal de avatar van Hakkar onze wereld betreden.$B$BVersla hem en stop zijn essentie in het Egg of Hakkar.",
+      "o": "Breng het Filled Egg of Hakkar naar Yeh'kinya in Tanaris.",
+      "p": "Heb je de avatar van Hakkar verslagen, $N? Heeft zijn essentie het ei dat ik je gaf al kracht gegeven?",
+      "c": "De essentie van Hakkar is verzameld! Zelfs nu komt het ei tot leven! Zouden de mythen over Hakkar waar zijn?$B$BDat mag niet waar zijn, want dan vrees ik wat Hakkar zal doen als hij opnieuw geboren wordt. Ik zal dit ei veilig bewaren en ervoor zorgen dat het niet in kwade handen valt.$B$BJe werk voor mij is klaar, $N. Je hebt een legende aangeraakt, en wat je gedaan hebt, kan op een dag het gezicht van onze wereld veranderen.",
+      "g": [
+        [
+          "essentie",
+          "essence"
+        ],
+        [
+          "vangen",
+          "to capture"
+        ],
+        [
+          "roep ... aan",
+          "invoke (aanroepen)"
+        ],
+        [
+          "wekken",
+          "to awaken, to stir"
+        ],
+        [
+          "dienaren",
+          "servants, minions (dienaar)"
+        ],
+        [
+          "afsturen",
+          "to send against"
+        ],
+        [
+          "bloeddrinkers",
+          "blood drinkers"
+        ],
+        [
+          "doven",
+          "to douse, to put out"
+        ],
+        [
+          "betreden",
+          "to enter"
+        ],
+        [
+          "mythen",
+          "myths (mythe)"
+        ],
+        [
+          "vrees",
+          "fear (vrezen)"
+        ],
+        [
+          "bewaren",
+          "to keep"
+        ],
+        [
+          "kwade",
+          "evil (kwaad)"
+        ],
+        [
+          "legende",
+          "legend"
+        ]
+      ]
+    },
+    "3373": {
+      "t": "De essentie van Eranikus",
+      "d": "Als je de edelsteen aanraakt, klinkt er een diepe stem in je hoofd.$B$B\"Sterveling, luister naar deze smeekbede. Ik ben Eranikus van de Green Dragonflight, bewaker van deze vervloekte tempel. Mijn taak was ervoor te zorgen dat de trollen hun gruwel van een god nooit meer terugbrengen. Die taak is voorlopig mislukt. Terwijl ik een deel van mijn essentie in deze steen leg, voel ik mijn grip op de Droom in chaos veranderen. Alsjeblieft - leg deze steen in de essence font in mijn hol, en laat onze magie daar de besmetting uit mijn geest verwijderen, zodat ik kan rusten.\"",
+      "o": "Leg de Essence of Eranikus in de Essence Font in dit hol in de Sunken Temple.",
+      "p": "Als je de essence font nadert waar Eranikus over vertelde, raakt zijn stem opnieuw je geest.$B$B\"Ja, sterveling, deze essence font zal het zuivere deel van mijn geest redden dat nog in deze steen zit. Leg de steen in de font, en laat de magie van de Green Dragonflight de verdorvenheid en besmetting uit mijn wezen wegwassen. Alleen dan zal ik echte verlossing vinden, en alleen dan kan de Dragonflight weer toezicht houden op de Atal'ai.\"",
+      "c": "Je legt de steen in de essence font.$B$B\"Dank je, sterveling, je hebt - nee... dit, dit kan niet! Nee! De verdorvenheid van deze vervloekte god bezoedelt zelfs de heiligheid van een essence font van de Green Dragonflight! Nee, alsjeblieft, ik voel mijn essentie uit me gerukt worden! DE PIJN! Ik voel de greep van een eeuwige nachtmerrie die me vastpakt...\"$B$B\"Sterveling, ik smeek je! Vind iemand van de Green Dragonflight om dit te stoppen... help me... ik ben geketend in duisternis... voor eeuwig in kwelling... alsjeblieft, martel niet...\"",
+      "g": [
+        [
+          "edelsteen",
+          "gem"
+        ],
+        [
+          "sterveling",
+          "mortal"
+        ],
+        [
+          "smeekbede",
+          "plea"
+        ],
+        [
+          "vervloekte",
+          "accursed (vervloekt)"
+        ],
+        [
+          "gruwel",
+          "abomination"
+        ],
+        [
+          "voorlopig",
+          "for now"
+        ],
+        [
+          "hol",
+          "lair"
+        ],
+        [
+          "besmetting",
+          "taint, contamination"
+        ],
+        [
+          "nadert",
+          "approach, near (naderen)"
+        ],
+        [
+          "verdorvenheid",
+          "corruption"
+        ],
+        [
+          "verlossing",
+          "release, redemption"
+        ],
+        [
+          "toezicht houden op",
+          "to watch over, to have stewardship over"
+        ],
+        [
+          "bezoedelt",
+          "taints, defiles (bezoedelen)"
+        ],
+        [
+          "heiligheid",
+          "sanctity"
+        ],
+        [
+          "gerukt",
+          "ripped, torn (rukken)"
+        ],
+        [
+          "geketend",
+          "chained (ketenen)"
+        ],
+        [
+          "kwelling",
+          "torment, agony"
+        ]
+      ]
+    },
+    "8733": {
+      "t": "Eranikus, tiran van de Droom",
+      "d": "Dit is een reis van verlossing, held. Als ik vandaag gedood zou worden, zou ik gestorven zijn voor een rechtvaardige en goede zaak. Je moet de Green Scepter Shard terugvinden. Je moet Eranikus reinigen van het kwaad dat de Old Gods op hem hebben gelegd.$B$BReis naar Darnassus. Net buiten de stadsmuren vind je een van mijn agenten. Deze agent zal de zaken voor ons in gang zetten en Tyrande over onze plannen inlichten, zonder dat Staghelm het merkt.$B$B<Malfurion zucht.>$B$BEen val uit de gratie die duizend jaar in de maak was...",
+      "o": "Reis naar het continent Teldrassil en zoek de agent van Malfurion ergens buiten de muren van Darnassus.$b",
+      "c": "Het dwaallicht is stil, op een laag zoemend geluid na. Vreemd genoeg kan het met je praten via gedachten.",
+      "g": [
+        [
+          "tiran",
+          "tyrant"
+        ],
+        [
+          "verlossing",
+          "redemption"
+        ],
+        [
+          "rechtvaardige",
+          "just, righteous (rechtvaardig)"
+        ],
+        [
+          "zaak",
+          "cause"
+        ],
+        [
+          "reinigen",
+          "to cleanse"
+        ],
+        [
+          "stadsmuren",
+          "city walls"
+        ],
+        [
+          "agenten",
+          "agents (agent)"
+        ],
+        [
+          "in gang zetten",
+          "to set in motion"
+        ],
+        [
+          "inlichten",
+          "to inform"
+        ],
+        [
+          "zucht",
+          "sighs (zuchten)"
+        ],
+        [
+          "val uit de gratie",
+          "fall from grace"
+        ],
+        [
+          "dwaallicht",
+          "wisp"
+        ],
+        [
+          "zoemend",
+          "humming (zoemen)"
+        ],
+        [
+          "vreemd genoeg",
+          "oddly enough"
+        ]
+      ]
+    },
+    "2581": {
+      "t": "Kaken van snickerfangs",
+      "d": "Iedereen weet dat hyena's enorm veel kracht in hun kaken hebben. Maar de kracht om door drie duim thoriumstaal te bijten? Onmogelijk, onwaarschijnlijk, en toch heb ik het met mijn eigen ogen gezien.$B$BTrek de Blasted Lands in en breng me drie Snickerfang Jowls. Let tijdens je zoektocht naar de snickerfangs ook op zwijnen en scorpoks: voor het eerste mengsel heb ik ook twee Blasted Boar Lungs en één Scorpok Pincer nodig.",
+      "o": "Breng drie Snickerfang Jowls, twee Blasted Boar Lungs en één Scorpok Pincer naar Bloodmage Drazial.",
+      "p": "Je stinkt, $N. Heb je door zwavelvelden gelopen? En waar zijn mijn ingrediënten?!",
+      "c": "Hoe voel je je, $N? Je straalt de aura van de snickerfang uit -- jouw kracht is ongeëvenaard onder stervelingen!$B$BHelaas kon ik met de ingrediënten die je bracht maar genoeg van het mengsel maken voor één tablet. Ik heb meer ingrediënten nodig als je nog een tablet wilt.",
+      "g": [
+        [
+          "kaken",
+          "jaws, jowls (kaak)"
+        ],
+        [
+          "enorm",
+          "tremendous, huge"
+        ],
+        [
+          "duim",
+          "inch"
+        ],
+        [
+          "thoriumstaal",
+          "thorium steel"
+        ],
+        [
+          "onwaarschijnlijk",
+          "improbable"
+        ],
+        [
+          "trek ... in",
+          "venture into (intrekken)"
+        ],
+        [
+          "zwijnen",
+          "boars (zwijn)"
+        ],
+        [
+          "mengsel",
+          "mixture, assay"
+        ],
+        [
+          "zwavelvelden",
+          "sulfur fields"
+        ],
+        [
+          "straalt ... uit",
+          "radiate (uitstralen)"
+        ],
+        [
+          "ongeëvenaard",
+          "unmatched"
+        ],
+        [
+          "stervelingen",
+          "mortals (sterveling)"
+        ],
+        [
+          "helaas",
+          "unfortunately"
+        ]
+      ]
+    },
+    "2582": {
+      "t": "De woede van de eeuwen",
+      "d": "Ah, $N, welkom terug. Je hebt blijkbaar genoten van het effect van het krachtige, werkzame middel uit de snickerfang. Wees gewaarschuwd: het directe effect is een gigantische uitbarsting van kracht, maar op lange termijn kan het gevaarlijk zijn voor je geest en je verstand.$B$BDat gezegd hebbende: wil je meer? Zo ja, breng me dan nog drie Snickerfang Jowls, twee Blasted Boar Lungs en één Scorpok Pincer.",
+      "o": "Breng drie Snickerfang Jowls, twee Blasted Boar Lungs en één Scorpok Pincer naar Bloodmage Drazial.",
+      "p": "Heb je de organen van de beesten?",
+      "c": "Alsjeblieft! Denk eraan: gebruik het spaarzaam. Als je er nog een wilt, kom dan bij me terug als je het exemplaar dat je nu bezit hebt opgebruikt.",
+      "g": [
+        [
+          "blijkbaar",
+          "apparently"
+        ],
+        [
+          "werkzame",
+          "effective, operational (werkzaam)"
+        ],
+        [
+          "middel",
+          "remedy, means"
+        ],
+        [
+          "wees gewaarschuwd",
+          "be warned"
+        ],
+        [
+          "uitbarsting",
+          "burst"
+        ],
+        [
+          "op lange termijn",
+          "in the long term"
+        ],
+        [
+          "verstand",
+          "intelligence, mind"
+        ],
+        [
+          "dat gezegd hebbende",
+          "with that said"
+        ],
+        [
+          "organen",
+          "organs (orgaan)"
+        ],
+        [
+          "spaarzaam",
+          "sparingly"
+        ],
+        [
+          "exemplaar",
+          "copy, one (of something)"
+        ],
+        [
+          "opgebruikt",
+          "used up (opgebruiken)"
+        ]
+      ]
+    },
+    "2583": {
+      "t": "De levenskracht van een zwijn",
+      "d": "In deze verwoeste landen leven twee soorten zwijnen: de Ash-mane Boar en de Helboar.$B$BHet lijkt erop dat het uithoudingsvermogen van deze beesten ze bijna onkwetsbaar maakt. De andere dieren vinden ze te moeilijk om te doden, en dus niet de moeite waard.$B$BWe moeten meer onderzoek doen, $N. Als je me drie Blasted Boar Lungs, twee Scorpok Pincers en één Basilisk Brain brengt, maak ik van de resten van het mengsel een goddelijk elixer. Jij wordt mijn eerste proefpersoon!",
+      "o": "Breng drie Blasted Boar Lungs, twee Scorpok Pincers en één Basilisk Brain naar Bloodmage Drazial.$b",
+      "p": "Waar zijn de organen, $N!?",
+      "c": "De geest van het zwijn verlicht je hele wezen, $N! Ik vraag me af: geloof je dat je net zo onkwetsbaar bent als deze beesten?$b",
+      "g": [
+        [
+          "levenskracht",
+          "vitality"
+        ],
+        [
+          "verwoeste",
+          "blasted, ruined (verwoest)"
+        ],
+        [
+          "soorten",
+          "species, kinds (soort)"
+        ],
+        [
+          "uithoudingsvermogen",
+          "stamina"
+        ],
+        [
+          "onkwetsbaar",
+          "invulnerable, immune to harm"
+        ],
+        [
+          "onderzoek",
+          "research, analysis"
+        ],
+        [
+          "resten",
+          "residue, remains (rest)"
+        ],
+        [
+          "goddelijk",
+          "divine"
+        ],
+        [
+          "elixer",
+          "elixir"
+        ],
+        [
+          "proefpersoon",
+          "test subject"
+        ],
+        [
+          "verlicht",
+          "illuminates (verlichten)"
+        ],
+        [
+          "wezen",
+          "being"
+        ]
+      ]
+    },
+    "2584": {
+      "t": "De geest van het zwijn",
+      "d": "Toen ik je het elixer voor het eerst gaf, $N, zag ik al dat één of twee keer je honger niet zou stillen. Zelfs nu zie ik de honger in je ogen. Het brouwsel is verslavend, en zelfs mensen met de sterkste wil kunnen het blijkbaar niet weerstaan.$B$BHet zij zo! Als je meer van de longsapcocktail wilt, ga dan terug de woestenij in en zoek voor mij drie Blasted Boar Lungs, twee Scorpok Pincers en één Basilisk Brain.",
+      "o": "Breng drie Blasted Boar Lungs, twee Scorpok Pincers en één Basilisk Brain naar Bloodmage Drazial.$b",
+      "p": "Waar zijn de organen, $N!?",
+      "c": "Ik moet je waarschuwen, $N: probeer de formules die ik heb gemaakt niet te mengen. De chemische eigenschappen van de formule die je het laatst hebt ingenomen, gaan altijd voor op eerdere betoveringen. Daardoor werkt de andere formule niet meer.",
+      "g": [
+        [
+          "stillen",
+          "to satisfy, to still (hunger)"
+        ],
+        [
+          "brouwsel",
+          "concoction, brew"
+        ],
+        [
+          "verslavend",
+          "addictive"
+        ],
+        [
+          "weerstaan",
+          "to resist"
+        ],
+        [
+          "het zij zo",
+          "so be it"
+        ],
+        [
+          "longsapcocktail",
+          "lung juice cocktail"
+        ],
+        [
+          "woestenij",
+          "wasteland"
+        ],
+        [
+          "eigenschappen",
+          "properties (eigenschap)"
+        ],
+        [
+          "ingenomen",
+          "taken, ingested (innemen)"
+        ],
+        [
+          "gaan ... voor op",
+          "take precedence over (voorgaan)"
+        ],
+        [
+          "betoveringen",
+          "enchantments (betovering)"
+        ]
+      ]
+    },
+    "2585": {
+      "t": "De beslissende aanvaller",
+      "d": "Heb je ze ooit zien vechten, $N? De scorpoks, bedoel ik. Heb je ooit gezien met hoeveel gratie en behendigheid ze bewegen? Hoe beslist ze toeslaan?$B$BAls we die behendigheid maar op de een of andere manier konden afzonderen en vastleggen, dan zouden we rijker worden dan onze... ik bedoel... het zou een zegen zijn voor de wetenschap.$B$BHelp me, $N, en ik geef je een proefje van het mengsel.$B$BOm een stabiel monster te maken, heb ik drie Scorpok Pincers, twee Vulture Gizzards en één Blasted Boar Lung nodig.",
+      "o": "Breng drie Scorpok Pincers, twee Vulture Gizzards en één Blasted Boar Lung naar Bloodmage Drazial.$b",
+      "p": "Waar zijn de organen, $N!?$b",
+      "c": "Fascinerend. Dit was het moeilijkste mengsel van allemaal om te onderzoeken.$B$BNeem een snufje van dit overgebleven zout en leg het onder je tong. Je zou een licht gevoel van euforie moeten krijgen, gevolgd door een ongekende behendigheid en snelheid.",
+      "g": [
+        [
+          "beslissende",
+          "decisive (beslissend)"
+        ],
+        [
+          "aanvaller",
+          "striker, attacker"
+        ],
+        [
+          "gratie",
+          "grace"
+        ],
+        [
+          "behendigheid",
+          "agility"
+        ],
+        [
+          "beslist",
+          "decisively"
+        ],
+        [
+          "toeslaan",
+          "to strike"
+        ],
+        [
+          "afzonderen",
+          "to isolate"
+        ],
+        [
+          "vastleggen",
+          "to capture, to encapsulate"
+        ],
+        [
+          "zegen",
+          "boon, blessing"
+        ],
+        [
+          "wetenschap",
+          "science"
+        ],
+        [
+          "proefje",
+          "a sample, a taste"
+        ],
+        [
+          "monster",
+          "sample"
+        ],
+        [
+          "snufje",
+          "pinch"
+        ],
+        [
+          "overgebleven",
+          "residual, left over"
+        ],
+        [
+          "ongekende",
+          "unprecedented (ongekend)"
+        ]
+      ]
+    },
+    "2586": {
+      "t": "Zout van de scorpok",
+      "d": "Je leeft! Dat is inderdaad goed nieuws. Ik neem aan dat je terug bent voor meer van het scorpokmengsel?$B$BGoed dan, $N, terug naar de woestenij met jou, en kom niet terug voordat je drie Scorpok Pincers, twee Vulture Gizzards en één Blasted Boar Lung hebt verzameld.",
+      "o": "Breng drie Scorpok Pincers, twee Vulture Gizzards en één Blasted Boar Lung naar Bloodmage Drazial.",
+      "p": "Waar zijn de organen, $N!?",
+      "c": "Goed werk, $N. Hier is één portie van het mengsel voor jou. De andere negen gebruik ik voor mijn onderzoek.$b$bAls je ooit meer van het gemalen scorpokmengsel nodig hebt, kom dan terug en dan maken we een afspraak.",
+      "g": [
+        [
+          "inderdaad",
+          "indeed"
+        ],
+        [
+          "neem aan",
+          "assume (aannemen)"
+        ],
+        [
+          "scorpokmengsel",
+          "scorpok assay"
+        ],
+        [
+          "woestenij",
+          "wasteland"
+        ],
+        [
+          "portie",
+          "portion, sample"
+        ],
+        [
+          "onderzoek",
+          "research"
+        ],
+        [
+          "gemalen",
+          "ground (malen)"
+        ],
+        [
+          "afspraak",
+          "deal, arrangement"
+        ]
+      ]
+    },
+    "2601": {
+      "t": "De beet van de basilisk",
+      "d": "Deze woestenij zit vol met Redstone Basilisks, $N. Deze basilisks hebben zich aangepast en zijn gaan floreren, meer dan alle andere dieren in deze streek.$B$BIk heb van een afstand gekeken hoe ze jagen en hun dagelijkse dingen doen. De beesten laten een denkproces zien dat ingewikkelder is dan dat van sommige humanoïden.$B$BIk moet hun hersenen bestuderen!$B$BHaal tien van hun hersenen voor me, $N. Het mengsel kan echter niet compleet zijn zonder twee Vulture Gizzards als basis voor de oplossing.",
+      "o": "Breng tien Basilisk Brains en twee Vulture Gizzards naar Bloodmage Lynnore.$b",
+      "p": "Ben je terug met de organen waar ik om vroeg?",
+      "c": "Dit is prachtig, $N! Als geschenk geef ik je een voorproefje van de innerlijke werking van de Redstone Basilisk.$B$BAls het mengsel je bevalt, kan er altijd meer worden gemaakt... tegen een prijs.",
+      "g": [
+        [
+          "beet",
+          "bite"
+        ],
+        [
+          "zit vol met",
+          "is riddled with"
+        ],
+        [
+          "aangepast",
+          "adapted (aanpassen)"
+        ],
+        [
+          "floreren",
+          "to flourish"
+        ],
+        [
+          "streek",
+          "region"
+        ],
+        [
+          "denkproces",
+          "thought process"
+        ],
+        [
+          "ingewikkelder",
+          "more complex (ingewikkeld)"
+        ],
+        [
+          "humanoïden",
+          "humanoids"
+        ],
+        [
+          "hersenen",
+          "brains"
+        ],
+        [
+          "bestuderen",
+          "to study"
+        ],
+        [
+          "oplossing",
+          "solution"
+        ],
+        [
+          "geschenk",
+          "gift, offering"
+        ],
+        [
+          "voorproefje",
+          "a taste, a foretaste"
+        ],
+        [
+          "innerlijke werking",
+          "inner workings"
+        ],
+        [
+          "bevalt",
+          "pleases, is to your liking (bevallen)"
+        ]
+      ]
+    },
+    "2602": {
+      "t": "Onfeilbare geest",
+      "d": "Is je concentratie nu al verminderd? Er moet meer onderzoek worden gedaan!$B$BO ja, de prijs blijft hetzelfde, $N. Trek de Blasted Lands in en kom terug met tien hersenen van de redstones en twee Vulture Gizzards.$b",
+      "o": "Breng tien Basilisk Brains en twee Vulture Gizzards naar Bloodmage Lynnore.",
+      "p": "Ben je terug met de organen waar ik om vroeg?",
+      "c": "Ja, ja, geef me even, dan is er meer van het mengsel klaar om in te nemen, $N.$B$BNeem het... en $N, probeer deze experimentele brouwsels niet vlak na elkaar in te nemen. De gevolgen kunnen rampzalig zijn.",
+      "g": [
+        [
+          "onfeilbare",
+          "infallible (onfeilbaar)"
+        ],
+        [
+          "concentratie",
+          "concentration"
+        ],
+        [
+          "verminderd",
+          "dwindled, decreased (verminderen)"
+        ],
+        [
+          "in te nemen",
+          "to take, to consume (innemen)"
+        ],
+        [
+          "experimentele",
+          "experimental (experimenteel)"
+        ],
+        [
+          "brouwsels",
+          "concoctions (brouwsel)"
+        ],
+        [
+          "vlak na elkaar",
+          "in rapid succession"
+        ],
+        [
+          "gevolgen",
+          "results, consequences (gevolg)"
+        ],
+        [
+          "rampzalig",
+          "disastrous"
+        ]
+      ]
+    },
+    "2603": {
+      "t": "De kracht van de gier",
+      "d": "De dood heeft in deze verwoeste landen inderdaad vleugels, $r. Ik heb de black slayers en bonepickers zich zien voeden met de lijken van veel gevallen ontdekkingsreizigers - soms eten ze van de meest walgelijke en zieke kadavers. Het is dan ook een wonder hoe hun lichaam de ziekte overwint die deze landen in haar greep heeft.$B$BHelp me met mijn onderzoek, $N! Spiermagen heb ik nodig! Voor de basis van het brouwsel heb ik ook twee Snickerfang Jowls nodig.$B$BJe zult dubbel beloond worden voor je moeite.",
+      "o": "Breng tien Vulture Gizzards en twee Snickerfang Jowls naar Bloodmage Lynnore.$b",
+      "p": "Verspil mijn tijd niet, $N. We hebben niets te bespreken, tenzij je de dingen hebt gevonden waar ik om vroeg.",
+      "c": "Uitstekend! Ik ga meteen aan het werk. Misschien vinden we wel een geneesmiddel voor veel kwalen van de wereld!$B$BAh ja, je beloning - natuurlijk. Als je meer van de kauwgom wilt, kom dan terug, en je krijgt een nieuwe taak.",
+      "g": [
+        [
+          "gier",
+          "vulture"
+        ],
+        [
+          "vleugels",
+          "wings (vleugel)"
+        ],
+        [
+          "zich ... voeden met",
+          "to feed on"
+        ],
+        [
+          "lijken",
+          "corpses (lijk)"
+        ],
+        [
+          "ontdekkingsreizigers",
+          "explorers (ontdekkingsreiziger)"
+        ],
+        [
+          "walgelijke",
+          "vile, disgusting (walgelijk)"
+        ],
+        [
+          "kadavers",
+          "carcasses (kadaver)"
+        ],
+        [
+          "overwint",
+          "overcomes (overwinnen)"
+        ],
+        [
+          "in haar greep",
+          "in its grip"
+        ],
+        [
+          "spiermagen",
+          "gizzards (spiermaag)"
+        ],
+        [
+          "dubbel",
+          "two-fold, double"
+        ],
+        [
+          "verspil",
+          "waste (verspillen)"
+        ],
+        [
+          "tenzij",
+          "unless"
+        ],
+        [
+          "geneesmiddel",
+          "cure, medicine"
+        ],
+        [
+          "kwalen",
+          "ailments (kwaal)"
+        ],
+        [
+          "kauwgom",
+          "gum"
+        ]
+      ]
+    },
+    "2604": {
+      "t": "Geestelijke overheersing",
+      "d": "Ik zie dat het innerlijke vuur is afgenomen. Zou je zeggen dat de geestelijke euforie een uur duurde?$B$BAls je meer van de spiermaagkauwgom wilt, dan heb ik meer spiermagen nodig. Terug naar de woestenij, $N. Kom niet terug voordat je tien spiermagen en twee kaken hebt gevonden.",
+      "o": "Breng tien Vulture Gizzards en twee Snickerfang Jowls naar Bloodmage Lynnore.$b",
+      "p": "Verspil mijn tijd niet, $N. We hebben niets te bespreken, tenzij je de dingen hebt gevonden waar ik om vroeg.",
+      "c": "Misschien kan ik op een dag de werkzame enzymen van dit mengsel afzonderen en een veel efficiënter resultaat maken. Helaas zul je het moeten doen met wat ik nu kan maken. Kom terug als je meer spiermaagkauwgom nodig hebt.",
+      "g": [
+        [
+          "geestelijke",
+          "spiritual (geestelijk)"
+        ],
+        [
+          "overheersing",
+          "domination"
+        ],
+        [
+          "innerlijke",
+          "inner (innerlijk)"
+        ],
+        [
+          "afgenomen",
+          "dwindled (afnemen)"
+        ],
+        [
+          "euforie",
+          "euphoria"
+        ],
+        [
+          "spiermaagkauwgom",
+          "gizzard gum"
+        ],
+        [
+          "kaken",
+          "jowls (kaak)"
+        ],
+        [
+          "werkzame",
+          "active (werkzaam)"
+        ],
+        [
+          "enzymen",
+          "enzymes (enzym)"
+        ],
+        [
+          "afzonderen",
+          "to isolate"
+        ],
+        [
+          "efficiënter",
+          "more efficient (efficiënt)"
+        ],
+        [
+          "het moeten doen met",
+          "have to settle for"
+        ]
+      ]
+    },
+    "2521": {
+      "t": "Kum'isha dienen",
+      "d": "$R, kan jouw piepkleine brein begrijpen hoe zeldzaam een perfecte bol van draenethyst is? Draenei hebben levens lang gezocht naar maar één van deze kristallen, en kwamen dan aan een vreselijk einde, zonder dat ze hun doel hadden bereikt.$B$BDus je staat voor Kum'isha, je weet wat Kum'isha heeft gevraagd, en toch wil je helpen? Goed dan, $r... Als je tijdens je reizen door deze landen ooit een perfecte bol van draenethyst vindt, breng hem dan naar mij terug. Dan beloon ik je met rijkdom voorbij je stoutste dromen.",
+      "o": "Als je tijdens je reizen door de Blasted Lands ooit een Flawless Draenethyst Sphere vindt, breng het voorwerp dan naar Kum'isha the Collector.$B$BWees gewaarschuwd: deze edelsteen is een van de zeldzaamste kristallen in heel Azeroth. Elk wezen in deze landen kan een Flawless Draenethyst Sphere bij zich hebben.$B$BJe krijgt een beloning voor elke Flawless Draenethyst Sphere die je hebt verzameld.",
+      "p": "Ik heb mijn leven gewijd aan de zoektocht naar perfecte draenethystbollen. Een heel leven, $R!",
+      "c": "Bedriegen mijn ogen me? Onmogelijk! Waar heb je... Hoe...$B$BMisschien kan er nu een scheur worden geopend die ons terugbrengt naar ons thuisland.",
+      "g": [
+        [
+          "dienen",
+          "to serve"
+        ],
+        [
+          "piepkleine",
+          "minuscule, tiny (piepklein)"
+        ],
+        [
+          "brein",
+          "brain"
+        ],
+        [
+          "zeldzaam",
+          "rare"
+        ],
+        [
+          "bol",
+          "sphere"
+        ],
+        [
+          "kristallen",
+          "crystals (kristal)"
+        ],
+        [
+          "aan een vreselijk einde kwamen",
+          "met horrible fates"
+        ],
+        [
+          "doel",
+          "purpose, goal"
+        ],
+        [
+          "rijkdom",
+          "riches, wealth"
+        ],
+        [
+          "stoutste dromen",
+          "wildest dreams"
+        ],
+        [
+          "wees gewaarschuwd",
+          "be warned"
+        ],
+        [
+          "gewijd",
+          "dedicated (wijden)"
+        ],
+        [
+          "bedriegen",
+          "deceive"
+        ],
+        [
+          "scheur",
+          "rift, tear"
+        ],
+        [
+          "thuisland",
+          "homeland"
+        ]
+      ]
+    },
+    "2522": {
+      "t": "Kum'isha's pogingen",
+      "d": "Ook al is het oproepen van het portaal mislukt, ik blijf hopen dat mijn volgende poging zal slagen.$B$BDe hoop van de Draenei is net zo vurig als jouw hebzucht naar snuisterijen, $r. Ga terug naar deze vervloekte landen en zoek nog een perfecte draenethystbol.$B$BNatuurlijk is de keuze om deze taak aan te nemen helemaal aan jou *grijns*.",
+      "o": "Vind een Flawless Draenethyst Sphere en breng hem naar Kum'isha the Collector.",
+      "p": "Heb je nog een perfecte draenethystbol gevonden?",
+      "c": "Gewoonweg verbazingwekkend. Ik had betwijfeld of je nog een bol kon vinden, maar hier is hij, kloppend in mijn handen.$B$BGoed gedaan, $N!$B$BAls je er nog meer vindt -- en ik denk dat dat onmogelijk is -- breng ze dan naar mij, dan beloon ik je opnieuw.",
+      "g": [
+        [
+          "pogingen",
+          "endeavors, attempts (poging)"
+        ],
+        [
+          "oproepen",
+          "conjuring, summoning"
+        ],
+        [
+          "portaal",
+          "portal"
+        ],
+        [
+          "slagen",
+          "to succeed"
+        ],
+        [
+          "vurig",
+          "fervent"
+        ],
+        [
+          "hebzucht",
+          "greed"
+        ],
+        [
+          "snuisterijen",
+          "trinkets (snuisterij)"
+        ],
+        [
+          "grijns",
+          "grin"
+        ],
+        [
+          "gewoonweg",
+          "simply"
+        ],
+        [
+          "verbazingwekkend",
+          "amazing"
+        ],
+        [
+          "betwijfeld",
+          "doubted (betwijfelen)"
+        ],
+        [
+          "kloppend",
+          "pulsating, beating (kloppen)"
+        ]
+      ]
+    },
+    "3501": {
+      "t": "Alles telt in grote hoeveelheden",
+      "d": "Misschien vind je nooit een perfecte draenethystbol, maar je zult zeker verschillende onvolmaakte stukjes draenethyst vinden als je deze landen verkent.$B$BHet is twijfelachtig of Kum'isha de gebrekkige stukjes kan gebruiken om naar huis terug te keren, maar ze kunnen andere nuttige doelen dienen voor de draenei.$B$BBreng alle stukjes draenethyst die je vindt naar mij terug, dan beloon ik je.",
+      "o": "Breng Kum'isha Imperfect Draenethyst Fragments en krijg een beloning voor elk exemplaar dat je inlevert.$b",
+      "p": "Heb je geluk gehad bij je verkenning?",
+      "c": "Ik walg echt van je, $R. Een volwassen man die kwijlt boven een hoop rommel? Zielig! Neem je beloning en ga uit mijn ogen.",
+      "g": [
+        [
+          "hoeveelheden",
+          "amounts (hoeveelheid)"
+        ],
+        [
+          "onvolmaakte",
+          "imperfect (onvolmaakt)"
+        ],
+        [
+          "verkent",
+          "explore (verkennen)"
+        ],
+        [
+          "twijfelachtig",
+          "doubtful"
+        ],
+        [
+          "gebrekkige",
+          "flawed (gebrekkig)"
+        ],
+        [
+          "nuttige",
+          "useful (nuttig)"
+        ],
+        [
+          "inlevert",
+          "turn in (inleveren)"
+        ],
+        [
+          "verkenning",
+          "exploration"
+        ],
+        [
+          "walg",
+          "am disgusted (walgen)"
+        ],
+        [
+          "kwijlt",
+          "drools (kwijlen)"
+        ],
+        [
+          "rommel",
+          "junk"
+        ],
+        [
+          "zielig",
+          "pitiful"
+        ],
+        [
+          "ga uit mijn ogen",
+          "get out of my sight"
+        ]
+      ]
+    },
+    "3502": {
+      "t": "De rommel van één draenei...",
+      "d": "Nou, na die vertoning van gulzige hebzucht voel ik me misselijk.$B$BHoe dan ook, ik zal niet te lang stilstaan bij jouw verslaving aan spullen.$B$BVoor elk onvolmaakt stukje draenethyst dat je inlevert, beloon ik je met meer rommel. Mijn rommelhoop wordt kleiner, terwijl jouw rommelhoop groter wordt. Op Draenor noemen we dit een 'win-win'-situatie.$b",
+      "o": "Breng Kum'isha Imperfect Draenethyst Fragments. Elk soort monster in de Blasted Lands kan een fragment bij zich hebben.$b",
+      "p": "Nou? Draenethyst? Weet je nog?$B$B<Kum'isha balt zijn vuist en klopt op je hoofd.>$B$BIs er iemand thuis?",
+      "c": "Ik walg echt van je, $R. Een volwassen vrouw die kwijlt boven een hoop rommel? Zielig! Neem je beloning en ga uit mijn ogen.$B$BKomt je dat bekend voor? Dat zou moeten, want ik zeg het duizend keer per dag.$B$BO, wat haat ik deze wereld.",
+      "g": [
+        [
+          "rommel",
+          "junk"
+        ],
+        [
+          "vertoning",
+          "display"
+        ],
+        [
+          "gulzige",
+          "voracious, greedy (gulzig)"
+        ],
+        [
+          "hebzucht",
+          "greed"
+        ],
+        [
+          "misselijk",
+          "nauseous"
+        ],
+        [
+          "stilstaan bij",
+          "to dwell on"
+        ],
+        [
+          "verslaving",
+          "addiction"
+        ],
+        [
+          "rommelhoop",
+          "junk heap"
+        ],
+        [
+          "balt zijn vuist",
+          "clenches his fist (ballen)"
+        ],
+        [
+          "klopt",
+          "knocks (kloppen)"
+        ],
+        [
+          "walg",
+          "am disgusted (walgen)"
+        ],
+        [
+          "kwijlt",
+          "drools (kwijlen)"
+        ],
+        [
+          "zielig",
+          "pitiful"
+        ],
+        [
+          "komt je dat bekend voor",
+          "does that sound familiar"
+        ],
+        [
+          "haat",
+          "loathe, hate (haten)"
+        ]
+      ]
+    },
+    "2681": {
+      "t": "De stenen die ons binden",
+      "d": "Er is meer nodig dan jij alleen om de troepen van Razelikh en zijn ondergeschikten te verslaan.$B$BVerzamel een geschikte groep avonturiers en bevrijd mijn mannen van hun eeuwige marteling! Achttien stenen moet je verbrijzelen.$B$BVecht hard en sterf met eer, $N.",
+      "o": "Bevrijd negen Servants of Razelikh, drie Servants of Sevine, drie Servants of Allistarj en drie Servants of Grol. Keer terug naar de Fallen Hero als je taak klaar is. Je moet dicht bij de stenen blijven, anders mislukt het proces.",
+      "p": "Het is geen gemakkelijke taak, $N. Geef niet op!",
+      "c": "Het is je gelukt, $N! De arme, gemartelde zielen kunnen eindelijk rusten.$b$bOns werk is nog niet klaar, $N. We hebben veel te bespreken en nog veel meer te doen.",
+      "o1": "Servants of Razelikh bevrijd",
+      "o2": "Servants of Grol bevrijd",
+      "o3": "Servants of Allistarj bevrijd",
+      "o4": "Servants of Sevine bevrijd",
+      "g": [
+        [
+          "binden",
+          "to bind"
+        ],
+        [
+          "troepen",
+          "forces, troops (troep)"
+        ],
+        [
+          "ondergeschikten",
+          "subordinates (ondergeschikte)"
+        ],
+        [
+          "geschikte",
+          "suitable (geschikt)"
+        ],
+        [
+          "avonturiers",
+          "adventurers (avonturier)"
+        ],
+        [
+          "bevrijd",
+          "free, freed (bevrijden)"
+        ],
+        [
+          "marteling",
+          "torture"
+        ],
+        [
+          "verbrijzelen",
+          "to shatter"
+        ],
+        [
+          "eer",
+          "honor"
+        ],
+        [
+          "mislukt",
+          "fails (mislukken)"
+        ],
+        [
+          "gemartelde",
+          "tortured (martelen)"
+        ],
+        [
+          "zielen",
+          "souls (ziel)"
+        ]
+      ]
+    },
+    "2701": {
+      "t": "Helden van vroeger",
+      "d": "Alsjeblieft, neem hieruit een relikwie van vroeger. Wij hebben het voorwerp niet meer nodig.$B$BMoge het je goed dienen in je strijd tegen het legioen.$b",
+      "o": "Open de kist en neem je beloning.",
+      "c": "Je bent even verblind door de schittering en de glans.",
+      "g": [
+        [
+          "relikwie",
+          "relic"
+        ],
+        [
+          "voorwerp",
+          "item, object"
+        ],
+        [
+          "moge",
+          "may (wish)"
+        ],
+        [
+          "dienen",
+          "to serve"
+        ],
+        [
+          "strijd",
+          "fight, battle"
+        ],
+        [
+          "legioen",
+          "legion"
+        ],
+        [
+          "kist",
+          "chest"
+        ],
+        [
+          "verblind",
+          "blinded (verblinden)"
+        ],
+        [
+          "schittering",
+          "sparkle"
+        ],
+        [
+          "glans",
+          "gleam, shine"
+        ]
+      ]
+    },
+    "2702": {
+      "t": "Helden van vroeger",
+      "d": "Je hebt mij geëerd met je edelmoedigheid en heldenmoed, $N.$B$BJe hebt hen ook geëerd...",
+      "o": "Spreek met Corporal Thund Splithoof.",
+      "c": "Inderdaad, je hebt ons allemaal geëerd. Onze dank alleen is niet genoeg.",
+      "g": [
+        [
+          "helden",
+          "heroes (held)"
+        ],
+        [
+          "geëerd",
+          "honored (eren)"
+        ],
+        [
+          "edelmoedigheid",
+          "nobility"
+        ],
+        [
+          "heldenmoed",
+          "heroism"
+        ],
+        [
+          "inderdaad",
+          "indeed"
+        ],
+        [
+          "dank",
+          "thanks"
+        ]
+      ]
+    },
+    "2783": {
+      "t": "Kleinzielig gekibbel",
+      "d": "We vechten tegen de verkeerde vijand, $N.$B$BDe ware macht in deze landen groeit steeds verder in kracht en aantal, terwijl wij met orcs kibbelen om verschroeide aarde.$B$BBlijven we in deze landen oorlog voeren tegen de Horde, om op een dag verslagen te worden door de legers van de Burning Legion? Het is zinloos.$B$BZet je verschillen opzij, $N, en spreek met de Fallen Hero of the Horde. Hij kent de waarheid achter de Blasted Lands.",
+      "o": "Spreek met de Fallen Hero of the Horde op de grens van de Blasted Lands en het moeras.",
+      "c": "De Alliance wil helpen?$B$BIk dacht dat ik deze dag nooit meer zou zien. Een dag waarop de Alliance zij aan zij met de Horde vecht tegen een gemeenschappelijke vijand.$B$BHet zal zo zijn... we zullen ons verenigen.",
+      "g": [
+        [
+          "kleinzielig",
+          "petty"
+        ],
+        [
+          "gekibbel",
+          "squabbling"
+        ],
+        [
+          "ware",
+          "true (waar)"
+        ],
+        [
+          "kibbelen",
+          "to squabble"
+        ],
+        [
+          "verschroeide",
+          "scorched (verschroeid)"
+        ],
+        [
+          "oorlog voeren",
+          "to wage war"
+        ],
+        [
+          "legers",
+          "armies (leger)"
+        ],
+        [
+          "zinloos",
+          "futile, pointless"
+        ],
+        [
+          "zet ... opzij",
+          "put aside (opzijzetten)"
+        ],
+        [
+          "grens",
+          "border"
+        ],
+        [
+          "moeras",
+          "swamp"
+        ],
+        [
+          "zij aan zij",
+          "side by side"
+        ],
+        [
+          "gemeenschappelijke",
+          "common (gemeenschappelijk)"
+        ],
+        [
+          "verenigen",
+          "to unite"
+        ]
+      ]
+    },
+    "2801": {
+      "t": "Een verhaal van verdriet",
+      "d": "Voordat we verder kunnen, moet je mijn verhaal horen.",
+      "o": "Luister naar het verhaal van de Fallen Hero of the Horde.",
+      "p": "Luister naar wat ik te zeggen heb, $N.",
+      "c": "Het is nu tijd om te handelen, $N.",
+      "e": "Een verhaal van verdriet",
+      "g": [
+        [
+          "verdriet",
+          "sorrow"
+        ],
+        [
+          "voordat",
+          "before"
+        ],
+        [
+          "verder kunnen",
+          "may continue"
+        ],
+        [
+          "handelen",
+          "to act"
+        ]
+      ]
+    },
+    "2721": {
+      "t": "Kirith",
+      "d": "Terwijl het ene hoofdstuk van je avontuur sluit, begint er een ander, $N.$B$BEen van mijn mannen is nog steeds vermist, verdwaald ergens in de Blasted Lands. Ik heb het natuurlijk over Lieutenant Kirith.$B$BZoals ik eerder al zei, waren we allebei gevangengenomen en gemarteld door Allistarj, maar de arme Kirith... zijn wilskracht begon te wankelen. Vanuit mijn kooi hoorde ik de experimenten; de gemartelde kreten galmden door de gangen van de grot. Dat was de laatste keer dat ik Kirith zag of hoorde.",
+      "o": "Zoek uit wat er met Lieutenant Kirith is gebeurd.",
+      "c": "Trebor? Heeft Trebor je gestuurd?",
+      "g": [
+        [
+          "hoofdstuk",
+          "chapter"
+        ],
+        [
+          "vermist",
+          "missing, unaccounted for"
+        ],
+        [
+          "verdwaald",
+          "lost (verdwalen)"
+        ],
+        [
+          "gevangengenomen",
+          "imprisoned, captured (gevangennemen)"
+        ],
+        [
+          "gemarteld",
+          "tortured (martelen)"
+        ],
+        [
+          "wilskracht",
+          "strength of will"
+        ],
+        [
+          "wankelen",
+          "to falter"
+        ],
+        [
+          "kooi",
+          "cage"
+        ],
+        [
+          "kreten",
+          "screams, cries (kreet)"
+        ],
+        [
+          "galmden",
+          "rang, echoed (galmen)"
+        ],
+        [
+          "gangen",
+          "halls, corridors (gang)"
+        ]
+      ]
+    },
+    "2743": {
+      "t": "De dekmantel van de duisternis",
+      "d": "Laten we er geen doekjes om winden, $r; mijn tijd hier is beperkt.$B$BJe moet het machtsdrietal vernietigen dat de demonenheer Razelikh beschermt. Dat zal niet zo eenvoudig zijn als het bevrijden van een verdoemde ziel.$B$B<Kirith grijnst.>$B$BWeet je, elk van Razelikhs ondergeschikten draagt om de nek een derde deel van een amulet dat Razelikh heeft gemaakt. Precies hetzelfde amulet dat je nodig hebt om de aartsdemon op te roepen.$B$BKeer terug naar Trebor en vertel hem wat er nodig is om Razelikh op te roepen. Hij kan je verder uitleggen wat je moet doen.",
+      "o": "Keer terug naar de Fallen Hero of the Horde met wat je hebt ontdekt.",
+      "c": "De demonenheer is bijna net zo sluw en berekenend als wreed, $N.",
+      "g": [
+        [
+          "dekmantel",
+          "cover"
+        ],
+        [
+          "er geen doekjes om winden",
+          "not mince words"
+        ],
+        [
+          "beperkt",
+          "limited"
+        ],
+        [
+          "machtsdrietal",
+          "triad of power"
+        ],
+        [
+          "demonenheer",
+          "demon lord"
+        ],
+        [
+          "verdoemde",
+          "damned (verdoemd)"
+        ],
+        [
+          "grijnst",
+          "grins (grijnzen)"
+        ],
+        [
+          "ondergeschikten",
+          "underlings (ondergeschikte)"
+        ],
+        [
+          "een derde deel",
+          "a third"
+        ],
+        [
+          "aartsdemon",
+          "arch demon"
+        ],
+        [
+          "op te roepen",
+          "to summon (oproepen)"
+        ],
+        [
+          "sluw",
+          "cunning"
+        ],
+        [
+          "berekenend",
+          "calculating"
+        ],
+        [
+          "wreed",
+          "brutal, cruel"
+        ]
+      ]
+    },
+    "2744": {
+      "t": "De demonenjager",
+      "d": "Het drietal wordt beschermd door Razelikh.$B$BIn ruil voor hun dienst gaf Razelikh elk van hen bijna onbeperkte macht in de Blasted Lands. De amuletdelen zijn elk verbonden met de levenskracht van hun eigenaar, en dat maakt hen onsterfelijk. Zolang ze in de Blasted Lands blijven, kunnen ze niet gedood worden; hun leven duurt tot het einde der tijden.$B$BEr is iemand die je misschien verder kan helpen, $N. Reis naar Azshara en zoek de demonenjager Loramus Thalipedes. Doorzoek de eilanden.",
+      "o": "Spreek met Loramus Thalipedes in Azshara.",
+      "p": "Wat doe jij hier?",
+      "c": "Ik zal je helpen. Maar ik denk niet dat je helemaal begrijpt waar je tegenover staat.",
+      "e": "Gesprek met Loramus",
+      "g": [
+        [
+          "demonenjager",
+          "demon hunter"
+        ],
+        [
+          "drietal",
+          "triad, trio"
+        ],
+        [
+          "in ruil voor",
+          "in exchange for"
+        ],
+        [
+          "dienst",
+          "service, servitude"
+        ],
+        [
+          "onbeperkte",
+          "unlimited (onbeperkt)"
+        ],
+        [
+          "amuletdelen",
+          "amulet pieces"
+        ],
+        [
+          "verbonden",
+          "attuned, connected (verbinden)"
+        ],
+        [
+          "levenskracht",
+          "life force"
+        ],
+        [
+          "eigenaar",
+          "owner"
+        ],
+        [
+          "onsterfelijk",
+          "immortal"
+        ],
+        [
+          "zolang",
+          "as long as"
+        ],
+        [
+          "tot het einde der tijden",
+          "until the end of days"
+        ],
+        [
+          "doorzoek",
+          "search (doorzoeken)"
+        ],
+        [
+          "waar je tegenover staat",
+          "what you are up against"
+        ]
+      ]
+    },
+    "3627": {
+      "t": "Het gebroken amulet herenigen",
+      "d": "Om de Defiler te bereiken, moet je eerst het machtsdrietal vernietigen en de amuletdelen terughalen. Als je alle drie de delen hebt, kom dan bij me terug. Dan geef ik je verdere instructies.$B$BGa, $N! Naar de Blasted Lands! Sevine, Allistarj en Grol moeten vallen!$b",
+      "o": "Dood Grol the Destroyer, Lady Sevine en Archmage Allistarj. Neem van hun lijken de Amulet of Grol, de Amulet of Sevine en de Amulet of Allistarj.$B$BDenk eraan je Enchanted Azsharite Fel Weaponry te GEBRUIKEN om het drietal te verzwakken. Anders kunnen ze niet gedood worden - maar gebruik ze verstandig...$b",
+      "p": "De drie zullen één worden, de ene zal de weg verlichten.",
+      "c": "Het amulet van Razelikh the Defiler is weer compleet, maar hij voelt de verstoring in zijn bevelsketen. Hij weet dat je voor hem komt...",
+      "g": [
+        [
+          "gebroken",
+          "shattered, broken (breken)"
+        ],
+        [
+          "herenigen",
+          "to reunite"
+        ],
+        [
+          "machtsdrietal",
+          "triad of power"
+        ],
+        [
+          "amuletdelen",
+          "amulet pieces"
+        ],
+        [
+          "terughalen",
+          "to recover"
+        ],
+        [
+          "verdere",
+          "further (verder)"
+        ],
+        [
+          "lijken",
+          "corpses (lijk)"
+        ],
+        [
+          "verzwakken",
+          "to weaken"
+        ],
+        [
+          "verstandig",
+          "wisely"
+        ],
+        [
+          "verlichten",
+          "to light up"
+        ],
+        [
+          "verstoring",
+          "disruption"
+        ],
+        [
+          "bevelsketen",
+          "chain of command"
+        ]
+      ]
+    }
+  },
+  "words": {
+    "achttien": "eighteen",
+    "ash-mane": "ash-mane (part of a name)",
+    "atal'ai-stam": "Atal'ai tribe",
+    "avatar": "avatar",
+    "balt": "clenches (ballen)",
+    "bijten": "to bite",
+    "bonepickers": "bonepickers (vultures, English name)",
+    "doekjes": "cloths (doekje); er geen doekjes om winden = not mince words",
+    "draenethystbol": "draenethyst sphere",
+    "draenethystbollen": "draenethyst spheres",
+    "drong": "urged (aandringen)",
+    "formules": "formulas (formule)",
+    "gemakkelijke": "easy (gemakkelijk)",
+    "grip": "grip, hold",
+    "hakkari-bloed": "Hakkari blood",
+    "hebbende": "having (dat gezegd hebbende = with that said)",
+    "manipulatie": "manipulation",
+    "martel": "torture (martelen)",
+    "onvolmaakt": "imperfect",
+    "razelikhs": "Razelikh's",
+    "redstones": "redstones (Redstone Basilisks)",
+    "rijker": "richer (rijk)",
+    "scorpoks": "scorpoks (scorpion-like beasts)",
+    "snickerfangs": "snickerfangs (hyenas)",
+    "stabiel": "stable",
+    "stoutste": "wildest, boldest (stout)",
+    "termijn": "term, period",
+    "teruggeef": "give back (teruggeven)",
+    "vastpakt": "takes hold of (vastpakken)",
+    "voorzichtigheid": "caution",
+    "wegwassen": "to wash away",
+    "werking": "working, functioning",
+    "win-win'-situatie": "win-win situation",
+    "witherbark-metgezellen": "Witherbark companions"
+  },
+  "terms": {
+    "draenethyst": "draenethyst: a rare crystal from the Warcraft world, prized by the draenei"
+  }
+}
