@@ -1,0 +1,1186 @@
+{
+  "quests": {
+    "7637": {
+      "t": "De nadruk op opoffering",
+      "d": "Om je op deze taak voor te bereiden, moet je eerst gepaste opoffering en een goed oordeel tonen... met de nadruk op opoffering.$B$BVoor je taak moet je het wierookvat voor exorcisme van High Priest Rohan bemachtigen. Ook al gebruik je het voor goede en rechtvaardige redenen, je moet er een passende vergoeding voor geven.$B$BGa naar Ironforge en spreek met de High Priest. Neem genoeg geld mee om het verlies van zijn wierookvat goed te maken. Zo laat je zien dat je bereid bent iets op te offeren.$B$BGa nu, $N, de tijd dringt.",
+      "o": "Reis naar Ironforge en haal High Priest Rohan's Exorcism Censer. Je moet 150 goud doneren om het te krijgen.",
+      "p": "Gegroet, nobele paladijn! Ik heb mijn vertrouwde wierookvat gevuld met de meest verse wierook en het drie keer voor jou gezegend. Met je gift kunnen we in Ironforge niet alleen een nieuw wierookvat maken, maar ook onze slinkende voedselvoorraad voor de armen aanvullen.",
+      "c": "Zegeningen voor jou, vriend $C! Je gift is veel groter dan nodig was. Met je opoffering kunnen we niet alleen terugkrijgen wat we verloren hebben. We kunnen ook de mensen helpen die het hier in Ironforge het hardst nodig hebben.$B$BLaat me nu controleren of ik dit wierookvat goed heb voorbereid op wat je nog nodig hebt...",
+      "g": [
+        [
+          "nadruk",
+          "emphasis"
+        ],
+        [
+          "opoffering",
+          "sacrifice"
+        ],
+        [
+          "gepaste",
+          "due, appropriate (gepast)"
+        ],
+        [
+          "oordeel",
+          "judgment"
+        ],
+        [
+          "wierookvat",
+          "censer"
+        ],
+        [
+          "bemachtigen",
+          "to obtain, to get hold of"
+        ],
+        [
+          "rechtvaardige",
+          "just, righteous (rechtvaardig)"
+        ],
+        [
+          "vergoeding",
+          "compensation"
+        ],
+        [
+          "de tijd dringt",
+          "time is pressing"
+        ],
+        [
+          "gezegend",
+          "blessed (zegenen)"
+        ],
+        [
+          "slinkende",
+          "shrinking, dwindling (slinken)"
+        ],
+        [
+          "voedselvoorraad",
+          "food supply"
+        ],
+        [
+          "zegeningen",
+          "blessings (zegening)"
+        ]
+      ]
+    },
+    "7639": {
+      "t": "Een gepast oordeel tonen",
+      "d": "Neem het wierookvat, met mijn zegen. Ik heb het zelf bij meerdere uitdrijvingen gebruikt. Het zal je goed helpen bij de zware taken die voor je liggen.$B$BGa nu terug naar Lord Grayson Shadowbreaker in Stormwind, $N. Je opdracht gaat bij hem verder.",
+      "o": "Breng de Exorcism Censer terug naar Lord Grayson Shadowbreaker in het Cathedral District van Stormwind.",
+      "p": "Welkom terug, $N. Heb je het wierookvat voor exorcisme gekregen?",
+      "c": "Ja, dit is goed. Tijdens deze opdracht zul je meer dan eens gevraagd worden om iets op te offeren. Ik ben blij dat je daartoe bereid bent. Opoffering is een belangrijk deel van wat nodig is om de plichten van een paladijn na te komen... maar daar hoef ik jou geen preek over te geven.$B$BNu, $N, moet je in je daden een gepast oordeel tonen. Daarvoor zal dit wierookvat jouw vat zijn. Hiermee spreek je een oordeel uit over de gekwelde geesten van de landen die we verloren hebben.",
+      "g": [
+        [
+          "zegen",
+          "blessing"
+        ],
+        [
+          "uitdrijvingen",
+          "exorcisms (uitdrijving)"
+        ],
+        [
+          "daartoe",
+          "to that, for that"
+        ],
+        [
+          "plichten",
+          "duties (plicht)"
+        ],
+        [
+          "na te komen",
+          "to fulfil, to uphold (nakomen)"
+        ],
+        [
+          "preek",
+          "sermon, lecture"
+        ],
+        [
+          "daden",
+          "deeds, actions (daad)"
+        ],
+        [
+          "vat",
+          "vessel"
+        ],
+        [
+          "gekwelde",
+          "tortured (kwellen)"
+        ],
+        [
+          "een oordeel uitspreken",
+          "to pass judgment"
+        ]
+      ]
+    },
+    "7640": {
+      "t": "Uitdrijving in Terrordale",
+      "d": "Ik heb een snufje aarde van de besmette grond van Terrordale in de Eastern Plaguelands aan het wierookvat toegevoegd. Gebruik dit wierookvat nu om daar plekken te vinden met tekenen van geestelijke onrust en verstoring. Zoek naar groene aura's die door de grond trekken, waar de fysieke wereld bezwijkt onder de kwelling van het geestenrijk. Gebruik daar het wierookvat om de kwade geesten te verdrijven.$B$BAls je genoeg oordeel over de geesten daar hebt uitgesproken, ben je klaar voor de volgende stap.",
+      "o": "Gebruik de Exorcism Censer om de geesten te verdrijven die Terrordale kwellen. Als je 25 Terrordale Spirits hebt gedood, ga je terug naar Lord Grayson Shadowbreaker in het Cathedral District van Stormwind.",
+      "p": "Fijn om je weer te zien, $N. Is je werk in Terrordale klaar?",
+      "c": "Goed gedaan, $N. Het oordeel van het Licht uitvoeren over wie in de duisternis leeft, is een taak die we met kracht en ijver moeten doen. Dat heb jij gedaan, met je opoffering in Ironforge en je oordeel over de geesten in Terrordale.$B$BBij je volgende stappen zijn opoffering en oordeel opnieuw nodig. Je gaat nu proberen de geest terug te winnen van een gevallen strijdros, dat nu een doodsridder dient die Darkreaver heet.",
+      "g": [
+        [
+          "snufje",
+          "pinch"
+        ],
+        [
+          "besmette",
+          "tainted, infected (besmet)"
+        ],
+        [
+          "geestelijke",
+          "spiritual (geestelijk)"
+        ],
+        [
+          "onrust",
+          "unrest, turmoil"
+        ],
+        [
+          "verstoring",
+          "disturbance"
+        ],
+        [
+          "bezwijkt",
+          "buckles, collapses (bezwijken)"
+        ],
+        [
+          "kwelling",
+          "torment"
+        ],
+        [
+          "geestenrijk",
+          "spirit realm"
+        ],
+        [
+          "verdrijven",
+          "to drive out"
+        ],
+        [
+          "kwellen",
+          "to torment"
+        ],
+        [
+          "ijver",
+          "zeal, diligence"
+        ],
+        [
+          "terug te winnen",
+          "to win back (terugwinnen)"
+        ],
+        [
+          "strijdros",
+          "charger, war horse"
+        ],
+        [
+          "doodsridder",
+          "death knight"
+        ]
+      ]
+    },
+    "7641": {
+      "t": "Het werk van Grimand Elmore",
+      "d": "Zonder goed pantser is het strijdros van een paladijn niets meer dan een lastdier. Het pantser van jouw strijdros moet niet alleen van de best mogelijke materialen zijn. Door de omstandigheden moet het ook goed afgestemd zijn op het geestenrijk.$B$BEerst het belangrijkste, $N: laten we je pantser laten maken. In het Dwarven District van Stormwind woont een van de beste vaklieden van deze tijd: Grimand Elmore. Zijn werk is niet goedkoop, maar zijn kwaliteit is wat we zoeken. Spreek met hem.",
+      "o": "Spreek met Grimand Elmore in het Dwarven District van Stormwind.",
+      "c": "Hallo daar. Lord Shadowbreaker liet me al van tevoren weten dat je bij me langs zou komen. Ik wil het pantser dat je nodig hebt best maken, maar het wordt niet goedkoop en ook niet makkelijk. Laten we dat eerst en vooral duidelijk maken.$B$BDit wil ik wel zeggen, en Grayson zal me steunen als ik dit beweer... nergens in heel Azeroth vind je beter paardenpantser dan hier.",
+      "g": [
+        [
+          "pantser",
+          "armour, barding"
+        ],
+        [
+          "lastdier",
+          "pack animal"
+        ],
+        [
+          "omstandigheden",
+          "circumstances (omstandigheid)"
+        ],
+        [
+          "afgestemd",
+          "attuned (afstemmen)"
+        ],
+        [
+          "vaklieden",
+          "craftsmen (vakman)"
+        ],
+        [
+          "van tevoren",
+          "in advance"
+        ],
+        [
+          "eerst en vooral",
+          "first and foremost"
+        ],
+        [
+          "steunen",
+          "to back up, to support"
+        ],
+        [
+          "beweer",
+          "claim (beweren)"
+        ],
+        [
+          "paardenpantser",
+          "horse armour, barding"
+        ]
+      ]
+    },
+    "7642": {
+      "t": "Spullen verzamelen",
+      "d": "Je hebt vier dingen nodig voor het pantser: Runecloth voor de voering, Arcanite Bars voor de platen, Arthas' Tears voor de geestelijke afstemming en Stratholme Holy Water om het met geestelijke kracht te vullen. Eigenlijk heb je vijf dingen nodig... goud voor mijn loon. Dat loon dekt al het werk, en ook een handgemaakt zadel en stijgbeugels.$B$BAls je dat allemaal hebt, kan ik je pantser afmaken. Tot die tijd kan ik alvast aan een paar dingen voor je beginnen, terwijl jij je spullen verzamelt.",
+      "o": "Breng 40 Runecloth, 6 Arcanite Bars, 10 Arthas' Tears, 5 flesjes Stratholme Holy Water en 150 goud naar Grimand Elmore in het Dwarven District van Stormwind.",
+      "p": "Ah, $C. Zonder de dingen die ik noemde kan ik je pantser niet afmaken. Heb je alles bij elkaar?",
+      "c": "Dit... nou, dit is precies wat ik nodig had. Jij bent een vindingrijke $C, hè?$B$BGoed dan, laten we dit pantser voor je afmaken!",
+      "g": [
+        [
+          "voering",
+          "lining"
+        ],
+        [
+          "platen",
+          "plates, plating (plaat)"
+        ],
+        [
+          "afstemming",
+          "attunement"
+        ],
+        [
+          "loon",
+          "fee, wage"
+        ],
+        [
+          "dekt",
+          "covers (dekken)"
+        ],
+        [
+          "handgemaakt",
+          "handcrafted"
+        ],
+        [
+          "zadel",
+          "saddle"
+        ],
+        [
+          "stijgbeugels",
+          "stirrups (stijgbeugel)"
+        ],
+        [
+          "alvast",
+          "already, in the meantime"
+        ],
+        [
+          "flesjes",
+          "vials, small bottles (flesje)"
+        ],
+        [
+          "vindingrijke",
+          "resourceful (vindingrijk)"
+        ]
+      ]
+    },
+    "7643": {
+      "t": "Ancient Equine Spirit",
+      "d": "Je pantser heeft een speciale zegen nodig, van een geschikte geest. In Dire Maul is zo'n geest: de Ancient Equine Spirit. Hij wordt nu vastgehouden door een verdorven boomherder, Tendris Warpwood. Spreek je oordeel uit over dit smerige beest, $N.$B$BWeet dit: vrijheid alleen is niet genoeg. Je moet de geest kalmeren voordat je zijn zegen krijgt. Daarvoor is speciaal paardenvoer nodig. Reis eerst naar Southshore en spreek hierover met Merideth Carlson... en bereid je voor op meer opoffering.",
+      "o": "Haal speciaal paardenvoer om een geestpaard te voeren. Merideth Carlson in Southshore heeft zulk voer, zo lijkt het.$B$BReis naar de kerker Dire Maul in Feralas en dood Tendris Warpwood. Daarmee bevrijd je de Ancient Equine Spirit. Geef hem het speciale paardenvoer om de geest te kalmeren. Geef hem ten slotte de Arcanite Barding, zodat hij die kan zegenen.",
+      "p": "De Ancient Equine Spirit kijkt je verwachtingsvol aan, alsof hij iets van je wil.",
+      "c": "De Ancient Equine Spirit neemt het offer van de Manna-Enriched Horse Feed aan. Hij duwt zijn neus tegen de bak terwijl hij van de speciale haver en granen eet. Als hij een beetje gegeten heeft, kijkt hij naar het pantser dat je bij je hebt. Hij gaat zo staan alsof hij wil dat je het op zijn rug legt...",
+      "g": [
+        [
+          "geschikte",
+          "suitable (geschikt)"
+        ],
+        [
+          "vastgehouden",
+          "held, kept captive (vasthouden)"
+        ],
+        [
+          "verdorven",
+          "corrupt"
+        ],
+        [
+          "boomherder",
+          "treant"
+        ],
+        [
+          "smerige",
+          "foul, filthy (smerig)"
+        ],
+        [
+          "kalmeren",
+          "to soothe, to calm"
+        ],
+        [
+          "paardenvoer",
+          "horse feed"
+        ],
+        [
+          "kerker",
+          "dungeon"
+        ],
+        [
+          "ten slotte",
+          "finally"
+        ],
+        [
+          "verwachtingsvol",
+          "expectantly"
+        ],
+        [
+          "offer",
+          "offering"
+        ],
+        [
+          "haver",
+          "oats"
+        ],
+        [
+          "granen",
+          "grains (graan)"
+        ]
+      ]
+    },
+    "7646": {
+      "t": "De Divination Scryer",
+      "d": "Nu moeten we een Divination Scryer in elkaar zetten. Daarmee begint de beproeving waarmee je het gevallen strijdros kunt verlossen. Je Divination Scryer is eigenlijk al bijna klaar. Het wierookvat dat je in Terrordale gebruikte, is de katalysator ervan, en ik maak een geschikte behuizing voor het apparaat.$B$BMaar de laatste onderdelen die nodig zijn, zijn twee diamanten. Ze moeten even tegengesteld zijn in glans als in doel: een Azerothian en een Pristine Black. Die twee worden het baken waarmee de Divination Scryer door de schaduwen heen zal prikken!",
+      "o": "Breng een Azerothian Diamond en een Pristine Black Diamond naar Lord Grayson Shadowbreaker in het Cathedral District van Stormwind.",
+      "p": "Je bent al zo ver gekomen, $N. Je laatste opoffering van wereldse spullen wordt het begin van een van je grootste prestaties. Ik voel het tot in het diepst van mijn wezen!",
+      "c": "Dit zijn mooie exemplaren, $N. De laatste stukken liggen nu op hun plaats. Eindelijk is jouw tijd gekomen!$B$BDiep in de Great Ossuary van Scholomance liggen de skeletten van veel wezens. Daartussen ligt een strijdros dat ooit nobel was. De lege ziel van dit strijdros is nu het rijdier van Death Knight Darkreaver. Hem zul je tegenover je krijgen, en over dit ros zul je je oordeel uitspreken. Alleen jij, $N, kunt zijn ziel verlossen en hem redden van de kwelling van zijn slavernij.",
+      "g": [
+        [
+          "in elkaar zetten",
+          "to assemble"
+        ],
+        [
+          "beproeving",
+          "trial, ordeal"
+        ],
+        [
+          "verlossen",
+          "to redeem, to set free"
+        ],
+        [
+          "katalysator",
+          "catalyst"
+        ],
+        [
+          "behuizing",
+          "housing, casing"
+        ],
+        [
+          "tegengesteld",
+          "opposite, juxtaposed"
+        ],
+        [
+          "glans",
+          "brilliance, shine"
+        ],
+        [
+          "baken",
+          "beacon"
+        ],
+        [
+          "wereldse",
+          "worldly (werelds)"
+        ],
+        [
+          "prestaties",
+          "accomplishments (prestatie)"
+        ],
+        [
+          "wezen",
+          "being"
+        ],
+        [
+          "exemplaren",
+          "specimens (exemplaar)"
+        ],
+        [
+          "rijdier",
+          "mount, steed"
+        ],
+        [
+          "ros",
+          "steed"
+        ],
+        [
+          "slavernij",
+          "slavery, servitude"
+        ]
+      ]
+    },
+    "5529": {
+      "t": "Besmette draakjes",
+      "d": "De Argent Dawn heeft onlangs ontdekt dat de Scourge hun eigen besmette drakenvlucht maken! We moeten ze tegenhouden. Als de Scourge een leger draken krijgen, trekken ze ongehinderd over heel Azeroth!$B$BHun dodenbezweerders kweken besmette draken in de Scholomance, midden in Darrowmere Lake.$B$BGa naar de Scholomance en dood zoveel jonge draakjes als je kunt... voordat ze groter worden!",
+      "o": "Dood 20 Plagued Hatchlings en ga dan terug naar Betina Bigglezink bij de Light's Hope Chapel.",
+      "p": "Ga naar de Scholomance, $N. Ruim die besmette draakjes op voordat ze groeien!",
+      "c": "Goed gedaan, $N! Het zal lang duren voordat ze een nieuw nest draken kunnen kweken.$B$B...Tenminste, dat hoop ik!",
+      "g": [
+        [
+          "onlangs",
+          "recently"
+        ],
+        [
+          "besmette",
+          "plagued, infected (besmet)"
+        ],
+        [
+          "drakenvlucht",
+          "dragonflight"
+        ],
+        [
+          "tegenhouden",
+          "to stop"
+        ],
+        [
+          "ongehinderd",
+          "unchecked, unhindered"
+        ],
+        [
+          "dodenbezweerders",
+          "necromancers (dodenbezweerder)"
+        ],
+        [
+          "kweken",
+          "to breed"
+        ],
+        [
+          "draakjes",
+          "little dragons, hatchlings (draakje)"
+        ],
+        [
+          "ruim op",
+          "clear out, take out (opruimen)"
+        ],
+        [
+          "nest",
+          "clutch, nest"
+        ]
+      ]
+    },
+    "5582": {
+      "t": "Een gezonde drakenschub",
+      "d": "Dit is een schub die van een besmet jong draakje is gevallen. De andere schubben van het jonge beest zitten vol putjes en lekken. Maar deze zeldzame schub is gezond en zonder vlekken.$B$BBetina Bigglezink wil hier vast een monster van hebben om te bestuderen.",
+      "o": "Breng de Healthy Dragon Scale naar Betina Bigglezink bij de Light's Hope Chapel in de Eastern Plaguelands.",
+      "p": "$N, heb je iets om me te laten zien?",
+      "c": "Uitstekend! Dit is enorm waardevol voor mijn verdere onderzoek naar de plannen van de Scourge. Bedankt, $N. Als je meer van deze schubben vindt, breng ze dan alsjeblieft naar mij!",
+      "g": [
+        [
+          "drakenschub",
+          "dragon scale"
+        ],
+        [
+          "schub",
+          "scale"
+        ],
+        [
+          "putjes",
+          "pits, pocks (putje)"
+        ],
+        [
+          "lekken",
+          "to ooze, to leak"
+        ],
+        [
+          "zeldzame",
+          "rare (zeldzaam)"
+        ],
+        [
+          "vlekken",
+          "marks, blemishes (vlek)"
+        ],
+        [
+          "monster",
+          "sample"
+        ],
+        [
+          "bestuderen",
+          "to study"
+        ],
+        [
+          "waardevol",
+          "valuable"
+        ]
+      ]
+    },
+    "4771": {
+      "t": "Dawn's Gambit",
+      "d": "Ik heb Dawn's Gambit in de bak gedaan die je ons bracht, die waar de drakeneieren in zaten. Jouw taak is om het diep de Scholomance in te brengen.$B$BDe ondode magiër Vectus leidt een groep geleerden van de Scourge... Zet Dawn's Gambit in hun kamer, die de Viewing Room heet. Het reageert dan op de ondoden die daar zijn en vernietigt ze, met een beetje geluk!$B$BDaarna zou het verslaan van Vectus geen probleem moeten zijn. Toch?",
+      "o": "Zet Dawn's Gambit in de Viewing Room van de Scholomance. Versla Vectus en ga dan terug naar Betina Bigglezink.",
+      "p": "Onthoud, $N: we moeten verdraagzaam zijn, maar vast in wat we geloven!",
+      "c": "Fantastisch, $N! Jaren aan inlichtingen, verloren! De Scarlet Crusade zal deze klap de komende weken zeker voelen.",
+      "e": "Zet Dawn's Gambit neer",
+      "g": [
+        [
+          "bak",
+          "container"
+        ],
+        [
+          "drakeneieren",
+          "dragon eggs (drakenei)"
+        ],
+        [
+          "ondode",
+          "undead"
+        ],
+        [
+          "magiër",
+          "mage"
+        ],
+        [
+          "geleerden",
+          "scholars (geleerde)"
+        ],
+        [
+          "reageert",
+          "reacts (reageren)"
+        ],
+        [
+          "verslaan",
+          "to defeat"
+        ],
+        [
+          "verdraagzaam",
+          "tolerant"
+        ],
+        [
+          "inlichtingen",
+          "intelligence, information"
+        ],
+        [
+          "klap",
+          "blow"
+        ]
+      ]
+    },
+    "5068": {
+      "t": "Breastplate of Bloodthirst",
+      "d": "Men zegt dat er maar één Breastplate of Bloodthirst ooit gemaakt is, voor de legendarische sluipmoordenaar Garona. Of deze wereld er ooit nog een zal zien, is twijfelachtig.$B$BMaar goed! Onze meestermakers kunnen het voorwerp namaken als ze de nodige onderdelen hebben:$B$B*De gave huid van het Beest.$B$B*Gerafelde hechtingen van gedrochten.$B$B*Arcanite Bars.$B$B*De huid van schaduw.$B$BZIE HIER!",
+      "o": "Om de Breastplate of Bloodthirst te maken, moet je de volgende voorwerpen naar Malyfous Darkhammer brengen: 1 Pristine Hide of the Beast; 10 Frayed Abomination Stitchings; 5 Arcanite Bars; 5 Skin of Shadow.$B$BJe moet ook 50 goudstukken betalen voor het maken van het voorwerp.",
+      "p": "Als je niet alles hebt wat ik nodig heb, verspil je mijn tijd.",
+      "c": "Ik dacht dat ik al dood en begraven zou zijn voordat ik deze dag zou meemaken.$B$BEen prestatie van deze omvang kan alleen overtroffen worden door de beloning.",
+      "g": [
+        [
+          "legendarische",
+          "legendary (legendarisch)"
+        ],
+        [
+          "sluipmoordenaar",
+          "assassin"
+        ],
+        [
+          "twijfelachtig",
+          "doubtful"
+        ],
+        [
+          "meestermakers",
+          "master crafters (meestermaker)"
+        ],
+        [
+          "namaken",
+          "to reproduce, to copy"
+        ],
+        [
+          "gave",
+          "flawless, pristine (gaaf)"
+        ],
+        [
+          "gerafelde",
+          "frayed (gerafeld)"
+        ],
+        [
+          "hechtingen",
+          "stitchings, stitches (hechting)"
+        ],
+        [
+          "gedrochten",
+          "abominations (gedrocht)"
+        ],
+        [
+          "verspil",
+          "waste (verspillen)"
+        ],
+        [
+          "begraven",
+          "buried"
+        ],
+        [
+          "omvang",
+          "magnitude, size"
+        ],
+        [
+          "overtroffen",
+          "surpassed, overshadowed (overtreffen)"
+        ]
+      ]
+    },
+    "5343": {
+      "t": "Het fortuin van de familie Barov",
+      "d": "Mijn lieve broer Alexi. Wat was ik dwaas om zijn leven te sparen. Ik keek de vijand in het gezicht, een van de ondoden, en liet hem leven.$B$B<Weldon spuugt.>$B$BNu zoekt hij naar MIJN erfenis. Dat mag gewoon niet gebeuren.$B$BVind de akten van mijn familie voordat die gemene ellendeling er zijn benige handen op legt, en ik beloon je met grote rijkdom. Ze liggen in de ruïnes van de Scholomance. Haast je!",
+      "o": "Ga naar de Scholomance en haal het fortuin van de familie Barov terug. Het fortuin bestaat uit vier akten: de Deed to Caer Darrow, de Deed to Brill, de Deed to Tarren Mill en de Deed to Southshore. Ga terug naar Weldon Barov als je deze taak hebt volbracht.",
+      "p": "Zorg voor mijn toekomst, dan zorg ik voor de jouwe.$b",
+      "c": "Er is nog maar één taak die ik je moet vragen, $N.",
+      "g": [
+        [
+          "fortuin",
+          "fortune"
+        ],
+        [
+          "dwaas",
+          "foolish, fool"
+        ],
+        [
+          "sparen",
+          "to spare"
+        ],
+        [
+          "spuugt",
+          "spits (spugen)"
+        ],
+        [
+          "erfenis",
+          "inheritance"
+        ],
+        [
+          "akten",
+          "deeds (akte)"
+        ],
+        [
+          "gemene",
+          "vile, nasty (gemeen)"
+        ],
+        [
+          "ellendeling",
+          "wretch"
+        ],
+        [
+          "benige",
+          "bony (benig)"
+        ],
+        [
+          "rijkdom",
+          "riches, wealth"
+        ],
+        [
+          "haast je",
+          "make haste (zich haasten)"
+        ],
+        [
+          "volbracht",
+          "completed (volbrengen)"
+        ]
+      ]
+    },
+    "5382": {
+      "t": "Doctor Theolen Krastinov, de Slager",
+      "d": "Krastinov is verantwoordelijk voor de dood van duizenden. Hij moet gestraft worden; er moet recht gedaan worden.$B$BVind hem en laat hem de pijn voelen die hij talloze onschuldigen heeft aangedaan. Als hij vernietigd is, verbrand dan onze resten. Maak er as van, $N.",
+      "o": "Vind Doctor Theolen Krastinov in de Scholomance. Vernietig hem en verbrand dan de Remains of Eva Sarkhoff en de Remains of Lucien Sarkhoff. Ga terug naar Eva Sarkhoff als de taak klaar is.$b",
+      "p": "De Slager moet gestopt worden!",
+      "c": "Ik voel mijn geest genezen, $N. Je hebt mijn man en mij een grote dienst bewezen, maar ik weet zeker dat er meer te doen is.",
+      "o2": "Remains of Eva Sarkhoff verbrand",
+      "o3": "Remains of Lucien Sarkhoff verbrand",
+      "g": [
+        [
+          "slager",
+          "butcher"
+        ],
+        [
+          "verantwoordelijk",
+          "responsible"
+        ],
+        [
+          "gestraft",
+          "punished (straffen)"
+        ],
+        [
+          "recht doen",
+          "to do justice"
+        ],
+        [
+          "talloze",
+          "countless (talloos)"
+        ],
+        [
+          "onschuldigen",
+          "innocents (onschuldige)"
+        ],
+        [
+          "aangedaan",
+          "inflicted (aandoen)"
+        ],
+        [
+          "resten",
+          "remains (rest)"
+        ],
+        [
+          "as",
+          "ash, ashes"
+        ],
+        [
+          "een dienst bewijzen",
+          "to do someone a service"
+        ]
+      ]
+    },
+    "5384": {
+      "t": "Kirtonos the Herald",
+      "d": "Dit is het, $N.$B$B<Eva wijst naar het flesje in de tas.>$B$BHet bloed van onschuldigen. Het zuiverste bloed, gebruikt om de meester van Krastinov tevreden te stellen.$B$BMet dit bloed kan Kirtonos opgeroepen worden. Met dit bloed moet Kirtonos dus ook vernietigd worden.$B$BBreng het bloed naar de veranda. Leg het op de vuurschaal. Kirtonos zal komen; hij kan het niet weerstaan. Als hij verschijnt, laat dan de woede en razernij van duizend onschuldige doden op hem los.$B$BAls het je lukt, krijg je meer dan alleen onze dankbaarheid.",
+      "o": "Ga terug naar de Scholomance met het Blood of Innocents. Zoek de veranda en leg het Blood of Innocents in de vuurschaal. Kirtonos zal komen om zich te goed te doen aan je ziel.$B$BVecht dapper en geef geen duimbreed toe! Vernietig Kirtonos en ga terug naar Eva Sarkhoff.$b",
+      "p": "Wees voorzichtig, Kirtonos is een ervaren vechter.",
+      "c": "Met de dood van Kirtonos sluit een hoofdstuk in het vreselijke verhaal van Scholomance. Maar er is nog meer te doen. Anderen hier weten nu van je dappere daden. Neem dit, $N. Het is een stukje van onze eigen essentie. Hiermee kun je praten met de andere verloren zielen van Caer Darrow.",
+      "g": [
+        [
+          "wijst",
+          "points (wijzen)"
+        ],
+        [
+          "zuiverste",
+          "purest (zuiver)"
+        ],
+        [
+          "tevreden te stellen",
+          "to appease (tevredenstellen)"
+        ],
+        [
+          "opgeroepen",
+          "summoned (oproepen)"
+        ],
+        [
+          "veranda",
+          "porch"
+        ],
+        [
+          "vuurschaal",
+          "brazier"
+        ],
+        [
+          "weerstaan",
+          "to resist"
+        ],
+        [
+          "razernij",
+          "fury, rage"
+        ],
+        [
+          "dankbaarheid",
+          "gratitude"
+        ],
+        [
+          "zich te goed doen aan",
+          "to feast on"
+        ],
+        [
+          "geen duimbreed toegeven",
+          "not to give an inch"
+        ],
+        [
+          "ervaren",
+          "experienced, seasoned"
+        ],
+        [
+          "hoofdstuk",
+          "chapter"
+        ],
+        [
+          "essentie",
+          "essence"
+        ]
+      ]
+    },
+    "5466": {
+      "t": "De lich Ras Frostwhisper",
+      "d": "Er is nog maar één taak over, $N. Ga de confrontatie aan met de lich Ras Frostwhisper, in zijn hol.$B$BGebruik de kracht van het aandenken tegen het beest. Wees meedogenloos in wat je doet! Doorsta de klappen die het wild slaande beest je zeker zal geven. Geef niet toe aan de pijn!$B$BAls het ritueel klaar is, is Ras weer sterfelijk. Op dat moment moet hij gedood worden. Sla hem neer en neem zijn menselijke hoofd mee.",
+      "o": "Vind Ras Frostwhisper in de Scholomance. Als je hem gevonden hebt, gebruik dan de Soulbound Keepsake op zijn ondode gezicht. Als het je lukt om hem weer sterfelijk te maken, sla hem dan neer en haal het Human Head of Ras Frostwhisper. Breng het hoofd terug naar Magistrate Marduke.",
+      "p": "Je draagt de last van tienduizend rusteloze zielen, $N.",
+      "c": "Tienduizend zielen roepen tegelijk, $N! Je hebt de Scourge en hun meesters een dodelijke klap toegebracht.",
+      "g": [
+        [
+          "de confrontatie aangaan",
+          "to confront"
+        ],
+        [
+          "hol",
+          "lair"
+        ],
+        [
+          "aandenken",
+          "keepsake"
+        ],
+        [
+          "meedogenloos",
+          "unrelenting, merciless"
+        ],
+        [
+          "doorsta",
+          "weather, endure (doorstaan)"
+        ],
+        [
+          "wild slaande",
+          "flailing"
+        ],
+        [
+          "ritueel",
+          "ritual"
+        ],
+        [
+          "sterfelijk",
+          "mortal"
+        ],
+        [
+          "last",
+          "burden"
+        ],
+        [
+          "rusteloze",
+          "restless (rusteloos)"
+        ],
+        [
+          "dodelijke",
+          "mortal, deadly (dodelijk)"
+        ],
+        [
+          "toegebracht",
+          "dealt, inflicted (toebrengen)"
+        ]
+      ]
+    },
+    "5515": {
+      "t": "De Bag of Horrors van Krastinov",
+      "d": "Er is een grote last van ons hart gevallen, $N, maar je taak is nog niet klaar. Kirtonos, de meester van Krastinov, leeft nog.$B$BMaar voordat je Kirtonos kunt bevechten, moet je eerst een manier vinden om hem op te roepen.$B$BMen zegt dat Jandice Barov het bloed van onschuldigen beheert en het van Krastinov naar Kirtonos brengt.$B$BZoek haar op in de verzonken catacomben van Scholomance en sla haar neer. Breng alle aanwijzingen mee die je kunt vinden.",
+      "o": "Zoek Jandice Barov in de Scholomance en vernietig haar. Haal Krastinov's Bag of Horrors van haar lijk. Breng de tas terug naar Eva Sarkhoff.",
+      "p": "<Eva vervaagt en wordt dan weer scherp.>",
+      "c": "De tas vol gruwelen!",
+      "g": [
+        [
+          "er is een last van ons hart gevallen",
+          "a weight has been lifted from our hearts"
+        ],
+        [
+          "bevechten",
+          "to fight, to face"
+        ],
+        [
+          "op te roepen",
+          "to summon (oproepen)"
+        ],
+        [
+          "beheert",
+          "stewards, manages (beheren)"
+        ],
+        [
+          "verzonken",
+          "sunken"
+        ],
+        [
+          "catacomben",
+          "catacombs (catacombe)"
+        ],
+        [
+          "aanwijzingen",
+          "clues (aanwijzing)"
+        ],
+        [
+          "lijk",
+          "corpse"
+        ],
+        [
+          "vervaagt",
+          "fades (vervagen)"
+        ],
+        [
+          "gruwelen",
+          "horrors (gruwel)"
+        ]
+      ]
+    },
+    "5531": {
+      "t": "Betina Bigglezink",
+      "d": "De eieren die je bracht, zouden gebruikt worden voor experimenten van de Scourge om een besmette drakenvlucht te maken. Deze bevroren eieren van zwarte draken zouden heel waardevol zijn geweest voor hun onderzoek. Ze zouden hun planning zeker hebben versneld.$B$BNu is het tijd om een einde te maken aan hun onderzoek.$B$BBreng de bevroren eieren naar Betina Bigglezink buiten. Ze weet veel van wetenschap en alchemie, en ze heeft een wapen gemaakt dat we tegen de Scourge kunnen gebruiken. Met jouw hulp zullen we ze een zware klap toebrengen.",
+      "o": "Breng de Frozen Eggs naar Betina Bigglezink.",
+      "p": "Hallo, $N! Ik hoorde dat je hier was met een paar drakeneieren? Nou, laat maar zien!",
+      "c": "Daar zijn ze! En in zo'n mooie bak. Precies de goede maat!$b$bWe bewaren deze eieren op een veilige plek, zodat we ze later kunnen bestuderen. Maar nu hebben we dat ding nodig waar je ze in bracht.$b$bIk heb een apparaat gemaakt met een heel specifiek doel: de ondode geleerden van de Scholomance vernietigen. Ze bestuderen draken om een besmette drakenvlucht te maken, en we moeten ze tegenhouden.$b$bIk noem het apparaat Dawn's Gambit, omdat... ik niet zeker weet of het werkt!$b$bWil jij dat voor ons uitzoeken?",
+      "g": [
+        [
+          "bevroren",
+          "frozen"
+        ],
+        [
+          "versneld",
+          "quickened, sped up (versnellen)"
+        ],
+        [
+          "een einde maken aan",
+          "to put an end to"
+        ],
+        [
+          "wetenschap",
+          "science"
+        ],
+        [
+          "alchemie",
+          "alchemy"
+        ],
+        [
+          "toebrengen",
+          "to deal, to inflict"
+        ],
+        [
+          "maat",
+          "size"
+        ],
+        [
+          "bewaren",
+          "to keep"
+        ],
+        [
+          "apparaat",
+          "device"
+        ],
+        [
+          "specifiek",
+          "specific"
+        ],
+        [
+          "uitzoeken",
+          "to find out"
+        ]
+      ]
+    },
+    "7644": {
+      "t": "Het gezegende pantser",
+      "d": "Terwijl het pantser op de rug van de Ancient Equine Spirit ligt, gloeit het heel zacht. Even voelt de lucht zwaar van kracht. Dan verdwijnt het pantser van de rug van het paard en zit het veilig in je rugzak.$B$BHet lijkt erop dat het pantser gezegend is. Volgens de instructies van Lord Shadowbreaker moet je er nu mee terug naar hem in Stormwind.",
+      "o": "Breng de Blessed Arcanite Barding terug naar Lord Grayson Shadowbreaker in het Cathedral District van Stormwind.",
+      "p": "$N, je bent terug! Is het je gelukt om Merideth Carlson en Tendris Warpwood aan te pakken? Eerlijk gezegd weet ik soms niet wie van de twee gevaarlijker is...",
+      "c": "Je bent ver gekomen, mijn vriend. Je pantser is nu goed voorbereid op de laatste taak.$B$BJe gebruikt dit pantser om je strijdros op te tuigen zodra de verlossing klaar is. Maar daarvoor moet je nog een enorme strijd doorstaan. Je tijd komt dichterbij: hoera!$B$BEr moet nog één laatste voorwerp gemaakt worden voordat we hieraan beginnen, $N. Hopelijk ben je je vindingrijkheid niet kwijtgeraakt sinds je je pantser liet maken...",
+      "g": [
+        [
+          "gezegende",
+          "blessed (gezegend)"
+        ],
+        [
+          "gloeit",
+          "glows (gloeien)"
+        ],
+        [
+          "rugzak",
+          "backpack"
+        ],
+        [
+          "volgens",
+          "according to"
+        ],
+        [
+          "aan te pakken",
+          "to deal with (aanpakken)"
+        ],
+        [
+          "eerlijk gezegd",
+          "honestly"
+        ],
+        [
+          "op te tuigen",
+          "to harness (optuigen)"
+        ],
+        [
+          "verlossing",
+          "redemption"
+        ],
+        [
+          "doorstaan",
+          "to endure, to overcome"
+        ],
+        [
+          "vindingrijkheid",
+          "resourcefulness"
+        ],
+        [
+          "kwijtgeraakt",
+          "lost (kwijtraken)"
+        ]
+      ]
+    },
+    "7647": {
+      "t": "Oordeel en verlossing",
+      "d": "Neem deze tas. Er zitten de spullen in die je nodig hebt voor je taak.$B$BGebruik de Divination Scryer in het hart van de kelder van de Great Ossuary. Zo roep je vervloekte geesten op waarover geoordeeld moet worden. Gebruik je oordelen verstandig tijdens deze beproeving; ze zullen krachtiger blijken dan je denkt. Na de geesten verschijnt de doodsridder. Versla hem en win de verloren ziel van het strijdros terug. Pas dan, $N, kun je het verlossen en je pantser op je nieuwe rijdier leggen!$B$BSucces!",
+      "o": "Gebruik de Divination Scryer in het hart van de kelder van de Great Ossuary in de Scholomance. Daarmee roep je de geesten op waarover je moet oordelen. Als je deze geesten verslaat, verschijnt Death Knight Darkreaver. Versla hem en win de verloren ziel van het gevallen strijdros terug.$B$BGeef de Charger's Redeemed Soul en de Blessed Enchanted Barding aan Darkreaver's Fallen Charger.",
+      "p": "De geest van het gevallen strijdros kijkt je treurig aan. Droevige, bijna lege ogen kijken naar je, alsof het alle hoop verloren heeft.",
+      "c": "Een sprankje leven, dat al lang uit het arme beest verdwenen was, schijnt in zijn ogen als je het zijn geoordeelde ziel teruggeeft. Je voelt een heilige golf van kracht om je heen stromen als je het pantser op zijn rug legt; je hebt het strijdros verlost verklaard. Het strijdros duwt zijn neus tegen je hand terwijl de lasten van het verleden van het beest worden afgenomen. Je voelt nu dat je dit beest kunt oproepen als rijdier, als dat nodig is.$B$BJe hebt je epische strijdros gekregen, $C! Gefeliciteerd!",
+      "g": [
+        [
+          "kelder",
+          "basement"
+        ],
+        [
+          "vervloekte",
+          "accursed (vervloekt)"
+        ],
+        [
+          "oordelen",
+          "to judge; judgments"
+        ],
+        [
+          "verstandig",
+          "wisely"
+        ],
+        [
+          "krachtiger",
+          "more potent (krachtig)"
+        ],
+        [
+          "blijken",
+          "to prove, to turn out"
+        ],
+        [
+          "treurig",
+          "mournful, sad"
+        ],
+        [
+          "sprankje",
+          "glimmer, spark"
+        ],
+        [
+          "geoordeelde",
+          "judged (oordelen)"
+        ],
+        [
+          "golf",
+          "rush, wave"
+        ],
+        [
+          "verlost verklaard",
+          "declared redeemed"
+        ],
+        [
+          "lasten",
+          "burdens (last)"
+        ],
+        [
+          "epische",
+          "epic (episch)"
+        ]
+      ]
+    },
+    "8969": {
+      "t": "Het linkerstuk van het amulet van Lord Valthalak",
+      "d": "Nu hebben we wat we nodig hebben, dus is het tijd om te bespreken wie je gaat oproepen.$B$BKormok was best oké voor een ogre, tot hij zich op dodenbezwering ging richten. Daarna werd het voor bijna iedereen in de groep eng. Het was dus geen verrassing toen hij zijn stuk van het amulet meenam en terugging naar zijn nieuwe thuis, Scholomance.$B$BMaar zelfs daar, of misschien juist daar, was hij niet veilig voor de spookachtige sluipmoordenaars. Ze doodden hem vlak voor de ogen van zijn meester, Ras Frostwhisper.",
+      "o": "Gebruik de Brazier of Beckoning om de geest van Kormok op te roepen en dood hem. Ga terug naar Bodley in Blackrock Mountain met de Left Piece of Lord Valthalak's Amulet en de Brazier of Beckoning.",
+      "p": "Ik prijs je, $N, als je terug bent met het linkerstuk van het amulet. Zo niet, zorg daar dan voor, want er is geen tijd te verliezen, dat verzeker ik je!",
+      "c": "Goed werk, $N! Kormok was niet zo slecht voor een ogre, tenminste niet toen hij nog leefde. Ik hoop dus dat hij de rust krijgt die hij verdient. Maar er wacht ons nog meer werk.$B$BHelaas weet ik niet waar degene is die stierf met het rechterstuk van het amulet. Maar wees niet bang: toen ik leefde, hield ik me een beetje bezig met waarzeggerij. Daarom heb ik nog een taak voor je, waarmee we het laatste stuk kunnen opsporen.",
+      "g": [
+        [
+          "linkerstuk",
+          "left piece"
+        ],
+        [
+          "amulet",
+          "amulet"
+        ],
+        [
+          "bespreken",
+          "to discuss"
+        ],
+        [
+          "dodenbezwering",
+          "necromancy"
+        ],
+        [
+          "zich richten op",
+          "to turn to, to focus on"
+        ],
+        [
+          "eng",
+          "creepy, scary"
+        ],
+        [
+          "spookachtige",
+          "spectral, ghostly (spookachtig)"
+        ],
+        [
+          "prijs",
+          "commend, praise (prijzen)"
+        ],
+        [
+          "verzeker",
+          "assure (verzekeren)"
+        ],
+        [
+          "rechterstuk",
+          "right piece"
+        ],
+        [
+          "waarzeggerij",
+          "divination, fortune-telling"
+        ],
+        [
+          "opsporen",
+          "to track down, to ferret out"
+        ]
+      ]
+    },
+    "8992": {
+      "t": "Het rechterstuk van het amulet van Lord Valthalak",
+      "d": "Nu hebben we wat we nodig hebben, dus is het tijd om te bespreken wie je hierna gaat oproepen.$B$BKormok was best oké voor een ogre, tot hij zich op dodenbezwering ging richten. Daarna werd het voor bijna iedereen in de groep eng. Het was dus geen verrassing toen hij zijn stuk van het amulet meenam en terugging naar zijn nieuwe thuis, Scholomance.$B$BMaar zelfs daar, of misschien juist daar, was hij niet veilig voor de spookachtige sluipmoordenaars. Ze doodden hem vlak voor de ogen van zijn meester, Ras Frostwhisper.",
+      "o": "Gebruik de Brazier of Beckoning om de geest van Kormok op te roepen en dood hem. Ga terug naar Bodley in Blackrock Mountain met het herenigde Lord Valthalak's Amulet en de Brazier of Beckoning.",
+      "p": "Ik prijs je, $N, als je terug bent met het complete amulet. Zo niet, zorg daar dan voor, want er is geen tijd te verliezen, dat verzeker ik je!",
+      "c": "Goed werk, $N! Kormok was niet zo slecht voor een ogre, tenminste niet toen hij nog leefde. Ik hoop dus dat hij de rust krijgt die hij verdient. En nu hebben we het complete amulet! Maar de moeilijkste test hebben we nog voor ons.$B$BOm de vuurschaal af te stemmen op het oproepen van Lord Valthalak, moeten er nog een paar voorwerpen verzameld en hier bij mij gebracht worden.",
+      "g": [
+        [
+          "rechterstuk",
+          "right piece"
+        ],
+        [
+          "hierna",
+          "next, after this"
+        ],
+        [
+          "dodenbezwering",
+          "necromancy"
+        ],
+        [
+          "spookachtige",
+          "spectral, ghostly (spookachtig)"
+        ],
+        [
+          "herenigde",
+          "recombined, reunited (herenigen)"
+        ],
+        [
+          "prijs",
+          "commend, praise (prijzen)"
+        ],
+        [
+          "verzeker",
+          "assure (verzekeren)"
+        ],
+        [
+          "tenminste",
+          "at least"
+        ],
+        [
+          "vuurschaal",
+          "brazier"
+        ],
+        [
+          "af te stemmen",
+          "to attune (afstemmen)"
+        ]
+      ]
+    }
+  },
+  "words": {
+    "aura's": "auras (aura)",
+    "diepst": "deepest (diep); in het diepst van = in the very depths of",
+    "draakje": "little dragon, hatchling",
+    "duimbreed": "inch (geen duimbreed toegeven = not to give an inch)",
+    "exorcisme": "exorcism",
+    "geestpaard": "spirit horse",
+    "geoordeeld": "judged (oordelen)",
+    "gepast": "due, appropriate",
+    "hardst": "hardest, most (hard); het hardst nodig = most in need",
+    "meemaken": "to live to see, to experience",
+    "prikken": "to pierce, to prick",
+    "slaande": "striking, hitting (slaan)",
+    "terugging": "went back (teruggaan)",
+    "tevoren": "before (van tevoren = in advance)",
+    "tienduizend": "ten thousand",
+    "wierook": "incense"
+  },
+  "terms": {}
+}
