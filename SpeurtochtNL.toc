@@ -157,6 +157,7 @@ Data\Batch_88_Ahn_Qiraj_War.lua
 Data\Batch_89_Ahn_Qiraj_War.lua
 Data\Batch_102_Naxxramas.lua
 Data\Batch_90_Arathi_Basin.lua
+Data\Batch_91_Darnassus.lua
 
 Display.lua
 Reader.lua

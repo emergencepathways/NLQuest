@@ -1,0 +1,1762 @@
+{
+  "quests": {
+    "5091": {
+      "t": "Te wapen: de Plaguelands!",
+      "d": "Hoor, hoor! Alle helden worden opgeroepen om naar deze woorden te luisteren!$B$BHet koninkrijk Stormwind roept op tot de wapens! Iedereen die gezond en sterk is, wordt dringend gevraagd om de wapens op te nemen tegen de duistere dreiging van de Scourge in de noordelijke landen van de Eastern Kingdoms! Er gaan geruchten over nieuwe dreigingen die opkomen uit de ruïnes van de Plaguelands!$B$BHelden van het rijk: zoek Commander Ashlam Valorfist op. Hij heeft zijn basiskamp opgezet in Chillwind Camp, ten noorden van de Alterac Mountains!",
+      "o": "Zoek Commander Ashlam Valorfist op. Zijn basiskamp ligt in Chillwind Camp, ten noorden van de Alterac Mountains.",
+      "c": "Welkom in de Plaguelands, held. Dit is een van de gevaarlijkste grensgebieden van Azeroth, vooral met de dreiging van de Scourge die in het noorden en noordoosten boven ons hangt. Ik ben blij te horen dat de heldere roep van plicht en dienst aan het grotere goed bij jou niet aan dovemansoren gericht was!$B$BAls je klaar bent om je handen vuil te maken, dan is er hier aan de rand van de Plaguelands genoeg te doen voor helden die willen en kunnen.",
+      "g": [
+        [
+          "opgeroepen",
+          "called upon (oproepen)"
+        ],
+        [
+          "roept op tot de wapens",
+          "issues a call to arms"
+        ],
+        [
+          "dringend",
+          "urgently"
+        ],
+        [
+          "de wapens op te nemen",
+          "to take up arms"
+        ],
+        [
+          "dreiging",
+          "threat"
+        ],
+        [
+          "geruchten",
+          "rumors (gerucht)"
+        ],
+        [
+          "ruïnes",
+          "ruins (ruïne)"
+        ],
+        [
+          "rijk",
+          "realm"
+        ],
+        [
+          "basiskamp",
+          "base camp"
+        ],
+        [
+          "grensgebieden",
+          "frontiers (grensgebied)"
+        ],
+        [
+          "plicht",
+          "duty"
+        ],
+        [
+          "het grotere goed",
+          "the greater good"
+        ],
+        [
+          "niet aan dovemansoren gericht",
+          "did not fall on deaf ears"
+        ],
+        [
+          "je handen vuil te maken",
+          "to get your hands dirty"
+        ]
+      ]
+    },
+    "4493": {
+      "t": "De opmars van de silithid",
+      "d": "Het lijkt erop dat het doel van de silithid – nee, hun hele bestaansreden – is om alles op hun pad te verslinden wat niet bij hun eigen ecologie hoort. Ze richten zich op maar één ding, en daarom zijn ze een ernstige bedreiging voor al het leven op Azeroth.$B$BWat we tot nu toe hebben gezien, zijn pas de eerste fasen. Ik vermoed dat hun kracht van dieper in Kalimdor komt: Un'Goro Crater. Ga naar Gadgetzan in de woestijn van Tanaris en spreek met Alchemist Pestlezugg. Vertel hem over mijn theorie; hij zal ons zeker helpen in de strijd tegen de silithid.",
+      "o": "Spreek met Alchemist Pestlezugg in Gadgetzan.",
+      "c": "Ja, ik begreep al dat Gracina je naar mij had gestuurd. Jouw ervaring in de strijd tegen die beestjes is onbetaalbaar; voor zover ik weet heeft nog niemand ooit met hun soort te maken gehad. En Gracina's idee dat Un'Goro Crater hun hart is... misschien klopt dat. Un'Goro is een geheimzinnige en gevaarlijke jungle ten westen van hier. Misschien brengt het ons ook een stap dichter bij het begrijpen van wat de silithid nu eigenlijk zijn.",
+      "g": [
+        [
+          "opmars",
+          "march, advance"
+        ],
+        [
+          "bestaansreden",
+          "reason for being"
+        ],
+        [
+          "verslinden",
+          "to devour"
+        ],
+        [
+          "ecologie",
+          "ecology"
+        ],
+        [
+          "richten zich op",
+          "focus on (zich richten op)"
+        ],
+        [
+          "ernstige",
+          "grave, serious (ernstig)"
+        ],
+        [
+          "bedreiging",
+          "threat"
+        ],
+        [
+          "fasen",
+          "stages (fase)"
+        ],
+        [
+          "vermoed",
+          "suspect (vermoeden)"
+        ],
+        [
+          "onbetaalbaar",
+          "priceless"
+        ],
+        [
+          "voor zover ik weet",
+          "to my knowledge"
+        ],
+        [
+          "te maken gehad",
+          "dealt with (te maken hebben met)"
+        ],
+        [
+          "geheimzinnige",
+          "mysterious (geheimzinnig)"
+        ],
+        [
+          "dichter bij",
+          "closer to"
+        ]
+      ]
+    },
+    "4510": {
+      "t": "De stilte voor de storm",
+      "d": "$N, je hulp is onmetelijk geweest. Er komt ongetwijfeld een tijd dat ik je opnieuw om hulp vraag tegen de silithid. We moeten eerst verwerken wat we in Un'Goro hebben geleerd; ik vrees dat mijn veronderstelling dat de silithid uit Un'Goro afkomstig zijn nu fout is... dat er ergens een veel sterkere aanwezigheid is.$B$BBreng dit briefje naar Idriana in de bank. Ze zal je iets uit mijn kluis geven, en dat moet je zien als een teken van mijn dankbaarheid. Bedankt voor je hulp, dappere $c.",
+      "o": "Breng de Bank Voucher naar Idriana in de bank van Darnassus.",
+      "p": "Elune'adore, $c. Wat kan ik vandaag voor je doen?",
+      "c": "Met deze bankbon mag ik een voorwerp van de rekening van Gracina Spiritmight bij ons opnemen en het aan jou geven. Een felicitatie lijkt hier wel op zijn plaats!",
+      "g": [
+        [
+          "onmetelijk",
+          "immeasurable"
+        ],
+        [
+          "ongetwijfeld",
+          "no doubt"
+        ],
+        [
+          "verwerken",
+          "to absorb, process"
+        ],
+        [
+          "vrees",
+          "fear (vrezen)"
+        ],
+        [
+          "veronderstelling",
+          "assumption"
+        ],
+        [
+          "afkomstig",
+          "originating, coming from"
+        ],
+        [
+          "aanwezigheid",
+          "presence"
+        ],
+        [
+          "kluis",
+          "vault"
+        ],
+        [
+          "dankbaarheid",
+          "gratitude"
+        ],
+        [
+          "bankbon",
+          "bank voucher"
+        ],
+        [
+          "rekening",
+          "account"
+        ],
+        [
+          "opnemen",
+          "to withdraw"
+        ],
+        [
+          "felicitatie",
+          "congratulations"
+        ],
+        [
+          "op zijn plaats",
+          "in order, appropriate"
+        ]
+      ]
+    },
+    "1047": {
+      "t": "Het nieuwe grensgebied",
+      "d": "Opgelet, helden!$B$BDe Cenarion Circle zoekt personen die gezond en sterk zijn om te helpen bij het verkennen van de enorme nieuwe grensgebieden van Kalimdor! Ver ten westen van Tanaris en Gadgetzan ligt een verboden woestenij vol ongekende gevaren, en de Circle heeft gewillige en eervolle vertegenwoordigers nodig die in hun plaats kunnen optreden.$B$BIedereen die interesse heeft, moet een audiëntie vragen bij de Cenarion Circle. Spreek voor meer informatie met de Arch Druid in Darnassus, Fandral Staghelm!",
+      "o": "Spreek met Arch Druid Fandral Staghelm in de Cenarion Enclave van Darnassus over de oproep van de Cenarion Circle om de grensgebieden van Kalimdor te verkennen.",
+      "g": [
+        [
+          "opgelet",
+          "attention"
+        ],
+        [
+          "grensgebied",
+          "frontier"
+        ],
+        [
+          "verkennen",
+          "to explore"
+        ],
+        [
+          "woestenij",
+          "wasteland"
+        ],
+        [
+          "ongekende",
+          "unimaginable, unprecedented (ongekend)"
+        ],
+        [
+          "gewillige",
+          "willing (gewillig)"
+        ],
+        [
+          "eervolle",
+          "honorable (eervol)"
+        ],
+        [
+          "vertegenwoordigers",
+          "proxies, representatives (vertegenwoordiger)"
+        ],
+        [
+          "in hun plaats",
+          "in their stead"
+        ],
+        [
+          "optreden",
+          "to act"
+        ],
+        [
+          "audiëntie",
+          "audience (with someone important)"
+        ],
+        [
+          "oproep",
+          "call"
+        ]
+      ]
+    },
+    "3803": {
+      "t": "Morrowgrain voor Darnassus",
+      "p": "De Arch Druid zoekt altijd extra Morrowgrain voor het voortdurende onderzoek van de Cenarion Circle. We nemen ze aan per tien stuks, en we belonen je met een kist vol spullen waar je vast iets aan hebt. Laat het me weten als je er tien hebt, dan beloon ik je zoals het hoort.",
+      "c": "Uitstekend – deze Morrowgrain zal de Arch Druid zeker blij maken. Toch moet ik toegeven... alleen al in de buurt ervan voel ik me een beetje ongemakkelijk. Ik kan me alleen maar voorstellen hoe moeilijk het voor de Arch Druid moet zijn om ze in zulke grote hoeveelheden te verdragen!$B$BDit is voor jou, $N. De Cenarion Circle bedankt je voor je blijvende steun.",
+      "g": [
+        [
+          "voortdurende",
+          "continued, ongoing (voortdurend)"
+        ],
+        [
+          "onderzoek",
+          "research"
+        ],
+        [
+          "per tien stuks",
+          "in increments of ten"
+        ],
+        [
+          "belonen",
+          "to reward"
+        ],
+        [
+          "zoals het hoort",
+          "accordingly, as it should be"
+        ],
+        [
+          "toegeven",
+          "to admit"
+        ],
+        [
+          "alleen al",
+          "just, merely"
+        ],
+        [
+          "ongemakkelijk",
+          "uncomfortable"
+        ],
+        [
+          "hoeveelheden",
+          "amounts, numbers (hoeveelheid)"
+        ],
+        [
+          "verdragen",
+          "to tolerate, endure"
+        ],
+        [
+          "blijvende",
+          "continued, lasting (blijvend)"
+        ],
+        [
+          "steun",
+          "support"
+        ]
+      ]
+    },
+    "6761": {
+      "t": "Het nieuwe grensgebied",
+      "d": "Ik heb de oproep om hulp uit Moonglade overgelaten aan mijn tweede man, Mathrengyl Bearwalker. Spreek met HEM hierover – NIET met mij.$B$BLaat me je wat... vriendelijk... advies geven. Ik ben degene die ons uit de duisternis heeft geleid – NIET de Cenarion Circle in Moonglade – toen alles verloren was voor ons volk. Teldrassil geeft ons allemaal een nieuw leven! Zij willen je iets anders laten geloven, en hun propaganda geloven zou een taak voor dwazen zijn.$B$BIk laat het aan jou over om te beslissen of jij een dwaas bent.",
+      "o": "Spreek met Mathrengyl Bearwalker in de Cenarion Enclave van Darnassus.",
+      "c": "Ja $c, bedankt dat je gekomen bent. Mijn excuses voor het misverstand... er hangt veel wantrouwen in de lucht tussen de Arch Druid hier en Keeper Remulos in Moonglade. Ze verdenken elkaar allebei van bedrog, en het feit dat de vreemde aantasting van Teldrassil onverminderd doorgaat, blijft hier een probleem. Dat helpt weinig om het wantrouwen te verminderen.$B$BHoe dan ook, onze plicht tegenover de Cenarion Circle blijft... ook al zijn degenen die haar leiden het misschien niet met elkaar eens.",
+      "g": [
+        [
+          "overgelaten aan",
+          "left to, relegated to (overlaten aan)"
+        ],
+        [
+          "tweede man",
+          "second-in-command"
+        ],
+        [
+          "degene",
+          "the one"
+        ],
+        [
+          "duisternis",
+          "darkness"
+        ],
+        [
+          "volk",
+          "people, race"
+        ],
+        [
+          "propaganda",
+          "propaganda"
+        ],
+        [
+          "dwazen",
+          "fools (dwaas)"
+        ],
+        [
+          "misverstand",
+          "misunderstanding"
+        ],
+        [
+          "wantrouwen",
+          "mistrust"
+        ],
+        [
+          "verdenken",
+          "suspect (verdenken van)"
+        ],
+        [
+          "bedrog",
+          "deceit, chicanery"
+        ],
+        [
+          "aantasting",
+          "corruption, damage"
+        ],
+        [
+          "onverminderd",
+          "unabated"
+        ],
+        [
+          "verminderen",
+          "to lessen, quell"
+        ],
+        [
+          "hoe dan ook",
+          "regardless"
+        ]
+      ]
+    },
+    "6762": {
+      "t": "Rabine Saturna",
+      "d": "Voor deze taak zoekt de hofmeester van Keeper Remulos in Moonglade – Rabine Saturna – hulp bij het verkennen van de enorme woestenijen ver ten westen van Tanaris... en nog verder ten westen van Un'Goro. Je vindt hem in Nighthaven, het belangrijkste dorp van Moonglade.$B$BJe werk zal ons allemaal ongetwijfeld enorm helpen, maar ik raad je aan voorzichtig te werk te gaan. Er zijn spanningen tussen Darnassus en Moonglade... spanningen die in de loop van de tijd kunnen groeien.",
+      "o": "Spreek met Rabine Saturna in het dorp Nighthaven, Moonglade. Moonglade ligt tussen Felwood en Winterspring en is bereikbaar via een pad vanuit Timbermaw Hold.",
+      "c": "Ik ben Rabine Saturna, en namens Keeper Remulos en alle bewoners van deze heilige open plek in het bos heet ik je welkom.$B$BIk waardeer je interesse en je gretigheid om de Cenarion Circle te helpen. Ik weet ook dat de Arch Druid van Darnassus tegenover jou zijn ongenoegen heeft geuit omdat je ons hulp verleent. Wees gerust: het is voor het grotere goed, en je bent veilig voor alle slecht doordachte wraakacties waarvan je het doelwit zou kunnen worden.$B$BJe bent hier onder vrienden, $N.",
+      "g": [
+        [
+          "hofmeester",
+          "majordomo, steward"
+        ],
+        [
+          "woestenijen",
+          "wastelands (woestenij)"
+        ],
+        [
+          "voorzichtig te werk te gaan",
+          "to tread carefully"
+        ],
+        [
+          "spanningen",
+          "tensions (spanning)"
+        ],
+        [
+          "in de loop van de tijd",
+          "over the course of time"
+        ],
+        [
+          "namens",
+          "on behalf of"
+        ],
+        [
+          "bewoners",
+          "inhabitants, denizens (bewoner)"
+        ],
+        [
+          "open plek in het bos",
+          "glade"
+        ],
+        [
+          "gretigheid",
+          "eagerness"
+        ],
+        [
+          "ongenoegen",
+          "displeasure"
+        ],
+        [
+          "geuit",
+          "expressed (uiten)"
+        ],
+        [
+          "wees gerust",
+          "rest assured"
+        ],
+        [
+          "slecht doordachte",
+          "ill-conceived"
+        ],
+        [
+          "wraakacties",
+          "acts of revenge, repercussions (wraakactie)"
+        ],
+        [
+          "doelwit",
+          "target"
+        ]
+      ]
+    },
+    "7792": {
+      "t": "Een donatie van wol",
+      "p": "Op dit moment nemen we donaties van Wool Cloth aan. Met een donatie van zestig stukken Wool Cloth krijg je volledige erkenning van Darnassus voor je gulle daad. Onze voorraad wol is zo dat we in totaal maar zestig stukken van jou nodig hebben; van anderen in het rijk krijgen we vast genoeg om onze inzameling te steunen.$B$BAls je de zestig stukken Wool Cloth bij je hebt en klaar bent om ze te doneren, kan ik ze nu van je aannemen.",
+      "c": "Geweldig! We bedanken je voor je gulle donatie, $N!",
+      "g": [
+        [
+          "donaties",
+          "donations (donatie)"
+        ],
+        [
+          "erkenning",
+          "recognition"
+        ],
+        [
+          "gulle",
+          "generous (gul)"
+        ],
+        [
+          "daad",
+          "deed, action"
+        ],
+        [
+          "voorraad",
+          "stock, stores"
+        ],
+        [
+          "in totaal",
+          "in total"
+        ],
+        [
+          "rijk",
+          "realm"
+        ],
+        [
+          "inzameling",
+          "drive, collection"
+        ],
+        [
+          "doneren",
+          "to donate"
+        ],
+        [
+          "aannemen",
+          "to accept, take"
+        ]
+      ]
+    },
+    "7798": {
+      "t": "Een donatie van zijde",
+      "p": "Net als bij de meeste andere stoffen is onze voorraad zijde lager dan ooit. Onze voorraad is zo dat we in totaal maar zestig stukken zijde van jou nodig hebben; met de steun van anderen moeten we ons doel kunnen halen.$B$BEen gul geschenk zoals zijde, mag ik eraan toevoegen, zou je aanzien in de gemeenschap hier zeker vergroten! Als je de zestig stukken Silk Cloth bij je hebt en klaar bent om ze te doneren, kan ik ze nu van je aannemen.",
+      "c": "Geweldig! We bedanken je voor je gulle donatie, $N!",
+      "g": [
+        [
+          "zijde",
+          "silk"
+        ],
+        [
+          "stoffen",
+          "fabrics (stof)"
+        ],
+        [
+          "voorraad",
+          "stock"
+        ],
+        [
+          "lager dan ooit",
+          "at an all-time low"
+        ],
+        [
+          "doel",
+          "goal"
+        ],
+        [
+          "geschenk",
+          "gift"
+        ],
+        [
+          "mag ik eraan toevoegen",
+          "might I add"
+        ],
+        [
+          "aanzien",
+          "standing, reputation"
+        ],
+        [
+          "gemeenschap",
+          "community"
+        ],
+        [
+          "vergroten",
+          "to increase"
+        ],
+        [
+          "doneren",
+          "to donate"
+        ]
+      ]
+    },
+    "7799": {
+      "t": "Een donatie van Mageweave",
+      "p": "De Mageweave raakt op, en we kunnen je hulp goed gebruiken om onze voorraad aan te vullen! Omdat we op de hele gemeenschap rekenen, hebben we maar een donatie van 60 stukken Mageweave Cloth van jou nodig om ons doel te halen. Zo'n gulheid zal Darnassus niet ontgaan, dat verzeker ik je!$B$BAls je de zestig stukken Mageweave Cloth bij je hebt en klaar bent om ze te doneren, kan ik ze nu van je aannemen.",
+      "c": "Geweldig! We bedanken je voor je gulle donatie, $N!",
+      "g": [
+        [
+          "raakt op",
+          "is running low (opraken)"
+        ],
+        [
+          "voorraad",
+          "stock"
+        ],
+        [
+          "aan te vullen",
+          "to replenish (aanvullen)"
+        ],
+        [
+          "rekenen",
+          "count, rely"
+        ],
+        [
+          "gemeenschap",
+          "community"
+        ],
+        [
+          "gulheid",
+          "generosity"
+        ],
+        [
+          "ontgaan",
+          "go unnoticed by, escape"
+        ],
+        [
+          "verzeker",
+          "assure (verzekeren)"
+        ],
+        [
+          "doneren",
+          "to donate"
+        ]
+      ]
+    },
+    "7800": {
+      "t": "Een donatie van Runecloth",
+      "p": "$n, je hebt al heel veel bijgedragen aan onze stoffeninzameling. Terwijl we hard werken om onze reserves aan te vullen, blijft één soort stof heel schaars: Runecloth. We hebben het ontzettend hard nodig, en we hopen dat je ons kunt helpen zoals je dat eerder deed!$b$bAls je wilt, breng me dan zoveel Runecloth als je kunt missen. Eerst nemen we één donatie van zestig aan, en daarna zien we verder.",
+      "c": "Fantastisch, deze gaan we meteen gebruiken, dat verzeker ik je. Nogmaals bedankt voor je hulp! Zonder jou zouden we echt verloren zijn.$b$bNa al je donaties neem ik in de toekomst graag nog meer Runecloth van je aan, als je dat wilt. Kom gewoon even bij me langs, dan zorg ik er persoonlijk voor dat je goede daden niet onopgemerkt blijven!",
+      "g": [
+        [
+          "bijgedragen",
+          "contributed (bijdragen)"
+        ],
+        [
+          "stoffeninzameling",
+          "cloth drive"
+        ],
+        [
+          "reserves",
+          "reserves"
+        ],
+        [
+          "schaars",
+          "scarce"
+        ],
+        [
+          "ontzettend",
+          "terribly, absolutely"
+        ],
+        [
+          "missen",
+          "spare"
+        ],
+        [
+          "daarna zien we verder",
+          "then we'll go from there"
+        ],
+        [
+          "nogmaals",
+          "once again"
+        ],
+        [
+          "verloren",
+          "lost"
+        ],
+        [
+          "persoonlijk",
+          "personally"
+        ],
+        [
+          "daden",
+          "deeds (daad)"
+        ],
+        [
+          "onopgemerkt",
+          "unrecognized, unnoticed"
+        ]
+      ]
+    },
+    "7801": {
+      "t": "Extra Runecloth",
+      "p": "Zodra je klaar bent om de stapel Runecloth in te leveren, neem ik hem aan.",
+      "c": "$N, zonder helden zoals jij die zich voor de stam inzetten, zouden we zeker lijden. Bedankt dat je je blijft inzetten!",
+      "g": [
+        [
+          "zodra",
+          "as soon as"
+        ],
+        [
+          "stapel",
+          "stack"
+        ],
+        [
+          "in te leveren",
+          "to hand in (inleveren)"
+        ],
+        [
+          "stam",
+          "tribe"
+        ],
+        [
+          "inzetten",
+          "to work hard, devote oneself (zich inzetten)"
+        ],
+        [
+          "lijden",
+          "to suffer"
+        ]
+      ]
+    },
+    "3787": {
+      "t": "Het verzoek van Jonespyre",
+      "d": "Pardon, vriend...$B$BEen collega van mij wil graag met je praten over het onderzoek dat je samen met de Cenarion Circle doet. Hij is een druïde die Quintis Jonespyre heet, en hij woont in Feathermoon Stronghold, Feralas. Hij wil met je overleggen over Morrowgrain... en hij wil heel graag dat je ons gesprek voor de Arch Druid geheimhoudt.$B$BAls je interesse hebt, spreek dan met hem; als je dat doet, wordt ongetwijfeld alles duidelijk.",
+      "o": "Spreek met Quintis Jonespyre in Feathermoon Stronghold.",
+      "c": "Dank je dat je gekomen bent, vermoeide reiziger! Laat me mezelf voorstellen: ik ben Quintis Jonespyre, druïde en nederige dienaar van Malfurion en de Cenarion Circle. Mijn collega's (General Shandris Feathermoon en de Protectorate – misschien heb je wel van ons gehoord) en ik wilden met je praten over het werk dat je doet voor Fandral Staghelm in Darnassus.$B$BVoordat we veel verder gaan, wil ik je vragen ons gesprek tussen ons te houden. Als je daar geen probleem mee hebt, kunnen we verdergaan.",
+      "g": [
+        [
+          "verzoek",
+          "request"
+        ],
+        [
+          "collega",
+          "colleague"
+        ],
+        [
+          "druïde",
+          "druid"
+        ],
+        [
+          "overleggen",
+          "to confer, consult"
+        ],
+        [
+          "geheimhoudt",
+          "keep secret (geheimhouden)"
+        ],
+        [
+          "ongetwijfeld",
+          "no doubt"
+        ],
+        [
+          "vermoeide",
+          "weary (vermoeid)"
+        ],
+        [
+          "reiziger",
+          "traveler"
+        ],
+        [
+          "voorstellen",
+          "to introduce"
+        ],
+        [
+          "nederige",
+          "humble (nederig)"
+        ],
+        [
+          "dienaar",
+          "servant"
+        ],
+        [
+          "verdergaan",
+          "to proceed"
+        ]
+      ]
+    },
+    "3789": {
+      "t": "Arch Druid Staghelm helpen",
+      "d": "Pardon, $c, maar ik wil graag even een moment van je tijd, als dat kan.$B$BDe Cenarion Circle in Darnassus zoekt ervaren avonturiers zoals jij om hen te helpen bij een belangrijk onderzoeksproject. Ik ken de details niet, maar ik kan je wel vertellen dat niemand minder dan Arch Druid Fandral Staghelm dit onderzoek leidt.$B$BAls je interesse hebt, spreek dan alsjeblieft rechtstreeks met hem in de Cenarion Enclave, in Darnassus zelf.",
+      "o": "Spreek met Arch Druid Fandral Staghelm in Darnassus.",
+      "c": "Zo, $C... omdat je hoorde dat ik dit onderzoek zelf leid, ben je natuurlijk zo snel mogelijk gekomen.$B$BNu je hier bent, let dan goed op de eerste keer dat ik je de details vertel; ik heb geen zin om mezelf te herhalen.",
+      "g": [
+        [
+          "ervaren",
+          "seasoned, experienced"
+        ],
+        [
+          "avonturiers",
+          "adventurers (avonturier)"
+        ],
+        [
+          "onderzoeksproject",
+          "research project"
+        ],
+        [
+          "niemand minder dan",
+          "none other than"
+        ],
+        [
+          "leidt",
+          "leads (leiden)"
+        ],
+        [
+          "rechtstreeks",
+          "directly"
+        ],
+        [
+          "natuurlijk",
+          "of course, obviously"
+        ],
+        [
+          "let ... op",
+          "pay attention (opletten)"
+        ],
+        [
+          "herhalen",
+          "to repeat"
+        ]
+      ]
+    },
+    "5066": {
+      "t": "Te wapen: de Plaguelands!",
+      "d": "Hoor, hoor! Alle helden worden opgeroepen om naar deze woorden te luisteren!$B$BHet koninkrijk Stormwind roept op tot de wapens! Iedereen die gezond en sterk is, wordt dringend gevraagd om de wapens op te nemen tegen de duistere dreiging van de Scourge in de noordelijke landen van de Eastern Kingdoms! Er gaan geruchten over nieuwe dreigingen die opkomen uit de ruïnes van de Plaguelands!$B$BHelden van het rijk: zoek Commander Ashlam Valorfist op. Hij heeft zijn basiskamp opgezet in Chillwind Camp, ten noorden van de Alterac Mountains!",
+      "o": "Zoek Commander Ashlam Valorfist op. Zijn basiskamp ligt in Chillwind Camp, ten noorden van de Alterac Mountains.",
+      "c": "Welkom in de Plaguelands, held. Dit is een van de gevaarlijkste grensgebieden van Azeroth, vooral met de dreiging van de Scourge die in het noorden en noordoosten boven ons hangt. Ik ben blij te horen dat de heldere roep van plicht en dienst aan het grotere goed bij jou niet aan dovemansoren gericht was!$b$bAls je klaar bent om je handen vuil te maken, dan is er hier aan de rand van de Plaguelands genoeg te doen voor helden die willen en kunnen.",
+      "g": [
+        [
+          "opgeroepen",
+          "called upon (oproepen)"
+        ],
+        [
+          "roept op tot de wapens",
+          "issues a call to arms"
+        ],
+        [
+          "dringend",
+          "urgently"
+        ],
+        [
+          "de wapens op te nemen",
+          "to take up arms"
+        ],
+        [
+          "dreiging",
+          "threat"
+        ],
+        [
+          "geruchten",
+          "rumors (gerucht)"
+        ],
+        [
+          "ruïnes",
+          "ruins (ruïne)"
+        ],
+        [
+          "rijk",
+          "realm"
+        ],
+        [
+          "basiskamp",
+          "base camp"
+        ],
+        [
+          "grensgebieden",
+          "frontiers (grensgebied)"
+        ],
+        [
+          "plicht",
+          "duty"
+        ],
+        [
+          "het grotere goed",
+          "the greater good"
+        ],
+        [
+          "niet aan dovemansoren gericht",
+          "did not fall on deaf ears"
+        ],
+        [
+          "je handen vuil te maken",
+          "to get your hands dirty"
+        ]
+      ]
+    },
+    "5048": {
+      "t": "De goedaardige Emma",
+      "d": "Ze is een tikje chagrijnig, en misschien wel niet goed bij haar hoofd... maar volgens de gegevens past Ol' Emma wel in het beeld van wie Emma Felstone zou kunnen zijn.$B$BMisschien heb je Ol' Emma al door de stad zien zwerven – ze praat tegen zichzelf, meestal in onzinnig gebrabbel. Toch doet ze niets of niemand kwaad, dus de mensen laten haar meestal met rust.$B$BAlles bij elkaar genomen zou ik zeggen dat Ol' Emma echt Emma Felstone is. Je kunt haar vragen of haar achternaam inderdaad Felstone is.",
+      "o": "Zoek Ol' Emma in Stormwind en kijk of zij echt Emma Felstone is. Als dat zo is, wil ze misschien het pakketje dat Janice Felstone voor haar heeft gemaakt.",
+      "p": "Ik zou zeggen dat je van mijn gazon af moet, maar zoals je ziet heb ik er geen.",
+      "c": "Mijn naam is inderdaad Emma Felstone – je bent in jaren de eerste die me zo noemt. Wie... wie ben jij?$B$BZeg je dat je... mijn zus kende?! Leeft ze nog? Wie hou ik voor de gek, natuurlijk niet. Toen de pest uitbrak in Lordaeron, was ik al op het ergste voorbereid. Zoveel van mijn familie is gestorven... of erger. En hier ben ik nu, gekke Ol' Emma, helemaal alleen. Wat ben jij, een grafrover of zo? Op zoek naar je volgende doelwit?$B$BWat... heb je een pakketje voor me van mijn zus?",
+      "g": [
+        [
+          "goedaardige",
+          "good-natured (goedaardig)"
+        ],
+        [
+          "een tikje",
+          "a tad, a bit"
+        ],
+        [
+          "chagrijnig",
+          "grumpy, ornery"
+        ],
+        [
+          "niet goed bij haar hoofd",
+          "out of her mind"
+        ],
+        [
+          "gegevens",
+          "records, data"
+        ],
+        [
+          "past ... in het beeld",
+          "fits the picture"
+        ],
+        [
+          "zwerven",
+          "to wander"
+        ],
+        [
+          "onzinnig",
+          "nonsensical"
+        ],
+        [
+          "gebrabbel",
+          "jibber-jabber, babble"
+        ],
+        [
+          "alles bij elkaar genomen",
+          "all things considered"
+        ],
+        [
+          "gazon",
+          "lawn"
+        ],
+        [
+          "wie hou ik voor de gek",
+          "who am I kidding"
+        ],
+        [
+          "de pest uitbrak",
+          "the plague broke out (uitbreken)"
+        ],
+        [
+          "grafrover",
+          "grave robber"
+        ],
+        [
+          "doelwit",
+          "target"
+        ]
+      ]
+    },
+    "1015": {
+      "t": "Het nieuwe grensgebied",
+      "d": "Opgelet, helden!$B$BDe Cenarion Circle zoekt personen die gezond en sterk zijn om te helpen bij het verkennen van de enorme nieuwe grensgebieden van Kalimdor! Ver ten westen van Tanaris en Gadgetzan ligt een verboden woestenij vol ongekende gevaren, en de Circle heeft gewillige en eervolle vertegenwoordigers nodig die in hun plaats kunnen optreden.$B$BIedereen die interesse heeft, moet een audiëntie vragen bij de Cenarion Circle. Spreek voor meer informatie met de Arch Druid in Darnassus, Fandral Staghelm!",
+      "o": "Spreek met Arch Druid Fandral Staghelm in de Cenarion Enclave van Darnassus over de oproep van de Cenarion Circle om de grensgebieden van Kalimdor te verkennen.",
+      "c": "Waarom denk je dat ik lastiggevallen wil worden door iemand zoals jij, $C? Wacht – laat me even stoppen met de belangrijke taken die ik elke dag doe, zodat ik je kan helpen ergens een dingetje te vinden. Natuurlijk, het welzijn van Darnassus – nee, van heel Teldrassil – is minder belangrijk dan een snuisterij voor jouw verzameling.$B$BDe dwazen in Moonglade verspillen mijn tijd met hun oproep om hulp, en nu moet ik dit ook nog verdragen?",
+      "g": [
+        [
+          "grensgebied",
+          "frontier"
+        ],
+        [
+          "verkennen",
+          "to explore"
+        ],
+        [
+          "woestenij",
+          "wasteland"
+        ],
+        [
+          "ongekende",
+          "unimaginable, unprecedented (ongekend)"
+        ],
+        [
+          "gewillige",
+          "willing (gewillig)"
+        ],
+        [
+          "eervolle",
+          "honorable (eervol)"
+        ],
+        [
+          "vertegenwoordigers",
+          "proxies, representatives (vertegenwoordiger)"
+        ],
+        [
+          "audiëntie",
+          "audience (with someone important)"
+        ],
+        [
+          "lastiggevallen",
+          "pestered, bothered (lastigvallen)"
+        ],
+        [
+          "dingetje",
+          "little thing, doodad"
+        ],
+        [
+          "welzijn",
+          "welfare"
+        ],
+        [
+          "snuisterij",
+          "bauble, trinket"
+        ],
+        [
+          "verzameling",
+          "collection"
+        ],
+        [
+          "verspillen",
+          "to waste"
+        ],
+        [
+          "verdragen",
+          "to endure"
+        ]
+      ]
+    },
+    "6182": {
+      "t": "De eerste en de laatste",
+      "d": "Van alle menselijke ranger lords was Nathanos Marris de eerste en de laatste. Hij was een leerling van Sylvanas Windrunner, die nu de Banshee Queen van de Forsaken is.$B$BWe dachten dat Nathanos vijf jaar geleden was gesneuveld bij de verdediging van Lordaeron. Zijn lijk is nooit gevonden, maar we namen aan dat hij de Eastern Plaguelands niet levend had verlaten.$B$BMathias Shaw onderzoekt de verdwijning en heeft misschien nieuwe informatie. Meld je meteen bij hem. Hij verblijft in Old Town, in de Barracks.",
+      "o": "Spreek met Mathias Shaw in Old Town Stormwind. Hij verblijft in de Barracks.",
+      "c": "Na berichten over ongewone activiteit van de Forsaken in de Eastern Plaguelands werden er agenten van SI:7 gestuurd om het te onderzoeken. De resultaten van dat onderzoek zijn verontrustend.",
+      "g": [
+        [
+          "menselijke",
+          "human (menselijk)"
+        ],
+        [
+          "leerling",
+          "disciple, student"
+        ],
+        [
+          "gesneuveld",
+          "killed in action (sneuvelen)"
+        ],
+        [
+          "verdediging",
+          "defense"
+        ],
+        [
+          "lijk",
+          "corpse"
+        ],
+        [
+          "namen aan",
+          "assumed (aannemen)"
+        ],
+        [
+          "onderzoekt",
+          "investigates (onderzoeken)"
+        ],
+        [
+          "verdwijning",
+          "disappearance"
+        ],
+        [
+          "meld je",
+          "report (zich melden)"
+        ],
+        [
+          "verblijft",
+          "resides, stays (verblijven)"
+        ],
+        [
+          "berichten",
+          "reports (bericht)"
+        ],
+        [
+          "ongewone",
+          "unusual (ongewoon)"
+        ],
+        [
+          "agenten",
+          "agents (agent)"
+        ],
+        [
+          "verontrustend",
+          "unsettling, disturbing"
+        ]
+      ]
+    },
+    "6183": {
+      "t": "Eer de doden",
+      "d": "Vijf van mijn beste veldagenten kregen de zaak van Marris toegewezen. Eén van hen kwam terug, maar drie dagen later stierf hij in zijn slaap.$B$BHet beetje informatie dat we uit hem kregen, was onsamenhangend gebrabbel. We konden twee woorden verstaan: \"Nathanos\" en \"Blightcaller\".$B$BIk heb niet genoeg mensen beschikbaar om dit onderzoek voort te zetten, en Ravenholdt wil ons niet helpen. We moeten dit tot op de bodem uitzoeken, al is het maar om de families van de overledenen een afsluiting te geven. Help je ons?",
+      "o": "Spreek opnieuw met Mathias Shaw als je zijn taak wilt aannemen.",
+      "c": "<Mathias knikt.>$B$BIk had er vertrouwen in dat Bolvar me mannen en vrouwen van eer zou sturen: de meest toegewijde soldaten van de Alliance.",
+      "g": [
+        [
+          "eer",
+          "honor (eren)"
+        ],
+        [
+          "veldagenten",
+          "field agents (veldagent)"
+        ],
+        [
+          "zaak",
+          "case"
+        ],
+        [
+          "toegewezen",
+          "assigned (toewijzen)"
+        ],
+        [
+          "onsamenhangend",
+          "incoherent"
+        ],
+        [
+          "gebrabbel",
+          "gibberish"
+        ],
+        [
+          "verstaan",
+          "to make out, understand"
+        ],
+        [
+          "beschikbaar",
+          "available"
+        ],
+        [
+          "voort te zetten",
+          "to continue (voortzetten)"
+        ],
+        [
+          "tot op de bodem uitzoeken",
+          "get to the bottom of"
+        ],
+        [
+          "al is het maar",
+          "if only"
+        ],
+        [
+          "overledenen",
+          "the deceased (overledene)"
+        ],
+        [
+          "afsluiting",
+          "closure"
+        ],
+        [
+          "knikt",
+          "nods (knikken)"
+        ],
+        [
+          "toegewijde",
+          "dedicated (toegewijd)"
+        ]
+      ]
+    },
+    "6186": {
+      "t": "De Blightcaller komt",
+      "d": "<Al het bloed lijkt uit Flints gezicht verdwenen te zijn.>$B$BNa... heeft Nathanos dit gedaan? Is Nathanos de Blightcaller?$B$BWaarom? Hij was... was zo nobel – een ranger lord die door iedereen werd gerespecteerd. De enige mens die ooit bij de hoge elfen in de leer mocht. En nu een meedogenloze agent van de Forsaken?$B$BIk... het spijt me dat ik je dit moet vragen, $N, maar Highlord Fordragon moet meteen op de hoogte worden gebracht van deze wending. Ga alsjeblieft terug naar Stormwind en breng het nieuws over.",
+      "o": "Ga terug naar Stormwind en vertel Highlord Bolvar Fordragon wat er met Nathanos Marris is gebeurd.",
+      "c": "Nee. Het... NEE! Hoe? Een agent van de Forsaken? De KAMPIOEN van de Banshee Queen???$B$B<Highlord Bolvar Fordragon zakt verslagen in elkaar.>",
+      "g": [
+        [
+          "verdwenen",
+          "disappeared, drained (verdwijnen)"
+        ],
+        [
+          "nobel",
+          "noble"
+        ],
+        [
+          "gerespecteerd",
+          "respected (respecteren)"
+        ],
+        [
+          "hoge elfen",
+          "high elves"
+        ],
+        [
+          "in de leer mocht",
+          "was allowed to train (in de leer gaan)"
+        ],
+        [
+          "meedogenloze",
+          "ruthless (meedogenloos)"
+        ],
+        [
+          "op de hoogte worden gebracht",
+          "be informed"
+        ],
+        [
+          "wending",
+          "turn of events"
+        ],
+        [
+          "breng ... over",
+          "deliver (overbrengen)"
+        ],
+        [
+          "kampioen",
+          "champion"
+        ],
+        [
+          "zakt ... in elkaar",
+          "slumps (in elkaar zakken)"
+        ],
+        [
+          "verslagen",
+          "defeated"
+        ]
+      ]
+    },
+    "7496": {
+      "t": "Goede tijden vieren",
+      "d": "Zoek Major Mattingly op in de Valley of Heroes, $N. Hij verwacht je...",
+      "o": "Zoek Major Mattingly op in de Valley of Heroes.",
+      "c": "Maar weinigen krijgen de eer van zo'n plechtigheid, $N. Kies alsjeblieft je beloning, zodat we met het feest kunnen beginnen.",
+      "g": [
+        [
+          "vieren",
+          "to celebrate"
+        ],
+        [
+          "verwacht",
+          "expects (verwachten)"
+        ],
+        [
+          "weinigen",
+          "few (people)"
+        ],
+        [
+          "eer",
+          "honor"
+        ],
+        [
+          "plechtigheid",
+          "ceremony"
+        ],
+        [
+          "beloning",
+          "reward"
+        ],
+        [
+          "feest",
+          "celebration"
+        ]
+      ]
+    },
+    "7497": {
+      "t": "De reis is pas begonnen",
+      "c": "Een drakendoder én een ervaren leerbewerker? Je blijft me verbazen, held. Ik voel me nederig.$B$BAanvaard alsjeblieft wat ik je ga leren. Deze kennis zal van onschatbare waarde blijken als je wilt vernietigen wat er nog over is van de Black Dragonflight.$B$BMaak de mantel van de schubben van de broedmoeder. Hij zal jou en je bondgenoten beschermen tegen de vurige adem van de Lord of Blackrock... Nefarian.",
+      "g": [
+        [
+          "drakendoder",
+          "dragon slayer"
+        ],
+        [
+          "leerbewerker",
+          "leatherworker"
+        ],
+        [
+          "verbazen",
+          "to astonish"
+        ],
+        [
+          "nederig",
+          "humble, humbled"
+        ],
+        [
+          "aanvaard",
+          "accept (aanvaarden)"
+        ],
+        [
+          "van onschatbare waarde",
+          "invaluable"
+        ],
+        [
+          "blijken",
+          "to prove, turn out"
+        ],
+        [
+          "vernietigen",
+          "to destroy"
+        ],
+        [
+          "mantel",
+          "cloak"
+        ],
+        [
+          "schubben",
+          "scales (schub)"
+        ],
+        [
+          "broedmoeder",
+          "brood mother"
+        ],
+        [
+          "bondgenoten",
+          "allies (bondgenoot)"
+        ],
+        [
+          "vurige",
+          "fiery, incendiary (vurig)"
+        ],
+        [
+          "adem",
+          "breath"
+        ]
+      ]
+    },
+    "7781": {
+      "t": "De Lord of Blackrock",
+      "d": "Het oude gevoel komt terug. De welkome steken van de overwinning galmen door je hele wezen. Voor je ligt het kolossale, door de strijd getekende hoofd van Nefarian. Breng het terug naar je Highlord, kampioen.",
+      "o": "Breng de Head of Nefarian terug naar Highlord Bolvar Fordragon in Stormwind.",
+      "p": "Ongelooflijk!",
+      "c": "Niemand hoeft je te vertellen wat de betekenis is van wat je hebt gedaan, $N. Deze dag zal in de geschiedenisboeken worden vastgelegd. Een overwinning zoals de Alliance die in jaren niet heeft gekend – misschien zelfs nooit!",
+      "g": [
+        [
+          "steken",
+          "pangs (steek)"
+        ],
+        [
+          "overwinning",
+          "victory"
+        ],
+        [
+          "galmen",
+          "reverberate (galmen)"
+        ],
+        [
+          "wezen",
+          "being"
+        ],
+        [
+          "kolossale",
+          "monolithic, colossal (kolossaal)"
+        ],
+        [
+          "getekende",
+          "scarred, marked (getekend)"
+        ],
+        [
+          "kampioen",
+          "champion"
+        ],
+        [
+          "ongelooflijk",
+          "inconceivable, unbelievable"
+        ],
+        [
+          "betekenis",
+          "meaning"
+        ],
+        [
+          "geschiedenisboeken",
+          "history books, annals"
+        ],
+        [
+          "vastgelegd",
+          "recorded (vastleggen)"
+        ],
+        [
+          "gekend",
+          "known (kennen)"
+        ]
+      ]
+    },
+    "7782": {
+      "t": "De Lord of Blackrock",
+      "d": "Ga naar de Valley of Heroes en spreek met Field Marshal Afrasiabi.",
+      "o": "Ga naar de Valley of Heroes in Stormwind City en spreek met Field Marshal Afrasiabi.",
+      "c": "<Field Marshal Afrasiabi buigt.>$B$BKies je beloning, laat het feest beginnen!",
+      "g": [
+        [
+          "buigt",
+          "bows (buigen)"
+        ],
+        [
+          "beloning",
+          "reward"
+        ],
+        [
+          "feest",
+          "celebration"
+        ],
+        [
+          "laat ... beginnen",
+          "let ... begin"
+        ],
+        [
+          "kies",
+          "choose (kiezen)"
+        ]
+      ]
+    },
+    "7791": {
+      "t": "Een donatie van wol",
+      "p": "Op dit moment nemen we donaties van Wool Cloth aan. Met een donatie van zestig stukken Wool Cloth krijg je volledige erkenning van Stormwind voor je gulle daad. Onze voorraad wol is zo dat we in totaal maar zestig stukken van jou nodig hebben; van anderen in het rijk krijgen we vast genoeg om onze inzameling te steunen.$B$BAls je de zestig stukken Wool Cloth bij je hebt en klaar bent om ze te doneren, kan ik ze nu van je aannemen.",
+      "c": "Geweldig! We bedanken je voor je gulle donatie, $N!",
+      "g": [
+        [
+          "donaties",
+          "donations (donatie)"
+        ],
+        [
+          "erkenning",
+          "recognition"
+        ],
+        [
+          "gulle",
+          "generous (gul)"
+        ],
+        [
+          "daad",
+          "deed, action"
+        ],
+        [
+          "voorraad",
+          "stock, stores"
+        ],
+        [
+          "in totaal",
+          "in total"
+        ],
+        [
+          "rijk",
+          "realm"
+        ],
+        [
+          "inzameling",
+          "drive, collection"
+        ],
+        [
+          "doneren",
+          "to donate"
+        ],
+        [
+          "aannemen",
+          "to accept, take"
+        ]
+      ]
+    },
+    "7793": {
+      "t": "Een donatie van zijde",
+      "p": "Net als bij de meeste andere stoffen is onze voorraad zijde lager dan ooit. Onze voorraad is zo dat we in totaal maar zestig stukken zijde van jou nodig hebben; met de steun van anderen moeten we ons doel kunnen halen.$B$BEen gul geschenk zoals zijde, mag ik eraan toevoegen, zou je aanzien in de gemeenschap hier zeker vergroten! Als je de zestig stukken Silk Cloth bij je hebt en klaar bent om ze te doneren, kan ik ze nu van je aannemen.",
+      "c": "Geweldig! We bedanken je voor je gulle donatie, $N!",
+      "g": [
+        [
+          "zijde",
+          "silk"
+        ],
+        [
+          "stoffen",
+          "fabrics (stof)"
+        ],
+        [
+          "voorraad",
+          "stock"
+        ],
+        [
+          "lager dan ooit",
+          "at an all-time low"
+        ],
+        [
+          "doel",
+          "goal"
+        ],
+        [
+          "geschenk",
+          "gift"
+        ],
+        [
+          "mag ik eraan toevoegen",
+          "might I add"
+        ],
+        [
+          "aanzien",
+          "standing, reputation"
+        ],
+        [
+          "gemeenschap",
+          "community"
+        ],
+        [
+          "vergroten",
+          "to increase"
+        ],
+        [
+          "doneren",
+          "to donate"
+        ]
+      ]
+    },
+    "7794": {
+      "t": "Een donatie van Mageweave",
+      "p": "De Mageweave raakt op, en we kunnen je hulp goed gebruiken om onze voorraad aan te vullen! Omdat we op de hele gemeenschap rekenen, hebben we maar een donatie van 60 stukken Mageweave Cloth van jou nodig om ons doel te halen. Zo'n gulheid zal Stormwind niet ontgaan, dat verzeker ik je!$B$BAls je de zestig stukken Mageweave Cloth bij je hebt en klaar bent om ze te doneren, kan ik ze nu van je aannemen.",
+      "c": "Geweldig! We bedanken je voor je gulle donatie, $N!",
+      "g": [
+        [
+          "raakt op",
+          "is running low (opraken)"
+        ],
+        [
+          "voorraad",
+          "stock"
+        ],
+        [
+          "aan te vullen",
+          "to replenish (aanvullen)"
+        ],
+        [
+          "rekenen",
+          "count, rely"
+        ],
+        [
+          "gemeenschap",
+          "community"
+        ],
+        [
+          "gulheid",
+          "generosity"
+        ],
+        [
+          "ontgaan",
+          "go unnoticed by, escape"
+        ],
+        [
+          "verzeker",
+          "assure (verzekeren)"
+        ],
+        [
+          "doneren",
+          "to donate"
+        ]
+      ]
+    },
+    "7795": {
+      "t": "Een donatie van Runecloth",
+      "p": "$n, je hebt al heel veel bijgedragen aan onze stoffeninzameling. Terwijl we hard werken om onze reserves aan te vullen, blijft één soort stof heel schaars: Runecloth. We hebben het ontzettend hard nodig, en we hopen dat je ons kunt helpen zoals je dat eerder deed!$b$bAls je wilt, breng me dan zoveel Runecloth als je kunt missen. Eerst nemen we één donatie van zestig aan, en daarna zien we verder.",
+      "c": "Fantastisch, deze gaan we meteen gebruiken, dat verzeker ik je. Nogmaals bedankt voor je hulp! Zonder jou zouden we echt verloren zijn.$b$bNa al je donaties neem ik in de toekomst graag nog meer Runecloth van je aan, als je dat wilt. Kom gewoon even bij me langs, dan zorg ik er persoonlijk voor dat je goede daden niet onopgemerkt blijven!",
+      "g": [
+        [
+          "bijgedragen",
+          "contributed (bijdragen)"
+        ],
+        [
+          "stoffeninzameling",
+          "cloth drive"
+        ],
+        [
+          "reserves",
+          "reserves"
+        ],
+        [
+          "schaars",
+          "scarce"
+        ],
+        [
+          "ontzettend",
+          "terribly, absolutely"
+        ],
+        [
+          "missen",
+          "spare"
+        ],
+        [
+          "daarna zien we verder",
+          "then we'll go from there"
+        ],
+        [
+          "nogmaals",
+          "once again"
+        ],
+        [
+          "verloren",
+          "lost"
+        ],
+        [
+          "persoonlijk",
+          "personally"
+        ],
+        [
+          "daden",
+          "deeds (daad)"
+        ],
+        [
+          "onopgemerkt",
+          "unrecognized, unnoticed"
+        ]
+      ]
+    },
+    "7796": {
+      "t": "Extra Runecloth",
+      "p": "Zodra je klaar bent om de stapel Runecloth in te leveren, neem ik hem aan.",
+      "c": "$N, zonder helden zoals jij die zich voor de stam inzetten, zouden we zeker lijden. Bedankt dat je je blijft inzetten!",
+      "g": [
+        [
+          "zodra",
+          "as soon as"
+        ],
+        [
+          "stapel",
+          "stack"
+        ],
+        [
+          "in te leveren",
+          "to hand in (inleveren)"
+        ],
+        [
+          "stam",
+          "tribe"
+        ],
+        [
+          "inzetten",
+          "to work hard, devote oneself (zich inzetten)"
+        ],
+        [
+          "lijden",
+          "to suffer"
+        ]
+      ]
+    },
+    "3379": {
+      "t": "Shadoweaver",
+      "d": "De spinnen van de Searing Gorge zijn een onmisbare bron van Shadow Silk. Zoals je weet, is Shadow Silk erg gewild bij de vaklieden in ons ambacht.$B$BKort geleden is een groep stropers deze landen binnengedrongen. Ze doden achteloos spinnen in grote aantallen, zonder ook maar na te denken over de gevolgen van hun daden op lange termijn. De eerste taak die ik je vraag, is dus eenvoudig: vind ze... en maak een einde aan ze.$B$BBegin je zoektocht in het noorden.$B$BAls je hulp nodig hebt, spreek dan met Raze.",
+      "o": "Dood de groep Shadow Silk Poachers die door de Searing Gorge zwerft. Nilith heeft reden om aan te nemen dat het er vijf zijn die moeten worden uitgeroeid. Keer terug naar Nilith in de Searing Gorge als deze taak klaar is.$b",
+      "p": "Wat voor informatie heb je?",
+      "c": "Uitstekend werk, $N.$B$BIk weet zeker dat je dit stuk Shadoweave nog niet hebt gezien.",
+      "g": [
+        [
+          "onmisbare",
+          "invaluable, indispensable (onmisbaar)"
+        ],
+        [
+          "bron",
+          "source"
+        ],
+        [
+          "gewild",
+          "sought after"
+        ],
+        [
+          "vaklieden",
+          "craftsmen, artisans (vakman)"
+        ],
+        [
+          "ambacht",
+          "craft, trade"
+        ],
+        [
+          "stropers",
+          "poachers (stroper)"
+        ],
+        [
+          "binnengedrongen",
+          "encroached, invaded (binnendringen)"
+        ],
+        [
+          "achteloos",
+          "carelessly"
+        ],
+        [
+          "in grote aantallen",
+          "en masse"
+        ],
+        [
+          "gevolgen",
+          "effects, consequences (gevolg)"
+        ],
+        [
+          "op lange termijn",
+          "in the long term"
+        ],
+        [
+          "maak een einde aan",
+          "put an end to (een einde maken aan)"
+        ],
+        [
+          "uitgeroeid",
+          "exterminated (uitroeien)"
+        ],
+        [
+          "keer terug",
+          "return (terugkeren)"
+        ]
+      ]
+    },
+    "3385": {
+      "t": "De Undermarket",
+      "d": "Ze noemen zichzelf de Undermarket: gewetenloze handelaren die voor de juiste prijs bijna alles verkopen, verplaatsen, ruilen en doen.$B$BHet wordt nog erger, $N. Ze hebben hier in de Searing Gorge een uitvalsbasis opgezet. Trade Master Kovic leidt de operatie en heeft nauwe banden met de Dark Iron-dwergen in de streek.$B$BWe moeten hard toeslaan en hun leiding een boodschap sturen. Dood Trade Master Kovic en zijn handlanger Clunk. Breng zijn handelstas terug als het werk klaar is.$B$BOp naar de Cauldron!",
+      "o": "Dood Trade Master Kovic en zijn handlanger Clunk. Haal de Trader's Satchel van zijn lijk en breng hem terug naar Nilith.$b",
+      "p": "Leeft de Trade Master nog?",
+      "c": "Je hebt de Undermarket een beslissende klap toegebracht. Hun leiders zullen wel twee keer nadenken voordat ze nog meer handlangers de kloof in sturen.$b$bO, en ik heb in de handelstas niets bruikbaars gevonden. Je mag houden wat je erin vindt.",
+      "g": [
+        [
+          "gewetenloze",
+          "cutthroat, unscrupulous (gewetenloos)"
+        ],
+        [
+          "handelaren",
+          "traders (handelaar)"
+        ],
+        [
+          "ruilen",
+          "to trade, swap"
+        ],
+        [
+          "uitvalsbasis",
+          "base of operations"
+        ],
+        [
+          "nauwe banden",
+          "close ties (nauwe band)"
+        ],
+        [
+          "streek",
+          "region"
+        ],
+        [
+          "toeslaan",
+          "to strike"
+        ],
+        [
+          "leiding",
+          "leadership"
+        ],
+        [
+          "handlanger",
+          "minion, henchman"
+        ],
+        [
+          "handelstas",
+          "trader's satchel"
+        ],
+        [
+          "lijk",
+          "corpse"
+        ],
+        [
+          "beslissende",
+          "decisive (beslissend)"
+        ],
+        [
+          "klap toegebracht",
+          "dealt a blow (een klap toebrengen)"
+        ],
+        [
+          "kloof",
+          "gorge"
+        ],
+        [
+          "bruikbaars",
+          "useful (bruikbaar)"
+        ]
+      ]
+    },
+    "3402": {
+      "t": "De Undermarket",
+      "d": "Ik wil dat je het nieuws over de nederlaag van Kovic persoonlijk overbrengt aan Vizzklick in Gadgetzan. Hij zal zo blij zijn dat Kovic dood is, dat hij je vast een grote beloning geeft.",
+      "o": "Spreek met Vizzklick in Gadgetzan.$b",
+      "c": "Is Kovic gedood??! Dit is een glorieuze dag, $N! Jarenlang heeft die schurk duistere handel gedreven op de undermarket, en daarbij overal ter wereld eerlijke, hardwerkende handelaren beconcurreerd met lage prijzen.$b$bJe verdient een mooie beloning voor deze prestatie! En een mooie beloning zul je krijgen!$b$b",
+      "g": [
+        [
+          "nederlaag",
+          "defeat"
+        ],
+        [
+          "persoonlijk",
+          "personally"
+        ],
+        [
+          "overbrengt",
+          "deliver (overbrengen)"
+        ],
+        [
+          "beloning",
+          "reward"
+        ],
+        [
+          "glorieuze",
+          "glorious (glorieus)"
+        ],
+        [
+          "schurk",
+          "scoundrel"
+        ],
+        [
+          "duistere handel gedreven",
+          "ran shady trades (handel drijven)"
+        ],
+        [
+          "hardwerkende",
+          "hard-working (hardwerkend)"
+        ],
+        [
+          "beconcurreerd",
+          "undercut, competed against (beconcurreren)"
+        ],
+        [
+          "prestatie",
+          "accomplishment"
+        ]
+      ]
+    }
+  },
+  "words": {
+    "doordachte": "thought-out (doordacht)",
+    "nauwe": "close, narrow (nauw)",
+    "uitbrak": "broke out (uitbreken)",
+    "bereikbaar": "reachable, accessible"
+  },
+  "terms": {
+    "silithid": "silithid: insect-like creatures from the deserts of Kalimdor, controlled by an old god",
+    "Elune'adore": "Elune'adore: night elf greeting, 'Elune be with you'",
+    "Shadoweave": "Shadoweave: dark cloth that tailors weave from Shadow Silk"
+  }
+}
