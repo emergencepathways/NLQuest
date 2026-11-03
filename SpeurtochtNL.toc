@@ -112,6 +112,7 @@ Data\Batch_135_Ahn_Qiraj_War.lua
 Data\Batch_65_Blackrock_Depths_36_Voorquests.lua
 Data\Batch_136_Warsong_Gulch.lua
 Data\Batch_66_Western_Plaguelands.lua
+Data\Batch_67_Western_Plaguelands.lua
 
 Display.lua
 Reader.lua
