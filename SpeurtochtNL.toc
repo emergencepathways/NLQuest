@@ -67,6 +67,7 @@ Data\Batch_114_Undercity.lua
 Data\Batch_41_Stormwind_City.lua
 Data\Batch_115_Thunder_Bluff.lua
 Data\Batch_42_Stormwind_City.lua
+Data\Batch_116_Class_Shaman.lua
 
 Display.lua
 Reader.lua
