@@ -1,0 +1,1897 @@
+{
+ "quests": {
+  "4508": {
+   "t": "Stilte voor de storm",
+   "d": "Wat ik onlangs heb ontdekt, en wat we hier vandaag hebben geleerd, moet terechtkomen in handen die er misschien echt iets mee kunnen doen. We zijn hier in Gadgetzan wel vindingrijk, maar dit kunnen we niet alleen.$B$BBreng mijn nieuwste verslag terug naar Gracina Spiritmight in Darnassus. Ze is toch nog steeds in de Temple of the Moon? Ze heeft vrienden die hoge pieten zijn bij de Alliance. Als we hen hierbij kunnen betrekken, $N, dan komen we hier misschien levend uit.",
+   "o": "Breng Pestlezugg's Un'Goro Report naar Gracina Spiritmight in Darnassus.",
+   "p": "Het zijn dwazen, $N! Ze denken er niet eens aan om om zich heen te kijken naar een groter gevaar. Hun onredelijke haat tegen de Horde wordt ons allemaal nog fataal. Ik weet niet hoeveel meer bewijs ik ze kan geven van het gevaar van de silithid, behalve ze in een van de nesten te gooien, zodat ze het zelf kunnen zien!$B$BSorry, heb je nieuws voor mij?",
+   "c": "Ik waardeer dit echt, maar ik weet niet zeker wat we eraan hebben. De Alliance negeert elk gevaar dat niet van de Horde komt, en zelfs onze eigen leiders hier in Darnassus zijn het niet eens over wat dit gevaar precies is. Dwazen als Fandral Staghelm beweren dat de silithid helemaal niet het gevaar uit het verre verleden zijn dat ik zeg. Zijn onwetendheid wordt alleen overtroffen door zijn arrogantie.$B$BJe hebt het gevaar zelf gezien, $N. We moeten vastberaden blijven om de silithid te verslaan!",
+   "g": [
+    [
+     "onlangs",
+     "recently"
+    ],
+    [
+     "terechtkomen",
+     "to end up (somewhere)"
+    ],
+    [
+     "vindingrijk",
+     "resourceful"
+    ],
+    [
+     "verslag",
+     "report"
+    ],
+    [
+     "hoge pieten",
+     "bigwigs, important people"
+    ],
+    [
+     "betrekken",
+     "to involve"
+    ],
+    [
+     "dwazen",
+     "fools (dwaas)"
+    ],
+    [
+     "onredelijke",
+     "irrational, unreasonable (onredelijk)"
+    ],
+    [
+     "fataal",
+     "fatal"
+    ],
+    [
+     "nesten",
+     "nests, hives (nest)"
+    ],
+    [
+     "waardeer",
+     "appreciate (waarderen)"
+    ],
+    [
+     "beweren",
+     "claim (beweren)"
+    ],
+    [
+     "onwetendheid",
+     "ignorance"
+    ],
+    [
+     "overtroffen",
+     "surpassed (overtreffen)"
+    ],
+    [
+     "vastberaden",
+     "determined, committed"
+    ]
+   ]
+  },
+  "5801": {
+   "t": "Gesmeed in Fire Plume",
+   "d": "Je hebt twee staven thorium nodig en een heel hete warmtebron om de schacht van de sleutel te smeden. Voor het thorium moet je zelf zorgen, maar met de hitte kan ik je helpen.$B$BTen westen van ons, in Un'Goro Crater, ligt Fire Plume Ridge: een sluimerende vulkaan. Het lavameer bovenop is heet genoeg om thorium en bot samen te smelten. Met je goud heb je een gietvorm gekocht die je alleen maar in het meer bovenop hoeft te dopen. De lava doet de rest.$B$BMeer kan ik niet doen. Om je sleutel af te maken, moet je weer met Arbington praten.",
+   "o": "Breng de Skeleton Key Mold en 2 Thorium Bars naar de top van Fire Plume Ridge in Un'Goro Crater. Gebruik de Skeleton Key Mold bij het lavameer om de Unfinished Skeleton Key te smeden.$B$BBreng de Unfinished Skeleton Key naar Alchemist Arbington bij Chillwind Point, Western Plaguelands.",
+   "p": "Is de schacht van de skeletsleutel klaar? Het spijt me echt dat jij de kosten van de gietvorm moest dragen, maar we moeten allemaal ons steentje bijdragen tegen de Scourge. Zodra je me de onafgemaakte sleutel geeft, ben je klaar voor het laatste onderdeel dat nodig is om hem af te maken.$b$bHet wordt helemaal niet makkelijk, maar het werk dat je tot nu toe hebt gedaan om een aanval op Andorhal voor te bereiden, gaat zich nu terugbetalen. Je zult het zien.",
+   "c": "Dat is een behoorlijk dure skeletsleutel, hè $N? Toch is hij nog niet af. Het is nu tijd om ons echt op onze schepping te richten. Daarvoor moet je de grootste vijand onder ogen komen, waar we in Andorhal al die tijd naartoe hebben gewerkt... het wezen dat binnen de muren van de verwoeste stad de baas is.$b$bIk heb het over Araj the Summoner: een lich, en een van de machtigste wezens die de Scourge de zijne noemt.",
+   "g": [
+    [
+     "staven",
+     "bars (staaf)"
+    ],
+    [
+     "warmtebron",
+     "heat source"
+    ],
+    [
+     "schacht",
+     "shaft, stem"
+    ],
+    [
+     "smeden",
+     "to forge"
+    ],
+    [
+     "sluimerende",
+     "smouldering, dormant (sluimeren)"
+    ],
+    [
+     "gietvorm",
+     "mould, mold"
+    ],
+    [
+     "dopen",
+     "to dip"
+    ],
+    [
+     "skeletsleutel",
+     "skeleton key"
+    ],
+    [
+     "ons steentje bijdragen",
+     "do our part (idiom)"
+    ],
+    [
+     "onderdeel",
+     "part, component"
+    ],
+    [
+     "terugbetalen",
+     "to pay back, pay off"
+    ],
+    [
+     "schepping",
+     "creation"
+    ],
+    [
+     "onder ogen komen",
+     "to face"
+    ],
+    [
+     "verwoeste",
+     "ruined, destroyed (verwoesten)"
+    ]
+   ]
+  },
+  "8182": {
+   "t": "De hand van Rastakhan",
+   "d": "$N, wat we het meest vreesden, is gebeurd. Volgens de legende heerste de Soulflayer met kwaad en terreur over de oude trollenwereld, en zijn macht was absoluut. Als hij nu niet wordt tegengehouden, kan zijn nieuwe heerschappij zich over heel Azeroth verspreiden!$B$BEr is een groep Zandalarian trollen die ons misschien kan helpen om deze vloed van duisternis tegen te houden. Ze kamperen op Yojamba Isle, voor de kust van Stranglethorn, ten westen van de ruïnes van Zul'Kunda. Spreek met hun leider, Molthor, en bid dat hij weet hoe je Hakkar kunt verslaan.",
+   "o": "Spreek met Molthor in Stranglethorn.",
+   "c": "Ben je gestuurd door de goudzoeker, Ironboot? Zijn soort is wijs, en nog wijzer omdat hij jou naar mij heeft gebracht, want ik en de Zandalarian trollen weten misschien een manier om de Soulflayer te verslaan.$B$BSpreek met de trollen van dit eiland, luister naar hun woorden en bereid je voor, $N, want de taak die voor je ligt, is doordrenkt van bloed.",
+   "g": [
+    [
+     "vreesden",
+     "feared (vrezen)"
+    ],
+    [
+     "heerste",
+     "ruled (heersen)"
+    ],
+    [
+     "terreur",
+     "terror"
+    ],
+    [
+     "tegengehouden",
+     "stopped (tegenhouden)"
+    ],
+    [
+     "heerschappij",
+     "reign, rule"
+    ],
+    [
+     "vloed",
+     "tide, flood"
+    ],
+    [
+     "kamperen",
+     "to camp"
+    ],
+    [
+     "kust",
+     "coast"
+    ],
+    [
+     "bid",
+     "pray (bidden)"
+    ],
+    [
+     "goudzoeker",
+     "prospector"
+    ],
+    [
+     "wijzer",
+     "wiser (wijs)"
+    ],
+    [
+     "doordrenkt",
+     "soaked"
+    ]
+   ]
+  },
+  "1157": {
+   "t": "Alexstrasza",
+   "d": "TODO",
+   "o": "TODO",
+   "g": []
+  },
+  "1158": {
+   "t": "Malygos",
+   "d": "TODO",
+   "o": "TODO",
+   "g": []
+  },
+  "2747": {
+   "t": "Een buitengewoon ei",
+   "p": "Ik heb maar heel weinig eieren uit Feralas gezien die in buitengewone staat waren. Dit zijn eieren van de zeldzaamste soort...",
+   "c": "Nou, nou, jij hebt er een gevonden. Geweldig!$B$BIk hoop dat je altijd zult onthouden hoeveel goeds je vandaag hebt gedaan.",
+   "g": [
+    [
+     "buitengewoon",
+     "extraordinary"
+    ],
+    [
+     "buitengewone",
+     "extraordinary"
+    ],
+    [
+     "staat",
+     "condition, state"
+    ],
+    [
+     "zeldzaamste",
+     "rarest (zeldzaam)"
+    ],
+    [
+     "onthouden",
+     "to remember"
+    ]
+   ]
+  },
+  "2748": {
+   "t": "Een mooi ei",
+   "p": "Een mooi ei is een ei dat, onder ideale omstandigheden, uitkomt zonder de kwade gevolgen van de bezweringen van de Gordunni ogers.",
+   "c": "Heel goed, $N. Ik stuur dit ei naar Darnassus, waar het hopelijk snel uitkomt!$B$BAanvaard dit alsjeblieft als teken van mijn dankbaarheid.",
+   "g": [
+    [
+     "omstandigheden",
+     "conditions (omstandigheid)"
+    ],
+    [
+     "uitkomt",
+     "hatches (uitkomen)"
+    ],
+    [
+     "kwade",
+     "evil (kwaad)"
+    ],
+    [
+     "gevolgen",
+     "effects, consequences (gevolg)"
+    ],
+    [
+     "bezweringen",
+     "incantations, spells (bezwering)"
+    ],
+    [
+     "aanvaard",
+     "accept (aanvaarden)"
+    ],
+    [
+     "dankbaarheid",
+     "gratitude"
+    ]
+   ]
+  },
+  "2749": {
+   "t": "Een gewoon ei",
+   "p": "Gewone hippogriefeieren komen ongeveer de helft van de keren uit. We doen ons best om ze te verzorgen, en met een beetje geluk komen ze uit.",
+   "c": "Zo, je hebt een gewoon ei gevonden, $N? Geef het maar aan mij... En we kunnen alleen maar op het beste hopen.$B$BIk heb niet veel, maar aanvaard alsjeblieft deze beloning. Als je ooit weer in Feralas bent, weet dan dat ik hier altijd ben om de eieren aan te nemen die je daar vindt.",
+   "g": [
+    [
+     "hippogriefeieren",
+     "hippogryph eggs (hippogriefei)"
+    ],
+    [
+     "komen uit",
+     "hatch (uitkomen)"
+    ],
+    [
+     "verzorgen",
+     "to nurture, look after"
+    ],
+    [
+     "aanvaard",
+     "accept (aanvaarden)"
+    ],
+    [
+     "beloning",
+     "reward"
+    ],
+    [
+     "aan te nemen",
+     "to take, accept (aannemen)"
+    ]
+   ]
+  },
+  "2750": {
+   "t": "Een slecht ei",
+   "p": "Dit zijn de eieren die niet te redden zijn. Ze komen nooit uit.",
+   "c": "Ik ben bang dat ik slecht nieuws voor je heb, $N. Dit ei is te ver heen. Ik kan het van je overnemen, zodat het op de juiste manier wordt weggegooid.$B$BLaat je alsjeblieft niet ontmoedigen. We kunnen ze niet allemaal redden. Als je weer in Feralas bent, probeer het dan nog eens. Breng nog een ei voor de Super Egg-O-Matic!",
+   "g": [
+    [
+     "te redden",
+     "to be saved (redden)"
+    ],
+    [
+     "te ver heen",
+     "too far gone"
+    ],
+    [
+     "overnemen",
+     "to take over, take from"
+    ],
+    [
+     "weggegooid",
+     "disposed of, thrown away (weggooien)"
+    ],
+    [
+     "ontmoedigen",
+     "to discourage"
+    ]
+   ]
+  },
+  "8555": {
+   "t": "De opdracht van de drakenvluchten",
+   "c": "Eranikus, Vaelastrasz en Azuregos... Je kent deze draken vast wel, sterveling. Het is dus geen toeval dat ze zo'n belangrijke rol hebben gespeeld als wachters van onze wereld.$B$BHelaas (en mijn eigen naïviteit is daar deels schuldig aan) is elke beschermer door een tragedie getroffen, door dienaren van de Old Gods of door verraad van wie zich hun vriend noemde. Hoe ernstig dat was, heeft mijn eigen wantrouwen tegenover jouw soort gevoed.$B$BZoek ze op... En $R, bereid je voor op het ergste.",
+   "g": [
+    [
+     "opdracht",
+     "charge, task"
+    ],
+    [
+     "drakenvluchten",
+     "dragonflights (drakenvlucht)"
+    ],
+    [
+     "sterveling",
+     "mortal"
+    ],
+    [
+     "toeval",
+     "coincidence"
+    ],
+    [
+     "wachters",
+     "watchers (wachter)"
+    ],
+    [
+     "naïviteit",
+     "naivety"
+    ],
+    [
+     "deels",
+     "partly"
+    ],
+    [
+     "getroffen",
+     "struck (treffen)"
+    ],
+    [
+     "dienaren",
+     "servants, agents (dienaar)"
+    ],
+    [
+     "verraad",
+     "betrayal"
+    ],
+    [
+     "ernstig",
+     "serious"
+    ],
+    [
+     "wantrouwen",
+     "distrust"
+    ],
+    [
+     "gevoed",
+     "fuelled, fed (voeden)"
+    ]
+   ]
+  },
+  "8576": {
+   "t": "Het grootboek vertalen",
+   "c": "Eerst het belangrijkste, $N! We moeten uitzoeken wat Azuregos in dit grootboek heeft geschreven.$B$BZeg je dat hij je heeft gezegd een arcanite boei te maken, en dat dit de bouwtekening is? Vreemd dat hij dit in het Draconisch zou schrijven. Die ouwe bok weet dat ik die onzin niet kan lezen.$B$BAls dit moet lukken, heb ik mijn waarzegbril nodig, een kip van vijfhonderd pond en deel II van \"Draconic for Dummies\". Niet per se in die volgorde.",
+   "g": [
+    [
+     "grootboek",
+     "ledger"
+    ],
+    [
+     "uitzoeken",
+     "to figure out"
+    ],
+    [
+     "boei",
+     "buoy"
+    ],
+    [
+     "bouwtekening",
+     "schematic, blueprint"
+    ],
+    [
+     "ouwe bok",
+     "old goat"
+    ],
+    [
+     "onzin",
+     "nonsense"
+    ],
+    [
+     "waarzegbril",
+     "scrying goggles"
+    ],
+    [
+     "pond",
+     "pound"
+    ],
+    [
+     "niet per se",
+     "not necessarily"
+    ],
+    [
+     "volgorde",
+     "order"
+    ]
+   ]
+  },
+  "8577": {
+   "t": "Stewvul, ex-B.F.F.",
+   "d": "Als ik iets moet vertalen, heb ik mijn waarzegbril nodig. Helaas is die al een hele tijd geleden gestolen door mijn ex-beste-vriend-voor-altijd, Stewvul. Hij heeft mijn hart op vijf plekken gebroken en me hier laten wegrotten.$B$BMet de hulp van mijn trouwe kristallen bol weet ik waar hij is: bij de Greymane Wall in Silverpine, of in iets wat lijkt op een portaalwereld in de Outland, die op dit moment wordt overspoeld door het Burning Legion. Je moet hem opsporen en mijn bril terughalen, $N!",
+   "o": "Narain Soothfancy wil dat je zijn ex-beste-vriend-voor-altijd (BFF), Stewvul, vindt en de waarzegbril terugpakt die Stewvul van hem heeft gestolen.",
+   "c": "Ik kan niet geloven dat hij me heeft gevonden. Ik dacht echt dat ik hem kwijt was toen ik in de Outland was. Ik ga daar niet terug, $R! Echt niet, voor geen goud! Ik ben het zat om zijn parttime beste vriend voor altijd en fulltime slaaf te zijn.",
+   "g": [
+    [
+     "waarzegbril",
+     "scrying goggles"
+    ],
+    [
+     "wegrotten",
+     "to rot away"
+    ],
+    [
+     "trouwe",
+     "trusty, loyal (trouw)"
+    ],
+    [
+     "kristallen bol",
+     "crystal ball"
+    ],
+    [
+     "portaalwereld",
+     "portal world"
+    ],
+    [
+     "overspoeld",
+     "overrun, flooded (overspoelen)"
+    ],
+    [
+     "opsporen",
+     "to track down"
+    ],
+    [
+     "terughalen",
+     "to get back"
+    ],
+    [
+     "kwijt",
+     "lost, rid of"
+    ],
+    [
+     "voor geen goud",
+     "not for anything (idiom)"
+    ],
+    [
+     "zat",
+     "fed up (iets zat zijn)"
+    ],
+    [
+     "slaaf",
+     "slave"
+    ]
+   ]
+  },
+  "8584": {
+   "t": "Vraag nooit naar mijn zaken",
+   "d": "Als je één ding over mij moet weten, dan is het dit: vraag NOOIT naar mijn zaken! Ik werk met dingen die jij gewoon niet kunt begrijpen. Bijvoorbeeld: weet jij wat een psychotronische muzzledorf is? Natuurlijk niet! Daarom laten we het plannen aan mij over, en het halen aan jou.$B$BZoals ik al zei: als dit moet lukken, hebben we een kip van 500 pond nodig.$B$BGa naar Gadgetzan en spreek met Dirge Quikcleave. Hij helpt je op weg om een geschikt exemplaar te vinden.$b",
+   "o": "Narain Soothfancy in Tanaris wil dat je met Dirge Quikcleave in Gadgetzan spreekt.",
+   "c": "<Dirge krabt zich op zijn hoofd.>$B$BEen kip van 500 pond? Die bestaat niet! Nu niet meer, tenminste. Ik heb ooit van zo'n kip gehoord... The Black Chicken of Death...$B$B<De stem van Dirge sterft weg.>$B$BMaar ja, niemand heeft die kip ooit gezien en het overleefd om het na te vertellen. Ik heb een idee waar we allebei wat aan hebben, jong.",
+   "g": [
+    [
+     "zaken",
+     "business, affairs (zaak)"
+    ],
+    [
+     "psychotronische",
+     "psychotronic"
+    ],
+    [
+     "helpt je op weg",
+     "gets you started (op weg helpen)"
+    ],
+    [
+     "geschikt",
+     "suitable"
+    ],
+    [
+     "exemplaar",
+     "specimen, copy"
+    ],
+    [
+     "krabt zich op zijn hoofd",
+     "scratches his head"
+    ],
+    [
+     "tenminste",
+     "at least"
+    ],
+    [
+     "sterft weg",
+     "trails off (wegsterven)"
+    ],
+    [
+     "overleefd",
+     "survived (overleven)"
+    ],
+    [
+     "na te vertellen",
+     "to tell the tale (navertellen)"
+    ],
+    [
+     "jong",
+     "kid (casual address)"
+    ]
+   ]
+  },
+  "8585": {
+   "t": "Isle of Dread!",
+   "d": "Volgens de legende hebben de chimaerok van het Isle of Dread in Feralas het sappigste en malste vlees dat er bestaat! Nou hebben die chimaerok ook een vader die, met de juiste bereiding, misschien wel of misschien niet op een kip van 500 pond lijkt.$B$BGa naar het Isle of Dread, dood Lord Lakmaeran en breng me zijn verse karkas. Dat zou de gnoom tevreden moeten stellen. Om mij tevreden te stellen, moet je wat chimaerok-haasjes te pakken krijgen.$B$BDoe dit, en je krijgt je kip van 500 pond en nog een extraatje.$b",
+   "o": "Haal Lakmaeran's Carcass en 20 Chimaerok Tenderloins op voor Dirge Quikcleave in Tanaris.",
+   "p": "Mmmmm... Chimaerok...",
+   "c": "Kijk eens naar de marmering van die haasjes! Fantastisch!$B$BEn nu die kip... Hm, eens kijken. Ik heb een paar minuten nodig om het recept te bedenken.",
+   "g": [
+    [
+     "sappigste",
+     "most succulent, juiciest (sappig)"
+    ],
+    [
+     "malste",
+     "most tender (mals)"
+    ],
+    [
+     "bereiding",
+     "preparation"
+    ],
+    [
+     "karkas",
+     "carcass"
+    ],
+    [
+     "tevreden stellen",
+     "to satisfy"
+    ],
+    [
+     "haasjes",
+     "tenderloins (haasje)"
+    ],
+    [
+     "te pakken krijgen",
+     "to get hold of"
+    ],
+    [
+     "extraatje",
+     "a little something extra"
+    ],
+    [
+     "marmering",
+     "marbling"
+    ],
+    [
+     "bedenken",
+     "to devise, think up"
+    ]
+   ]
+  },
+  "8586": {
+   "t": "Dirge's Kickin' Chimaerok Chops",
+   "d": "Mijn recept is klaar! Wat ik nu van je nodig heb, is wat raketbrandstof en deeprock-zout. Ik zorg voor de kruiden, en het vlees dat je me hebt gebracht, doet de rest.$B$BAls je me hebt gebracht waar ik om vroeg, is de kip klaar om naar Narain terug te brengen.",
+   "o": "Dirge Quikcleave in Gadgetzan wil dat je hem 20 Goblin Rocket Fuel en 20 Deeprock Salt brengt.",
+   "p": "Schiet een beetje op, jong. We willen niet dat dit vlees bederft.",
+   "c": "Het is klaar! Ik presenteer je mijn grootste creatie: Dirge's Kickin' Chimaerok Chops!",
+   "g": [
+    [
+     "recept",
+     "recipe"
+    ],
+    [
+     "raketbrandstof",
+     "rocket fuel"
+    ],
+    [
+     "zout",
+     "salt"
+    ],
+    [
+     "kruiden",
+     "spices (kruid)"
+    ],
+    [
+     "schiet een beetje op",
+     "hurry it up (opschieten)"
+    ],
+    [
+     "jong",
+     "kid (casual address)"
+    ],
+    [
+     "bederft",
+     "goes bad, spoils (bederven)"
+    ],
+    [
+     "creatie",
+     "creation"
+    ]
+   ]
+  },
+  "8587": {
+   "t": "Terug naar Narain",
+   "d": "Ik ben een goblin van mijn woord, jong. Hier is je kip van 500 pond.$B$BWat een gnoom met een kip van 500 pond wil, zal ik nooit weten...$B$B<Dirge moppert iets onverstaanbaars.>$B$BWaarschijnlijk om erin te slapen... Vieze gnomen...",
+   "o": "Breng de 500 Pound Chicken naar Narain Soothfancy in Tanaris.",
+   "p": "Wat ruikt hier zo heerlijk?",
+   "c": "<Narain duwt twee vuisten in de enorme kip en propt zijn mond vol met Dirges heerlijke lekkernij.>$B$BMMmmm... Dit is ongelooflijk! De beste kip die ik ooit heb gehad!",
+   "g": [
+    [
+     "van mijn woord",
+     "of my word"
+    ],
+    [
+     "moppert",
+     "grumbles (mopperen)"
+    ],
+    [
+     "onverstaanbaars",
+     "unintelligible (onverstaanbaar)"
+    ],
+    [
+     "vieze",
+     "dirty (vies)"
+    ],
+    [
+     "vuisten",
+     "fists (vuist)"
+    ],
+    [
+     "propt",
+     "stuffs (proppen)"
+    ],
+    [
+     "lekkernij",
+     "delicacy"
+    ],
+    [
+     "ongelooflijk",
+     "unbelievable"
+    ]
+   ]
+  },
+  "8597": {
+   "t": "Draconic for Dummies",
+   "d": "Ik wist dat dat boek ooit van pas zou komen! Gelukkig was ik slim en vooruitziend genoeg om het op een veilige plek te verstoppen.$B$BMaak je geen zorgen, het ligt op een plek die niemand ooit kan vinden! Ik had zelfs een gyrocopter nodig om er de eerste keer te komen. Helaas ben ik er op de terugweg mee neergestort op het strand. Door dat ongeluk kreeg ik deze super-gnomische paranormale krachten!$B$BZoek mijn neergestorte gyrocopter ergens op Land's End Beach en zwem vanaf daar naar het zuiden! Je herkent de plek wel als je hem ziet!",
+   "o": "Vind Narain Soothfancy's boek, begraven op een eiland in de South Seas.",
+   "c": "Het boek is weg! Boven op de hoop aarde ligt een briefje.",
+   "g": [
+    [
+     "van pas zou komen",
+     "would come in handy (van pas komen)"
+    ],
+    [
+     "vooruitziend",
+     "far-sighted, with foresight"
+    ],
+    [
+     "verstoppen",
+     "to hide, stow"
+    ],
+    [
+     "terugweg",
+     "way back"
+    ],
+    [
+     "neergestort",
+     "crashed (neerstorten)"
+    ],
+    [
+     "ongeluk",
+     "accident"
+    ],
+    [
+     "paranormale",
+     "psychic, paranormal (paranormaal)"
+    ],
+    [
+     "herkent",
+     "recognise (herkennen)"
+    ],
+    [
+     "begraven",
+     "buried"
+    ],
+    [
+     "hoop aarde",
+     "dirt mound"
+    ],
+    [
+     "briefje",
+     "note"
+    ]
+   ]
+  },
+  "8598": {
+   "t": "lOsGeLd",
+   "d": "<De tekst op dit briefje bestaat uit letters in allerlei lettertypes, die op het perkament zijn geplakt.>$B$BWe hebben je kostbare boek, gnoom. Als je het ooit nog terug wilt zien, doe je precies wat we zeggen.$B$B<Er staat een uitgebreide lijst met instructies op, 3 bladzijden lang.>$B$BBreng het geld en kom alleen!",
+   "o": "Breng de Ransom Letter terug naar Narain Soothfancy in Tanaris.$b",
+   "p": "Zeg, wat is er aan de hand?",
+   "c": "<Narains gezicht gloeit knalrood.>$B$BMijn... boek ontvoeren, durven ze!? Ik zal ze leren wat het betekent om te sollen met een paranormale gnoom!",
+   "g": [
+    [
+     "losgeld",
+     "ransom"
+    ],
+    [
+     "lettertypes",
+     "typefaces (lettertype)"
+    ],
+    [
+     "perkament",
+     "parchment"
+    ],
+    [
+     "geplakt",
+     "glued, stuck (plakken)"
+    ],
+    [
+     "kostbare",
+     "precious (kostbaar)"
+    ],
+    [
+     "uitgebreide",
+     "detailed (uitgebreid)"
+    ],
+    [
+     "bladzijden",
+     "pages (bladzijde)"
+    ],
+    [
+     "gloeit",
+     "glows (gloeien)"
+    ],
+    [
+     "knalrood",
+     "bright red"
+    ],
+    [
+     "ontvoeren",
+     "to kidnap"
+    ],
+    [
+     "sollen met",
+     "to mess with"
+    ]
+   ]
+  },
+  "8599": {
+   "t": "Liefdeslied voor Narain",
+   "d": "Ik krijg niet vaak bezoek. Sterker nog, de laatste keer dat ik bezoek had, was toen ik die lieve, schattige gnoom redde uit het wrak van de neergestorte vliegmachine.$B$B<Meridith staart in het niets, verloren in een herinnering.>$B$BKen je hem? Narain? Narain Soothfancy? O, het zou zoveel voor me betekenen als iemand een bericht van mij naar hem zou brengen. Ik moet hem vertellen wat ik voel! Ik weet dat het liefde is! Ik weet het gewoon!$B$BZou jij misschien een bericht naar Narain kunnen brengen? Dan sta ik voor altijd bij je in het krijt!",
+   "o": "Breng Meridith's Love Letter naar Narain Soothfancy in Tanaris.",
+   "p": "Je ruikt naar vis!",
+   "c": "Wat!?$B$B<Narain begint te friemelen.>$B$BNou, eh... Wat wil je dat ik doe??? Ze is een vis! Een VIS, zeg ik je! En ik ben een gnoom. Dat kan nooit iets worden.",
+   "g": [
+    [
+     "liefdeslied",
+     "love song"
+    ],
+    [
+     "sterker nog",
+     "as a matter of fact"
+    ],
+    [
+     "schattige",
+     "sweet, cute (schattig)"
+    ],
+    [
+     "wrak",
+     "wreckage"
+    ],
+    [
+     "vliegmachine",
+     "flying machine"
+    ],
+    [
+     "staart",
+     "gazes, stares (staren)"
+    ],
+    [
+     "herinnering",
+     "memory"
+    ],
+    [
+     "bij je in het krijt staan",
+     "to be indebted to you"
+    ],
+    [
+     "friemelen",
+     "to fidget"
+    ]
+   ]
+  },
+  "8606": {
+   "t": "Lokaas!",
+   "d": "Ik heb het! Dit is wat we gaan doen. Ik vul een zak met stenen, en jij gaat hem afleveren. Ik weet dat er stond dat ik hem moest afleveren, en dat ga ik ook doen - zo ongeveer.$B$B<Narain bekijkt je van top tot teen.>$B$BJa, jij bent prima. Neem deze tulband, dit gewaad en deze zak stenen mee en ga naar de afleverplek in Winterspring.$B$BIk heb alles wat je nodig hebt in deze speciale set gestopt. Als ze komen om de spullen op te halen, maak je ze af! Dat zal ze leren om met Narain te sollen!$b",
+   "o": "Narain Soothfancy in Tanaris wil dat je naar Winterspring reist en de Bag of Gold neerlegt op de afleverplek die de boekontvoerders hebben beschreven.",
+   "c": "Ik denk dat we deze boekontvoerders misschien hebben onderschat.",
+   "o1": "Voor wie werkt Nummer Twee?",
+   "g": [
+    [
+     "lokaas",
+     "decoy, bait"
+    ],
+    [
+     "afleveren",
+     "to deliver, make the drop"
+    ],
+    [
+     "zo ongeveer",
+     "sort of"
+    ],
+    [
+     "van top tot teen",
+     "from head to toe, up and down"
+    ],
+    [
+     "tulband",
+     "turban"
+    ],
+    [
+     "gewaad",
+     "robe"
+    ],
+    [
+     "afleverplek",
+     "drop-off point"
+    ],
+    [
+     "maak je ze af",
+     "you finish them off (afmaken)"
+    ],
+    [
+     "sollen",
+     "to mess (with)"
+    ],
+    [
+     "boekontvoerders",
+     "booknappers (boekontvoerder)"
+    ],
+    [
+     "onderschat",
+     "underestimated (onderschatten)"
+    ]
+   ]
+  },
+  "8620": {
+   "t": "Het enige recept",
+   "d": "Ik had het kunnen weten. Mijn aartsvijand, Doctor Weavil, is weer met zijn oude trucs bezig! En nu heeft Doctor Weavil, dankzij jouw mislukking in Winterspring, mijn boek vernietigd! Hoe ga jij nu de wereld redden, held?$B$BIn het briefje dat ik kreeg, stond dat het enige bekende exemplaar van \"Draconic for Dummies: Volume II\" in 8 stukken is gescheurd en in de wind verspreid! Als het je op de een of andere manier lukt om die verloren hoofdstukken te vinden, gebruik dan deze magische boekband om ze weer samen te voegen, en kom terug bij mij.",
+   "o": "Haal de 8 verloren hoofdstukken van Draconic for Dummies terug, voeg ze samen met de Magical Book Binding en breng het complete boek Draconic for Dummies: Volume II naar Narain Soothfancy in Tanaris.",
+   "p": "Ik trek mijn broek aan net als jij: één been tegelijk. Alleen maak ik, als mijn broek aan is, arcanite boeien. Arcanite boeien, schatje!",
+   "c": "Fantastisch! Ik kan niet geloven dat je al die moeite hebt gedaan! Ben je soms een machine? Als het aan mij lag, had ik de wereld waarschijnlijk gewoon laten instorten.$B$BIk til mijn tulband voor je op, meneer. En geen goede daad mag onbeloond blijven.",
+   "g": [
+    [
+     "recept",
+     "prescription, recipe"
+    ],
+    [
+     "aartsvijand",
+     "arch-enemy"
+    ],
+    [
+     "trucs",
+     "tricks (truc)"
+    ],
+    [
+     "mislukking",
+     "failure"
+    ],
+    [
+     "vernietigd",
+     "destroyed (vernietigen)"
+    ],
+    [
+     "exemplaar",
+     "copy"
+    ],
+    [
+     "gescheurd",
+     "ripped, torn (scheuren)"
+    ],
+    [
+     "verspreid",
+     "scattered (verspreiden)"
+    ],
+    [
+     "hoofdstukken",
+     "chapters (hoofdstuk)"
+    ],
+    [
+     "boekband",
+     "book binding"
+    ],
+    [
+     "samen te voegen",
+     "to put together (samenvoegen)"
+    ],
+    [
+     "boeien",
+     "buoys (boei)"
+    ],
+    [
+     "instorten",
+     "to collapse, implode"
+    ],
+    [
+     "daad",
+     "deed"
+    ],
+    [
+     "onbeloond",
+     "unrewarded"
+    ]
+   ]
+  },
+  "8728": {
+   "t": "Het goede nieuws en het slechte nieuws",
+   "d": "Nou, dat duurde wat langer dan verwacht. Laat me nu eens zien wat er in dit grootboek staat.$B$B<Narain leest stil in het grootboek en mompelt af en toe iets binnensmonds.>$B$BHet goede nieuws is dat ik er 99% zeker van ben dat ik een arcanite boei kan maken die werkt zoals jij wilt. Dat hangt natuurlijk helemaal af van het slechte nieuws.$B$BHet slechte nieuws is dat ik heel veel arcanite, elementium-erts en zeldzame edelstenen nodig heb.$B$BBreng me wat ik nodig heb, en ik maak de boei.",
+   "o": "Narain Soothfancy in Tanaris wil dat je hem 20 Arcanite Bars, 10 Elementium Ore, 10 Azerothian Diamonds en 10 Blue Sapphires brengt.",
+   "p": "Arcanite boeien maken zichzelf niet, $N. En NEE, je kunt geen geld lenen.",
+   "c": "Afspraak is afspraak. Ik hoop echt dat je weet waar je aan begint, $N. Dit is wel heel veel moeite om een beetje te vissen.",
+   "g": [
+    [
+     "grootboek",
+     "ledger"
+    ],
+    [
+     "mompelt",
+     "mumbles (mompelen)"
+    ],
+    [
+     "binnensmonds",
+     "under one's breath"
+    ],
+    [
+     "boei",
+     "buoy"
+    ],
+    [
+     "hangt af van",
+     "depends on (afhangen van)"
+    ],
+    [
+     "erts",
+     "ore"
+    ],
+    [
+     "edelstenen",
+     "gemstones (edelsteen)"
+    ],
+    [
+     "lenen",
+     "to borrow"
+    ],
+    [
+     "afspraak is afspraak",
+     "a deal is a deal"
+    ],
+    [
+     "waar je aan begint",
+     "what you're getting into"
+    ]
+   ]
+  },
+  "8742": {
+   "t": "De macht van Kalimdor",
+   "p": "Er zijn duizend jaar verstreken en, precies zoals het voorbestemd was, staat er iemand voor mij. Iemand die zijn volk naar een nieuw tijdperk zal leiden.$B$BDe Old God beeft, $N. O ja, hij vreest jouw geloof. Verbrijzel de profetie van C'Thun.$B$BHij weet dat je komt, kampioen, en met jou komt de macht van Kalimdor. Je hoeft me alleen te laten weten wanneer je klaar bent, dan geef ik je de Scepter of the Shifting Sands.",
+   "c": "De Scepter of the Shifting Sands is weer heel, $N.$B$BJij moet degene zijn die de scepter gebruikt. Jij moet degene zijn die het volgende tijdperk van jouw volk aankondigt.$B$BJe moet wachten tot de legers van de Horde en de Alliance in Silithus aankomen, voordat je de Scarab Gong mag luiden.",
+   "g": [
+    [
+     "verstreken",
+     "passed (verstrijken)"
+    ],
+    [
+     "voorbestemd",
+     "fated, destined"
+    ],
+    [
+     "tijdperk",
+     "age, era"
+    ],
+    [
+     "beeft",
+     "trembles (beven)"
+    ],
+    [
+     "vreest",
+     "fears (vrezen)"
+    ],
+    [
+     "verbrijzel",
+     "shatter (verbrijzelen)"
+    ],
+    [
+     "profetie",
+     "prophecy"
+    ],
+    [
+     "kampioen",
+     "champion"
+    ],
+    [
+     "heel",
+     "whole"
+    ],
+    [
+     "aankondigt",
+     "heralds, announces (aankondigen)"
+    ],
+    [
+     "luiden",
+     "to ring"
+    ]
+   ]
+  },
+  "8747": {
+   "t": "Het pad van de beschermer",
+   "c": "Indrukwekkend, kleintje. Je hebt veel moeite gedaan om de gunst van de Bronze Flight te winnen. Je toewijding is opgemerkt.$b$bDe zegelring van de beschermer biedt uitstekende bescherming tegen de krachten van het kwaad.$b$bWees gewaarschuwd: als je eenmaal je pad hebt gekozen, kun je niets meer doen als je van gedachten verandert.",
+   "g": [
+    [
+     "indrukwekkend",
+     "impressive"
+    ],
+    [
+     "kleintje",
+     "little one"
+    ],
+    [
+     "gunst",
+     "favour"
+    ],
+    [
+     "toewijding",
+     "dedication"
+    ],
+    [
+     "opgemerkt",
+     "noted (opmerken)"
+    ],
+    [
+     "zegelring",
+     "signet ring"
+    ],
+    [
+     "wees gewaarschuwd",
+     "be warned"
+    ],
+    [
+     "van gedachten verandert",
+     "change your mind (van gedachten veranderen)"
+    ],
+    [
+     "bescherming",
+     "protection"
+    ],
+    [
+     "beschermer",
+     "protector"
+    ]
+   ]
+  },
+  "8748": {
+   "t": "Het pad van de beschermer",
+   "p": "Dat je de kinderen van Kalimdor blijft verdedigen, is niet onopgemerkt gebleven. Geef me je zegelring, zodat ik zijn krachten kan versterken.",
+   "c": "Je opkomst binnen de rangen van de Brood is zeer indrukwekkend, $n. Moge je nooit afwijken van het pad van de beschermer!",
+   "g": [
+    [
+     "onopgemerkt",
+     "unnoticed"
+    ],
+    [
+     "verdedigen",
+     "to defend"
+    ],
+    [
+     "zegelring",
+     "signet ring"
+    ],
+    [
+     "versterken",
+     "to enhance, strengthen"
+    ],
+    [
+     "opkomst",
+     "rise"
+    ],
+    [
+     "rangen",
+     "ranks (rang)"
+    ],
+    [
+     "moge",
+     "may (wish)"
+    ],
+    [
+     "afwijken",
+     "to stray, deviate"
+    ],
+    [
+     "beschermer",
+     "protector"
+    ]
+   ]
+  },
+  "8749": {
+   "t": "Het pad van de beschermer",
+   "p": "Je eert mijn soort, $N. Versla de vijanden van Kalimdor! Laat ze zien wat het betekent om het land van het eeuwige sterrenlicht te ontheiligen.$b$bJe hebt nog een versterking verdiend. Geef me je zegelring, zodat ik zijn kracht kan vergroten.",
+   "c": "Je opkomst binnen de rangen van de Brood is zeer indrukwekkend, $n. Moge je nooit afwijken van het pad van de beschermer!",
+   "g": [
+    [
+     "eert",
+     "honour (eren)"
+    ],
+    [
+     "versla",
+     "strike down, defeat (verslaan)"
+    ],
+    [
+     "sterrenlicht",
+     "starlight"
+    ],
+    [
+     "ontheiligen",
+     "to deface, desecrate"
+    ],
+    [
+     "versterking",
+     "enhancement"
+    ],
+    [
+     "vergroten",
+     "to increase, bolster"
+    ],
+    [
+     "zegelring",
+     "signet ring"
+    ],
+    [
+     "opkomst",
+     "rise"
+    ],
+    [
+     "afwijken",
+     "to stray, deviate"
+    ],
+    [
+     "beschermer",
+     "protector"
+    ]
+   ]
+  },
+  "8750": {
+   "t": "Het pad van de beschermer",
+   "p": "Toewijding van deze omvang is zeldzaam. Je hebt laten zien dat je wil onwankelbaar is, $N. Je wordt rijk beloond omdat je zo trouw over onze wereld hebt gewaakt.$b$bGeef me je zegelring, zodat ik zijn betovering kan versterken.",
+   "c": "Je opkomst binnen de rangen van de Brood is zeer indrukwekkend, $n. Moge je nooit afwijken van het pad van de beschermer!",
+   "g": [
+    [
+     "omvang",
+     "magnitude, size"
+    ],
+    [
+     "onwankelbaar",
+     "unfaltering, unshakeable"
+    ],
+    [
+     "beloond",
+     "rewarded (belonen)"
+    ],
+    [
+     "gewaakt",
+     "watched over (waken)"
+    ],
+    [
+     "betovering",
+     "enchantment"
+    ],
+    [
+     "zegelring",
+     "signet ring"
+    ],
+    [
+     "opkomst",
+     "rise"
+    ],
+    [
+     "afwijken",
+     "to stray, deviate"
+    ],
+    [
+     "beschermer",
+     "protector"
+    ]
+   ]
+  },
+  "8751": {
+   "t": "De beschermer van Kalimdor",
+   "p": "Nog nooit heb ik zo'n volharding gezien! De Bronze Flight schenkt je een laatste betovering. De Timeless One heeft er zelf om gevraagd!$b$bGeef me je zegelring, zodat ik de nodige aanpassingen kan doen.",
+   "c": "Sta op, beschermer van Kalimdor! Sta op en word erkend!",
+   "g": [
+    [
+     "volharding",
+     "tenacity, perseverance"
+    ],
+    [
+     "schenkt",
+     "grants (schenken)"
+    ],
+    [
+     "betovering",
+     "enchantment"
+    ],
+    [
+     "aanpassingen",
+     "adjustments (aanpassing)"
+    ],
+    [
+     "zegelring",
+     "signet ring"
+    ],
+    [
+     "erkend",
+     "recognised (erkennen)"
+    ],
+    [
+     "beschermer",
+     "protector"
+    ]
+   ]
+  },
+  "8752": {
+   "t": "Het pad van de veroveraar",
+   "c": "Indrukwekkend, kleintje. Je hebt veel moeite gedaan om de gunst van de Bronze Flight te winnen. Je toewijding is opgemerkt.$b$bDe zegelring van de veroveraar versterkt je fysieke aanvallen enorm.$b$bWees gewaarschuwd: als je eenmaal je pad hebt gekozen, kun je niets meer doen als je van gedachten verandert.",
+   "g": [
+    [
+     "indrukwekkend",
+     "impressive"
+    ],
+    [
+     "kleintje",
+     "little one"
+    ],
+    [
+     "gunst",
+     "favour"
+    ],
+    [
+     "toewijding",
+     "dedication"
+    ],
+    [
+     "opgemerkt",
+     "noted (opmerken)"
+    ],
+    [
+     "zegelring",
+     "signet ring"
+    ],
+    [
+     "wees gewaarschuwd",
+     "be warned"
+    ],
+    [
+     "van gedachten verandert",
+     "change your mind (van gedachten veranderen)"
+    ],
+    [
+     "fysieke",
+     "physical (fysiek)"
+    ],
+    [
+     "veroveraar",
+     "conqueror"
+    ]
+   ]
+  },
+  "8753": {
+   "t": "Het pad van de veroveraar",
+   "p": "Dat je de kinderen van Kalimdor blijft verdedigen, is niet onopgemerkt gebleven. Geef me je zegelring, zodat ik zijn krachten kan versterken.",
+   "c": "Je opkomst binnen de rangen van de Brood is zeer indrukwekkend, $n. Moge je nooit afwijken van het pad van de veroveraar!",
+   "g": [
+    [
+     "onopgemerkt",
+     "unnoticed"
+    ],
+    [
+     "verdedigen",
+     "to defend"
+    ],
+    [
+     "zegelring",
+     "signet ring"
+    ],
+    [
+     "versterken",
+     "to enhance, strengthen"
+    ],
+    [
+     "opkomst",
+     "rise"
+    ],
+    [
+     "rangen",
+     "ranks (rang)"
+    ],
+    [
+     "moge",
+     "may (wish)"
+    ],
+    [
+     "afwijken",
+     "to stray, deviate"
+    ],
+    [
+     "veroveraar",
+     "conqueror"
+    ]
+   ]
+  },
+  "8754": {
+   "t": "Het pad van de veroveraar",
+   "p": "Je eert mijn soort, $N. Versla de vijanden van Kalimdor! Laat ze zien wat het betekent om het land van het eeuwige sterrenlicht te ontheiligen.$b$bJe hebt nog een versterking verdiend. Geef me je zegelring, zodat ik zijn kracht kan vergroten.",
+   "c": "Je opkomst binnen de rangen van de Brood is zeer indrukwekkend, $n. Moge je nooit afwijken van het pad van de veroveraar!",
+   "g": [
+    [
+     "eert",
+     "honour (eren)"
+    ],
+    [
+     "versla",
+     "strike down, defeat (verslaan)"
+    ],
+    [
+     "sterrenlicht",
+     "starlight"
+    ],
+    [
+     "ontheiligen",
+     "to deface, desecrate"
+    ],
+    [
+     "versterking",
+     "enhancement"
+    ],
+    [
+     "vergroten",
+     "to increase, bolster"
+    ],
+    [
+     "zegelring",
+     "signet ring"
+    ],
+    [
+     "opkomst",
+     "rise"
+    ],
+    [
+     "afwijken",
+     "to stray, deviate"
+    ],
+    [
+     "veroveraar",
+     "conqueror"
+    ]
+   ]
+  },
+  "8755": {
+   "t": "Het pad van de veroveraar",
+   "p": "Toewijding van deze omvang is zeldzaam. Je hebt laten zien dat je wil onwankelbaar is, $N. Je wordt rijk beloond omdat je zo trouw over onze wereld hebt gewaakt.$b$bGeef me je zegelring, zodat ik zijn betovering kan versterken.",
+   "c": "Je opkomst binnen de rangen van de Brood is zeer indrukwekkend, $n. Moge je nooit afwijken van het pad van de veroveraar!",
+   "g": [
+    [
+     "omvang",
+     "magnitude, size"
+    ],
+    [
+     "onwankelbaar",
+     "unfaltering, unshakeable"
+    ],
+    [
+     "beloond",
+     "rewarded (belonen)"
+    ],
+    [
+     "gewaakt",
+     "watched over (waken)"
+    ],
+    [
+     "betovering",
+     "enchantment"
+    ],
+    [
+     "zegelring",
+     "signet ring"
+    ],
+    [
+     "opkomst",
+     "rise"
+    ],
+    [
+     "afwijken",
+     "to stray, deviate"
+    ],
+    [
+     "veroveraar",
+     "conqueror"
+    ]
+   ]
+  },
+  "8756": {
+   "t": "De Qiraji-veroveraar",
+   "p": "Nog nooit heb ik zo'n volharding gezien! De Bronze Flight schenkt je een laatste betovering. De Timeless One heeft er zelf om gevraagd!$b$bGeef me je zegelring, zodat ik de nodige aanpassingen kan doen.",
+   "c": "Sta op, Qiraji-veroveraar! Sta op en word erkend!",
+   "g": [
+    [
+     "volharding",
+     "tenacity, perseverance"
+    ],
+    [
+     "schenkt",
+     "grants (schenken)"
+    ],
+    [
+     "betovering",
+     "enchantment"
+    ],
+    [
+     "aanpassingen",
+     "adjustments (aanpassing)"
+    ],
+    [
+     "zegelring",
+     "signet ring"
+    ],
+    [
+     "erkend",
+     "recognised (erkennen)"
+    ],
+    [
+     "veroveraar",
+     "conqueror"
+    ]
+   ]
+  },
+  "8757": {
+   "t": "Het pad van de bezweerder",
+   "c": "Indrukwekkend, kleintje. Je hebt veel moeite gedaan om de gunst van de Bronze Flight te winnen. Je toewijding is opgemerkt.$b$bDe zegelring van de bezweerder versterkt je magische en natuurlijke vermogens enorm.$b$bWees gewaarschuwd: als je eenmaal je pad hebt gekozen, kun je niets meer doen als je van gedachten verandert.",
+   "g": [
+    [
+     "indrukwekkend",
+     "impressive"
+    ],
+    [
+     "kleintje",
+     "little one"
+    ],
+    [
+     "gunst",
+     "favour"
+    ],
+    [
+     "toewijding",
+     "dedication"
+    ],
+    [
+     "opgemerkt",
+     "noted (opmerken)"
+    ],
+    [
+     "zegelring",
+     "signet ring"
+    ],
+    [
+     "wees gewaarschuwd",
+     "be warned"
+    ],
+    [
+     "van gedachten verandert",
+     "change your mind (van gedachten veranderen)"
+    ],
+    [
+     "vermogens",
+     "abilities (vermogen)"
+    ],
+    [
+     "bezweerder",
+     "invoker"
+    ]
+   ]
+  },
+  "8758": {
+   "t": "Het pad van de bezweerder",
+   "p": "Dat je de kinderen van Kalimdor blijft verdedigen, is niet onopgemerkt gebleven. Geef me je zegelring, zodat ik zijn krachten kan versterken.",
+   "c": "Je opkomst binnen de rangen van de Brood is zeer indrukwekkend, $n. Moge je nooit afwijken van het pad van de bezweerder!",
+   "g": [
+    [
+     "onopgemerkt",
+     "unnoticed"
+    ],
+    [
+     "verdedigen",
+     "to defend"
+    ],
+    [
+     "zegelring",
+     "signet ring"
+    ],
+    [
+     "versterken",
+     "to enhance, strengthen"
+    ],
+    [
+     "opkomst",
+     "rise"
+    ],
+    [
+     "rangen",
+     "ranks (rang)"
+    ],
+    [
+     "moge",
+     "may (wish)"
+    ],
+    [
+     "afwijken",
+     "to stray, deviate"
+    ],
+    [
+     "bezweerder",
+     "invoker"
+    ]
+   ]
+  },
+  "8759": {
+   "t": "Het pad van de bezweerder",
+   "p": "Je eert mijn soort, $N. Versla de vijanden van Kalimdor! Laat ze zien wat het betekent om het land van het eeuwige sterrenlicht te ontheiligen.$b$bJe hebt nog een versterking verdiend. Geef me je zegelring, zodat ik zijn kracht kan vergroten.",
+   "c": "Je opkomst binnen de rangen van de Brood is zeer indrukwekkend, $n. Moge je nooit afwijken van het pad van de bezweerder!",
+   "g": [
+    [
+     "eert",
+     "honour (eren)"
+    ],
+    [
+     "versla",
+     "strike down, defeat (verslaan)"
+    ],
+    [
+     "sterrenlicht",
+     "starlight"
+    ],
+    [
+     "ontheiligen",
+     "to deface, desecrate"
+    ],
+    [
+     "versterking",
+     "enhancement"
+    ],
+    [
+     "vergroten",
+     "to increase, bolster"
+    ],
+    [
+     "zegelring",
+     "signet ring"
+    ],
+    [
+     "opkomst",
+     "rise"
+    ],
+    [
+     "afwijken",
+     "to stray, deviate"
+    ],
+    [
+     "bezweerder",
+     "invoker"
+    ]
+   ]
+  },
+  "8760": {
+   "t": "Het pad van de bezweerder",
+   "p": "Toewijding van deze omvang is zeldzaam. Je hebt laten zien dat je wil onwankelbaar is, $N. Je wordt rijk beloond omdat je zo trouw over onze wereld hebt gewaakt.$b$bGeef me je zegelring, zodat ik zijn betovering kan versterken.",
+   "c": "Je opkomst binnen de rangen van de Brood is zeer indrukwekkend, $n. Moge je nooit afwijken van het pad van de bezweerder!",
+   "g": [
+    [
+     "omvang",
+     "magnitude, size"
+    ],
+    [
+     "onwankelbaar",
+     "unfaltering, unshakeable"
+    ],
+    [
+     "beloond",
+     "rewarded (belonen)"
+    ],
+    [
+     "gewaakt",
+     "watched over (waken)"
+    ],
+    [
+     "betovering",
+     "enchantment"
+    ],
+    [
+     "zegelring",
+     "signet ring"
+    ],
+    [
+     "opkomst",
+     "rise"
+    ],
+    [
+     "afwijken",
+     "to stray, deviate"
+    ],
+    [
+     "bezweerder",
+     "invoker"
+    ]
+   ]
+  },
+  "8761": {
+   "t": "De grote bezweerder",
+   "p": "Nog nooit heb ik zo'n volharding gezien! De Bronze Flight schenkt je een laatste betovering. De Timeless One heeft er zelf om gevraagd!$b$bGeef me je zegelring, zodat ik de nodige aanpassingen kan doen.",
+   "c": "Sta op, grote bezweerder! Sta op en word erkend!",
+   "g": [
+    [
+     "volharding",
+     "tenacity, perseverance"
+    ],
+    [
+     "schenkt",
+     "grants (schenken)"
+    ],
+    [
+     "betovering",
+     "enchantment"
+    ],
+    [
+     "aanpassingen",
+     "adjustments (aanpassing)"
+    ],
+    [
+     "zegelring",
+     "signet ring"
+    ],
+    [
+     "erkend",
+     "recognised (erkennen)"
+    ],
+    [
+     "bezweerder",
+     "invoker"
+    ]
+   ]
+  },
+  "8921": {
+   "t": "De Ectoplasmic Distiller",
+   "d": "Ah, je hebt mijn nieuwste project nodig... de extradimensionale geestenonthuller! Helaas heb ik geen geld en geen mankracht meer.$B$BWil je helpen? Uitstekend! Onze eerste taak is een apparaat bouwen om de stof van de dood zelf te oogsten! Een ectoplasma-distilleerder bouwen wordt geen makkelijke taak, $N.$B$BIk heb van je nodig: een arcanite-omvormer, wat grote eeuwige essenties en stonescale-olie. Ik heb ook wat vulkanische as nodig uit de lavapoelen in de Burning Steppes, om een filter te bouwen.",
+   "o": "Keer terug naar Mux Manascrambler in Gadgetzan met 1 Delicate Arcanite Converter, 4 Greater Eternal Essence, 10 Stonescale Oil, 25 Volcanic Ash en 40 goud.",
+   "p": "Ik begrijp dat de materialen wat aan de dure kant zijn... maar ik beloof je dat elk ervan nodig zal zijn!",
+   "c": "Dit zijn precies de materialen die ik nodig had. En ook nog precies op tijd, $N!$B$BOver een paar ogenblikken is je distilleerder klaar voor gebruik! Neem dit intussen als beloning, omdat je me met mijn project hebt geholpen.",
+   "g": [
+    [
+     "extradimensionale",
+     "extra-dimensional"
+    ],
+    [
+     "geestenonthuller",
+     "ghost revealer"
+    ],
+    [
+     "mankracht",
+     "manpower"
+    ],
+    [
+     "apparaat",
+     "device"
+    ],
+    [
+     "stof",
+     "fabric, substance"
+    ],
+    [
+     "oogsten",
+     "to harvest"
+    ],
+    [
+     "distilleerder",
+     "distiller"
+    ],
+    [
+     "omvormer",
+     "converter"
+    ],
+    [
+     "eeuwige",
+     "eternal (eeuwig)"
+    ],
+    [
+     "essenties",
+     "essences (essentie)"
+    ],
+    [
+     "vulkanische as",
+     "volcanic ash"
+    ],
+    [
+     "lavapoelen",
+     "lava pools (lavapoel)"
+    ],
+    [
+     "aan de dure kant",
+     "a bit pricey"
+    ],
+    [
+     "ogenblikken",
+     "moments (ogenblik)"
+    ],
+    [
+     "intussen",
+     "in the meantime"
+    ]
+   ]
+  },
+  "8922": {
+   "t": "Een bovennatuurlijk apparaat",
+   "d": "Ik moet een manier vinden om met Anthion Harmon te spreken... of beter gezegd, met zijn geest!$B$BIk ken een ingenieur met een vreemde belangstelling voor het bovennatuurlijke. Hij beweert dat hij een machine kan bouwen waarmee hij met de doden kan spreken!$B$BHet bloed dat je hebt verzameld, was voor hem bedoeld. Reis naar Gadgetzan en breng het naar hem, als betaling voor zijn diensten!",
+   "o": "Breng de Sealed Blood Container naar Mux Manascrambler in Gadgetzan in Tanaris.",
+   "p": "Heb je iets voor me?",
+   "c": "Uitstekend! Net nu ik bijna niets meer had!$B$BZeg je dat Deliana je heeft gestuurd?",
+   "g": [
+    [
+     "bovennatuurlijk",
+     "supernatural"
+    ],
+    [
+     "bovennatuurlijke",
+     "supernatural"
+    ],
+    [
+     "beter gezegd",
+     "more specifically"
+    ],
+    [
+     "ingenieur",
+     "engineer"
+    ],
+    [
+     "belangstelling",
+     "interest"
+    ],
+    [
+     "beweert",
+     "claims (beweren)"
+    ],
+    [
+     "bedoeld",
+     "intended (bedoelen)"
+    ],
+    [
+     "betaling",
+     "payment"
+    ],
+    [
+     "diensten",
+     "services (dienst)"
+    ]
+   ]
+  },
+  "8924": {
+   "t": "Op jacht naar ectoplasma",
+   "d": "Een prachtig stuk techniek, al zeg ik het zelf! Je zult helaas een beetje moeten reizen om de onstoffelijke ondoden te vinden die we nodig hebben.$B$BZie je, verschillende klimaten geven de geestelijke stof van de doden een andere dikte. De gekwelde nachtelfen van Silithus, de geesten van de highborne uit Winterspring en de spoken en banshees van de Eastern Plaguelands zouden ons de verschillende soorten ectoplasma moeten geven die we nodig hebben. Zorg dat je de distilleerder in de buurt neerzet, voordat je ze oogst!",
+   "o": "Gebruik de Ectoplasmic Distiller bij onstoffelijke ondoden om 12 Scorched Ectoplasms in Silithus, 12 Frozen Ectoplasms in Winterspring en 12 Stable Ectoplasms in de Eastern Plaguelands te verzamelen. Breng ze samen met de Ectoplasmic Distiller terug naar Mux Manascrambler in Gadgetzan.",
+   "p": "Heb je het ectoplasma al verzameld, $R?",
+   "c": "Ja, deze zijn prima!$B$BDoor de bovenaardse energie in deze stoffen te gebruiken, kunnen we contact zoeken met hen van wie de ziel deze wereld nog niet helemaal heeft verlaten!",
+   "g": [
+    [
+     "techniek",
+     "engineering"
+    ],
+    [
+     "al zeg ik het zelf",
+     "if I do say so myself"
+    ],
+    [
+     "onstoffelijke",
+     "incorporeal (onstoffelijk)"
+    ],
+    [
+     "ondoden",
+     "undead (ondode)"
+    ],
+    [
+     "klimaten",
+     "climates (klimaat)"
+    ],
+    [
+     "geestelijke",
+     "spectral, spiritual (geestelijk)"
+    ],
+    [
+     "dikte",
+     "consistency, thickness"
+    ],
+    [
+     "gekwelde",
+     "tortured (kwellen)"
+    ],
+    [
+     "spoken",
+     "ghosts (spook)"
+    ],
+    [
+     "oogst",
+     "harvest (oogsten)"
+    ],
+    [
+     "bovenaardse",
+     "otherworldly (bovenaards)"
+    ],
+    [
+     "stoffen",
+     "substances (stof)"
+    ],
+    [
+     "ziel",
+     "soul"
+    ]
+   ]
+  }
+ },
+ "words": {
+  "arcanite-omvormer": "arcanite converter (omvormer)",
+  "arrogantie": "arrogance",
+  "banshees": "banshees, wailing female spirits (banshee)",
+  "bok": "goat, billy goat",
+  "chimaerok-haasjes": "chimaerok tenderloins (haasje)",
+  "deeprock-zout": "deeprock salt (zout)",
+  "dirges": "Dirge's",
+  "ectoplasma": "ectoplasm",
+  "ectoplasma-distilleerder": "ectoplasm distiller",
+  "elementium-erts": "elementium ore (erts)",
+  "ex-b": "ex-B(FF)",
+  "ex-beste-vriend-voor-altijd": "ex-best-friend-forever",
+  "filter": "filter",
+  "gespeeld": "played (spelen)",
+  "krabt": "scratches (krabben)",
+  "lavameer": "lava lake",
+  "narains": "Narain's",
+  "neergestorte": "crashed (neerstorten)",
+  "neerlegt": "put down, place (neerleggen)",
+  "neerzet": "put down, place (neerzetten)",
+  "negeert": "ignores (negeren)",
+  "parttime": "part-time",
+  "pieten": "bigwigs (in: hoge pieten)",
+  "presenteer": "present (presenteren)",
+  "qiraji-veroveraar": "Qiraji conqueror (veroveraar)",
+  "redde": "rescued, saved (redden)",
+  "stonescale-olie": "stonescale oil (olie)",
+  "super-gnomische": "super-gnomish (gnomisch)",
+  "terugpakt": "take back (terugpakken)",
+  "til": "lift, tip (tillen; in: optillen)",
+  "trollenwereld": "troll world",
+  "vijfhonderd": "five hundred",
+  "vulkanische": "volcanic (vulkanisch)"
+ },
+ "terms": {
+  "draconisch": "Draconic: the language of the dragons in the Warcraft world",
+  "muzzledorf": "a made-up gadget word Narain uses to show off (nonsense)"
+ }
+}
