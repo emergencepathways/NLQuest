@@ -1,0 +1,1346 @@
+{
+ "quests": {
+  "6065": {
+   "t": "Het pad van de jager",
+   "d": "Hallo, jonge jager. Je ziet eruit alsof je goed genoeg bent om een beest aan te kunnen en het te trainen als je metgezel.$B$BJe moet naar Yaw Sharpmane in Bloodhoof Village gaan. Hij kan je op weg helpen om een eigen huisdier te verdienen.",
+   "o": "Praat met Yaw Sharpmane in Bloodhoof Village.",
+   "c": "Ja, ik denk echt dat je klaar bent...",
+   "g": [
+    [
+     "ziet eruit",
+     "look, seem (eruitzien)"
+    ],
+    [
+     "aan te kunnen",
+     "to be able to handle (aankunnen)"
+    ],
+    [
+     "metgezel",
+     "companion"
+    ],
+    [
+     "op weg helpen",
+     "help get started"
+    ],
+    [
+     "huisdier",
+     "pet"
+    ],
+    [
+     "verdienen",
+     "earn"
+    ]
+   ]
+  },
+  "6066": {
+   "t": "Het pad van de jager",
+   "d": "Hallo, jonge jager. Je ziet eruit alsof je goed genoeg bent om een beest aan te kunnen en het te trainen als je metgezel.$B$BJe moet naar Yaw Sharpmane in Bloodhoof Village gaan. Hij kan je op weg helpen om een eigen huisdier te verdienen.",
+   "o": "Praat met Yaw Sharpmane in Bloodhoof Village.",
+   "c": "Ja, ik denk echt dat je klaar bent...",
+   "g": [
+    [
+     "ziet eruit",
+     "look, seem (eruitzien)"
+    ],
+    [
+     "aan te kunnen",
+     "to be able to handle (aankunnen)"
+    ],
+    [
+     "metgezel",
+     "companion"
+    ],
+    [
+     "op weg helpen",
+     "help get started"
+    ],
+    [
+     "huisdier",
+     "pet"
+    ],
+    [
+     "verdienen",
+     "earn"
+    ]
+   ]
+  },
+  "6067": {
+   "t": "Het pad van de jager",
+   "d": "Hallo, jonge jager. Je ziet eruit alsof je goed genoeg bent om een beest aan te kunnen en het te trainen als je metgezel.$B$BJe moet naar Yaw Sharpmane in Bloodhoof Village gaan. Hij kan je op weg helpen om een eigen huisdier te verdienen.",
+   "o": "Praat met Yaw Sharpmane in Bloodhoof Village.",
+   "c": "Ja, ik denk echt dat je klaar bent...",
+   "g": [
+    [
+     "ziet eruit",
+     "look, seem (eruitzien)"
+    ],
+    [
+     "aan te kunnen",
+     "to be able to handle (aankunnen)"
+    ],
+    [
+     "metgezel",
+     "companion"
+    ],
+    [
+     "op weg helpen",
+     "help get started"
+    ],
+    [
+     "huisdier",
+     "pet"
+    ],
+    [
+     "verdienen",
+     "earn"
+    ]
+   ]
+  },
+  "6068": {
+   "t": "Het pad van de jager",
+   "d": "Hallo, jonge jager. Je ziet eruit alsof je goed genoeg bent om een beest aan te kunnen en het te trainen als je metgezel.$B$BJe moet naar Thotar in Razor Hill gaan. Hij kan je op weg helpen om een eigen huisdier te verdienen.",
+   "o": "Praat met Thotar in Razor Hill.",
+   "c": "Ja, het is tijd om met je training te beginnen.",
+   "g": [
+    [
+     "ziet eruit",
+     "look, seem (eruitzien)"
+    ],
+    [
+     "aan te kunnen",
+     "to be able to handle (aankunnen)"
+    ],
+    [
+     "metgezel",
+     "companion"
+    ],
+    [
+     "op weg helpen",
+     "help get started"
+    ],
+    [
+     "huisdier",
+     "pet"
+    ],
+    [
+     "verdienen",
+     "earn"
+    ],
+    [
+     "training",
+     "training"
+    ]
+   ]
+  },
+  "6069": {
+   "t": "Het pad van de jager",
+   "d": "Hallo, jonge jager. Je ziet eruit alsof je goed genoeg bent om een beest aan te kunnen en het te trainen als je metgezel.$B$BJe moet naar Thotar in Razor Hill gaan. Hij kan je op weg helpen om een eigen huisdier te verdienen.",
+   "o": "Praat met Thotar in Razor Hill.",
+   "c": "Ja, het is tijd om met je training te beginnen.",
+   "g": [
+    [
+     "ziet eruit",
+     "look, seem (eruitzien)"
+    ],
+    [
+     "aan te kunnen",
+     "to be able to handle (aankunnen)"
+    ],
+    [
+     "metgezel",
+     "companion"
+    ],
+    [
+     "op weg helpen",
+     "help get started"
+    ],
+    [
+     "huisdier",
+     "pet"
+    ],
+    [
+     "verdienen",
+     "earn"
+    ],
+    [
+     "training",
+     "training"
+    ]
+   ]
+  },
+  "6070": {
+   "t": "Het pad van de jager",
+   "d": "Hallo, jonge jager. Je ziet eruit alsof je goed genoeg bent om een beest aan te kunnen en het te trainen als je metgezel.$B$BJe moet naar Thotar in Razor Hill gaan. Hij kan je op weg helpen om een eigen huisdier te verdienen.",
+   "o": "Praat met Thotar in Razor Hill.",
+   "c": "Ja, het is tijd om met je training te beginnen.",
+   "g": [
+    [
+     "ziet eruit",
+     "look, seem (eruitzien)"
+    ],
+    [
+     "aan te kunnen",
+     "to be able to handle (aankunnen)"
+    ],
+    [
+     "metgezel",
+     "companion"
+    ],
+    [
+     "op weg helpen",
+     "help get started"
+    ],
+    [
+     "huisdier",
+     "pet"
+    ],
+    [
+     "verdienen",
+     "earn"
+    ],
+    [
+     "training",
+     "training"
+    ]
+   ]
+  },
+  "3082": {
+   "t": "Gegraveerde tablet",
+   "d": "Ah, terwijl je weg was, is er een tablet voor je gekomen, $N.$B$BLees hem als je tijd hebt. Als ik me niet vergis, komt hij van de jagerstrainer Jen'shan. Ze wil met je praten als je klaar bent.",
+   "o": "Praat met Jen'shan in de Valley of Trials.",
+   "p": "Jen'shan ziet een machtige $C voor zich, en de geesten zijn tevreden.$b$bHet pad van de $C is een van onze oudste manieren van leven. De Horde kwam naar ons toen ze nog vochten om te overleven op Azeroth. Ze vroegen ons om hen te onderwijzen, om hun de geheimen van veel dingen te laten zien. Ze waren al sterk: sterk op de manier van de $C; sterk op de manier van de $C. Maar het pad van de $C was niet hun pad... toen nog niet.",
+   "c": "Nu leren wij hun die dingen, en zij leren ons andere dingen. We worden één volk... bijna. We zijn al lang bondgenoten. Dus vergeet niet om hen te helpen. En Jen'shan vergeet niet om jou te helpen.$b$bJen'shan leert je de wegen van de $C. Ze leert het je goed. Vergeet nooit: de stam heeft veel respect voor een $C. Jij krijgt een grote rol in de toekomst... vergeet dat nooit.$b$bAls je het nodig hebt, kom dan naar Jen'shan. Ze leert je zoveel als ze kan, wanneer ze voelt dat je klaar bent.",
+   "g": [
+    [
+     "gegraveerde",
+     "etched, engraved (gegraveerd)"
+    ],
+    [
+     "vergis",
+     "am mistaken (zich vergissen)"
+    ],
+    [
+     "jagerstrainer",
+     "hunter trainer"
+    ],
+    [
+     "geesten",
+     "spirits (geest)"
+    ],
+    [
+     "overleven",
+     "survive"
+    ],
+    [
+     "onderwijzen",
+     "teach"
+    ],
+    [
+     "geheimen",
+     "secrets (geheim)"
+    ],
+    [
+     "bondgenoten",
+     "allies (bondgenoot)"
+    ],
+    [
+     "stam",
+     "tribe"
+    ],
+    [
+     "respect",
+     "respect"
+    ],
+    [
+     "toekomst",
+     "future"
+    ]
+   ]
+  },
+  "3087": {
+   "t": "Gegraveerd perkament",
+   "d": "Ah, terwijl je weg was, is er een perkament voor je gekomen, $N.$B$BLees het als je tijd hebt. Als ik me niet vergis, komt het van de jagerstrainer Jen'shan. Ze wil met je praten als je klaar bent.",
+   "o": "Lees het Etched Parchment en praat met Jen'shan in de Valley of Trials.",
+   "p": "Ah, dus je komt eindelijk. Goed. Jen'shan wacht op je.$B$BVeel mensen denken dat het een makkelijk pad is, maar Jen'shan zegt je: dat is niet waar. De dieren van Durotar en verder beheersen vraagt net zoveel vaardigheid als de arcane kunsten beheersen of met onze voorouders praten.$B$BSchieten met een boog of geweer is voor jou misschien niet zo gevaarlijk als een spreuk uitspreken. Maar voor je vijand is het zeker net zo gevaarlijk.",
+   "c": "Als we klaar zijn met praten, moet je met de andere bewoners van de Valley praten. Ze vragen je om dingen voor hen te doen... dingen die je vaardigheid testen en je een paar gevaren van dit land leren.$B$BAls je groeit in ervaring en wijsheid, heb je Jen'shan nodig om je betere technieken en vaardigheden te laten zien. Kom vaak terug naar Jen'shan. Ik laat je weten wat ik je kan leren.",
+   "g": [
+    [
+     "perkament",
+     "parchment"
+    ],
+    [
+     "eindelijk",
+     "at last"
+    ],
+    [
+     "beheersen",
+     "master, control"
+    ],
+    [
+     "vaardigheid",
+     "skill"
+    ],
+    [
+     "arcane kunsten",
+     "arcane arts"
+    ],
+    [
+     "voorouders",
+     "ancestors (voorouder)"
+    ],
+    [
+     "geweer",
+     "rifle, gun"
+    ],
+    [
+     "spreuk",
+     "spell"
+    ],
+    [
+     "bewoners",
+     "inhabitants (bewoner)"
+    ],
+    [
+     "gevaren",
+     "dangers (gevaar)"
+    ],
+    [
+     "wijsheid",
+     "wisdom"
+    ]
+   ]
+  },
+  "3092": {
+   "t": "Gegraveerd briefje",
+   "d": "Een moment geleden zocht een boodschapper naar je, $N. Ik denk dat de jagerstrainer Lanka haar heeft gestuurd. Als dit briefje van Lanka komt, zou ik het snel lezen.$b",
+   "o": "Lees de Etched Note en praat met Lanka Farshot in Red Cloud Mesa.",
+   "p": "Welkom in Camp Narache, $N. Ik hoor goede dingen over je. Je bloedlijn is sterk, en veel van de oudsten vinden je nu al vaardig. Maar dat gaan we testen.$B$BDe vlaktes van Mulgore zijn een tijd lang je thuis. Je moet je best doen om ze heel goed te leren kennen. Op een dag reis je naar onbekende landen om grotere vaardigheden te leren. Je moet klaar zijn.",
+   "c": "En het is mijn taak om ervoor te zorgen dat je voorbereid bent. Ik leer je de basis van ons vak: hoe je je huisdier temt, hoe je met je geweer schiet, en veel andere vaardigheden die je nodig zult hebben.$b$bJagers zijn een sterk deel van onze traditie en geschiedenis, $N. Onthoud goed hoe belangrijk je bent voor de stam. Men zal je respecteren en vereren als je ons volk goed dient.",
+   "g": [
+    [
+     "boodschapper",
+     "messenger"
+    ],
+    [
+     "briefje",
+     "note"
+    ],
+    [
+     "bloedlijn",
+     "bloodline"
+    ],
+    [
+     "oudsten",
+     "elders (oudste)"
+    ],
+    [
+     "vaardig",
+     "skilled"
+    ],
+    [
+     "vlaktes",
+     "plains (vlakte)"
+    ],
+    [
+     "onbekende",
+     "unfamiliar (onbekend)"
+    ],
+    [
+     "voorbereid",
+     "prepared (voorbereiden)"
+    ],
+    [
+     "vak",
+     "profession, trade"
+    ],
+    [
+     "temt",
+     "tame (temmen)"
+    ],
+    [
+     "vereren",
+     "revere"
+    ],
+    [
+     "dient",
+     "serve (dienen)"
+    ]
+   ]
+  },
+  "6061": {
+   "t": "Het beest temmen",
+   "d": "Als tauren is het belangrijk om de tradities van onze voorouders te volgen door tegen machtige wezens te vechten. Als we deze wezens verslaan, kunnen we hun geest in ons opnemen. Zo komen we dichter bij de Earthmother.$B$BOp dezelfde manier helpt het temmen van een beest dat naast ons vecht ons om één te worden met de natuur om ons heen. Later leer je een beest naar keuze te temmen. Maar alles vraagt oefening, en je moet nog veel leren. Begin met deze Taming Rod. Je moet een Adult Plainstrider temmen.",
+   "o": "Gebruik de Taming Rod om een Adult Plainstrider te temmen. Oefen je vaardigheden en breng de Taming Rod dan terug naar Yaw Sharpmane in Bloodhoof Village.",
+   "p": "Oefen je vaardigheden, $N. Tem de Adult Plainstrider.",
+   "c": "De Earthmother heeft me tekens gestuurd. Je hebt het goed gedaan.",
+   "e": "Tem een Adult Plainstrider",
+   "g": [
+    [
+     "temmen",
+     "tame"
+    ],
+    [
+     "voorouders",
+     "ancestors (voorouder)"
+    ],
+    [
+     "wezens",
+     "creatures (wezen)"
+    ],
+    [
+     "verslaan",
+     "defeat"
+    ],
+    [
+     "opnemen",
+     "take in"
+    ],
+    [
+     "naar keuze",
+     "of your choice"
+    ],
+    [
+     "oefening",
+     "practice"
+    ],
+    [
+     "Tem",
+     "tame (temmen)"
+    ],
+    [
+     "tekens",
+     "signs (teken)"
+    ]
+   ]
+  },
+  "6062": {
+   "t": "Het beest temmen",
+   "d": "Het is een bewonderenswaardige vaardigheid om de natuur onder je gezag te brengen. Als jager moet je proberen de kracht en macht te leren gebruiken die in elk wezen van je keuze zit.$B$BControle krijgen over een dier is niet makkelijk. Het is een taak die je met veel doorzettingsvermogen moet doen.$B$BVoor je eerste opdracht: neem deze Taming Rod en tem er een Dire Mottled Boar mee. Je vindt ze heel dicht bij Razor Hill. Oefen je vaardigheden in een gevecht met het zwijn aan je zij, en kom dan terug naar mij.",
+   "o": "Gebruik de Taming Rod om een Dire Mottled Boar te temmen. Oefen je vaardigheden en breng de Taming Rod dan terug naar Thotar in Razor Hill.",
+   "p": "Veel succes, jonge $C.",
+   "c": "Je hebt het goed gedaan, $N. Ik denk dat je klaar bent voor je volgende taak.",
+   "e": "Tem een Dire Mottled Boar",
+   "g": [
+    [
+     "bewonderenswaardige",
+     "admirable (bewonderenswaardig)"
+    ],
+    [
+     "gezag",
+     "authority"
+    ],
+    [
+     "macht",
+     "power"
+    ],
+    [
+     "keuze",
+     "choice"
+    ],
+    [
+     "doorzettingsvermogen",
+     "determination, perseverance"
+    ],
+    [
+     "opdracht",
+     "assignment"
+    ],
+    [
+     "tem",
+     "tame (temmen)"
+    ],
+    [
+     "zwijn",
+     "boar"
+    ],
+    [
+     "aan je zij",
+     "at your side"
+    ]
+   ]
+  },
+  "6081": {
+   "t": "Het beest trainen",
+   "d": "Je hebt nu de kracht om een huisdier te temmen, maar je moet ook de vaardigheden krijgen om het te trainen.$B$BReis naar Orgrimmar. Daar moet je praten met een van onze meest vereerde jagers, Ormak Grimshot. Hij geeft je het vermogen om je nieuwe huisdier te trainen. Je vindt hem bij de Hall of the Brave.$B$BVeel succes, $N.",
+   "o": "Praat met Ormak Grimshot in Orgrimmar.",
+   "c": "Een jonge $C, zie ik. Ja, ik geef je de vaardigheden die je nodig hebt om je huisdier te trainen en te leiden. Je kunt je huisdier dan niet alleen nieuwe vaardigheden leren. Je kunt het nu ook voeren, en het weer tot leven wekken als het in een gevecht valt.$B$BGa nu, $C. We spreken elkaar later weer.",
+   "g": [
+    [
+     "vereerde",
+     "revered (vereren)"
+    ],
+    [
+     "vermogen",
+     "ability"
+    ],
+    [
+     "leiden",
+     "guide, lead"
+    ],
+    [
+     "voeren",
+     "feed"
+    ],
+    [
+     "tot leven wekken",
+     "revive"
+    ],
+    [
+     "valt",
+     "falls (vallen)"
+    ],
+    [
+     "gevecht",
+     "battle, fight"
+    ]
+   ]
+  },
+  "6082": {
+   "t": "Het beest temmen",
+   "d": "Het laatste wezen dat je moet temmen, is er een dat je moet proberen na te doen: de Armored Scorpid. Hij valt snel en vol zelfvertrouwen aan. Zo'n kracht beheersen is je lot als jager.$B$BAls je terugkomt, geef ik je de vaardigheden die je nodig hebt om een dier naar keuze te temmen. Dit wezen staat onder jouw bevel. Onder jouw leiding krijgt je huisdier samen met jou ervaring. Ik laat je ook zien hoe je het kunt roepen en wegsturen wanneer je wilt.$b",
+   "o": "Gebruik de Taming Rod om een Armored Scorpid te temmen. Oefen je vaardigheden en ga dan terug naar Thotar in Razor Hill.",
+   "p": "Is het je gelukt om de scorpid te temmen?",
+   "c": "Je hebt alles geleerd wat ik je kan leren, $N. Het is tijd om mee te nemen wat je hier hebt geleerd en een eigen huisdier te kiezen.$B$BAlsjeblieft, $N. Ik geef je nu de kracht om een beest te temmen, en om het te roepen en weg te sturen wanneer je wilt. Gebruik je nieuwe vaardigheden met trots. Je hebt ze verdiend.",
+   "e": "Tem een Armored Scorpid",
+   "g": [
+    [
+     "na te doen",
+     "to imitate (nadoen)"
+    ],
+    [
+     "zelfvertrouwen",
+     "confidence"
+    ],
+    [
+     "lot",
+     "fate"
+    ],
+    [
+     "bevel",
+     "command"
+    ],
+    [
+     "leiding",
+     "control, guidance"
+    ],
+    [
+     "ervaring",
+     "experience"
+    ],
+    [
+     "wegsturen",
+     "dismiss, send away"
+    ],
+    [
+     "gelukt",
+     "succeeded (lukken)"
+    ],
+    [
+     "trots",
+     "pride"
+    ]
+   ]
+  },
+  "6083": {
+   "t": "Het beest temmen",
+   "d": "Het voordeel dat een huisdier je geeft tegen je rivalen is goed bekend, $N. Als je controle krijgt over een ander wezen, voeg je iets toe aan je eigen kracht. Je huisdier moet een verlengstuk van jezelf worden.$B$BVoor de volgende taak moet je je van het land afkeren. Je vindt het volgende wezen in het water voor de kust. Tegenover Sen'jin Village, bij de Echo Isles. Zoek een levendige krab die de Surf Crawler heet. Tem hem met de Taming Rod en oefen dan je vaardigheden.",
+   "o": "Gebruik de Taming Rod om een Surf Crawler te temmen. Oefen je vaardigheden en breng de Taming Rod dan terug naar Thotar in Razor Hill.",
+   "p": "Je moet oefenen om de vaardigheden te krijgen die je nodig hebt om je huisdier goed te beheersen. Heb je een Surf Crawler getemd?",
+   "c": "Je leert snel, $N. Je hebt het goed gedaan.",
+   "e": "Tem een Surf Crawler",
+   "g": [
+    [
+     "voordeel",
+     "advantage"
+    ],
+    [
+     "rivalen",
+     "rivals (rivaal)"
+    ],
+    [
+     "voeg",
+     "add (toevoegen)"
+    ],
+    [
+     "verlengstuk",
+     "extension"
+    ],
+    [
+     "afkeren",
+     "turn away"
+    ],
+    [
+     "kust",
+     "coast"
+    ],
+    [
+     "Tegenover",
+     "across from"
+    ],
+    [
+     "levendige",
+     "lively, spirited (levendig)"
+    ],
+    [
+     "krab",
+     "crab"
+    ],
+    [
+     "getemd",
+     "tamed (temmen)"
+    ]
+   ]
+  },
+  "6087": {
+   "t": "Het beest temmen",
+   "d": "Je hebt een vurige geest, jager, klaar voor je volgende uitdaging.$B$BJe volgende taak is om de vriendschap te winnen van een wolf die de Prairie Stalker heet. Dit wezen is snel en zonder angst. Als je dit beest als huisdier neemt, moet je die eigenschappen ook krijgen.$B$BIn een gevecht leer je hoe jij en je huisdier een team worden. Uiteindelijk moeten jullie samenwerken als één, spier aan spier.$B$BHier is de Taming Rod, $N. Tem een Prairie Stalker en oefen je vaardigheden.",
+   "o": "Gebruik de Taming Rod om een Prairie Stalker te temmen. Oefen je vaardigheden en breng de Taming Rod dan terug naar Yaw Sharpmane in Bloodhoof Village.",
+   "p": "Heb je een Prairie Stalker gevonden?",
+   "c": "Ja... De Earthmother gelooft dat je klaar bent voor de volgende les.",
+   "e": "Tem een Prairie Stalker",
+   "g": [
+    [
+     "vurige",
+     "fiery (vurig)"
+    ],
+    [
+     "uitdaging",
+     "challenge"
+    ],
+    [
+     "vriendschap",
+     "friendship, companionship"
+    ],
+    [
+     "angst",
+     "fear"
+    ],
+    [
+     "eigenschappen",
+     "qualities (eigenschap)"
+    ],
+    [
+     "Uiteindelijk",
+     "in the end"
+    ],
+    [
+     "spier",
+     "muscle"
+    ],
+    [
+     "les",
+     "lesson"
+    ]
+   ]
+  },
+  "6088": {
+   "t": "Het beest temmen",
+   "d": "Voor de laatste taak die ik voor je heb, moet je een wezen temmen dat in de lucht leeft. De Swoop is een moeilijke tegenstander. Maar als hij je bondgenoot is, krijg jij zijn scherpe aanvallen en dreigende verschijning.$B$BAls je terugkomt, geef ik je door de wil van de Earthmother de vaardigheden die je nodig hebt om een dier naar keuze als metgezel te temmen. Dit wezen gaat de uitdagingen aan die jij aangaat, en krijgt samen met jou ervaring. Ik laat je ook zien hoe je het kunt roepen en wegsturen wanneer je wilt.$b",
+   "o": "Gebruik de Taming Rod om een Swoop te temmen. Oefen je vaardigheden en breng de Taming Rod dan terug naar Yaw Sharpmane in Bloodhoof Village.",
+   "p": "Je bent snel klaar, $N.",
+   "c": "Je hebt alles geleerd wat ik je kan leren, $N. Moge de zegeningen van de Earthmother je leiden bij het kiezen van een huisdier.$B$BAlsjeblieft, $N. Ik geef je nu de kracht om een beest te temmen, en om het te roepen en weg te sturen wanneer je wilt. Gebruik je nieuwe vaardigheden met trots en eer de Earthmother.",
+   "e": "Tem een Swoop",
+   "g": [
+    [
+     "tegenstander",
+     "opponent"
+    ],
+    [
+     "bondgenoot",
+     "ally"
+    ],
+    [
+     "aanvallen",
+     "attacks (aanval)"
+    ],
+    [
+     "dreigende",
+     "threatening (dreigend)"
+    ],
+    [
+     "verschijning",
+     "presence, appearance"
+    ],
+    [
+     "wil",
+     "will"
+    ],
+    [
+     "gaat de uitdagingen aan",
+     "faces the challenges (aangaan)"
+    ],
+    [
+     "Moge",
+     "may (mogen)"
+    ],
+    [
+     "zegeningen",
+     "blessings (zegening)"
+    ],
+    [
+     "eer",
+     "honour (eren)"
+    ]
+   ]
+  },
+  "6089": {
+   "t": "Het beest trainen",
+   "d": "Je hebt nu de kracht om een huisdier te temmen, maar je moet ook de vaardigheden krijgen om het te trainen.$B$BReis naar Thunder Bluff. Daar moet je praten met een van onze meest vereerde jagers, Holt Thunderhorn. Als hij vindt dat je het waard bent, geeft hij je het vermogen om je nieuwe huisdier te trainen.$B$BHolt heeft de machtigste en meest gevreesde beesten van Azeroth verslagen, en hij heeft zelf veel sterke wezens onder zijn bevel. Zijn band met de Earthmother is sterk, en je kunt veel van hem leren. Veel succes, $N.$b",
+   "o": "Praat met Holt Thunderhorn op Hunter Rise in Thunder Bluff.",
+   "c": "Een jonge $c, zie ik. Ja, ik kan je de vaardigheden geven die je nodig hebt om je huisdier te trainen en te leiden. Je kunt je huisdier dan niet alleen nieuwe vaardigheden leren. Je kunt het nu ook voeren, en het weer tot leven wekken als het in een gevecht valt.$b$bGa nu op weg. Moge de Earthmother je leiden op je pad. We spreken elkaar later weer.",
+   "g": [
+    [
+     "vereerde",
+     "revered (vereren)"
+    ],
+    [
+     "waard",
+     "worthy"
+    ],
+    [
+     "vermogen",
+     "ability"
+    ],
+    [
+     "gevreesde",
+     "feared (vrezen)"
+    ],
+    [
+     "verslagen",
+     "defeated (verslaan)"
+    ],
+    [
+     "bevel",
+     "command"
+    ],
+    [
+     "band",
+     "bond, tie"
+    ],
+    [
+     "voeren",
+     "feed"
+    ],
+    [
+     "tot leven wekken",
+     "revive"
+    ]
+   ]
+  },
+  "3083": {
+   "t": "Gecodeerde tablet",
+   "d": "Ah, terwijl je weg was, is er een tablet voor je gekomen, $N.$B$BLees hem als je tijd hebt. Als ik me niet vergis, komt hij van de schurkentrainer Rwag. Hij wil met je praten als je klaar bent.",
+   "o": "Lees de Encrypted Tablet en praat met Rwag in de Valley of Trials.",
+   "p": "Welkom in de Valley of Trials, $N. Je zou hier niet zijn als je mijn tablet niet had gekregen, dus ik kom meteen ter zake.$B$BIk ben Rwag en ik train de schurken, dieven en zakkenrollers hier in de Valley. Ik ben degene die de Hand aanspreekt als jij niet klaar bent voor wat er gaat komen. Maar maak je geen zorgen: de Hand bepaalt niet alles wat je doet. Toch is het slim om met hen samen te werken als ze je talenten nodig hebben.",
+   "c": "Tot het zover is, sta je onder mijn leiding. Ik leer je de kneepjes van het vak, zoals sommige mensen zeggen. Kom naar mij als je je klaar voelt, dan kijk ik of ik je verder kan trainen. Oefen tot die tijd je vaardigheden en houd ze zo scherp als een scheermes. Je weet nooit wanneer je zelfs de kleinste vaardigheid nodig hebt.",
+   "g": [
+    [
+     "gecodeerde",
+     "encrypted (gecodeerd)"
+    ],
+    [
+     "schurkentrainer",
+     "rogue trainer"
+    ],
+    [
+     "ter zake",
+     "to the point"
+    ],
+    [
+     "schurken",
+     "rogues (schurk)"
+    ],
+    [
+     "dieven",
+     "thieves (dief)"
+    ],
+    [
+     "zakkenrollers",
+     "pickpockets, cutpurses (zakkenroller)"
+    ],
+    [
+     "aanspreekt",
+     "holds responsible, addresses (aanspreken)"
+    ],
+    [
+     "bepaalt",
+     "decides, controls (bepalen)"
+    ],
+    [
+     "leiding",
+     "guidance"
+    ],
+    [
+     "de kneepjes van het vak",
+     "the tricks of the trade, the ropes"
+    ],
+    [
+     "scheermes",
+     "razor"
+    ]
+   ]
+  },
+  "3088": {
+   "t": "Gecodeerd perkament",
+   "d": "Ah, terwijl je weg was, is er een perkament voor je gekomen, $N.$B$BLees het als je tijd hebt. Als ik me niet vergis, komt het van de schurkentrainer Rwag. Hij wil met je praten als je klaar bent.",
+   "o": "Lees het Encrypted Parchment en praat met Rwag in de Valley of Trials.",
+   "p": "Sst, niet zo hard. Ik vertrouw Nartok daar niet. Met iemand die zich nog dieper in een grot moet verstoppen dan ik, moet je niet spotten.$b$bIk neem aan dat je zonder problemen de weg hebt gevonden?",
+   "c": "Nu je weet waar ik me verstop, moet ik je iets vertellen: de Shattered Hand heeft me gevraagd om op je te letten. Ze willen dat ik je train en je op de hoogte houd van alles wat ze nodig hebben. Ook als je hen nog niet wilt helpen (en je bent dom als je dat niet wilt), doe ik wat ik kan om je te trainen... voor een klein bedrag. Kom terug wanneer je denkt dat je klaar bent, dan kijken we wat je kunt leren.",
+   "g": [
+    [
+     "gecodeerd",
+     "encrypted"
+    ],
+    [
+     "vertrouw",
+     "trust (vertrouwen)"
+    ],
+    [
+     "verstoppen",
+     "hide"
+    ],
+    [
+     "spotten",
+     "trifle, mess (with)"
+    ],
+    [
+     "neem aan",
+     "assume (aannemen)"
+    ],
+    [
+     "verstop",
+     "hide (verstoppen)"
+    ],
+    [
+     "letten",
+     "watch, pay attention (letten op)"
+    ],
+    [
+     "op de hoogte houd",
+     "keep informed (op de hoogte houden)"
+    ],
+    [
+     "bedrag",
+     "sum, fee"
+    ]
+   ]
+  },
+  "3096": {
+   "t": "Gecodeerde rol",
+   "d": "Ah, terwijl jij bezig was met de hersenloze Scourge, kwam deze rol voor je. Ik denk dat het iets belangrijks is, want het lijkt erop dat hij het zegel draagt van de schurkentrainer David Trias. Ik zou de tijd nemen om hem te lezen voordat je weer vertrekt.",
+   "o": "Lees de Encrypted Scroll en praat met David Trias in Deathknell.",
+   "p": "Dus je hebt het gehaald? Goed. We hebben in de loop van de tijd meer schurken nodig. De Shadowstalkers vinden je waarschijnlijk als zij denken dat het tijd is. Dus maak geen fouten en doe niets waar je spijt van kunt krijgen. Ze hebben getalenteerde agenten nodig... geen zakkenrollers en dwazen.",
+   "c": "Ik ben meestal hier in de herberg. Ik let op nieuwe gezichten en houd de veelbelovende nieuwkomers in de gaten. Blijf uit de problemen, dan doe ik wat ik kan om je een paar dingen te leren. Kom gewoon terug wanneer je wilt, dan kijken we of je klaar bent voor een nieuwe vaardigheid of twee.",
+   "g": [
+    [
+     "hersenloze",
+     "mindless (hersenloos)"
+    ],
+    [
+     "rol",
+     "scroll"
+    ],
+    [
+     "zegel",
+     "seal"
+    ],
+    [
+     "in de loop van de tijd",
+     "as time goes on"
+    ],
+    [
+     "spijt",
+     "regret"
+    ],
+    [
+     "getalenteerde",
+     "talented (getalenteerd)"
+    ],
+    [
+     "dwazen",
+     "fools (dwaas)"
+    ],
+    [
+     "herberg",
+     "inn"
+    ],
+    [
+     "veelbelovende",
+     "promising (veelbelovend)"
+    ],
+    [
+     "in de gaten",
+     "keep an eye on (in de gaten houden)"
+    ],
+    [
+     "Blijf uit de problemen",
+     "keep out of trouble"
+    ]
+   ]
+  },
+  "1859": {
+   "t": "Therzok",
+   "d": "Praat zachter, $n. Ja, ik ken je naam. Ik moest uitkijken naar een orc die eruitziet zoals jij.$b$bWe hebben gehoord dat je jezelf kunt redden in een gevecht. En dat je af en toe niet tegen een beetje stiekem gedoe bent.$b$bHeb ik gelijk?$b$bHoe dan ook, je moet naar Therzok in Orgrimmar gaan. Hij heeft een aanbod waar je naar moet luisteren.",
+   "o": "Praat met Therzok in de Cleft of Shadow in Orgrimmar.",
+   "c": "Heel goed. Ik ben blij dat Kaplak je heeft kunnen vinden.$b$bWe moeten over een paar dingen praten, en zeker over je toekomst bij de Hand.",
+   "g": [
+    [
+     "zachter",
+     "more quietly (zacht)"
+    ],
+    [
+     "uitkijken",
+     "look out (for)"
+    ],
+    [
+     "eruitziet",
+     "looks (eruitzien)"
+    ],
+    [
+     "jezelf kunt redden",
+     "can handle yourself (zich redden)"
+    ],
+    [
+     "af en toe",
+     "from time to time"
+    ],
+    [
+     "stiekem",
+     "sneaky"
+    ],
+    [
+     "gedoe",
+     "business, stuff"
+    ],
+    [
+     "Hoe dan ook",
+     "anyway"
+    ],
+    [
+     "aanbod",
+     "offer"
+    ]
+   ]
+  },
+  "1885": {
+   "t": "Mennet Carkad",
+   "d": "$n? Niet helemaal wat ik verwachtte, nu Carkad zelf interesse in je heeft. Maar de schijn kan bedriegen, toch?$b$bHoe dan ook, je moet zo snel mogelijk naar hem toe gaan. Je wilt niet weten wat er gebeurde met de laatsten die zijn oproep negeerden.",
+   "o": "Praat met Mennet Carkad in de Rogues' Quarter van de Undercity.",
+   "c": "Hm. Je bent zeker meteen hierheen gekomen toen je over mijn oproep hoorde, ja? Natuurlijk. Ik verwacht niet minder van iemand die een Deathstalker wil worden.",
+   "g": [
+    [
+     "verwachtte",
+     "expected (verwachten)"
+    ],
+    [
+     "de schijn kan bedriegen",
+     "looks can be deceiving"
+    ],
+    [
+     "zo snel mogelijk",
+     "as soon as possible"
+    ],
+    [
+     "oproep",
+     "summons, call"
+    ],
+    [
+     "negeerden",
+     "ignored (negeren)"
+    ],
+    [
+     "meteen",
+     "right away"
+    ]
+   ]
+  },
+  "1858": {
+   "t": "De Shattered Hand",
+   "d": "Ik laat het aan jou over om de tas van Tazan open te krijgen en met de inhoud bij mij terug te komen. Het slot is ingewikkeld, dus het is waarschijnlijk het makkelijkst als je de sleutel krijgt.$b$bJe hebt hem niet bij het lichaam van Tazan gevonden. Dus ik kan alleen maar aannemen dat hij de sleutel aan iemand anders heeft gegeven... Ah ja, dat klopt. Hij had een assistent die Gamon heet. Hij is een dronkaard, dus je vindt hem waarschijnlijk in de taverne. Misschien kun je de sleutel stilletjes van hem afpakken.",
+   "o": "Steel de sleutel van Tazan, open er zijn Satchel mee en breng de inhoud naar Therzok in de Cleft of Shadow in Orgrimmar.",
+   "p": "Is het niet ergerlijk als je wat je wilt binnen handbereik hebt, maar er niet bij kunt komen?",
+   "c": "Hmmm, dit is interessant. Hiermee heb je meer dan bewezen wat je waard bent, $n. Ik ben erg onder de indruk. Je bent nu het nieuwste lid van de Shattered Hand. En neem dit. Het zal je in de toekomst veel helpen, denk ik.",
+   "g": [
+    [
+     "inhoud",
+     "contents"
+    ],
+    [
+     "slot",
+     "lock"
+    ],
+    [
+     "ingewikkeld",
+     "complicated"
+    ],
+    [
+     "aannemen",
+     "assume"
+    ],
+    [
+     "dronkaard",
+     "drunkard"
+    ],
+    [
+     "stilletjes",
+     "quietly"
+    ],
+    [
+     "afpakken",
+     "take away"
+    ],
+    [
+     "Steel",
+     "steal (stelen)"
+    ],
+    [
+     "ergerlijk",
+     "annoying, vexing"
+    ],
+    [
+     "binnen handbereik",
+     "within reach"
+    ],
+    [
+     "onder de indruk",
+     "impressed"
+    ],
+    [
+     "lid",
+     "member"
+    ]
+   ]
+  },
+  "1886": {
+   "t": "De Deathstalkers",
+   "d": "Als je bij de Deathstalkers wilt, de elitewacht van Lord Varimathras, moet je bewijzen wat je waard bent.$b$bIk ga niet tegen je liegen, $n: deze taak kan je dood betekenen.$b$bEr zijn een paar dingen die ik moet regelen. Ik wil de persoonlijke spullen van Astor Hadren hebben. Hij is een boodschapper die tussen Silverpine en de Undercity reist. Hoe je ze krijgt, laat ik aan jou over.$b$bHet is beter voor je als je minder weet over wat voor zaak dit is. Als het je lukt, vertel ik je meer.",
+   "o": "Haal Astor's Letter of Introduction en breng hem terug naar Mennet Carkad in de Rogues' Quarter.",
+   "p": "Heb je succes te melden?",
+   "c": "Goed gedaan, $N. Je hebt het eerste deel van deze test gehaald. Hopelijk heeft Andron niets gehoord over wat je hebt gedaan. Dan kunnen we hem overtuigen dat jij echt de boodschapper bent die hij verwacht.",
+   "g": [
+    [
+     "elitewacht",
+     "elite guard"
+    ],
+    [
+     "bewijzen",
+     "prove"
+    ],
+    [
+     "liegen",
+     "lie"
+    ],
+    [
+     "regelen",
+     "take care of, arrange"
+    ],
+    [
+     "persoonlijke spullen",
+     "personal effects"
+    ],
+    [
+     "zaak",
+     "business, matter"
+    ],
+    [
+     "melden",
+     "report"
+    ],
+    [
+     "Hopelijk",
+     "hopefully"
+    ],
+    [
+     "overtuigen",
+     "convince"
+    ]
+   ]
+  },
+  "1898": {
+   "t": "De Deathstalkers",
+   "d": "De introductiebrief moet genoeg zijn om Andron te overtuigen dat jij de boodschapper bent op wie hij wacht. Ik heb Andron eerder ontmoet. Hij is niet slim genoeg om zo achterdochtig te zijn.$b$bLord Varimathras vermoedt dat Andron een andere groep helpt. Hij wil weten welke organisatie dit is, en hij wil er bewijs van.$b$bIk wil dat je met Andron praat en deze informatie krijgt. Je vindt hem in zijn winkel bij het Apothecarium.",
+   "o": "Praat met Andron Gant in de Undercity.",
+   "p": "Hallo. Kan ik iets voor je doen?",
+   "c": "Ah ja, ik verwachtte je al. Onze gezamenlijke kennissen zijn vast tevreden met de informatie die ik tot nu toe heb gegeven?$B$BHet heeft waarschijnlijk geen zin om het jou te vragen. Ik denk niet dat ze jou met die kennis lastigvallen. Waarom zou je zoveel vertrouwen in de boodschapper stellen, hm?",
+   "g": [
+    [
+     "introductiebrief",
+     "letter of introduction"
+    ],
+    [
+     "achterdochtig",
+     "suspicious"
+    ],
+    [
+     "vermoedt",
+     "suspects (vermoeden)"
+    ],
+    [
+     "bewijs",
+     "proof"
+    ],
+    [
+     "gezamenlijke",
+     "mutual (gezamenlijk)"
+    ],
+    [
+     "kennissen",
+     "acquaintances (kennis)"
+    ],
+    [
+     "heeft geen zin",
+     "there's no point"
+    ],
+    [
+     "lastigvallen",
+     "burden, bother"
+    ],
+    [
+     "vertrouwen",
+     "trust"
+    ]
+   ]
+  },
+  "1899": {
+   "t": "De Deathstalkers",
+   "d": "Het grootboek met de informatie die je bazen zoeken, vind je in de boekenkast achter me. Breng het met mijn groeten. En zeg dat ik het liefst heb dat ze jou sturen, als ze onze afspraak waardevol genoeg vinden om ermee door te gaan.",
+   "o": "Breng Astor's Ledger naar Mennet Carkad in de Rogues' Quarter van de Undercity.",
+   "p": "Gelukt, $N?",
+   "c": "Nou, dit is zeker meer informatie dan ik uit Andron dacht te krijgen. Geef me even de tijd om het door te lezen, voordat ik je je volgende taak geef.",
+   "g": [
+    [
+     "grootboek",
+     "ledger"
+    ],
+    [
+     "bazen",
+     "bosses, employers (baas)"
+    ],
+    [
+     "boekenkast",
+     "bookshelf"
+    ],
+    [
+     "groeten",
+     "regards (groet)"
+    ],
+    [
+     "afspraak",
+     "arrangement"
+    ],
+    [
+     "waardevol",
+     "valuable"
+    ],
+    [
+     "door te gaan",
+     "to continue (doorgaan)"
+    ],
+    [
+     "door te lezen",
+     "to read through (doorlezen)"
+    ]
+   ]
+  },
+  "1963": {
+   "t": "De Shattered Hand",
+   "d": "De Warchief is te subtiel in zijn methodes. Hij aarzelt om de macht van de Horde los te laten. Vroeger waren we sterker, allemaal machtige veroveraars. Die trots moeten we terugkrijgen, en de Shattered Hand gaat dat doen.$b$bWe bouwen kracht op vanuit de schaduw en slaan toe waar de vijand onbeschermd is. In het geheim brengen we onze vijanden ten val. Je moet een taak voor me doen om te bewijzen wat je waard bent.$b$bDe trol Tazan handelt met de piraten bij Ratchet. Hij heeft informatie die ik moet hebben. Dood hem en breng me zijn tas.",
+   "o": "Dood Tazan en breng zijn Satchel naar Therzok in de Cleft of Shadow in Orgrimmar.",
+   "p": "Alleen een dwaas gelooft dat een aanval met getrokken bijl gevaarlijker is dan een mes in het donker.",
+   "c": "Hm, ik ben blij dat Tazan er niet meer is, maar aan een tas die op slot zit, hebben we niets. We hebben de informatie nodig die erin zit.$b$bDit is een goede tweede uitdaging voor iemand die bij de Shattered Hand wil.",
+   "g": [
+    [
+     "subtiel",
+     "subtle"
+    ],
+    [
+     "aarzelt",
+     "hesitates (aarzelen)"
+    ],
+    [
+     "los te laten",
+     "to unleash (loslaten)"
+    ],
+    [
+     "veroveraars",
+     "conquerors (veroveraar)"
+    ],
+    [
+     "slaan toe",
+     "strike (toeslaan)"
+    ],
+    [
+     "onbeschermd",
+     "exposed, unprotected"
+    ],
+    [
+     "ten val",
+     "bring down (ten val brengen)"
+    ],
+    [
+     "handelt",
+     "trades (handelen)"
+    ],
+    [
+     "getrokken",
+     "drawn (trekken)"
+    ],
+    [
+     "bijl",
+     "axe"
+    ],
+    [
+     "op slot",
+     "locked"
+    ]
+   ]
+  },
+  "1978": {
+   "t": "De Deathstalkers",
+   "d": "Het Syndicate? Dat had ik nooit gedacht. Het lijkt erop dat de heren van Alterac diep zijn gevallen in de jaren sinds hun verraad.$b$bLord Varimathras zal blij zijn dit te horen. En omdat jij zo belangrijk was bij deze ontdekking, is het passend dat jij het hem brengt.$b$bAh, en hoe kon ik het vergeten?$b$bWelkom bij de Deathstalkers.",
+   "o": "Breng Andron's Ledger naar Varimathras in de Hall of the Dark Lady in de Undercity.",
+   "p": "Ja?",
+   "c": "Hmm, dit is interessant. De Deathstalkers hebben hun taken uitstekend gedaan door dit uit te zoeken.$B$BVoor zover ik weet, verdien jij ook lof voor wat je hebt gedaan. Ik hoop dat dit voor jou gewoon wordt, $N. Mijn Deathstalkers kunnen altijd een goede $gman:vrouw; gebruiken.",
+   "g": [
+    [
+     "heren",
+     "lords (heer)"
+    ],
+    [
+     "gevallen",
+     "fallen (vallen)"
+    ],
+    [
+     "verraad",
+     "betrayal"
+    ],
+    [
+     "ontdekking",
+     "discovery"
+    ],
+    [
+     "passend",
+     "fitting"
+    ],
+    [
+     "uitstekend",
+     "excellently"
+    ],
+    [
+     "uit te zoeken",
+     "to find out (uitzoeken)"
+    ],
+    [
+     "Voor zover ik weet",
+     "from what I understand"
+    ],
+    [
+     "lof",
+     "praise"
+    ]
+   ]
+  },
+  "1998": {
+   "t": "Fenwick Thatros",
+   "d": "Lord Varimathras heeft me net een bericht gestuurd over een gevaar voor de Forsaken dat meteen weg moet. Zijn naam is Fenwick Thatros. Lord Varimathras denkt dat hij een leider is van de ondoden die zich in Silverpine Forest hebben gevestigd.$b$bJouw naam kwam meteen in me op, $n. Ik heb genoeg vertrouwen in je kunnen dat je deze missie perfect zult uitvoeren.$b$bVolgens de laatste berichten van de Deathstalkers in Silverpine kun je Thatros vinden bij de vervallen steiger aan het Lordamere.",
+   "o": "Dood Fenwick Thatros en breng zijn hoofd terug naar Mennet Carkad in de Rogues' Quarter van de Undercity.",
+   "p": "Ik heb het grootste vertrouwen in jou gesteld om deze dienst voor Lord Varimathras te doen.",
+   "c": "Je hebt het goed gedaan, $N. Het valt me op dat je veel diensten voor de Deathstalkers hebt gedaan en bewezen hebt wat je waard bent. Misschien is het tijd dat we je training in de schaduwkunsten verder brengen.",
+   "g": [
+    [
+     "bericht",
+     "message, report"
+    ],
+    [
+     "gevaar",
+     "threat, danger"
+    ],
+    [
+     "ondoden",
+     "undead (ondode)"
+    ],
+    [
+     "gevestigd",
+     "settled (zich vestigen)"
+    ],
+    [
+     "kwam in me op",
+     "came to mind (opkomen)"
+    ],
+    [
+     "kunnen",
+     "ability, skill"
+    ],
+    [
+     "uitvoeren",
+     "carry out"
+    ],
+    [
+     "vervallen",
+     "decrepit, run-down"
+    ],
+    [
+     "steiger",
+     "dock, jetty"
+    ],
+    [
+     "dienst",
+     "service"
+    ],
+    [
+     "valt me op",
+     "it occurs to me (opvallen)"
+    ],
+    [
+     "schaduwkunsten",
+     "shadow arts"
+    ]
+   ]
+  },
+  "2378": {
+   "t": "Zoek de Shattered Hand",
+   "d": "Je hebt de Deathstalkers goed gediend, $N, maar misschien is het tijd om verder te gaan. Je hebt laten zien dat je goed bent in sluipen en bedrog, maar je hebt nog veel training nodig.$B$BDe Deathstalkers hebben bondgenoten in de Shattered Hand. Zoek degenen op die ons willen helpen: vind Shenthul in Orgrimmar.$b",
+   "o": "Reis naar Orgrimmar en praat met Shenthul bij de Cleft of Shadow.$b",
+   "c": "Dus jij bent wat onze machtige bondgenoten Shenthul hebben gestuurd? Wat weinig indrukwekkend...",
+   "g": [
+    [
+     "gediend",
+     "served (dienen)"
+    ],
+    [
+     "sluipen",
+     "stealth, sneaking"
+    ],
+    [
+     "bedrog",
+     "deception"
+    ],
+    [
+     "bondgenoten",
+     "allies (bondgenoot)"
+    ],
+    [
+     "Zoek degenen op",
+     "seek out those (opzoeken)"
+    ],
+    [
+     "indrukwekkend",
+     "inspiring, impressive"
+    ]
+   ]
+  }
+ },
+ "words": {
+  "aangaat": "face, take on (aangaan)",
+  "gezichten": "faces (gezicht)",
+  "kneepjes": "tricks, knacks (kneepje)",
+  "laatsten": "the last ones (laatste)",
+  "makkelijkst": "easiest (makkelijk)",
+  "nieuwkomers": "newcomers (nieuwkomer)",
+  "sst": "shh",
+  "zake": "matter (ter zake: to the point)"
+ },
+ "terms": {
+  "scorpid": "scorpid: a large scorpion-like beast from the Warcraft world"
+ }
+}
