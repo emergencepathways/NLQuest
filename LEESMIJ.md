@@ -5,7 +5,7 @@
 Speurtocht.NL laat de teksten van quests in het Nederlands zien. De rest van het spel blijft Engels. De addon is gemaakt om Nederlands te leren terwijl je speelt:
 
 - **Nederlands op jouw niveau.** Het begint op A1–A2 en groeit naar B1–B2 als je personage een hoger level krijgt.
-- **Het Engelse origineel** als je het nodig hebt: houd Alt ingedrukt, of wijs de EN-knop aan.
+- **Het Engelse origineel** als je het nodig hebt: houd Alt ingedrukt, of wijs de NLQuest-knop aan.
 - **Een lezer naast het questvenster**, met Nederlands en Engels naast elkaar. Je kunt op elk Nederlands woord klikken.
 - **Een woordenlijst** met de woorden waarop je klikt, klaar om in Anki te zetten.
 
@@ -37,8 +37,8 @@ Praat met iemand die een quest heeft. Het questvenster is in het Nederlands, en 
 | Wat wil je? | Wat doe je? |
 |---|---|
 | Even het Engels zien | Houd **Alt** ingedrukt |
-| Het Engels zien zonder het venster te veranderen | Wijs de **EN**-knop op het questvenster aan |
-| De lezer openen of sluiten | Klik op **EN**, of typ `/speur reader` |
+| Het Engels zien zonder het venster te veranderen | Wijs de **NLQuest**-knop op het questvenster aan |
+| De lezer openen of sluiten | Klik op **NLQuest**, of typ `/speur reader` |
 | De Engelse kolom verbergen | Klik op **- EN** in de lezer |
 | Een woord opslaan | Klik erop in de lezer. Opgeslagen woorden worden groen. |
 | Een naam of Warcraft-woord herkennen | Klik erop: het wordt rood en wordt niet opgeslagen |
@@ -51,7 +51,7 @@ Praat met iemand die een quest heeft. Het questvenster is in het Nederlands, en 
 In de instellingen staan drie snelle keuzes. Je kunt ook elke optie apart aan- of uitzetten.
 
 - **Alleen Nederlands**: alleen Nederlands. Geen lezer en geen hulp in het Engels.
-- **NL + Engels bij hover**: Nederlands in het questvenster, Engels via de EN-knop en Alt.
+- **NL + Engels bij hover**: Nederlands in het questvenster, Engels via de NLQuest-knop en Alt.
 - **Naast elkaar**: Nederlands in het questvenster en de lezer ernaast. Dit is de standaard.
 
 ### Het niveau groeit met je mee
@@ -189,7 +189,7 @@ Hoofdletters maken niet uit.
 |---|---|
 | `Core.lua` | Namespace, instellingen, vertalingen registreren, zoeken op quest-ID (anders op Engelse titel) |
 | `Text.lua` | `$n/$c/$r/$b/$g` invullen, Nederlandse namen van klassen en volken, klikbare woorden |
-| `Display.lua` | Tekst vervangen in het questvenster en het questlogboek, EN-knop, Alt om te spieken |
+| `Display.lua` | Tekst vervangen in het questvenster en het questlogboek, NLQuest-knop, Alt om te spieken |
 | `Reader.lua` | De lezer naast het questvenster |
 | `Vocab.lua` | Woorden opslaan, woordenlijst, Anki-export |
 | `Capture.lua` | Bewaart onvertaalde en gewijzigde quests |

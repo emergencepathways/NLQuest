@@ -5,7 +5,7 @@
 Speurtocht.NL shows quest text in Dutch and leaves the rest of the game in English. It's built for learning Dutch while you play:
 
 - **Graded Dutch** that starts at A1–A2 and grows to B1–B2 as your character levels up.
-- **The English original** whenever you need it: hold Alt, or hover the EN button.
+- **The English original** whenever you need it: hold Alt, or hover the NLQuest button.
 - **A side-by-side reader** with Dutch next to English, where every Dutch word can be clicked.
 - **A vocabulary list** of the words you click, ready to import into Anki.
 
@@ -37,8 +37,8 @@ Talk to a quest giver. The quest window shows Dutch, and the reader opens next t
 | You want to… | Do this |
 |---|---|
 | See the English for a moment | Hold **Alt** |
-| See the English without changing the window | Hover the **EN** button on the quest window |
-| Open or close the reader | Click **EN**, or type `/speur reader` |
+| See the English without changing the window | Hover the **NLQuest** button on the quest window |
+| Open or close the reader | Click **NLQuest**, or type `/speur reader` |
 | Hide the English column | Click **- EN** in the reader |
 | Save a word | Click it in the reader. Saved words turn green. |
 | Check a name or Warcraft word | Click it: it turns red and isn't saved |
@@ -51,7 +51,7 @@ Talk to a quest giver. The quest window shows Dutch, and the reader opens next t
 The settings window has three quick choices. Every option can also be switched on or off on its own.
 
 - **Alleen Nederlands**: Dutch only. No reader and no English help.
-- **NL + Engels bij hover**: Dutch in the quest window, English through the EN button and Alt.
+- **NL + Engels bij hover**: Dutch in the quest window, English through the NLQuest button and Alt.
 - **Naast elkaar**: Dutch in the quest window plus the side-by-side reader. This is the default.
 
 ### Difficulty grows with you
@@ -189,7 +189,7 @@ Commands are not case-sensitive.
 |---|---|
 | `Core.lua` | Namespace, settings, data registry, lookup by quest ID (fallback: English title) |
 | `Text.lua` | `$n/$c/$r/$b/$g` expansion, Dutch class and race names, clickable-word markup |
-| `Display.lua` | Quest dialog and quest log text replacement, EN button, Alt to peek |
+| `Display.lua` | Quest dialog and quest log text replacement, NLQuest button, Alt to peek |
 | `Reader.lua` | Side-by-side reader |
 | `Vocab.lua` | Word saver, word list window, Anki export |
 | `Capture.lua` | Saves untranslated and changed quests |

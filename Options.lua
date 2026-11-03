@@ -21,7 +21,7 @@ local OPTIONS = {
     { key = "translateLog",   nl = "Nederlands in het questlogboek",          en = "Dutch text in the quest log details" },
     { key = "logTitles",      nl = "Nederlandse titels in de questlijst (test)", en = "Dutch titles in the quest log list (experimental)" },
     { header = "Engels als hulp · English support" },
-    { key = "hoverEnglish",   nl = "EN-knop: Engels tonen bij aanwijzen",     en = "Hover the EN button to see the English original" },
+    { key = "hoverEnglish",   nl = "NLQuest-knop: Engels tonen bij aanwijzen", en = "Hover the NLQuest button to see the English original" },
     { key = "altPeek",        nl = "Alt ingedrukt houden = Engels",           en = "Hold Alt to temporarily show English" },
     { header = "Lezer · Side-by-side reader" },
     { key = "reader",         nl = "Lezer gebruiken",                         en = "Use the side-by-side reader panel" },

@@ -2,7 +2,7 @@
     SpeurtochtNL - Display
     Puts the Dutch text into the quest dialog and quest log, keeps the live
     English text from the client for the reader / hover tooltip, and handles
-    the "EN" hover button and Alt-to-peek.
+    the "NLQuest" hover button and Alt-to-peek.
 
     Only quest text font strings are touched. Tooltips, chat, item names and
     the rest of the UI stay English.
@@ -170,7 +170,7 @@ local function OnLogUpdate()
 end
 
 ------------------------------------------------------------------------
--- "EN" hover button
+-- "NLQuest" hover button (hover: English, click: reader)
 ------------------------------------------------------------------------
 local function EnglishTooltip(owner, cur)
     if not cur then return end
@@ -196,8 +196,8 @@ end
 
 local function MakeENButton(parent, anchorTo, getCurrent, x, y)
     local b = CreateFrame("Button", nil, parent, "UIPanelButtonTemplate")
-    b:SetSize(34, 20)
-    b:SetText("EN")
+    b:SetSize(62, 20)
+    b:SetText("NLQuest")
     b:SetPoint("TOPRIGHT", anchorTo, "TOPRIGHT", x, y)
     b:SetFrameStrata("HIGH")
     b:SetScript("OnEnter", function(self) EnglishTooltip(self, getCurrent()) end)
