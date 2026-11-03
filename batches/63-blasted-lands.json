@@ -1,0 +1,1513 @@
+{
+  "quests": {
+    "3628": {
+      "t": "Je bent Rakh'likh, demon",
+      "d": "Het hol van Razelikh ligt boven op de hoogste berg van de Blasted Lands. Je kunt het hol alleen bereiken met de teleportrunen bij de berg. Zolang je het amulet hebt, kun je vrij naar het hol worden overgebracht. Als je bij het hol bent, moet je het beest oproepen. Het amulet is je sleutel, $N. Gebruik het op de Altar of the Defiler.$B$BAls je de Defiler verslaat, breng dan zijn hoorn terug. Die wordt een symbool van hoop voor iedereen die hem ziet: het bewijs dat helden echt bestaan in deze door oorlog verscheurde wereld.$b",
+      "o": "Vernietig Razelikh en breng de Severed Horn of the Defiler terug naar de Fallen Hero. Je moet ook de Ward of the Defiler terugbrengen, zodat de Fallen Hero die kan vernietigen. Zo kan hij nooit in de verkeerde handen vallen.$b",
+      "p": "Er is niets meer om bang voor te zijn.$b$b",
+      "c": "Aan deze dag zal men voor altijd terugdenken. De demonische heerser van de Blasted Lands is eindelijk gevallen!$b$b",
+      "g": [
+        [
+          "hol",
+          "lair, den"
+        ],
+        [
+          "teleportrunen",
+          "teleport runes (teleportrune)"
+        ],
+        [
+          "overgebracht",
+          "transported (overbrengen)"
+        ],
+        [
+          "oproepen",
+          "to conjure, to summon"
+        ],
+        [
+          "verslaat",
+          "defeat (verslaan)"
+        ],
+        [
+          "hoorn",
+          "horn"
+        ],
+        [
+          "bewijs",
+          "proof"
+        ],
+        [
+          "verscheurde",
+          "torn (verscheuren)"
+        ],
+        [
+          "vernietigen",
+          "to destroy"
+        ],
+        [
+          "demonische",
+          "demonic"
+        ],
+        [
+          "heerser",
+          "ruler, overlord"
+        ],
+        [
+          "terugdenken",
+          "to think back, remember"
+        ]
+      ]
+    },
+    "4296": {
+      "t": "De Tablet of the Seven",
+      "d": "Ik kwam naar de Burning Steppes omdat ik de legendes over the Seven volgde. Dat waren dwergen met grote kennis en macht, en als je kennis en macht hebt, dan komt rijkdom vanzelf.$B$BDat wil ik. Rijkdom!$B$BAls we meer over the Seven te weten komen, kunnen we misschien samen rijk worden. Men zegt dat de ruïnes van Thaurissan de Tablet of the Seven bewaren. Daarop staat kennis van de oude dwergen. Zoek dit tablet, schrijf de tekst over en breng die naar mij. Laten we samen de geheimen ontdekken!",
+      "o": "Breng het Tablet Transcript naar Maxwort Uberglint in de Burning Steppes.",
+      "p": "Heb je de teksten van the Seven, $N? Heb je de geheimen van hun tablet ontdekt?",
+      "c": "Ah, je hebt het tablet gevonden! En je afschrift is prachtig! Weet je zeker dat je een $c bent en geen schrijver?$B$BAlsjeblieft, $N. Hier is de betaling die ik je beloofd had.",
+      "g": [
+        [
+          "legendes",
+          "legends (legende)"
+        ],
+        [
+          "kennis",
+          "knowledge"
+        ],
+        [
+          "macht",
+          "power"
+        ],
+        [
+          "rijkdom",
+          "wealth"
+        ],
+        [
+          "vanzelf",
+          "by itself, naturally"
+        ],
+        [
+          "ruïnes",
+          "ruins (ruïne)"
+        ],
+        [
+          "bewaren",
+          "to keep, to preserve"
+        ],
+        [
+          "schrijf de tekst over",
+          "copy the text (overschrijven)"
+        ],
+        [
+          "ontdekken",
+          "to discover"
+        ],
+        [
+          "afschrift",
+          "copy, transcript"
+        ],
+        [
+          "betaling",
+          "payment"
+        ]
+      ]
+    },
+    "3823": {
+      "t": "Blus de Firegut",
+      "d": "We moeten onze vijanden aanvallen voordat zij ons aanvallen!$B$BIk zal het kort houden, soldaat.$B$BDe Firegut-ogers van de Burning Steppes zijn bondgenoten van de Blackrock-orcs. Ze werken nauw samen met die walgelijke orcs. Ze bewaken de Dreadmaul Rock, die rijk is aan mineralen, en houden de aanvoerlijnen altijd open.$B$BLaat je sporen na, $N. Verzwak hun troepen en kom terug naar mij als het werk klaar is.$B$B<Oralius grijpt in de lucht en doet alsof hij iemand wurgt.>$B$BIK MAAK JE AF, WINKY!",
+      "o": "Dood 15 Firegut Ogre-Mages, 7 Firegut Ogres en 7 Firegut Ogre Brutes, en keer terug naar Oralius als je klaar bent.",
+      "p": "Er zit lang niet genoeg bloed op je uniform, soldaat!$b",
+      "c": "Uitstekend, soldaat! De orcs en ogers zullen minutenlang, misschien zelfs urenlang, wankelen van deze klap!",
+      "g": [
+        [
+          "blus",
+          "extinguish (blussen)"
+        ],
+        [
+          "bondgenoten",
+          "allies (bondgenoot)"
+        ],
+        [
+          "nauw",
+          "closely"
+        ],
+        [
+          "walgelijke",
+          "vile, disgusting"
+        ],
+        [
+          "mineralen",
+          "minerals (mineraal)"
+        ],
+        [
+          "aanvoerlijnen",
+          "supply lines (aanvoerlijn)"
+        ],
+        [
+          "laat je sporen na",
+          "leave your mark (sporen nalaten)"
+        ],
+        [
+          "verzwak",
+          "weaken (verzwakken)"
+        ],
+        [
+          "troepen",
+          "troops, forces"
+        ],
+        [
+          "wurgt",
+          "strangles, chokes (wurgen)"
+        ],
+        [
+          "wankelen",
+          "to reel, to stagger"
+        ],
+        [
+          "klap",
+          "blow"
+        ]
+      ]
+    },
+    "4726": {
+      "t": "Essentie van broodlings",
+      "d": "Ik bestudeer het drakenvolk van de Burning Steppes al weken, en ik denk dat ik eindelijk een doorbraak heb! Ik heb een apparaat gemaakt. Ik noem het de Draco Incarcinatrix 900. Het kan de essentie van broodlings vangen, de jonge drakenwelpen!$B$BTenminste, dat denk ik.$B$BHier, neem het apparaat en schiet er een broodling in de Burning Steppes mee. Terwijl het apparaat op hem werkt, versla je de broodling. Dan zou zijn essentie vrij moeten komen.$B$BAls dat lukt, geweldig! Breng me dan monsters, zodat ik ze kan bestuderen!",
+      "o": "Breng 8 Broodling Essence en de Draco-Incarcinatrix 900 naar Tinkee Steamboil bij Flame Crest in de Burning Steppes.",
+      "p": "Heb je de essentie van de broodlings, $N? Ik kan niet wachten om die te bestuderen.$B$BEn bovendien... mijn opdrachtgever is niet iemand die je wilt teleurstellen.",
+      "c": "Het werkte! Je hebt de essentie! Goed gedaan, $N! Goed gedaan!$B$BDeze essentie is van onschatbare waarde voor mijn onderzoek. Ik hoop ooit te leren hoe ik levende drakenwelpen kan vangen, of misschien hun eieren. Als ik daar een manier voor vind, dan zijn drakengeleerden over de hele wereld jaloers op mij!$B$BMijn werkgever zou ook blij zijn, en zoals ik al zei: hij is iemand die je tevreden wilt houden...",
+      "g": [
+        [
+          "essentie",
+          "essence"
+        ],
+        [
+          "drakenvolk",
+          "dragonkin"
+        ],
+        [
+          "doorbraak",
+          "breakthrough"
+        ],
+        [
+          "apparaat",
+          "device"
+        ],
+        [
+          "drakenwelpen",
+          "dragon whelps (drakenwelp)"
+        ],
+        [
+          "tenminste",
+          "at least"
+        ],
+        [
+          "versla",
+          "defeat (verslaan)"
+        ],
+        [
+          "monsters",
+          "samples (monster)"
+        ],
+        [
+          "opdrachtgever",
+          "patron, client"
+        ],
+        [
+          "teleurstellen",
+          "to disappoint"
+        ],
+        [
+          "onschatbare waarde",
+          "invaluable"
+        ],
+        [
+          "drakengeleerden",
+          "dragon scholars (drakengeleerde)"
+        ],
+        [
+          "jaloers",
+          "jealous, envious"
+        ],
+        [
+          "werkgever",
+          "employer"
+        ]
+      ]
+    },
+    "3824": {
+      "t": "Gor'tesh, heer van de bruten",
+      "d": "Ze wankelen, zeg ik je! Onze volgende aanval moet beslissend zijn.$B$BDe heer van de bruten, Gor'tesh, moet gedood worden. Nog belangrijker: zijn hoofd moet naar mij gebracht worden, zodat ik de derde fase van onze aanval op de Firegut-ogers kan voorbereiden.$B$BWees gewaarschuwd, soldaat: Gor'tesh regeert niet vanaf Dreadmaul Rock, maar vanuit een gebouw van de Blackrock-orcs ten westen van Dreadmaul Rock.$B$BJe orders zijn dus simpel. Zoek Gor'tesh en hak zijn dikke kop eraf. Kom terug naar mij als het werk klaar is.$B$BHOU JE MOND, WINKY!",
+      "o": "Zoek Gor'tesh, ergens ten westen van Dreadmaul Rock. Dood Gor'tesh en breng daarna Gor'tesh's Lopped Off Head naar Oralius in de Burning Steppes.$b",
+      "p": "O, glorieuze dag! Ben je terug met het hoofd?",
+      "c": "Kijk er nou eens naar, soldaat. Walgelijk! Als de overgebleven Firegut-ogers deze dikke kop op een spies zien staan, boven op hun berg, dan breekt er massale paniek uit!$B$B<Oralius kakelt wild.>",
+      "g": [
+        [
+          "bruten",
+          "brutes (bruut)"
+        ],
+        [
+          "beslissend",
+          "decisive"
+        ],
+        [
+          "fase",
+          "phase"
+        ],
+        [
+          "voorbereiden",
+          "to prepare"
+        ],
+        [
+          "wees gewaarschuwd",
+          "be warned"
+        ],
+        [
+          "regeert",
+          "rules (regeren)"
+        ],
+        [
+          "hak ... eraf",
+          "chop off (afhakken)"
+        ],
+        [
+          "glorieuze",
+          "glorious"
+        ],
+        [
+          "overgebleven",
+          "remaining"
+        ],
+        [
+          "spies",
+          "pike, spike"
+        ],
+        [
+          "massale",
+          "mass, massive"
+        ],
+        [
+          "kakelt",
+          "cackles (kakelen)"
+        ]
+      ]
+    },
+    "3825": {
+      "t": "Ogerhoofd op een stok = feest",
+      "d": "Nog één laatste ding, soldaat.$B$BIk ben zo vrij geweest om het hoofd van Gor'tesh op een spies te zetten. Nu hoef je dit hoofd alleen nog naar de top van Dreadmaul Rock te brengen en het in de grond te steken. Als je dat doet, kijk dan hoe die laffe ogers vluchten voor hun leven! Als je plezier gehad hebt, kom dan terug naar mij. Dan beloon ik je voor al je harde werk.$B$B<Oralius lijkt het contact met de werkelijkheid te verliezen.>",
+      "o": "Neem Gor'tesh's Lopped Off Head mee en zet het neer op de top van Dreadmaul Rock. Zoek een zachte hoop aarde om de spies in te planten.",
+      "p": "En? Heb je schilderijen van het gebeuren gemaakt?",
+      "c": "Uitstekend werk, soldaat! Gewoonweg geweldig! O, ik krijg hiervoor de medaille voor moed, eh, ik bedoel: jij wordt hier rijkelijk voor beloond!$b",
+      "o1": "Hoofd van Gor'tesh geplant",
+      "g": [
+        [
+          "zo vrij geweest",
+          "taken the liberty (zo vrij zijn)"
+        ],
+        [
+          "spies",
+          "pike, spike"
+        ],
+        [
+          "laffe",
+          "cowardly (laf)"
+        ],
+        [
+          "vluchten",
+          "to flee, to run away"
+        ],
+        [
+          "beloon",
+          "reward (belonen)"
+        ],
+        [
+          "werkelijkheid",
+          "reality"
+        ],
+        [
+          "hoop aarde",
+          "mound of dirt"
+        ],
+        [
+          "planten",
+          "to plant"
+        ],
+        [
+          "gebeuren",
+          "event, happening"
+        ],
+        [
+          "gewoonweg",
+          "simply"
+        ],
+        [
+          "moed",
+          "bravery, courage"
+        ],
+        [
+          "rijkelijk",
+          "handsomely, richly"
+        ]
+      ]
+    },
+    "4022": {
+      "t": "Een voorproefje van vuur",
+      "d": "De Flight weet van je werk in de Searing Gorge.$B$BLaat het me zien, $r. De afgeworpen huid, idioot.",
+      "o": "Laat Cyrus Therepentous de Black Dragonflight Molt zien die je van Kalaran Windblade hebt gekregen.$b",
+      "p": "<De ogen van Cyrus worden twee brandende bollen.>",
+      "c": "<Cyrus bekijkt de huid.>$B$BJe hebt bewezen dat je niet helemaal nutteloos bent, sterveling.$b",
+      "e": "Bewijs getoond",
+      "g": [
+        [
+          "voorproefje",
+          "taste, foretaste"
+        ],
+        [
+          "afgeworpen",
+          "shed (afwerpen)"
+        ],
+        [
+          "huid",
+          "skin, molt"
+        ],
+        [
+          "brandende",
+          "blazing, burning"
+        ],
+        [
+          "bollen",
+          "spheres (bol)"
+        ],
+        [
+          "bekijkt",
+          "examines (bekijken)"
+        ],
+        [
+          "bewezen",
+          "proven (bewijzen)"
+        ],
+        [
+          "nutteloos",
+          "useless"
+        ],
+        [
+          "sterveling",
+          "mortal"
+        ],
+        [
+          "bewijs",
+          "proof"
+        ]
+      ]
+    },
+    "4023": {
+      "t": "Een voorproefje van vuur",
+      "d": "Zoek je de Flight? Laat me bewijs van je waarde zien, sterveling.",
+      "o": "Laat Cyrus Therepentous bewijs van je waarde zien.$B$BJe hebt het gevoel dat Cyrus al weet dat je het niet waard bent.",
+      "p": "<De ogen van Cyrus worden twee brandende bollen.>",
+      "c": "<Cyrus bekijkt de huid.>$B$BJe hebt bewezen dat je niet helemaal nutteloos bent, sterveling.",
+      "g": [
+        [
+          "voorproefje",
+          "taste, foretaste"
+        ],
+        [
+          "bewijs",
+          "proof"
+        ],
+        [
+          "waarde",
+          "worth, value"
+        ],
+        [
+          "sterveling",
+          "mortal"
+        ],
+        [
+          "waard",
+          "worthy"
+        ],
+        [
+          "brandende",
+          "blazing, burning"
+        ],
+        [
+          "bollen",
+          "spheres (bol)"
+        ],
+        [
+          "bekijkt",
+          "examines (bekijken)"
+        ],
+        [
+          "huid",
+          "skin, molt"
+        ],
+        [
+          "nutteloos",
+          "useless"
+        ]
+      ]
+    },
+    "4808": {
+      "t": "Felnok Steelspring",
+      "d": "Ik wil je nog een gunst vragen.$B$BMijn eerste onderzoek van de essentie die je verzameld hebt, laat zien dat het misschien mogelijk is om eieren van drakenwelpen te bevriezen en te bewaren! Ik wil deze theorie testen, maar eerst heb ik speciaal gemaakte technische onderdelen nodig. Mijn collega, Felnok Steelspring, kan ze maken.$B$BHier, breng deze brief naar Felnok. Er staat in wat ik nodig heb. Je vindt Felnok in Winterspring, in het stadje Everlook.",
+      "o": "Geef Tinkee's Letter aan Felnok Steelspring.",
+      "p": "Het is koud hierboven! Ik hoop dat je een deken voor me hebt meegenomen!",
+      "c": "Dat is geen deken! Maar wat hebben we hier? Een brief van Tinkee? Ik ben benieuwd wat ze te zeggen heeft...$B$BAh, ze doet onderzoek in de Burning Steppes. Dat is logisch: dat is een goede plek voor drakenvolk. O, maar kijk! Hier staat dat ze onderdelen nodig heeft voor een apparaat dat ze wil bouwen. Daar kom ik dus in beeld, hè?",
+      "g": [
+        [
+          "gunst",
+          "favor"
+        ],
+        [
+          "essentie",
+          "essence"
+        ],
+        [
+          "bevriezen",
+          "to freeze"
+        ],
+        [
+          "bewaren",
+          "to preserve, to keep"
+        ],
+        [
+          "drakenwelpen",
+          "dragon whelps (drakenwelp)"
+        ],
+        [
+          "technische onderdelen",
+          "engineering components"
+        ],
+        [
+          "collega",
+          "colleague"
+        ],
+        [
+          "deken",
+          "blanket"
+        ],
+        [
+          "benieuwd",
+          "curious"
+        ],
+        [
+          "logisch",
+          "logical, makes sense"
+        ],
+        [
+          "drakenvolk",
+          "dragonkin"
+        ],
+        [
+          "kom ... in beeld",
+          "come in, come into the picture (in beeld komen)"
+        ]
+      ]
+    },
+    "4463": {
+      "t": "Het Libram of Rumination",
+      "p": "Laat de onderdelen zien, sterveling.$B$BVoor deze creatie wil ik ook betaling: dertig goudstukken.",
+      "c": "Neem je snuisterij, dwaas. Laat me met mijn studie alleen!",
+      "g": [
+        [
+          "onderdelen",
+          "components (onderdeel)"
+        ],
+        [
+          "sterveling",
+          "mortal"
+        ],
+        [
+          "creatie",
+          "creation"
+        ],
+        [
+          "betaling",
+          "payment"
+        ],
+        [
+          "goudstukken",
+          "gold pieces (goudstuk)"
+        ],
+        [
+          "snuisterij",
+          "trinket"
+        ],
+        [
+          "dwaas",
+          "fool"
+        ]
+      ]
+    },
+    "4481": {
+      "t": "Het Libram of Constitution",
+      "p": "Alles in deze wereld heeft een prijs. De prijs voor het voorwerp dat jij zoekt, is dertig goudstukken.$B$BNatuurlijk houd ik zelf het grootste deel van de onderdelen die je verzameld hebt. Maar maak je geen zorgen, je krijgt je snuisterij.",
+      "c": "Het is een schande voor zijn nagedachtenis... dat een sterveling zoals jij zijn levenswerk afmaakt.$B$BNeem je mengsel en ga weg!",
+      "g": [
+        [
+          "voorwerp",
+          "item, object"
+        ],
+        [
+          "goudstukken",
+          "gold pieces (goudstuk)"
+        ],
+        [
+          "onderdelen",
+          "components (onderdeel)"
+        ],
+        [
+          "snuisterij",
+          "trinket"
+        ],
+        [
+          "schande",
+          "disgrace"
+        ],
+        [
+          "nagedachtenis",
+          "memory (of the dead)"
+        ],
+        [
+          "sterveling",
+          "mortal"
+        ],
+        [
+          "levenswerk",
+          "life's work"
+        ],
+        [
+          "mengsel",
+          "mixture, amalgamation"
+        ]
+      ]
+    },
+    "4482": {
+      "t": "Het Libram of Tenacity",
+      "p": "Dertig goud, $R. Dertig goud en de nodige onderdelen.",
+      "c": "Kariel deed er een tijd over die gelijk is aan meerdere levens van jou, om het libram te maken dat je nu vasthoudt, $R. En waarvoor? Zodat zijn leerling in de Burning Steppes kon staan en zijn onderzoek kon verknoeien, om een eindeloze honger naar magie te stillen... Vervloekt is deze smerige verslaving.$B$BIk walg van je gebrek aan medeleven en je onverzadigbare hebzucht. Ga weg!",
+      "g": [
+        [
+          "nodige",
+          "required (nodig)"
+        ],
+        [
+          "onderdelen",
+          "components (onderdeel)"
+        ],
+        [
+          "gelijk is aan",
+          "amounts to, equals"
+        ],
+        [
+          "leerling",
+          "disciple, pupil"
+        ],
+        [
+          "verknoeien",
+          "to ruin, to botch"
+        ],
+        [
+          "eindeloze",
+          "never-ending"
+        ],
+        [
+          "stillen",
+          "to satisfy, to quench"
+        ],
+        [
+          "vervloekt",
+          "cursed"
+        ],
+        [
+          "verslaving",
+          "addiction"
+        ],
+        [
+          "walg",
+          "am disgusted (walgen)"
+        ],
+        [
+          "gebrek",
+          "lack"
+        ],
+        [
+          "medeleven",
+          "compassion"
+        ],
+        [
+          "onverzadigbare",
+          "insatiable"
+        ],
+        [
+          "hebzucht",
+          "greed"
+        ]
+      ]
+    },
+    "4483": {
+      "t": "Het Libram of Resilience",
+      "p": "Wil je veerkracht hebben, dan wil ik dertig goud.",
+      "c": "Andere librams zijn verloren in deze wereld. Verloren op plekken waar je niet naar binnen zou durven. Plekken waarvan je zou bidden dat ze niet bestonden.$B$BIk zal de energie van deze onderdelen opdrinken. Jij krijgt het afval dat overblijft...",
+      "g": [
+        [
+          "veerkracht",
+          "resilience"
+        ],
+        [
+          "verloren",
+          "lost"
+        ],
+        [
+          "durven",
+          "to dare"
+        ],
+        [
+          "bidden",
+          "to pray"
+        ],
+        [
+          "bestonden",
+          "existed (bestaan)"
+        ],
+        [
+          "onderdelen",
+          "components (onderdeel)"
+        ],
+        [
+          "opdrinken",
+          "to drink in, to drink up"
+        ],
+        [
+          "afval",
+          "waste"
+        ],
+        [
+          "overblijft",
+          "remains (overblijven)"
+        ]
+      ]
+    },
+    "4484": {
+      "t": "Het Libram of Voracity",
+      "p": "Verspil mijn tijd niet, $R. Geef me wat ik nodig heb. Dertig goud en de onderdelen.",
+      "c": "Mijn hoofd bonkt... De energieën van de enorme ruimtes waaruit ons universum bestaat... AARGH!$B$BNeem wat je wilt en ga weg!",
+      "g": [
+        [
+          "verspil",
+          "waste (verspillen)"
+        ],
+        [
+          "onderdelen",
+          "components (onderdeel)"
+        ],
+        [
+          "bonkt",
+          "throbs, pounds (bonken)"
+        ],
+        [
+          "energieën",
+          "energies (energie)"
+        ],
+        [
+          "enorme",
+          "vast, enormous"
+        ],
+        [
+          "ruimtes",
+          "spaces, expanses (ruimte)"
+        ],
+        [
+          "universum",
+          "universe"
+        ]
+      ]
+    },
+    "4283": {
+      "t": "VIJFTIG! JAZEKER!",
+      "d": "Ik ga je een geheimpje vertellen, soldaat. Kom eens wat dichterbij.$B$BIK BEN DE ENIGE NORMALE HIER!$B$BKijk naar deze mensen! Zou je geloven dat ze allemaal gek zijn!? Nou, dat zijn ze! KNETTERGEK! GESTOORD!$B$B<Oralius praat zachter.>$B$BLaten we dat tussen mij, jou en mijn maatje Captain Winky houden.$B$B<Oralius grijpt in de lucht en knijpt.>$B$BHoe dan ooooook... Ik verzamel insignes, als aanvulling op mijn verzameling ogeroren. Orc is de smaak van de dag. Vijftig. GA!$B$B<Oralius blaast op een hoorn.>$B$BVERZENDEN!",
+      "o": "Oralius wil 50 Blackrock Medallions. De kans is groot dat je deze medaillons vindt bij de orcs in de Burning Steppes.",
+      "p": "<Oralius praat in een nogal groot, afgehakt ogeroor.>$B$BBurning Steppes roept controle. Kom in, controle.",
+      "c": "Het is je gelukt! Je beloning is: AAI OVER MIJN BUIK! TOE MAAR! AAI HEM!",
+      "g": [
+        [
+          "geheimpje",
+          "little secret (geheim)"
+        ],
+        [
+          "dichterbij",
+          "closer"
+        ],
+        [
+          "normale",
+          "sane, normal"
+        ],
+        [
+          "knettergek",
+          "nuts, completely crazy"
+        ],
+        [
+          "gestoord",
+          "crazy, deranged"
+        ],
+        [
+          "maatje",
+          "pal, buddy"
+        ],
+        [
+          "knijpt",
+          "squeezes (knijpen)"
+        ],
+        [
+          "insignes",
+          "badges (insigne)"
+        ],
+        [
+          "aanvulling",
+          "addition"
+        ],
+        [
+          "ogeroren",
+          "ogre ears (ogeroor)"
+        ],
+        [
+          "hoorn",
+          "horn"
+        ],
+        [
+          "verzenden",
+          "to ship, to send"
+        ],
+        [
+          "afgehakt",
+          "severed, chopped off (afhakken)"
+        ],
+        [
+          "aai",
+          "rub, stroke (aaien)"
+        ]
+      ]
+    },
+    "5522": {
+      "t": "Leonid Barthalomew",
+      "d": "Ik heb een bericht van mijn meester, Vectus, gekregen. Nou ja, het bericht was niet echt van Vectus... het was van iemand die Leonid Barthalomew heet. Ik ken Leonid niet, maar hij kende mijn meester, en niemand kent mijn meester tenzij hij het toestaat.$B$BLeonid zegt dat Vectus de drakeneieren wil hebben. Hij wil dat jij ze naar hem brengt, bij de Light's Hope Chapel in de Eastern Plaguelands.$B$BDat doet pijn! Waarom jij? Vertrouwt Vectus mij niet? O, laat maar... neem de eieren gewoon mee en zeg tegen Leonid dat ik gedaan heb wat onze meester bevolen heeft.",
+      "o": "Breng de Frozen Eggs naar Leonid Barthalomew in de Eastern Plaguelands.",
+      "p": "Jij bent degene die in Blackrock Spire onheil sticht, toch? Heb je wat ik gevraagd heb?",
+      "c": "Ah, heel goed. Je weet niet voor welke kwade macht je gewerkt hebt, maar nu ga je de waarheid kennen. En wees niet bang: ik ben geen dienaar van die meester. Ik ben Leonid Barthalomew, bij mijn broeders van de Argent Dawn bekend als 'the Revered'.$b$bIk heb Tinkee misleid, zodat ze jou en de drakeneieren naar mij stuurde. En het is goed dat mijn list gelukt is. Als deze eieren hun echte bestemming hadden bereikt, dan was een grote macht in de handen van de vijand gevallen.",
+      "g": [
+        [
+          "bericht",
+          "message"
+        ],
+        [
+          "tenzij",
+          "unless"
+        ],
+        [
+          "toestaat",
+          "allows (toestaan)"
+        ],
+        [
+          "drakeneieren",
+          "dragon eggs (drakenei)"
+        ],
+        [
+          "vertrouwt",
+          "trusts (vertrouwen)"
+        ],
+        [
+          "bevolen",
+          "commanded (bevelen)"
+        ],
+        [
+          "onheil sticht",
+          "makes mischief (onheil stichten)"
+        ],
+        [
+          "kwade",
+          "evil (kwaad)"
+        ],
+        [
+          "dienaar",
+          "servant"
+        ],
+        [
+          "broeders",
+          "brethren (broeder)"
+        ],
+        [
+          "misleid",
+          "tricked, deceived (misleiden)"
+        ],
+        [
+          "list",
+          "trick, ruse"
+        ],
+        [
+          "bestemming",
+          "destination"
+        ]
+      ]
+    },
+    "4262": {
+      "t": "Overmaster Pyron",
+      "d": "Mijn laatste vijf magiërs die in Blackrock Mountain rondsnuffelden, kwamen extra knapperig terug, met een blijvende oranje gnomen-afro, of erger.$B$B<Jalinda pakt wat as van de grond en laat die los in de lucht.>$B$BVooral één gemene rotzak, Overmaster Pyron, lijkt nogal wat problemen te veroorzaken. Die elementaal moet uitgeschakeld worden, zodat ons expeditieteam Blackrock Depths in kan!$B$BHij bewaakt de ingang bij de Blackrock Quarry.",
+      "o": "Dood Overmaster Pyron en keer terug naar Jalinda Sprig.$B$BJe herinnert je dat Jalinda zei dat Pyron de groeve bewaakt. Misschien moet je daar zoeken?",
+      "p": "<Jalinda lijkt naar je hoofd te staren.>",
+      "c": "Incendius? O jee...",
+      "g": [
+        [
+          "magiërs",
+          "mages (magiër)"
+        ],
+        [
+          "rondsnuffelden",
+          "snooped around (rondsnuffelen)"
+        ],
+        [
+          "knapperig",
+          "crispy"
+        ],
+        [
+          "blijvende",
+          "permanent"
+        ],
+        [
+          "as",
+          "ashes"
+        ],
+        [
+          "gemene",
+          "nasty (gemeen)"
+        ],
+        [
+          "rotzak",
+          "bugger, jerk"
+        ],
+        [
+          "veroorzaken",
+          "to cause"
+        ],
+        [
+          "elementaal",
+          "elemental"
+        ],
+        [
+          "uitgeschakeld",
+          "taken out, terminated (uitschakelen)"
+        ],
+        [
+          "bewaakt",
+          "guards (bewaken)"
+        ],
+        [
+          "groeve",
+          "quarry"
+        ],
+        [
+          "staren",
+          "to stare"
+        ]
+      ]
+    },
+    "8960": {
+      "t": "Bodley's ongelukkige lot",
+      "d": "Dus we moeten de rest van het medaillon terughalen? Bodley vinden wordt een hele klus. Hij ging terug naar Blackrock Mountain om te proberen Blackrock Spire weer binnen te komen, en hij is nooit teruggekomen.$B$BIk raad je aan om het apparaat van de goblin mee te nemen dat geesten zichtbaar maakt, want ik vrees dat het ergste gebeurd is.",
+      "o": "Reis naar Blackrock Mountain en gebruik de Extra-Dimensional Ghost Revealer om Bodley te vinden bij Blackrock Spire.",
+      "c": "Ik ben zo blij dat je me kunt zien. Eindelijk iemand om mee te praten!$B$BWil je ons helpen, $N? Helpen om het kwaad dat we gedaan hebben ongedaan te maken en alles weer recht te zetten? Als het waar is dat je het Top Piece of Lord Valthalak's Amulet al hebt, dan kan ik je denk ik de goede kant op wijzen om de andere twee delen te krijgen. Dan kun je ze weer samenvoegen en hier een einde aan maken.$B$BO, trouwens, hallo, ik heet Bodley. Leuk je te ontmoeten!",
+      "g": [
+        [
+          "ongelukkige",
+          "unfortunate"
+        ],
+        [
+          "lot",
+          "fate"
+        ],
+        [
+          "medaillon",
+          "medallion"
+        ],
+        [
+          "een hele klus",
+          "quite a job, a headache"
+        ],
+        [
+          "raad ... aan",
+          "suggest, advise (aanraden)"
+        ],
+        [
+          "zichtbaar",
+          "visible"
+        ],
+        [
+          "vrees",
+          "fear (vrezen)"
+        ],
+        [
+          "ongedaan te maken",
+          "to undo (ongedaan maken)"
+        ],
+        [
+          "recht te zetten",
+          "to put right (rechtzetten)"
+        ],
+        [
+          "wijzen",
+          "to point"
+        ],
+        [
+          "samenvoegen",
+          "to reunite, to join"
+        ]
+      ]
+    },
+    "8962": {
+      "t": "Belangrijke onderdelen",
+      "d": "$C, luister goed. Nu we de vuurschaal hebben, en de middelen om die aan te steken, hebben we nog een onderdeel nodig om haar mee te vullen: iets met een focus die sterk genoeg is om de geest van mijn overleden, vroegere kameraad te lokken.$B$BMor Grayhoof, onze bekendste druïde, had veel goede vrienden in de Cenarion Circle. Sommigen van hen zijn omgekomen door de silithid. Ik wil dat je wat Druidical Remains terughaalt bij de silithid die in de omgeving van Hive'Regal wonen, in het zuidoosten van Silithus.",
+      "o": "Verkrijg Druidical Remains en breng ze terug naar Bodley in Blackrock Mountain.",
+      "p": "Ben je nu al terug, $C, met wat ik je liet verzamelen?",
+      "c": "Goed gedaan, $N. Ik breng de essentie van de resten over in de vuurschaal.$B$BNu hoef je alleen nog naar het onderste deel van Blackrock Spire te gaan, naar de kamer waar War Master Voone woont, in Tazz'Alaor. Gebruik daar de vuurschaal om de verdorven geest van mijn vroegere makker, Mor Grayhoof, op te roepen. Hij kan niet rusten tot het stuk van het amulet van hem afgepakt is.",
+      "g": [
+        [
+          "onderdelen",
+          "components (onderdeel)"
+        ],
+        [
+          "vuurschaal",
+          "brazier"
+        ],
+        [
+          "middelen",
+          "means (middel)"
+        ],
+        [
+          "aan te steken",
+          "to light (aansteken)"
+        ],
+        [
+          "overleden",
+          "deceased"
+        ],
+        [
+          "vroegere",
+          "former"
+        ],
+        [
+          "lokken",
+          "to lure, to entice"
+        ],
+        [
+          "druïde",
+          "druid"
+        ],
+        [
+          "omgekomen",
+          "died, perished (omkomen)"
+        ],
+        [
+          "omgeving",
+          "surroundings, environs"
+        ],
+        [
+          "resten",
+          "remains (rest)"
+        ],
+        [
+          "verdorven",
+          "corrupted"
+        ],
+        [
+          "makker",
+          "comrade, mate"
+        ],
+        [
+          "afgepakt",
+          "taken away (afpakken)"
+        ]
+      ]
+    },
+    "8963": {
+      "t": "Belangrijke onderdelen",
+      "d": "$C, luister goed. Nu we de vuurschaal hebben, en de middelen om die aan te steken, hebben we nog een onderdeel nodig om haar mee te vullen: iets met een focus die sterk genoeg is om de geest van mijn overleden, vroegere kameraad te lokken.$B$BIsalien, onze priesteres, groeide op in Winterspring, in Starbreeze Village. Ik wil dat je een Starbreeze Village Relic haalt bij de Frostmaul-reuzen van Frostwhisper Gorge, in het zuiden van Winterspring. Ze staan erom bekend dat ze af en toe naar het noorden trekken om te plunderen.",
+      "o": "Verkrijg een Starbreeze Village Relic en breng het terug naar Bodley in Blackrock Mountain.",
+      "p": "Ben je nu al terug, $C, met wat ik je liet verzamelen?",
+      "c": "Goed gedaan, $N. Ik breng de essentie van het relikwie over in de vuurschaal.$B$BNu hoef je alleen nog naar de Shrine of Eldretharr in de oostvleugel van Dire Maul te gaan. Gebruik daar de vuurschaal om de geest van mijn vroegere makker, Isalien, op te roepen. Haar geest is verdorven doordat ze het stuk van Valthalak's amulet bezit, met het deel van zijn ziel dat erin zit.",
+      "g": [
+        [
+          "vuurschaal",
+          "brazier"
+        ],
+        [
+          "middelen",
+          "means (middel)"
+        ],
+        [
+          "overleden",
+          "deceased"
+        ],
+        [
+          "lokken",
+          "to lure, to entice"
+        ],
+        [
+          "priesteres",
+          "priestess"
+        ],
+        [
+          "reuzen",
+          "giants (reus)"
+        ],
+        [
+          "staan erom bekend",
+          "are known for (bekendstaan)"
+        ],
+        [
+          "plunderen",
+          "to raid, to plunder"
+        ],
+        [
+          "relikwie",
+          "relic"
+        ],
+        [
+          "oostvleugel",
+          "east wing"
+        ],
+        [
+          "verdorven",
+          "corrupted"
+        ],
+        [
+          "makker",
+          "comrade, mate"
+        ],
+        [
+          "bezit",
+          "possesses (bezitten)"
+        ]
+      ]
+    },
+    "8964": {
+      "t": "Belangrijke onderdelen",
+      "d": "$C, luister goed. Nu we de vuurschaal hebben, en de middelen om die aan te steken, hebben we nog een onderdeel nodig om haar mee te vullen: iets met een focus die sterk genoeg is om de resten van mijn overleden, vroegere kameraden op te roepen.$B$BDe broer en zus Jarien en Sothos geloofden in de weg van de Scarlet Crusade. Ze wilden ridder worden binnen die walgelijke organisatie. Ga naar Tyr's Hand in de Eastern Plaguelands en haal een Brilliant Sword of Zealotry bij de praetorianen daar.",
+      "o": "Haal een Brilliant Sword of Zealotry en breng het terug naar Bodley in Blackrock Mountain.",
+      "p": "Ben je nu al terug, $C, met wat ik je liet verzamelen?",
+      "c": "Goed gedaan, $N. Ik breng de essentie van het zwaard over in de vuurschaal.$B$BNu hoef je alleen nog naar The Crimson Throne in The Scarlet Bastion in Stratholme te gaan. Gebruik daar de vuurschaal om de resten van mijn vroegere makkers, Jarien en Sothos, op te roepen. Hun zielen zijn nog verder verdraaid doordat ze het stuk van Valthalak's amulet bezitten, met zijn geest erin.",
+      "g": [
+        [
+          "vuurschaal",
+          "brazier"
+        ],
+        [
+          "middelen",
+          "means (middel)"
+        ],
+        [
+          "resten",
+          "remains (rest)"
+        ],
+        [
+          "overleden",
+          "deceased"
+        ],
+        [
+          "ridder",
+          "knight"
+        ],
+        [
+          "walgelijke",
+          "vile, disgusting"
+        ],
+        [
+          "organisatie",
+          "organization"
+        ],
+        [
+          "praetorianen",
+          "praetorians (praetoriaan)"
+        ],
+        [
+          "makkers",
+          "comrades (makker)"
+        ],
+        [
+          "zielen",
+          "souls (ziel)"
+        ],
+        [
+          "verdraaid",
+          "twisted (verdraaien)"
+        ],
+        [
+          "bezitten",
+          "to possess"
+        ]
+      ]
+    },
+    "8965": {
+      "t": "Belangrijke onderdelen",
+      "d": "$C, luister goed. Nu we de vuurschaal hebben, en de middelen om die aan te steken, hebben we nog een onderdeel nodig om haar mee te vullen: iets met een focus die sterk genoeg is om de geest van mijn overleden, vroegere kameraad te lokken.$B$BEen ogerdodenbezweerder die met ons meereisde, Kormok, vond het heerlijk om de zielen van de verbannen doden van Purgation Isle op te roepen. Dat eiland ligt voor de zuidkust van de Hillsbrad Foothills. Ga daarheen en haal wat Soul Ashes of the Banished uit hun resten.",
+      "o": "Verkrijg Soul Ashes of the Banished en breng ze terug naar Bodley in Blackrock Mountain.",
+      "p": "Ben je nu al terug, $C, met wat ik je liet verzamelen?",
+      "c": "Goed gedaan, $N. Ik breng de essentie van de as over in de vuurschaal.$B$BNu hoef je alleen nog naar Scholomance te gaan, naar de kamer van Ras Frostwhisper. Gebruik daar de vuurschaal om de geest van mijn vroegere makker, Kormok, op te roepen. Het stuk van het amulet, met de geest van Valthalak erin, heeft hem nog verder verdorven. Hij zal niet rusten tot je het met geweld van hem afpakt.",
+      "g": [
+        [
+          "vuurschaal",
+          "brazier"
+        ],
+        [
+          "overleden",
+          "deceased"
+        ],
+        [
+          "lokken",
+          "to lure, to entice"
+        ],
+        [
+          "ogerdodenbezweerder",
+          "ogre necromancer"
+        ],
+        [
+          "meereisde",
+          "traveled along (meereizen)"
+        ],
+        [
+          "zielen",
+          "souls (ziel)"
+        ],
+        [
+          "verbannen",
+          "banished"
+        ],
+        [
+          "zuidkust",
+          "south coast"
+        ],
+        [
+          "resten",
+          "remains (rest)"
+        ],
+        [
+          "verdorven",
+          "corrupted (verderven)"
+        ],
+        [
+          "met geweld",
+          "by force, forcibly"
+        ],
+        [
+          "afpakt",
+          "takes away (afpakken)"
+        ]
+      ]
+    },
+    "8985": {
+      "t": "Meer belangrijke onderdelen",
+      "d": "$C, luister goed. Nu we weten waar het laatste stuk van het amulet is, hebben we nog een onderdeel nodig om de vuurschaal mee te vullen: iets met een focus die sterk genoeg is om de geest van mijn overleden, vroegere kameraad te lokken.$B$BIsalien, onze priesteres, groeide op in Winterspring, in Starbreeze Village. Ik wil dat je een Starbreeze Village Relic haalt bij de Frostmaul-reuzen van Frostwhisper Gorge, in het zuiden van Winterspring. Ze staan erom bekend dat ze af en toe naar het noorden trekken om te plunderen.",
+      "o": "Verkrijg een Starbreeze Village Relic en breng het terug naar Bodley in Blackrock Mountain.",
+      "p": "Ben je nu al terug, $C, met wat ik je liet verzamelen?",
+      "c": "Goed gedaan, $N. Ik breng de essentie van het relikwie over in de vuurschaal.$B$BNu hoef je alleen nog naar de Shrine of Eldretharr in de oostvleugel van Dire Maul te gaan. Gebruik daar de vuurschaal om de geest van mijn vroegere makker, Isalien, op te roepen. Haar geest is verdorven doordat ze het stuk van Valthalak's amulet bezit, met het deel van zijn ziel dat erin zit.$B$BO, trouwens, ik had nog wat bloodkelp over van je reis naar Alcaz Isle, dus ik heb er drankjes voor je van gemaakt. Kies maar!",
+      "g": [
+        [
+          "vuurschaal",
+          "brazier"
+        ],
+        [
+          "overleden",
+          "deceased"
+        ],
+        [
+          "lokken",
+          "to lure, to entice"
+        ],
+        [
+          "priesteres",
+          "priestess"
+        ],
+        [
+          "reuzen",
+          "giants (reus)"
+        ],
+        [
+          "plunderen",
+          "to raid, to plunder"
+        ],
+        [
+          "relikwie",
+          "relic"
+        ],
+        [
+          "oostvleugel",
+          "east wing"
+        ],
+        [
+          "verdorven",
+          "corrupted"
+        ],
+        [
+          "makker",
+          "comrade, mate"
+        ],
+        [
+          "bezit",
+          "possesses (bezitten)"
+        ],
+        [
+          "drankjes",
+          "potions (drankje)"
+        ]
+      ]
+    },
+    "8986": {
+      "t": "Meer belangrijke onderdelen",
+      "d": "$C, luister goed. Nu we weten waar het laatste stuk van het amulet is, hebben we nog een onderdeel nodig om de vuurschaal mee te vullen: iets met een focus die sterk genoeg is om de geest van mijn overleden, vroegere kameraad te lokken.$B$BMor Grayhoof, onze bekendste druïde, had veel goede vrienden in de Cenarion Circle. Sommigen van hen zijn omgekomen door de silithid. Ik wil dat je wat Druidical Remains terughaalt bij de silithid die in de omgeving van Hive'Regal wonen, in het zuidoosten van Silithus.",
+      "o": "Verkrijg Druidical Remains en breng ze terug naar Bodley in Blackrock Mountain.",
+      "p": "Ben je nu al terug, $C, met wat ik je liet verzamelen?",
+      "c": "Goed gedaan, $N. Ik breng de essentie van de resten over in de vuurschaal.$B$BNu hoef je alleen nog naar het onderste deel van Blackrock Spire te gaan, naar de kamer waar War Master Voone woont, in Tazz'Alaor. Gebruik daar de vuurschaal om de verdorven geest van mijn vroegere makker, Mor Grayhoof, op te roepen. Hij kan niet rusten tot het stuk van het amulet van hem afgepakt is.$B$BO, trouwens, ik had nog wat bloodkelp over van je reis naar Alcaz Isle, dus ik heb er drankjes voor je van gemaakt. Kies maar!",
+      "g": [
+        [
+          "vuurschaal",
+          "brazier"
+        ],
+        [
+          "overleden",
+          "deceased"
+        ],
+        [
+          "lokken",
+          "to lure, to entice"
+        ],
+        [
+          "druïde",
+          "druid"
+        ],
+        [
+          "omgekomen",
+          "died, perished (omkomen)"
+        ],
+        [
+          "omgeving",
+          "surroundings, environs"
+        ],
+        [
+          "resten",
+          "remains (rest)"
+        ],
+        [
+          "verdorven",
+          "corrupted"
+        ],
+        [
+          "makker",
+          "comrade, mate"
+        ],
+        [
+          "afgepakt",
+          "taken away (afpakken)"
+        ],
+        [
+          "drankjes",
+          "potions (drankje)"
+        ]
+      ]
+    },
+    "8987": {
+      "t": "Meer belangrijke onderdelen",
+      "d": "$C, luister goed. Nu we weten waar het laatste stuk van het amulet is, hebben we nog een onderdeel nodig om de vuurschaal mee te vullen: iets met een focus die sterk genoeg is om de resten van mijn overleden, vroegere kameraden op te roepen.$B$BDe broer en zus Jarien en Sothos geloofden in de weg van de Scarlet Crusade. Ze wilden ridder worden binnen die walgelijke organisatie. Ga naar Tyr's Hand in de Eastern Plaguelands en haal een Brilliant Sword of Zealotry bij de praetorianen daar.$b",
+      "o": "Haal een Brilliant Sword of Zealotry en breng het terug naar Bodley in Blackrock Mountain.",
+      "p": "Ben je nu al terug, $C, met wat ik je liet verzamelen?",
+      "c": "Goed gedaan, $N. Ik breng de essentie van het zwaard over in de vuurschaal.$B$BNu hoef je alleen nog naar The Crimson Throne in The Scarlet Bastion in Stratholme te gaan. Gebruik daar de vuurschaal om de resten van mijn vroegere makkers, Jarien en Sothos, op te roepen. Hun zielen zijn nog verder verdraaid doordat ze het stuk van Valthalak's amulet bezitten, met zijn geest erin.$B$BO, trouwens, ik had nog wat bloodkelp over van je reis naar Alcaz Isle, dus ik heb er drankjes voor je van gemaakt. Kies maar!",
+      "g": [
+        [
+          "vuurschaal",
+          "brazier"
+        ],
+        [
+          "resten",
+          "remains (rest)"
+        ],
+        [
+          "overleden",
+          "deceased"
+        ],
+        [
+          "ridder",
+          "knight"
+        ],
+        [
+          "walgelijke",
+          "vile, disgusting"
+        ],
+        [
+          "praetorianen",
+          "praetorians (praetoriaan)"
+        ],
+        [
+          "makkers",
+          "comrades (makker)"
+        ],
+        [
+          "zielen",
+          "souls (ziel)"
+        ],
+        [
+          "verdraaid",
+          "twisted (verdraaien)"
+        ],
+        [
+          "bezitten",
+          "to possess"
+        ],
+        [
+          "drankjes",
+          "potions (drankje)"
+        ]
+      ]
+    },
+    "8988": {
+      "t": "Meer belangrijke onderdelen",
+      "d": "$C, luister goed. Nu we weten waar het laatste stuk van het amulet is, hebben we nog een onderdeel nodig om de vuurschaal mee te vullen: iets met een focus die sterk genoeg is om de geest van mijn overleden, vroegere kameraad te lokken.$B$BEen ogerdodenbezweerder die met ons meereisde, Kormok, vond het heerlijk om de zielen van de verbannen doden van Purgation Isle op te roepen. Dat eiland ligt voor de zuidkust van de Hillsbrad Foothills. Ga daarheen en haal wat Soul Ashes of the Banished uit hun resten.",
+      "o": "Verkrijg Soul Ashes of the Banished en breng ze terug naar Bodley in Blackrock Mountain.",
+      "p": "Ben je nu al terug, $C, met wat ik je liet verzamelen?",
+      "c": "Goed gedaan, $N. Ik breng de essentie van de as over in de vuurschaal.$B$BNu hoef je alleen nog naar Scholomance te gaan, naar de kamer van Ras Frostwhisper. Gebruik daar de vuurschaal om de geest van mijn vroegere makker, Kormok, op te roepen. Het stuk van het amulet, met de geest van Valthalak erin, heeft hem nog verder verdorven. Hij zal niet rusten tot je het met geweld van hem afpakt.$B$BO, trouwens, ik had nog wat bloodkelp over van je reis naar Alcaz Isle, dus ik heb er drankjes voor je van gemaakt. Kies maar!",
+      "g": [
+        [
+          "vuurschaal",
+          "brazier"
+        ],
+        [
+          "overleden",
+          "deceased"
+        ],
+        [
+          "lokken",
+          "to lure, to entice"
+        ],
+        [
+          "ogerdodenbezweerder",
+          "ogre necromancer"
+        ],
+        [
+          "zielen",
+          "souls (ziel)"
+        ],
+        [
+          "verbannen",
+          "banished"
+        ],
+        [
+          "zuidkust",
+          "south coast"
+        ],
+        [
+          "resten",
+          "remains (rest)"
+        ],
+        [
+          "verdorven",
+          "corrupted (verderven)"
+        ],
+        [
+          "met geweld",
+          "by force, forcibly"
+        ],
+        [
+          "afpakt",
+          "takes away (afpakken)"
+        ],
+        [
+          "drankjes",
+          "potions (drankje)"
+        ]
+      ]
+    },
+    "8994": {
+      "t": "Laatste voorbereidingen",
+      "d": "We zijn er bijna, $c. We hoeven alleen nog een paar onderdelen te halen, zodat ik de vuurschaal kan afstemmen. Dan kan ze Lord Valthalak oproepen.$B$BAls eerste moet ik je vragen om naar Blackrock Spire te reizen en de orcs daarbinnen te doden. Ze dragen armbanden met sporen van metalen die ik nodig heb. Ik heb er dus meer dan een paar nodig om de juiste hoeveelheid eruit te halen. Daarna moet je, om het proces af te maken, een Flask of Supreme Power naar me brengen.$B$BSucces, $N!",
+      "o": "Verzamel 40 Blackrock Bracers en verkrijg een Flask of Supreme Power. Breng ze terug naar Bodley in Blackrock Mountain.",
+      "p": "We hebben een lange weg afgelegd, $N, en ik wilde even zeggen: wat er ook gebeurt, bedankt! Je hebt jezelf in levensgevaar gebracht om de overlevende leden van onze huurlingengroep, The Veiled Blade, te helpen. Wat mij betreft hoor je nu bij ons.",
+      "c": "Dat was het dan. Ik haal het metaal uit de armbanden en vul de vuurschaal met deze laatste onderdelen. Dan is ze klaar, zodat jij Lord Valthalak kunt oproepen en hem eindelijk zijn geestamulet kunt teruggeven.$B$BJe bent al ver gekomen, $N. Geef nu niet op, nu het einde in zicht is!",
+      "g": [
+        [
+          "voorbereidingen",
+          "preparations (voorbereiding)"
+        ],
+        [
+          "afstemmen",
+          "to attune, to tune"
+        ],
+        [
+          "daarbinnen",
+          "in there, therein"
+        ],
+        [
+          "armbanden",
+          "bracers, bracelets (armband)"
+        ],
+        [
+          "sporen",
+          "traces (spoor)"
+        ],
+        [
+          "hoeveelheid",
+          "amount, quantity"
+        ],
+        [
+          "afgelegd",
+          "covered, traveled (afleggen)"
+        ],
+        [
+          "levensgevaar",
+          "mortal danger"
+        ],
+        [
+          "overlevende",
+          "surviving"
+        ],
+        [
+          "huurlingengroep",
+          "mercenary company"
+        ],
+        [
+          "wat mij betreft",
+          "as far as I'm concerned"
+        ],
+        [
+          "geestamulet",
+          "spirit amulet"
+        ],
+        [
+          "geef ... niet op",
+          "don't give up, don't falter (opgeven)"
+        ]
+      ]
+    }
+  },
+  "words": {
+    "aargh": "argh (a cry of pain)",
+    "bekendste": "most prominent, best known (bekend)",
+    "broodlings": "broodlings (broodling: a young dragon whelp)",
+    "expeditieteam": "expedition crew",
+    "firegut-ogers": "Firegut ogres (oger)",
+    "frostmaul-reuzen": "Frostmaul giants (reus)",
+    "geloofden": "believed (geloven)",
+    "gnomen-afro": "gnome afro, gnome-style frizzy hair",
+    "hak": "chop (hakken)",
+    "medaille": "medal",
+    "minutenlang": "for minutes",
+    "ogerhoofd": "ogre head",
+    "ogeroor": "ogre ear",
+    "onderste": "lowest, bottom",
+    "ooooook": "ook, drawn out: also (in 'hoe dan ook' = anyhow)",
+    "oranje": "orange",
+    "sticht": "causes, makes (stichten; onheil stichten = to make mischief)",
+    "uniform": "uniform"
+  },
+  "terms": {
+    "broodling": "broodling: a young dragon whelp in the Warcraft world",
+    "silithid": "silithid: an insect-like race from Silithus in the Warcraft world",
+    "bloodkelp": "bloodkelp: a red seaweed from the Warcraft world, used in potions",
+    "libram": "libram: a magical book or tome in the Warcraft world",
+    "librams": "librams: plural of libram, magical books in the Warcraft world"
+  }
+}
