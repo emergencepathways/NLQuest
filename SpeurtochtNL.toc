@@ -165,6 +165,7 @@ Data\Batch_92_Zone_1116.lua
 Data\Batch_98_Ahn_Qiraj.lua
 Data\Batch_97_Ahn_Qiraj.lua
 Data\Batch_93_Darkmoon_Faire.lua
+Data\Batch_96_Ahn_Qiraj.lua
 
 Display.lua
 Reader.lua
