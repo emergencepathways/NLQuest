@@ -1,6 +1,7 @@
 # Changelog
 
 ## Unreleased
+- Batch 95: Zul'Gurub (Yojamba Isle) and Ahn'Qiraj at level 60 (the Zandalar Paragons of Power turn-ins for confessor, madcap, augur, demoniac and vindicator gear, the Coins of the Tribes exchanges, Essence Mangoes, Zanza's Potent Potables, Signets of the Zandalar, A Bijou for Zanza, A Collection of Heads, Nat's Measuring Tape, and the Brood of Nozdormu and Cenarion Circle shoulder, ring and cloak quests) (22 quests, 4232 in total).
 - Batch 94: Timbermaw Hold, Orgrimmar, Cooking and Stranglethorn Vale at level 56 to 60 (The Brokering of Peace, Betrayed, The Darkmoon Faire voucher, the Silithus desert dumpling cooking chain, Confront Yeh'kinya, and the Zandalar Paragons of Power turn-ins for augur, haruspex, vindicator, demoniac, illusionist, confessor, predator and madcap gear) (21 quests, 4210 in total).
 - Batch 96: Ahn'Qiraj: Brood of Nozdormu armor quests (Conqueror's, Oracle, Enigma, Avenger's and Deathdealer's sets), Mortal Champions, and the Sickle of Unyielding Strength (25 quests, 4189 in total).
 - Batch 93: Darkmoon Faire (Yebb Neblegear's ticket turn-ins, Gelvas Grimegate's prize redemptions, Sayge's fortunes), the three leatherworking specialisations, Arena Grandmaster, the start of the Eranikus chain in Swamp of Sorrows, and the Timbermaw furbolg quests (Deadwood and Winterfall) (32 quests, 4164 in total).
