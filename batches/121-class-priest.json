@@ -1,0 +1,1498 @@
+{
+  "quests": {
+    "5679": {
+      "t": "Devouring Plague",
+      "c": "Ik leer je Devouring Plague, als je denkt dat je er klaar voor bent, $N. Het is een spreuk met veel kracht, en hij helpt je in je komende gevechten. Oefen ermee -- later komen er testen.",
+      "g": [
+        [
+          "spreuk",
+          "spell"
+        ],
+        [
+          "kracht",
+          "power, strength"
+        ],
+        [
+          "komende",
+          "coming (komend)"
+        ],
+        [
+          "gevechten",
+          "battles (gevecht)"
+        ],
+        [
+          "oefen",
+          "practice (oefenen)"
+        ],
+        [
+          "testen",
+          "tests (test)"
+        ]
+      ]
+    },
+    "5680": {
+      "t": "Shadowguard",
+      "c": "Je rituelen komen snel genoeg. Voor nu leer ik je een spreuk die je goed kunt gebruiken als je met je vijanden vecht.",
+      "g": [
+        [
+          "rituelen",
+          "rites (ritueel)"
+        ],
+        [
+          "spreuk",
+          "spell"
+        ],
+        [
+          "gebruiken",
+          "use"
+        ],
+        [
+          "vijanden",
+          "enemies (vijand)"
+        ],
+        [
+          "vecht",
+          "fight (vechten)"
+        ]
+      ]
+    },
+    "3086": {
+      "t": "Een tablet met tekens",
+      "d": "Ah, toen je weg was, kwam er een tablet voor je, $N.$B$BLees het als je tijd hebt. Als ik me niet vergis, komt het van de magiërstrainer Mai'ah. Ze wil met je praten als je klaar bent.",
+      "o": "Lees de Glyphic Tablet en praat met Mai'ah bij de ingang van de Den in de Valley of Trials.",
+      "p": "Je wilt Mai'ah nu al blij maken, $N. Dat is goed. Geef Mai'ah respect, en misschien geeft Mai'ah jou ook respect. Maar genoeg daarover. Je bent hier om over magie te leren, niet om Mai'ah te horen praten.$B$BEr is maar één ding over magie dat Mai'ah je niet kan leren, $N. Dat is hoe je de corruptie stopt.",
+      "c": "Jij hoort bij de machtigste wezens op de planeet, $N... daar valt niet over te twisten. En iedereen weet het... ze weten het heel goed!$B$BMaar je moet voorzichtig zijn! Want je moet niet bang zijn voor een orc, of een elf, of een dwerg... maar voor de dingen die je niet kunt zien. Magie is krachtig. Magie laat je dingen doen die je misschien niet wilt doen. Magie laat je denken dat je machtiger bent dan je echt bent. Wees geduldig. Wees slim.$B$BAls je denkt dat je klaar bent voor training, kom dan terug naar Mai'ah. Ze leert je wat je klaar bent om te leren, geen probleem.",
+      "g": [
+        [
+          "tekens",
+          "glyphs, signs (teken)"
+        ],
+        [
+          "vergis",
+          "am mistaken (zich vergissen)"
+        ],
+        [
+          "magiërstrainer",
+          "mage trainer"
+        ],
+        [
+          "ingang",
+          "entrance"
+        ],
+        [
+          "corruptie",
+          "corruption"
+        ],
+        [
+          "machtigste",
+          "most powerful (machtig)"
+        ],
+        [
+          "wezens",
+          "beings (wezen)"
+        ],
+        [
+          "daar valt niet over te twisten",
+          "there's no arguing that"
+        ],
+        [
+          "voorzichtig",
+          "careful, wary"
+        ],
+        [
+          "krachtig",
+          "powerful"
+        ],
+        [
+          "geduldig",
+          "patient"
+        ]
+      ]
+    },
+    "3098": {
+      "t": "Een rol met tekens",
+      "d": "Ah, toen jij met de hersenloze Scourge bezig was, kwam deze rol voor je aan. Ik denk dat het belangrijk is, want er lijkt het zegel van de magiërstrainer Isabella op te staan. Ik zou eerst even de tijd nemen om hem te lezen, en daarna pas weer op pad gaan.",
+      "o": "Lees de Glyphic Scroll en praat met Isabella in de kerk in Deathknell.",
+      "p": "Ik wist dat je naar me toe zou komen, $N. Niet omdat je niet de wil hebt om je eigen pad te volgen. Je komt omdat we verwante zielen zijn. We hebben allebei pijn gevoeld. We hebben allebei geleden. En nu willen we de macht om terug te nemen wat van ons is, en dat weten we: dit land, onze levens, ons lot. Maar je moet nog veel leren.",
+      "c": "Je moet vaak bij me terugkomen als je machtig genoeg wilt worden om onze tegenstanders te vernietigen. De regels van de magie gelden nog steeds voor jou, $N. De corruptie zal je nog steeds volgen, als hongerige wolven in de nacht. Je zult merken dat haar aanraking lijkt op een verslaving, op een oude geliefde die nog steeds naast je wil zijn. Maar je kunt deze dingen op afstand houden. Ze beheersen je alleen als jij dat toelaat.$b$bGa nu, en kom terug als je machtiger bent geworden.",
+      "g": [
+        [
+          "rol",
+          "scroll"
+        ],
+        [
+          "hersenloze",
+          "mindless (hersenloos)"
+        ],
+        [
+          "zegel",
+          "seal"
+        ],
+        [
+          "op pad gaan",
+          "set out"
+        ],
+        [
+          "verwante zielen",
+          "kindred spirits"
+        ],
+        [
+          "geleden",
+          "suffered (lijden)"
+        ],
+        [
+          "lot",
+          "fate, destiny"
+        ],
+        [
+          "tegenstanders",
+          "opponents (tegenstander)"
+        ],
+        [
+          "gelden",
+          "apply"
+        ],
+        [
+          "aanraking",
+          "touch, caress"
+        ],
+        [
+          "verslaving",
+          "addiction"
+        ],
+        [
+          "geliefde",
+          "lover, beloved"
+        ],
+        [
+          "op afstand houden",
+          "keep at bay, stave off"
+        ],
+        [
+          "beheersen",
+          "control"
+        ],
+        [
+          "toelaat",
+          "allow (toelaten)"
+        ]
+      ]
+    },
+    "1881": {
+      "t": "Praat met Anastasia",
+      "d": "$N, Anastasia Hartwell heeft een taak voor iemand met jouw talenten. Praat met haar in de Magic Quarter van de Undercity. Bereid je voor op je eerste taak voor de magiërs van de Forsaken.",
+      "o": "Praat met Anastasia Hartwell.",
+      "c": "Gegroet, $N. Het was verstandig dat je op mijn oproep kwam. En nog verstandiger als je luistert naar wat ik nu zeg...",
+      "g": [
+        [
+          "taak",
+          "task"
+        ],
+        [
+          "talenten",
+          "talents (talent)"
+        ],
+        [
+          "bereid je voor",
+          "prepare yourself (zich voorbereiden)"
+        ],
+        [
+          "magiërs",
+          "mages (magiër)"
+        ],
+        [
+          "gegroet",
+          "greetings"
+        ],
+        [
+          "verstandig",
+          "wise, sensible"
+        ],
+        [
+          "oproep",
+          "call, summons"
+        ]
+      ]
+    },
+    "1882": {
+      "t": "De Balnir Farmstead",
+      "d": "De Plaguelands in het oosten zijn iets onnatuurlijks. De Lich King heeft ze bedacht. Ze verspreiden hun magie in de grond. Ze bederven en doden alles wat leeft. De vernietigende kracht van de pest heeft wel een zekere charme. Maar wij, de magiërs van de Forsaken, vinden haar wild en onbeheerst. We moeten haar inperken.$B$BMaar eerst moeten we meten hoe ver ze zich al in Tirisfal heeft verspreid. Ga naar de Balnir Farmstead in het oosten van Tirisfal. In de tuin staan bloemen: leeuwenbekjes. Pluk ze en kom terug.",
+      "o": "Breng Balnir Snapdragons naar Anastasia Hartwell in de Mage Quarter van de Undercity.",
+      "p": "Heb je de leeuwenbekjes? Die bloemsoort is heel gevoelig voor magische energie. Als we de leeuwenbekjes zo dicht bij de Plaguelands bestuderen, weten we of de pest Tirisfal Glades al heeft bereikt.",
+      "c": "Ah, dit is een mooi exemplaar. Ik stuur het naar onze apothekers. Zij bestuderen het om te zien hoe ver het bederf van de Plaguelands al gaat.$B$BGoed gedaan, $N. Voor je diensten mag je kiezen: een bol of een staf. Welke je ook kiest, hij zal heel nuttig voor je zijn.",
+      "g": [
+        [
+          "onnatuurlijks",
+          "unnatural (onnatuurlijk)"
+        ],
+        [
+          "bedacht",
+          "devised (bedenken)"
+        ],
+        [
+          "verspreiden",
+          "spread"
+        ],
+        [
+          "bederven",
+          "corrupt, spoil"
+        ],
+        [
+          "vernietigende",
+          "destructive (vernietigend)"
+        ],
+        [
+          "pest",
+          "plague"
+        ],
+        [
+          "zekere",
+          "certain (zeker)"
+        ],
+        [
+          "onbeheerst",
+          "unruly, uncontrolled"
+        ],
+        [
+          "inperken",
+          "curtail, contain"
+        ],
+        [
+          "leeuwenbekjes",
+          "snapdragons (leeuwenbekje)"
+        ],
+        [
+          "gevoelig",
+          "receptive, sensitive"
+        ],
+        [
+          "exemplaar",
+          "specimen"
+        ],
+        [
+          "apothekers",
+          "apothecaries (apotheker)"
+        ],
+        [
+          "bederf",
+          "taint, decay"
+        ],
+        [
+          "bol",
+          "orb"
+        ]
+      ]
+    },
+    "1883": {
+      "t": "Praat met Un'thuwa",
+      "d": "Un'thuwa, de stammagiër van Sen'jin Village, voelt een verstoring in de magische stromen van Durotar. Hij vraagt om hulp. Praat met Un'thuwa en doe wat je kunt om hem te helpen.$B$BDoe dit, en na een tijd ontdek je meer geheimen.",
+      "o": "Praat met Un'thuwa.",
+      "c": "Gegroet, $n. Eer aan jou, want mijn roep om hulp is nu beantwoord. Laten we hopen dat je deze taak aankunt...",
+      "g": [
+        [
+          "stammagiër",
+          "tribal mage"
+        ],
+        [
+          "verstoring",
+          "disturbance"
+        ],
+        [
+          "stromen",
+          "currents (stroom)"
+        ],
+        [
+          "geheimen",
+          "secrets (geheim)"
+        ],
+        [
+          "eer",
+          "honour, praise"
+        ],
+        [
+          "roep",
+          "call"
+        ],
+        [
+          "beantwoord",
+          "answered (beantwoorden)"
+        ],
+        [
+          "aankunt",
+          "can handle (aankunnen)"
+        ]
+      ]
+    },
+    "1884": {
+      "t": "Ju-ju-hopen",
+      "d": "De heksenmeester Zalazane van de Echo Isles heeft de normale stroom van magie in Durotar verstoord. Hij doet dat met besmette fetisjen: ju-ju-hopen. Hij heeft ze tussen zijn hutten op het hoofdeiland van de Echo Isles gezet.$B$BDeze hopen bederven onze dieren. Ze geven ook kracht aan de heksenmeesters en de helse wezens die in de donkere hoeken van het land rondsluipen.$B$BJe moet de ju-ju-hopen vernietigen, $N. Anders verandert de stroom van magie voor altijd.",
+      "o": "Vernietig 4 Ju-Ju Heaps en ga dan terug naar Un'thuwa in Sen'jin Village.",
+      "p": "Je moet opschieten, $N. Vernietig de ju-ju-hopen!",
+      "c": "Ik voel dat de ju-ju-hopen van Zalazane vernietigd zijn. Met tijd en geluk wordt de stroom van magie in Durotar weer normaal.$b$bJe hebt iets groots gedaan voor je volk, $N. En je hebt ons, de magiërs van de Horde, laten zien wat je waard bent.",
+      "o1": "Ju-Ju Heaps vernietigd",
+      "g": [
+        [
+          "heksenmeester",
+          "warlock"
+        ],
+        [
+          "verstoord",
+          "disrupted (verstoren)"
+        ],
+        [
+          "besmette",
+          "tainted (besmet)"
+        ],
+        [
+          "fetisjen",
+          "fetishes (fetisj)"
+        ],
+        [
+          "hopen",
+          "heaps (hoop)"
+        ],
+        [
+          "hutten",
+          "huts (hut)"
+        ],
+        [
+          "hoofdeiland",
+          "main island"
+        ],
+        [
+          "helse",
+          "infernal (hels)"
+        ],
+        [
+          "rondsluipen",
+          "lurk, sneak around"
+        ],
+        [
+          "opschieten",
+          "hurry"
+        ],
+        [
+          "volk",
+          "people"
+        ],
+        [
+          "waard",
+          "worth"
+        ]
+      ]
+    },
+    "1959": {
+      "t": "Meld je bij Anastasia",
+      "d": "De magiërs van de Undercity hebben een magische verstoring in de stad opgemerkt. Ze hebben een bericht gestuurd: magiërs van de Horde moeten het onderzoeken.$B$BAnastasia Hartwell kan je meer vertellen. Praat met haar in de Magic Quarter in de Undercity.",
+      "o": "Praat met Anastasia Hartwell.",
+      "c": "Het is waar. Er is een magische verstoring in onze stad. We weten nog niet waar ze vandaan komt, of ze kwaadaardig of goedaardig is. Eerst moeten we meer informatie verzamelen...$B$BEn daarmee, $N, komen we bij jouw taak.",
+      "g": [
+        [
+          "meld je",
+          "report (zich melden)"
+        ],
+        [
+          "verstoring",
+          "disturbance"
+        ],
+        [
+          "opgemerkt",
+          "noticed (opmerken)"
+        ],
+        [
+          "bericht",
+          "message, word"
+        ],
+        [
+          "onderzoeken",
+          "investigate"
+        ],
+        [
+          "kwaadaardig",
+          "malign, evil"
+        ],
+        [
+          "goedaardig",
+          "benign"
+        ],
+        [
+          "verzamelen",
+          "gather"
+        ]
+      ]
+    },
+    "1961": {
+      "t": "Materialen verzamelen",
+      "d": "Het is tijd dat je je eerste magiërsgewaad aantrekt, $N. Het laat zien welke plaats je hebt, en het bewijst wat je waard bent.$B$BOm het gewaad te krijgen, moet je de manastenen van de magiërs van Dalaran in Silverpine verzamelen. Ze geloven ongeveer hetzelfde als wij. Daarom is het een beetje onprettig om ze te doden. Maar als ze niet sterk genoeg zijn om zich tegen ons te verzetten, dan verdienen ze hun leven niet.$B$BBreng de stenen en een voorraad linnen naar Josef Gregorian in de kleermakerij van de Magic Quarter.",
+      "o": "Breng 10 Linen en 6 Dalaran Mana Gems naar Josef Gregorian.",
+      "p": "Anastasia zei dat je naar me toe zou komen. Ik ben klaar om je gewaad te maken. Heb je de stenen en het linnen?",
+      "c": "Dit is heel goed materiaal. Ik heb niet het talent om de kwaliteit van deze manastenen te beoordelen. Maar we weten snel of ze genoeg kracht hebben om Spellfire Robes te maken...",
+      "g": [
+        [
+          "magiërsgewaad",
+          "mage's robe"
+        ],
+        [
+          "aantrekt",
+          "put on (aantrekken)"
+        ],
+        [
+          "bewijst",
+          "proves (bewijzen)"
+        ],
+        [
+          "manastenen",
+          "mana gems (manasteen)"
+        ],
+        [
+          "onprettig",
+          "unpleasant, distasteful"
+        ],
+        [
+          "verzetten",
+          "resist (zich verzetten)"
+        ],
+        [
+          "verdienen",
+          "deserve"
+        ],
+        [
+          "voorraad",
+          "supply"
+        ],
+        [
+          "linnen",
+          "linen"
+        ],
+        [
+          "kleermakerij",
+          "tailor shop"
+        ],
+        [
+          "beoordelen",
+          "judge, gauge"
+        ]
+      ]
+    },
+    "1962": {
+      "t": "Spellfire Robes",
+      "c": "Hier is je gewaad, $N. Draag het goed.",
+      "g": [
+        [
+          "gewaad",
+          "robe"
+        ],
+        [
+          "draag",
+          "wear (dragen)"
+        ]
+      ]
+    },
+    "1960": {
+      "t": "Onderzoek de alchemistenwinkel",
+      "d": "De alchemistenwinkel van Algernon in het Apothecarium is het middelpunt van een vreemde verstoring. Onzichtbare wezens lopen door de winkel. Ze bestaan alleen uit magie. Daar moet een reden voor zijn, en die moeten we vinden!$B$BOnderzoek de verstoring en vang die wezens. Pak een kist met kistjes en een rol van achter mij. Gebruik de rol bij de winkel om de wezens zichtbaar te maken. Versla ze met je spreuken, en gooi dan een kistje neer om ze te vangen. Kom terug met de gevulde kistjes, de lege kistjes en de bezwering.",
+      "o": "Haal een Cantation of Manifestation en een Chest of Containment Coffers achter Anastasia Hartwell vandaan. Breng 3 Filled Containment Coffers, de Chest of Containment Coffers en de Cantation of Manifestation naar Anastasia in de Undercity.",
+      "p": "Heb je de verstoring onderzocht, $N? Heb je de wezens gevangen?",
+      "c": "Heel goed, $N. Onze beste denkers gaan de wezens in deze kistjes bestuderen. En we gaan uitzoeken waarom ze in de Undercity zijn.$B$BMisschien komen ze door een scheur in de natuurlijke stroom van magie. Dan moeten we uitzoeken of die scheur toevallig was. Als hij niet toevallig was, maar een aanval van een magische kracht, dan moeten we ons voorbereiden op nieuwe, ernstigere verstoringen.",
+      "g": [
+        [
+          "alchemistenwinkel",
+          "alchemist shop"
+        ],
+        [
+          "middelpunt",
+          "centre, locus"
+        ],
+        [
+          "onzichtbare",
+          "invisible (onzichtbaar)"
+        ],
+        [
+          "bestaan uit",
+          "consist of"
+        ],
+        [
+          "kistjes",
+          "small chests, coffers (kistje)"
+        ],
+        [
+          "zichtbaar",
+          "visible"
+        ],
+        [
+          "versla",
+          "defeat (verslaan)"
+        ],
+        [
+          "bezwering",
+          "incantation"
+        ],
+        [
+          "denkers",
+          "thinkers (denker)"
+        ],
+        [
+          "uitzoeken",
+          "find out"
+        ],
+        [
+          "scheur",
+          "rift, tear"
+        ],
+        [
+          "toevallig",
+          "random, by chance"
+        ],
+        [
+          "voorbereiden",
+          "prepare"
+        ],
+        [
+          "ernstigere",
+          "more serious (ernstig)"
+        ]
+      ]
+    },
+    "1943": {
+      "t": "Praat met Deino",
+      "d": "De trollenmagiër Deino heeft je hulp nodig, $N. Ze woont in Orgrimmar, in de Darkbriar Lodge.",
+      "o": "Praat met Deino.",
+      "c": "Goed, je bent gekomen. Mijn taak is niet makkelijk, maar wel heel belangrijk voor het genootschap van magiërs. Als je me helpt, weet ik zeker dat je het de moeite waard vindt.",
+      "g": [
+        [
+          "trollenmagiër",
+          "troll mage"
+        ],
+        [
+          "woont",
+          "lives (wonen)"
+        ],
+        [
+          "genootschap",
+          "society"
+        ],
+        [
+          "de moeite waard",
+          "worthwhile"
+        ]
+      ]
+    },
+    "1944": {
+      "t": "Het water van Xavian",
+      "d": "De beroemde stad Xavian ligt diep verborgen in het oosten van Ashenvale. De verhalen over haar oude kennis zijn goed bekend bij geleerden. Men zegt dat het water van Xavian grote magische krachten heeft.$B$BIk wil graag een monster van dat water, van de bron.$B$BNeem deze fles mee en ga naar Xavian. Schep water onder aan de hoogste waterval, en kom dan bij me terug. En wees voorzichtig als je door die oude stad loopt. Saters hebben de ruïnes nu in handen, en ze houden er niet van als magiërs zich met hun zaken bemoeien.",
+      "o": "Breng het Xavian Water Sample naar Deino in Orgrimmar.",
+      "p": "Ik ben blij dat je heelhuids terug bent, $N. Heb je het watermonster? Ik wil graag de eigenschappen ervan bestuderen.",
+      "c": "Ah, heel goed. Ik hoop dat de saters van Xavian je niet veel problemen gaven?$B$BDank je, $N. Ik ga dit monster van het water van Xavian meteen bestuderen.",
+      "g": [
+        [
+          "beroemde",
+          "fabled, famous (beroemd)"
+        ],
+        [
+          "verborgen",
+          "hidden"
+        ],
+        [
+          "kennis",
+          "knowledge"
+        ],
+        [
+          "geleerden",
+          "scholars, the learned (geleerde)"
+        ],
+        [
+          "men zegt",
+          "it is said"
+        ],
+        [
+          "monster",
+          "sample"
+        ],
+        [
+          "bron",
+          "source, spring"
+        ],
+        [
+          "schep",
+          "scoop (scheppen)"
+        ],
+        [
+          "waterval",
+          "waterfall"
+        ],
+        [
+          "saters",
+          "satyrs (sater)"
+        ],
+        [
+          "in handen",
+          "in their hands, held"
+        ],
+        [
+          "bemoeien",
+          "meddle, pry (zich bemoeien)"
+        ],
+        [
+          "heelhuids",
+          "unharmed, in one piece"
+        ],
+        [
+          "eigenschappen",
+          "properties (eigenschap)"
+        ]
+      ]
+    },
+    "1945": {
+      "t": "De Laughing Sisters",
+      "d": "Als dank voor je diensten heb ik gezorgd dat er een nieuw gewaad voor je wordt gemaakt. Maar dan moet je wel de nodige materialen verzamelen...$B$BVoor dit gewaad moet je terug naar Ashenvale. Daar haal je haarlokken van de laughing sisters. Dat zijn dryaden die zich verzamelen bij de Raynewood Retreat.$B$BAls je hun haar hebt, breng je het naar Kil'hala. Hij is een trollenkleermaker bij de Crossroads in The Barrens. Hij verwacht je, en hij zal je gewaad maken.",
+      "o": "Breng 12 Laughing Sister's Hairs naar Kil'hala bij de Crossroads.",
+      "p": "Gegroet, $N. Deino zei dat je zou komen met het haar van de laughing sisters. Heb je het?",
+      "c": "Ah, van dit haar kan ik een prachtig gewaad weven, $N. Het is jammer dat de laughing sisters moesten sterven om het af te staan. Maar ik betwijfel of ze het ooit vrijwillig zouden geven.$B$BHet is jammer, maar niet heel erg.",
+      "g": [
+        [
+          "diensten",
+          "services (dienst)"
+        ],
+        [
+          "gezorgd",
+          "arranged (zorgen)"
+        ],
+        [
+          "nodige",
+          "necessary (nodig)"
+        ],
+        [
+          "haarlokken",
+          "locks of hair (haarlok)"
+        ],
+        [
+          "dryaden",
+          "dryads (dryade)"
+        ],
+        [
+          "trollenkleermaker",
+          "troll tailor"
+        ],
+        [
+          "verwacht",
+          "expects (verwachten)"
+        ],
+        [
+          "weven",
+          "weave"
+        ],
+        [
+          "jammer",
+          "a pity"
+        ],
+        [
+          "af te staan",
+          "to give up, part with (afstaan)"
+        ],
+        [
+          "betwijfel",
+          "doubt (betwijfelen)"
+        ],
+        [
+          "vrijwillig",
+          "willingly"
+        ]
+      ]
+    },
+    "1946": {
+      "t": "Een kledingstuk van nether-lace",
+      "c": "Hier is je nether-lace, $N. Het zit lekker en het is sterk, en er zit de magie in van het haar van de laughing sisters.$B$BVeel plezier ermee. En als je het goed vindt, zeg dat dan alsjeblieft tegen Deino. Bij haar wil ik graag in een goed blaadje blijven staan...",
+      "g": [
+        [
+          "kledingstuk",
+          "garment"
+        ],
+        [
+          "zit lekker",
+          "is comfortable"
+        ],
+        [
+          "veel plezier ermee",
+          "enjoy it"
+        ],
+        [
+          "alsjeblieft",
+          "please"
+        ],
+        [
+          "in een goed blaadje staan",
+          "be in someone's good books"
+        ]
+      ]
+    },
+    "3090": {
+      "t": "Het besmette perkament",
+      "d": "Ah, toen je weg was, kwam er een perkament voor je, $N.$B$BIk heb liever niets met heksenmeesters te maken, als het kan. Maar ik denk dat je het moet lezen als je tijd hebt. Als ik me niet vergis, komt het van Nartok, je nieuwe trainer. Hij wil met je praten als je klaar bent.",
+      "o": "Lees het Tainted Parchment en praat met Nartok in de Den in de Valley of Trials.",
+      "p": "Eindelijk ben je er... en ook nog onopvallend. Goed.$b$bOnze wereld zit vol dwazen, $N. Zelfs de machtige Thrall heeft grotere fouten dan de meesten kunnen zien. Hij keert zich af van de macht die we nodig hebben om dit land helemaal van ons te maken! We zijn niet meer het volk dat werd gemanipuleerd en gebruikt door wezens uit de Nether. We zijn ons eigen volk. We zijn trots... en we zijn sterk.",
+      "c": "En nu hoor jij ook bij ons. Begrijp me niet verkeerd, $N. Je hebt toegang tot macht waar velen jaloers op zullen zijn. Maar dat betekent niet dat ze je makkelijk accepteren. Thrall laat ons soort toe in Orgrimmar omdat we nog steeds zijn eigen volk zijn. Hij kan zich niet van ons afkeren, want dan zouden we net zo zielig worden als de mensen die hem tot slaaf maakten. Wat ik bedoel: wees voorzichtig. Je kunt machtig zijn, maar als je dwaas bent, ben je zo goed als dood.$b$bAls je training in spreuken nodig hebt, kom dan terug naar mij.",
+      "g": [
+        [
+          "besmette",
+          "tainted (besmet)"
+        ],
+        [
+          "perkament",
+          "parchment"
+        ],
+        [
+          "heb liever",
+          "would rather (liever hebben)"
+        ],
+        [
+          "vergis",
+          "am mistaken (zich vergissen)"
+        ],
+        [
+          "onopvallend",
+          "discreetly, unnoticed"
+        ],
+        [
+          "dwazen",
+          "fools (dwaas)"
+        ],
+        [
+          "keert zich af",
+          "turns his back (zich afkeren)"
+        ],
+        [
+          "gemanipuleerd",
+          "manipulated (manipuleren)"
+        ],
+        [
+          "toegang",
+          "access"
+        ],
+        [
+          "jaloers",
+          "jealous"
+        ],
+        [
+          "zielig",
+          "pathetic, pitiful"
+        ],
+        [
+          "tot slaaf maakten",
+          "enslaved (tot slaaf maken)"
+        ],
+        [
+          "zo goed als",
+          "as good as"
+        ]
+      ]
+    },
+    "3099": {
+      "t": "De besmette rol",
+      "d": "Ah, toen jij met de hersenloze Scourge bezig was, kwam deze rol voor je aan. Ik denk dat het belangrijk is, want er lijkt het zegel van de heksenmeestertrainer Maximillion op te staan. Ik zou eerst even de tijd nemen om hem te lezen, en daarna pas weer op pad gaan.",
+      "o": "Lees de Tainted Scroll en praat met Maximillion in Deathknell.",
+      "p": "Welkom, $gbroeder:zuster;. Ik wist dat je zou komen. Het was maar een kwestie van tijd.$b$bWat ik zei, vond je interessant, nietwaar? Ik raakte een gevoelige snaar... iets in jou wist dat mijn woorden de waarheid waren. Goed.$b$bMaar weet dit: ik ben geen verrader van Sylvanas. Eigenlijk zou ze mijn woorden juist waarderen. Want het waren haar eigen ideeën die de Forsaken in hun huidige positie hebben gebracht.",
+      "c": "Ik zei dat een slaaf altijd een slaaf blijft, wie de meester ook is. Weet je dat nog? We weten allebei dat juist die soort controle, die soort macht, ons nu drijft. We willen dat wezens ons dienen. We weten dat we machtiger zijn en meer respect verdienen dan anderen ons geven... en dus gaan we het nu nemen.$b$bIk zal je bondgenoot zijn in deze strijd: de strijd voor onze eigen vrijheid. De vrijheid om zelf te kiezen aan wie we trouw zijn. Als je je klaar voelt, kom dan terug. Dan leer ik je alles wat ik weet.",
+      "g": [
+        [
+          "hersenloze",
+          "mindless (hersenloos)"
+        ],
+        [
+          "zegel",
+          "seal"
+        ],
+        [
+          "heksenmeestertrainer",
+          "warlock trainer"
+        ],
+        [
+          "kwestie",
+          "matter, question"
+        ],
+        [
+          "een gevoelige snaar raken",
+          "strike a chord"
+        ],
+        [
+          "verrader",
+          "traitor"
+        ],
+        [
+          "waarderen",
+          "appreciate"
+        ],
+        [
+          "huidige",
+          "current (huidig)"
+        ],
+        [
+          "slaaf",
+          "slave"
+        ],
+        [
+          "drijft",
+          "drives (drijven)"
+        ],
+        [
+          "dienen",
+          "serve"
+        ],
+        [
+          "bondgenoot",
+          "ally"
+        ],
+        [
+          "strijd",
+          "struggle"
+        ],
+        [
+          "trouw",
+          "loyal"
+        ]
+      ]
+    },
+    "1470": {
+      "t": "Door de sluier",
+      "d": "Gegroet, kind. Ik zie dat je nog jong bent in de wegen van de heksenmeester. De macht ligt nog buiten je bereik. Ik voel dat je graag wilt leren.$b$bEn je zult leren.$b$bIn onwetendheid zit geen kracht. Kennis is onze grootste macht. Als we kennis gebruiken, kunnen we de chaotische magie en de wezens van de leegte beheersen. We buigen ze naar onze wil.$b$bIk zal je laten zien hoe je een dienaar aan je wil bindt. Maar eerst moet je me drie schedels brengen van de Rattlecage Skeletons bij de verlaten smederij.",
+      "o": "Breng Venya Marthand 3 Rattlecage Skulls.",
+      "p": "Je macht is nu nog klein. Toch denk ik dat je de mogelijkheden al voelt.$b$bZelfs de doden kunnen zich levend voelen als die macht door ons heen stroomt.",
+      "c": "Je bent nog niet getest en je bent nog jong in je opleiding. Toch heb je laten zien dat je genoeg kunt om een imp op te roepen en te binden. Laat je niet misleiden door de kleine gestalte van een imp. Hij heeft weinig lichaamskracht, maar hij heeft krachten en een slimheid die je goed zullen helpen.$b$bLuister goed, $N. Ik herhaal deze les niet, en ik laat het aan jou over om haar onder de knie te krijgen.",
+      "g": [
+        [
+          "sluier",
+          "veil"
+        ],
+        [
+          "bereik",
+          "reach, grasp"
+        ],
+        [
+          "onwetendheid",
+          "ignorance"
+        ],
+        [
+          "leegte",
+          "void"
+        ],
+        [
+          "buigen",
+          "bend"
+        ],
+        [
+          "dienaar",
+          "servant"
+        ],
+        [
+          "schedels",
+          "skulls (schedel)"
+        ],
+        [
+          "smederij",
+          "smithy"
+        ],
+        [
+          "mogelijkheden",
+          "possibilities (mogelijkheid)"
+        ],
+        [
+          "stroomt",
+          "flows, courses (stromen)"
+        ],
+        [
+          "misleiden",
+          "deceive"
+        ],
+        [
+          "gestalte",
+          "size, figure"
+        ],
+        [
+          "herhaal",
+          "repeat (herhalen)"
+        ],
+        [
+          "onder de knie krijgen",
+          "master"
+        ]
+      ]
+    },
+    "1485": {
+      "t": "De Vile Familiars",
+      "d": "De heksenmeesters die vóór ons kwamen, hebben het wantrouwen van de Horde verdiend. We worden geduld, maar niet geliefd.$b$bToch heeft dat de heksenmeesters niet dichter bij elkaar gebracht. Velen kiezen ervoor om afgezonderd te leven en alleen met hun magie te experimenteren. Ik zal je niet de ene of de andere kant op sturen. Ik help je alleen om te groeien.$b$bIk leer je de kunst van het oproepen. Maar breng me eerst zes koppen van de Vile Familiars uit de grot in het noordoosten.",
+      "o": "Breng 6 Vile Familiar Heads naar Ruzan.",
+      "p": "Het is belangrijk dat je de wezens kunt beheersen die je met je magie oproept. Er zijn al zo weinig mensen die de wegen van de $C willen leren. Ik ga je leven niet op het spel zetten door je iets te leren als je er nog niet klaar voor bent.",
+      "c": "Tijdens je training als $C leer je veel soorten wezens op te roepen. Sommige lijken het niet, maar ze zijn allemaal nuttige hulpmiddelen.$B$BLaat je niet misleiden door de kleine gestalte van de imp. Zoals je vast hebt gemerkt, is hij toch een gevaarlijke tegenstander.",
+      "g": [
+        [
+          "wantrouwen",
+          "distrust"
+        ],
+        [
+          "geduld",
+          "tolerated (dulden)"
+        ],
+        [
+          "geliefd",
+          "loved"
+        ],
+        [
+          "afgezonderd",
+          "reclusively, secluded"
+        ],
+        [
+          "experimenteren",
+          "experiment, dabble"
+        ],
+        [
+          "oproepen",
+          "summoning, summon"
+        ],
+        [
+          "op het spel zetten",
+          "put at risk"
+        ],
+        [
+          "soorten",
+          "sorts, kinds (soort)"
+        ],
+        [
+          "hulpmiddelen",
+          "tools (hulpmiddel)"
+        ],
+        [
+          "gestalte",
+          "size, figure"
+        ],
+        [
+          "gemerkt",
+          "noticed (merken)"
+        ],
+        [
+          "tegenstander",
+          "adversary"
+        ]
+      ]
+    },
+    "1499": {
+      "t": "De Vile Familiars",
+      "d": "Zureetha stuurt beginners zoals jij naar de grot vlak bij de plek van je gevecht met de Vile Familiars. Daar moeten ze het aantal wezens kleiner maken.$b$bIk denk dat het goed is als je ervaring opdoet door haar te helpen. Vertel haar zeker dat je hebt geholpen met het imp-probleem. Ze heeft vast een beloning voor je.",
+      "o": "Praat met Zureetha Fargaze.",
+      "c": "Je hebt het goed gedaan, $n.$b$bDe Vile Familiars waren maar huisdieren van de duistere machten in de Burning Blade. Toch voorspelt je succes tegen hen grotere daden in de toekomst.",
+      "g": [
+        [
+          "beginners",
+          "novices (beginner)"
+        ],
+        [
+          "vlak bij",
+          "close to"
+        ],
+        [
+          "aantal",
+          "number"
+        ],
+        [
+          "ervaring opdoet",
+          "gain experience (ervaring opdoen)"
+        ],
+        [
+          "beloning",
+          "reward"
+        ],
+        [
+          "huisdieren",
+          "pets (huisdier)"
+        ],
+        [
+          "duistere",
+          "dark (duister)"
+        ],
+        [
+          "voorspelt",
+          "foretells (voorspellen)"
+        ],
+        [
+          "daden",
+          "deeds (daad)"
+        ]
+      ]
+    },
+    "1471": {
+      "t": "De binding",
+      "d": "Je hebt de oproepcirkel onder ons toch wel gezien? Alleen daar kun je een vrije voidwalker oproepen.$B$BMet deze runen kun je hem oproepen. Daarna moet je hem overheersen met wapens en magie.$B$BAls hij onderworpen is, is hij aan jou gebonden. Kom dan naar mij. Dan leg ik je de oproepspreuk uit. Dan kan hij je dienen, voor welk doel je ook wilt.",
+      "o": "Roep met de Runes of Summoning een voidwalker op en onderwerp hem. Breng daarna de Runes of Summoning terug naar Carendin Halgar in de Magic Quarter van de Undercity.",
+      "p": "Ik verwacht dat ik over je succes hoor, $N. Maar als je faalt, is het nog je kleinste zorg dat je mijn verwachtingen niet waarmaakt.",
+      "c": "Je hebt het goed gedaan, $N. Nu leer ik je de spreuk om de voidwalker op te roepen.$B$BDe kracht die hij op jou losliet, kun jij nu zelf bevelen. Gebruik haar verstandig.",
+      "g": [
+        [
+          "binding",
+          "binding"
+        ],
+        [
+          "oproepcirkel",
+          "summoning circle"
+        ],
+        [
+          "runen",
+          "runes (rune)"
+        ],
+        [
+          "overheersen",
+          "dominate"
+        ],
+        [
+          "onderworpen",
+          "subdued (onderwerpen)"
+        ],
+        [
+          "gebonden",
+          "bound (binden)"
+        ],
+        [
+          "oproepspreuk",
+          "summoning spell"
+        ],
+        [
+          "faalt",
+          "fail (falen)"
+        ],
+        [
+          "zorg",
+          "worry"
+        ],
+        [
+          "verwachtingen",
+          "expectations (verwachting)"
+        ],
+        [
+          "waarmaakt",
+          "live up to (waarmaken)"
+        ],
+        [
+          "losliet",
+          "unleashed (loslaten)"
+        ],
+        [
+          "bevelen",
+          "command"
+        ]
+      ]
+    },
+    "1473": {
+      "t": "Een wezen uit de leegte",
+      "d": "Iedereen lijkt het erover eens dat je klaar bent om een voidwalker te leren oproepen.$b$bHet is een wezen dat gemaakt is van de chaos die daarachter ligt. Als je er een oproept maar hem niet kunt beheersen, word je in stukken gescheurd.$b$bDe eerste voidwalker werd opgeroepen door Egalin. In zijn toverboek staat uitgelegd hoe het moet.$b$bHelaas heeft een agent van de Scarlet Crusade het boek van ons gestolen. Hij heeft het verstopt in zijn basis, in een toren in het westen. Breng het naar mij, dan geef ik je die kennis door.",
+      "o": "Haal Egalin's Grimoire terug en breng het naar Carendin Halgar in de Temple of the Damned.",
+      "p": "Egalin was de leraar die mij lesgaf. Hij hoefde nauwelijks te kijken, en hij kon de voidwalker die hij had opgeroepen al bevelen.$B$BToen het mijn beurt was om het te proberen, had ik te veel zelfvertrouwen. Speel niet met de krachten die je gebruikt, $N. Ze kunnen zelfs de waakzamen verslinden.",
+      "c": "Ah, dit is uitstekend. Perrine wist waarschijnlijk niet hoeveel echte kracht er zat in het muffe boek dat hij van ons had gestolen.$B$BHet zal ons niet nog eens ontglippen. Kijk goed, $N, naar de opbouw van de spreuk en de manier waarop je je kracht moet sturen.",
+      "g": [
+        [
+          "leegte",
+          "void"
+        ],
+        [
+          "het erover eens",
+          "in agreement (het eens zijn)"
+        ],
+        [
+          "gescheurd",
+          "torn (scheuren)"
+        ],
+        [
+          "toverboek",
+          "grimoire, spellbook"
+        ],
+        [
+          "helaas",
+          "unfortunately"
+        ],
+        [
+          "verstopt",
+          "hidden (verstoppen)"
+        ],
+        [
+          "nauwelijks",
+          "hardly"
+        ],
+        [
+          "beurt",
+          "turn"
+        ],
+        [
+          "zelfvertrouwen",
+          "self-confidence"
+        ],
+        [
+          "waakzamen",
+          "the vigilant (waakzaam)"
+        ],
+        [
+          "verslinden",
+          "devour, consume"
+        ],
+        [
+          "muffe",
+          "musty (muf)"
+        ],
+        [
+          "ontglippen",
+          "slip away"
+        ],
+        [
+          "opbouw",
+          "structure"
+        ],
+        [
+          "sturen",
+          "channel, steer"
+        ]
+      ]
+    },
+    "1478": {
+      "t": "Halgar roept je op",
+      "d": "Ah, $n! Ik heb net bericht gekregen van Carendin Halgar. Hij wil je zien voor meer training.$b$bJe mag trots op jezelf zijn, $n. Het gebeurt niet elke dag dat Meester Halgar zelf een jonge heksenmeester les wil geven.$b$bJe vindt hem in de Magic Quarter van de Undercity, bij de Temple of the Damned.",
+      "o": "Praat met Carendin Halgar in de Undercity.",
+      "c": "Goed, ik zie dat Ageron je heeft gevonden, $N. Laten we weinig tijd verspillen aan praatjes en beleefdheden. We richten ons op je training. Je moet nog veel leren.",
+      "g": [
+        [
+          "roept je op",
+          "summons you (oproepen)"
+        ],
+        [
+          "bericht",
+          "word, message"
+        ],
+        [
+          "trots",
+          "proud"
+        ],
+        [
+          "meester",
+          "master"
+        ],
+        [
+          "les geven",
+          "teach"
+        ],
+        [
+          "verspillen",
+          "waste"
+        ],
+        [
+          "praatjes",
+          "small talk (praatje)"
+        ],
+        [
+          "beleefdheden",
+          "pleasantries (beleefdheid)"
+        ],
+        [
+          "richten ons op",
+          "focus on (zich richten op)"
+        ]
+      ]
+    },
+    "1506": {
+      "t": "Gan'rul roept je op",
+      "d": "Jij daar. $n, toch?$b$bIk hoop dat je het niet druk hebt, want Gan'rul wil je meteen zien. Je vindt hem bij de oudere heksenmeesters in de Cleft of Shadow.$b$bIk heb al eerder met Gan'rul te maken gehad. Daarom weet ik: je oproep is óf iets heel goeds, óf iets heel slechts.",
+      "o": "Praat met Gan'rul Bloodeye in Orgrimmar.",
+      "c": "Goed. Ik was bang dat Ophek je niet zou bereiken.$B$BHet is tijd dat ik je training als heksenmeester verder breng. Alles waar je nu mee bezig bent, moet wachten.$B$BIk neem aan dat dat geen probleem is?",
+      "g": [
+        [
+          "druk",
+          "busy"
+        ],
+        [
+          "meteen",
+          "right away"
+        ],
+        [
+          "oudere",
+          "senior, older (oud)"
+        ],
+        [
+          "te maken gehad",
+          "dealt with (te maken hebben)"
+        ],
+        [
+          "oproep",
+          "summons"
+        ],
+        [
+          "bereiken",
+          "reach"
+        ],
+        [
+          "verder breng",
+          "further (verder brengen)"
+        ],
+        [
+          "neem aan",
+          "trust, assume (aannemen)"
+        ]
+      ]
+    },
+    "1501": {
+      "t": "Een wezen uit de leegte",
+      "d": "Er zijn nog zo weinig heksenmeesters... We lopen veel risico, maar die risico's zijn het waard. Je kunnen moet snel groeien, als je nuttig wilt zijn voor de Horde en de Warchief.$b$bHet is tijd dat je een nieuwe oproepspreuk leert.$b$bEerst moet je de Tablet of Verga terughalen. Heksenmeesters van de Burning Blade hebben hem gestolen. Hij ligt nu in hun schuilplaats in Skull Rock, ten oosten van de stad. Met die tablet laat ik je de runen zien die je nodig hebt om een voidwalker op te roepen.",
+      "o": "Haal de Tablet of Verga op voor Gan'rul Bloodeye in Orgrimmar.",
+      "p": "Heb je de Tablet of Verga, $N? Zo niet, praat dan pas weer met me als je hem hebt.",
+      "c": "Goed. Ik hoop dat je de Burning Blade nog meer schade hebt bezorgd toen je dit ging halen.$B$BZe zijn een grote ergernis voor de Warchief, en een grote plaag voor alle heksenmeesters.",
+      "g": [
+        [
+          "risico lopen",
+          "take a risk"
+        ],
+        [
+          "kunnen",
+          "ability, skill"
+        ],
+        [
+          "nuttig",
+          "useful"
+        ],
+        [
+          "oproepspreuk",
+          "summoning spell"
+        ],
+        [
+          "terughalen",
+          "recover, get back"
+        ],
+        [
+          "schuilplaats",
+          "lair, hideout"
+        ],
+        [
+          "ten oosten van",
+          "east of"
+        ],
+        [
+          "runen",
+          "runes (rune)"
+        ],
+        [
+          "zo niet",
+          "if not"
+        ],
+        [
+          "schade",
+          "damage, losses"
+        ],
+        [
+          "bezorgd",
+          "caused (bezorgen)"
+        ],
+        [
+          "ergernis",
+          "annoyance"
+        ],
+        [
+          "plaag",
+          "plague, blight"
+        ]
+      ]
+    },
+    "1504": {
+      "t": "De binding",
+      "d": "Bekijk nu de Tablet of Verga, want daarop staan de tekens die je nodig hebt voor het oproepen. Neem ze mee naar de cirkel in de tent van Neeru Fireblade, aan de andere kant van de grot. Daar kun je de voidwalker oproepen.$b$bJe moet hem verslaan met alle lichamelijke en magische middelen die je hebt. Als dat gelukt is, kom dan terug naar mij met de oproeptekens. Dan laat ik je zien hoe je het wezen aan je wil bindt.",
+      "o": "Roep met de Glyphs of Summoning een voidwalker op en onderwerp hem. Breng daarna de Glyphs of Summoning terug naar Gan'rul Bloodeye in Orgrimmar.",
+      "p": "De voidwalker is een sterk wezen. Ik weet nog dat ik zelf in jouw schoenen stond, $N. In de loop der jaren vecht mijn eigen voidwalker minder tegen mij. Maar ik denk dat dat alleen is omdat hij hoopt dat ik niet meer oplet.$B$BOnthoud dat, $N.",
+      "c": "Je hebt het goed gedaan, $N. Ik laat je zien hoe je een voidwalker oproept zoals de voidwalker die je net hebt verslagen.$B$BJe moet weten dat we veel van je verwachten. Tot nu toe heb je aan die verwachtingen voldaan.$B$BLaat het je niet naar je hoofd stijgen. Vergeleken met de taken die nog voor je liggen, is dit zo simpel als 's ochtends wakker worden.",
+      "g": [
+        [
+          "tekens",
+          "glyphs (teken)"
+        ],
+        [
+          "cirkel",
+          "circle"
+        ],
+        [
+          "lichamelijke",
+          "physical (lichamelijk)"
+        ],
+        [
+          "middelen",
+          "means (middel)"
+        ],
+        [
+          "oproeptekens",
+          "glyphs of summoning"
+        ],
+        [
+          "in jouw schoenen stond",
+          "was in your shoes (staan)"
+        ],
+        [
+          "in de loop der jaren",
+          "over the years"
+        ],
+        [
+          "oplet",
+          "pay attention (opletten)"
+        ],
+        [
+          "voldaan",
+          "met, satisfied (voldoen)"
+        ],
+        [
+          "naar je hoofd stijgen",
+          "go to your head"
+        ],
+        [
+          "vergeleken met",
+          "compared to"
+        ]
+      ]
+    },
+    "1472": {
+      "t": "Verslinder van zielen",
+      "d": "Een succubus is een verslinder van zielen, een vernietiger van harten, een verleider van mannen. Een wezen vol diep kwaad, met maar één gedachte.$b$bZe kan niet zonder prikkel in onze wereld komen.$b$bDaarom gebruiken we haar eigen kracht tegen haar. Met de harten van goede mannen, zuivere mannen, liefhebbende mannen kan de succubus zich niet inhouden. Dan komt ze naar onze wereld. Daarna kun je haar overheersen en haar van jou maken.$b$bPraat met mijn assistent, Godrick Farsan, in de Temple. Hij helpt je om je lokaas te vinden.",
+      "o": "Praat met Godrick Farsan in de Temple of the Damned.",
+      "c": "Heeft Carendin je gestuurd? Sithel dus.$b$bDenk niet min over me omdat ik blind ben. Ik zie nu de dingen die erachter liggen, met een helderheid die ik nooit eerder kende. Wat ik eerst een vloek vond, is nu een zegen.",
+      "g": [
+        [
+          "verslinder",
+          "devourer"
+        ],
+        [
+          "vernietiger",
+          "destroyer"
+        ],
+        [
+          "verleider",
+          "tempter"
+        ],
+        [
+          "kwaad",
+          "evil"
+        ],
+        [
+          "prikkel",
+          "stimulus"
+        ],
+        [
+          "zuivere",
+          "pure (zuiver)"
+        ],
+        [
+          "liefhebbende",
+          "loving (liefhebbend)"
+        ],
+        [
+          "zich inhouden",
+          "resist, hold back"
+        ],
+        [
+          "overheersen",
+          "dominate"
+        ],
+        [
+          "lokaas",
+          "bait"
+        ],
+        [
+          "denk niet min over me",
+          "don't think less of me"
+        ],
+        [
+          "helderheid",
+          "clarity"
+        ],
+        [
+          "vloek",
+          "curse"
+        ],
+        [
+          "zegen",
+          "blessing, boon"
+        ]
+      ]
+    },
+    "1474": {
+      "t": "De binding",
+      "d": "Gebruik deze harten en spreek een spreuk uit bij de oproepcirkel. Zo open je een deur voor de succubus. Je krachten zijn nu groter, en je hebt ze allemaal nodig om de succubus te verslaan.$b$bPas op voor haar charmes, $n. Al veel sterke geesten zijn aan haar wil gebonden. Als je haar verslaat, keert de succubus terug naar de leegte. Dan leer ik je de spreuk om haar op te roepen wanneer jij dat wilt.",
+      "o": "Roep met de Pure Hearts een succubus op en onderwerp haar. Breng daarna de Pure Hearts terug naar Carendin Halgar in de Magic Quarter van de Undercity.",
+      "p": "Van alle krachten van voorbij de leegte is de succubus een van de gevaarlijkste. Want de zwakken windt ze het makkelijkst om haar vinger.$B$BOnthoud dat, nu en in de toekomst.",
+      "c": "Je hebt het weer goed gedaan, $N. Het is lang geleden dat ik een jonge $c met zoveel aanleg als jij heb gezien. Wees gerust: ik blijf je voortgang volgen. Ik zal je voorbereiden en helpen bij je toekomstige beproevingen.$B$BLaat me je nu de oproepspreuk leren voor je pas overheerste succubus.",
+      "g": [
+        [
+          "spreek een spreuk uit",
+          "cast a spell (uitspreken)"
+        ],
+        [
+          "oproepcirkel",
+          "summoning circle"
+        ],
+        [
+          "charmes",
+          "charms (charme)"
+        ],
+        [
+          "geesten",
+          "minds (geest)"
+        ],
+        [
+          "gebonden",
+          "bound (binden)"
+        ],
+        [
+          "keert terug",
+          "returns (terugkeren)"
+        ],
+        [
+          "voorbij",
+          "beyond"
+        ],
+        [
+          "om haar vinger windt",
+          "wraps around her finger (winden)"
+        ],
+        [
+          "aanleg",
+          "potential, talent"
+        ],
+        [
+          "wees gerust",
+          "be assured"
+        ],
+        [
+          "voortgang",
+          "progress"
+        ],
+        [
+          "beproevingen",
+          "trials (beproeving)"
+        ],
+        [
+          "overheerste",
+          "dominated (overheersen)"
+        ]
+      ]
+    }
+  },
+  "words": {
+    "bloemsoort": "kind of flower, flower species",
+    "charme": "charm",
+    "hoeken": "corners (hoek)",
+    "hoopt": "hopes (hopen)",
+    "imp-probleem": "imp problem",
+    "ju-ju-hopen": "ju-ju heaps (ju-ju-hoop)",
+    "lesgaf": "taught (lesgeven)",
+    "lichaamskracht": "physical strength",
+    "ochtends": "in the morning ('s ochtends)",
+    "opdoet": "gain (opdoen)",
+    "risico's": "risks (risico)",
+    "schoenen": "shoes (schoen)",
+    "snaar": "string, chord",
+    "twisten": "argue, dispute",
+    "verstoringen": "disturbances (verstoring)",
+    "verwante": "related, kindred (verwant)",
+    "windt": "winds, wraps (winden)",
+    "óf": "either (óf ... óf = either ... or)"
+  },
+  "terms": {
+    "ju-ju": "ju-ju: troll magic or a magical charm in the Warcraft world",
+    "nether-lace": "nether-lace: a magical cloth woven with power from the Nether"
+  }
+}
