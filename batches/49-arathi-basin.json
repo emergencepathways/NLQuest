@@ -1,0 +1,1136 @@
+{
+ "quests": {
+  "8158": {
+   "t": "Meer kratten met grondstoffen",
+   "d": "Elke soldaat zal het je vertellen: een oorlog voer je met soldaten. Ze zeggen ook dat je een gevecht al verloren hebt voordat het begint, als je slechte spullen hebt of een lege maag!$B$BDaarom is Arathi Basin belangrijk. In het dal liggen belangrijke plekken met grondstoffen die we echt nodig hebben. Metaal, wapens, eten, hout: we hebben het allemaal nodig, en je kunt het daar allemaal krijgen.$B$BDat wil ik van je, $N. Ga naar Arathi Basin en win het gevecht. Houd daarvoor meer bases vast dan de vijand. Kom daarna terug naar mij met een krat grondstoffen.",
+   "o": "Win het gevecht om Arathi Basin, haal een Arathi Resource Crate en breng die naar Sergeant Maclear in Refuge Pointe.",
+   "p": "$N, de League of Arathor heeft een vaste opdracht voor je: ga weer naar Arathi Basin, haal meer kratten met grondstoffen en breng ze naar mij.",
+   "c": "Heel goed. Ik breng deze meteen naar onze kwartiermeesters. Ik stuur ook een bericht naar mijn bazen, met lof voor wat je gedaan hebt.$B$BNogmaals bedankt, $N. Iedereen ziet wat je voor onze strijd doet, van voetsoldaat tot veldmaarschalk.",
+   "g": [
+    [
+     "oorlog",
+     "war"
+    ],
+    [
+     "gevecht",
+     "battle, fight"
+    ],
+    [
+     "maag",
+     "stomach"
+    ],
+    [
+     "dal",
+     "valley"
+    ],
+    [
+     "grondstoffen",
+     "resources, raw materials"
+    ],
+    [
+     "krat",
+     "crate"
+    ],
+    [
+     "vaste opdracht",
+     "standing mission"
+    ],
+    [
+     "kwartiermeesters",
+     "quartermasters (kwartiermeester)"
+    ],
+    [
+     "lof",
+     "praise"
+    ],
+    [
+     "strijd",
+     "struggle, fight"
+    ],
+    [
+     "voetsoldaat",
+     "footman, foot soldier"
+    ],
+    [
+     "veldmaarschalk",
+     "field marshal"
+    ]
+   ]
+  },
+  "8159": {
+   "t": "Meer kratten met grondstoffen",
+   "d": "Elke soldaat zal je vertellen dat je een oorlog met soldaten voert. Ze zeggen ook dat een gevecht met slechte uitrusting of een lege maag al verloren is voordat het begint!$B$BDaarom is Arathi Basin zo belangrijk. In het dal liggen belangrijke plekken waar je onmisbare grondstoffen kunt vinden. Metaal, wapens, voedsel, hout: alles is nodig, en alles is daar te krijgen.$B$BDat is wat ik van je wil, $N. Ga Arathi Basin binnen, win het gevecht door meer bases vast te houden dan de vijand, en kom terug met een krat grondstoffen.",
+   "o": "Win het gevecht om Arathi Basin, haal een Arathi Resource Crate en breng die naar Sergeant Maclear in Refuge Pointe.",
+   "p": "$N, de League of Arathor heeft een vaste opdracht voor je: ga opnieuw Arathi Basin binnen, verzamel meer kratten met grondstoffen en breng ze naar mij.",
+   "c": "Heel goed. Ik zorg dat onze kwartiermeesters deze meteen krijgen, en mijn meerderen krijgen een bericht met lof voor je daden.$B$BNogmaals bedankt, $N. Zowel voetsoldaten als veldmaarschalken zien wat je bijdraagt aan onze strijd.",
+   "g": [
+    [
+     "uitrusting",
+     "gear, equipment"
+    ],
+    [
+     "maag",
+     "stomach"
+    ],
+    [
+     "onmisbare",
+     "essential (onmisbaar)"
+    ],
+    [
+     "grondstoffen",
+     "resources, raw materials"
+    ],
+    [
+     "voedsel",
+     "food"
+    ],
+    [
+     "krat",
+     "crate"
+    ],
+    [
+     "vaste opdracht",
+     "standing mission"
+    ],
+    [
+     "kwartiermeesters",
+     "quartermasters (kwartiermeester)"
+    ],
+    [
+     "meerderen",
+     "superiors (meerdere)"
+    ],
+    [
+     "lof",
+     "praise"
+    ],
+    [
+     "daden",
+     "deeds, actions (daad)"
+    ],
+    [
+     "voetsoldaten",
+     "footmen (voetsoldaat)"
+    ],
+    [
+     "veldmaarschalken",
+     "field marshals (veldmaarschalk)"
+    ],
+    [
+     "bijdraagt",
+     "contribute (bijdragen)"
+    ]
+   ]
+  },
+  "8157": {
+   "t": "Meer kratten met grondstoffen",
+   "d": "Elke soldaat zal je vertellen dat een oorlog met soldaten gevoerd moet worden. Maar ze zeggen er ook bij dat een gevecht met slechte uitrusting of op een lege maag al verloren is voordat het begint!$B$BDaarom is Arathi Basin zo belangrijk. In het dal liggen cruciale gebieden met onmisbare grondstoffen. Metaal, wapens, voedsel, hout: aan alles is behoefte, en alles is daar te verkrijgen.$B$BDat is wat ik van je verlang, $N. Trek Arathi Basin binnen, win de strijd door meer bases in handen te houden dan de vijand, en keer terug met een krat grondstoffen.",
+   "o": "Win het gevecht om Arathi Basin, haal een Arathi Resource Crate en breng die naar Sergeant Maclear in Refuge Pointe.",
+   "p": "$N, de League of Arathor heeft een doorlopende opdracht voor je: trek opnieuw Arathi Basin binnen, bemachtig meer kratten met grondstoffen en breng ze bij mij.",
+   "c": "Uitstekend. Ik laat deze onmiddellijk naar onze kwartiermeesters brengen, en er gaat een lovend bericht over je daden naar mijn meerderen.$B$BNogmaals dank, $N. Je bijdrage aan onze strijd wordt opgemerkt, door voetsoldaten en veldmaarschalken gelijk.",
+   "g": [
+    [
+     "gevoerd",
+     "waged (voeren)"
+    ],
+    [
+     "uitrusting",
+     "gear, equipment"
+    ],
+    [
+     "cruciale",
+     "crucial, key (cruciaal)"
+    ],
+    [
+     "onmisbare",
+     "essential (onmisbaar)"
+    ],
+    [
+     "behoefte",
+     "need"
+    ],
+    [
+     "te verkrijgen",
+     "to be obtained"
+    ],
+    [
+     "verlang",
+     "want, demand (verlangen)"
+    ],
+    [
+     "Trek Arathi Basin binnen",
+     "enter Arathi Basin (binnentrekken)"
+    ],
+    [
+     "doorlopende",
+     "standing, ongoing (doorlopend)"
+    ],
+    [
+     "bemachtig",
+     "procure, get hold of (bemachtigen)"
+    ],
+    [
+     "kwartiermeesters",
+     "quartermasters (kwartiermeester)"
+    ],
+    [
+     "lovend",
+     "praising (loven)"
+    ],
+    [
+     "meerderen",
+     "superiors (meerdere)"
+    ],
+    [
+     "bijdrage",
+     "contribution"
+    ],
+    [
+     "opgemerkt",
+     "noticed (opmerken)"
+    ]
+   ]
+  },
+  "8168": {
+   "t": "Het gevecht om Arathi Basin!",
+   "d": "$N, het gevecht om Arathi Basin draait om middelen en gebied. We moeten belangrijke plekken in het gebied vasthouden en laten werken. Zo krijgen onze troepen de grondstoffen en voorraden die ze hard nodig hebben. Ik geef je een opdracht: val de plekken aan die het verst van onze basis in Arathi Basin liggen.$B$BVal de boerderij, de mijn, de houtzagerij en de smederij aan als de vijand ze in handen heeft. Zoek de banier van de vijand en trek hem van zijn vlaggenpaal!$B$BHeb je dit bij alle vier de plekken gedaan? Kom dan terug naar mij.",
+   "o": "Val de mijn, de houtzagerij, de smederij en de boerderij aan. Ga dan terug naar Field Marshal Oslight in Refuge Pointe.",
+   "c": "Ik heb berichten gekregen over je daden in Arathi Basin, $n. Goed gedaan! Nu mensen zoals jij hier meevechten, geloof ik dat we ons thuisland ooit terugwinnen.",
+   "g": [
+    [
+     "draait om",
+     "is about (draaien om)"
+    ],
+    [
+     "middelen",
+     "resources, means"
+    ],
+    [
+     "vasthouden",
+     "hold"
+    ],
+    [
+     "troepen",
+     "troops (troep)"
+    ],
+    [
+     "grondstoffen",
+     "raw materials"
+    ],
+    [
+     "voorraden",
+     "supplies (voorraad)"
+    ],
+    [
+     "houtzagerij",
+     "lumber mill"
+    ],
+    [
+     "smederij",
+     "blacksmith, forge"
+    ],
+    [
+     "in handen heeft",
+     "controls (in handen hebben)"
+    ],
+    [
+     "banier",
+     "banner"
+    ],
+    [
+     "vlaggenpaal",
+     "flag post"
+    ],
+    [
+     "daden",
+     "deeds (daad)"
+    ],
+    [
+     "thuisland",
+     "homeland"
+    ],
+    [
+     "terugwinnen",
+     "win back, retake"
+    ]
+   ],
+   "o1": "De mijn aangevallen",
+   "o2": "De houtzagerij aangevallen",
+   "o3": "De smederij aangevallen",
+   "o4": "De boerderij aangevallen"
+  },
+  "8167": {
+   "t": "Het gevecht om Arathi Basin!",
+   "d": "$N, het gevecht om Arathi Basin is een gevecht om middelen en gebied. Er zijn belangrijke punten in het gebied die we moeten vasthouden en laten draaien. Alleen zo kunnen we onze troepen de grondstoffen en voorraden geven die ze hard nodig hebben. Ik geef je de opdracht om de punten aan te vallen die het verst van onze basis in Arathi Basin liggen.$B$BVal de boerderij, de mijn, de houtzagerij en de smederij aan als ze in handen van de vijand zijn. Zoek de banier van de vijand en ruk hem van zijn vlaggenpaal!$B$BKom terug naar mij als je dit bij alle vier de punten hebt gedaan.",
+   "o": "Val de mijn, de houtzagerij, de smederij en de boerderij aan. Ga dan terug naar Field Marshal Oslight in Refuge Pointe.",
+   "c": "Ik heb berichten ontvangen over je daden in Arathi Basin, $n. Goed gedaan! Nu mensen zoals jij zich hier bij de strijd aansluiten, heb ik er vertrouwen in dat we ons thuisland ooit terugwinnen.",
+   "g": [
+    [
+     "middelen",
+     "resources, means"
+    ],
+    [
+     "laten draaien",
+     "operate, keep running"
+    ],
+    [
+     "troepen",
+     "troops (troep)"
+    ],
+    [
+     "grondstoffen",
+     "raw materials"
+    ],
+    [
+     "voorraden",
+     "supplies (voorraad)"
+    ],
+    [
+     "houtzagerij",
+     "lumber mill"
+    ],
+    [
+     "smederij",
+     "blacksmith, forge"
+    ],
+    [
+     "in handen van",
+     "in the hands of, controlled by"
+    ],
+    [
+     "banier",
+     "banner"
+    ],
+    [
+     "ruk",
+     "rip, tear (rukken)"
+    ],
+    [
+     "vlaggenpaal",
+     "flag post"
+    ],
+    [
+     "ontvangen",
+     "received (ontvangen)"
+    ],
+    [
+     "aansluiten",
+     "join (zich aansluiten)"
+    ],
+    [
+     "vertrouwen",
+     "faith, trust"
+    ],
+    [
+     "terugwinnen",
+     "win back, retake"
+    ]
+   ],
+   "o1": "De mijn aangevallen",
+   "o2": "De houtzagerij aangevallen",
+   "o3": "De smederij aangevallen",
+   "o4": "De boerderij aangevallen"
+  },
+  "8166": {
+   "t": "Het gevecht om Arathi Basin!",
+   "d": "$N, de strijd om Arathi Basin is een strijd om middelen en grondgebied. Belangrijke punten in het gebied moeten worden vastgehouden en in bedrijf gehouden, zodat onze troepen de broodnodige grondstoffen en voorraden krijgen. Ik draag je op om de punten aan te vallen die het verst van onze basis in Arathi Basin liggen.$B$BBestorm de boerderij, de mijn, de houtzagerij en de smederij wanneer de vijand ze beheerst. Zoek de banier van de vijand en ruk hem van zijn vlaggenpaal!$B$BKeer bij mij terug wanneer je dit bij alle vier de punten hebt gedaan.",
+   "o": "Val de mijn, de houtzagerij, de smederij en de boerderij aan. Ga dan terug naar Field Marshal Oslight in Refuge Pointe.",
+   "c": "Ik heb berichten ontvangen over je heldendaden in Arathi Basin, $n. Goed gedaan! Nu mensen zoals jij zich hier bij de strijd aansluiten, heb ik er vertrouwen in dat we op een dag ons thuisland heroveren.",
+   "g": [
+    [
+     "grondgebied",
+     "territory"
+    ],
+    [
+     "in bedrijf gehouden",
+     "kept operating (in bedrijf houden)"
+    ],
+    [
+     "broodnodige",
+     "much-needed (broodnodig)"
+    ],
+    [
+     "grondstoffen",
+     "raw materials"
+    ],
+    [
+     "voorraden",
+     "supplies (voorraad)"
+    ],
+    [
+     "Ik draag je op",
+     "I charge you (opdragen)"
+    ],
+    [
+     "Bestorm",
+     "assault, storm (bestormen)"
+    ],
+    [
+     "beheerst",
+     "controls (beheersen)"
+    ],
+    [
+     "houtzagerij",
+     "lumber mill"
+    ],
+    [
+     "smederij",
+     "blacksmith, forge"
+    ],
+    [
+     "banier",
+     "banner"
+    ],
+    [
+     "ruk",
+     "rip, tear (rukken)"
+    ],
+    [
+     "heldendaden",
+     "exploits, heroic deeds (heldendaad)"
+    ],
+    [
+     "aansluiten",
+     "join (zich aansluiten)"
+    ],
+    [
+     "heroveren",
+     "retake, reconquer"
+    ]
+   ],
+   "o1": "De mijn aangevallen",
+   "o2": "De houtzagerij aangevallen",
+   "o3": "De smederij aangevallen",
+   "o4": "De boerderij aangevallen"
+  },
+  "8155": {
+   "t": "Een Mark of Honor uit Arathi Basin!",
+   "d": "Elke soldaat zal je vertellen dat je een oorlog met soldaten voert. Ze zeggen ook dat een gevecht met slechte uitrusting of een lege maag al verloren is voordat het begint!$B$BDaarom is Arathi Basin belangrijk. In het dal liggen belangrijke plekken met grondstoffen die we echt nodig hebben. Metaal, wapens, eten, hout: alles is nodig, en alles kun je daar krijgen.$B$BDat wil ik van je, $N. Ga Arathi Basin binnen en win het gevecht door meer bases vast te houden dan de vijand. Kom dan terug naar mij met een Mark of Honor.",
+   "o": "Win het gevecht om Arathi Basin, haal een Arathi Basin Mark of Honor en breng die naar Sergeant Maclear in Refuge Pointe.",
+   "p": "Heb je de Marks of Honor, $N? Zonder die Marks kan de League of Arathor geen fatsoenlijk gevecht voeren...",
+   "c": "Je hebt de Mark! Goed gedaan! Ik stuur de grondstoffen naar onze kwartiermeesters. Zij kunnen ze snel onder onze troepen verdelen.$B$BBedankt, $N. Met geslaagde opdrachten zoals die van jou win je echt een oorlog.",
+   "g": [
+    [
+     "uitrusting",
+     "gear, equipment"
+    ],
+    [
+     "maag",
+     "stomach"
+    ],
+    [
+     "dal",
+     "valley"
+    ],
+    [
+     "grondstoffen",
+     "resources, raw materials"
+    ],
+    [
+     "vast te houden",
+     "to hold (vasthouden)"
+    ],
+    [
+     "fatsoenlijk",
+     "decent, proper"
+    ],
+    [
+     "voeren",
+     "wage, fight (a battle)"
+    ],
+    [
+     "kwartiermeesters",
+     "quartermasters (kwartiermeester)"
+    ],
+    [
+     "troepen",
+     "troops (troep)"
+    ],
+    [
+     "verdelen",
+     "distribute, divide"
+    ],
+    [
+     "geslaagde",
+     "successful (geslaagd)"
+    ]
+   ]
+  },
+  "8156": {
+   "t": "Een Mark of Honor uit Arathi Basin!",
+   "d": "Elke soldaat zal je vertellen dat een oorlog met soldaten gevoerd moet worden. Ze zeggen er ook bij dat een gevecht met slechte uitrusting of op een lege maag al verloren is voordat het begint!$B$BDaarom is Arathi Basin zo belangrijk. In het dal liggen belangrijke gebieden waar onmisbare grondstoffen te vinden zijn. Metaal, wapens, voedsel, hout: alles is nodig, en alles is daar te krijgen.$B$BDat is wat ik van je wil, $N. Ga Arathi Basin binnen, win het gevecht door meer bases in handen te houden dan de vijand, en kom terug met een Mark of Honor.",
+   "o": "Win het gevecht om Arathi Basin, haal een Arathi Basin Mark of Honor en breng die naar Sergeant Maclear in Refuge Pointe.",
+   "p": "Heb je de Marks of Honor, $N? Zonder die Marks kan de League of Arathor geen behoorlijk gevecht voeren...",
+   "c": "Je hebt de Mark! Prima gedaan! Ik stuur de grondstoffen naar onze kwartiermeesters, die ze snel onder onze troepen kunnen verdelen.$B$BBedankt, $N. Het zijn juist geslaagde opdrachten zoals die van jou waarmee oorlogen echt gewonnen worden.",
+   "g": [
+    [
+     "gevoerd",
+     "waged (voeren)"
+    ],
+    [
+     "uitrusting",
+     "gear, equipment"
+    ],
+    [
+     "onmisbare",
+     "essential (onmisbaar)"
+    ],
+    [
+     "grondstoffen",
+     "resources, raw materials"
+    ],
+    [
+     "voedsel",
+     "food"
+    ],
+    [
+     "in handen te houden",
+     "to hold, to control"
+    ],
+    [
+     "behoorlijk",
+     "decent, proper"
+    ],
+    [
+     "kwartiermeesters",
+     "quartermasters (kwartiermeester)"
+    ],
+    [
+     "troepen",
+     "troops (troep)"
+    ],
+    [
+     "verdelen",
+     "distribute"
+    ],
+    [
+     "juist",
+     "precisely, indeed"
+    ],
+    [
+     "geslaagde",
+     "successful (geslaagd)"
+    ],
+    [
+     "gewonnen",
+     "won (winnen)"
+    ]
+   ]
+  },
+  "8374": {
+   "t": "Arathi Basin veroveren",
+   "d": "Een oorlog win je niet alleen door slimmer te zijn en beter te vechten dan je tegenstander. Vaak draait de overwinning gewoon om meer maken dan je vijand.$B$BIn Arathi Basin ligt een grote voorraad grondstoffen voor de kant die het als eerste inneemt.$B$BAls de Alliance wint, krijgen onze troepen meer zwaarden en pieken. Als de Horde wint, worden die zwaarden en pieken nog steeds gemaakt. Alleen wijzen ze dan naar ons! Nu is het moment om de Alliance te helpen in Arathi Basin, $N.",
+   "o": "Breng 3 Arathi Basin Marks of Honor naar een Alliance Brigadier General buiten de slagvelden.",
+   "p": "Vertel eens, wat is het nieuws van het front?",
+   "c": "Goed werk, soldaat! Ga zo door, dan rent de Horde helemaal terug naar Orgrimmar.",
+   "g": [
+    [
+     "veroveren",
+     "claim, conquer"
+    ],
+    [
+     "tegenstander",
+     "opponent"
+    ],
+    [
+     "overwinning",
+     "victory"
+    ],
+    [
+     "draait",
+     "comes down to (draaien om)"
+    ],
+    [
+     "voorraad",
+     "supply, stock"
+    ],
+    [
+     "grondstoffen",
+     "resources"
+    ],
+    [
+     "inneemt",
+     "takes, captures (innemen)"
+    ],
+    [
+     "troepen",
+     "troops (troep)"
+    ],
+    [
+     "zwaarden",
+     "swords (zwaard)"
+    ],
+    [
+     "pieken",
+     "pikes (piek)"
+    ],
+    [
+     "wijzen",
+     "point"
+    ],
+    [
+     "slagvelden",
+     "battlegrounds (slagveld)"
+    ]
+   ]
+  },
+  "8391": {
+   "t": "Arathi Basin veroveren",
+   "d": "Een oorlog winnen gaat om meer dan alleen je tegenstander te slim af zijn en hem verslaan in het gevecht. De overwinning komt vaak gewoon neer op meer produceren dan je vijand.$B$BIn Arathi Basin ligt een flinke voorraad grondstoffen voor de kant die het als eerste weet te veroveren.$B$BAls de Alliance overwint, betekent dat meer zwaarden en pieken voor onze troepen. Als de Horde zou winnen, worden die zwaarden en pieken nog steeds gemaakt, maar dan zijn ze op ons gericht! Dit is het moment om de Alliance te helpen in Arathi Basin, $N.",
+   "o": "Breng 3 Arathi Basin Marks of Honor naar een Alliance Brigadier General buiten de slagvelden.",
+   "p": "Vertel eens, wat is het nieuws van het front?",
+   "c": "Goed werk, soldaat! Als je zo doorgaat, rent de Horde straks helemaal terug naar Orgrimmar.",
+   "g": [
+    [
+     "veroveren",
+     "claim, conquer"
+    ],
+    [
+     "tegenstander",
+     "opponent"
+    ],
+    [
+     "te slim af zijn",
+     "outsmart"
+    ],
+    [
+     "verslaan",
+     "defeat, outfight"
+    ],
+    [
+     "overwinning",
+     "victory"
+    ],
+    [
+     "komt vaak gewoon neer op",
+     "often simply comes down to (neerkomen op)"
+    ],
+    [
+     "produceren",
+     "produce"
+    ],
+    [
+     "flinke",
+     "sizeable (flink)"
+    ],
+    [
+     "voorraad",
+     "supply, stock"
+    ],
+    [
+     "grondstoffen",
+     "resources"
+    ],
+    [
+     "overwint",
+     "is victorious (overwinnen)"
+    ],
+    [
+     "pieken",
+     "pikes (piek)"
+    ],
+    [
+     "gericht",
+     "pointed, aimed (richten)"
+    ],
+    [
+     "slagvelden",
+     "battlegrounds (slagveld)"
+    ]
+   ]
+  },
+  "8393": {
+   "t": "Arathi Basin veroveren",
+   "d": "Een oorlog winnen gaat om meer dan alleen je tegenstander te slim af zijn en hem verslaan in het gevecht. De overwinning komt vaak gewoon neer op meer produceren dan je vijand.$B$BIn Arathi Basin ligt een flinke voorraad grondstoffen voor de kant die het als eerste weet te veroveren.$B$BAls de Alliance overwint, betekent dat meer zwaarden en pieken voor onze troepen. Als de Horde zou winnen, worden die zwaarden en pieken nog steeds gemaakt, maar dan zijn ze op ons gericht! Dit is het moment om de Alliance te helpen in Arathi Basin, $N.",
+   "o": "Breng 3 Arathi Basin Marks of Honor naar een Alliance Brigadier General buiten de slagvelden.",
+   "p": "Vertel eens, wat is het nieuws van het front?",
+   "c": "Goed werk, soldaat! Als je zo doorgaat, rent de Horde straks helemaal terug naar Orgrimmar.",
+   "g": [
+    [
+     "veroveren",
+     "claim, conquer"
+    ],
+    [
+     "tegenstander",
+     "opponent"
+    ],
+    [
+     "te slim af zijn",
+     "outsmart"
+    ],
+    [
+     "verslaan",
+     "defeat, outfight"
+    ],
+    [
+     "overwinning",
+     "victory"
+    ],
+    [
+     "komt vaak gewoon neer op",
+     "often simply comes down to (neerkomen op)"
+    ],
+    [
+     "produceren",
+     "produce"
+    ],
+    [
+     "flinke",
+     "sizeable (flink)"
+    ],
+    [
+     "voorraad",
+     "supply, stock"
+    ],
+    [
+     "grondstoffen",
+     "resources"
+    ],
+    [
+     "overwint",
+     "is victorious (overwinnen)"
+    ],
+    [
+     "pieken",
+     "pikes (piek)"
+    ],
+    [
+     "gericht",
+     "pointed, aimed (richten)"
+    ],
+    [
+     "slagvelden",
+     "battlegrounds (slagveld)"
+    ]
+   ]
+  },
+  "8260": {
+   "t": "Eenvoudig zorgpakket van Arathor",
+   "c": "Je bent echt begonnen om je aan ons te bewijzen, $n. Als beloning krijg je dit zorgpakket! Er zitten rantsoenen en verband in die je alleen in Arathi Basin kunt gebruiken.$b$bAls je je in de Basin blijft bewijzen, kun je deze spullen later ook kopen. Rantsoenen kun je kopen als je Friendly bij ons bent, en verband als je Honored bent.",
+   "g": [
+    [
+     "zorgpakket",
+     "care package"
+    ],
+    [
+     "bewijzen",
+     "prove (zich bewijzen)"
+    ],
+    [
+     "beloning",
+     "reward"
+    ],
+    [
+     "rantsoenen",
+     "rations (rantsoen)"
+    ],
+    [
+     "verband",
+     "bandages"
+    ],
+    [
+     "spullen",
+     "things, items"
+    ],
+    [
+     "Eenvoudig",
+     "basic, simple"
+    ]
+   ]
+  },
+  "8261": {
+   "t": "Standaard zorgpakket van Arathor",
+   "c": "Je bent duidelijk begonnen om je aan ons te bewijzen, $n. Neem als beloning dit zorgpakket aan! Je vindt er rantsoenen en verband in die alleen binnen Arathi Basin te gebruiken zijn.$b$bAls je je in de Basin blijft bewijzen, zul je merken dat deze spullen ook voor jou te koop komen. Rantsoenen worden beschikbaar zodra je Friendly bij ons bent, en verband zodra je Honored bent.",
+   "g": [
+    [
+     "zorgpakket",
+     "care package"
+    ],
+    [
+     "duidelijk",
+     "clearly, certainly"
+    ],
+    [
+     "bewijzen",
+     "prove (zich bewijzen)"
+    ],
+    [
+     "beloning",
+     "reward"
+    ],
+    [
+     "rantsoenen",
+     "rations (rantsoen)"
+    ],
+    [
+     "verband",
+     "bandages"
+    ],
+    [
+     "merken",
+     "notice, find"
+    ],
+    [
+     "te koop komen",
+     "become available for purchase"
+    ],
+    [
+     "beschikbaar",
+     "available"
+    ],
+    [
+     "zodra",
+     "as soon as"
+    ]
+   ]
+  },
+  "9260": {
+   "t": "Onderzoek de Scourge bij Stormwind",
+   "d": "De Lich King heeft zijn ondoden tot aan onze deur gestuurd. We kunnen niet stil blijven zitten! Jij helpt toch zeker om Stormwind tegen deze vervloekte indringers te verdedigen?$B$BBuiten staan vreemde cirkels met runen. Ze gloeien met dezelfde energie als de ondoden en de Necropolis boven ons. Ze betekenen iets, dat weet ik zeker. Ik wil dat jij uitzoekt wat. Dood ondertussen ook een flink aantal van die monsters. Breng me bewijs dat ze dood zijn, en vertel me wat je hebt gevonden. Dan krijg je een beloning. Ga!",
+   "o": "Verzamel drie Dim Necrotic Stones bij de Scourge buiten Stormwind. Onderzoek ook de gloeiende cirkels met runen bij hun kamp.",
+   "p": "Heb je de invasie al onderzocht? We hebben geen tijd om te treuzelen!",
+   "c": "Hm. Uit wat je me vertelt... de stemmen in de cirkels... Ze zijn vast voor een soort contact. Ik huiver als ik denk aan de onnatuurlijke geesten die ze met zulke magie spreken. Hoe dan ook, je lijkt heel en met een helder hoofd terug te zijn. De Argent Dawn is je dankbaar voor je hulp.",
+   "g": [
+    [
+     "ondoden",
+     "undead (ondode)"
+    ],
+    [
+     "vervloekte",
+     "accursed (vervloekt)"
+    ],
+    [
+     "indringers",
+     "invaders (indringer)"
+    ],
+    [
+     "verdedigen",
+     "defend"
+    ],
+    [
+     "runen",
+     "runes (rune)"
+    ],
+    [
+     "gloeien",
+     "glow"
+    ],
+    [
+     "uitzoekt",
+     "find out (uitzoeken)"
+    ],
+    [
+     "bewijs",
+     "proof"
+    ],
+    [
+     "beloning",
+     "reward"
+    ],
+    [
+     "treuzelen",
+     "dawdle"
+    ],
+    [
+     "huiver",
+     "shudder (huiveren)"
+    ],
+    [
+     "onnatuurlijke",
+     "unnatural (onnatuurlijk)"
+    ],
+    [
+     "geesten",
+     "minds, spirits (geest)"
+    ],
+    [
+     "met een helder hoofd",
+     "sane, clear-headed"
+    ],
+    [
+     "dankbaar",
+     "grateful"
+    ]
+   ]
+  },
+  "9262": {
+   "t": "Onderzoek de Scourge bij Darnassus",
+   "d": "De Lich King heeft zijn ondoden tot aan onze deur gestuurd. We kunnen niet stil blijven zitten! Jij helpt toch zeker om Darnassus tegen deze vervloekte indringers te verdedigen?$B$BBuiten staan vreemde cirkels met runen. Ze gloeien met dezelfde energie als de ondoden en de Necropolis boven ons. Ze betekenen iets, dat weet ik zeker. Ik wil dat jij uitzoekt wat. Dood ondertussen ook een flink aantal van die monsters. Breng me bewijs dat ze dood zijn, en vertel me wat je hebt gevonden. Dan krijg je een beloning. Ga!",
+   "o": "Verzamel drie Dim Necrotic Stones bij de Scourge buiten Darnassus. Onderzoek ook de gloeiende cirkels met runen bij hun kamp.",
+   "p": "Heb je de invasie al onderzocht? We hebben geen tijd om te treuzelen!",
+   "c": "Hm. Uit wat je me vertelt... de stemmen in de cirkels... Ze zijn vast voor een soort contact. Ik huiver als ik denk aan de onnatuurlijke geesten die ze met zulke magie spreken. Hoe dan ook, je lijkt heel en met een helder hoofd terug te zijn. De Argent Dawn is je dankbaar voor je hulp.",
+   "g": [
+    [
+     "ondoden",
+     "undead (ondode)"
+    ],
+    [
+     "vervloekte",
+     "accursed (vervloekt)"
+    ],
+    [
+     "indringers",
+     "invaders (indringer)"
+    ],
+    [
+     "verdedigen",
+     "defend"
+    ],
+    [
+     "runen",
+     "runes (rune)"
+    ],
+    [
+     "gloeien",
+     "glow"
+    ],
+    [
+     "uitzoekt",
+     "find out (uitzoeken)"
+    ],
+    [
+     "bewijs",
+     "proof"
+    ],
+    [
+     "beloning",
+     "reward"
+    ],
+    [
+     "treuzelen",
+     "dawdle"
+    ],
+    [
+     "huiver",
+     "shudder (huiveren)"
+    ],
+    [
+     "onnatuurlijke",
+     "unnatural (onnatuurlijk)"
+    ],
+    [
+     "geesten",
+     "minds, spirits (geest)"
+    ],
+    [
+     "met een helder hoofd",
+     "sane, clear-headed"
+    ],
+    [
+     "dankbaar",
+     "grateful"
+    ]
+   ]
+  },
+  "8744": {
+   "t": "Een zorgvuldig ingepakt cadeau",
+   "c": "Op het kaartje van dit cadeau staat:$b$bVoor $N,$b$bEen vrolijk en stralend feest van Great-Winter!",
+   "g": [
+    [
+     "zorgvuldig",
+     "carefully"
+    ],
+    [
+     "ingepakt",
+     "wrapped (inpakken)"
+    ],
+    [
+     "kaartje",
+     "tag, little card"
+    ],
+    [
+     "stralend",
+     "bright, shining"
+    ],
+    [
+     "feest",
+     "feast, party"
+    ]
+   ]
+  },
+  "8767": {
+   "t": "Een zacht geschud cadeau",
+   "c": "Dit cadeau is zo te zien al een paar keer geschud. Op het kaartje staat:$b$bVoor een heel bijzondere $r $c.",
+   "g": [
+    [
+     "zacht",
+     "gently, softly"
+    ],
+    [
+     "geschud",
+     "shaken (schudden)"
+    ],
+    [
+     "zo te zien",
+     "by the looks of it"
+    ],
+    [
+     "kaartje",
+     "tag, little card"
+    ],
+    [
+     "bijzondere",
+     "special (bijzonder)"
+    ]
+   ]
+  },
+  "8788": {
+   "t": "Een zacht geschud cadeau",
+   "c": "Dit cadeau is zo te zien al een paar keer geschud. Op het kaartje staat:$b$bVoor een heel bijzondere $r $c.",
+   "g": [
+    [
+     "zacht",
+     "gently, softly"
+    ],
+    [
+     "geschud",
+     "shaken (schudden)"
+    ],
+    [
+     "zo te zien",
+     "by the looks of it"
+    ],
+    [
+     "kaartje",
+     "tag, little card"
+    ],
+    [
+     "bijzondere",
+     "special (bijzonder)"
+    ]
+   ]
+  },
+  "8827": {
+   "t": "De cadeaus van Winter",
+   "d": "Ik heb gehoord dat Greatfather Winter cadeaus voor iedereen onder de boom in Ironforge heeft gelegd, met de gulle steun van Smokywood Pastures. Ik zou ook graag gaan, maar ik moet op de PX-238 Winter Wondervolt passen.$b$bMaar jij moet zeker gaan kijken. Ik weet zeker dat Greatfather Winter cadeaus met jouw naam erop heeft.",
+   "o": "Spreek met Greatfather Winter. Hij staat bij de verkopers van Smokywood Pastures in Ironforge.",
+   "c": "Oh, ho, hallo daar! Je kunt maar om één reden hier zijn: om je cadeaus voor Winter Veil open te maken.$b$bMaak je maar geen zorgen. Greatfather Winter is zijn favoriete $r $c niet vergeten. Kijk onder de boom, daar vind je je cadeaus.$b$bIn deze tijd van geven vinden je vrienden het misschien ook leuk om iets van de uitstekende producten van Smokywood Pastures te krijgen?",
+   "g": [
+    [
+     "gulle",
+     "generous (gul)"
+    ],
+    [
+     "steun",
+     "support"
+    ],
+    [
+     "passen",
+     "look after (passen op)"
+    ],
+    [
+     "zeker",
+     "definitely, surely"
+    ],
+    [
+     "verkopers",
+     "vendors (verkoper)"
+    ],
+    [
+     "reden",
+     "reason"
+    ],
+    [
+     "Maak je maar geen zorgen",
+     "don't you worry"
+    ],
+    [
+     "vergeten",
+     "forgotten (vergeten)"
+    ],
+    [
+     "uitstekende",
+     "excellent (uitstekend)"
+    ],
+    [
+     "producten",
+     "products (product)"
+    ]
+   ]
+  },
+  "8803": {
+   "t": "Een feestelijk cadeau",
+   "c": "Op het briefje bij dit cadeau staat:$b$bVoor $n,$b$bIk hoop dat je hiermee warme wensen en feestvreugde over heel Azeroth kunt verspreiden.$b$bVan Greatfather Winter",
+   "g": [
+    [
+     "feestelijk",
+     "festive"
+    ],
+    [
+     "briefje",
+     "note"
+    ],
+    [
+     "wensen",
+     "wishes (wens)"
+    ],
+    [
+     "feestvreugde",
+     "holiday cheer"
+    ],
+    [
+     "verspreiden",
+     "spread"
+    ]
+   ]
+  },
+  "8768": {
+   "t": "Een vrolijk ingepakt cadeau",
+   "c": "Dit feestelijk ingepakte cadeau heeft jouw naam erop.$b$bWacht, bewoog het nou?",
+   "g": [
+    [
+     "vrolijk",
+     "gaily, cheerfully"
+    ],
+    [
+     "ingepakt",
+     "wrapped (inpakken)"
+    ],
+    [
+     "feestelijk",
+     "festively"
+    ],
+    [
+     "ingepakte",
+     "wrapped (inpakken)"
+    ],
+    [
+     "bewoog",
+     "moved (bewegen)"
+    ]
+   ]
+  },
+  "8769": {
+   "t": "Een tikkend cadeau",
+   "c": "Een vreugdevol feest van Great-Winter gewenst, van je vrienden bij Smokywood Pastures.",
+   "g": [
+    [
+     "tikkend",
+     "ticking (tikken)"
+    ],
+    [
+     "vreugdevol",
+     "joyous"
+    ],
+    [
+     "gewenst",
+     "wished (wensen)"
+    ],
+    [
+     "feest",
+     "feast"
+    ]
+   ]
+  }
+ },
+ "words": {
+  "bases": "bases (base)",
+  "meevechten": "fight along, join the fight",
+  "onmiddellijk": "immediately",
+  "opdrachten": "missions, tasks (opdracht)",
+  "stemmen": "voices (stem)",
+  "verkrijgen": "obtain, get",
+  "verst": "farthest (ver)"
+ },
+ "terms": {}
+}

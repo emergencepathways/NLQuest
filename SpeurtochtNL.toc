@@ -79,6 +79,7 @@ Data\Batch_47_Profession_Cooking.lua
 Data\Batch_120_Class_Rogue.lua
 Data\Batch_48_Profession_Leatherworking.lua
 Data\Batch_121_Class_Priest.lua
+Data\Batch_49_Arathi_Basin.lua
 
 Display.lua
 Reader.lua
