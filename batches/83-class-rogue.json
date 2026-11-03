@@ -1,0 +1,1340 @@
+{
+  "quests": {
+    "6701": {
+      "t": "Emblemen van het Syndicate",
+      "p": "We zijn al jaren verwikkeld in een strijd met het Syndicate. Wat ze aan vaardigheid missen, maken ze goed met hun aantal. Het is onmogelijk om ze snel genoeg te doden om hun aantal merkbaar kleiner te maken!$B$BWe hebben gemerkt dat je hun grootte het best kunt aanpakken door hun emblemen te stelen. Zodra een embleem is gestolen, wordt het lid dat zich schaamt intern 'aangepakt'.$B$BRol hun zakken leeg en lever de emblemen in bij mij of bij een van de andere wachters.$B$BBegin bij Durnholde, ten zuiden van hier.",
+      "c": "Hé, goed gedaan! Als je zo doorgaat, spugen de andere schurken misschien niet meer op je.",
+      "g": [
+        [
+          "verwikkeld",
+          "entangled, involved (verwikkelen)"
+        ],
+        [
+          "vaardigheid",
+          "skill"
+        ],
+        [
+          "maken ze goed",
+          "they make up for (goedmaken)"
+        ],
+        [
+          "merkbaar",
+          "noticeably"
+        ],
+        [
+          "emblemen",
+          "emblems (embleem)"
+        ],
+        [
+          "zich schaamt",
+          "is ashamed (zich schamen)"
+        ],
+        [
+          "intern",
+          "internally"
+        ],
+        [
+          "aangepakt",
+          "dealt with (aanpakken)"
+        ],
+        [
+          "Rol hun zakken leeg",
+          "pick their pockets clean"
+        ],
+        [
+          "lever ... in",
+          "hand in (inleveren)"
+        ],
+        [
+          "spugen",
+          "spit"
+        ]
+      ]
+    },
+    "8249": {
+      "t": "Junkboxes gezocht",
+      "p": "Mijn schurken moeten hun vaardigheid in het openbreken van sloten verbeteren, en ik heb sloten nodig die moeilijk genoeg zijn. Wat Zan voor ons maakt, is alleen goed genoeg voor de allerlaagste beginnelingen.$b$bWeet je wat? Als je me 5 Heavy Junkboxes brengt, geef ik je een paar van de beste werpmessen die schurken kennen.$b$bJe mag de kistjes openmaken en erin rondzoeken, maar je moet er wel een paar munten in laten... zelfs een schurk in opleiding heeft motivatie nodig.",
+      "c": "Mogen deze messen een plekje vinden in iemands hart.$b$bLetterlijk.",
+      "g": [
+        [
+          "openbreken",
+          "to break open"
+        ],
+        [
+          "sloten",
+          "locks (slot)"
+        ],
+        [
+          "allerlaagste",
+          "very lowest"
+        ],
+        [
+          "beginnelingen",
+          "beginners, novices (beginneling)"
+        ],
+        [
+          "werpmessen",
+          "throwing knives (werpmes)"
+        ],
+        [
+          "kistjes",
+          "little boxes (kistje)"
+        ],
+        [
+          "rondzoeken",
+          "rummage, search around"
+        ],
+        [
+          "munten",
+          "coins (munt)"
+        ],
+        [
+          "opleiding",
+          "training"
+        ],
+        [
+          "Letterlijk",
+          "literally"
+        ]
+      ]
+    },
+    "7621": {
+      "t": "Een waarschuwing",
+      "c": "$gpriester:priesteres;, je staat op het punt een zware reeks gebeurtenissen te ondergaan die al je vaardigheden op de proef zal stellen.$B$BIk raad je aan te luisteren naar het verhaal dat ik te vertellen heb.$B$BWees gewaarschuwd: je moet deze taak alleen volbrengen. Het is aan te raden dat je bondgenoten op afstand blijven. Bemoeienis van buitenstaanders wordt zeer zwaar gestraft.$B$BHet lot heeft jou, en alleen jou, hierheen geleid. Vecht met eer. Gebruik de kracht van het Licht.",
+      "g": [
+        [
+          "staat op het punt",
+          "is about to"
+        ],
+        [
+          "reeks",
+          "series"
+        ],
+        [
+          "ondergaan",
+          "undergo"
+        ],
+        [
+          "op de proef zal stellen",
+          "will test (op de proef stellen)"
+        ],
+        [
+          "gewaarschuwd",
+          "warned (waarschuwen)"
+        ],
+        [
+          "volbrengen",
+          "accomplish"
+        ],
+        [
+          "bondgenoten",
+          "allies (bondgenoot)"
+        ],
+        [
+          "Bemoeienis",
+          "interference"
+        ],
+        [
+          "buitenstaanders",
+          "outsiders (buitenstaander)"
+        ],
+        [
+          "gestraft",
+          "punished (straffen)"
+        ],
+        [
+          "lot",
+          "fate, destiny"
+        ],
+        [
+          "eer",
+          "honour"
+        ]
+      ]
+    },
+    "7622": {
+      "t": "Het evenwicht tussen Licht en Schaduw",
+      "d": "Je moet doen wat mij niet lukte: red de boeren die werden neergeslagen toen ze uit Stratholme vluchtten.$B$BZe zullen naar het licht lopen; jij moet ervoor zorgen dat ze overleven. Als er te veel vallen, gaat ons vervloekte bestaan door - dan heb je gefaald.$B$BElke vaardigheid, elk gebed en elke spreuk die je hebt geleerd, wordt op de proef gesteld. Moge het Licht je beschermen, $N.",
+      "o": "Red 50 Peasants voordat er 15 zijn gedood. Spreek met Eris Havenfire als je deze taak volbrengt.$B$BBij de Death Post kun je zien hoeveel Peasants er zijn gedood.",
+      "c": "Je volharding en moed zijn verbluffend, priesteres. Je hebt het recht verdiend om de Splinter of Nordrassil te dragen. Er blijft nog maar één taak over: het Eye of Shadow moet worden teruggevonden. Doorzoek de wereld.",
+      "e": "Het evenwicht tussen Licht en Schaduw",
+      "g": [
+        [
+          "evenwicht",
+          "balance"
+        ],
+        [
+          "boeren",
+          "peasants, farmers (boer)"
+        ],
+        [
+          "neergeslagen",
+          "cut down, struck down (neerslaan)"
+        ],
+        [
+          "vluchtten",
+          "fled (vluchten)"
+        ],
+        [
+          "vervloekte",
+          "cursed (vervloekt)"
+        ],
+        [
+          "bestaan",
+          "existence"
+        ],
+        [
+          "gefaald",
+          "failed (falen)"
+        ],
+        [
+          "gebed",
+          "prayer"
+        ],
+        [
+          "volharding",
+          "tenacity, perseverance"
+        ],
+        [
+          "verbluffend",
+          "astounding"
+        ],
+        [
+          "teruggevonden",
+          "recovered, found again (terugvinden)"
+        ],
+        [
+          "Doorzoek",
+          "search, scour (doorzoeken)"
+        ]
+      ]
+    },
+    "9362": {
+      "t": "Warlord Krellian",
+      "d": "Er is weinig tijd, $n! Mijn waarzegspreuken hebben een krachtige bron van magie onthuld. Ik kan de toren niet verlaten. Daarom vraag ik je het walgelijke wezen te doden dat dit artefact bezit.$b$bHet zielige kleine schepsel heet Warlord Krellian. Hij verschuilt zich achter zijn wachters in de Temple of Zin-Malor. Verbrand hem tot as en neem de prismatische schelp mee die hij zo graag wil hebben.",
+      "o": "Haal de Prismatic Shell op voor Archmage Xylem. De Archmage woont in een toren boven op de kliffen van Azshara.",
+      "p": "Er is geen tijd te verliezen! Heb je de schelp?",
+      "c": "Ik moet zeggen, deze schelp heeft een vreemde aura. Het lijkt me alleen maar passend dat een deel van je beloning is dat je de magische krachten ervan mag testen...",
+      "g": [
+        [
+          "waarzegspreuken",
+          "scrying spells (waarzegspreuk)"
+        ],
+        [
+          "bron",
+          "source"
+        ],
+        [
+          "onthuld",
+          "revealed (onthullen)"
+        ],
+        [
+          "walgelijke",
+          "vile, disgusting (walgelijk)"
+        ],
+        [
+          "bezit",
+          "possesses (bezitten)"
+        ],
+        [
+          "zielige",
+          "pathetic (zielig)"
+        ],
+        [
+          "schepsel",
+          "creature, cretin"
+        ],
+        [
+          "verschuilt zich",
+          "hides (zich verschuilen)"
+        ],
+        [
+          "as",
+          "ash(es)"
+        ],
+        [
+          "prismatische",
+          "prismatic (prismatisch)"
+        ],
+        [
+          "schelp",
+          "shell"
+        ],
+        [
+          "kliffen",
+          "cliffs (klif)"
+        ],
+        [
+          "passend",
+          "fitting"
+        ],
+        [
+          "beloning",
+          "reward"
+        ]
+      ]
+    },
+    "9364": {
+      "t": "Versplinterde magie",
+      "d": "Mijn onderzoek heeft een bijzonder doel voor de prismatische schelp onthuld.$b$bDraag de schelp bij je en gebruik je Polymorph-spreuk op de Spitelash in Azshara. Als je even wacht, zorgt de chaotische aura van de schelp ervoor dat ze zich korte tijd splitsen in een aantal kleinere klonen. Dood deze klonen zo snel mogelijk, dan verzamelt de schelp hun essentie.$b$bAls de schelp vol is, breng je hem terug naar mij.",
+      "o": "Gebruik Polymorph op de Spitelash van Azshara en dood de klonen die een paar seconden later verschijnen. Als je 50 Polymorph Clones hebt gedood, ga je terug naar Archmage Xylem in Azshara.",
+      "p": "Heb je de magie verzameld?",
+      "c": "Prachtig! Prachtig!$B$BNu kunnen we deze magie omvormen tot een nieuwe spreuk. Kijk!",
+      "g": [
+        [
+          "Versplinterde",
+          "fragmented, splintered (versplinterd)"
+        ],
+        [
+          "onderzoek",
+          "research"
+        ],
+        [
+          "bijzonder",
+          "special, unique"
+        ],
+        [
+          "prismatische",
+          "prismatic (prismatisch)"
+        ],
+        [
+          "chaotische",
+          "chaotic (chaotisch)"
+        ],
+        [
+          "splitsen",
+          "split"
+        ],
+        [
+          "klonen",
+          "clones (kloon)"
+        ],
+        [
+          "essentie",
+          "essence"
+        ],
+        [
+          "omvormen",
+          "reshape, transform"
+        ]
+      ]
+    },
+    "6000": {
+      "t": "Melden bij Gakin",
+      "d": "$N! Ik had niet verwacht je in deze buurt te zien, maar ik kreeg de opdracht om naar je uit te kijken.$B$BHet is hoog tijd dat je training verdergaat. Meld je bij Gakin in Stormwind.$B$BHij verwacht je.",
+      "o": "Meld je bij Gakin the Darkbinder in de Mage Quarter van Stormwind.",
+      "g": [
+        [
+          "Melden",
+          "report (melden)"
+        ],
+        [
+          "buurt",
+          "area, neighbourhood"
+        ],
+        [
+          "opdracht",
+          "order, instruction"
+        ],
+        [
+          "uit te kijken",
+          "to look out (uitkijken)"
+        ],
+        [
+          "hoog tijd",
+          "high time"
+        ],
+        [
+          "verdergaat",
+          "continues (verdergaan)"
+        ],
+        [
+          "Meld je",
+          "report (zich melden)"
+        ],
+        [
+          "verwacht",
+          "expects (verwachten)"
+        ]
+      ]
+    },
+    "7601": {
+      "t": "Wat Niby beveelt",
+      "d": "Als ik je de geheimen moet leren van het oproepen van een infernal als dienaar, moet je Kroshius vernietigen en me de kern van de infernal uit zijn brandende resten brengen. Dit is echter niet zo makkelijk als het klinkt. Kroshius is bijna helemaal uitgebrand. Je moet zijn lijk opnieuw aansteken en hem uit het puin laten opstaan. Daarvoor moet je wel eerst wat onderdelen verzamelen van andere demonische wezens.$B$BMijn imp, Impsy, zal je op weg helpen.",
+      "o": "Spreek met Impsy in Felwood.",
+      "c": "O jee, daar gaan we weer.",
+      "g": [
+        [
+          "beveelt",
+          "commands (bevelen)"
+        ],
+        [
+          "oproepen",
+          "summoning"
+        ],
+        [
+          "dienaar",
+          "servant"
+        ],
+        [
+          "vernietigen",
+          "destroy"
+        ],
+        [
+          "kern",
+          "core"
+        ],
+        [
+          "resten",
+          "remains (rest)"
+        ],
+        [
+          "uitgebrand",
+          "burned out (uitbranden)"
+        ],
+        [
+          "lijk",
+          "corpse"
+        ],
+        [
+          "aansteken",
+          "ignite, light"
+        ],
+        [
+          "puin",
+          "rubble"
+        ],
+        [
+          "onderdelen",
+          "components (onderdeel)"
+        ],
+        [
+          "demonische",
+          "demonic (demonisch)"
+        ]
+      ]
+    },
+    "7602": {
+      "t": "Perfecte Fel-essentie",
+      "d": "Als je Kroshius weer tot leven wilt wekken, heb je Fel-vuur nodig. Ik kan Fel-vuur maken, maar daar zijn wat onderdelen voor nodig.$B$BJe moet me perfecte Fel-essenties brengen uit drie verschillende gebieden van de wereld.$B$BDe Legashi-saters van Azshara hebben de eerste soort essentie, de legionairs van Jaedenar de tweede soort en de felguard-schildwachten van de Blasted Lands de derde.$B$BBreng me van elke soort één essentie terug. Dan maak ik het Fel-vuur, zodat je Kroshius weer tot leven kunt wekken.",
+      "o": "Impsy in Felwood heeft je gevraagd hem drie Flawless Fel Essences te brengen uit drie verschillende plaatsen.$B$BDe Legashi Satyrs van Azshara hebben de Flawless Fel Essence van hun gebied. De Jaedenar Legionnaires van Jaedenar hebben de Flawless Fel Essence van hun gebied. De Felguard Sentries van de Blasted Lands hebben de Flawless Fel Essence van hun gebied.$B$BHaal de Flawless Fel Essences op en ga terug naar Impsy in Felwood.",
+      "p": "Vertel het aan niemand, maar Niby is getikt.",
+      "c": "Geef me even, dan combineer ik de essenties tot Fel-vuur.",
+      "g": [
+        [
+          "tot leven wilt wekken",
+          "want to bring back to life (tot leven wekken)"
+        ],
+        [
+          "essenties",
+          "essences (essentie)"
+        ],
+        [
+          "gebieden",
+          "regions (gebied)"
+        ],
+        [
+          "saters",
+          "satyrs (sater)"
+        ],
+        [
+          "legionairs",
+          "legionnaires (legionair)"
+        ],
+        [
+          "schildwachten",
+          "sentries (schildwacht)"
+        ],
+        [
+          "soort",
+          "type, kind"
+        ],
+        [
+          "getikt",
+          "daft, crazy"
+        ],
+        [
+          "combineer",
+          "combine (combineren)"
+        ]
+      ]
+    },
+    "7603": {
+      "t": "Kroshius' Infernal Core",
+      "d": "Kroshius ligt op een hoop in het noordoosten, in de Shatter Scar Vale. Neem dit Fel-vuur en gebruik het op zijn resten. Het vuur zou de gevallen infernal weer tot leven moeten wekken.$B$BIk verwacht wel dat hij jou doodt, en ook alle vrienden die je misschien meeneemt. En geloof me: je wilt echt een paar vrienden meenemen.$B$BAls je Kroshius door een wonder toch doodt, neem dan zijn infernal core en breng die terug naar Niby.",
+      "o": "Doorzoek de Shatter Scar Vale in Felwood naar de resten van Kroshius. Als je de resten hebt gevonden, gebruik dan het Fel Fire in de buurt ervan en wacht tot Kroshius terugkomt. Als de infernal is ontwaakt, dood je hem en neem je Kroshius' Infernal Core van zijn lijk.$B$BBreng Kroshius' Infernal Core terug naar Niby the Almighty in Felwood.",
+      "p": "Ben je verdwaald?",
+      "c": "Afspraak is afspraak! Snel, neem dit en schrijf dit op. Ik heb geen tijd! Mijn grootste toverkunst staat voor de deur!",
+      "g": [
+        [
+          "op een hoop",
+          "in a heap"
+        ],
+        [
+          "resten",
+          "remains (rest)"
+        ],
+        [
+          "gevallen",
+          "fallen (vallen)"
+        ],
+        [
+          "tot leven moeten wekken",
+          "should bring back to life (tot leven wekken)"
+        ],
+        [
+          "wonder",
+          "miracle"
+        ],
+        [
+          "Doorzoek",
+          "search (doorzoeken)"
+        ],
+        [
+          "ontwaakt",
+          "awoken (ontwaken)"
+        ],
+        [
+          "lijk",
+          "corpse"
+        ],
+        [
+          "verdwaald",
+          "lost (verdwalen)"
+        ],
+        [
+          "Afspraak is afspraak",
+          "a deal is a deal"
+        ],
+        [
+          "toverkunst",
+          "conjuration, magic art"
+        ],
+        [
+          "staat voor de deur",
+          "is upon us, is about to happen"
+        ]
+      ]
+    },
+    "7562": {
+      "t": "Mor'zul Bloodbringer",
+      "d": "$N, je bent diep in de duistere kunsten gedoken. Je macht over wezens uit andere werelden is zo sterk geworden... misschien ben je klaar om een van de beruchte dreadsteeds aan je te binden.$B$BHet ritueel om het beest uit zijn thuiswereld op te roepen vraagt veel kracht en middelen. Maar als je dat geweldige rijdier wilt beheersen, spreek dan met Mor'zul Bloodbringer. Hij heeft zijn kamp bij het Altar of Storms in de Burning Steppes.$B$BGa, $N. Deze opdracht wordt gevaarlijk, maar een heksenmeester van jouw niveau gaat gevaar niet uit de weg!",
+      "o": "Spreek met Mor'zul Bloodbringer in de Burning Steppes.",
+      "c": "Gegroet, $N, en welkom. Ben je hier om bij het Altar of Storms te studeren, net als ik? Misschien om de energie ervan te gebruiken voor een verborgen doel...$B$BOf... ben je hier om met mij te spreken? Ja, ik denk het wel.$B$BJe wilt een dreadsteed beheersen? Dat is geen makkelijke taak. Het zal je heel wat bloed en zweet kosten... en natuurlijk goud. Maar een dreadsteed van Xoroth is een prijs die het winnen meer dan waard is. Dus als je interesse hebt, luister dan verder...",
+      "g": [
+        [
+          "duistere kunsten",
+          "dark arts"
+        ],
+        [
+          "gedoken",
+          "delved, dived (duiken)"
+        ],
+        [
+          "beruchte",
+          "infamous (berucht)"
+        ],
+        [
+          "binden",
+          "bind"
+        ],
+        [
+          "ritueel",
+          "ritual"
+        ],
+        [
+          "middelen",
+          "resources, means (middel)"
+        ],
+        [
+          "rijdier",
+          "mount, riding animal"
+        ],
+        [
+          "beheersen",
+          "master, control"
+        ],
+        [
+          "gaat ... niet uit de weg",
+          "does not shy away from (uit de weg gaan)"
+        ],
+        [
+          "Gegroet",
+          "greetings"
+        ],
+        [
+          "verborgen",
+          "hidden"
+        ],
+        [
+          "zweet",
+          "sweat"
+        ],
+        [
+          "meer dan waard",
+          "well worth"
+        ]
+      ]
+    },
+    "7563": {
+      "t": "Bloedwoede",
+      "d": "De dreadsteeds leven op een andere wereld, op de vurige Plains of Xoroth. Om een van die beroemde beesten te binden, moet je krachtige tekens aanroepen. Ik kan de tekens op een perkament voor je schrijven, maar eerst heb ik een speciale inkt nodig.$B$BIn het verre Winterspring leeft een soort uilbeesten. Ooit waren het zuivere wezens, maar de demonische uitstraling van de Darkwhisper Gorge heeft ze gek gemaakt. Nu zwerven ze razend door de sneeuw.$B$BHun bloed heb ik nodig voor de inkt op je perkament. Breng het naar me.",
+      "o": "Breng 30 flessen Raging Beast's Blood naar Mor'zul Bloodbringer in de Burning Steppes.",
+      "p": "Heb je de razende uilbeesten gezien, $N? De magie van die wezens is sterk, en die verzamelt zich in het bloed dat door hun gekwelde lichamen stroomt.",
+      "c": "Ah, heel goed. Ik laat dit bloed tot inkt distilleren en gebruik het voor het perkament dat ik je beloofd heb. En misschien houd ik een klein beetje voor mezelf, want ik hoor dat het heel euforisch smaakt...",
+      "g": [
+        [
+          "Bloedwoede",
+          "rage of blood"
+        ],
+        [
+          "vurige",
+          "fiery (vurig)"
+        ],
+        [
+          "tekens",
+          "glyphs, signs (teken)"
+        ],
+        [
+          "aanroepen",
+          "invoke"
+        ],
+        [
+          "perkament",
+          "parchment"
+        ],
+        [
+          "uilbeesten",
+          "owl beasts (uilbeest)"
+        ],
+        [
+          "zuivere",
+          "pure (zuiver)"
+        ],
+        [
+          "uitstraling",
+          "emanation, radiation"
+        ],
+        [
+          "zwerven",
+          "roam (zwerven)"
+        ],
+        [
+          "razend",
+          "in a frenzy, raging"
+        ],
+        [
+          "gekwelde",
+          "tortured (gekweld)"
+        ],
+        [
+          "distilleren",
+          "distil"
+        ],
+        [
+          "euforisch",
+          "euphoric"
+        ]
+      ]
+    },
+    "7564": {
+      "t": "Wildeyes",
+      "d": "Mijn dienaar, Gorzeeki, is een vrij bekwame alchemist. Hij kan de inkt maken die ik nodig heb voor je perkament. Ik heb het bloed verzameld dat jij hebt gehaald. Breng het naar Gorzeeki, zodat hij aan het werk kan.",
+      "o": "Breng de Case of Blood naar Gorzeeki Wildeyes in de Burning Steppes.",
+      "p": "Heb je iets voor me? Het is toch geen grote, sappige spin? Of misschien een kakkerlak? Ik hoop dat hij nog leeft... Ik kauw er zo graag op als ze nog leven...",
+      "c": "O, het is bloed. Dan komt het zeker van meester Mor'zul. Hij is zo verliefd op dat spul en ziet het graag vloeien. Ik heb het zelf liever als het door de aderen van een klein knaagdier stroomt. Zo blijft het warm... tot je het wilt hebben.$B$BDit is krachtig bloed. Mor'zul maakt vast nog een perkament om een dreadsteed op te roepen! Wat spannend!$B$BAls dat waar is en jij het ritueel gaat uitvoeren, dan... heb je veel meer nodig dan bloed, vriend.",
+      "g": [
+        [
+          "dienaar",
+          "servant"
+        ],
+        [
+          "bekwame",
+          "skilled (bekwaam)"
+        ],
+        [
+          "perkament",
+          "parchment"
+        ],
+        [
+          "sappige",
+          "juicy (sappig)"
+        ],
+        [
+          "kakkerlak",
+          "cockroach"
+        ],
+        [
+          "kauw",
+          "chew (kauwen)"
+        ],
+        [
+          "spul",
+          "stuff"
+        ],
+        [
+          "vloeien",
+          "flow, be spilled"
+        ],
+        [
+          "aderen",
+          "veins (ader)"
+        ],
+        [
+          "knaagdier",
+          "rodent"
+        ],
+        [
+          "spannend",
+          "exciting"
+        ],
+        [
+          "uitvoeren",
+          "perform"
+        ]
+      ]
+    },
+    "7623": {
+      "t": "Lord Banehollow",
+      "d": "Mor'zul zegt dat je een portaal naar Xoroth wilt openen. Daarvoor heb je Xorothian-sterrenstof nodig. Dat is niet makkelijk te vinden op Azeroth!$B$BEr is één wezen dat misschien wat heeft: Lord Banehollow in Jaedenar, de zetel van de Shadow Council! Spreek met hem, misschien wil hij het sterrenstof afstaan.$B$BMaar als je naar Jaedenar gaat, moet je jezelf hullen in de eigen soort kwaad van de Shadow Council. Daarvoor heb je een paar van mijn schaduwdrankjes nodig, en die gaan je wat kosten...",
+      "o": "Koop Shadowy Potions van Gorzeeki in de Burning Steppes.$B$BGebruik de drankjes om door Jaedenar te reizen en spreek met Lord Banehollow.",
+      "c": "Mijn geduld duurt duizenden jaren, $C. Maar denk niet dat je daardoor meer dan een ogenblik van mijn tijd krijgt...",
+      "g": [
+        [
+          "portaal",
+          "portal"
+        ],
+        [
+          "sterrenstof",
+          "stardust"
+        ],
+        [
+          "wezen",
+          "being"
+        ],
+        [
+          "zetel",
+          "seat"
+        ],
+        [
+          "afstaan",
+          "part with, give up"
+        ],
+        [
+          "hullen",
+          "cloak, wrap"
+        ],
+        [
+          "kwaad",
+          "evil"
+        ],
+        [
+          "schaduwdrankjes",
+          "shadowy potions (schaduwdrankje)"
+        ],
+        [
+          "geduld",
+          "patience"
+        ],
+        [
+          "ogenblik",
+          "instant, moment"
+        ]
+      ]
+    },
+    "7624": {
+      "t": "Ulathek de verrader",
+      "d": "Wil je in mijn gunst komen? Dood dan voor mij.$B$BMijn dienaar Ulathek is zielig, zoals hij voor me kruipt, terwijl hij al die tijd samenzweert met Lord Hel'nurath op Xoroth. Hel'nurath wil mijn macht hier overnemen, en Ulathek is zijn spion...$B$BBewijs dat je mij dient en niet mijn rivalen. Confronteer Ulathek in zijn vertrekken, in de Shadow Hold in het westen. Zeg hem dat ik zijn geheim ken, en kijk hoe de angst hem grijpt. Breng me dan het hart van de verrader!",
+      "o": "Confronteer Ulathek en breng The Traitor's Heart naar Lord Banehollow in Jaedenar.",
+      "p": "Ik proef het hart van Ulathek al op mijn lippen. Zo zoet is het vlees van een verrader...",
+      "c": "Ah, prachtig! Als het een week heeft liggen rotten, wordt dit hart een heerlijke traktatie! Misschien laat ik Ulatheks hoofd halen en zet ik het voor me neer terwijl ik eet...$B$BJe hebt me een dienst bewezen, $C, en daarom is mijn geduld met jou gegroeid. Een klein beetje.",
+      "g": [
+        [
+          "verrader",
+          "traitor"
+        ],
+        [
+          "gunst",
+          "favour, good graces"
+        ],
+        [
+          "zielig",
+          "pathetic"
+        ],
+        [
+          "kruipt",
+          "grovels, crawls (kruipen)"
+        ],
+        [
+          "samenzweert",
+          "plots, conspires (samenzweren)"
+        ],
+        [
+          "overnemen",
+          "take over, usurp"
+        ],
+        [
+          "Bewijs",
+          "prove (bewijzen)"
+        ],
+        [
+          "rivalen",
+          "rivals (rivaal)"
+        ],
+        [
+          "Confronteer",
+          "confront (confronteren)"
+        ],
+        [
+          "vertrekken",
+          "quarters, rooms (vertrek)"
+        ],
+        [
+          "grijpt",
+          "grips (grijpen)"
+        ],
+        [
+          "rotten",
+          "rot"
+        ],
+        [
+          "traktatie",
+          "treat"
+        ],
+        [
+          "een dienst bewezen",
+          "done a service (een dienst bewijzen)"
+        ]
+      ]
+    },
+    "7582": {
+      "t": "Het omhulsel van de gevangenis",
+      "d": "De Hederine-demonen die in de heuvels aan de voet van Mount Hyjal leven, scheiden krachtige fel-gifstoffen af. Als je die laat rijpen, worden ze hard en veranderen ze in een dicht anti-magisch kristal. Deze kristallen staan bekend als Tears of the Hederine.$B$BZelfs de enorme kracht van een doomguard kan de muren niet breken van een gevangenis die van dit materiaal is gemaakt.$B$BReis naar de Darkwhisper Gorge in Winterspring en haal de Tears.",
+      "o": "Reis naar de Darkwhisper Gorge in Winterspring en haal 5 Tears of the Hederine bij de Hederine-demonen die in de kloof leven. Ga terug naar Daio in de Tainted Scar als je deze taak hebt volbracht.",
+      "p": "De Hederine geven hun kostbare edelstenen niet zonder strijd op, $N.",
+      "c": "Ik hoef alleen nog het bloed van de Wildspawn met deze kristallen te combineren, en dan is de gevangenis klaar voor gebruik.",
+      "g": [
+        [
+          "omhulsel",
+          "casing, shell"
+        ],
+        [
+          "gevangenis",
+          "prison"
+        ],
+        [
+          "aan de voet van",
+          "at the foot of"
+        ],
+        [
+          "scheiden ... af",
+          "secrete (afscheiden)"
+        ],
+        [
+          "gifstoffen",
+          "poisons, toxins (gifstof)"
+        ],
+        [
+          "rijpen",
+          "mature, ripen"
+        ],
+        [
+          "dicht",
+          "dense"
+        ],
+        [
+          "anti-magisch",
+          "anti-magic"
+        ],
+        [
+          "staan bekend als",
+          "are known as (bekendstaan)"
+        ],
+        [
+          "kloof",
+          "gorge"
+        ],
+        [
+          "volbracht",
+          "completed (volbrengen)"
+        ],
+        [
+          "kostbare",
+          "precious (kostbaar)"
+        ],
+        [
+          "edelstenen",
+          "gems (edelsteen)"
+        ]
+      ]
+    },
+    "7583": {
+      "t": "Onderdrukking",
+      "d": "De gevangenis is klaar. Nu komt het moeilijkste deel van deze taak.$B$BJe moet een Doomguard Commander in de Tainted Scar vinden en vangen met deze kristallen gevangenis.$B$BWees gewaarschuwd! Een doomguard is een sluwe en dodelijke tegenstander. Hij zal proberen je te vernietigen zodra je aan het ritueel van gevangenneming begint. Hij zal wild om zich heen slaan in zijn pogingen om te ontsnappen.$B$BHij zal zich alleen op jou richten, $N. Daarom raad ik je aan om metgezellen mee te nemen die je in leven kunnen houden!",
+      "o": "Trek de Tainted Scar in en zoek een Doomguard Commander.$B$BGebruik de Glowing Crystal Prison op de Doomguard Commander. Wees voorbereid op een woeste reeks aanvallen, want de demon probeert te ontsnappen.$B$BAls het lukt, breng de Imprisoned Doomguard dan terug naar Daio in de Tainted Scar.",
+      "p": "Hm? Nou?",
+      "c": "Je hebt gedaan wat ik vroeg. Je bent klaar om de kennis te krijgen om het beest op te roepen en te beheersen.",
+      "g": [
+        [
+          "Onderdrukking",
+          "suppression"
+        ],
+        [
+          "kristallen",
+          "crystal (adj.)"
+        ],
+        [
+          "sluwe",
+          "cunning (sluw)"
+        ],
+        [
+          "tegenstander",
+          "adversary, opponent"
+        ],
+        [
+          "gevangenneming",
+          "imprisonment, capture"
+        ],
+        [
+          "om zich heen slaan",
+          "flail, lash out"
+        ],
+        [
+          "pogingen",
+          "attempts (poging)"
+        ],
+        [
+          "ontsnappen",
+          "escape"
+        ],
+        [
+          "richten",
+          "focus, aim"
+        ],
+        [
+          "metgezellen",
+          "companions (metgezel)"
+        ],
+        [
+          "woeste",
+          "ferocious (woest)"
+        ],
+        [
+          "reeks",
+          "series, onslaught"
+        ],
+        [
+          "beheersen",
+          "control, master"
+        ]
+      ]
+    },
+    "7625": {
+      "t": "Xorothian Stardust",
+      "d": "Dus je komt bij mij voor Xorothian-sterrenstof? Wil je een portaal openen naar Xoroth, het gebied van Hel'nurath, mijn rivaal? Ben je misschien van plan om een van zijn kostbare dreadsteeds van hem te stelen?$B$BGoed dan. Mijn dienaar Ur'dan heeft een voorraad Xorothian-sterrenstof. Je kunt het van hem krijgen... als je de prijs kunt betalen.",
+      "o": "Koop Xorothian Stardust van Ur'dan. Breng het naar Gorzeeki Wildeyes in de Burning Steppes.",
+      "p": "Ben je in Jaedenar geweest, $N? Heb je het sterrenstof van Lord Banehollow gekregen?",
+      "c": "Daar is het! Ik kan bijna niet geloven dat je het hebt! Je hebt vast een flinke deal gesloten met die dreadlord, of veel geld betaald, of allebei!$B$BMor'zul heeft zijn inkt heel snel, en dan kan hij eindelijk het perkament met de tekens maken. Dan kun jij een portaal naar Xoroth openen en er een van de beroemde dreadsteeds doorheen trekken!",
+      "g": [
+        [
+          "sterrenstof",
+          "stardust"
+        ],
+        [
+          "portaal",
+          "portal"
+        ],
+        [
+          "gebied",
+          "domain, region"
+        ],
+        [
+          "rivaal",
+          "rival"
+        ],
+        [
+          "van plan",
+          "planning, intending"
+        ],
+        [
+          "kostbare",
+          "precious (kostbaar)"
+        ],
+        [
+          "voorraad",
+          "supply"
+        ],
+        [
+          "een flinke deal gesloten",
+          "struck a big deal (een deal sluiten)"
+        ],
+        [
+          "perkament",
+          "parchment"
+        ],
+        [
+          "tekens",
+          "glyphs (teken)"
+        ],
+        [
+          "doorheen trekken",
+          "pull through"
+        ]
+      ]
+    },
+    "7626": {
+      "t": "Bell of Dethmoora",
+      "d": "Een Bell of Dethmoora, genoemd naar de overleden heksenmeester Dethmoora Darkeyes, is een van de drie voorwerpen die nodig zijn om een Circle of Greater Summoning te maken. Als ze goed zijn afgestemd op het Wheel en de Candle, geleiden deze voorwerpen enorme hoeveelheden arcane kracht.$B$BMijn dienaar Gorzeeki kan zo'n bel maken, maar daarvoor heeft hij een grote voorraad elixers van schaduwkracht nodig. Koop de elixers bij een alchemist en breng ze naar Gorzeeki.",
+      "o": "Breng 10 Elixirs of Shadow Power naar Gorzeeki Wildeyes in de Burning Steppes.",
+      "p": "Heb je die elixers, $N? Mor'zul zei dat je een Bell of Dethmoora nodig hebt, en om er een te maken is veel schaduwkracht nodig!",
+      "c": "Heel goed! Ik hoop dat deze elixers niet te moeilijk te krijgen waren. Soms zijn alchemisten zo gierig met wat ze maken...$B$BIk maak de bel en bewaar hem tot je klaar bent voor je ritueel.",
+      "g": [
+        [
+          "genoemd naar",
+          "named after (noemen)"
+        ],
+        [
+          "overleden",
+          "late, deceased"
+        ],
+        [
+          "voorwerpen",
+          "items, objects (voorwerp)"
+        ],
+        [
+          "afgestemd",
+          "attuned (afstemmen)"
+        ],
+        [
+          "geleiden",
+          "conduct (geleiden)"
+        ],
+        [
+          "hoeveelheden",
+          "amounts, stores (hoeveelheid)"
+        ],
+        [
+          "arcane",
+          "arcane (arcaan)"
+        ],
+        [
+          "voorraad",
+          "supply"
+        ],
+        [
+          "elixers",
+          "elixirs (elixer)"
+        ],
+        [
+          "schaduwkracht",
+          "shadow power"
+        ],
+        [
+          "gierig",
+          "miserly, stingy"
+        ],
+        [
+          "bewaar",
+          "keep (bewaren)"
+        ]
+      ]
+    },
+    "7627": {
+      "t": "Wheel of the Black March",
+      "d": "Een Wheel of the Black March bevat en stuurt de gewelddadige energie die nodig is voor de Circle of Greater Summoning. Om een wiel te maken, heeft Gorzeeki zowel grote briljante scherven van een betoveraar nodig als dark iron-erts van een meester-mijnwerker.$B$BHaal deze spullen en breng ze naar mijn dienaar.",
+      "o": "Breng 6 Large Brilliant Shards en 25 Dark Iron Ore naar Gorzeeki in de Burning Steppes.",
+      "p": "Het Wheel of the Black March is niet makkelijk te maken en kost veel materiaal. Heb je het al verzameld?",
+      "c": "Daar zijn ze! Ik heb gehoord dat dark iron-erts alleen diep in Blackrock te vinden is, en deze scherven waren vast ook niet makkelijk te vinden. Ik sta vaak versteld van de toewijding van jullie heksenmeesters. Als jullie al die energie in het vangen van insecten zouden steken, o... wat een feestmaal zouden jullie hebben!$B$BSorry, ik dwaal een beetje af. Ik maak het wiel en bewaar het voor je tot je klaar bent voor je ritueel.",
+      "g": [
+        [
+          "bevat",
+          "contains (bevatten)"
+        ],
+        [
+          "stuurt",
+          "directs (sturen)"
+        ],
+        [
+          "gewelddadige",
+          "violent (gewelddadig)"
+        ],
+        [
+          "briljante",
+          "brilliant (briljant)"
+        ],
+        [
+          "scherven",
+          "shards (scherf)"
+        ],
+        [
+          "betoveraar",
+          "enchanter"
+        ],
+        [
+          "erts",
+          "ore"
+        ],
+        [
+          "mijnwerker",
+          "miner"
+        ],
+        [
+          "sta ... versteld",
+          "am awed, amazed (versteld staan)"
+        ],
+        [
+          "toewijding",
+          "dedication"
+        ],
+        [
+          "steken",
+          "put (into)"
+        ],
+        [
+          "feestmaal",
+          "feast"
+        ],
+        [
+          "dwaal ... af",
+          "digress, wander off (afdwalen)"
+        ]
+      ]
+    },
+    "7628": {
+      "t": "Doomsday Candle",
+      "d": "Een Doomsday Candle slaat vuur op en richt het op iedereen die je ritueel wil verstoren. Als je kaars brandt wanneer je je Circle of Greater Summoning maakt, worden alle afgedwaalde demonen door de vlammen verbrand!$B$BDat vuur vasthouden is niet makkelijk. Daarvoor heb je de essentie nodig die in de schubben van een zwarte draak zit. Haal die schubben bij een viller en breng ze naar Gorzeeki Wildeyes.",
+      "o": "Breng 35 Black Dragonscales naar Gorzeeki Wildeyes in de Burning Steppes.",
+      "p": "Heb je de drakenschubben meegebracht, $N? Ik wil niet aan de kaars beginnen voordat ik ze heb... anders blaas ik misschien het hele kamp op!",
+      "c": "Ah, heel goed. Ik heb deze nodig om de vuren van de kaars vast te houden. Nu ik de schubben heb, maak ik de kaars en bewaar ik hem tot je klaar bent om je ritueel voor de Circle of Greater Summoning te beginnen.",
+      "g": [
+        [
+          "slaat ... op",
+          "stores (opslaan)"
+        ],
+        [
+          "richt",
+          "directs, aims (richten)"
+        ],
+        [
+          "verstoren",
+          "disrupt"
+        ],
+        [
+          "kaars",
+          "candle"
+        ],
+        [
+          "afgedwaalde",
+          "wayward, stray (afgedwaald)"
+        ],
+        [
+          "vlammen",
+          "flames (vlam)"
+        ],
+        [
+          "vasthouden",
+          "contain, hold"
+        ],
+        [
+          "schubben",
+          "scales (schub)"
+        ],
+        [
+          "viller",
+          "skinner"
+        ],
+        [
+          "drakenschubben",
+          "dragonscales (drakenschub)"
+        ],
+        [
+          "blaas ... op",
+          "blow up (opblazen)"
+        ]
+      ]
+    },
+    "7629": {
+      "t": "Een imp bezorgen",
+      "d": "Er is nog één stap nodig voor het perkament van Mor'zul: ik heb papier nodig dat doordrenkt is met Xorothian-sterrenstof. En... ik ben bang dat ik dat hier niet kan doen. Ik heb de spullen niet!$B$BEr is wel een alchemielab waar alles is wat nodig is. Het is in de Scholomance, op het eiland Caer Darrow in de Plaguelands.$B$BIk kan de reis niet maken, maar hier - neem deze pot. Er zit een imp in die heel slim is. Laat hem eruit bij het alchemielab, dan doordrenkt hij het perkament.",
+      "o": "Breng de Imp in a Jar naar het alchemielab in de Scholomance. Breng de pot terug naar Gorzeeki Wildeyes als het perkament is gemaakt.",
+      "p": "Ben je in de Scholomance geweest, $N? Heeft de imp het perkament al met het sterrenstof doordrenkt?",
+      "c": "Ah, mooi. J'eevee heeft het perkament gemaakt. Hoe was de Scholomance? Charmant, vind je niet? En de insecten daar... ik heb gehoord dat ze heerlijk zijn!$B$BGoed gedaan, $N, en bedankt dat je mijn pot hebt teruggebracht. Ik heb hem al heel lang... en hij is niet te koop!",
+      "e": "Perkament gemaakt",
+      "g": [
+        [
+          "bezorgen",
+          "deliver"
+        ],
+        [
+          "perkament",
+          "parchment"
+        ],
+        [
+          "doordrenkt",
+          "infused, soaked (doordrenken)"
+        ],
+        [
+          "sterrenstof",
+          "stardust"
+        ],
+        [
+          "ik ben bang",
+          "I'm afraid"
+        ],
+        [
+          "alchemielab",
+          "alchemy lab"
+        ],
+        [
+          "eiland",
+          "isle, island"
+        ],
+        [
+          "pot",
+          "jar"
+        ],
+        [
+          "Charmant",
+          "charming"
+        ],
+        [
+          "niet te koop",
+          "not for sale"
+        ]
+      ]
+    },
+    "7630": {
+      "t": "Arcanite",
+      "d": "Nu de Bell, het Wheel en de Candle klaar zijn, moet ik een zwarte magneetsteen maken. Tijdens je ritueel heb je die magneetsteen nodig om de andere ritueelvoorwerpen in stand te houden als ze het begeven.$B$BOm de magneetsteen te maken, heb ik arcanite nodig. Heb je wat? Zo niet, dan... moet je de arcanite bij een alchemist halen.$B$BKom terug als je de arcanite hebt, dan maak ik de zwarte magneetsteen.",
+      "o": "Breng 3 Arcanite Bars naar Gorzeeki in de Burning Steppes.",
+      "p": "Heb je de arcanite, $N? Zodra ik die heb, kan ik de zwarte magneetsteen voor je maken.",
+      "c": "Je hebt het! Mooi gedaan! Nu kan ik de magneetsteen maken. Als je eindelijk klaar bent voor je ritueel om de Circle of Greater Summoning te maken, wil je een magneetsteen hebben, zodat het ritueel niet op niets uitloopt!",
+      "g": [
+        [
+          "magneetsteen",
+          "lodestone"
+        ],
+        [
+          "Tijdens",
+          "during"
+        ],
+        [
+          "ritueelvoorwerpen",
+          "ritual objects (ritueelvoorwerp)"
+        ],
+        [
+          "in stand te houden",
+          "to maintain (in stand houden)"
+        ],
+        [
+          "het begeven",
+          "fail, give out"
+        ],
+        [
+          "Zodra",
+          "as soon as"
+        ],
+        [
+          "op niets uitloopt",
+          "fizzles out (op niets uitlopen)"
+        ]
+      ]
+    },
+    "7631": {
+      "t": "Dreadsteed of Xoroth",
+      "d": "Alle voorbereidingen zijn getroffen. Nu moet je het ritueel uitvoeren om een Circle of Greater Summoning te maken. Gebruik daarna het perkament dat doordrenkt is met Xorothian-sterrenstof... om een portaal naar Xoroth te openen.$B$BIk heb de instructies voor het ritueel op een rol geschreven. Bestudeer die goed, want je moet elke stap precies uitvoeren als je wilt slagen.$B$BVeel geluk, $N. En mogen de zielen van je vijanden snel hun weg vinden naar je scherventas.",
+      "o": "Lees Mor'zul's Instructions. Roep een Xorothian Dreadsteed op, versla hem en bind zijn geest aan je.",
+      "c": "De geest van de Xorothian Dreadsteed is verslagen. Hoewel er woede door zijn spookachtige flanken pulseert, weet je dat de ziel van het beest van jou is...$B$BHij fluistert duistere magie in je geest en geeft je de kennis om een dreadsteed op te roepen.",
+      "g": [
+        [
+          "voorbereidingen",
+          "preparations (voorbereiding)"
+        ],
+        [
+          "getroffen",
+          "made (treffen; voorbereidingen treffen)"
+        ],
+        [
+          "uitvoeren",
+          "perform"
+        ],
+        [
+          "doordrenkt",
+          "infused (doordrenken)"
+        ],
+        [
+          "rol",
+          "scroll"
+        ],
+        [
+          "Bestudeer",
+          "study (bestuderen)"
+        ],
+        [
+          "slagen",
+          "succeed"
+        ],
+        [
+          "zielen",
+          "souls (ziel)"
+        ],
+        [
+          "scherventas",
+          "shard pouch"
+        ],
+        [
+          "versla",
+          "defeat (verslaan)"
+        ],
+        [
+          "spookachtige",
+          "ghostly (spookachtig)"
+        ],
+        [
+          "flanken",
+          "flanks (flank)"
+        ],
+        [
+          "pulseert",
+          "pulses (pulseren)"
+        ],
+        [
+          "fluistert",
+          "whispers (fluisteren)"
+        ]
+      ]
+    }
+  },
+  "words": {
+    "begeven": "(het begeven) to fail, give out",
+    "dreadsteeds": "dreadsteeds: demonic horses of Xoroth (dreadsteed)",
+    "fel-essentie": "fel essence",
+    "fel-essenties": "fel essences (fel-essentie)",
+    "fel-gifstoffen": "fel poisons (fel-gifstof)",
+    "fel-vuur": "fel fire",
+    "felguard-schildwachten": "felguard sentries (felguard-schildwacht)",
+    "hederine-demonen": "Hederine demons (Hederine-demon)",
+    "iron-erts": "(dark iron-erts) dark iron ore",
+    "legashi-saters": "Legashi satyrs (Legashi-sater)",
+    "meester-mijnwerker": "master miner",
+    "motivatie": "motivation",
+    "polymorph-spreuk": "Polymorph spell",
+    "schaamt": "(zich schamen) is ashamed",
+    "thuiswereld": "home world",
+    "uitloopt": "(op niets uitlopen) fizzles out, comes to nothing",
+    "ulatheks": "Ulathek's",
+    "verschuilt": "(zich verschuilen) hides",
+    "volbrengt": "accomplish, complete (volbrengen)",
+    "xorothian-sterrenstof": "Xorothian stardust"
+  },
+  "terms": {
+    "infernal": "infernal: a huge burning demon of stone that falls from the sky like a meteor (Warcraft)",
+    "imp": "imp: a small, mischievous demon that a warlock can summon",
+    "fel": "fel: the green, corrupting demonic magic of the Burning Legion (Warcraft)",
+    "felguard": "felguard: a large armoured demon warrior of the Burning Legion (Warcraft)",
+    "doomguard": "doomguard: a huge winged demon warrior of the Burning Legion (Warcraft)",
+    "dreadsteed": "dreadsteed: a fiery demonic horse that a warlock can bind as a mount (Warcraft)",
+    "dreadlord": "dreadlord: a powerful, cunning demon (nathrezim) of the Burning Legion",
+    "arcanite": "arcanite: a rare magical metal made by alchemists (Warcraft)"
+  }
+}
