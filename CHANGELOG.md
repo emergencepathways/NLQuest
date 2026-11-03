@@ -1,6 +1,7 @@
 # Changelog
 
 ## Unreleased
+- Batch 109: Tirisfal Glades from level 5 to 12 (Gordo's Task and Doom Weed, the A New Plague chain, A Putrid Task, Fields of Grief, Proof of Demise, A Letter Undelivered, Graverobbers, the Agamand chain from Deaths in the Family and The Haunted Mills to Speak with Sevren, The Mills Overrun, all four At War With The Scarlet Crusade quests, Forsaken Duties, Return to the Magistrate and Rear Guard Patrol, The Chill of Death, Delivery to Silverpine Forest, and the Gunther chain from The Prodigal Lich via Return the Book and Proving Allegiance to The Prodigal Lich Returns) (29 quests, 1083 in total).
 - Batch 107: Valley of Trials and Durotar from level 1 to 9 (The New Horde, Sarkoth, the Burning Blade chain, Vanquish the Betrayers, Minshina's Skull, ...) (26 quests, 1054 in total).
 - Batch 36: Badlands and Feralas from level 25 to 45 (Tremors of the Earth, Ambassador Infernus, Fiery Blaze Enchantments, Lotwil's elemental, the Hatecrest naga and Lord Shalzaru chain, The Missing Courier chain, The High Wilderness, OOX-22/FE, ...) (22 quests, 1028 in total).
 - Batch 33: Duskwood from level 31 to 45 (Worgen in the Woods, Morbent Fel, The Legend of Stalvan, the Morgan Ladimore chain, Supplies for Nethergarde) and Alterac Mountains from level 33 to 40 (the Syndicate chain, Crushridge Bounty, Crushridge Warmongers, Dark Council, Stormpike's Deciphering) (24 quests, 1006 in total).
