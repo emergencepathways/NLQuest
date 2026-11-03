@@ -1,0 +1,152 @@
+-- Speurtocht.NL batch 60: Felwood
+-- Generated from batches/60-felwood.json by tools/import_batch.py - edit the JSON, not this file.
+local _, NQ = ...
+
+NQ:AddQuests({
+
+[5883] = { en = "Salve via Mining", tier = 4,
+  t = "Zalf door mijnbouw",
+  p = "Als je een Cenarion Beacon bij je hebt terwijl je in Felwood mijnt, kun je Tainted Vitriol zien. Dat bederft een ader van ruw metaal. Ik weet hoe ik dat vitriool kan zuiveren en er een reagens van kan maken voor Cenarion Plant Salve. Die zalf gebruik je dan op planten in het wild die gered moeten worden.$b$bAls je Tainted Vitriol hebt verzameld, geef ik je wat Cenarion Plant Salve die ik al heb gemaakt.",
+  c = "Goed dan, hier is wat Cenarion Plant Salve. Als je meer vitriool vindt wanneer je in Felwood mijnt, bewaar het dan voor mij! Hoe meer je vindt, hoe meer zalf ik kan maken.",
+  g = { {"mijnbouw", "mining"}, {"mijnt", "mine (mijnen)"}, {"bederft", "spoils, corrupts (bederven)"}, {"ader", "vein"}, {"ruw", "raw"}, {"vitriool", "vitriol"}, {"reagens", "reagent"}, {"in het wild", "in the wild"}, {"gered", "saved (redden)"}, {"bewaar", "keep (bewaren)"} },
+},
+
+[5884] = { en = "Salve via Gathering", tier = 4,
+  t = "Zalf door verzamelen",
+  p = "Met een Cenarion Beacon kan een ervaren kruidenkenner het verraderlijke Fel Creep zien. Dat is een kwaadaardig product van de verdorvenheid van Felwood. Mijn werk hier heeft me geleerd hoe ik Fel Creep kan zuiveren tot een reinigend reagens... dat gebruikt wordt in wat we nu Cenarion Plant Salve noemen.$b$bAls je in Felwood kruiden verzamelt, zou je Fel Creep moeten tegenkomen, zolang je het baken bij je hebt. In ruil voor wat je me brengt, geef ik je kant-en-klare Cenarion Plant Salve.",
+  c = "Uitstekend werk, $n! Elk stukje hiervan zal ons helpen om Felwood terug te winnen, als we het eenmaal gezuiverd hebben. Hier, neem een paar doses Cenarion Plant Salve en ga het bos in. Het terugwinnen van het land op de verdorvenheid wacht op geen enkele $r!",
+  g = { {"ervaren", "experienced, seasoned"}, {"kruidenkenner", "herbalist"}, {"verraderlijke", "insidious (verraderlijk)"}, {"kwaadaardig", "malicious, malfeasant"}, {"reinigend", "cleansing"}, {"kruiden", "herbs (kruid)"}, {"baken", "beacon"}, {"kant-en-klare", "ready-made (kant-en-klaar)"}, {"terug te winnen", "to win back (terugwinnen)"}, {"eenmaal", "once"}, {"doses", "doses (dosis)"} },
+},
+
+[5885] = { en = "Salve via Skinning", tier = 4,
+  t = "Zalf door villen",
+  p = "Met een Cenarion Beacon kan een goed getrainde viller stukken besmette huid zien op de buit die in Felwood verzameld is. Ik maak van die schijnbaar nutteloze stukken een dikke pasta die dient als versnellend middel voor Cenarion Plant Salve. Zorg dat je een baken bij je hebt als je je prooien hier in Felwood vilt!$b$bAls je besmette stukken verzamelt, breng ze dan naar mij. Dan geef ik je wat Cenarion Plant Salves die ik al heb gemaakt.",
+  c = "Dit is precies wat ik nodig heb. Hier, neem deze plantenzalven en gebruik ze om Felwood terug te winnen op de verdorvenheid. We moeten volhouden, $n!",
+  g = { {"villen", "skinning"}, {"viller", "skinner"}, {"huid", "skin, hide"}, {"buit", "spoils, bounty"}, {"schijnbaar", "seemingly"}, {"nutteloze", "useless (nutteloos)"}, {"pasta", "paste"}, {"dient", "serves (dienen)"}, {"versnellend", "quickening, accelerating"}, {"prooien", "prey, kills (prooi)"}, {"vilt", "skin (villen)"}, {"volhouden", "persevere"} },
+},
+
+[5886] = { en = "Salve via Disenchanting", tier = 4,
+  t = "Zalf door onttoveren",
+  p = "De kracht van een onttoverd magisch voorwerp voel je aan de essentie die het oplevert. Ik heb een manier bedacht om ruwe essentie, die betoveraars gebruiken, om te zetten in een geschikt reagens voor Cenarion Plant Salve. Hiervoor heb je geen Cenarion Beacon nodig. Elk goed onttoverd voorwerp dat Lesser Nether Essences oplevert, is genoeg.$b$bIk heb maar één Lesser Nether Essence nodig. In ruil daarvoor geef ik je Cenarion Plant Salves. De essentie is enorm krachtig: met een klein beetje kom je echt een heel eind!",
+  c = "Hier zijn wat Cenarion Plant Salves. Ik heb hiervoor maar één Lesser Nether Essence nodig, $n. Essentie is verreweg het krachtigste wat ik kan gebruiken om zwaarden in ploegscharen te veranderen, zogezegd. Als je meer zalf nodig hebt, kom dan hier naar me toe!",
+  g = { {"onttoveren", "disenchanting"}, {"onttoverd", "disenchanted"}, {"essentie", "essence"}, {"oplevert", "yields (opleveren)"}, {"bedacht", "devised (bedenken)"}, {"betoveraars", "enchanters (betoveraar)"}, {"om te zetten", "to convert (omzetten)"}, {"geschikt", "suitable"}, {"een heel eind", "a long way"}, {"verreweg", "by far"}, {"ploegscharen", "plowshares (ploegschaar)"}, {"zogezegd", "so to speak, as it were"} },
+},
+
+[6221] = { en = "Deadwood of the North", tier = 4,
+  t = "De Deadwood in het noorden",
+  d = "Er ligt een kamp van Deadwood-furbolgs recht ten zuidwesten van ons. Het kamp is doordrenkt van verdorvenheid, en ik wil er een eind aan maken voordat ze een probleem worden.$B$BDe Deadwood-stam is slecht, maar dat komt door de fel die hun geest vervuilt. Hun vijandigheid is niet echt aangeboren, en toch is hun niet meer te helpen. Daarom doet het me diep verdriet dat ik tegen mijn eigen broeders moet vechten.$B$BAlsjeblieft, $N, doe wat er gedaan moet worden, en vertel me de details niet. Die raken me veel te diep.",
+  o = "Nafien wil dat je 5 Deadwood Den Watchers, 5 Deadwood Avengers en 5 Deadwood Shamans doodt.",
+  p = "Zodra je het vertrouwen van de Timbermaw hebt gewonnen, weet ik zeker dat we iets voor je kunnen doen. De Timbermaw vergeten hun bondgenoten niet, vooral niet in duistere tijden zoals deze.",
+  c = "Ik voel dat je hebt gewonnen. Overwinning... wat een leeg woord, als je bedenkt wat er moest gebeuren. Hoe dan ook, je hebt bewezen dat je ons vertrouwen waard bent.$B$BHet kan even duren voordat de Timbermaw je zonder vijandigheid in de Hold verwelkomen. Toch zal je doorzettingsvermogen langzaam elke argwaan wegnemen die mijn broeders over je hebben. Zolang je ons nooit verraadt en nooit je wapens tegen ons opheft, zullen we elkaar vinden.",
+  g = { {"doordrenkt", "permeated, soaked (doordrenken)"}, {"verdorvenheid", "corruption"}, {"stam", "tribe"}, {"vervuilt", "pollutes (vervuilen)"}, {"vijandigheid", "hostility"}, {"aangeboren", "innate"}, {"doet het me diep verdriet", "it saddens me deeply"}, {"broeders", "brethren (broeder)"}, {"overwinning", "victory"}, {"doorzettingsvermogen", "perseverance"}, {"argwaan", "suspicion"}, {"verraadt", "betray (verraden)"}, {"opheft", "raise (opheffen)"}, {"elkaar vinden", "find common ground"} },
+},
+
+[8462] = { en = "Speak to Nafien", tier = 4,
+  t = "Spreek met Nafien",
+  d = "Misschien kun je een grotere bedreiging aan waar wij Timbermaw mee te maken hebben. Hier heb je in elk geval laten zien dat je het kunt...$B$BEen ander van mijn soort houdt de wacht buiten de ingang van Timbermaw Hold, ver naar het noorden langs deze weg. Hij heet Nafien. Hij ziet er misschien uit als een wild en onaangenaam beest, maar wees niet bang voor hem. Hij zoekt alleen hulp tegen de kwade machten die ons thuis bedreigen.",
+  o = "Reis naar het noorden langs de hoofdweg in Felwood en spreek met de furbolg Nafien. Hij houdt de wacht buiten de ingang van Timbermaw Hold.",
+  c = "Ah... de wind heeft me verteld over hen die niet van onze stam zijn, maar die bondgenoot willen worden van de Timbermaw-furbolgs. Ik heet je welkom, maar ik moet je waarschuwen: mijn stam reageert slecht op vreemdelingen.$B$BDit zijn zware tijden. We kunnen alleen hen vertrouwen die samen met ons tegen de verdorvenheid van het land vechten... en die zich op die manier aan ons hebben bewezen. Wie dat niet heeft gedaan, wordt met open vijandigheid ontvangen als die de Hold binnengaat.",
+  g = { {"bedreiging", "threat"}, {"aan", "handle (aankunnen)"}, {"houdt de wacht", "stands guard (de wacht houden)"}, {"ingang", "entrance"}, {"onaangenaam", "unpleasant, unsavory"}, {"machten", "forces, powers (macht)"}, {"bondgenoot", "ally"}, {"vreemdelingen", "strangers (vreemdeling)"}, {"bewezen", "proven (bewijzen)"}, {"vijandigheid", "hostility"}, {"ontvangen", "received, met"} },
+},
+
+[8465] = { en = "Speak to Salfa", tier = 4,
+  t = "Spreek met Salfa",
+  d = "De dreiging van verdorvenheid komt niet alleen van de Deadwood-furbolgs in het zuiden, maar ook uit het oosten, van de Winterfall-furbolgs van Winterspring. Als je ons verder wilt helpen, spreek dan met Salfa aan de andere kant van de Hold, bij de ingang naar Winterspring. Volg het pad naar links om er te komen.$B$BWees gewaarschuwd: als mijn soortgenoten binnen je als vijandig of gehaat zien, vallen ze aan. Reis zo snel als je kunt en vermijd gevechten. Als je een Timbermaw doodt, zelfs uit zelfverdediging, zul je ze alleen nog verder van je vervreemden.",
+  o = "Reis door Timbermaw Hold en ga eruit aan de kant van Winterspring. Spreek met Salfa, die de wacht houdt buiten de ingang van Timbermaw Hold.",
+  c = "Gegroet, $c. Ik houd hier de wacht, als woordvoerder van de Timbermaw hier in Winterspring en als verdediger van de stam.$B$BOnze Winterfall-broeders hier in dit ijskoude land zijn onder dezelfde verdorven invloed gekomen als de furbolgs van Felwood. Als je hier bent gekomen om de Timbermaw-furbolgs hulp aan te bieden, dan zijn we klaar om dat aanbod aan te nemen.",
+  g = { {"dreiging", "threat"}, {"soortgenoten", "my kind (soortgenoot)"}, {"gehaat", "hated (haten)"}, {"vermijd", "avoid (vermijden)"}, {"zelfverdediging", "self-defense"}, {"vervreemden", "alienate"}, {"gegroet", "greetings"}, {"woordvoerder", "speaker, spokesperson"}, {"verdediger", "defender"}, {"ijskoude", "frigid (ijskoud)"}, {"invloed", "influence, sway"}, {"aanbod", "offer"} },
+},
+
+[8466] = { en = "Feathers for Grazle", tier = 4,
+  t = "Veren voor Grazle",
+  p = "Je hebt je aan mij bewezen, maar misschien moet je je nog verder bewijzen aan de wantrouwige broeders van mijn stam. Daarbij kan ik je misschien blijven helpen.$B$BSommige Deadwood-furbolgs dragen een opvallende hoofdtooi. Die kan dienen als bewijs dat je hun aantal kleiner maakt. Breng me een veer van elke hoofdtooi die je in handen krijgt. Voor elke vijf die je me brengt, krijg je meer erkenning bij de Timbermaw.",
+  c = "Goed gedaan, $N! Ik zorg ervoor dat mijn soortgenoten van je daden horen.$B$BVergeet niet om alle veren die je vindt naar mij te brengen. Ik blijf ze aannemen zolang dat nodig is.",
+  g = { {"bewezen", "proven (bewijzen)"}, {"wantrouwige", "suspicious (wantrouwig)"}, {"opvallende", "distinctive, striking (opvallend)"}, {"hoofdtooi", "headdress"}, {"dienen", "serve"}, {"bewijs", "proof"}, {"veer", "feather"}, {"in handen krijgt", "acquire (in handen krijgen)"}, {"erkenning", "recognition"}, {"soortgenoten", "my kind (soortgenoot)"}, {"daden", "deeds (daad)"} },
+},
+
+[8467] = { en = "Feathers for Nafien", tier = 4,
+  t = "Veren voor Nafien",
+  p = "Je hebt je aan mij bewezen, maar misschien moet je je nog verder bewijzen aan de wantrouwige broeders van mijn stam. Daarbij kan ik je misschien blijven helpen.$B$BSommige Deadwood-furbolgs dragen een opvallende hoofdtooi. Die kan dienen als bewijs dat je hun aantal kleiner maakt. Breng me een veer van elke hoofdtooi die je in handen krijgt. Voor elke vijf die je me brengt, krijg je meer erkenning bij de Timbermaw.",
+  c = "Goed gedaan, $N! Ik zorg ervoor dat mijn soortgenoten van je daden horen.$B$BVergeet niet om alle veren die je vindt naar mij te brengen. Ik blijf ze aannemen zolang dat nodig is.",
+  g = { {"bewezen", "proven (bewijzen)"}, {"wantrouwige", "suspicious (wantrouwig)"}, {"opvallende", "distinctive, striking (opvallend)"}, {"hoofdtooi", "headdress"}, {"dienen", "serve"}, {"bewijs", "proof"}, {"veer", "feather"}, {"in handen krijgt", "acquire (in handen krijgen)"}, {"erkenning", "recognition"}, {"soortgenoten", "my kind (soortgenoot)"}, {"daden", "deeds (daad)"} },
+},
+
+[8470] = { en = "Deadwood Ritual Totem", tier = 4,
+  t = "Het ritueeltotem van de Deadwood",
+  d = "Je hebt een van de ritueeltotems van de Deadwood-furbolgs gevonden. Het totem zelf is heel gewoon gemaakt, maar je voelt duidelijk de wanhoop die ervan uitgaat. Als er één voorwerp is dat het best laat zien onder welke verdorvenheid de Deadwood-furbolgs lijden, dan is het dit wel.$B$BEen van de furbolgs in Timbermaw Hold heeft misschien iets aan zo'n voorwerp... tenminste, als je hun vertrouwen genoeg hebt verdiend om met je te praten.$b",
+  o = "Breng het Deadwood Ritual Totem naar binnen in Timbermaw Hold en kijk of een van de furbolgs daar er iets aan heeft. De Timbermaw praten pas met je als je reputatie bij hen minstens Neutral is.",
+  p = "Ja, $c, waarmee kan ik je helpen? Je loopt vreedzaam tussen ons, maar er is zeker iets mis. Ik voel iets... iets verontrustends...",
+  c = "Dit totem... Ik herken het als een totem van de Deadwood, maar het is doordrongen van de stank van verrotting. Wat het ook is dat onze broeders tegen ons heeft gekeerd, het zit zeker in dit voorwerp.$B$BHet was verstandig van je om dit naar ons te brengen, $N. Misschien kunnen we met studie en rituelen ontdekken wat de geest van onze broeders vervuilt. Dank je, vriend. Neem alsjeblieft deze geschenken aan in ruil voor je vondst.",
+  g = { {"ritueeltotem", "ritual totem"}, {"wanhoop", "despair"}, {"ervan uitgaat", "emanates from it (uitgaan van)"}, {"voorwerp", "object, item"}, {"lijden", "suffer"}, {"reputatie", "reputation"}, {"vreedzaam", "peacefully"}, {"verontrustends", "troubling (verontrustend)"}, {"doordrongen", "permeated, thick (doordringen)"}, {"stank", "stench"}, {"verrotting", "decay"}, {"gekeerd", "turned (keren)"}, {"verstandig", "wise, sensible"}, {"geschenken", "gifts, offerings (geschenk)"}, {"vondst", "find"} },
+},
+
+[4261] = { en = "Ancient Spirit", tier = 4,
+  t = "Een oude geest",
+  d = "Felwood was ooit een vredig en rustig land... tot het Legioen de macht greep. De infernals, de verwoesting, de chaos...$B$BDe schedel van Gul'dan zorgde ervoor dat hier niemand werd gespaard. Alles viel ten prooi aan de verdorvenheid.$B$BZelfs nu, als geest, zit ik nog steeds gevangen en draag ik het lijden van dit land. Help me de weg naar huis te vinden. Alsjeblieft, $N, zeg me dat je een oude geest hier weg zult leiden, naar een plek waar ik eindelijk kan rusten.$B$BZoek Kayneth Stillwind op zodra ik vrij ben. Het is een druïde die in Forest Song woont, in het oosten.",
+  o = "Breng Arei in veiligheid en spreek daarna met Kayneth Stillwind in Forest Song, in het oosten van Ashenvale.",
+  p = "Wat heb je gezien in dit verdorven land?",
+  c = "Ja, $N. Felwood heeft veel ellende doorstaan. Dank je voor wat je hebt gedaan.$B$BOp een dag kunnen we Felwood misschien terugwinnen op de verdorvenheid. Elke goede daad helpt.",
+  e = "Help Arei in veiligheid te komen",
+  g = { {"vredig", "peaceful"}, {"Legioen", "Legion"}, {"de macht greep", "took hold (de macht grijpen)"}, {"verwoesting", "destruction"}, {"schedel", "skull"}, {"gespaard", "spared (sparen)"}, {"viel ten prooi aan", "fell prey to (ten prooi vallen aan)"}, {"lijden", "suffering"}, {"in veiligheid", "to safety"}, {"ellende", "misery, hardship"}, {"doorstaan", "endured, gone through"}, {"terugwinnen", "win back, reclaim"}, {"daad", "deed"} },
+},
+
+[5249] = { en = "To Winterspring!", tier = 4,
+  t = "Naar Winterspring!",
+  d = "In Winterspring, ten noorden van hier, zijn veel oude elfenruïnes. Het is een hard land, maar het heeft veel geheimen en plekken om te ontdekken.$B$BIk heb het hier in Felwood zo druk dat ik nog niet de kans heb gehad om naar Winterspring te reizen. Maar er is geen reden waarom jij niet zou gaan!$B$BZoek daar naar Wynd Nightchaser. Hij is het grootste deel van zijn tijd in Starfall Village, en hij weet veel over de omgeving.",
+  o = "Zoek Starfall Village in Winterspring en spreek met Wynd Nightchaser.",
+  c = "$gEen vriend:Een vriendin; van Ivy Leafrunner? Leuk je te ontmoeten, $N.",
+  g = { {"ten noorden van", "to the north of"}, {"elfenruïnes", "elven ruins (elfenruïne)"}, {"geheimen", "secrets (geheim)"}, {"ontdekken", "explore, discover"}, {"het druk hebben", "be busy"}, {"de kans", "the opportunity"}, {"het grootste deel", "most (of)"}, {"de omgeving", "the area"} },
+},
+
+[8469] = { en = "Beads for Salfa", tier = 4,
+  t = "Kralen voor Salfa",
+  p = "Je hebt zeker mijn vertrouwen verdiend, $N, maar misschien moet je nog steeds het vertrouwen verdienen van mijn wantrouwige stam. Er is iets wat je kunt doen om dat vertrouwen te winnen.$B$BDe Winterfall staan erom bekend dat ze geestkralen dragen ter bescherming tegen kwade geesten. Die kralen hebben duidelijk hun doel niet bereikt, want de Winterfall zelf zijn de verspreiders van de verdorvenheid. Breng me die geestkralen van gevallen Winterfall-furbolgs. Voor elke vijf die je me brengt, krijg je meer erkenning bij de Timbermaw.",
+  c = "Opnieuw bewijs je ons je eer! Ik zorg ervoor dat mijn soortgenoten van je daden horen.$B$BVergeet niet om alle kralen van de Winterfall die je vindt naar mij te brengen. Voor elke set die je me blijft brengen, spreek ik namens jou tot de stam.",
+  g = { {"verdiend", "earned (verdienen)"}, {"wantrouwige", "untrusting (wantrouwig)"}, {"staan erom bekend", "are known for it (bekendstaan)"}, {"geestkralen", "spirit beads (geestkraal)"}, {"ter bescherming tegen", "to ward against"}, {"doel", "purpose"}, {"verspreiders", "spreaders, agents (verspreider)"}, {"gevallen", "fallen"}, {"erkenning", "recognition"}, {"eer", "honor"}, {"kralen", "beads (kraal)"}, {"namens", "on behalf of"} },
+},
+
+[5204] = { en = "Retribution of the Light", tier = 4,
+  t = "De vergelding van het Licht",
+  d = "Ze doet graag alsof het goed met haar gaat. Ze wil me laten denken dat ze sterk genoeg is om dit allemaal alleen te verwerken, maar ik weet wel beter. De dood van Trey, en horen hoe hij gemarteld is, zal haar nog lang achtervolgen, en daar kunnen we niets aan doen. Maar we kunnen haar wel wat rust geven!$B$B$N, ga terug naar Shadow Hold, dood de folteraar van Trey en vind zijn stoffelijk overschot. Er is geen reden waarom we al deze losse eindjes niet kunnen afhechten terwijl Arko'narin op haar eigen, persoonlijke manier rouwt.",
+  o = "Ga terug naar Jaedenar en dood de succubus Rakaiah voordat je de Remains of Trey Lightforge zoekt.",
+  p = "Je bekijkt het lichaam, en er is geen twijfel: dit zijn de resten van de Knight of the Silver Hand Trey Lightforge. Even denk je aan Arko'narin. Je vraagt je af of iemand in je leven zoveel voor je betekende als deze man betekende voor de gevangen nachtelf die je pas hebt helpen ontsnappen uit Shadow Hold.$B$BJe neemt nog even de tijd om je gedachten te ordenen. Dan weet je dat je de resten van de paladijn niet naar Jessir kunt terugbrengen zonder eerst zijn folteraar te doden.",
+  c = "Je pakt de resten van de paladijn zo voorzichtig mogelijk op. Je bedenkt dat zijn geest in elk geval bevrijd is van alle pijn of lijden die hem misschien is aangedaan.",
+  g = { {"vergelding", "retribution"}, {"doet alsof", "pretends (doen alsof)"}, {"verwerken", "deal with, process"}, {"gemarteld", "tortured (martelen)"}, {"achtervolgen", "haunt"}, {"folteraar", "torturer"}, {"stoffelijk overschot", "remains (of a body)"}, {"losse eindjes", "loose ends"}, {"afhechten", "tie off"}, {"rouwt", "mourns (rouwen)"}, {"twijfel", "doubt"}, {"resten", "remains (rest)"}, {"gevangen", "captive"}, {"ordenen", "gather, put in order"}, {"aangedaan", "inflicted (aandoen)"} },
+},
+
+[5385] = { en = "The Remains of Trey Lightforge", tier = 4,
+  t = "De resten van Trey Lightforge",
+  d = "Je pakt de zak voorzichtig op en maakt je klaar om terug te gaan naar Jessir Moonbow, aan de grens van Felwood en Ashenvale. Hopelijk krijgt de paladijn het respect dat hem toekomt, zodra je zijn resten aan zijn vrienden hebt gegeven.",
+  o = "Breng de Remains of Trey Lightforge terug naar Jessir Moonbow in Felwood.",
+  p = "Hoe ging het in Jaedenar, $N?",
+  c = "Het is je gelukt! Geprezen zij Elune, en welke machten jij ook aanbidt, $N. Je hebt vandaag iets eervols en nobels gedaan. Ik weet zeker dat Arko'narin blij zal zijn dat je niet alleen de tijd hebt genomen om haar te redden, maar ook het wezen hebt gedood dat een van haar beste vrienden heeft gemarteld.$b$bIk wou dat ik meer voor je kon doen, maar neem alsjeblieft dit aan.",
+  g = { {"zak", "sack"}, {"grens", "border"}, {"hopelijk", "hopefully"}, {"dat hem toekomt", "that is due to him (toekomen)"}, {"resten", "remains (rest)"}, {"geprezen zij", "praise be to"}, {"aanbidt", "worship (aanbidden)"}, {"eervols", "honorable (eervol)"}, {"nobels", "noble (nobel)"}, {"wezen", "creature"}, {"gemarteld", "tortured (martelen)"}, {"ik wou dat", "I wish"} },
+},
+
+[5242] = { en = "A Final Blow", tier = 4,
+  t = "Een laatste slag",
+  d = "Helaas zie ik maar één manier om deze bedreiging voor Felwood te stoppen: een aanval van voren. Er zijn geen andere wegen Shadow Hold in, en ik kan je niet naar binnen teleporteren. De rechte weg naar beneden is de enige... en ik weet ook wie je moet zoeken. Hij heet Fel'dan... Shadow Lord Fel'dan. Hij is de sterveling die daar beneden de macht heeft... hij is de kop van de slang. Dood hem en zijn twee succubus-dienaressen en kom terug naar mij. Fel'dan is degene die verbonden sluit met het Legioen. Hij moet worden gestopt.",
+  o = "Dood Moora en Salia, en breng Shadow Lord Fel'dan's Head naar Greta Mosshoof in Felwood.",
+  p = "Zonder Fel'dan raakt de Shadow Council hopelijk zijn focus kwijt en krijgen ze onderling ruzie. Ze zullen met elkaar strijden om de macht en hun middelen oppotten voor toekomstige plannen. Dat is het juiste moment om hen en hun demonenslaven te vernietigen.",
+  c = "Geprezen zij de Aardmoeder, $N! Dank je! Dit is werkelijk een geweldige dag!$B$BMet deze klap voor hun rangorde zal de Shadow Council het heel moeilijk hebben om weer zo machtig te worden als vroeger. Je hebt vandaag iets geweldigs gedaan!",
+  g = { {"slag", "blow"}, {"helaas", "unfortunately"}, {"bedreiging", "threat"}, {"aanval van voren", "frontal attack"}, {"sterveling", "mortal"}, {"de kop van de slang", "the head of the serpent"}, {"dienaressen", "(female) servants (dienares)"}, {"verbonden sluit", "makes pacts (een verbond sluiten)"}, {"onderling", "among themselves"}, {"strijden", "struggle, fight"}, {"middelen", "assets, resources (middel)"}, {"oppotten", "hoard"}, {"demonenslaven", "demon slaves (demonenslaaf)"}, {"Aardmoeder", "Earthmother"}, {"rangorde", "hierarchy"} },
+},
+
+})
+
+NQ:AddWords({
+    ["bedenkt"] = "consider, realize (bedenken)",
+    ["betekende"] = "meant (betekenen)",
+    ["deadwood-furbolgs"] = "Deadwood furbolgs (a furbolg tribe)",
+    ["eindjes"] = "ends (eindje, small form of eind)",
+    ["ritueeltotems"] = "ritual totems (ritueeltotem)",
+    ["stoffelijk"] = "material, physical (stoffelijk overschot = remains)",
+    ["succubus-dienaressen"] = "succubus servants (succubus + dienares)",
+    ["teleporteren"] = "teleport",
+    ["winterfall-broeders"] = "Winterfall brethren (broeder)",
+    ["winterfall-furbolgs"] = "Winterfall furbolgs (a furbolg tribe)",
+})
+
+NQ:AddTerms({
+    ["fel"] = "fel: the green, corrupting demonic magic of the Burning Legion (Warcraft)",
+})
