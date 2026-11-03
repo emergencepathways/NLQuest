@@ -1,0 +1,1576 @@
+{
+  "quests": {
+    "7816": {
+      "t": "Gammerita, man!",
+      "d": "Yo! Daar buiten is een schildpad die niet is zoals de andere. Dat is Gammerita, de leider van de snapjaws uit het zoute water. Een smerige, gemene dief van een reptiel.$B$BMan, ze heeft mijn beste kunstaas gestolen. Ze heeft het zo van mijn lijn gebeten! Sindsdien bijten de vissen niet meer zoals vroeger.$B$BZoek Gammerita en haal mijn kunstaas uit haar maag.",
+      "o": "Katoom the Angler in Revantusk Village in de Hinterlands wil dat je Gammerita doodt en Katoom's Best Lure uit haar lijk haalt.$B$BKatoom zei dat Gammerita met de andere schildpadden aan de kust rondhangt.",
+      "p": "Heb je het al?",
+      "c": "MAN! Dit is fantastisch! Met mijn beste kunstaas terug en minder snapjaws stapelen de vissen zich straks op.",
+      "g": [
+        [
+          "schildpad",
+          "turtle"
+        ],
+        [
+          "smerige",
+          "dirty, filthy (smerig)"
+        ],
+        [
+          "reptiel",
+          "reptile"
+        ],
+        [
+          "kunstaas",
+          "fishing lure"
+        ],
+        [
+          "gebeten",
+          "bitten (bijten)"
+        ],
+        [
+          "sindsdien",
+          "since then"
+        ],
+        [
+          "maag",
+          "stomach"
+        ],
+        [
+          "lijk",
+          "corpse"
+        ],
+        [
+          "rondhangt",
+          "hangs around (rondhangen)"
+        ],
+        [
+          "kust",
+          "coast"
+        ],
+        [
+          "stapelen",
+          "pile up (zich opstapelen)"
+        ]
+      ]
+    },
+    "7828": {
+      "t": "De sluipers besluipen",
+      "d": "Veel dappere trollen zijn omgekomen in de ruwe wildernis van de Hinterlands, $r. De Silvermane-wolven zijn een van de grootste gevaren voor onze jagers. Ze liggen op de loer, verstopt tussen de struiken en het landschap. Als ze de kans krijgen, slaan ze toe.$B$BZo'n woestheid mag niet ongestraft blijven!$B$BJe moet denken zoals de Silvermane. Besluip de sluipers! Dood ze allemaal!",
+      "o": "Huntsman Markhor in Revantusk Village in de Hinterlands wil dat je 15 Silvermane Stalkers en 15 Silvermane Howlers doodt. Ga terug naar hem als de taak klaar is.$B$BMarkhor zei dat de wolven zich verstoppen in de wildernis van de Hinterlands.",
+      "p": "Laat ze de kracht van Revantusk zien!",
+      "c": "Goed gedaan, $r. De Revantusk danken je voor je bijdrage.",
+      "g": [
+        [
+          "sluipers",
+          "stalkers (sluiper)"
+        ],
+        [
+          "besluipen",
+          "to stalk, to creep up on"
+        ],
+        [
+          "omgekomen",
+          "died, perished (omkomen)"
+        ],
+        [
+          "ruwe",
+          "harsh, rough (ruw)"
+        ],
+        [
+          "wildernis",
+          "wilderness, the wilds"
+        ],
+        [
+          "op de loer",
+          "lying in wait"
+        ],
+        [
+          "struiken",
+          "bushes (struik)"
+        ],
+        [
+          "slaan ze toe",
+          "they strike (toeslaan)"
+        ],
+        [
+          "woestheid",
+          "ferocity"
+        ],
+        [
+          "ongestraft",
+          "unpunished, unchecked"
+        ],
+        [
+          "besluip",
+          "stalk (besluipen)"
+        ],
+        [
+          "bijdrage",
+          "contribution"
+        ]
+      ]
+    },
+    "7829": {
+      "t": "Jaag op de wilde beesten",
+      "d": "Van alle dieren in de Hinterlands horen de wilde uilbeesten bij de humeurigste. Veel goede Revantusk-krijgers zijn gedood door de woeste klauwen en snavels van deze beesten.$B$BDood elk wild uilbeest dat je ziet, $r. Kom terug als je geen bloedvergieten meer kunt verdragen. Dan wordt je bijdrage gewogen, gemeten en beoordeeld.",
+      "o": "Huntsman Markhor in Revantusk Village in de Hinterlands wil dat je 20 Savage Owlbeasts doodt. Ga terug naar hem als de taak klaar is.$B$BMarkhor zei dat de Savage Owlbeasts in de wildernis van de Hinterlands leven.",
+      "p": "Maak je hoofd leeg van onzuivere gedachten, $r. Word één met de wildernis!",
+      "c": "Je hebt bewezen dat je een waardige bondgenoot van de Revantusk bent, $N. Goed gedaan.",
+      "g": [
+        [
+          "uilbeesten",
+          "owlbeasts (uilbeest)"
+        ],
+        [
+          "humeurigste",
+          "most bad-tempered, ornery (humeurig)"
+        ],
+        [
+          "woeste",
+          "ferocious, wild (woest)"
+        ],
+        [
+          "klauwen",
+          "claws (klauw)"
+        ],
+        [
+          "snavels",
+          "beaks (snavel)"
+        ],
+        [
+          "bloedvergieten",
+          "bloodshed"
+        ],
+        [
+          "verdragen",
+          "to bear, to stand"
+        ],
+        [
+          "gewogen",
+          "weighed (wegen)"
+        ],
+        [
+          "beoordeeld",
+          "judged (beoordelen)"
+        ],
+        [
+          "onzuivere",
+          "impure (onzuiver)"
+        ],
+        [
+          "waardige",
+          "worthy (waardig)"
+        ],
+        [
+          "bondgenoot",
+          "ally"
+        ]
+      ]
+    },
+    "7830": {
+      "t": "Wraak voor de gevallenen",
+      "d": "Het tuig dat zich Wildhammer noemt, traint griffioenen om trollen te doden. Vreselijk, ik weet het, maar maak je geen zorgen: er komt snel gerechtigheid.$B$BVoor nu wil ik dat je je richt op het uitroeien van de oude griffioenen in deze streek. Ze heten Skylords.$B$BDood er één en kom terug met zijn pluim.",
+      "o": "Huntsman Markhor in Revantusk Village in de Hinterlands wil dat je een Razorbeak Skylord doodt en zijn Skylord Plume meeneemt. Ga terug naar hem als de taak klaar is.$B$BMarkhor zei dat de Razorbeak Skylord een zeldzaam ras is dat meestal in de wildernis van de Hinterlands leeft.",
+      "p": "De Razorbeak Skylord is een veel zeldzamere soort griffioen: een soort die paart en moordlustige jongen voortbrengt.",
+      "c": "<Markhor bekijkt de pluim.>$B$BIk vraag me af hoeveel van onze jagers dit beest heeft verslonden, voordat jij het zijn straf gaf.",
+      "g": [
+        [
+          "wraak",
+          "revenge"
+        ],
+        [
+          "gevallenen",
+          "the fallen"
+        ],
+        [
+          "tuig",
+          "scum, filth"
+        ],
+        [
+          "griffioenen",
+          "gryphons (griffioen)"
+        ],
+        [
+          "gerechtigheid",
+          "justice"
+        ],
+        [
+          "je richt op",
+          "focus on (zich richten op)"
+        ],
+        [
+          "uitroeien",
+          "eradicating, wiping out"
+        ],
+        [
+          "streek",
+          "region"
+        ],
+        [
+          "pluim",
+          "plume"
+        ],
+        [
+          "zeldzaam",
+          "rare"
+        ],
+        [
+          "paart",
+          "mates (paren)"
+        ],
+        [
+          "moordlustige",
+          "murderous (moordlustig)"
+        ],
+        [
+          "jongen",
+          "young, offspring"
+        ],
+        [
+          "voortbrengt",
+          "produces (voortbrengen)"
+        ],
+        [
+          "verslonden",
+          "devoured (verslinden)"
+        ]
+      ]
+    },
+    "7839": {
+      "t": "Vilebranch-relschoppers",
+      "d": "Vilebranch-tuig is ons dorp binnengevallen en heeft mijn gereedschap gestolen! Ik heb nog reservegereedschap, maar de set die ze stalen was een cadeau van een goedhartige gnoom. Die gnoom heeft mijn leven gered toen ik een jonge ork was.$B$BIk wil dat gereedschap terug, $N. Het betekent alles voor me.$B$BMarkhor meldde dat het gereedschap gezien is bij de tempels Agol'watha en Shaol'watha.$B$BDie tempels liggen in het noordoosten van de Hinterlands.$B$BHaal mijn gereedschap terug!",
+      "o": "Smith Slagtree in Revantusk Village in de Hinterlands wil dat je Slagtree's Lost Tools vindt. Ga terug naar hem als deze taak klaar is.$B$BJe herinnert je dat Smith Slagtree zei dat het gereedschap misschien bij een van de Vilebranch-tempels in het noordoosten van de Hinterlands ligt. Je moet ook bij Skulk Rock kijken.",
+      "p": "Pas op voor de Vilebranch-trollen in deze streek, $N. Het is meedogenloos, moordzuchtig tuig.",
+      "c": "Mijn gereedschap! Je hebt het gevonden! O, wat een heerlijke dag! Dank je, $N.",
+      "g": [
+        [
+          "relschoppers",
+          "hooligans (relschopper)"
+        ],
+        [
+          "binnengevallen",
+          "invaded (binnenvallen)"
+        ],
+        [
+          "gereedschap",
+          "tools"
+        ],
+        [
+          "reservegereedschap",
+          "backup tools"
+        ],
+        [
+          "goedhartige",
+          "kind-hearted (goedhartig)"
+        ],
+        [
+          "gered",
+          "saved (redden)"
+        ],
+        [
+          "meldde",
+          "reported (melden)"
+        ],
+        [
+          "noordoosten",
+          "northeast"
+        ],
+        [
+          "herinnert je",
+          "remember (zich herinneren)"
+        ],
+        [
+          "meedogenloos",
+          "ruthless"
+        ],
+        [
+          "moordzuchtig",
+          "murderous"
+        ]
+      ]
+    },
+    "7841": {
+      "t": "Een boodschap voor de Wildhammer",
+      "d": "De Wildhammer sluiten deals met onze vijanden en smeden nieuwe bondgenootschappen. Deze keer werken ze samen met de hoge elfen, man.$B$B<Otho spuugt.>$B$BWe moeten die Wildhammer-dwergen een boodschap sturen: een boodschap in het bloed van onze vijanden. Slacht elke hoge elf van Highvale af die je tegenkomt. Laat hun lichamen achter als waarschuwing.$B$BMet trollen moet je niet sollen!",
+      "o": "Otho Moji'ko in Revantusk Village in de Hinterlands wil dat je 15 Highvale Outrunners, 15 Highvale Scouts, 15 Highvale Marksman en 15 Highvale Rangers afslacht. Ga terug naar hem als deze taak klaar is.$B$BJe vindt de hoge elfen van Highvale bij Quel'Danil Lodge in het noordwesten van de Hinterlands.",
+      "p": "Je bent te schoon, man. Je moet je erin mengen. Maak je handen vuil aan de vijand.",
+      "c": "Het lijkt erop dat de Revantusk ook nieuwe bondgenootschappen smeden, man! Je hebt het goed gedaan.",
+      "g": [
+        [
+          "boodschap",
+          "message"
+        ],
+        [
+          "smeden",
+          "forge (smeden)"
+        ],
+        [
+          "bondgenootschappen",
+          "alliances (bondgenootschap)"
+        ],
+        [
+          "hoge elfen",
+          "high elves"
+        ],
+        [
+          "spuugt",
+          "spits (spugen)"
+        ],
+        [
+          "slacht",
+          "slaughter (afslachten)"
+        ],
+        [
+          "waarschuwing",
+          "warning"
+        ],
+        [
+          "met trollen moet je niet sollen",
+          "never mess with trolls (sollen met = to mess with)"
+        ],
+        [
+          "afslacht",
+          "slaughter (afslachten)"
+        ],
+        [
+          "noordwesten",
+          "northwest"
+        ],
+        [
+          "je erin mengen",
+          "get involved, mix it up (zich erin mengen)"
+        ],
+        [
+          "maak je handen vuil",
+          "get your hands dirty"
+        ]
+      ]
+    },
+    "7842": {
+      "t": "Nog een boodschap voor de Wildhammer",
+      "d": "Ze zeggen dat de Wildhammer en de griffioenen net zo dicht bij elkaar staan als een trol en zijn partner. Walgelijk, maar daar kunnen we ons voordeel mee doen, man. We sturen ze nog een boodschap.$B$BDood alle griffioenen die je in de Hinterlands ziet, en verzamel hun veren. Daarmee maken we de laatste boodschap.",
+      "o": "Otho Moji'ko in Revantusk Village in de Hinterlands wil dat je hem 10 Long Elegant Feathers brengt van de griffioenen die in de Hinterlands leven. Ga terug naar hem als deze taak klaar is.$B$BGriffioenen leven in elk deel van de Hinterlands.",
+      "p": "De laatste boodschap jaagt ze zeker weg. Of hij maakt ze heel, heel boos.",
+      "c": "O, man, dit wordt goed. Nog één stap, en dan zien de Wildhammer dat ze niet met trollen moeten sollen!",
+      "g": [
+        [
+          "walgelijk",
+          "disgusting"
+        ],
+        [
+          "ons voordeel mee doen",
+          "use to our advantage"
+        ],
+        [
+          "verzamel",
+          "collect (verzamelen)"
+        ],
+        [
+          "veren",
+          "feathers (veer)"
+        ],
+        [
+          "jaagt ze weg",
+          "scares them off (wegjagen)"
+        ],
+        [
+          "jaagt",
+          "chases (jagen; here wegjagen)"
+        ],
+        [
+          "sollen",
+          "to mess with"
+        ],
+        [
+          "griffioenen",
+          "gryphons (griffioen)"
+        ],
+        [
+          "deel",
+          "part, region"
+        ]
+      ]
+    },
+    "7844": {
+      "t": "Kannibalistische neven",
+      "d": "Er wonen drie verschillende trollenstammen in de Hinterlands, $N. Verder houden de overeenkomsten tussen de stammen wel op: we zijn allemaal trollen en we wonen allemaal in de Hinterlands.$B$BDe Vilebranch hebben een passende naam. Het is een verdorven volk: ze eten andere trollen en humanoïden.$B$BAls Zul'jin hier was, had hij ze allemaal vernietigd met één beweging van zijn pols. Helaas is Zul'jin nog niet teruggekeerd, en moeten we het zelf zien te redden.$B$BHet is aan jou om het tuig van deze streek te vernietigen!",
+      "o": "Mystic Yayo'jin in Revantusk Village in de Hinterlands wil dat je 30 Vilebranch Scalpers en 15 Vilebranch Soothsayers doodt. Ga terug naar haar als deze taak klaar is.$B$BYayo'jin zei dat deze trollen te vinden zijn bij de tempels Shaol'watha en Agol'watha, in het noord-noordoosten van de Hinterlands.",
+      "p": "De Vilebranch Soothsayers en Scalpers leven in het noord-noordoosten van de Hinterlands.",
+      "c": "Goed gedaan, $c. Zul'jin zelf had het niet beter kunnen doen!$b",
+      "g": [
+        [
+          "kannibalistische",
+          "cannibalistic (kannibalistisch)"
+        ],
+        [
+          "neven",
+          "cousins (neef)"
+        ],
+        [
+          "trollenstammen",
+          "troll tribes (trollenstam)"
+        ],
+        [
+          "overeenkomsten",
+          "similarities (overeenkomst)"
+        ],
+        [
+          "houden op",
+          "stop, end (ophouden)"
+        ],
+        [
+          "passende",
+          "fitting, apt (passend)"
+        ],
+        [
+          "verdorven",
+          "depraved"
+        ],
+        [
+          "humanoïden",
+          "humanoids (humanoïde)"
+        ],
+        [
+          "pols",
+          "wrist"
+        ],
+        [
+          "helaas",
+          "alas, unfortunately"
+        ],
+        [
+          "het zelf zien te redden",
+          "manage on our own"
+        ],
+        [
+          "noord-noordoosten",
+          "north by northeast"
+        ]
+      ]
+    },
+    "7840": {
+      "t": "Lard is zijn lunch kwijt",
+      "d": "Lard was op geheime speciale plek. Lard had picknick. Toen sloeg lelijke gemene Vilebranch Lard met grote stok. Lard rende terug naar Revantusk, maar Lard vergat Lard lunch. Lard heeft honger. Misschien ga jij terug naar geheime speciale plek en haal jij Lard lunch? Lard is bang. Ga naar noorden! Eiland daar in noorden is geheime speciale plek.",
+      "o": "Lard in Revantusk Village in de Hinterlands wil dat je Lard's Lunch vindt. Ga terug naar hem als deze taak klaar is.$B$BLard zei dat hij het op het eiland in het noorden heeft laten liggen. Pas op voor Vilebranch-trollen.",
+      "p": "<Lard wrijft over zijn enorme buik.>$B$BLard zo'n honger.",
+      "c": "<Lard pakt de grote bout vlees van je aan en propt hem in zijn mond.>$B$BDat was precies goed! Bedankt, kleintje.$B$BLard maakt speciale picknickmand voor jou, omdat jij Lard helpt.",
+      "g": [
+        [
+          "kwijt",
+          "lost"
+        ],
+        [
+          "geheime",
+          "secret (geheim)"
+        ],
+        [
+          "picknick",
+          "picnic"
+        ],
+        [
+          "gemene",
+          "mean (gemeen)"
+        ],
+        [
+          "stok",
+          "stick"
+        ],
+        [
+          "rende",
+          "ran (rennen)"
+        ],
+        [
+          "eiland",
+          "island"
+        ],
+        [
+          "wrijft",
+          "rubs (wrijven)"
+        ],
+        [
+          "buik",
+          "belly"
+        ],
+        [
+          "bout",
+          "haunch, joint (of meat)"
+        ],
+        [
+          "propt",
+          "stuffs (proppen)"
+        ],
+        [
+          "kleintje",
+          "little one"
+        ],
+        [
+          "picknickmand",
+          "picnic basket"
+        ]
+      ]
+    },
+    "7815": {
+      "t": "Snapjaws, man!",
+      "d": "Laat je niet foppen door hun grote ogen, man! Die snapjaws uit het zoute water zijn een plaag. Ik kan nog geen vijf minuten vissen, of een van die te grote visstofzuigers breekt mijn lijn en steelt mijn aas.$B$BDoe mij en de mensen van Revantusk Village een plezier en dood ze, man.$B$BDood ze allemaal!",
+      "o": "Katoom the Angler in Revantusk Village in de Hinterlands wil dat je 15 Saltwater Snapjaw-schildpadden doodt. Ga terug naar hem als je deze taak hebt voltooid.",
+      "p": "Hoe gaat de jacht?",
+      "c": "O, man! Ik kan je niet genoeg bedanken! Hopelijk is deze hengel hier beloning genoeg voor het werk.",
+      "g": [
+        [
+          "foppen",
+          "fool, trick"
+        ],
+        [
+          "plaag",
+          "menace, plague"
+        ],
+        [
+          "visstofzuigers",
+          "fish vacuums (visstofzuiger)"
+        ],
+        [
+          "aas",
+          "bait"
+        ],
+        [
+          "steelt",
+          "steals (stelen)"
+        ],
+        [
+          "een plezier doen",
+          "do a favour"
+        ],
+        [
+          "voltooid",
+          "completed (voltooien)"
+        ],
+        [
+          "hopelijk",
+          "hopefully"
+        ],
+        [
+          "hengel",
+          "fishing pole"
+        ],
+        [
+          "beloning",
+          "reward"
+        ]
+      ]
+    },
+    "7843": {
+      "t": "De laatste boodschap voor de Wildhammer",
+      "d": "<Otho geeft je een lange speer, doordrenkt van bloed en omwikkeld met een paar griffioenveren.>$B$BNeem dit, man. Breng het naar Aerie Peak, precies naar het midden van de stad, bij de put. Daar zet je het neer! Steek het diep in de grond! Laat die dwergen zien dat trollen het menen! Kom terug als je dat gedaan hebt. Hopelijk kom je levend terug.",
+      "o": "Otho Moji'ko in Revantusk Village in de Hinterlands wil dat je naar Aerie Peak reist, in het westen van de Hinterlands, en de Final Message to the Wildhammer bij de put in het midden van de stad neerzet. Ga terug naar hem als deze taak klaar is.$B$BPas op voor boze Wildhammer-dwergen en lastige leden van de Alliance.",
+      "p": "Waar blijf je, man?",
+      "c": "Ik wou dat ik erbij was geweest om hun gezichten te zien, man. Pakken ze hun koffers in? Vertrekken ze uit de stad?$B$BJe hebt het goed gedaan, $N. Heel goed. Otho beloont je met de grote mojo.",
+      "e": "Boodschap voor de Wildhammer afgeleverd",
+      "g": [
+        [
+          "doordrenkt",
+          "drenched, soaked"
+        ],
+        [
+          "omwikkeld",
+          "wrapped (omwikkelen)"
+        ],
+        [
+          "griffioenveren",
+          "gryphon feathers (griffioenveer)"
+        ],
+        [
+          "put",
+          "well"
+        ],
+        [
+          "steek",
+          "drive, stick (steken)"
+        ],
+        [
+          "het menen",
+          "mean business, are serious"
+        ],
+        [
+          "levend",
+          "alive"
+        ],
+        [
+          "lastige",
+          "unruly, troublesome (lastig)"
+        ],
+        [
+          "waar blijf je",
+          "what's keeping you"
+        ],
+        [
+          "koffers",
+          "suitcases, bags (koffer)"
+        ],
+        [
+          "beloont",
+          "rewards (belonen)"
+        ],
+        [
+          "afgeleverd",
+          "delivered (afleveren)"
+        ]
+      ]
+    },
+    "7849": {
+      "t": "Verlatingsangst",
+      "d": "Net als veel anderen in ons dorp ben ook ik een geliefde kwijtgeraakt aan de wildernis. Helaas was dat mijn tweelingbroer Malkhor. De Vilebranch namen hem mee bij dezelfde overval waarbij ook de partner van Torntusk werd meegenomen.$B$BHet lot wilde niet dat hij bleef leven. Hij werd snel en wreed terechtgesteld, en zijn resten werden aan de slijmwezens en wolven van de Vilebranch gevoerd.$B$BHet is te laat om zijn leven te redden, maar niet te laat om zijn ziel te redden. Haal zijn resten terug, $N.",
+      "o": "Huntsman Markhor in Revantusk Village in de Hinterlands wil dat je de resten van zijn tweelingbroer terughaalt. Zoek Huntsman Malkhor's Skull en Huntsman Malkhor's Bones en breng ze naar Huntsman Markhor.$B$BMarkhor zei dat de resten van zijn broer aan de slijmwezens en wolven van de Vilebranch zijn gevoerd. Hij zei ook dat er in Jintha'alor een afvalput vol slijmwezens is, en ook een wolvenhol. Beide plekken liggen vlak bij de top van de tempel.",
+      "p": "Als ik zijn resten heb, breng ik ze naar Yayo'jin. Zij maakt ze klaar voor een echte begrafenis.",
+      "c": "Mijn liefste broer, wat zal ik je missen...$B$BDank je voor je hulp, $N. In mijn ogen ben je echt een held.",
+      "g": [
+        [
+          "verlatingsangst",
+          "separation anxiety"
+        ],
+        [
+          "geliefde",
+          "loved one"
+        ],
+        [
+          "kwijtgeraakt",
+          "lost (kwijtraken)"
+        ],
+        [
+          "tweelingbroer",
+          "twin brother"
+        ],
+        [
+          "overval",
+          "raid"
+        ],
+        [
+          "het lot",
+          "fate"
+        ],
+        [
+          "wreed",
+          "cruel, brutal"
+        ],
+        [
+          "terechtgesteld",
+          "executed (terechtstellen)"
+        ],
+        [
+          "resten",
+          "remains (rest)"
+        ],
+        [
+          "slijmwezens",
+          "oozes (slijmwezen)"
+        ],
+        [
+          "gevoerd",
+          "fed (voeren)"
+        ],
+        [
+          "ziel",
+          "soul"
+        ],
+        [
+          "afvalput",
+          "refuse pit"
+        ],
+        [
+          "wolvenhol",
+          "wolf den"
+        ],
+        [
+          "begrafenis",
+          "burial, funeral"
+        ]
+      ]
+    },
+    "7850": {
+      "t": "Duistere vaten",
+      "d": "De Vilebranch vechten met een bovennatuurlijke woestheid. Dat komt door de smerige magie die de Vile Priestess Hexx weeft.$B$BOveral in Jintha'alor vind je duistere vaten met besmet bloed. De vaten stralen de smerige magie uit van de gezichtsloze bloedgod. Die magie maakt de Vilebranch sterker, maar maakt ze ook gek.$B$BSteel die vaten en breng ze naar mij. Dan kan ik de besmetting verwijderen en uiteindelijk de greep van de bloedgod losser maken.",
+      "o": "Primal Torntusk in Revantusk Village in de Hinterlands wil dat je 10 Vessels of Tainted Blood uit Jintha'alor terughaalt. Ga terug naar Primal Torntusk als deze taak klaar is.",
+      "p": "Wees voorzichtig in de strijd tegen de Vilebranch, $N. Hun geest is vertroebeld: ze vechten tot de dood.",
+      "c": "De duistere kracht die de Vilebranch drijft, is verdwenen, voor nu. We moeten altijd waakzaam blijven in onze strijd tegen het kwaad. Want zelfs als de Vile Priestess wordt vernietigd, neemt een ander al snel haar plaats in.",
+      "g": [
+        [
+          "vaten",
+          "vessels (vat)"
+        ],
+        [
+          "bovennatuurlijke",
+          "supernatural (bovennatuurlijk)"
+        ],
+        [
+          "weeft",
+          "weaves (weven)"
+        ],
+        [
+          "besmet",
+          "tainted, infected"
+        ],
+        [
+          "stralen uit",
+          "radiate (uitstralen)"
+        ],
+        [
+          "gezichtsloze",
+          "faceless (gezichtsloos)"
+        ],
+        [
+          "besmetting",
+          "taint, infection"
+        ],
+        [
+          "uiteindelijk",
+          "ultimately"
+        ],
+        [
+          "greep",
+          "grip"
+        ],
+        [
+          "vertroebeld",
+          "clouded (vertroebelen)"
+        ],
+        [
+          "drijft",
+          "drives, compels (drijven)"
+        ],
+        [
+          "waakzaam",
+          "vigilant"
+        ],
+        [
+          "neemt haar plaats in",
+          "takes her place (innemen)"
+        ]
+      ]
+    },
+    "7845": {
+      "t": "Elder Torntusk ontvoerd!",
+      "d": "Mijn partner is meegenomen door Vilebranch-wilden, bij een brutale overval op ons dorp midden in de nacht. Onze spionnen vertellen dat hij nog leeft en dat hij gevangen wordt gehouden boven op Jintha'alor. Men zegt dat de Vile Priestess Hexx hem voorbereidt als offer voor de gezichtsloze bloedgod, Hakkar.$B$BJe moet hem redden, $N! Zo'n groot verlies zou ons dorp niet overleven.",
+      "o": "Primal Torntusk in Revantusk Village in de Hinterlands wil dat je haar partner, Elder Torntusk, uit Jintha'alor redt.$B$BJe hebt gehoord dat hij gevangen wordt gehouden boven op Jintha'alor, de hoofdstad van de Vilebranch in het zuiden van de Hinterlands.",
+      "c": "Je moet snel handelen, $N. De wachters weten vast al dat je er bent.",
+      "g": [
+        [
+          "ontvoerd",
+          "kidnapped (ontvoeren)"
+        ],
+        [
+          "wilden",
+          "savages (wilde)"
+        ],
+        [
+          "brutale",
+          "bold, brazen (brutaal)"
+        ],
+        [
+          "overval",
+          "raid"
+        ],
+        [
+          "spionnen",
+          "spies (spion)"
+        ],
+        [
+          "gevangen wordt gehouden",
+          "is being held prisoner"
+        ],
+        [
+          "voorbereidt",
+          "prepares (voorbereiden)"
+        ],
+        [
+          "offer",
+          "sacrifice"
+        ],
+        [
+          "verlies",
+          "loss"
+        ],
+        [
+          "overleven",
+          "survive"
+        ],
+        [
+          "hoofdstad",
+          "capital city"
+        ],
+        [
+          "handelen",
+          "act"
+        ],
+        [
+          "wachters",
+          "guards (wachter)"
+        ]
+      ]
+    },
+    "7846": {
+      "t": "Haal de sleutel terug!",
+      "d": "De sleutel van mijn boeien is in handen van Hitah'ya the Keeper. Ze is in de grot hier vlakbij. Wees voorzichtig, $c, want ze wordt goed bewaakt.$B$BDood haar en breng de sleutel terug om mijn ketenen los te maken. Pas dan ben ik vrij om naar huis te gaan.",
+      "o": "Elder Torntusk in Jintha'alor wil dat je Hitah'ya the Keeper doodt om de Shackle Key van zijn boeien te krijgen. Ga terug naar Elder Torntusk als je de sleutel hebt.",
+      "p": "Je moet opschieten!",
+      "c": "Eindelijk vrij! Dank je, $N. Revantusk zal horen wat je hebt gedaan!",
+      "g": [
+        [
+          "boeien",
+          "bindings, shackles (boei)"
+        ],
+        [
+          "in handen van",
+          "held by"
+        ],
+        [
+          "grot",
+          "cave"
+        ],
+        [
+          "vlakbij",
+          "nearby"
+        ],
+        [
+          "bewaakt",
+          "guarded (bewaken)"
+        ],
+        [
+          "ketenen",
+          "shackles, chains (keten)"
+        ],
+        [
+          "los te maken",
+          "to loosen, to undo (losmaken)"
+        ],
+        [
+          "pas dan",
+          "only then"
+        ],
+        [
+          "opschieten",
+          "hurry"
+        ],
+        [
+          "eindelijk",
+          "at last"
+        ]
+      ]
+    },
+    "7847": {
+      "t": "Terug naar Primal Torntusk",
+      "d": "Ga terug naar mijn partner, Primal Torntusk in Revantusk Village. Zeg haar dat ik naar huis kom! Ze zal je zeker belonen.",
+      "o": "Elder Torntusk in Jintha'alor wil dat je teruggaat naar Primal Torntusk in Revantusk Village met het nieuws dat hij gered is.",
+      "c": "Je hebt de Revantusk een grote dienst bewezen, $N! We zijn je veel dank verschuldigd.",
+      "g": [
+        [
+          "belonen",
+          "reward"
+        ],
+        [
+          "gered",
+          "rescued (redden)"
+        ],
+        [
+          "een dienst bewezen",
+          "done a service (een dienst bewijzen)"
+        ],
+        [
+          "dank verschuldigd",
+          "owe gratitude"
+        ],
+        [
+          "verschuldigd",
+          "owed, indebted"
+        ]
+      ]
+    },
+    "7861": {
+      "t": "Gezocht: Vile Priestess Hexx en haar handlangers",
+      "d": "Op bevel van Primal Torntusk moeten Vile Priestess Hexx en haar handlangers gestraft worden!$B$BEr is een grote beloning voor iedereen die Vile Priestess Hexx en al haar Aman'zasi-elitewachters doodt.",
+      "o": "Je hebt het bevel gekregen om Vile Priestess Hexx en 20 Vilebranch Aman'zasi Guards te doden. Ga naar Primal Torntusk in Revantusk Village in de Hinterlands als deze taak klaar is.$B$BVile Priestess Hexx en de Aman'zasi Guards zijn te vinden boven op Jintha'alor in de Hinterlands.",
+      "p": "Breng je nieuws uit Jintha'alor?",
+      "c": "Dat is inderdaad een zware klap voor de Vilebranch. Je krijgt een rijke beloning, $N.",
+      "g": [
+        [
+          "gezocht",
+          "wanted (zoeken)"
+        ],
+        [
+          "handlangers",
+          "minions, henchmen (handlanger)"
+        ],
+        [
+          "op bevel van",
+          "by order of"
+        ],
+        [
+          "gestraft",
+          "punished, brought to justice (straffen)"
+        ],
+        [
+          "elitewachters",
+          "elite guards (elitewachter)"
+        ],
+        [
+          "bevel",
+          "order, command"
+        ],
+        [
+          "inderdaad",
+          "indeed"
+        ],
+        [
+          "zware klap",
+          "crippling blow"
+        ],
+        [
+          "rijke",
+          "rich (rijk)"
+        ]
+      ]
+    },
+    "7862": {
+      "t": "Vacature: kapitein van de wacht in Revantusk Village",
+      "d": "Na het verlies van Guard Captain Malkhor is de functie van kapitein van de wacht van Revantusk weer vrij. Wil je kapitein van de wacht van Revantusk worden? Voer dan de volgende taken uit en stuur je sollicitatie naar Primal Torntusk:$B$BRoei Vilebranch Berserkers uit.$B$BRoei Vilebranch Shadow Hunters uit.$B$BRoei Vilebranch Blood Drinkers uit.$B$BRoei Vilebranch Soul Eaters uit.",
+      "o": "Je hebt de taak gekregen om 20 Vilebranch Berserkers, 20 Vilebranch Shadow Hunters, 20 Vilebranch Blood Drinkers en 20 Vilebranch Soul Eaters uit te roeien.$B$BAls je deze taak voltooit, ga dan terug naar Primal Torntusk in Revantusk Village in de Hinterlands.",
+      "p": "Kom je voor de vacature?",
+      "c": "Je bent inderdaad een waardige kandidaat voor de nieuwe functie, $N. Neem deze snuisterij aan als teken van onze waardering voor je harde werk. Ik bekijk alle sollicitaties volgend jaar.",
+      "g": [
+        [
+          "vacature",
+          "job opening"
+        ],
+        [
+          "wacht",
+          "guard (the watch)"
+        ],
+        [
+          "functie",
+          "position, job"
+        ],
+        [
+          "voer uit",
+          "carry out (uitvoeren)"
+        ],
+        [
+          "sollicitatie",
+          "job application"
+        ],
+        [
+          "roei uit",
+          "exterminate (uitroeien)"
+        ],
+        [
+          "uit te roeien",
+          "to exterminate (uitroeien)"
+        ],
+        [
+          "voltooit",
+          "complete (voltooien)"
+        ],
+        [
+          "kandidaat",
+          "candidate"
+        ],
+        [
+          "snuisterij",
+          "trinket"
+        ],
+        [
+          "waardering",
+          "appreciation"
+        ],
+        [
+          "sollicitaties",
+          "applications (sollicitatie)"
+        ]
+      ]
+    },
+    "2937": {
+      "t": "Shadra oproepen",
+      "d": "Neem zijn perkament en lees het voor bij het altaar van Shadra'Alor, diep in het rijk van de Witherbark in de Hinterlands. Daarmee roep je Shadra op, de spinnengod.",
+      "o": "Versla Shadra bij het altaar van Shadra'Alor en breng daarna haar gif naar Apothecary Lydon in Tarren Mill.",
+      "p": "Heb je het gif?",
+      "c": "Mooi, je hebt het!",
+      "g": [
+        [
+          "oproepen",
+          "summon"
+        ],
+        [
+          "perkament",
+          "parchment"
+        ],
+        [
+          "lees voor",
+          "read aloud (voorlezen)"
+        ],
+        [
+          "altaar",
+          "altar"
+        ],
+        [
+          "rijk",
+          "realm"
+        ],
+        [
+          "roep op",
+          "summon (oproepen)"
+        ],
+        [
+          "spinnengod",
+          "spider god"
+        ],
+        [
+          "versla",
+          "defeat (verslaan)"
+        ],
+        [
+          "gif",
+          "venom, poison"
+        ]
+      ]
+    },
+    "2938": {
+      "t": "Gif naar de Undercity",
+      "d": "Het gif dat je van de spinnengod van de Witherbark hebt gehaald, is een echte vondst! Met één druppel ervan heb ik bijna twee dozijn konijnen kunnen doden. Toegegeven, sommige van die konijnen waren heel jong. Ze waren zo klein dat ze in de palm van je hand pasten, dus hun weerstand tegen gif was vast laag. Maar het valt niet te ontkennen dat dit gif sterk is!$B$BIk wil graag een monster sturen naar mijn meerdere, Apothecary Faranell in het Apothecarium van de Undercity. Ik weet zeker dat hij dit zelf wil testen.",
+      "o": "Breng Faranell's Parcel naar Master Apothecary Faranell in de Undercity.",
+      "p": "Er is bericht gestuurd dat je zou komen, $N. Heb je een pakket voor me?",
+      "c": "Ah, heel goed. Lydon zei dat het gif in dit pakket het krachtigste is dat hij ooit is tegengekomen. Hij is druk bezig met nieuwe toepassingen ervoor.$b$bMet wat geluk vinden we er veel.$b$bDank je, $N. Je dienst aan de Royal Apothecary Society is onmiskenbaar.",
+      "g": [
+        [
+          "vondst",
+          "find, discovery"
+        ],
+        [
+          "druppel",
+          "drop"
+        ],
+        [
+          "dozijn",
+          "dozen"
+        ],
+        [
+          "konijnen",
+          "rabbits (konijn)"
+        ],
+        [
+          "toegegeven",
+          "granted, admittedly"
+        ],
+        [
+          "weerstand",
+          "resistance"
+        ],
+        [
+          "het valt niet te ontkennen",
+          "it can't be denied"
+        ],
+        [
+          "monster",
+          "sample"
+        ],
+        [
+          "meerdere",
+          "superior"
+        ],
+        [
+          "pakket",
+          "parcel"
+        ],
+        [
+          "krachtigste",
+          "most potent (krachtig)"
+        ],
+        [
+          "toepassingen",
+          "applications, uses (toepassing)"
+        ],
+        [
+          "onmiskenbaar",
+          "undeniable"
+        ]
+      ]
+    },
+    "2202": {
+      "t": "Ingrediënten halen in Uldaman",
+      "d": "Ik heb gehoord over een nieuw ontdekte plant: de magenta paddenstoelhoedjes. Ze groeien in groepjes, diep in de opgraving van Uldaman. Misschien groeien ze ook ergens anders, maar voor zover ik weet is dat de enige plek. Ik wil onderzoeken of ze nuttig zijn voor alchemie, en daar kom jij in beeld.$B$BZoek de groepjes magenta paddenstoelen en breng me twaalf hoedjes. Pas op: als je tegen de groepjes stoot, kunnen ze giftige sporen uitspuwen.$B$BAls je dit voor me doet, maak ik voor jou een portie van een van mijn beroemde herstellende drankjes!",
+      "o": "Breng 12 Magenta Fungus Caps naar Jarkal Mossmeld in Kargath.",
+      "p": "Heb je de magenta paddenstoelhoedjes voor mijn alchemiewerk? Geen hoedjes, geen beloning!",
+      "c": "Goed gedaan, $N, je hebt weer bewezen wat je waard bent! De hoedjes worden een interessant onderzoek, reken maar.$B$BEn nu, zoals beloofd: proef een van mijn sterkere herstellende drankjes uit mijn eigen voorraad...$B$BAls je een goede alchemist bent, kunnen we misschien nog meer zaken doen. Hoe dan ook, bedankt voor je hulp!",
+      "g": [
+        [
+          "ingrediënten",
+          "reagents, ingredients (ingrediënt)"
+        ],
+        [
+          "ontdekte",
+          "discovered (ontdekken)"
+        ],
+        [
+          "paddenstoelhoedjes",
+          "fungus caps (paddenstoelhoedje)"
+        ],
+        [
+          "groepjes",
+          "clusters (groepje)"
+        ],
+        [
+          "opgraving",
+          "dig site"
+        ],
+        [
+          "onderzoeken",
+          "study, research"
+        ],
+        [
+          "in beeld komen",
+          "come into the picture"
+        ],
+        [
+          "stoot",
+          "bump, jostle (stoten)"
+        ],
+        [
+          "sporen",
+          "spores (spore)"
+        ],
+        [
+          "uitspuwen",
+          "spew out"
+        ],
+        [
+          "portie",
+          "batch, portion"
+        ],
+        [
+          "herstellende",
+          "restorative (herstellend)"
+        ],
+        [
+          "reken maar",
+          "you betcha"
+        ],
+        [
+          "voorraad",
+          "stock, supply"
+        ],
+        [
+          "hoe dan ook",
+          "regardless, anyway"
+        ]
+      ]
+    },
+    "2338": {
+      "t": "Het dagboek vertalen",
+      "d": "Droffers and Son Salvage zijn niet slim genoeg om de magie in de ketting te herstellen, maar ik wel. Ik wil de ketting alleen bestuderen, zodat ik leer om ze zelf te maken. Daarvoor heb ik jouw ketting nodig. Leen hem aan mij uit. In ruil voor de tijd die ik krijg om hem te bestuderen, vertaal ik het dagboek voor je. Terwijl jij naar de edelstenen zoekt, heb ik genoeg tijd om te leren wat ik moet weten.$B$BHet is een simpele deal, en niemand anders hoeft het te weten. Wat wil je doen?",
+      "o": "Leen de ketting uit aan Jarkal. In ruil daarvoor vertaalt hij het dagboek voor je.",
+      "p": "Je hebt erover nagedacht, ja? Je bent een slimme $C als je deze deal neemt. Jij en ik krijgen allebei wat we willen, en Droffers and Son Salvage denken dat zij krijgen wat zij willen.",
+      "c": "Jij herkent een goede deal als je er een ziet. Ik wist dat ik op je kon rekenen.$b$bHet duurt even, want ik spreek een spreuk uit om de taal van de mensen snel te vertalen, zodat jij hem begrijpt. Ik ben een trol die zijn woord houdt; vraag maar aan iedereen in de Horde naar Jarkal Mossmeld. Goed, laten we beginnen...",
+      "g": [
+        [
+          "dagboek",
+          "journal, diary"
+        ],
+        [
+          "ketting",
+          "necklace"
+        ],
+        [
+          "herstellen",
+          "restore"
+        ],
+        [
+          "bestuderen",
+          "study"
+        ],
+        [
+          "leen uit",
+          "lend (uitlenen)"
+        ],
+        [
+          "in ruil voor",
+          "in exchange for"
+        ],
+        [
+          "edelstenen",
+          "gems (edelsteen)"
+        ],
+        [
+          "leen",
+          "lend (uitlenen)"
+        ],
+        [
+          "nagedacht",
+          "thought (nadenken)"
+        ],
+        [
+          "herkent",
+          "recognize (herkennen)"
+        ],
+        [
+          "rekenen op",
+          "count on"
+        ],
+        [
+          "spreuk",
+          "spell"
+        ],
+        [
+          "zijn woord houdt",
+          "keeps his word"
+        ]
+      ]
+    },
+    "2342": {
+      "t": "Teruggehaalde schatten",
+      "d": "De vleermuishokken vegen met deze bezem past niet bij een Garrett! Ik heb met dit vervloekte baantje een beetje geld verdiend, en dat wil ik aan jou uitgeven om mijn positie te verbeteren.$B$BHet favoriete wapen van de familie Garrett ligt opgesloten in onze kist in de South Common Hall van Uldaman. Het ligt daar nog uit de tijd dat wij Garretts daar zwoegden als gravers. Zonder dat wapen zit ik hier voor altijd vast, echt waar, en veeg ik de rommel van deze helse vleermuizen op.$B$BHaal de schat van mijn familie terug en breng hem naar mij! Help me om mijn erfrecht terug te krijgen!",
+      "o": "Haal de familieschat van Patrick Garrett uit de familiekist in de South Common Hall van Uldaman, en breng hem naar hem in de Undercity.",
+      "p": "Het vegen houdt nooit op... deze vleermuizen lachen me steeds weer uit, mij en mijn bezem. Zeg alsjeblieft dat je de schat van mijn familie hebt teruggehaald! Ik heb je mijn zilver aangeboden. Is dat niet genoeg?!",
+      "c": "Eindelijk: een bezem die een Garrett waardig is. Je bent elk zilverstuk dat ik aan je heb uitgegeven echt waard, zeg ik je!$B$BHoren jullie me, smerige vleermuizen? Nu draag ik het favoriete wapen van de familie Garrett! Beef, vleermuizen, beef!!",
+      "g": [
+        [
+          "teruggehaalde",
+          "reclaimed (terughalen)"
+        ],
+        [
+          "vleermuishokken",
+          "bat pens (vleermuishok)"
+        ],
+        [
+          "vegen",
+          "sweeping"
+        ],
+        [
+          "bezem",
+          "broom"
+        ],
+        [
+          "vervloekte",
+          "accursed (vervloekt)"
+        ],
+        [
+          "baantje",
+          "little job"
+        ],
+        [
+          "opgesloten",
+          "locked away (opsluiten)"
+        ],
+        [
+          "zwoegden",
+          "toiled (zwoegen)"
+        ],
+        [
+          "gravers",
+          "diggers (graver)"
+        ],
+        [
+          "helse",
+          "infernal (hels)"
+        ],
+        [
+          "erfrecht",
+          "birthright"
+        ],
+        [
+          "lachen uit",
+          "mock (uitlachen)"
+        ],
+        [
+          "aangeboden",
+          "offered (aanbieden)"
+        ],
+        [
+          "waardig",
+          "worthy"
+        ],
+        [
+          "beef",
+          "tremble (beven)"
+        ]
+      ]
+    },
+    "2339": {
+      "t": "Vind de edelstenen en de krachtbron",
+      "d": "Hier is het dagboek, vertaald, zodat je het zelf kunt lezen. De kern is dit: de dwergen hebben de robijn verstopt, de troggs hebben de topaas verstopt, en een trogg die Grimlok heet, heeft de saffier.$B$BLuister: je hebt een krachtbron nodig om de ketting weer te laten werken. Dat weet Dran Droffers niet. Zo zou ik er een vinden: ga zo diep als je kunt in Uldaman en dood het sterkste construct dat daar is. Dat heeft er zonder twijfel een.$B$BAls je alles hebt verzameld, kom dan hier terug!",
+      "o": "Haal alle drie de edelstenen en een krachtbron voor de ketting uit Uldaman, en breng ze naar Jarkal Mossmeld in Kargath. Jarkal denkt dat je een krachtbron kunt vinden bij het sterkste construct in Uldaman.$B$BUit het dagboek weet je...$B* De robijn is verstopt in een afgezet gebied van de Shadowforge.$B* De topaas is verborgen in een urn in een van de gebieden van de troggs, vlak bij een paar dwergen van de Alliance.$B* De saffier is in handen van Grimlok, de leider van de troggs.",
+      "p": "Je moet nog een keer de diepte van Uldaman in als je de edelstenen niet hebt, en ook geen krachtbron die magische kracht terug in de ketting kan leiden.$B$BDe edelstenen krijg je terug, om ze aan die boeven in Orgrimmar te geven. De krachtbron houd ik zelf, want dat is wat de ketting eigenlijk laat werken...",
+      "c": "Heel goed gedaan, $C. Nu gaat onze omweg mooi wat opbrengen. Ik ben klaar met de ketting zelf, en ik weet zeker dat ik hem steeds weer op dezelfde manier kan namaken.$B$BMaar eerst gebruik ik een speciaal voorbereide spreuk om die edelstenen snel te onderzoeken, voordat jij ze met de ketting terugbrengt naar Orgrimmar. Dat duurt maar heel even.",
+      "g": [
+        [
+          "krachtbron",
+          "power source"
+        ],
+        [
+          "kern",
+          "crux, core"
+        ],
+        [
+          "robijn",
+          "ruby"
+        ],
+        [
+          "topaas",
+          "topaz"
+        ],
+        [
+          "saffier",
+          "sapphire"
+        ],
+        [
+          "zonder twijfel",
+          "no doubt"
+        ],
+        [
+          "afgezet",
+          "barricaded, closed off (afzetten)"
+        ],
+        [
+          "verborgen",
+          "hidden (verbergen)"
+        ],
+        [
+          "urn",
+          "urn"
+        ],
+        [
+          "leiden",
+          "channel, lead"
+        ],
+        [
+          "boeven",
+          "crooks, goons (boef)"
+        ],
+        [
+          "omweg",
+          "detour, roundabout way"
+        ],
+        [
+          "opbrengen",
+          "pay off, yield"
+        ],
+        [
+          "namaken",
+          "copy, duplicate"
+        ],
+        [
+          "voorbereide",
+          "prepared (voorbereiden)"
+        ]
+      ]
+    },
+    "2340": {
+      "t": "Breng de edelstenen weg",
+      "d": "Elke zetting en elke edelsteen werkt, zolang ze van hetzelfde materiaal zijn. Maar deze krachtbron is wat de magie terugbrengt in de ketting... hoop ik.$B$BIk geef je graag de edelstenen voor jouw versie van de ketting, zolang de krachtbron echt werkt.$B$BGa naar Orgrimmar en houd je aan jouw deel van de afspraak met Droffers and Son Salvage. Houd wel je mond over onze deal. Als je terugkomt, heb ik misschien een geweldige verrassing voor je.",
+      "o": "Breng de Necklace and Gem Salvage naar Dran Droffers in Orgrimmar.",
+      "p": "Kijk eens wie we daar hebben! Je hebt er lekker de tijd voor genomen, zie ik. Laten we hopen dat dit geen verspilling van mijn tijd is! Je wordt niet betaald als je niet alles hebt waar ik om vroeg. En geloof me: we controleren alles twee en drie keer!",
+      "c": "Jep, alles is er. Zeg, vind je het erg als we de tas ook houden? Nee? Bedankt, fijn! Har!$b$bDeze ketting wordt onze beste buit ooit! Maar voel je niet te slecht; die ketting zou jou toch niet passen. Nog een keer har!$b$bAfspraak is afspraak, dus hier is je betaling voor de berging. Onze zaken zijn voorlopig klaar. Kom later nog eens kijken of we meer werk hebben. Tot dan: wegwezen!",
+      "g": [
+        [
+          "zetting",
+          "setting (of a jewel)"
+        ],
+        [
+          "zolang",
+          "as long as"
+        ],
+        [
+          "materiaal",
+          "material"
+        ],
+        [
+          "houd je aan",
+          "keep to (zich houden aan)"
+        ],
+        [
+          "afspraak",
+          "deal, agreement"
+        ],
+        [
+          "houd je mond",
+          "keep your mouth shut"
+        ],
+        [
+          "verrassing",
+          "surprise"
+        ],
+        [
+          "verspilling",
+          "waste"
+        ],
+        [
+          "controleren",
+          "check"
+        ],
+        [
+          "buit",
+          "haul, loot"
+        ],
+        [
+          "betaling",
+          "payment, fee"
+        ],
+        [
+          "berging",
+          "salvage"
+        ],
+        [
+          "voorlopig",
+          "for now"
+        ],
+        [
+          "wegwezen",
+          "beat it, get lost"
+        ]
+      ]
+    },
+    "2341": {
+      "t": "Ketting terughalen, deel 3",
+      "d": "Dran en Malton Droffers beginnen ruzie te maken over hun nieuwe buit, en de helft van de deal is nu klaar. Om alles af te ronden moet je naar de Badlands, want Jarkal Mossmeld in Kargath heeft daar misschien een speciale beloning voor je.",
+      "o": "Ga naar Jarkal Mossmeld in Kargath om te zien of het hem gelukt is.",
+      "c": "De krachtbron die je me gaf, was nog veel beter dan ik had verwacht. Ik kon een ketting maken voor jou en voor mij, en ik heb genoeg over om er nog minstens drie te maken. Die leveren flink wat geld op, en Droffers and Son Salvage weten van niets.$b$bAlsjeblieft, mijn vriend. Ik bedank je voor dit prachtige werk... en ik geef je iets heel bijzonders voor de moeite.",
+      "g": [
+        [
+          "ruzie te maken",
+          "to squabble (ruzie maken)"
+        ],
+        [
+          "buit",
+          "loot, salvage"
+        ],
+        [
+          "af te ronden",
+          "to finish up (afronden)"
+        ],
+        [
+          "gelukt",
+          "succeeded (lukken)"
+        ],
+        [
+          "verwacht",
+          "expected (verwachten)"
+        ],
+        [
+          "minstens",
+          "at least"
+        ],
+        [
+          "leveren op",
+          "fetch, yield (opleveren)"
+        ],
+        [
+          "weten van niets",
+          "are none the wiser"
+        ],
+        [
+          "prachtige",
+          "splendid (prachtig)"
+        ],
+        [
+          "voor de moeite",
+          "for your trouble"
+        ]
+      ]
+    },
+    "2280": {
+      "t": "De platina schijven",
+      "d": "Als je de Discs of Norgannon weer aanraakt, tintelt je hand opnieuw. Maar deze keer hoor je een vreemd schurend geluid binnen in de schijven.$B$BIneens wordt je rugzak zwaarder dan hij eerst was. Erin vind je een kleine versie van de schijven!$B$BZo'n voorwerp is zonder twijfel van onschatbare waarde voor iemand die geïnteresseerd is in de oude geschiedenis van Azeroth. De wijzen van Thunder Bluff zijn zulke geschiedkundigen, bekend in de hele Horde. Misschien kunnen zij er iets goeds mee doen.",
+      "o": "Breng de kleine versie van de Discs of Norgannon naar een van de wijzen in Thunder Bluff.",
+      "p": "Ja, jongeling, ik zie je mijn tent binnenstappen met kracht in je pas... met vastberadenheid in je doel. Zoek je mijn raad in een zaak die heel belangrijk is voor de Horde? Of wil je misschien dat ik je een geheim van het universum onthul?",
+      "c": "Wat hebben we hier dan?$B$BIndrukwekkend, jongeling! In deze schijven voel ik geheimen die de aarde vele jaren stevig heeft vastgehouden. Het was heel wijs van je om ze bij mij te brengen.",
+      "g": [
+        [
+          "platina",
+          "platinum"
+        ],
+        [
+          "schijven",
+          "discs (schijf)"
+        ],
+        [
+          "aanraakt",
+          "touch (aanraken)"
+        ],
+        [
+          "tintelt",
+          "tingles (tintelen)"
+        ],
+        [
+          "schurend",
+          "grinding (schuren)"
+        ],
+        [
+          "ineens",
+          "suddenly"
+        ],
+        [
+          "onschatbare",
+          "invaluable (onschatbaar)"
+        ],
+        [
+          "wijzen",
+          "sages (wijze)"
+        ],
+        [
+          "geschiedkundigen",
+          "historians (geschiedkundige)"
+        ],
+        [
+          "jongeling",
+          "young one"
+        ],
+        [
+          "binnenstappen",
+          "march in, step in"
+        ],
+        [
+          "pas",
+          "stride, step"
+        ],
+        [
+          "vastberadenheid",
+          "determination"
+        ],
+        [
+          "raad",
+          "counsel, advice"
+        ],
+        [
+          "onthul",
+          "reveal (onthullen)"
+        ],
+        [
+          "indrukwekkend",
+          "impressive"
+        ]
+      ]
+    }
+  },
+  "words": {
+    "alchemiewerk": "alchemical work (alchemie + werk)",
+    "aman'zasi-elitewachters": "Aman'zasi elite guards (elitewachter)",
+    "bloedgod": "blood god",
+    "deals": "deals (deal)",
+    "familiekist": "family chest",
+    "familieschat": "family treasure",
+    "landschap": "landscape",
+    "menen": "to mean (het menen = to mean business)",
+    "revantusk-krijgers": "Revantusk warriors (krijger)",
+    "silvermane-wolven": "Silvermane wolves (wolf)",
+    "snapjaw-schildpadden": "snapjaw turtles (schildpad)",
+    "uilbeest": "owlbeast (uil + beest)",
+    "uitgeven": "to spend (money)",
+    "veeg": "sweep (vegen)",
+    "vertaalt": "translates (vertalen)",
+    "vilebranch-relschoppers": "Vilebranch hooligans (relschopper)",
+    "vilebranch-tempels": "Vilebranch temples (tempel)",
+    "vilebranch-tuig": "Vilebranch scum (tuig)",
+    "vilebranch-wilden": "Vilebranch savages (wilde)",
+    "wildhammer-dwergen": "Wildhammer dwarves (dwerg)",
+    "zeldzamere": "rarer (zeldzaam)"
+  },
+  "terms": {
+    "snapjaw": "snapjaw: a large biting sea turtle from the Warcraft world",
+    "construct": "construct: a magical machine creature built by the Titans or their servants"
+  }
+}
