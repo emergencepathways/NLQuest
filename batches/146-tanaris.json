@@ -1,0 +1,1353 @@
+{
+  "quests": {
+    "5802": {
+      "t": "Gesmeed bij Fire Plume",
+      "d": "Om de schacht van de sleutel te smeden, heb je twee staven thorium en een zeer krachtige hittebron nodig. Voor het thorium moet je zelf zorgen, maar met de hitte kan ik je helpen.$B$BTen westen van ons, in Un'Goro Crater, ligt Fire Plume Ridge: een smeulende vulkaan. Het lavameer bovenop is heet genoeg om thorium en bot samen te smelten. Met je goud heb je een gietvorm gekocht die je alleen in het meer bovenop hoeft te dopen; de lava doet de rest.$B$BDat is alles wat ik kan doen. Om je sleutel af te maken, moet je weer met Dithers praten.",
+      "o": "Breng de Skeleton Key Mold en 2 Thorium Bars naar de top van Fire Plume Ridge in Un'Goro Crater. Gebruik de Skeleton Key Mold bij het lavameer om de Unfinished Skeleton Key te smeden.$B$BBreng de Unfinished Skeleton Key naar Apothecary Dithers bij de Bulwark, Western Plaguelands.",
+      "p": "Is de schacht van de skeletsleutel al klaar? Het spijt me echt dat jij de kosten voor de gietvorm moest dragen, maar we moeten allemaal ons deel doen tegen de Scourge. Zodra je me de onafgemaakte sleutel geeft, ben je klaar voor het laatste onderdeel dat nodig is om hem af te bouwen.$b$bHet wordt zeker niet makkelijk, maar het werk dat je tot nu toe hebt gedaan om een aanval op Andorhal voor te bereiden, gaat zich nu terugbetalen. Je zult het zien.",
+      "c": "Dat is een behoorlijk dure skeletsleutel, hè, $N? Toch is hij nog niet af; nu is het tijd om onze aandacht op onze schepping te richten. Daarvoor zul je de grootste vijand moeten trotseren waar we in Andorhal al die tijd naartoe hebben gewerkt... het wezen dat binnen de verwoeste stadsmuren de baas is.$b$bIk heb het over Araj the Summoner: een lich, en een van de machtigste wezens die bij de Scourge horen.",
+      "g": [
+        [
+          "schacht",
+          "stem, shaft"
+        ],
+        [
+          "staven",
+          "bars (staaf)"
+        ],
+        [
+          "hittebron",
+          "heat source"
+        ],
+        [
+          "smeulende",
+          "smouldering, simmering (smeulen)"
+        ],
+        [
+          "samen te smelten",
+          "to fuse together (samensmelten)"
+        ],
+        [
+          "gietvorm",
+          "mould"
+        ],
+        [
+          "dopen",
+          "to dip"
+        ],
+        [
+          "skeletsleutel",
+          "skeleton key"
+        ],
+        [
+          "kosten",
+          "costs, fee"
+        ],
+        [
+          "onafgemaakte",
+          "unfinished (onafgemaakt)"
+        ],
+        [
+          "terugbetalen",
+          "to pay back, pay for itself"
+        ],
+        [
+          "schepping",
+          "creation"
+        ],
+        [
+          "trotseren",
+          "to face, defy"
+        ],
+        [
+          "wezen",
+          "being, creature"
+        ],
+        [
+          "verwoeste",
+          "ruined (verwoesten)"
+        ]
+      ]
+    },
+    "8923": {
+      "t": "Een bovennatuurlijk apparaat",
+      "d": "Je moet wel erg dapper zijn dat je daarna bent gebleven. Of ik heb je nieuwsgierig gemaakt met het stuk harnas dat ik je gaf. Er is nog meer van waar dat vandaan kwam, als je me nog steeds wilt helpen.$B$BDe gifmonsters die je hebt verzameld, zijn voor een kennis van me, Mux Manascrambler: een ingenieur met belangstelling voor het bovennatuurlijke. Zijn nieuwste project is een apparaat waarmee je met de doden kunt praten! Mijn laatste hoop is om contact op te nemen met Anthion en meer over mijn situatie te weten te komen.",
+      "o": "Breng de Sealed Venom Container naar Mux Manascrambler in Gadgetzan.",
+      "p": "Wil je me spreken?",
+      "c": "Uitstekend! Precies op het moment dat mijn voorraad opraakte!$B$BZeg je dat Mokvar je stuurt?",
+      "g": [
+        [
+          "bovennatuurlijk",
+          "supernatural"
+        ],
+        [
+          "dapper",
+          "brave"
+        ],
+        [
+          "nieuwsgierig",
+          "curious"
+        ],
+        [
+          "harnas",
+          "armour"
+        ],
+        [
+          "gifmonsters",
+          "venom samples (gifmonster)"
+        ],
+        [
+          "kennis",
+          "acquaintance"
+        ],
+        [
+          "belangstelling",
+          "interest"
+        ],
+        [
+          "contact op te nemen",
+          "to get in touch (contact opnemen)"
+        ],
+        [
+          "te weten te komen",
+          "to find out"
+        ],
+        [
+          "voorraad",
+          "supply, stock"
+        ],
+        [
+          "opraakte",
+          "ran out (opraken)"
+        ]
+      ]
+    },
+    "3526": {
+      "t": "Goblintechniek",
+      "d": "Op expertniveau splitst techniek zich in twee richtingen: gnoom en goblin. Goblintechniek is natuurlijk de keuze van alle briljante ingenieurs. Leer de wereld te beheersen door verstandig gebruik van zware explosieven en fantastische uitrusting!$B$B$N, lees deze handleiding. Als je meer wilt leren over goblintechniek, breng hem dan naar Nixx Sprocketspring in Gadgetzan. Onthoud: het lidmaatschap is voor altijd, en daarna kun je je niet meer bij de andere richting aansluiten. Weet dus zeker dat je dit wilt voordat je zijn taak afmaakt.",
+      "o": "Als je meer wilt leren over Goblin Engineering, breng de Manual of Engineering Disciplines dan naar Nixx Sprocketspring in Gadgetzan.",
+      "p": "Ik ruik nieuwe rekruten net zoals ik uitstekend springpoeder ruik: van kilometers ver. Ben je gekomen om de kunst van de explosie te leren beheersen?",
+      "c": "Nou, $N, het was verstandig om bij mij in de leer te komen! Iedere sukkel kan expert worden in de basis van techniek; de gnomen en hun bestraalde thuis Gnomeregan zijn daar het bewijs van. Maar je hebt een sterke geest en een vaste hand nodig (met de nadruk op VAST) om de richting Goblintechniek te beheersen.$B$BSpits je oren, $N, en misschien leer je iets.",
+      "g": [
+        [
+          "expertniveau",
+          "expert level"
+        ],
+        [
+          "richtingen",
+          "disciplines, directions (richting)"
+        ],
+        [
+          "beheersen",
+          "to master, control"
+        ],
+        [
+          "verstandig",
+          "sensible, judicious"
+        ],
+        [
+          "explosieven",
+          "explosives (explosief)"
+        ],
+        [
+          "uitrusting",
+          "gear, equipment"
+        ],
+        [
+          "handleiding",
+          "manual"
+        ],
+        [
+          "lidmaatschap",
+          "membership"
+        ],
+        [
+          "rekruten",
+          "recruits (rekruut)"
+        ],
+        [
+          "springpoeder",
+          "blasting powder"
+        ],
+        [
+          "in de leer",
+          "apprenticed, under tutelage"
+        ],
+        [
+          "sukkel",
+          "fool, schlep"
+        ],
+        [
+          "bestraalde",
+          "irradiated (bestralen)"
+        ],
+        [
+          "nadruk",
+          "emphasis"
+        ],
+        [
+          "Spits je oren",
+          "keep your ears perked (je oren spitsen)"
+        ]
+      ]
+    },
+    "3635": {
+      "t": "Gnomentechniek",
+      "d": "Op expertniveau splitst techniek zich in twee richtingen: gnoom en goblin. Al vind ik het verspilling, je moet wel weten dat de gnomenspecialisatie bestaat. Gnomen maken voorwerpen en apparaatjes die volgens hen de wereld veranderen, maar die zelden werken.$B$B$N, lees deze handleiding. Als je wilt leren hoe je metalen presse-papiers maakt, breng de handleiding dan naar Oglethorpe Obnoticus in Booty Bay. Onthoud: het lidmaatschap is voor altijd, en daarna kun je je niet meer bij de andere richting aansluiten. Zorg dus dat je het echt zeker weet voordat je zijn taak afmaakt.",
+      "o": "Als je meer wilt leren over Gnome Engineering, breng de Manual of Engineering Disciplines dan naar Oglethorpe Obnoticus in Booty Bay.",
+      "p": "Hallo daar! Als je komt voor een doelzoekende robot die misschien door een muur van je woning is gebroken, verwijs ik je alvast door naar mijn advocaat. Zo niet: wat kan ik vandaag voor je doen?",
+      "c": "Je komt dus meer leren over gnomentechniek? Nou, dan ben je bij de juiste gnoom. De heersende groep in Gnomeregan gebruikt misschien politiek om degenen buiten te sluiten die ze als een intellectuele bedreiging zien, maar ze weten dat kennis iets is wat ze niet kunnen beheersen.$B$BZij en ik weten allebei dat ze met mijn vertrek uit Gnomeregan een van de grootste nog levende gnoomingenieurs kwijtraakten. Als je een bekwame leerling bent, leer ik je wat ik weet.",
+      "g": [
+        [
+          "expertniveau",
+          "expert level"
+        ],
+        [
+          "richtingen",
+          "disciplines, directions (richting)"
+        ],
+        [
+          "verspilling",
+          "waste"
+        ],
+        [
+          "apparaatjes",
+          "gadgets (apparaatje)"
+        ],
+        [
+          "zelden",
+          "rarely"
+        ],
+        [
+          "handleiding",
+          "manual"
+        ],
+        [
+          "presse-papiers",
+          "paperweights (presse-papier)"
+        ],
+        [
+          "lidmaatschap",
+          "membership"
+        ],
+        [
+          "doelzoekende",
+          "homing, target-seeking"
+        ],
+        [
+          "woning",
+          "home, residence"
+        ],
+        [
+          "verwijs",
+          "refer (doorverwijzen)"
+        ],
+        [
+          "advocaat",
+          "lawyer, barrister"
+        ],
+        [
+          "heersende",
+          "ruling (heersen)"
+        ],
+        [
+          "buiten te sluiten",
+          "to shut out, ostracize (buitensluiten)"
+        ],
+        [
+          "bekwame",
+          "capable (bekwaam)"
+        ]
+      ]
+    },
+    "3637": {
+      "t": "Gnomentechniek",
+      "d": "Op expertniveau splitst techniek zich in twee richtingen: gnoom en goblin. Al vind ik het verspilling, je moet wel weten dat de gnomenspecialisatie bestaat. Gnomen maken voorwerpen en apparaatjes die volgens hen de wereld veranderen, maar die zelden werken.$B$B$N, lees deze handleiding. Als je wilt leren hoe je metalen presse-papiers maakt, breng de handleiding dan naar Oglethorpe Obnoticus in Booty Bay. Onthoud: het lidmaatschap is voor altijd, en daarna kun je je niet meer bij de andere richting aansluiten. Zorg dus dat je het echt zeker weet voordat je zijn taak afmaakt.",
+      "o": "Als je meer wilt leren over Gnome Engineering, breng de Manual of Engineering Disciplines dan naar Oglethorpe Obnoticus in Booty Bay.",
+      "p": "Hallo daar! Als je komt voor een doelzoekende robot die misschien door een muur van je woning is gebroken, verwijs ik je alvast door naar mijn advocaat. Zo niet: wat kan ik vandaag voor je doen?",
+      "c": "Je komt dus meer leren over gnomentechniek? Nou, dan ben je bij de juiste gnoom. De heersende groep in Gnomeregan gebruikt misschien politiek om degenen buiten te sluiten die ze als een intellectuele bedreiging zien, maar ze weten dat kennis iets is wat ze niet kunnen beheersen.$B$BZij en ik weten allebei dat ze met mijn vertrek uit Gnomeregan een van de grootste nog levende gnoomingenieurs kwijtraakten. Als je een bekwame leerling bent, leer ik je wat ik weet.",
+      "g": [
+        [
+          "expertniveau",
+          "expert level"
+        ],
+        [
+          "richtingen",
+          "disciplines, directions (richting)"
+        ],
+        [
+          "verspilling",
+          "waste"
+        ],
+        [
+          "apparaatjes",
+          "gadgets (apparaatje)"
+        ],
+        [
+          "zelden",
+          "rarely"
+        ],
+        [
+          "handleiding",
+          "manual"
+        ],
+        [
+          "presse-papiers",
+          "paperweights (presse-papier)"
+        ],
+        [
+          "lidmaatschap",
+          "membership"
+        ],
+        [
+          "doelzoekende",
+          "homing, target-seeking"
+        ],
+        [
+          "woning",
+          "home, residence"
+        ],
+        [
+          "verwijs",
+          "refer (doorverwijzen)"
+        ],
+        [
+          "advocaat",
+          "lawyer, barrister"
+        ],
+        [
+          "heersende",
+          "ruling (heersen)"
+        ],
+        [
+          "buiten te sluiten",
+          "to shut out, ostracize (buitensluiten)"
+        ],
+        [
+          "bekwame",
+          "capable (bekwaam)"
+        ]
+      ]
+    },
+    "3642": {
+      "t": "De gelofte van geheimhouding",
+      "d": "Gnomentechniek draait om technische theorie die we vormen naar onze behoeften! Met onze schema's kunnen we apparaten maken die de wereld om ons heen beheersen; dat stond in de handleiding die je hebt gelezen.$B$BDe handleiding ging ook over onze eeuwenoude eed van geheimhouding over onze schema's. Zodra je gnoomingenieur bent, is het definitief. Dan heb je helemaal geen toegang meer tot goblintechniek.$B$BAls je nog steeds gnoomingenieur wilt worden, teken dan dit document waarin je levenslange geheimhouding belooft, en praat daarna weer met me. Denk er goed over na, $N.",
+      "o": "Als je ermee instemt om Gnome Engineer te worden, klik dan met de rechtermuisknop op de Pledge of Secrecy en praat nog een keer met Oglethorpe Obnoticus in Booty Bay.",
+      "p": "Als je het document hebt getekend en klaar bent om het aan mij te geven, dan is het definitief.$B$BIk ben het politiek misschien fel oneens met Gnomeregan, vooral met die dwaas Tinkmaster Overspark, maar de Pledge of Secrecy gaat boven al het andere! Je moet beloven dat je één pad kiest en dat pad je hele leven trouw blijft.",
+      "c": "Welkom aan boord, $N! Je krijgt binnenkort toegang tot de modernste technische schema's van heel Azeroth.$B$BNu je je aan het zoeken naar deze kennis hebt verbonden, is het tijd om je werk op het gebied van gnomentechniek te bekijken. Daarna helpen we je een plan te maken om je talenten in gnomentechniek zo goed mogelijk te benutten!",
+      "g": [
+        [
+          "gelofte",
+          "pledge, vow"
+        ],
+        [
+          "geheimhouding",
+          "secrecy"
+        ],
+        [
+          "draait om",
+          "is about (draaien om)"
+        ],
+        [
+          "behoeften",
+          "needs (behoefte)"
+        ],
+        [
+          "schema's",
+          "schematics (schema)"
+        ],
+        [
+          "eeuwenoude",
+          "age-old (eeuwenoud)"
+        ],
+        [
+          "eed",
+          "oath"
+        ],
+        [
+          "definitief",
+          "final, permanent"
+        ],
+        [
+          "levenslange",
+          "lifelong (levenslang)"
+        ],
+        [
+          "instemt",
+          "agree (instemmen)"
+        ],
+        [
+          "fel oneens",
+          "vehemently disagree (het oneens zijn)"
+        ],
+        [
+          "dwaas",
+          "fool"
+        ],
+        [
+          "gaat boven",
+          "transcends, comes before (boven iets gaan)"
+        ],
+        [
+          "trouw blijft",
+          "stay true (trouw blijven)"
+        ],
+        [
+          "benutten",
+          "to make the most of, utilise"
+        ]
+      ]
+    },
+    "3643": {
+      "t": "Laat je werk zien",
+      "d": "Als je mentor wil ik wat voorbeelden van je werk zien. Je bent een vaardige ingenieur, $N; daar is geen twijfel over. Maar ik wil je werk bestuderen om te zien hoe je in de toekomst meer gnomentechnieken kunt gebruiken. Ik heb deze voorbeelden nodig: zes mithrilbuizen, een nauwkeurige kijker en twee geavanceerde oefenpoppen.$B$BLever ze bij me in, dan geef ik je je eigen Gnome Engineer Membership Card. Die heb je nodig voor toegang tot alle trainers in gnomentechniek!",
+      "o": "Breng 6 Mithril Tubes, een Accurate Scope en 2 Advanced Target Dummies naar Oglethorpe Obnoticus in Booty Bay.",
+      "p": "Zodra ik je zelfgemaakte technische voorwerpen heb ontvangen om ze te beoordelen, geef ik je een echte Gnome Engineer Membership Card! Zolang de kaart geldig is, heb je onbeperkt toegang tot elke trainer in gnomentechniek ter wereld.",
+      "c": "Hier is je eerste Gnome Engineer Membership Card!$B$BDe contributie voor deze kaart is al veertien dagen vooruit betaald; alle kaarten verlopen na twee weken activiteit. Als dat gebeurt, betaal je de volgende contributie aan een trainer in gnomentechniek om een nieuwe kaart te krijgen. Zonder kaart vervalt je lidmaatschap tijdelijk en heb je geen toegang tot nieuwe schema's.$B$BDit heeft nooit invloed op wat je al weet: eens een gnoomingenieur, altijd een gnoomingenieur.",
+      "g": [
+        [
+          "vaardige",
+          "skilled (vaardig)"
+        ],
+        [
+          "twijfel",
+          "doubt"
+        ],
+        [
+          "mithrilbuizen",
+          "mithril tubes (mithrilbuis)"
+        ],
+        [
+          "nauwkeurige",
+          "accurate (nauwkeurig)"
+        ],
+        [
+          "kijker",
+          "scope, telescope"
+        ],
+        [
+          "geavanceerde",
+          "advanced (geavanceerd)"
+        ],
+        [
+          "oefenpoppen",
+          "target dummies (oefenpop)"
+        ],
+        [
+          "Lever",
+          "submit (inleveren)"
+        ],
+        [
+          "beoordelen",
+          "to review, assess"
+        ],
+        [
+          "geldig",
+          "valid"
+        ],
+        [
+          "onbeperkt",
+          "unlimited"
+        ],
+        [
+          "contributie",
+          "membership dues"
+        ],
+        [
+          "verlopen",
+          "expire"
+        ],
+        [
+          "vervalt",
+          "lapses (vervallen)"
+        ],
+        [
+          "invloed",
+          "effect, influence"
+        ]
+      ]
+    },
+    "2621": {
+      "t": "De onteerde",
+      "d": "Spijt. Dat is alles wat ik nog heb. Eén slechte beslissing, met een aantal vreselijke gevolgen. Had ik maar op die bevelen gewacht. Misschien stonden daarin de gruwelen die ons in die vervloekte landen te wachten stonden! Misschien moesten we naar een andere opdracht worden gestuurd? Uiteindelijk was het mijn schuld. Alles was mijn schuld.$B$BDus hier sta ik en wacht op bevelen. Ik moet het weten. Ik moet die bevelen hebben.$B$BDispatch Commander Ruag verblijft in Stonard. Zoek hem op en ontdek wat er met de bevelen is gebeurd.$b",
+      "o": "Praat met Dispatch Commander Ruag in Stonard.",
+      "c": "Thrall's Grasp... Het verhaal ligt nog vers in mijn geheugen.$B$B<Commander Ruag schudt zijn hoofd.>$B$BVreselijk wat dat regiment is overkomen. De Horde verloor een aantal van haar beste soldaten toen dat bataljon werd vernietigd.",
+      "g": [
+        [
+          "onteerde",
+          "disgraced one (onteren)"
+        ],
+        [
+          "spijt",
+          "regret"
+        ],
+        [
+          "gevolgen",
+          "consequences, outcomes (gevolg)"
+        ],
+        [
+          "bevelen",
+          "orders (bevel)"
+        ],
+        [
+          "gruwelen",
+          "horrors (gruwel)"
+        ],
+        [
+          "vervloekte",
+          "cursed (vervloeken)"
+        ],
+        [
+          "opdracht",
+          "assignment, detail"
+        ],
+        [
+          "uiteindelijk",
+          "ultimately"
+        ],
+        [
+          "verblijft",
+          "resides (verblijven)"
+        ],
+        [
+          "vers in mijn geheugen",
+          "fresh in my mind"
+        ],
+        [
+          "overkomen",
+          "happened to (overkomen)"
+        ],
+        [
+          "regiment",
+          "regiment"
+        ],
+        [
+          "bataljon",
+          "battalion"
+        ],
+        [
+          "vernietigd",
+          "destroyed (vernietigen)"
+        ]
+      ]
+    },
+    "2784": {
+      "t": "Diep gevallen",
+      "d": "Hoor mijn verhaal, $r.",
+      "o": "Luister naar het verhaal van de Fallen Hero of the Horde.",
+      "p": "Luister naar wat ik te zeggen heb.",
+      "c": "Als geest ben ik machteloos, $N. Help me. Laat me mijn eer terugwinnen.",
+      "e": "Het verhaal van verdriet",
+      "g": [
+        [
+          "Diep gevallen",
+          "fallen from grace"
+        ],
+        [
+          "geest",
+          "spirit, ghost"
+        ],
+        [
+          "machteloos",
+          "powerless"
+        ],
+        [
+          "eer",
+          "honour"
+        ],
+        [
+          "terugwinnen",
+          "to regain"
+        ],
+        [
+          "verdriet",
+          "sorrow"
+        ]
+      ]
+    },
+    "1445": {
+      "t": "De tempel van Atal'Hakkar",
+      "d": "Dus hij sprak over de profetie van Jammal'an?$b$bDe spirituele leider van de Atal'ai gelooft dat de god de stam van de Atal'ai onsterfelijkheid zal schenken zodra Hakkar vanuit de Nether naar Azeroth terugkeert.$b$bDwaze misleiding om een vroegtijdige ondergang te veroorzaken, als je het mij vraagt.$b$bMaar je zegt dat de verbannene over betoverde fetisjen sprak? Dat baart me grote zorgen. Als die echt de sleutel zijn tot het ritueel van de Atal'ai dat deze ellende veroorzaakte, moeten we hun innerlijke krachten begrijpen.$b$bGa de tempel in en maak de fetisjen buit!",
+      "o": "Verzamel 20 Fetishes of Hakkar en breng ze naar Fel'Zerul in Stonard.",
+      "p": "Als de fetisjen van de Atal'ai de kracht hebben om Hakkar op te roepen en de profetie van Jammal'an te vervullen, moeten we ze buitmaken. Zulke krachten moeten door de Horde worden begrepen!",
+      "c": "Dappere $C, je hebt bewezen dat je een groot kampioen van de Horde bent.$b$bNu moet er meteen iets gebeuren met deze verzameling fetisjen van Hakkar!",
+      "g": [
+        [
+          "profetie",
+          "prophecy"
+        ],
+        [
+          "spirituele",
+          "spiritual (spiritueel)"
+        ],
+        [
+          "stam",
+          "tribe"
+        ],
+        [
+          "onsterfelijkheid",
+          "immortality"
+        ],
+        [
+          "schenken",
+          "to grant"
+        ],
+        [
+          "misleiding",
+          "trickery, deception"
+        ],
+        [
+          "vroegtijdige",
+          "premature (vroegtijdig)"
+        ],
+        [
+          "ondergang",
+          "doom, downfall"
+        ],
+        [
+          "verbannene",
+          "exile (verbannen)"
+        ],
+        [
+          "betoverde",
+          "enchanted (betoveren)"
+        ],
+        [
+          "fetisjen",
+          "fetishes (fetisj)"
+        ],
+        [
+          "baart me grote zorgen",
+          "concerns me greatly (zorgen baren)"
+        ],
+        [
+          "ellende",
+          "misery, mess"
+        ],
+        [
+          "innerlijke",
+          "inner, intrinsic"
+        ],
+        [
+          "buitmaken",
+          "to seize (buitmaken)"
+        ],
+        [
+          "vervullen",
+          "to fulfil"
+        ]
+      ]
+    },
+    "3380": {
+      "t": "De Sunken Temple",
+      "d": "Er zijn rusteloze geesten in deze wereld, $N. Er zijn geesten die door hun afzondering zijn aangetast, gebonden aan een oud kwaad...$B$BIk heb gehoord over een plek die diep onder het aardoppervlak ligt, daarheen verbannen door krachten die groter zijn dan ik ooit heb gezien.$B$BAls je meer wilt weten over deze plek, de Sunken Temple, zoek dan een goblin op die Marvon Rivetseeker heet. Hij heeft veel oude gebieden van de wereld bestudeerd. Het laatste wat we weten, is dat hij zijn huis in Ratchet verliet om de trollenruïnes in Tanaris te bestuderen.",
+      "o": "Zoek Marvon Rivetseeker in Tanaris.",
+      "c": "Ja, de Sunken Temple. Ik kan zeggen dat ik hem met mijn eigen ogen heb gezien. Wil je er misschien meer over horen?$B$BJe ziet eruit als het avontuurlijke type. Ik weet dingen die je misschien zullen boeien...",
+      "g": [
+        [
+          "rusteloze",
+          "restless (rusteloos)"
+        ],
+        [
+          "afzondering",
+          "isolation"
+        ],
+        [
+          "aangetast",
+          "tainted, affected (aantasten)"
+        ],
+        [
+          "gebonden",
+          "bound (binden)"
+        ],
+        [
+          "kwaad",
+          "evil"
+        ],
+        [
+          "aardoppervlak",
+          "surface of the earth"
+        ],
+        [
+          "verbannen",
+          "banished"
+        ],
+        [
+          "bestudeerd",
+          "studied (bestuderen)"
+        ],
+        [
+          "trollenruïnes",
+          "troll ruins"
+        ],
+        [
+          "avontuurlijke",
+          "adventurous (avontuurlijk)"
+        ],
+        [
+          "boeien",
+          "to intrigue, fascinate"
+        ]
+      ]
+    },
+    "5093": {
+      "t": "Te wapen: de Plaguelands!",
+      "d": "Helden van het rijk, hoor mij: de Horde roept jullie op om snel in actie te komen!$B$BEr is een oproep uitgegaan aan iedereen die gezond en sterk is om de wapens op te nemen tegen de Scourge! Er gaan geruchten over nieuwe dreigingen die opkomen uit de ruïnes van de Eastern Kingdoms. Ze doemen op ten oosten van de Undercity, in de noordelijke streken van het land dat nu bekendstaat als de Plaguelands!$B$BHelden van het rijk: zoek High Executor Derrington op. Hij heeft zijn basiskamp opgezet bij de Bulwark, ten oosten van Tirisfal Glade!",
+      "o": "Zoek High Executor Derrington op. Zijn basiskamp ligt bij de Bulwark, ten oosten van Tirisfal Glade en de Undercity.",
+      "c": "Welkom in de Plaguelands, held. Dit is een van de gevaarlijkste grensgebieden van Azeroth, met de dreigende Scourge in het oosten, en daarachter nog verder naar het oosten. Ik ben blij te horen dat de roep van plicht en dienst aan de Horde bij jou niet aan dovemansoren gericht was!$B$BAls je klaar bent om je handen vuil te maken, is er hier aan de rand van de Plaguelands genoeg te doen voor helden die willen en kunnen.",
+      "g": [
+        [
+          "rijk",
+          "realm"
+        ],
+        [
+          "oproep",
+          "call, summons"
+        ],
+        [
+          "de wapens op te nemen",
+          "to take up arms (de wapens opnemen)"
+        ],
+        [
+          "geruchten",
+          "rumours (gerucht)"
+        ],
+        [
+          "dreigingen",
+          "threats (dreiging)"
+        ],
+        [
+          "doemen",
+          "loom (opdoemen)"
+        ],
+        [
+          "streken",
+          "regions, reaches (streek)"
+        ],
+        [
+          "basiskamp",
+          "base camp"
+        ],
+        [
+          "grensgebieden",
+          "frontiers (grensgebied)"
+        ],
+        [
+          "dreigende",
+          "looming, threatening (dreigen)"
+        ],
+        [
+          "plicht",
+          "duty"
+        ],
+        [
+          "aan dovemansoren gericht",
+          "fallen on deaf ears"
+        ],
+        [
+          "je handen vuil te maken",
+          "to get your hands dirty"
+        ],
+        [
+          "rand",
+          "edge"
+        ]
+      ]
+    },
+    "5094": {
+      "t": "Te wapen: de Plaguelands!",
+      "d": "Helden van het rijk, hoor mij: de Horde roept jullie op om snel in actie te komen!$B$BEr is een oproep uitgegaan aan iedereen die gezond en sterk is om de wapens op te nemen tegen de Scourge! Er gaan geruchten over nieuwe dreigingen die opkomen uit de ruïnes van de Eastern Kingdoms. Ze doemen op ten oosten van de Undercity, in de noordelijke streken van het land dat nu bekendstaat als de Plaguelands!$B$BHelden van het rijk: zoek High Executor Derrington op. Hij heeft zijn basiskamp opgezet bij de Bulwark, ten oosten van Tirisfal Glade!",
+      "o": "Zoek High Executor Derrington op. Zijn basiskamp ligt bij de Bulwark, ten oosten van Tirisfal Glade en de Undercity.",
+      "c": "Welkom in de Plaguelands, held. Dit is een van de gevaarlijkste grensgebieden van Azeroth, met de dreigende Scourge in het oosten, en daarachter nog verder naar het oosten. Ik ben blij te horen dat de roep van plicht en dienst aan de Horde bij jou niet aan dovemansoren gericht was!$b$bAls je klaar bent om je handen vuil te maken, is er hier aan de rand van de Plaguelands genoeg te doen voor helden die willen en kunnen.",
+      "g": [
+        [
+          "rijk",
+          "realm"
+        ],
+        [
+          "oproep",
+          "call, summons"
+        ],
+        [
+          "de wapens op te nemen",
+          "to take up arms (de wapens opnemen)"
+        ],
+        [
+          "geruchten",
+          "rumours (gerucht)"
+        ],
+        [
+          "dreigingen",
+          "threats (dreiging)"
+        ],
+        [
+          "doemen",
+          "loom (opdoemen)"
+        ],
+        [
+          "streken",
+          "regions, reaches (streek)"
+        ],
+        [
+          "basiskamp",
+          "base camp"
+        ],
+        [
+          "grensgebieden",
+          "frontiers (grensgebied)"
+        ],
+        [
+          "dreigende",
+          "looming, threatening (dreigen)"
+        ],
+        [
+          "plicht",
+          "duty"
+        ],
+        [
+          "aan dovemansoren gericht",
+          "fallen on deaf ears"
+        ],
+        [
+          "je handen vuil te maken",
+          "to get your hands dirty"
+        ],
+        [
+          "rand",
+          "edge"
+        ]
+      ]
+    },
+    "5095": {
+      "t": "Te wapen: de Plaguelands!",
+      "d": "Helden van het rijk, hoor mij: de Horde roept jullie op om snel in actie te komen!$B$BEr is een oproep uitgegaan aan iedereen die gezond en sterk is om de wapens op te nemen tegen de Scourge! Er gaan geruchten over nieuwe dreigingen die opkomen uit de ruïnes van de Eastern Kingdoms. Ze doemen op ten oosten van de Undercity, in de noordelijke streken van het land dat nu bekendstaat als de Plaguelands!$B$BHelden van het rijk: zoek High Executor Derrington op. Hij heeft zijn basiskamp opgezet bij de Bulwark, ten oosten van Tirisfal Glades!",
+      "o": "Zoek High Executor Derrington op. Zijn basiskamp ligt bij de Bulwark, ten oosten van Tirisfal Glades en de Undercity.",
+      "c": "Welkom in de Plaguelands, held. Dit is een van de gevaarlijkste grensgebieden van Azeroth, met de dreigende Scourge in het oosten, en daarachter nog verder naar het oosten. Ik ben blij te horen dat de roep van plicht en dienst aan de Horde bij jou niet aan dovemansoren gericht was!$B$BAls je klaar bent om je handen vuil te maken, is er hier aan de rand van de Plaguelands genoeg te doen voor helden die willen en kunnen.",
+      "g": [
+        [
+          "rijk",
+          "realm"
+        ],
+        [
+          "oproep",
+          "call, summons"
+        ],
+        [
+          "de wapens op te nemen",
+          "to take up arms (de wapens opnemen)"
+        ],
+        [
+          "geruchten",
+          "rumours (gerucht)"
+        ],
+        [
+          "dreigingen",
+          "threats (dreiging)"
+        ],
+        [
+          "doemen",
+          "loom (opdoemen)"
+        ],
+        [
+          "streken",
+          "regions, reaches (streek)"
+        ],
+        [
+          "basiskamp",
+          "base camp"
+        ],
+        [
+          "grensgebieden",
+          "frontiers (grensgebied)"
+        ],
+        [
+          "dreigende",
+          "looming, threatening (dreigen)"
+        ],
+        [
+          "plicht",
+          "duty"
+        ],
+        [
+          "aan dovemansoren gericht",
+          "fallen on deaf ears"
+        ],
+        [
+          "je handen vuil te maken",
+          "to get your hands dirty"
+        ],
+        [
+          "rand",
+          "edge"
+        ]
+      ]
+    },
+    "5023": {
+      "t": "Beter laat dan nooit",
+      "d": "Je pakt het pakketje op en veegt er een dun laagje stof en vuil af. Het is in een haastig handschrift geadresseerd aan ene Jeremiah Felstone uit Lordaeron; de bezorging staat gedateerd op ruim vier jaar geleden.$B$BHet is niet duidelijk of Jeremiah Felstone nog wel leeft, maar het is algemeen bekend dat de Undercity, vroeger bekend als Lordaeron, gegevens over de inwoners van de stad bijhoudt. Dat gebeurt via de Royal Overseers of the Undercity Census.",
+      "o": "Vraag bij de Royal Overseers of the Undercity waar ene Jeremiah Felstone verblijft. Er staat meestal een medewerker van de volkstelling bij de registratie van gildes en tabberds.",
+      "p": "Kom je voor hulp van de volkstelling van de Undercity, of alleen om me te vragen of iemand die je kende dood is? Dat vragen ze me vaak.",
+      "c": "Een pakketje voor ene Jeremiah Felstone, met Lordaeron als laatst bekende adres... Daar kan ik je wel mee helpen.$b$bJeremiah Felstone woonde in de stad vóór de plaag. Nou ja, ik moet eigenlijk zeggen: de vroegere Jeremiah Felstone. Sommige Forsaken hebben hun achternaam veranderd om van hun vroegere uiterlijk af te komen. Dit geval is geen uitzondering: de vroegere Jeremiah Felstone heet nu Jeremiah Payson.$b$bWacht eens even... is hij niet de kakkerlakkenverkoper?",
+      "g": [
+        [
+          "pakketje",
+          "package, parcel"
+        ],
+        [
+          "veegt",
+          "wipe (vegen)"
+        ],
+        [
+          "laagje",
+          "thin layer"
+        ],
+        [
+          "haastig",
+          "hurried"
+        ],
+        [
+          "geadresseerd",
+          "addressed (adresseren)"
+        ],
+        [
+          "bezorging",
+          "delivery"
+        ],
+        [
+          "gedateerd",
+          "dated (dateren)"
+        ],
+        [
+          "gegevens",
+          "records, data"
+        ],
+        [
+          "inwoners",
+          "inhabitants (inwoner)"
+        ],
+        [
+          "verblijft",
+          "is staying, whereabouts (verblijven)"
+        ],
+        [
+          "volkstelling",
+          "census"
+        ],
+        [
+          "tabberds",
+          "tabards (tabberd)"
+        ],
+        [
+          "plaag",
+          "plague"
+        ],
+        [
+          "uiterlijk",
+          "appearance, countenance"
+        ],
+        [
+          "uitzondering",
+          "exception"
+        ],
+        [
+          "kakkerlakkenverkoper",
+          "cockroach vendor"
+        ]
+      ]
+    },
+    "5096": {
+      "t": "Scarlet-afleidingen",
+      "d": "Voor Andorhal moeten we eerst de oprukkende dreiging van de Scarlet Crusade uit Hearthglen aanpakken. Ze hebben hun kamp opgeslagen tussen Felstone Field en Dalson's Tears. Daardoor lopen we het risico dat we tegelijk met de Scourge en de Crusade moeten vechten.$B$BMijn plan is om ze tegen elkaar uit te spelen. Ik stuur jou om de commandotent te vernietigen die ze hebben opgezet; gebruik wat Flame in a Bottle uit deze kist met brandbommen. Als de tent in de as ligt, plant je deze Scourge-banier bij de tent. Met een beetje geluk laten ze ons met rust en richten ze zich op de Scourge om wraak te nemen.",
+      "o": "Ga naar het basiskamp van de Scarlet Crusade tussen Felstone Field en Dalson's Tears en vernietig hun commandotent.$B$BPlaats de Scourge-banier in het kamp en keer dan terug naar High Executor Derrington bij de Bulwark, Western Plaguelands.",
+      "c": "Prima uitgevoerd, $N. Je aanval op de Scarlet Crusade levert ons tijd op. Ik heb een van mijn beste verkenners eropuit gestuurd om het kamp in de gaten te houden en ervoor te zorgen dat de troepen van de Crusade die de stelling komen versterken, toehappen.$B$BNu de druk op ons kleiner is, kunnen we eindelijk een missie naar Andorhal zelf wagen, en nog een belangrijke ook. Ik zou het fijn vinden als jij die ook uitvoert, gezien je succes tot nu toe.",
+      "e": "Vernietig de commandotent en plant de Scourge-banier in het kamp",
+      "g": [
+        [
+          "afleidingen",
+          "diversions (afleiding)"
+        ],
+        [
+          "oprukkende",
+          "advancing (oprukken)"
+        ],
+        [
+          "aanpakken",
+          "to tackle"
+        ],
+        [
+          "kamp opgeslagen",
+          "made camp (kamp opslaan)"
+        ],
+        [
+          "uit te spelen",
+          "to play off (tegen elkaar uitspelen)"
+        ],
+        [
+          "commandotent",
+          "command tent"
+        ],
+        [
+          "brandbommen",
+          "incendiaries (brandbom)"
+        ],
+        [
+          "in de as ligt",
+          "is razed, burned down"
+        ],
+        [
+          "banier",
+          "banner"
+        ],
+        [
+          "wraak",
+          "vengeance, revenge"
+        ],
+        [
+          "verkenners",
+          "scouts (verkenner)"
+        ],
+        [
+          "in de gaten te houden",
+          "to keep an eye on (in de gaten houden)"
+        ],
+        [
+          "stelling",
+          "position"
+        ],
+        [
+          "versterken",
+          "to reinforce"
+        ],
+        [
+          "toehappen",
+          "take the bait"
+        ],
+        [
+          "wagen",
+          "to risk, venture"
+        ]
+      ]
+    },
+    "5228": {
+      "t": "De ketels van de Scourge",
+      "d": "In het voormalige Lordaeron staan acht ketels: vier in het westen, en nog vier diep verschanst in het oosten. Deze ketels spuwen gif de lucht in en verspreiden zo de plaag over het land voor de Scourge.$B$BDe necromantische macht van Kel'Thuzad is te sterk om deze ketels zomaar uit te schakelen, maar we denken dat we misschien een manier hebben om ze in ons voordeel om te buigen. Mijn tweede in bevel, Shadow Priestess Vandis, wordt je contactpersoon voor deze opdracht; zij gaat vanaf hier verder met de uitleg.",
+      "o": "Praat met Shadow Priestess Vandis bij de Bulwark, Western Plaguelands.",
+      "c": "Vanuit de schaduwen groet ik je, broeder $R. Ik ben je coördinator voor ons plan om de ketels van de Scourge te saboteren.$B$BOns doel is om de samenstelling van de plaag die de ketels maken te veranderen in iets wat de Scourge schaadt. Om die verandering te bereiken, moet je toegang krijgen tot elk van de vier ketels hier in de Western Plaguelands.$B$BHet is tijd dat jij de aanval tegen de Scourge leidt, held.",
+      "g": [
+        [
+          "voormalige",
+          "former (voormalig)"
+        ],
+        [
+          "ketels",
+          "cauldrons (ketel)"
+        ],
+        [
+          "verschanst",
+          "entrenched (verschansen)"
+        ],
+        [
+          "spuwen",
+          "spew"
+        ],
+        [
+          "verspreiden",
+          "spread, propagate"
+        ],
+        [
+          "plaag",
+          "plague"
+        ],
+        [
+          "necromantische",
+          "necromantic"
+        ],
+        [
+          "uit te schakelen",
+          "to shut down (uitschakelen)"
+        ],
+        [
+          "om te buigen",
+          "to turn, subvert (ombuigen)"
+        ],
+        [
+          "tweede in bevel",
+          "second-in-command"
+        ],
+        [
+          "contactpersoon",
+          "point of contact"
+        ],
+        [
+          "saboteren",
+          "sabotage"
+        ],
+        [
+          "samenstelling",
+          "composition"
+        ],
+        [
+          "schaadt",
+          "harms (schaden)"
+        ]
+      ]
+    },
+    "5229": {
+      "t": "Doelwit: Felstone Field",
+      "d": "Van de vier ketels in de Western Plaguelands is die bij Felstone Field misschien het makkelijkst te bereiken. De Scourge heeft daar minder ervaren troepen staan, al moet je ze niet onderschatten.$B$BGa naar Felstone Field, recht ten oosten van hier en ten noordwesten van Andorhal, en val de ketelheer daar aan. Hij heeft een sleutel die de ketel opent. Als de ketel open is, gebruik je deze fles om een monster van het gif te nemen; we hebben het nodig voor onderzoek, zodat we een tegengif kunnen ontwikkelen.",
+      "o": "Ga naar Felstone Field in Western Plaguelands om de Cauldron Lord daar te vinden en te verslaan. Hij heeft misschien een sleutel waarmee je toegang krijgt tot de ketel. Je moet de Empty Felstone Field Bottle bij je hebben om een monster te nemen van het gif in de ketel.",
+      "p": "Een toegangsluik van de ketel zit nog stevig dicht. Om het te openen, moet je de sleutel vinden.",
+      "c": "De sleutel van Cauldron Lord Bilemaw past perfect in het toegangsluik, maar hij verdwijnt nadat je hem gebruikt. Toch denk je dat je het luik nu ook zonder sleutel kunt openen. Uit het geopende luik komt een smerige stank, terwijl een onbekend mengsel van geconcentreerde stoffen in de ketel ronddraait.$b$bEr zit een kraantje waar de fles net onder past, zodat je een monster kunt aftappen voor Shadow Priestess Vandis in de Bulwark.",
+      "g": [
+        [
+          "doelwit",
+          "target"
+        ],
+        [
+          "ervaren",
+          "experienced"
+        ],
+        [
+          "onderschatten",
+          "underestimate"
+        ],
+        [
+          "ketelheer",
+          "cauldron lord"
+        ],
+        [
+          "monster",
+          "sample"
+        ],
+        [
+          "tegengif",
+          "counter agent, antidote"
+        ],
+        [
+          "toegangsluik",
+          "access panel, access hatch"
+        ],
+        [
+          "stevig",
+          "firmly"
+        ],
+        [
+          "stank",
+          "stench"
+        ],
+        [
+          "mengsel",
+          "mixture"
+        ],
+        [
+          "geconcentreerde",
+          "concentrated (geconcentreerd)"
+        ],
+        [
+          "kraantje",
+          "small tap, spigot"
+        ],
+        [
+          "aftappen",
+          "to draw off"
+        ]
+      ]
+    },
+    "5230": {
+      "t": "Terug naar de Bulwark",
+      "d": "Je vult de fles met genoeg van het giftige brouwsel uit de ketel om een geschikt monster te kunnen onderzoeken.$B$BMet het gif in handen is het tijd om terug te keren naar Shadow Priestess Vandis bij de Bulwark om de missie af te ronden.",
+      "o": "Breng de Filled Felstone Field Bottle naar Shadow Priestess Vandis bij de Bulwark, Western Plaguelands.",
+      "p": "Welkom terug in de betrekkelijke veiligheid van de Bulwark, $N. Wat heb je te melden over de ketels?",
+      "c": "Goed gedaan, $N. Apothecary Dithers heeft vast weinig tijd nodig om dit te onderzoeken en een tegengif te bedenken dat we in de ketel kunnen brengen. Als we daar genoeg van in de lucht kunnen pompen, kunnen we misschien alle Scourge hier verzwakken.$b$bDit wordt ongetwijfeld een langdurige klus; we zullen deze ketels steeds opnieuw moeten aanvallen en onze stoffen aan hun mengsel moeten toevoegen. Maar als we dat volhouden, hebben we een enorm voordeel op de Scourge als het tijd is voor de strijd!",
+      "g": [
+        [
+          "brouwsel",
+          "concoction, brew"
+        ],
+        [
+          "geschikt",
+          "suitable"
+        ],
+        [
+          "af te ronden",
+          "to complete (afronden)"
+        ],
+        [
+          "betrekkelijke",
+          "relative (betrekkelijk)"
+        ],
+        [
+          "melden",
+          "to report"
+        ],
+        [
+          "tegengif",
+          "counter agent, antidote"
+        ],
+        [
+          "verzwakken",
+          "to weaken"
+        ],
+        [
+          "ongetwijfeld",
+          "no doubt"
+        ],
+        [
+          "langdurige",
+          "long-lasting, ongoing (langdurig)"
+        ],
+        [
+          "klus",
+          "job, task"
+        ],
+        [
+          "volhouden",
+          "to keep it up"
+        ],
+        [
+          "voordeel",
+          "advantage"
+        ]
+      ]
+    },
+    "838": {
+      "t": "Scholomance",
+      "d": "Op het eiland Caer Darrow ligt Scholomance: een school die een bolwerk van de Scourge is. Onze vijand woont daarbinnen en kan er veilig onderzoek doen dat zijn macht vergroot. Een deur verspert de weg, en hoe we het ook proberen, zonder de juiste sleutel komt niemand binnen.$B$BApothecary Dithers weet veel van Scholomance en heeft een idee hoe we een sleutel kunnen krijgen. Je hebt me bewezen dat je iemand bent die dingen voor elkaar krijgt; daarom vertrouw ik deze taak nu aan jou toe. Praat met hem hierover.",
+      "o": "Praat met Apothecary Dithers bij de Bulwark, Western Plaguelands.",
+      "c": "Ja, $C, de High Executor zei al dat jij misschien degene was die we konden vertrouwen in de kwestie van de sleutel. Ik heb een flink deel van mijn recente onderzoek aan Scholomance besteed, en ik denk dat ik een manier weet waarop je er een kunt krijgen. Daarmee kun je langs de voordeur wanneer je maar wilt.$b$bDeze taak wordt niet makkelijk, maar dat zijn zulke taken zelden. Je ziet er zeker uit als iemand die dat al weet.",
+      "g": [
+        [
+          "bolwerk",
+          "stronghold"
+        ],
+        [
+          "vergroot",
+          "increases (vergroten)"
+        ],
+        [
+          "verspert",
+          "bars, blocks (versperren)"
+        ],
+        [
+          "voor elkaar krijgt",
+          "gets things done (voor elkaar krijgen)"
+        ],
+        [
+          "vertrouw",
+          "entrust (toevertrouwen)"
+        ],
+        [
+          "kwestie",
+          "matter, issue"
+        ],
+        [
+          "flink deel",
+          "a fair portion"
+        ],
+        [
+          "besteed",
+          "spent (besteden)"
+        ],
+        [
+          "wanneer je maar wilt",
+          "at will, whenever you like"
+        ],
+        [
+          "zelden",
+          "seldom"
+        ]
+      ]
+    },
+    "5231": {
+      "t": "Doelwit: Dalson's Tears",
+      "d": "Een van de plaagketels staat op het veld van een voormalige boerderij die nu Dalson's Tears heet. Vandaag zullen er geen tranen vloeien, $c; we moeten deze ketel aanvallen en er toegang toe krijgen!$B$BGa naar Dalson's Tears, bijna recht ten noorden van Andorhal, en schakel de ketelheer daar uit. Net als de vorige zou hij een sleutel moeten hebben, waarmee je in het binnenste van de ketel kunt komen. Gebruik deze fles om een monster uit de ketel te nemen; elke ketel gebruikt zijn eigen, unieke brouwsel van gifstoffen.",
+      "o": "Ga naar Dalson's Tears in Western Plaguelands om de Cauldron Lord daar te vinden en te verslaan, en gebruik zijn sleutel om toegang te krijgen tot de ketel. Je moet de Empty Dalson's Tears Bottle bij je hebben om een monster te nemen van het gif in de ketel.",
+      "p": "Een toegangsluik van de ketel zit nog stevig dicht. Om het te openen, moet je de sleutel vinden.",
+      "c": "De skeletsleutel van de ketelheer glijdt makkelijk in een sleutelgat en verdwijnt dan, zodat je voortaan altijd toegang hebt. Ruwe, stroperige vloeistoffen pulseren door gedraaide buizen in het onderstel van de ketel.$b$bEr zit een kraantje waar de fles net onder past, zodat je een monster kunt aftappen voor Shadow Priestess Vandis in de Bulwark.",
+      "g": [
+        [
+          "plaagketels",
+          "plague cauldrons (plaagketel)"
+        ],
+        [
+          "voormalige",
+          "former (voormalig)"
+        ],
+        [
+          "vloeien",
+          "flow, be shed"
+        ],
+        [
+          "schakel",
+          "eliminate (uitschakelen)"
+        ],
+        [
+          "binnenste",
+          "insides, innards"
+        ],
+        [
+          "unieke",
+          "unique, distinct (uniek)"
+        ],
+        [
+          "gifstoffen",
+          "toxins (gifstof)"
+        ],
+        [
+          "glijdt",
+          "slides (glijden)"
+        ],
+        [
+          "voortaan",
+          "from now on, permanently"
+        ],
+        [
+          "stroperige",
+          "viscous, syrupy (stroperig)"
+        ],
+        [
+          "vloeistoffen",
+          "liquids, ichors (vloeistof)"
+        ],
+        [
+          "pulseren",
+          "pulsate"
+        ],
+        [
+          "gedraaide",
+          "twisted (draaien)"
+        ],
+        [
+          "onderstel",
+          "underpinnings, base"
+        ],
+        [
+          "aftappen",
+          "to draw off"
+        ]
+      ]
+    }
+  },
+  "words": {
+    "baart": "causes, gives rise to (baren; zorgen baren = to worry)",
+    "gildes": "guilds (gilde)",
+    "gnomenspecialisatie": "gnome specialisation",
+    "gnomentechnieken": "gnome techniques (gnomentechniek)",
+    "gnoomingenieur": "gnome engineer",
+    "gnoomingenieurs": "gnome engineers (gnoomingenieur)",
+    "goblintechniek": "goblin engineering",
+    "iedere": "every, any (ieder)",
+    "intellectuele": "intellectual (intellectueel)",
+    "modernste": "most advanced, most modern (modern)",
+    "registratie": "registration",
+    "scarlet-afleidingen": "Scarlet diversions (afleiding)",
+    "school": "school",
+    "scourge-banier": "Scourge banner (banier)",
+    "terugkeert": "returns (terugkeren)",
+    "uitgegaan": "gone out, been issued (uitgaan)",
+    "veertien": "fourteen",
+    "voordeur": "front door",
+    "zelfgemaakte": "self-made, crafted (zelfgemaakt)"
+  },
+  "terms": {}
+}
