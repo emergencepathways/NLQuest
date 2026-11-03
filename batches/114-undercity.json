@@ -1,0 +1,1561 @@
+{
+  "quests": {
+    "3569": {
+      "t": "Sijpelend verderf",
+      "d": "Geef dit aan Thersa. Misschien geneest het haar... misschien ook niet. Dat weten we pas echt als ze het heeft gedronken.",
+      "o": "Geef Cuely's Elixir aan Thersa Windsong in Undercity.",
+      "p": "Ik ben naar Undercity gekomen omdat ik had gehoord dat hun alchemisten lang en hard onderzoek doen naar een geneesmiddel voor hun eigen ziekte. Iemand stelde voor dat ze mij misschien ook konden helpen.$B$BDeze plek geeft me allesbehalve een welkom gevoel, maar ik had geen keus. De ziekte die mij heeft getroffen, verscheurt me van binnen, en ik had meteen hun hulp nodig.",
+      "c": "Chemist Cuely is erg behulpzaam geweest... verontrustend behulpzaam. Maar als hij zegt dat dit me zal helpen, heb ik geen andere keus. Ik heb geen tijd om een andere oplossing te zoeken. Ik heb al met priesters en sjamanen gesproken, en geen van hen kon me helpen.$B$BLaten we hopen dat de Earthmother over mijn geest waakt.",
+      "g": [
+        [
+          "alchemisten",
+          "alchemists (alchemist)"
+        ],
+        [
+          "geneesmiddel",
+          "cure, medicine"
+        ],
+        [
+          "allesbehalve",
+          "anything but"
+        ],
+        [
+          "getroffen",
+          "struck, hit (treffen)"
+        ],
+        [
+          "verscheurt",
+          "tears apart (verscheuren)"
+        ],
+        [
+          "behulpzaam",
+          "helpful, accommodating"
+        ],
+        [
+          "verontrustend",
+          "disturbingly, worrying"
+        ],
+        [
+          "oplossing",
+          "solution"
+        ],
+        [
+          "sjamanen",
+          "shamans (sjamaan)"
+        ],
+        [
+          "waakt",
+          "watches over (waken)"
+        ]
+      ]
+    },
+    "3570": {
+      "t": "Sijpelend verderf",
+      "p": "Je weet waar dit heen gaat, hè, $N? Ze kan dit onmogelijk overleven... kijk naar haar. Het beste wat ze nu kan doen, is ons helpen een geneesmiddel tegen de pest te vinden. Het water dat ze heeft gedronken, bevat misschien een aanwijzing die ons laat zien hoe. Ze gaat toch dood. Dan kan ze net zo goed eerst iets nobels voor ons volk doen. Vind je ook niet?",
+      "c": "Ik had nooit gedacht dat het elixer zo snel zou werken. Dank je, $N. Ik ga meteen aan de slag met de rest van deze monsters. Ik weet zeker dat Lady Sylvanas en de Forsaken ze snel genoeg kunnen gebruiken.",
+      "g": [
+        [
+          "onmogelijk",
+          "impossibly, no way"
+        ],
+        [
+          "overleven",
+          "to survive"
+        ],
+        [
+          "geneesmiddel",
+          "cure, medicine"
+        ],
+        [
+          "pest",
+          "plague"
+        ],
+        [
+          "bevat",
+          "contains (bevatten)"
+        ],
+        [
+          "aanwijzing",
+          "clue"
+        ],
+        [
+          "net zo goed",
+          "might as well"
+        ],
+        [
+          "nobels",
+          "something noble (nobel)"
+        ],
+        [
+          "elixer",
+          "elixir"
+        ],
+        [
+          "aan de slag",
+          "to get to work"
+        ],
+        [
+          "monsters",
+          "samples (monster)"
+        ]
+      ]
+    },
+    "4293": {
+      "t": "Een monster slijm...",
+      "d": "Felwood is een bos ver ten noorden van de Barrens, nog verder dan Ashenvale. Daar vind je overal slijmen rond waterpoelen die door de aanraking van Fel zijn gezegend. De Scourge verwoestte het gebied met aanvallen van Infernals en andere demonische magie. Volgens de verhalen kropen de slijmen tijdens die aanvallen omhoog door de aarde.$B$BVerzamel monsters van de slijmen in Felwood. Met de testapparatuur naast me maken we dan een controlegroep voor onze tests met andere monsters die je verzamelt.",
+      "o": "Verzamel Felwood Slime Samples van slijmen in Felwood. Gebruik daarna de Testing Equipment naast Chemist Fuely in Undercity om te zien welke monsters het meest verdorven zijn. Breng 5 Corrupted Felwood Samples die je vindt naar Chemist Fuely.",
+      "p": "Ik heb minstens vijf verdorven monsters nodig voor onze controlegroep, $N. Blijf slijmmonsters uit Felwood verzamelen tot je me kunt geven wat we nodig hebben. Lady Sylvanas beveelt het...",
+      "c": "Ah, uitstekend. Deze monsters zijn prima. Dank je voor je hulp.$B$BAls we alle slijmmonsters hebben verzameld, kunnen we meer vaststellen. Ik begin te vermoeden dat het voorgevoel van Lady Sylvanas niet alleen klopte, maar zelfs scherper was dan ze zelf had kunnen voorspellen. Deze monsters zijn heel interessant. Als ik zie hoe ze met mijn verbindingen hebben gereageerd... hmm, ja, we moeten dit zeker verder onderzoeken.",
+      "g": [
+        [
+          "slijmen",
+          "slimes (slijm)"
+        ],
+        [
+          "waterpoelen",
+          "pools of water (waterpoel)"
+        ],
+        [
+          "aanraking",
+          "touch"
+        ],
+        [
+          "gezegend",
+          "blessed (zegenen)"
+        ],
+        [
+          "verwoestte",
+          "devastated (verwoesten)"
+        ],
+        [
+          "kropen",
+          "crept (kruipen)"
+        ],
+        [
+          "testapparatuur",
+          "testing equipment"
+        ],
+        [
+          "controlegroep",
+          "control group"
+        ],
+        [
+          "verdorven",
+          "corrupt, corrupted"
+        ],
+        [
+          "beveelt",
+          "commands, decrees (bevelen)"
+        ],
+        [
+          "vaststellen",
+          "to determine"
+        ],
+        [
+          "vermoeden",
+          "to suspect"
+        ],
+        [
+          "voorgevoel",
+          "hunch"
+        ],
+        [
+          "verbindingen",
+          "compounds (verbinding)"
+        ]
+      ]
+    },
+    "4561": {
+      "t": "Testen op onzuiverheden - Un'Goro Crater",
+      "p": "Je neemt een slijmmonster uit Un'Goro Crater en doet een deel ervan in de verschillende buisjes en bekers op de tafel. Alles begint te koken en te spuiten, en het slijm verandert van kleur. Als het proces langzamer gaat en de vloeistoffen tot rust komen, zie je een klein petrischaaltje met je gezuiverde slijmmonsters uit Un'Goro, samen met wat andere resten.",
+      "c": "Je pakt het petrischaaltje met het slijmmonster op. De enige manier om te zien of de monsters zuiver genoeg zijn, is het openmaken en de inhoud zelf onderzoeken. Hopelijk vind je een monster dat voldoet aan de eisen van Chemist Fuely.",
+      "g": [
+        [
+          "onzuiverheden",
+          "impurities (onzuiverheid)"
+        ],
+        [
+          "buisjes",
+          "tubes (buisje)"
+        ],
+        [
+          "bekers",
+          "beakers (beker)"
+        ],
+        [
+          "spuiten",
+          "to spurt"
+        ],
+        [
+          "vloeistoffen",
+          "liquids (vloeistof)"
+        ],
+        [
+          "petrischaaltje",
+          "petri dish"
+        ],
+        [
+          "gezuiverde",
+          "purified (zuiveren)"
+        ],
+        [
+          "resten",
+          "remnants (rest)"
+        ],
+        [
+          "inhoud",
+          "contents"
+        ],
+        [
+          "voldoet aan",
+          "meets, fits (voldoen aan)"
+        ],
+        [
+          "eisen",
+          "criteria, requirements (eis)"
+        ]
+      ]
+    },
+    "4661": {
+      "t": "Testen op verderf - Felwood",
+      "p": "Je neemt een slijmmonster uit Felwood en doet een deel ervan in de verschillende buisjes en bekers op de tafel. Alles begint te koken en te spuiten, en het slijm verandert van kleur. Als het proces langzamer gaat en de vloeistoffen tot rust komen, zie je een klein petrischaaltje met je veranderde slijmmonsters uit Felwood, samen met wat andere resten.",
+      "c": "Je pakt het petrischaaltje met het slijmmonster op. De enige manier om te zien of de monsters zuiver genoeg zijn, is het openmaken en de inhoud zelf onderzoeken. Hopelijk vind je een monster dat voldoet aan de eisen van Chemist Fuely.",
+      "g": [
+        [
+          "verderf",
+          "corruption"
+        ],
+        [
+          "buisjes",
+          "tubes (buisje)"
+        ],
+        [
+          "bekers",
+          "beakers (beker)"
+        ],
+        [
+          "spuiten",
+          "to spurt"
+        ],
+        [
+          "vloeistoffen",
+          "liquids (vloeistof)"
+        ],
+        [
+          "petrischaaltje",
+          "petri dish"
+        ],
+        [
+          "veranderde",
+          "altered (veranderen)"
+        ],
+        [
+          "resten",
+          "remnants (rest)"
+        ],
+        [
+          "inhoud",
+          "contents"
+        ],
+        [
+          "voldoet aan",
+          "meets, fits (voldoen aan)"
+        ],
+        [
+          "eisen",
+          "criteria, requirements (eis)"
+        ]
+      ]
+    },
+    "5049": {
+      "t": "De blues van Jeremiah",
+      "d": "Volgens het bewijs dat ik kan verzamelen, is de persoon die je zoekt, en voor wie het pakket bedoeld is, Jeremiah Payson, de kakkerlakkenverkoper van Undercity.$B$BIk heb altijd gevonden dat je een speciaal talent nodig hebt om... kakkerlakken te verkopen. Ongetwijfeld ben je nu op een heel epische reis, machtige $c. Ik laat je verder gaan met je daden die de wereld vormen. Laat me echter een deel zijn van je meesterwerk en je vertellen dat hij bij de bank zit, waar hij, heel passend, onder een van de looppaden kruipt.",
+      "o": "Zoek Jeremiah Payson in Undercity en kijk of hij echt Jeremiah Felstone is. Als dat zo is, wil hij misschien het pakket dat Janice Felstone voor hem heeft gemaakt.",
+      "p": "Elke keer dat iemand op een kakkerlak trapt, moet ik huilen. Laat me alsjeblieft niet huilen.",
+      "c": "Die naam heb ik in jaren niet gebruikt... maar ja, ooit in mijn leven, vóór dit heerlijke onleven, was dat mijn achternaam.$b$bJe zegt dat je mijn zus kende... of eigenlijk, dat je kortgeleden met mijn zus hebt gesproken.$b$bDie dood is.$b$bAl vier jaar.$b$bWeet je, als mijn botten niet al zo broos waren, zou ik in de verleiding komen om mijn voet af te breken op je achterwerk. Je bent echt een aasgier, hè?$b$b Wat... heb je een pakket voor me van mijn zus?",
+      "g": [
+        [
+          "bewijs",
+          "evidence"
+        ],
+        [
+          "bedoeld",
+          "intended (bedoelen)"
+        ],
+        [
+          "kakkerlakkenverkoper",
+          "cockroach vendor"
+        ],
+        [
+          "ongetwijfeld",
+          "no doubt"
+        ],
+        [
+          "daden",
+          "deeds, endeavors (daad)"
+        ],
+        [
+          "meesterwerk",
+          "masterpiece, magnum opus"
+        ],
+        [
+          "passend",
+          "fitting, suitably"
+        ],
+        [
+          "looppaden",
+          "walkways (looppad)"
+        ],
+        [
+          "trapt",
+          "steps (trappen)"
+        ],
+        [
+          "onleven",
+          "unlife"
+        ],
+        [
+          "achternaam",
+          "last name"
+        ],
+        [
+          "kortgeleden",
+          "recently"
+        ],
+        [
+          "broos",
+          "brittle"
+        ],
+        [
+          "in de verleiding komen",
+          "to be tempted"
+        ],
+        [
+          "achterwerk",
+          "posterior, behind"
+        ],
+        [
+          "aasgier",
+          "vulture"
+        ]
+      ]
+    },
+    "1004": {
+      "t": "De nieuwe grens",
+      "d": "Let op, helden!$B$BDe Cenarion Circle zoekt sterke, gezonde mensen die hen willen helpen bij het verkennen van de enorme nieuwe grensgebieden van Kalimdor! Ver ten westen van Tanaris en Gadgetzan ligt een verboden woestenij vol onvoorstelbare gevaren, en de Circle heeft bereidwillige en eervolle vertegenwoordigers nodig die namens hen optreden.$B$BIedereen die interesse heeft, moet een gesprek vragen bij de Cenarion Circle. Spreek met Arch Druid Hamuul Runetotem op de Elder's Rise van Thunder Bluff voor meer informatie!",
+      "o": "Spreek met Arch Druid Hamuul Runetotem op de Elder Rise van Thunder Bluff over de oproep van de Cenarion Circle om de grensgebieden van Kalimdor te verkennen.",
+      "g": [
+        [
+          "grens",
+          "frontier, border"
+        ],
+        [
+          "verkennen",
+          "to explore"
+        ],
+        [
+          "grensgebieden",
+          "frontiers (grensgebied)"
+        ],
+        [
+          "verboden",
+          "forbidden"
+        ],
+        [
+          "woestenij",
+          "wasteland"
+        ],
+        [
+          "onvoorstelbare",
+          "unimaginable (onvoorstelbaar)"
+        ],
+        [
+          "bereidwillige",
+          "willing (bereidwillig)"
+        ],
+        [
+          "eervolle",
+          "honorable (eervol)"
+        ],
+        [
+          "vertegenwoordigers",
+          "representatives, proxies (vertegenwoordiger)"
+        ],
+        [
+          "namens",
+          "on behalf of"
+        ],
+        [
+          "optreden",
+          "to act"
+        ],
+        [
+          "oproep",
+          "call, appeal"
+        ]
+      ]
+    },
+    "4642": {
+      "t": "Het samensmelten van invloeden",
+      "d": "Hier is wat ingesloten slijm, gemaakt van de monsters uit Felwood die je hebt teruggebracht. Neem de houder mee naar Un'Goro Crater en zoek een zuiver slijmwezen... de oersoort is prima. Als je dichtbij genoeg bent, laat je het slijm uit de houder vrij, en dan zien we wat die twee van elkaar vinden.$B$BAls het experiment voorbij is, breng je me een monster van wat er overblijft. Ik wacht hier op je in het Apothecarium.",
+      "o": "Breng een Merged Ooze Sample naar Chemist Fuely in Undercity.",
+      "p": "Hoe gaat het experiment, $N? Ik blijf de monsters bestuderen die je voor me hebt gevonden. Ik begin te begrijpen waarom Lady Sylvanas zo in deze wezens geïnteresseerd is. Als ze echt deel zijn van de Oude Goden, wie weet hoe we dat dan in ons voordeel kunnen gebruiken.",
+      "c": "Oh, voortreffelijk, $N. Dit is echt voortreffelijk.$B$BWat een verhaal. Wie had gedacht dat die twee op zo'n manier met elkaar zouden omgaan... Ik moet meer tijd besteden aan de omgevingsfactoren die deze wezens laten veranderen.$B$BVoorlopig ga ik verder met mijn onderzoek. Misschien spreken we elkaar snel weer. Tot dan wens ik je het beste.",
+      "g": [
+        [
+          "samensmelten",
+          "melding, merging"
+        ],
+        [
+          "invloeden",
+          "influences (invloed)"
+        ],
+        [
+          "ingesloten",
+          "encased (insluiten)"
+        ],
+        [
+          "houder",
+          "case, container"
+        ],
+        [
+          "slijmwezen",
+          "ooze (creature)"
+        ],
+        [
+          "oersoort",
+          "primal variety"
+        ],
+        [
+          "laat ... vrij",
+          "release (vrijlaten)"
+        ],
+        [
+          "overblijft",
+          "is left over (overblijven)"
+        ],
+        [
+          "bestuderen",
+          "to study"
+        ],
+        [
+          "voordeel",
+          "benefit, advantage"
+        ],
+        [
+          "voortreffelijk",
+          "most excellent"
+        ],
+        [
+          "omgaan",
+          "to interact, deal with"
+        ],
+        [
+          "omgevingsfactoren",
+          "environmental factors"
+        ],
+        [
+          "voorlopig",
+          "for now"
+        ]
+      ]
+    },
+    "4294": {
+      "t": "... en een partij slijm",
+      "d": "Heb je gehoord van Un'Goro Crater, $N? Het ligt bij de woestijn van Tanaris, en het is een prachtige plek: weelderig, levendig, vol dieren en planten.$B$BDaar moet je heen. Ik heb gehoord dat de plek helemaal niet is aangetast door handen van buitenaf. Ontdekkingsreizigers beginnen nu pas de geheimen ervan te ontdekken.$B$BIk wil de slijmen of slijmwezens daar testen. Als het waar is dat ze niet verdorven zijn, dan wil ik zien hoe zulke wezens zich hebben ontwikkeld.",
+      "o": "Verzamel Un'Goro Slime Samples van slijmen in Un'Goro Crater. Gebruik daarna de Testing Equipment naast Chemist Fuely in Undercity om te zien welke monsters het zuiverst zijn. Breng 5 Pure Un'Goro Samples die je vindt naar Chemist Fuely.",
+      "p": "Ja, $N? Hoe gaat je zoektocht?",
+      "c": "Echt verbazingwekkend, $N. Un'Goro Crater heeft veel meer geheimen dan ik had verwacht. Ik vraag me af wat we nog meer ontdekken als we verder testen.$B$BGewoon verbazingwekkend... kijk eens hoe zuiver deze monsters zijn. Hmm, ik vraag me af wat het kan betekenen. Ze lijken elementair van aard, maar... ook iets meer. Ze doen me denken aan... aan de Oude Goden. We hebben overal in Azeroth sporen van hen gevonden, en nu vraag ik me af of deze wezens op een of andere manier verwant aan hen zijn.$B$BWe zullen verder moeten testen.",
+      "g": [
+        [
+          "partij",
+          "batch"
+        ],
+        [
+          "weelderig",
+          "lush"
+        ],
+        [
+          "levendig",
+          "vibrant, lively"
+        ],
+        [
+          "aangetast",
+          "tainted, affected (aantasten)"
+        ],
+        [
+          "ontdekkingsreizigers",
+          "explorers (ontdekkingsreiziger)"
+        ],
+        [
+          "verdorven",
+          "corrupt, corrupted"
+        ],
+        [
+          "ontwikkeld",
+          "evolved, developed (ontwikkelen)"
+        ],
+        [
+          "zuiverst",
+          "most pure (zuiver)"
+        ],
+        [
+          "verbazingwekkend",
+          "amazing"
+        ],
+        [
+          "elementair",
+          "elemental"
+        ],
+        [
+          "van aard",
+          "in nature"
+        ],
+        [
+          "sporen",
+          "traces (spoor)"
+        ],
+        [
+          "verwant",
+          "related"
+        ]
+      ]
+    },
+    "5961": {
+      "t": "De kampioen van de Banshee Queen",
+      "d": "Het doet me veel plezier om te zien dat strijders met gevechtservaring zich bij ons aansluiten. Ons aantal groeit elke dag, in grootte en in kracht. Misschien ben je klaar om te laten zien wat je waard bent, $c?$B$BEen van mijn eerste kampioenen was Nathanos, die nu bekendstaat als de Blightcaller. Weinigen in onze rijen zijn zo toegewijd of zo vol kracht.$B$BZoek hem op in de Eastern Plaguelands. Hij woont op de Marris Stead. Soms zwerft hij door de verwoeste woestenij, en dan doodt hij al het tuig van de Scourge en de Alliance dat hij tegenkomt.",
+      "o": "Spreek met Nathanos Blightcaller in de Eastern Plaguelands. Er wordt gezegd dat hij op de Marris Stead is gaan wonen.$b",
+      "c": "De Dark Lady denkt toch zeker niet dat jij het waard bent om haar kampioen te ontmoeten. Je bent hier om mijn honden te voeren, ja? Er kan geen andere reden zijn voor deze onderbreking.",
+      "g": [
+        [
+          "gevechtservaring",
+          "battle experience"
+        ],
+        [
+          "aansluiten",
+          "to join"
+        ],
+        [
+          "wat je waard bent",
+          "your mettle, what you're worth"
+        ],
+        [
+          "kampioenen",
+          "champions (kampioen)"
+        ],
+        [
+          "bekendstaat",
+          "is known (bekendstaan)"
+        ],
+        [
+          "rijen",
+          "ranks (rij)"
+        ],
+        [
+          "toegewijd",
+          "dedicated"
+        ],
+        [
+          "zwerft",
+          "roams (zwerven)"
+        ],
+        [
+          "verwoeste",
+          "decimated, devastated (verwoesten)"
+        ],
+        [
+          "woestenij",
+          "wasteland"
+        ],
+        [
+          "tuig",
+          "filth, scum"
+        ],
+        [
+          "voeren",
+          "to feed"
+        ],
+        [
+          "onderbreking",
+          "interruption"
+        ]
+      ]
+    },
+    "7813": {
+      "t": "Een donatie van wol",
+      "p": "Net als van de meeste andere stoffen zijn onze voorraden zijde lager dan ooit. Onze voorraad is zo, dat we in totaal maar zestig stuks zijde van jou nodig hebben. Met de steun van anderen kunnen we ons doel vast halen.$B$BEen gulle gift zoals zijde, mag ik eraan toevoegen, zou je aanzien in de gemeenschap hier zeker vergroten! Als je de zestig stuks silk cloth bij je hebt en klaar bent om ze te doneren, dan kan ik ze nu van je aannemen.",
+      "c": "Geweldig! Bedankt voor je gulle donatie, $N!",
+      "g": [
+        [
+          "donatie",
+          "donation"
+        ],
+        [
+          "wol",
+          "wool"
+        ],
+        [
+          "stoffen",
+          "fabrics (stof)"
+        ],
+        [
+          "voorraden",
+          "stocks (voorraad)"
+        ],
+        [
+          "zijde",
+          "silk"
+        ],
+        [
+          "steun",
+          "support"
+        ],
+        [
+          "gulle",
+          "generous, benevolent (gul)"
+        ],
+        [
+          "gift",
+          "gift"
+        ],
+        [
+          "toevoegen",
+          "to add"
+        ],
+        [
+          "aanzien",
+          "standing, reputation"
+        ],
+        [
+          "vergroten",
+          "to increase"
+        ],
+        [
+          "doneren",
+          "to donate"
+        ]
+      ]
+    },
+    "7814": {
+      "t": "Een donatie van zijde",
+      "p": "Net als van de meeste andere stoffen zijn onze voorraden zijde lager dan ooit. Onze voorraad is zo, dat we in totaal maar zestig stuks zijde van jou nodig hebben. Met de steun van anderen kunnen we ons doel vast halen.$B$BEen gulle gift zoals zijde, mag ik eraan toevoegen, zou je aanzien in de gemeenschap hier zeker vergroten! Als je de zestig stuks silk cloth bij je hebt en klaar bent om ze te doneren, dan kan ik ze nu van je aannemen.",
+      "c": "Geweldig! Bedankt voor je gulle donatie, $N!",
+      "g": [
+        [
+          "donatie",
+          "donation"
+        ],
+        [
+          "stoffen",
+          "fabrics (stof)"
+        ],
+        [
+          "voorraden",
+          "stocks (voorraad)"
+        ],
+        [
+          "zijde",
+          "silk"
+        ],
+        [
+          "steun",
+          "support"
+        ],
+        [
+          "gulle",
+          "generous, benevolent (gul)"
+        ],
+        [
+          "gift",
+          "gift"
+        ],
+        [
+          "toevoegen",
+          "to add"
+        ],
+        [
+          "aanzien",
+          "standing, reputation"
+        ],
+        [
+          "vergroten",
+          "to increase"
+        ],
+        [
+          "doneren",
+          "to donate"
+        ]
+      ]
+    },
+    "7817": {
+      "t": "Een donatie van mageweave",
+      "p": "De mageweave raakt op, en we kunnen je hulp goed gebruiken om onze voorraden aan te vullen! Omdat we op de hele gemeenschap rekenen, hebben we van jou maar een donatie van 60 stuks mageweave cloth nodig om ons doel te halen. Zo'n gulheid blijft niet onopgemerkt bij de zwarte Lady, dat beloof ik je!$B$BAls je de zestig stuks mageweave cloth bij je hebt en klaar bent om ze te doneren, dan kan ik ze nu van je aannemen.",
+      "c": "Geweldig! Bedankt voor je gulle donatie, $N!",
+      "g": [
+        [
+          "donatie",
+          "donation"
+        ],
+        [
+          "raakt op",
+          "is running low (opraken)"
+        ],
+        [
+          "voorraden",
+          "stocks (voorraad)"
+        ],
+        [
+          "aan te vullen",
+          "to replenish (aanvullen)"
+        ],
+        [
+          "rekenen",
+          "to count on"
+        ],
+        [
+          "gemeenschap",
+          "community"
+        ],
+        [
+          "gulheid",
+          "generosity"
+        ],
+        [
+          "onopgemerkt",
+          "unnoticed"
+        ],
+        [
+          "doneren",
+          "to donate"
+        ],
+        [
+          "gulle",
+          "generous (gul)"
+        ]
+      ]
+    },
+    "7818": {
+      "t": "Een donatie van runecloth",
+      "p": "$n, je hebt enorm veel bijgedragen aan onze stofinzameling. We werken hard om onze voorraden aan te vullen, maar van één soort stof hebben we nog steeds veel te weinig: runecloth. We hebben het echt heel hard nodig, en we hopen dat je ons kunt helpen, net als eerder!$b$bAls je wilt, breng me dan zoveel runecloth als je kunt missen. Eerst nemen we één donatie van zestig aan, en daarna zien we wel verder.",
+      "c": "Fantastisch! Deze worden meteen gebruikt, dat beloof ik je. Nogmaals bedankt voor je hulp! Zonder jou zouden we echt verloren zijn.$b$bNa alle donaties die je hebt gedaan, neem ik graag nog meer runecloth van je aan, als je dat in de toekomst wilt doneren. Kom gewoon even bij me langs, en ik zorg er persoonlijk voor dat je goede daden niet onopgemerkt blijven!",
+      "g": [
+        [
+          "bijgedragen",
+          "contributed (bijdragen)"
+        ],
+        [
+          "stofinzameling",
+          "cloth drive"
+        ],
+        [
+          "voorraden",
+          "reserves, stocks (voorraad)"
+        ],
+        [
+          "aan te vullen",
+          "to replenish (aanvullen)"
+        ],
+        [
+          "missen",
+          "to spare"
+        ],
+        [
+          "donatie",
+          "donation"
+        ],
+        [
+          "verloren",
+          "lost"
+        ],
+        [
+          "doneren",
+          "to donate"
+        ],
+        [
+          "persoonlijk",
+          "personally"
+        ],
+        [
+          "daden",
+          "deeds (daad)"
+        ],
+        [
+          "onopgemerkt",
+          "unnoticed, unrecognized"
+        ]
+      ]
+    },
+    "7819": {
+      "t": "Extra runecloth",
+      "p": "Nogmaals gegroet, $N! We hebben altijd runecloth nodig, en we kunnen extra materiaal altijd gebruiken als je het wilt afstaan. Voor een extra stapel van twintig runecloth zorg ik ervoor dat je erkenning krijgt voor alles wat je blijft doen voor Undercity.$B$BAls je klaar bent om de stapel runecloth in te leveren, neem ik hem aan.",
+      "c": "$N, zonder helden zoals jij die zich voor de stam inzetten, zouden we het zeker zwaar hebben. Bedankt dat je je blijft inzetten!",
+      "g": [
+        [
+          "nogmaals",
+          "once again"
+        ],
+        [
+          "gegroet",
+          "greetings"
+        ],
+        [
+          "materiaal",
+          "resources, material"
+        ],
+        [
+          "afstaan",
+          "to part with"
+        ],
+        [
+          "stapel",
+          "stack"
+        ],
+        [
+          "erkenning",
+          "recognition"
+        ],
+        [
+          "in te leveren",
+          "to hand in (inleveren)"
+        ],
+        [
+          "stam",
+          "tribe"
+        ],
+        [
+          "inzetten",
+          "to work for, put in effort"
+        ],
+        [
+          "het zwaar hebben",
+          "to suffer, have a hard time"
+        ]
+      ]
+    },
+    "7662": {
+      "t": "Nieuwe kodo - blauwgroen",
+      "c": "Breng me je kodo die oud wordt. Dan ruil ik hem voor een kodo uit de nieuwe kudde. De nieuwe kodo is net zo snel als je oude, maar hij ziet er anders uit. Kijk maar naar de grote kodo's hier op het erf. Dan zie je waar je uit kunt kiezen.",
+      "g": [
+        [
+          "blauwgroen",
+          "teal"
+        ],
+        [
+          "ruil",
+          "trade (ruilen)"
+        ],
+        [
+          "kudde",
+          "herd"
+        ],
+        [
+          "net zo snel",
+          "just as fast"
+        ],
+        [
+          "ziet er anders uit",
+          "looks different (eruitzien)"
+        ],
+        [
+          "erf",
+          "yard"
+        ],
+        [
+          "kiezen",
+          "to choose"
+        ]
+      ]
+    },
+    "7663": {
+      "t": "Nieuwe kodo - groen",
+      "c": "Breng me je kodo die oud wordt. Dan ruil ik hem voor een kodo uit de nieuwe kudde. De nieuwe kodo is net zo snel als je oude, maar hij ziet er anders uit. Kijk maar naar de grote kodo's hier op het erf. Dan zie je waar je uit kunt kiezen.",
+      "g": [
+        [
+          "ruil",
+          "trade (ruilen)"
+        ],
+        [
+          "kudde",
+          "herd"
+        ],
+        [
+          "net zo snel",
+          "just as fast"
+        ],
+        [
+          "ziet er anders uit",
+          "looks different (eruitzien)"
+        ],
+        [
+          "erf",
+          "yard"
+        ],
+        [
+          "kiezen",
+          "to choose"
+        ]
+      ]
+    },
+    "768": {
+      "t": "Leer verzamelen",
+      "d": "Gegroet, jongeling. Je ogen glanzen. Ik zie dat je graag terug wilt naar de vlakten om te jagen. Breng eer aan je clan!$B$BIk werk met de huiden van dieren. Ik maak er kleren en harnassen van voor het volk van Thunder Bluff.$B$BJaag op dieren en breng me hun huiden. Dan maak ik iets voor je.",
+      "o": "Breng 12 stuks Light Leather naar Veren Tallstrider in Thunder Bluff.",
+      "p": "Hallo weer. Heb je gejaagd? Heb je huiden voor me?",
+      "c": "Ah, dit zijn heel mooie stukken. Ik maak er goede leren spullen van.$B$BHier, $N. Neem dit in ruil...",
+      "g": [
+        [
+          "leer",
+          "leather"
+        ],
+        [
+          "gegroet",
+          "greetings"
+        ],
+        [
+          "jongeling",
+          "young one"
+        ],
+        [
+          "glanzen",
+          "gleam, shine"
+        ],
+        [
+          "vlakten",
+          "plains (vlakte)"
+        ],
+        [
+          "eer",
+          "honor"
+        ],
+        [
+          "huiden",
+          "skins, hides (huid)"
+        ],
+        [
+          "harnassen",
+          "armor (harnas)"
+        ],
+        [
+          "volk",
+          "people"
+        ],
+        [
+          "leren",
+          "leather (adj.)"
+        ],
+        [
+          "in ruil",
+          "in trade"
+        ]
+      ]
+    },
+    "769": {
+      "t": "De Kodo Hide Bag",
+      "d": "De kodo's van Mulgore zijn sterk en stevig. Dat respecteren we hier erg. Ben je goed in leerbewerking? Wil je leren hoe je een Kodo Hide Bag maakt? Breng me dan spullen voor mijn vak.$B$BDoe dit, dan deel ik mijn kennis met je.",
+      "o": "Breng 4 Light Leather en 4 Coarse Thread naar Veren Tallstrider in Thunder Bluff.",
+      "p": "Heb je mijn spullen, $N?",
+      "c": "Ah, goed. Dank je, $N. Mijn hart is vol trots als ik zie dat jongeren interesse hebben in het vak van leerbewerking.",
+      "g": [
+        [
+          "stevig",
+          "sturdy"
+        ],
+        [
+          "respecteren",
+          "to respect"
+        ],
+        [
+          "leerbewerking",
+          "leatherworking"
+        ],
+        [
+          "spullen",
+          "supplies, things"
+        ],
+        [
+          "vak",
+          "trade, craft"
+        ],
+        [
+          "kennis",
+          "knowledge"
+        ],
+        [
+          "trots",
+          "pride"
+        ],
+        [
+          "jongeren",
+          "young people, youths"
+        ]
+      ]
+    },
+    "744": {
+      "t": "Voorbereiding op de ceremonie",
+      "d": "$N, mijn broer staat binnenkort voor Chief Bloodhoof. Het is een eer voor mij dat ik zijn hoofdtooi mag maken.$B$BIk wil je om een gunst vragen. Ik moet deze leren riemen nog looien. Ik heb geen tijd om genoeg veren te zoeken. Wil jij er meer voor me verzamelen?$B$BVeren van de juiste grootte vind je bij de harpijen. Ze wonen ver ten noorden en noordwesten van Thunder Bluff. Ik heb maar 6 hemelsblauwe en 6 bronzen veren nodig om het ontwerp af te maken.",
+      "o": "Verzamel 6 Azure Feathers en 6 Bronze Feathers en breng ze naar Eyahn Eagletalon in Thunder Bluff.",
+      "p": "Deze hoofdtooi wordt zeker een prachtig cadeau voor mijn broer.",
+      "c": "Dank je voor je hulp, $N.$B$BMijn deel van de ceremonie van mijn broer is bijna klaar. Ik moet hem zijn hoofdtooi geven en de ceremonie bijwonen. Meer hoef ik niet te doen.",
+      "g": [
+        [
+          "voorbereiding",
+          "preparation"
+        ],
+        [
+          "binnenkort",
+          "soon"
+        ],
+        [
+          "hoofdtooi",
+          "headdress"
+        ],
+        [
+          "gunst",
+          "favor"
+        ],
+        [
+          "riemen",
+          "straps (riem)"
+        ],
+        [
+          "looien",
+          "to tan (leather)"
+        ],
+        [
+          "veren",
+          "feathers (veer)"
+        ],
+        [
+          "harpijen",
+          "harpies (harpij)"
+        ],
+        [
+          "hemelsblauwe",
+          "azure, sky blue"
+        ],
+        [
+          "bronzen",
+          "bronze (adj.)"
+        ],
+        [
+          "ontwerp",
+          "design"
+        ],
+        [
+          "bijwonen",
+          "to attend, witness"
+        ]
+      ]
+    },
+    "264": {
+      "t": "Tot de dood ons scheidt",
+      "d": "Smerige schoft! Hij verlaat me voor zijn verdomde kruistocht. Omdat 'het Licht het belangrijkste is wat we hebben tegen het gevaar van de ondoden.'$B$BEn zijn kinderen dan?! En IK dan?! Nacht na nacht zat ik geduldig op hem te wachten... altijd op de tweede plaats na zijn vervloekte plicht!$B$BNou, kijk wat 'gerechtigheid' je brengt, $N! Hij is dood, en ik draag precies het ding dat hij probeerde te stoppen!$B$BNeem dit stuk rommel en leg het op zijn graf bij de Sepulcher. Ik wil er niets meer mee te maken hebben... en met hem ook niet!",
+      "o": "Leg Clarice's Pendant op Yuriv's Tomb in Silverpine.",
+      "p": "De steen voelt koud aan, maar is duidelijk slecht behandeld. Er ligt overal afval. Er zitten krassen en sneden in het reliëf op de doodskist. De planten rond het graf groeien al over de plek heen.$b$bNiemand geeft om wie hier begraven ligt. Zeker niet om slachtoffers van de pest.",
+      "c": "Je legt de waardeloze hanger op het graf. De edelsteen in de zetting wordt duidelijk doffer.$b$bAls je opstaat om weg te gaan, kijk je naar de hanger. Hij ligt levenloos over de handen van het reliëf op de bovenkant van de doodskist. Een harde, koele wind waait over de Sepulcher en onderbreekt je gedachten. Even is alles om je heen stil.",
+      "g": [
+        [
+          "scheidt",
+          "parts, separates (scheiden)"
+        ],
+        [
+          "smerige schoft",
+          "filthy scum"
+        ],
+        [
+          "kruistocht",
+          "crusade"
+        ],
+        [
+          "ondoden",
+          "undead (ondode)"
+        ],
+        [
+          "geduldig",
+          "patiently"
+        ],
+        [
+          "plicht",
+          "duty"
+        ],
+        [
+          "gerechtigheid",
+          "justice"
+        ],
+        [
+          "rommel",
+          "junk"
+        ],
+        [
+          "graf",
+          "grave, tomb"
+        ],
+        [
+          "krassen",
+          "nicks, scratches (kras)"
+        ],
+        [
+          "reliëf",
+          "relief (carving)"
+        ],
+        [
+          "doodskist",
+          "coffin"
+        ],
+        [
+          "slachtoffers",
+          "victims (slachtoffer)"
+        ],
+        [
+          "hanger",
+          "pendant"
+        ],
+        [
+          "doffer",
+          "duller (dof)"
+        ]
+      ]
+    },
+    "1064": {
+      "t": "Hulp van de Forsaken",
+      "d": "De tauren hebben een band met het land. Het doet me pijn om te horen hoe slecht het gaat in Stonetalon. Maar ik ben bang dat we eerst de ziekte moeten weghalen als we het land willen genezen.$B$BHet is dus goed dat de Forsaken onze bondgenoten zijn, toch? Zij weten veel van ziekte. Ik denk dat ze ons kunnen helpen. Zo maken ze ook het vertrouwen tussen onze volken sterker.$B$BSpreek met Apothecary Zamah. Ze is geleerde en gezant van de Forsaken. Je vindt haar in de Pools of Vision onder de Spirit Rise.",
+      "o": "Spreek met Apothecary Zamah in de Pools of Vision in Thunder Bluff.",
+      "c": "Magatha heeft laten weten dat je zou komen, $N. Mijn hart klopt niet meer, maar ik voel nog steeds verdriet om de geesten van Stonetalon.$B$BDe Forsaken willen graag helpen zoveel we kunnen.",
+      "g": [
+        [
+          "band",
+          "bond"
+        ],
+        [
+          "genezen",
+          "to heal"
+        ],
+        [
+          "bondgenoten",
+          "allies (bondgenoot)"
+        ],
+        [
+          "vertrouwen",
+          "trust"
+        ],
+        [
+          "volken",
+          "peoples (volk)"
+        ],
+        [
+          "geleerde",
+          "scholar"
+        ],
+        [
+          "gezant",
+          "emissary"
+        ],
+        [
+          "klopt",
+          "beats (kloppen)"
+        ],
+        [
+          "verdriet",
+          "sorrow"
+        ],
+        [
+          "geesten",
+          "spirits (geest)"
+        ]
+      ]
+    },
+    "1065": {
+      "t": "Reis naar Tarren Mill",
+      "d": "We moeten de Venture Company uit Stonetalon weghalen. Daarvoor zijn extreme maatregelen nodig. Extreem, maar zonder bloedvergieten.$B$BEen collega van mij heeft misschien precies wat we nodig hebben. Hij heet Lydon. Hij woont in het dorp Tarren Mill in de Hillsbrad Foothills, in het verre land Lordaeron.$B$BOm in Hillsbrad te komen, neem je de zeppelin naar onze hoofdstad, Undercity. Ga dan naar het noorden naar Tirisfal Glades, naar het zuidwesten naar Silverpine en naar het zuiden naar Hillsbrad.$B$BZoek Lydon en breng hem deze brief. Daarin staat wat we nodig hebben.",
+      "o": "Breng Zamah's Note naar Apothecary Lydon in Tarren Mill.",
+      "p": "Ah, kom je mijn nieuwe proefpersonen brengen?",
+      "c": "Een brief van Zamah? Ze heeft vast veel nodig als ze van zo ver een bericht stuurt. Eens kijken wat ze zegt...$b$bAh, prachtig! Ik weet precies wat ik moet doen!",
+      "g": [
+        [
+          "maatregelen",
+          "measures (maatregel)"
+        ],
+        [
+          "bloedvergieten",
+          "bloodshed"
+        ],
+        [
+          "collega",
+          "colleague"
+        ],
+        [
+          "verre",
+          "distant (ver)"
+        ],
+        [
+          "hoofdstad",
+          "capital"
+        ],
+        [
+          "proefpersonen",
+          "test subjects (proefpersoon)"
+        ],
+        [
+          "bericht",
+          "message, word"
+        ],
+        [
+          "prachtig",
+          "splendid"
+        ]
+      ]
+    },
+    "742": {
+      "t": "De jacht in Ashenvale",
+      "d": "Let op, jonge avonturiers! De wildernis van Ashenvale wacht op jullie!$B$BDe Horde is sterk aanwezig in de landen ten noorden van de Barrens. Onze twee buitenposten, Splintertree Post en de Zoram Strand Outpost, werken hard om eer te brengen aan de Horde! Wie zich wil bewijzen, kan daar hulp zoeken. Belangrijk: Senani Thunderheart in Splintertree Post, recht ten noorden van de Barrens, zoekt avonturiers die mee willen doen aan een grote jacht in Ashenvale!",
+      "o": "Spreek met Senani Thunderheart in Splintertree Post, Ashenvale.",
+      "c": "Welkom aan de nieuwe grens, $N. Ashenvale is een land vol kansen. Een jonge $c zoals jij kan hier eindeloos veel kansen vinden om te laten zien wat je waard bent. Kijk rond in deze buitenpost. En ga zeker ook naar de Zoram Strand, want de Horde heeft daar nog een buitenpost.$B$BJe bent hier, dus je wilt meer weten over de jacht. Luister goed, dan vertel ik je graag wat je moet weten.",
+      "g": [
+        [
+          "jacht",
+          "hunt"
+        ],
+        [
+          "avonturiers",
+          "adventurers (avonturier)"
+        ],
+        [
+          "wildernis",
+          "wilds, wilderness"
+        ],
+        [
+          "aanwezig",
+          "present"
+        ],
+        [
+          "buitenposten",
+          "outposts (buitenpost)"
+        ],
+        [
+          "eer",
+          "glory, honor"
+        ],
+        [
+          "bewijzen",
+          "to prove"
+        ],
+        [
+          "recht",
+          "directly, straight"
+        ],
+        [
+          "grens",
+          "frontier"
+        ],
+        [
+          "kansen",
+          "opportunities, chances (kans)"
+        ],
+        [
+          "eindeloos",
+          "boundless, endless"
+        ]
+      ]
+    },
+    "1066": {
+      "t": "Bloed van onschuldigen",
+      "d": "Ik maak een gif dat het geweld uit de Venture Company laat wegvloeien. Daardoor worden ze zwak en tam. Dat lost het probleem van de Horde in Stonetalon toch op?$B$BMaar om het gif te maken, heb ik het bloed van onschuldigen nodig. Dat is een moeilijk ingrediënt om te krijgen.$B$BGelukkig heeft het Syndicate, een groep menselijke rovers in dit gebied, schaduwmagiërs in dienst... en die magiërs verzamelen onschuldig bloed voor hun eigen, duistere doelen.$B$BJe vindt de schaduwmagiërs van het Syndicate in Durnholde Keep, in het zuidoosten.",
+      "o": "Breng 5 Vials of Innocent Blood naar Apothecary Lydon in Tarren Mill.",
+      "p": "Heb je de Syndicate Shadow Mages gevonden, en hun het bloed afgepakt?",
+      "c": "Heel goed! Het Syndicate heeft je vast weinig problemen bezorgd?$B$BZoals ik al zei, is het bloed van onschuldigen niet makkelijk te krijgen. We hebben geluk dat de schaduwmagiërs van het Syndicate het moeilijke werk voor ons hebben gedaan.$B$BWacht even, dan maak ik mijn brouwsel...",
+      "g": [
+        [
+          "onschuldigen",
+          "innocents (onschuldige)"
+        ],
+        [
+          "gif",
+          "toxin, poison"
+        ],
+        [
+          "geweld",
+          "violence"
+        ],
+        [
+          "wegvloeien",
+          "to drain, bleed away"
+        ],
+        [
+          "tam",
+          "docile, tame"
+        ],
+        [
+          "ingrediënt",
+          "ingredient"
+        ],
+        [
+          "rovers",
+          "brigands (rover)"
+        ],
+        [
+          "schaduwmagiërs",
+          "shadow mages (schaduwmagiër)"
+        ],
+        [
+          "in dienst",
+          "employed"
+        ],
+        [
+          "duistere",
+          "unsavory, dark (duister)"
+        ],
+        [
+          "afgepakt",
+          "taken (afpakken)"
+        ],
+        [
+          "bezorgd",
+          "caused, given (bezorgen)"
+        ],
+        [
+          "brouwsel",
+          "concoction, brew"
+        ]
+      ]
+    },
+    "1067": {
+      "t": "Terug naar Thunder Bluff",
+      "d": "Hier is het gif. Als je het tegen de Venture Company gebruikt, krijg je goede resultaten, misschien zelfs besmettelijke. Ik moet zeggen, het is heel spannend om mijn werk in de praktijk te zien!$B$BMaar voordat je het gebruikt, breng je het naar Apothecary Zamah. Zij moet een manier bedenken om het gif af te leveren, zodat het zo goed mogelijk werkt.",
+      "o": "Breng Lydon's Toxin naar Apothecary Zamah in Thunder Bluff.",
+      "p": "Je bent terug, $N. Breng je hulp van Apothecary Lydon?",
+      "c": "Een gif van Apothecary Lydon? Heel goed. Als ik Lydon goed ken, werkt dit gif heel goed tegen de Venture Company...",
+      "g": [
+        [
+          "gif",
+          "toxin, poison"
+        ],
+        [
+          "resultaten",
+          "results (resultaat)"
+        ],
+        [
+          "besmettelijke",
+          "contagious (besmettelijk)"
+        ],
+        [
+          "spannend",
+          "exciting"
+        ],
+        [
+          "in de praktijk",
+          "in the field, in practice"
+        ],
+        [
+          "bedenken",
+          "to come up with"
+        ],
+        [
+          "af te leveren",
+          "to deliver (afleveren)"
+        ],
+        [
+          "zo goed mogelijk",
+          "as well as possible"
+        ]
+      ]
+    },
+    "1086": {
+      "t": "De luchthaven van de vliegmachines",
+      "d": "Het gif is klaar. Het moet alleen nog worden afgeleverd. Jij, $N, moet dat doen.$B$BDe Venture Company moet een manier hebben om berichten en lichte vracht te sturen tussen het hoofdkwartier en hun werk in Stonetalon. Het is waarschijnlijk een kleine luchthaven. Niet groot genoeg voor een zeppelin, maar misschien wel voor een vliegmachine. Doorzoek de gebieden in Stonetalon die de Venture Company in handen heeft, en vind deze luchthaven, als die bestaat. Als je hem vindt, zet het gif daar neer.$B$BZet het neer, en ren.",
+      "o": "Breng de Toxic Fogger naar de luchthaven van de Venture Co. en keer dan terug naar Apothecary Zamah.",
+      "p": "Je moet de luchthaven van de Venture Company vinden, als die bestaat, $N.",
+      "c": "Heb je de haven gevonden? Goed gedaan, $N! De goblins waren vast erg verrast door je levering! Laten we hopen dat het gif zijn weg vindt naar hun hoofdkwartier.$B$BJe hebt je volk goed gediend. Ik raad je aan om je niet schuldig te voelen omdat je de Venture Company hebt vergiftigd. Ze verdienen veel erger.$B$BEn als de Forsaken hun bondgenoten één wijze les kunnen leren, dan is het deze:$B$BWees niet bang voor duistere paden... als die paden naar de overwinning leiden.",
+      "e": "Zet de Toxic Fogger neer",
+      "g": [
+        [
+          "luchthaven",
+          "airport, sky port"
+        ],
+        [
+          "vliegmachines",
+          "flying machines (vliegmachine)"
+        ],
+        [
+          "afgeleverd",
+          "delivered (afleveren)"
+        ],
+        [
+          "vracht",
+          "cargo"
+        ],
+        [
+          "hoofdkwartier",
+          "headquarters"
+        ],
+        [
+          "doorzoek",
+          "search (doorzoeken)"
+        ],
+        [
+          "in handen",
+          "under control"
+        ],
+        [
+          "levering",
+          "delivery"
+        ],
+        [
+          "gediend",
+          "served (dienen)"
+        ],
+        [
+          "schuldig",
+          "guilty"
+        ],
+        [
+          "vergiftigd",
+          "poisoned (vergiftigen)"
+        ],
+        [
+          "bondgenoten",
+          "allies (bondgenoot)"
+        ],
+        [
+          "paden",
+          "paths (pad)"
+        ],
+        [
+          "overwinning",
+          "victory"
+        ]
+      ]
+    },
+    "1195": {
+      "t": "De heilige vlam",
+      "d": "De centauren van de Galak in de Thousand Needles beschermen een artefact uit de tijd waarin de centauren werden geschapen.$b$bWe willen het graag terughalen, maar daarvoor hebben we een flesje water uit een van de maanbronnen van de nachtelfen nodig.$b$bOm het water te halen, moet je eerst een van de flesjes krijgen die de dryaden bij de Raynewood Retreat dragen, in het hart van Ashenvale Forest. Bij de westelijke oever van de Falfarren River, ten zuiden van de hoofdweg, ligt een maanbron waar je het flesje kunt vullen.",
+      "o": "Breng een Filled Etched Phial terug naar Zangen Stonehoof in Thunder Bluff.",
+      "p": "Als we het gevulde flesje hebben, kunnen we het naar mijn collega Rau in de Thousand Needles sturen. Hij vroeg om het flesje water, dus hij weet beter hoe we het kunnen gebruiken.",
+      "c": "Heel goed. Hiermee is het verzoek van Rau prima vervuld. Kun je dit naar hem brengen? Misschien vind je het leuk om wat tijd in de Needles door te brengen.",
+      "g": [
+        [
+          "heilige",
+          "sacred, holy (heilig)"
+        ],
+        [
+          "vlam",
+          "flame"
+        ],
+        [
+          "centauren",
+          "centaurs (centaur)"
+        ],
+        [
+          "artefact",
+          "artifact"
+        ],
+        [
+          "geschapen",
+          "created (scheppen)"
+        ],
+        [
+          "flesje",
+          "phial, small bottle"
+        ],
+        [
+          "maanbronnen",
+          "moonwells (maanbron)"
+        ],
+        [
+          "nachtelfen",
+          "night elves (nachtelf)"
+        ],
+        [
+          "dryaden",
+          "dryads (dryade)"
+        ],
+        [
+          "oever",
+          "bank, shore"
+        ],
+        [
+          "verzoek",
+          "request"
+        ],
+        [
+          "vervuld",
+          "fulfilled (vervullen)"
+        ]
+      ]
+    },
+    "1196": {
+      "t": "De heilige vlam",
+      "d": "Breng het gevulde flesje naar Rau Cliffrunner in de Freewind Post, in het zuidoosten van de Thousand Needles. Je komt in de Thousand Needles met de Great Lift, aan de zuidrand van de Barrens.$b$bHet zou me niet verbazen als je ons nog verder kunt helpen.",
+      "o": "Breng de Filled Etched Phial naar Rau Cliffrunner in de Freewind Post.",
+      "p": "Zangen heeft je zeker niet gestuurd, hm?",
+      "c": "Hm, ja, dit flesje water is precies wat we nodig hebben. De dryaden en de centauren hebben dezelfde voorouders. Daarom kunnen we met het water van de maanbronnen door de bescherming breken van de eeuwige vlam rond het relikwie van de centauren.",
+      "g": [
+        [
+          "gevulde",
+          "filled (vullen)"
+        ],
+        [
+          "flesje",
+          "phial, small bottle"
+        ],
+        [
+          "zuidrand",
+          "southern edge"
+        ],
+        [
+          "verbazen",
+          "to surprise"
+        ],
+        [
+          "dryaden",
+          "dryads (dryade)"
+        ],
+        [
+          "voorouders",
+          "ancestors (voorouder)"
+        ],
+        [
+          "maanbronnen",
+          "moonwells (maanbron)"
+        ],
+        [
+          "bescherming",
+          "protection"
+        ],
+        [
+          "eeuwige",
+          "eternal (eeuwig)"
+        ],
+        [
+          "relikwie",
+          "relic"
+        ]
+      ]
+    }
+  },
+  "words": {
+    "afval": "trash, litter",
+    "besteden": "to spend (time)",
+    "buitenaf": "outside (van buitenaf = from outside)",
+    "ceremonie": "ceremony",
+    "epische": "epic (episch)",
+    "extreem": "extreme",
+    "extreme": "extreme (extreem)",
+    "gereageerd": "reacted (reageren)",
+    "hoofdweg": "main road",
+    "kakkerlak": "cockroach",
+    "kakkerlakken": "cockroaches (kakkerlak)",
+    "langzamer": "slower (langzaam)",
+    "levenloos": "lifeless",
+    "onderbreekt": "interrupts (onderbreken)",
+    "opstaat": "stands up (opstaan)",
+    "praktijk": "practice",
+    "scherper": "sharper, more insightful (scherp)",
+    "slijmwezens": "oozes (slijmwezen)",
+    "verleiding": "temptation",
+    "vliegmachine": "flying machine",
+    "voldoet": "meets, satisfies (voldoen)",
+    "voorspellen": "to predict",
+    "blues": "blues (music, sad mood)"
+  },
+  "terms": {}
+}
