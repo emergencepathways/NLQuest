@@ -155,6 +155,7 @@ Data\Batch_87_Ironforge.lua
 Data\Batch_103_Naxxramas.lua
 Data\Batch_88_Ahn_Qiraj_War.lua
 Data\Batch_89_Ahn_Qiraj_War.lua
+Data\Batch_90_Arathi_Basin.lua
 
 Display.lua
 Reader.lua
