@@ -1,0 +1,1705 @@
+{
+ "quests": {
+  "9090": {
+   "t": "Dreamwalker-laarzen",
+   "d": "Veel helden zijn gevallen in de laatste oorlog. En tot op de dag van vandaag komen er nog steeds velen om door de Scourge. Van de lijken van de gevallenen wordt de wapenrusting afgehaald. Die wordt naar Naxxramas gebracht, voor onbekende doeleinden.$B$BHaal de ontheiligde wapenrusting en de door oorlog gehavende stukken wapenrusting terug. Breng me ook de andere materialen die ik nodig heb, dan maak ik Dreamwalker-wapenrusting.",
+   "o": "Rayne in Light's Hope Chapel in de Eastern Plaguelands maakt Dreamwalker Boots voor je als je haar het volgende brengt: 1 Desecrated Boots, 12 Wartorn Leather Scraps, 3 Mooncloth en 2 Cured Rugged Hides.",
+   "p": "De materialen kosten veel, maar dat ben je snel vergeten.",
+   "c": "Je Dreamwalker Boots zijn klaar, $N.",
+   "g": [
+    [
+     "komen om",
+     "die, perish (omkomen)"
+    ],
+    [
+     "lijken",
+     "corpses (lijk)"
+    ],
+    [
+     "gevallenen",
+     "the fallen"
+    ],
+    [
+     "wapenrusting",
+     "armour"
+    ],
+    [
+     "afgehaald",
+     "stripped, taken off (afhalen)"
+    ],
+    [
+     "doeleinden",
+     "purposes (doeleinde)"
+    ],
+    [
+     "ontheiligde",
+     "desecrated (ontheiligen)"
+    ],
+    [
+     "gehavende",
+     "battered, worn (gehavend)"
+    ],
+    [
+     "materialen",
+     "materials (materiaal)"
+    ]
+   ]
+  },
+  "9091": {
+   "t": "Dreamwalker-handbeschermers",
+   "d": "Veel helden zijn gevallen in de laatste oorlog. En tot op de dag van vandaag komen er nog steeds velen om door de Scourge. Van de lijken van de gevallenen wordt de wapenrusting afgehaald. Die wordt naar Naxxramas gebracht, voor onbekende doeleinden.$B$BHaal de ontheiligde wapenrusting en de door oorlog gehavende stukken wapenrusting terug. Breng me ook de andere materialen die ik nodig heb, dan maak ik Dreamwalker-wapenrusting.",
+   "o": "Rayne in Light's Hope Chapel in de Eastern Plaguelands maakt Dreamwalker Handguards voor je als je haar het volgende brengt: 1 Desecrated Handguards, 8 Wartorn Leather Scraps, 5 Cured Rugged Hides en 1 Nexus Crystal.",
+   "p": "De materialen kosten veel, maar dat ben je snel vergeten.",
+   "c": "Je Dreamwalker Handguards zijn klaar, $N.",
+   "g": [
+    [
+     "komen om",
+     "die, perish (omkomen)"
+    ],
+    [
+     "lijken",
+     "corpses (lijk)"
+    ],
+    [
+     "gevallenen",
+     "the fallen"
+    ],
+    [
+     "wapenrusting",
+     "armour"
+    ],
+    [
+     "afgehaald",
+     "stripped, taken off (afhalen)"
+    ],
+    [
+     "doeleinden",
+     "purposes (doeleinde)"
+    ],
+    [
+     "ontheiligde",
+     "desecrated (ontheiligen)"
+    ],
+    [
+     "gehavende",
+     "battered, worn (gehavend)"
+    ],
+    [
+     "materialen",
+     "materials (materiaal)"
+    ]
+   ]
+  },
+  "9092": {
+   "t": "Dreamwalker-gordel",
+   "d": "Veel helden zijn gevallen in de laatste oorlog. En tot op de dag van vandaag komen er nog steeds velen om door de Scourge. Van de lijken van de gevallenen wordt de wapenrusting afgehaald. Die wordt naar Naxxramas gebracht, voor onbekende doeleinden.$B$BHaal de ontheiligde wapenrusting en de door oorlog gehavende stukken wapenrusting terug. Breng me ook de andere materialen die ik nodig heb, dan maak ik Dreamwalker-wapenrusting.",
+   "o": "Rayne in Light's Hope Chapel in de Eastern Plaguelands maakt een Dreamwalker Girdle voor je als je haar het volgende brengt: 1 Desecrated Girdle, 8 Wartorn Leather Scraps, 3 Mooncloth en 2 Cured Rugged Hides.",
+   "p": "De materialen kosten veel, maar dat ben je snel vergeten.",
+   "c": "Je Dreamwalker Girdle is klaar, $N.",
+   "g": [
+    [
+     "komen om",
+     "die, perish (omkomen)"
+    ],
+    [
+     "lijken",
+     "corpses (lijk)"
+    ],
+    [
+     "gevallenen",
+     "the fallen"
+    ],
+    [
+     "wapenrusting",
+     "armour"
+    ],
+    [
+     "afgehaald",
+     "stripped, taken off (afhalen)"
+    ],
+    [
+     "doeleinden",
+     "purposes (doeleinde)"
+    ],
+    [
+     "ontheiligde",
+     "desecrated (ontheiligen)"
+    ],
+    [
+     "gehavende",
+     "battered, worn (gehavend)"
+    ],
+    [
+     "materialen",
+     "materials (materiaal)"
+    ]
+   ]
+  },
+  "9093": {
+   "t": "Dreamwalker-polsbeschermers",
+   "d": "Veel helden zijn gevallen in de laatste oorlog. En tot op de dag van vandaag komen er nog steeds velen om door de Scourge. Van de lijken van de gevallenen wordt de wapenrusting afgehaald. Die wordt naar Naxxramas gebracht, voor onbekende doeleinden.$B$BHaal de ontheiligde wapenrusting en de door oorlog gehavende stukken wapenrusting terug. Breng me ook de andere materialen die ik nodig heb, dan maak ik Dreamwalker-wapenrusting.",
+   "o": "Rayne in Light's Hope Chapel in de Eastern Plaguelands maakt Dreamwalker Wristguards voor je als je haar het volgende brengt: 1 Desecrated Wristguards, 6 Wartorn Leather Scraps, 1 Arcane Crystal en 2 Cured Rugged Hides.",
+   "p": "De materialen kosten veel, maar dat ben je snel vergeten.",
+   "c": "Je Dreamwalker Wristguards zijn klaar, $N.",
+   "g": [
+    [
+     "komen om",
+     "die, perish (omkomen)"
+    ],
+    [
+     "lijken",
+     "corpses (lijk)"
+    ],
+    [
+     "gevallenen",
+     "the fallen"
+    ],
+    [
+     "wapenrusting",
+     "armour"
+    ],
+    [
+     "afgehaald",
+     "stripped, taken off (afhalen)"
+    ],
+    [
+     "doeleinden",
+     "purposes (doeleinde)"
+    ],
+    [
+     "ontheiligde",
+     "desecrated (ontheiligen)"
+    ],
+    [
+     "gehavende",
+     "battered, worn (gehavend)"
+    ],
+    [
+     "materialen",
+     "materials (materiaal)"
+    ]
+   ]
+  },
+  "9095": {
+   "t": "Frostfire-gewaad",
+   "d": "Als Watcher mocht ik veel persoonlijke bezittingen van Medivh bekijken. Van al die spullen vond ik de boeken het leerzaamst. De meeste boeken stonden vol met – eerlijk gezegd – onzin, maar er zaten ook een paar pareltjes tussen. Een van die boeken beschreef hoe je een wapenrusting maakt die past bij een aartsmagiër: Frostfire.$B$B<Angela wijst naar haar hoofd.>$B$BHet zit allemaal hierin. Ik wil de vruchten van die kennis graag met je delen, zolang je mij de nodige materialen kunt brengen.",
+   "o": "Archmage Angela Dosantos in Light's Hope Chapel in de Eastern Plaguelands maakt een Frostfire Robe voor je als je haar het volgende brengt: 1 Desecrated Robe, 25 Wartorn Cloth Scraps, 4 Mooncloth en 2 Nexus Crystals.",
+   "p": "Je mist nog een paar onderdelen voor deze opdracht. Ga ze allemaal halen!",
+   "c": "Uitstekend, $N!$BJe hebt alles gebracht, precies zoals ik vroeg. Nu kan ik een Frostfire Robe maken.",
+   "g": [
+    [
+     "bezittingen",
+     "belongings, effects (bezitting)"
+    ],
+    [
+     "leerzaamst",
+     "most instructive (leerzaam)"
+    ],
+    [
+     "eerlijk gezegd",
+     "to put it bluntly, honestly"
+    ],
+    [
+     "onzin",
+     "nonsense, tripe"
+    ],
+    [
+     "pareltjes",
+     "gems, little pearls (pareltje)"
+    ],
+    [
+     "beschreef",
+     "described (beschrijven)"
+    ],
+    [
+     "aartsmagiër",
+     "archmage"
+    ],
+    [
+     "vruchten",
+     "fruits (vrucht)"
+    ],
+    [
+     "kennis",
+     "knowledge"
+    ],
+    [
+     "nodige",
+     "necessary (nodig)"
+    ],
+    [
+     "onderdelen",
+     "parts (onderdeel)"
+    ],
+    [
+     "Uitstekend",
+     "excellent"
+    ]
+   ]
+  },
+  "9096": {
+   "t": "Frostfire-broek",
+   "d": "Als Watcher mocht ik veel persoonlijke bezittingen van Medivh bekijken. Van al die spullen vond ik de boeken het leerzaamst. De meeste boeken stonden vol met – eerlijk gezegd – onzin, maar er zaten ook een paar pareltjes tussen. Een van die boeken beschreef hoe je een wapenrusting maakt die past bij een aartsmagiër: Frostfire.$B$B<Angela wijst naar haar hoofd.>$B$BHet zit allemaal hierin. Ik wil de vruchten van die kennis graag met je delen, zolang je mij de nodige materialen kunt brengen.",
+   "o": "Archmage Angela Dosantos in Light's Hope Chapel in de Eastern Plaguelands maakt Frostfire Leggings voor je als je haar het volgende brengt: 1 Desecrated Leggings, 20 Wartorn Cloth Scraps, 4 Mooncloth en 2 Nexus Crystals.",
+   "p": "Je mist nog een paar onderdelen voor deze opdracht. Ga ze allemaal halen!",
+   "c": "Uitstekend, $N!$BJe hebt alles gebracht, precies zoals ik vroeg. Nu kan ik Frostfire Leggings maken.",
+   "g": [
+    [
+     "bezittingen",
+     "belongings, effects (bezitting)"
+    ],
+    [
+     "leerzaamst",
+     "most instructive (leerzaam)"
+    ],
+    [
+     "eerlijk gezegd",
+     "to put it bluntly, honestly"
+    ],
+    [
+     "onzin",
+     "nonsense, tripe"
+    ],
+    [
+     "pareltjes",
+     "gems, little pearls (pareltje)"
+    ],
+    [
+     "beschreef",
+     "described (beschrijven)"
+    ],
+    [
+     "aartsmagiër",
+     "archmage"
+    ],
+    [
+     "vruchten",
+     "fruits (vrucht)"
+    ],
+    [
+     "kennis",
+     "knowledge"
+    ],
+    [
+     "nodige",
+     "necessary (nodig)"
+    ],
+    [
+     "onderdelen",
+     "parts (onderdeel)"
+    ],
+    [
+     "Uitstekend",
+     "excellent"
+    ]
+   ]
+  },
+  "9097": {
+   "t": "Frostfire-diadeem",
+   "d": "Als Watcher mocht ik veel persoonlijke bezittingen van Medivh bekijken. Van al die spullen vond ik de boeken het leerzaamst. De meeste boeken stonden vol met – eerlijk gezegd – onzin, maar er zaten ook een paar pareltjes tussen. Een van die boeken beschreef hoe je een wapenrusting maakt die past bij een aartsmagiër: Frostfire.$B$B<Angela wijst naar haar hoofd.>$B$BHet zit allemaal hierin. Ik wil de vruchten van die kennis graag met je delen, zolang je mij de nodige materialen kunt brengen.",
+   "o": "Archmage Angela Dosantos in Light's Hope Chapel in de Eastern Plaguelands maakt een Frostfire Circlet voor je als je haar het volgende brengt: 1 Desecrated Circlet, 15 Wartorn Cloth Scraps, 3 Mooncloth en 3 Nexus Crystals.",
+   "p": "Je mist nog een paar onderdelen voor deze opdracht. Ga ze allemaal halen!",
+   "c": "Uitstekend, $N!$BJe hebt alles gebracht, precies zoals ik vroeg. Nu kan ik een Frostfire Circlet maken.",
+   "g": [
+    [
+     "bezittingen",
+     "belongings, effects (bezitting)"
+    ],
+    [
+     "leerzaamst",
+     "most instructive (leerzaam)"
+    ],
+    [
+     "eerlijk gezegd",
+     "to put it bluntly, honestly"
+    ],
+    [
+     "onzin",
+     "nonsense, tripe"
+    ],
+    [
+     "pareltjes",
+     "gems, little pearls (pareltje)"
+    ],
+    [
+     "beschreef",
+     "described (beschrijven)"
+    ],
+    [
+     "aartsmagiër",
+     "archmage"
+    ],
+    [
+     "vruchten",
+     "fruits (vrucht)"
+    ],
+    [
+     "kennis",
+     "knowledge"
+    ],
+    [
+     "nodige",
+     "necessary (nodig)"
+    ],
+    [
+     "onderdelen",
+     "parts (onderdeel)"
+    ],
+    [
+     "Uitstekend",
+     "excellent"
+    ]
+   ]
+  },
+  "9098": {
+   "t": "Frostfire-schouderstukken",
+   "d": "Als Watcher mocht ik veel persoonlijke bezittingen van Medivh bekijken. Van al die spullen vond ik de boeken het leerzaamst. De meeste boeken stonden vol met – eerlijk gezegd – onzin, maar er zaten ook een paar pareltjes tussen. Een van die boeken beschreef hoe je een wapenrusting maakt die past bij een aartsmagiër: Frostfire.$B$B<Angela wijst naar haar hoofd.>$B$BHet zit allemaal hierin. Ik wil de vruchten van die kennis graag met je delen, zolang je mij de nodige materialen kunt brengen.",
+   "o": "Archmage Angela Dosantos in Light's Hope Chapel in de Eastern Plaguelands maakt Frostfire Shoulderpads voor je als je haar het volgende brengt: 1 Desecrated Shoulderpads, 12 Wartorn Cloth Scraps, 2 Mooncloth en 3 Cured Rugged Hides.$b",
+   "p": "Je mist nog een paar onderdelen voor deze opdracht. Ga ze allemaal halen!",
+   "c": "Uitstekend, $N!$BJe hebt alles gebracht, precies zoals ik vroeg. Nu kan ik Frostfire Shoulderpads maken.",
+   "g": [
+    [
+     "bezittingen",
+     "belongings, effects (bezitting)"
+    ],
+    [
+     "leerzaamst",
+     "most instructive (leerzaam)"
+    ],
+    [
+     "eerlijk gezegd",
+     "to put it bluntly, honestly"
+    ],
+    [
+     "onzin",
+     "nonsense, tripe"
+    ],
+    [
+     "pareltjes",
+     "gems, little pearls (pareltje)"
+    ],
+    [
+     "beschreef",
+     "described (beschrijven)"
+    ],
+    [
+     "aartsmagiër",
+     "archmage"
+    ],
+    [
+     "vruchten",
+     "fruits (vrucht)"
+    ],
+    [
+     "kennis",
+     "knowledge"
+    ],
+    [
+     "nodige",
+     "necessary (nodig)"
+    ],
+    [
+     "onderdelen",
+     "parts (onderdeel)"
+    ],
+    [
+     "Uitstekend",
+     "excellent"
+    ]
+   ]
+  },
+  "9099": {
+   "t": "Frostfire-sandalen",
+   "d": "Als Watcher mocht ik veel persoonlijke bezittingen van Medivh bekijken. Van al die spullen vond ik de boeken het leerzaamst. De meeste boeken stonden vol met – eerlijk gezegd – onzin, maar er zaten ook een paar pareltjes tussen. Een van die boeken beschreef hoe je een wapenrusting maakt die past bij een aartsmagiër: Frostfire.$B$B<Angela wijst naar haar hoofd.>$B$BHet zit allemaal hierin. Ik wil de vruchten van die kennis graag met je delen, zolang je mij de nodige materialen kunt brengen.",
+   "o": "Archmage Angela Dosantos in Light's Hope Chapel in de Eastern Plaguelands maakt Frostfire Sandals voor je als je haar het volgende brengt: 1 Desecrated Sandals, 12 Wartorn Cloth Scraps, 2 Mooncloth en 3 Cured Rugged Hides.",
+   "p": "Je mist nog een paar onderdelen voor deze opdracht. Ga ze allemaal halen!",
+   "c": "Uitstekend, $N!$BJe hebt alles gebracht, precies zoals ik vroeg. Nu kan ik Frostfire Sandals maken.",
+   "g": [
+    [
+     "bezittingen",
+     "belongings, effects (bezitting)"
+    ],
+    [
+     "leerzaamst",
+     "most instructive (leerzaam)"
+    ],
+    [
+     "eerlijk gezegd",
+     "to put it bluntly, honestly"
+    ],
+    [
+     "onzin",
+     "nonsense, tripe"
+    ],
+    [
+     "pareltjes",
+     "gems, little pearls (pareltje)"
+    ],
+    [
+     "beschreef",
+     "described (beschrijven)"
+    ],
+    [
+     "aartsmagiër",
+     "archmage"
+    ],
+    [
+     "vruchten",
+     "fruits (vrucht)"
+    ],
+    [
+     "kennis",
+     "knowledge"
+    ],
+    [
+     "nodige",
+     "necessary (nodig)"
+    ],
+    [
+     "onderdelen",
+     "parts (onderdeel)"
+    ],
+    [
+     "Uitstekend",
+     "excellent"
+    ]
+   ]
+  },
+  "9100": {
+   "t": "Frostfire-handschoenen",
+   "d": "Als Watcher mocht ik veel persoonlijke bezittingen van Medivh bekijken. Van al die spullen vond ik de boeken het leerzaamst. De meeste boeken stonden vol met – eerlijk gezegd – onzin, maar er zaten ook een paar pareltjes tussen. Een van die boeken beschreef hoe je een wapenrusting maakt die past bij een aartsmagiër: Frostfire.$B$B<Angela wijst naar haar hoofd.>$B$BHet zit allemaal hierin. Ik wil de vruchten van die kennis graag met je delen, zolang je mij de nodige materialen kunt brengen.",
+   "o": "Archmage Angela Dosantos in Light's Hope Chapel in de Eastern Plaguelands maakt Frostfire Gloves voor je als je haar het volgende brengt: 1 Desecrated Gloves, 8 Wartorn Cloth Scraps en 4 Mooncloth.",
+   "p": "Je mist nog een paar onderdelen voor deze opdracht. Ga ze allemaal halen!",
+   "c": "Uitstekend, $N!$BJe hebt alles gebracht, precies zoals ik vroeg. Nu kan ik Frostfire Gloves maken.",
+   "g": [
+    [
+     "bezittingen",
+     "belongings, effects (bezitting)"
+    ],
+    [
+     "leerzaamst",
+     "most instructive (leerzaam)"
+    ],
+    [
+     "eerlijk gezegd",
+     "to put it bluntly, honestly"
+    ],
+    [
+     "onzin",
+     "nonsense, tripe"
+    ],
+    [
+     "pareltjes",
+     "gems, little pearls (pareltje)"
+    ],
+    [
+     "beschreef",
+     "described (beschrijven)"
+    ],
+    [
+     "aartsmagiër",
+     "archmage"
+    ],
+    [
+     "vruchten",
+     "fruits (vrucht)"
+    ],
+    [
+     "kennis",
+     "knowledge"
+    ],
+    [
+     "nodige",
+     "necessary (nodig)"
+    ],
+    [
+     "onderdelen",
+     "parts (onderdeel)"
+    ],
+    [
+     "Uitstekend",
+     "excellent"
+    ]
+   ]
+  },
+  "9101": {
+   "t": "Frostfire-riem",
+   "d": "Als Watcher mocht ik veel persoonlijke bezittingen van Medivh bekijken. Van al die spullen vond ik de boeken het leerzaamst. De meeste boeken stonden vol met – eerlijk gezegd – onzin, maar er zaten ook een paar pareltjes tussen. Een van die boeken beschreef hoe je een wapenrusting maakt die past bij een aartsmagiër: Frostfire.$B$B<Angela wijst naar haar hoofd.>$B$BHet zit allemaal hierin. Ik wil de vruchten van die kennis graag met je delen, zolang je mij de nodige materialen kunt brengen.",
+   "o": "Archmage Angela Dosantos in Light's Hope Chapel in de Eastern Plaguelands maakt een Frostfire Belt voor je als je haar het volgende brengt: 1 Desecrated Belt, 8 Wartorn Cloth Scraps, 2 Arcane Crystals en 2 Mooncloth.",
+   "p": "Je mist nog een paar onderdelen voor deze opdracht. Ga ze allemaal halen!",
+   "c": "Uitstekend, $N!$BJe hebt alles gebracht, precies zoals ik vroeg. Nu kan ik een Frostfire Belt maken.",
+   "g": [
+    [
+     "bezittingen",
+     "belongings, effects (bezitting)"
+    ],
+    [
+     "leerzaamst",
+     "most instructive (leerzaam)"
+    ],
+    [
+     "eerlijk gezegd",
+     "to put it bluntly, honestly"
+    ],
+    [
+     "onzin",
+     "nonsense, tripe"
+    ],
+    [
+     "pareltjes",
+     "gems, little pearls (pareltje)"
+    ],
+    [
+     "beschreef",
+     "described (beschrijven)"
+    ],
+    [
+     "aartsmagiër",
+     "archmage"
+    ],
+    [
+     "vruchten",
+     "fruits (vrucht)"
+    ],
+    [
+     "kennis",
+     "knowledge"
+    ],
+    [
+     "nodige",
+     "necessary (nodig)"
+    ],
+    [
+     "onderdelen",
+     "parts (onderdeel)"
+    ],
+    [
+     "Uitstekend",
+     "excellent"
+    ]
+   ]
+  },
+  "9102": {
+   "t": "Frostfire-polsbanden",
+   "d": "Als Watcher mocht ik veel persoonlijke bezittingen van Medivh bekijken. Van al die spullen vond ik de boeken het leerzaamst. De meeste boeken stonden vol met – eerlijk gezegd – onzin, maar er zaten ook een paar pareltjes tussen. Een van die boeken beschreef hoe je een wapenrusting maakt die past bij een aartsmagiër: Frostfire.$B$B<Angela wijst naar haar hoofd.>$B$BHet zit allemaal hierin. Ik wil de vruchten van die kennis graag met je delen, zolang je mij de nodige materialen kunt brengen.",
+   "o": "Archmage Angela Dosantos in Light's Hope Chapel in de Eastern Plaguelands maakt Frostfire Bindings voor je als je haar het volgende brengt: 1 Desecrated Bindings, 6 Wartorn Cloth Scraps, 1 Arcane Crystal en 1 Nexus Crystal.",
+   "p": "Je mist nog een paar onderdelen voor deze opdracht. Ga ze allemaal halen!",
+   "c": "Uitstekend, $N!$BJe hebt alles gebracht, precies zoals ik vroeg. Nu kan ik Frostfire Bindings maken.",
+   "g": [
+    [
+     "bezittingen",
+     "belongings, effects (bezitting)"
+    ],
+    [
+     "leerzaamst",
+     "most instructive (leerzaam)"
+    ],
+    [
+     "eerlijk gezegd",
+     "to put it bluntly, honestly"
+    ],
+    [
+     "onzin",
+     "nonsense, tripe"
+    ],
+    [
+     "pareltjes",
+     "gems, little pearls (pareltje)"
+    ],
+    [
+     "beschreef",
+     "described (beschrijven)"
+    ],
+    [
+     "aartsmagiër",
+     "archmage"
+    ],
+    [
+     "vruchten",
+     "fruits (vrucht)"
+    ],
+    [
+     "kennis",
+     "knowledge"
+    ],
+    [
+     "nodige",
+     "necessary (nodig)"
+    ],
+    [
+     "onderdelen",
+     "parts (onderdeel)"
+    ],
+    [
+     "Uitstekend",
+     "excellent"
+    ]
+   ]
+  },
+  "9103": {
+   "t": "Plagueheart-gewaad",
+   "d": "Ik ga niet doen alsof, made. De duisternis in Plagueheart-voorwerpen kan ons allebei vernietigen. Daarom is de prijs zo hoog. Als ik dan toch moet sterven, dan wel als rijk man.$B$BEn het kan me geen druppel gnollspuug schelen hoe jij sterft, als je maar doet wat ik vraag. Breng me wat ik nodig heb, dan hebben we er allebei voordeel van – of we sterven allebei; maar dat heb ik al uitgelegd...",
+   "o": "Mataus the Wrathcaster in Light's Hope Chapel in de Eastern Plaguelands maakt een Plagueheart Robe voor je als je hem het volgende brengt: 1 Desecrated Robe, 25 Wartorn Cloth Scraps, 4 Mooncloth en 2 Nexus Crystals.",
+   "p": "Je mist nog een paar onderdelen voor deze opdracht. Ga ze allemaal halen!",
+   "c": "Uitstekend, $N!$BJe hebt alles gebracht, precies zoals ik vroeg. Nu kan ik een Plagueheart Robe maken.",
+   "g": [
+    [
+     "doen alsof",
+     "pretend"
+    ],
+    [
+     "made",
+     "maggot"
+    ],
+    [
+     "duisternis",
+     "darkness"
+    ],
+    [
+     "voorwerpen",
+     "items, objects (voorwerp)"
+    ],
+    [
+     "vernietigen",
+     "destroy"
+    ],
+    [
+     "druppel",
+     "drop, ounce"
+    ],
+    [
+     "gnollspuug",
+     "gnoll spit (spuug)"
+    ],
+    [
+     "kan me geen",
+     "I don't care at all (het kan me niet schelen)"
+    ],
+    [
+     "voordeel",
+     "benefit, advantage"
+    ],
+    [
+     "uitgelegd",
+     "explained (uitleggen)"
+    ],
+    [
+     "onderdelen",
+     "parts (onderdeel)"
+    ],
+    [
+     "Uitstekend",
+     "excellent"
+    ]
+   ]
+  },
+  "9104": {
+   "t": "Plagueheart-broek",
+   "d": "Ik ga niet doen alsof, made. De duisternis in Plagueheart-voorwerpen kan ons allebei vernietigen. Daarom is de prijs zo hoog. Als ik dan toch moet sterven, dan wel als rijk man.$B$BEn het kan me geen druppel gnollspuug schelen hoe jij sterft, als je maar doet wat ik vraag. Breng me wat ik nodig heb, dan hebben we er allebei voordeel van – of we sterven allebei; maar dat heb ik al uitgelegd...",
+   "o": "Mataus the Wrathcaster in Light's Hope Chapel in de Eastern Plaguelands maakt Plagueheart Leggings voor je als je hem het volgende brengt: 1 Desecrated Leggings, 20 Wartorn Cloth Scraps, 4 Mooncloth en 2 Nexus Crystals.",
+   "p": "Je mist nog een paar onderdelen voor deze opdracht. Ga ze allemaal halen!",
+   "c": "Uitstekend, $N!$BJe hebt alles gebracht, precies zoals ik vroeg. Nu kan ik Plagueheart Leggings maken.",
+   "g": [
+    [
+     "doen alsof",
+     "pretend"
+    ],
+    [
+     "made",
+     "maggot"
+    ],
+    [
+     "duisternis",
+     "darkness"
+    ],
+    [
+     "voorwerpen",
+     "items, objects (voorwerp)"
+    ],
+    [
+     "vernietigen",
+     "destroy"
+    ],
+    [
+     "druppel",
+     "drop, ounce"
+    ],
+    [
+     "gnollspuug",
+     "gnoll spit (spuug)"
+    ],
+    [
+     "kan me geen",
+     "I don't care at all (het kan me niet schelen)"
+    ],
+    [
+     "voordeel",
+     "benefit, advantage"
+    ],
+    [
+     "uitgelegd",
+     "explained (uitleggen)"
+    ],
+    [
+     "onderdelen",
+     "parts (onderdeel)"
+    ],
+    [
+     "Uitstekend",
+     "excellent"
+    ]
+   ]
+  },
+  "9105": {
+   "t": "Plagueheart-diadeem",
+   "d": "Ik ga niet doen alsof, made. De duisternis in Plagueheart-voorwerpen kan ons allebei vernietigen. Daarom is de prijs zo hoog. Als ik dan toch moet sterven, dan wel als rijk man.$B$BEn het kan me geen druppel gnollspuug schelen hoe jij sterft, als je maar doet wat ik vraag. Breng me wat ik nodig heb, dan hebben we er allebei voordeel van – of we sterven allebei; maar dat heb ik al uitgelegd...",
+   "o": "Mataus the Wrathcaster in Light's Hope Chapel in de Eastern Plaguelands maakt een Plagueheart Circlet voor je als je hem het volgende brengt: 1 Desecrated Circlet, 15 Wartorn Cloth Scraps, 3 Mooncloth en 3 Nexus Crystals.",
+   "p": "Je mist nog een paar onderdelen voor deze opdracht. Ga ze allemaal halen!",
+   "c": "Uitstekend, $N!$BJe hebt alles gebracht, precies zoals ik vroeg. Nu kan ik een Plagueheart Circlet maken.",
+   "g": [
+    [
+     "doen alsof",
+     "pretend"
+    ],
+    [
+     "made",
+     "maggot"
+    ],
+    [
+     "duisternis",
+     "darkness"
+    ],
+    [
+     "voorwerpen",
+     "items, objects (voorwerp)"
+    ],
+    [
+     "vernietigen",
+     "destroy"
+    ],
+    [
+     "druppel",
+     "drop, ounce"
+    ],
+    [
+     "gnollspuug",
+     "gnoll spit (spuug)"
+    ],
+    [
+     "kan me geen",
+     "I don't care at all (het kan me niet schelen)"
+    ],
+    [
+     "voordeel",
+     "benefit, advantage"
+    ],
+    [
+     "uitgelegd",
+     "explained (uitleggen)"
+    ],
+    [
+     "onderdelen",
+     "parts (onderdeel)"
+    ],
+    [
+     "Uitstekend",
+     "excellent"
+    ]
+   ]
+  },
+  "9106": {
+   "t": "Plagueheart-schouderstukken",
+   "d": "Ik ga niet doen alsof, made. De duisternis in Plagueheart-voorwerpen kan ons allebei vernietigen. Daarom is de prijs zo hoog. Als ik dan toch moet sterven, dan wel als rijk man.$B$BEn het kan me geen druppel gnollspuug schelen hoe jij sterft, als je maar doet wat ik vraag. Breng me wat ik nodig heb, dan hebben we er allebei voordeel van – of we sterven allebei; maar dat heb ik al uitgelegd...",
+   "o": "Mataus the Wrathcaster in Light's Hope Chapel in de Eastern Plaguelands maakt Plagueheart Shoulderpads voor je als je hem het volgende brengt: 1 Desecrated Shoulderpads, 12 Wartorn Cloth Scraps, 2 Mooncloth en 3 Cured Rugged Hides.",
+   "p": "Je mist nog een paar onderdelen voor deze opdracht. Ga ze allemaal halen!",
+   "c": "Uitstekend, $N!$BJe hebt alles gebracht, precies zoals ik vroeg. Nu kan ik Plagueheart Shoulderpads maken.",
+   "g": [
+    [
+     "doen alsof",
+     "pretend"
+    ],
+    [
+     "made",
+     "maggot"
+    ],
+    [
+     "duisternis",
+     "darkness"
+    ],
+    [
+     "voorwerpen",
+     "items, objects (voorwerp)"
+    ],
+    [
+     "vernietigen",
+     "destroy"
+    ],
+    [
+     "druppel",
+     "drop, ounce"
+    ],
+    [
+     "gnollspuug",
+     "gnoll spit (spuug)"
+    ],
+    [
+     "kan me geen",
+     "I don't care at all (het kan me niet schelen)"
+    ],
+    [
+     "voordeel",
+     "benefit, advantage"
+    ],
+    [
+     "uitgelegd",
+     "explained (uitleggen)"
+    ],
+    [
+     "onderdelen",
+     "parts (onderdeel)"
+    ],
+    [
+     "Uitstekend",
+     "excellent"
+    ]
+   ]
+  },
+  "9107": {
+   "t": "Plagueheart-sandalen",
+   "d": "Ik ga niet doen alsof, made. De duisternis in Plagueheart-voorwerpen kan ons allebei vernietigen. Daarom is de prijs zo hoog. Als ik dan toch moet sterven, dan wel als rijk man.$B$BEn het kan me geen druppel gnollspuug schelen hoe jij sterft, als je maar doet wat ik vraag. Breng me wat ik nodig heb, dan hebben we er allebei voordeel van – of we sterven allebei; maar dat heb ik al uitgelegd...",
+   "o": "Mataus the Wrathcaster in Light's Hope Chapel in de Eastern Plaguelands maakt Plagueheart Sandals voor je als je hem het volgende brengt: 1 Desecrated Sandals, 12 Wartorn Cloth Scraps, 2 Mooncloth en 3 Cured Rugged Hides.",
+   "p": "Je mist nog een paar onderdelen voor deze opdracht. Ga ze allemaal halen!",
+   "c": "Uitstekend, $N!$BJe hebt alles gebracht, precies zoals ik vroeg. Nu kan ik Plagueheart Sandals maken.",
+   "g": [
+    [
+     "doen alsof",
+     "pretend"
+    ],
+    [
+     "made",
+     "maggot"
+    ],
+    [
+     "duisternis",
+     "darkness"
+    ],
+    [
+     "voorwerpen",
+     "items, objects (voorwerp)"
+    ],
+    [
+     "vernietigen",
+     "destroy"
+    ],
+    [
+     "druppel",
+     "drop, ounce"
+    ],
+    [
+     "gnollspuug",
+     "gnoll spit (spuug)"
+    ],
+    [
+     "kan me geen",
+     "I don't care at all (het kan me niet schelen)"
+    ],
+    [
+     "voordeel",
+     "benefit, advantage"
+    ],
+    [
+     "uitgelegd",
+     "explained (uitleggen)"
+    ],
+    [
+     "onderdelen",
+     "parts (onderdeel)"
+    ],
+    [
+     "Uitstekend",
+     "excellent"
+    ]
+   ]
+  },
+  "9108": {
+   "t": "Plagueheart-handschoenen",
+   "d": "Ik ga niet doen alsof, made. De duisternis in Plagueheart-voorwerpen kan ons allebei vernietigen. Daarom is de prijs zo hoog. Als ik dan toch moet sterven, dan wel als rijk man.$B$BEn het kan me geen druppel gnollspuug schelen hoe jij sterft, als je maar doet wat ik vraag. Breng me wat ik nodig heb, dan hebben we er allebei voordeel van – of we sterven allebei; maar dat heb ik al uitgelegd...",
+   "o": "Mataus the Wrathcaster in Light's Hope Chapel in de Eastern Plaguelands maakt Plagueheart Gloves voor je als je hem het volgende brengt: 1 Desecrated Gloves, 8 Wartorn Cloth Scraps en 4 Mooncloth.",
+   "p": "Je mist nog een paar onderdelen voor deze opdracht. Ga ze allemaal halen!",
+   "c": "Uitstekend, $N!$BJe hebt alles gebracht, precies zoals ik vroeg. Nu kan ik Plagueheart Gloves maken.",
+   "g": [
+    [
+     "doen alsof",
+     "pretend"
+    ],
+    [
+     "made",
+     "maggot"
+    ],
+    [
+     "duisternis",
+     "darkness"
+    ],
+    [
+     "voorwerpen",
+     "items, objects (voorwerp)"
+    ],
+    [
+     "vernietigen",
+     "destroy"
+    ],
+    [
+     "druppel",
+     "drop, ounce"
+    ],
+    [
+     "gnollspuug",
+     "gnoll spit (spuug)"
+    ],
+    [
+     "kan me geen",
+     "I don't care at all (het kan me niet schelen)"
+    ],
+    [
+     "voordeel",
+     "benefit, advantage"
+    ],
+    [
+     "uitgelegd",
+     "explained (uitleggen)"
+    ],
+    [
+     "onderdelen",
+     "parts (onderdeel)"
+    ],
+    [
+     "Uitstekend",
+     "excellent"
+    ]
+   ]
+  },
+  "9109": {
+   "t": "Plagueheart-riem",
+   "d": "Ik ga niet doen alsof, made. De duisternis in Plagueheart-voorwerpen kan ons allebei vernietigen. Daarom is de prijs zo hoog. Als ik dan toch moet sterven, dan wel als rijk man.$B$BEn het kan me geen druppel gnollspuug schelen hoe jij sterft, als je maar doet wat ik vraag. Breng me wat ik nodig heb, dan hebben we er allebei voordeel van – of we sterven allebei; maar dat heb ik al uitgelegd...",
+   "o": "Mataus the Wrathcaster in Light's Hope Chapel in de Eastern Plaguelands maakt een Plagueheart Belt voor je als je hem het volgende brengt: 1 Desecrated Belt, 8 Wartorn Cloth Scraps, 2 Arcane Crystals en 2 Mooncloth.",
+   "p": "Je mist nog een paar onderdelen voor deze opdracht. Ga ze allemaal halen!",
+   "c": "Uitstekend, $N!$BJe hebt alles gebracht, precies zoals ik vroeg. Nu kan ik een Plagueheart Belt maken.",
+   "g": [
+    [
+     "doen alsof",
+     "pretend"
+    ],
+    [
+     "made",
+     "maggot"
+    ],
+    [
+     "duisternis",
+     "darkness"
+    ],
+    [
+     "voorwerpen",
+     "items, objects (voorwerp)"
+    ],
+    [
+     "vernietigen",
+     "destroy"
+    ],
+    [
+     "druppel",
+     "drop, ounce"
+    ],
+    [
+     "gnollspuug",
+     "gnoll spit (spuug)"
+    ],
+    [
+     "kan me geen",
+     "I don't care at all (het kan me niet schelen)"
+    ],
+    [
+     "voordeel",
+     "benefit, advantage"
+    ],
+    [
+     "uitgelegd",
+     "explained (uitleggen)"
+    ],
+    [
+     "onderdelen",
+     "parts (onderdeel)"
+    ],
+    [
+     "Uitstekend",
+     "excellent"
+    ]
+   ]
+  },
+  "9110": {
+   "t": "Plagueheart-polsbanden",
+   "d": "Ik ga niet doen alsof, made. De duisternis in Plagueheart-voorwerpen kan ons allebei vernietigen. Daarom is de prijs zo hoog. Als ik dan toch moet sterven, dan wel als rijk man.$B$BEn het kan me geen druppel gnollspuug schelen hoe jij sterft, als je maar doet wat ik vraag. Breng me wat ik nodig heb, dan hebben we er allebei voordeel van – of we sterven allebei; maar dat heb ik al uitgelegd...",
+   "o": "Mataus the Wrathcaster in Light's Hope Chapel in de Eastern Plaguelands maakt Plagueheart Bindings voor je als je hem het volgende brengt: 1 Desecrated Bindings, 6 Wartorn Cloth Scraps, 1 Arcane Crystal en 1 Nexus Crystal.",
+   "p": "Je mist nog een paar onderdelen voor deze opdracht. Ga ze allemaal halen!",
+   "c": "Uitstekend, $N!$BJe hebt alles gebracht, precies zoals ik vroeg. Nu kan ik Plagueheart Bindings maken.",
+   "g": [
+    [
+     "doen alsof",
+     "pretend"
+    ],
+    [
+     "made",
+     "maggot"
+    ],
+    [
+     "duisternis",
+     "darkness"
+    ],
+    [
+     "voorwerpen",
+     "items, objects (voorwerp)"
+    ],
+    [
+     "vernietigen",
+     "destroy"
+    ],
+    [
+     "druppel",
+     "drop, ounce"
+    ],
+    [
+     "gnollspuug",
+     "gnoll spit (spuug)"
+    ],
+    [
+     "kan me geen",
+     "I don't care at all (het kan me niet schelen)"
+    ],
+    [
+     "voordeel",
+     "benefit, advantage"
+    ],
+    [
+     "uitgelegd",
+     "explained (uitleggen)"
+    ],
+    [
+     "onderdelen",
+     "parts (onderdeel)"
+    ],
+    [
+     "Uitstekend",
+     "excellent"
+    ]
+   ]
+  },
+  "9111": {
+   "t": "Gewaad van Geloof",
+   "d": "<Father Montoy maakt vreemde gebaren in de lucht voor je.>$B$BGezegende $gjongen:meid;, heb je de gewaden van de gevallenen gevonden? De arme zielen die hun laatste adem uitbliezen op het slagveld – van alles beroofd, zelfs van hun waardigheid.$B$BBreng me de ontheiligde resten van de overledenen, samen met reagentia voor zuivering, en je zult het geloof kennen.",
+   "o": "Father Inigo Montoy in Light's Hope Chapel in de Eastern Plaguelands maakt een Robe of Faith voor je als je hem het volgende brengt: 1 Desecrated Robe, 25 Wartorn Cloth Scraps, 4 Mooncloth en 2 Nexus Crystals.",
+   "p": "Je mist nog een paar onderdelen voor deze opdracht. Ga ze allemaal halen!",
+   "c": "Uitstekend, $N!$BJe hebt alles gebracht, precies zoals ik vroeg. Nu kan ik een Robe of Faith maken.",
+   "g": [
+    [
+     "gebaren",
+     "gestures (gebaar)"
+    ],
+    [
+     "Gezegende",
+     "blessed (gezegend)"
+    ],
+    [
+     "gewaden",
+     "robes, vestments (gewaad)"
+    ],
+    [
+     "gevallenen",
+     "the fallen"
+    ],
+    [
+     "zielen",
+     "souls (ziel)"
+    ],
+    [
+     "adem uitbliezen",
+     "breathed their last (de laatste adem uitblazen)"
+    ],
+    [
+     "slagveld",
+     "battlefield"
+    ],
+    [
+     "beroofd",
+     "robbed, stripped (beroven)"
+    ],
+    [
+     "waardigheid",
+     "dignity"
+    ],
+    [
+     "ontheiligde",
+     "desecrated (ontheiligen)"
+    ],
+    [
+     "overledenen",
+     "the departed (overledene)"
+    ],
+    [
+     "reagentia",
+     "reagents (reagens)"
+    ],
+    [
+     "zuivering",
+     "purification"
+    ],
+    [
+     "Uitstekend",
+     "excellent"
+    ]
+   ]
+  },
+  "9112": {
+   "t": "Broek van Geloof",
+   "d": "<Father Montoy maakt vreemde gebaren in de lucht voor je.>$B$BGezegende $gjongen:meid;, heb je de gewaden van de gevallenen gevonden? De arme zielen die hun laatste adem uitbliezen op het slagveld – van alles beroofd, zelfs van hun waardigheid.$B$BBreng me de ontheiligde resten van de overledenen, samen met reagentia voor zuivering, en je zult het geloof kennen.",
+   "o": "Father Inigo Montoy in Light's Hope Chapel in de Eastern Plaguelands maakt Leggings of Faith voor je als je hem het volgende brengt: 1 Desecrated Leggings, 20 Wartorn Cloth Scraps, 4 Mooncloth en 2 Nexus Crystals.",
+   "p": "Je mist nog een paar onderdelen voor deze opdracht. Ga ze allemaal halen!",
+   "c": "Uitstekend, $N!$BJe hebt alles gebracht, precies zoals ik vroeg. Nu kan ik Leggings of Faith maken.",
+   "g": [
+    [
+     "gebaren",
+     "gestures (gebaar)"
+    ],
+    [
+     "Gezegende",
+     "blessed (gezegend)"
+    ],
+    [
+     "gewaden",
+     "robes, vestments (gewaad)"
+    ],
+    [
+     "gevallenen",
+     "the fallen"
+    ],
+    [
+     "zielen",
+     "souls (ziel)"
+    ],
+    [
+     "adem uitbliezen",
+     "breathed their last (de laatste adem uitblazen)"
+    ],
+    [
+     "slagveld",
+     "battlefield"
+    ],
+    [
+     "beroofd",
+     "robbed, stripped (beroven)"
+    ],
+    [
+     "waardigheid",
+     "dignity"
+    ],
+    [
+     "ontheiligde",
+     "desecrated (ontheiligen)"
+    ],
+    [
+     "overledenen",
+     "the departed (overledene)"
+    ],
+    [
+     "reagentia",
+     "reagents (reagens)"
+    ],
+    [
+     "zuivering",
+     "purification"
+    ],
+    [
+     "Uitstekend",
+     "excellent"
+    ]
+   ]
+  },
+  "9113": {
+   "t": "Diadeem van Geloof",
+   "d": "<Father Montoy maakt vreemde gebaren in de lucht voor je.>$B$BGezegende $gjongen:meid;, heb je de gewaden van de gevallenen gevonden? De arme zielen die hun laatste adem uitbliezen op het slagveld – van alles beroofd, zelfs van hun waardigheid.$B$BBreng me de ontheiligde resten van de overledenen, samen met reagentia voor zuivering, en je zult het geloof kennen.",
+   "o": "Father Inigo Montoy in Light's Hope Chapel in de Eastern Plaguelands maakt een Circlet of Faith voor je als je hem het volgende brengt: 1 Desecrated Circlet, 15 Wartorn Cloth Scraps, 3 Mooncloth en 3 Nexus Crystals.",
+   "p": "Heb je de reagentia voor me meegebracht, kind?",
+   "c": "Uitstekend, $N!$BJe hebt alles gebracht, precies zoals ik vroeg. Nu kan ik een Circlet of Faith maken.",
+   "g": [
+    [
+     "gebaren",
+     "gestures (gebaar)"
+    ],
+    [
+     "Gezegende",
+     "blessed (gezegend)"
+    ],
+    [
+     "gewaden",
+     "robes, vestments (gewaad)"
+    ],
+    [
+     "gevallenen",
+     "the fallen"
+    ],
+    [
+     "zielen",
+     "souls (ziel)"
+    ],
+    [
+     "adem uitbliezen",
+     "breathed their last (de laatste adem uitblazen)"
+    ],
+    [
+     "slagveld",
+     "battlefield"
+    ],
+    [
+     "beroofd",
+     "robbed, stripped (beroven)"
+    ],
+    [
+     "waardigheid",
+     "dignity"
+    ],
+    [
+     "ontheiligde",
+     "desecrated (ontheiligen)"
+    ],
+    [
+     "overledenen",
+     "the departed (overledene)"
+    ],
+    [
+     "reagentia",
+     "reagents (reagens)"
+    ],
+    [
+     "zuivering",
+     "purification"
+    ],
+    [
+     "Uitstekend",
+     "excellent"
+    ]
+   ]
+  },
+  "9114": {
+   "t": "Schouderstukken van Geloof",
+   "d": "<Father Montoy maakt vreemde gebaren in de lucht voor je.>$B$BGezegende $gjongen:meid;, heb je de gewaden van de gevallenen gevonden? De arme zielen die hun laatste adem uitbliezen op het slagveld – van alles beroofd, zelfs van hun waardigheid.$B$BBreng me de ontheiligde resten van de overledenen, samen met reagentia voor zuivering, en je zult het geloof kennen.",
+   "o": "Father Inigo Montoy in Light's Hope Chapel in de Eastern Plaguelands maakt Shoulderpads of Faith voor je als je hem het volgende brengt: 1 Desecrated Shoulderpads, 12 Wartorn Cloth Scraps, 2 Mooncloth en 3 Cured Rugged Hides.",
+   "p": "Heb je de reagentia voor me meegebracht, kind?",
+   "c": "De gewaden zijn klaar, $N. Sla met je rechtvaardige vuur toe op iedereen die onze wereld kwaad wil doen.",
+   "g": [
+    [
+     "gebaren",
+     "gestures (gebaar)"
+    ],
+    [
+     "Gezegende",
+     "blessed (gezegend)"
+    ],
+    [
+     "gewaden",
+     "robes, vestments (gewaad)"
+    ],
+    [
+     "gevallenen",
+     "the fallen"
+    ],
+    [
+     "zielen",
+     "souls (ziel)"
+    ],
+    [
+     "adem uitbliezen",
+     "breathed their last (de laatste adem uitblazen)"
+    ],
+    [
+     "slagveld",
+     "battlefield"
+    ],
+    [
+     "beroofd",
+     "robbed, stripped (beroven)"
+    ],
+    [
+     "waardigheid",
+     "dignity"
+    ],
+    [
+     "ontheiligde",
+     "desecrated (ontheiligen)"
+    ],
+    [
+     "overledenen",
+     "the departed (overledene)"
+    ],
+    [
+     "reagentia",
+     "reagents (reagens)"
+    ],
+    [
+     "zuivering",
+     "purification"
+    ],
+    [
+     "geloof",
+     "faith"
+    ],
+    [
+     "rechtvaardige",
+     "righteous (rechtvaardig)"
+    ]
+   ]
+  },
+  "9115": {
+   "t": "Sandalen van Geloof",
+   "d": "<Father Montoy maakt vreemde gebaren in de lucht voor je.>$B$BGezegende $gjongen:meid;, heb je de gewaden van de gevallenen gevonden? De arme zielen die hun laatste adem uitbliezen op het slagveld – van alles beroofd, zelfs van hun waardigheid.$B$BBreng me de ontheiligde resten van de overledenen, samen met reagentia voor zuivering, en je zult het geloof kennen.",
+   "o": "Father Inigo Montoy in Light's Hope Chapel in de Eastern Plaguelands maakt Sandals of Faith voor je als je hem het volgende brengt: 1 Desecrated Sandals, 12 Wartorn Cloth Scraps, 2 Mooncloth en 3 Cured Rugged Hides.$b",
+   "p": "Heb je de reagentia voor me meegebracht, kind?",
+   "c": "De gewaden zijn klaar, $N. Sla met je rechtvaardige vuur toe op iedereen die onze wereld kwaad wil doen.",
+   "g": [
+    [
+     "gebaren",
+     "gestures (gebaar)"
+    ],
+    [
+     "Gezegende",
+     "blessed (gezegend)"
+    ],
+    [
+     "gewaden",
+     "robes, vestments (gewaad)"
+    ],
+    [
+     "gevallenen",
+     "the fallen"
+    ],
+    [
+     "zielen",
+     "souls (ziel)"
+    ],
+    [
+     "adem uitbliezen",
+     "breathed their last (de laatste adem uitblazen)"
+    ],
+    [
+     "slagveld",
+     "battlefield"
+    ],
+    [
+     "beroofd",
+     "robbed, stripped (beroven)"
+    ],
+    [
+     "waardigheid",
+     "dignity"
+    ],
+    [
+     "ontheiligde",
+     "desecrated (ontheiligen)"
+    ],
+    [
+     "overledenen",
+     "the departed (overledene)"
+    ],
+    [
+     "reagentia",
+     "reagents (reagens)"
+    ],
+    [
+     "zuivering",
+     "purification"
+    ],
+    [
+     "geloof",
+     "faith"
+    ],
+    [
+     "rechtvaardige",
+     "righteous (rechtvaardig)"
+    ]
+   ]
+  },
+  "9116": {
+   "t": "Handschoenen van Geloof",
+   "d": "<Father Montoy maakt vreemde gebaren in de lucht voor je.>$B$BGezegende $gjongen:meid;, heb je de gewaden van de gevallenen gevonden? De arme zielen die hun laatste adem uitbliezen op het slagveld – van alles beroofd, zelfs van hun waardigheid.$B$BBreng me de ontheiligde resten van de overledenen, samen met reagentia voor zuivering, en je zult het geloof kennen.",
+   "o": "Father Inigo Montoy in Light's Hope Chapel in de Eastern Plaguelands maakt Gloves of Faith voor je als je hem het volgende brengt: 1 Desecrated Gloves, 8 Wartorn Cloth Scraps en 4 Mooncloth.$b",
+   "p": "Heb je de reagentia voor me meegebracht, kind?",
+   "c": "De gewaden zijn klaar, $N. Sla met je rechtvaardige vuur toe op iedereen die onze wereld kwaad wil doen.",
+   "g": [
+    [
+     "gebaren",
+     "gestures (gebaar)"
+    ],
+    [
+     "Gezegende",
+     "blessed (gezegend)"
+    ],
+    [
+     "gewaden",
+     "robes, vestments (gewaad)"
+    ],
+    [
+     "gevallenen",
+     "the fallen"
+    ],
+    [
+     "zielen",
+     "souls (ziel)"
+    ],
+    [
+     "adem uitbliezen",
+     "breathed their last (de laatste adem uitblazen)"
+    ],
+    [
+     "slagveld",
+     "battlefield"
+    ],
+    [
+     "beroofd",
+     "robbed, stripped (beroven)"
+    ],
+    [
+     "waardigheid",
+     "dignity"
+    ],
+    [
+     "ontheiligde",
+     "desecrated (ontheiligen)"
+    ],
+    [
+     "overledenen",
+     "the departed (overledene)"
+    ],
+    [
+     "reagentia",
+     "reagents (reagens)"
+    ],
+    [
+     "zuivering",
+     "purification"
+    ],
+    [
+     "geloof",
+     "faith"
+    ],
+    [
+     "rechtvaardige",
+     "righteous (rechtvaardig)"
+    ]
+   ]
+  },
+  "9117": {
+   "t": "Riem van Geloof",
+   "d": "<Father Montoy maakt vreemde gebaren in de lucht voor je.>$B$BGezegende $gjongen:meid;, heb je de gewaden van de gevallenen gevonden? De arme zielen die hun laatste adem uitbliezen op het slagveld – van alles beroofd, zelfs van hun waardigheid.$B$BBreng me de ontheiligde resten van de overledenen, samen met reagentia voor zuivering, en je zult het geloof kennen.",
+   "o": "Father Inigo Montoy in Light's Hope Chapel in de Eastern Plaguelands maakt een Belt of Faith voor je als je hem het volgende brengt: 1 Desecrated Belt, 8 Wartorn Cloth Scraps, 2 Arcane Crystals en 2 Mooncloth.",
+   "p": "Je mist nog een paar onderdelen voor deze opdracht. Ga ze allemaal halen!",
+   "c": "Uitstekend, $N!$BJe hebt alles gebracht, precies zoals ik vroeg. Nu kan ik een Belt of Faith maken.",
+   "g": [
+    [
+     "gebaren",
+     "gestures (gebaar)"
+    ],
+    [
+     "Gezegende",
+     "blessed (gezegend)"
+    ],
+    [
+     "gewaden",
+     "robes, vestments (gewaad)"
+    ],
+    [
+     "gevallenen",
+     "the fallen"
+    ],
+    [
+     "zielen",
+     "souls (ziel)"
+    ],
+    [
+     "adem uitbliezen",
+     "breathed their last (de laatste adem uitblazen)"
+    ],
+    [
+     "slagveld",
+     "battlefield"
+    ],
+    [
+     "beroofd",
+     "robbed, stripped (beroven)"
+    ],
+    [
+     "waardigheid",
+     "dignity"
+    ],
+    [
+     "ontheiligde",
+     "desecrated (ontheiligen)"
+    ],
+    [
+     "overledenen",
+     "the departed (overledene)"
+    ],
+    [
+     "reagentia",
+     "reagents (reagens)"
+    ],
+    [
+     "zuivering",
+     "purification"
+    ],
+    [
+     "Uitstekend",
+     "excellent"
+    ]
+   ]
+  },
+  "9118": {
+   "t": "Polsbanden van Geloof",
+   "d": "<Father Montoy maakt vreemde gebaren in de lucht voor je.>$B$BGezegende $gjongen:meid;, heb je de gewaden van de gevallenen gevonden? De arme zielen die hun laatste adem uitbliezen op het slagveld – van alles beroofd, zelfs van hun waardigheid.$B$BBreng me de ontheiligde resten van de overledenen, samen met reagentia voor zuivering, en je zult het geloof kennen.",
+   "o": "Father Inigo Montoy in Light's Hope Chapel in de Eastern Plaguelands maakt Bindings of Faith voor je als je hem het volgende brengt: 1 Desecrated Bindings, 6 Wartorn Cloth Scraps, 1 Arcane Crystal en 1 Nexus Crystal.",
+   "p": "Je mist nog een paar onderdelen voor deze opdracht. Ga ze allemaal halen!",
+   "c": "Uitstekend, $N!$BJe hebt alles gebracht, precies zoals ik vroeg. Nu kan ik Bindings of Faith maken.",
+   "g": [
+    [
+     "gebaren",
+     "gestures (gebaar)"
+    ],
+    [
+     "Gezegende",
+     "blessed (gezegend)"
+    ],
+    [
+     "gewaden",
+     "robes, vestments (gewaad)"
+    ],
+    [
+     "gevallenen",
+     "the fallen"
+    ],
+    [
+     "zielen",
+     "souls (ziel)"
+    ],
+    [
+     "adem uitbliezen",
+     "breathed their last (de laatste adem uitblazen)"
+    ],
+    [
+     "slagveld",
+     "battlefield"
+    ],
+    [
+     "beroofd",
+     "robbed, stripped (beroven)"
+    ],
+    [
+     "waardigheid",
+     "dignity"
+    ],
+    [
+     "ontheiligde",
+     "desecrated (ontheiligen)"
+    ],
+    [
+     "overledenen",
+     "the departed (overledene)"
+    ],
+    [
+     "reagentia",
+     "reagents (reagens)"
+    ],
+    [
+     "zuivering",
+     "purification"
+    ],
+    [
+     "Uitstekend",
+     "excellent"
+    ]
+   ]
+  },
+  "9120": {
+   "t": "De val van Kel'Thuzad",
+   "d": "Het fylacterium is alles wat er over is van de meester van Naxxramas. Je gezonde verstand zegt dat je het fylacterium moet vernietigen. Dan kan de lich nooit meer terugkomen. Gelukkig luister je zelden naar die innerlijke stem van de rede.$B$BIemand in Light's Hope wil je flink betalen voor dit artefact. Wat maakt het uit als Kel'Thuzad weer al zijn kracht terugkrijgt?",
+   "o": "Breng de Phylactery of Kel'Thuzad naar Light's Hope Chapel in de Eastern Plaguelands.",
+   "g": [
+    [
+     "fylacterium",
+     "phylactery: the vessel that holds a lich's soul"
+    ],
+    [
+     "gezonde verstand",
+     "better judgment, common sense"
+    ],
+    [
+     "vernietigen",
+     "destroy"
+    ],
+    [
+     "zelden",
+     "seldom"
+    ],
+    [
+     "innerlijke",
+     "inner (innerlijk)"
+    ],
+    [
+     "rede",
+     "reason"
+    ],
+    [
+     "flink",
+     "a lot, hugely"
+    ],
+    [
+     "artefact",
+     "artifact"
+    ],
+    [
+     "Wat maakt het uit",
+     "who cares, what does it matter"
+    ],
+    [
+     "kracht",
+     "power, strength"
+    ]
+   ]
+  }
+ },
+ "words": {
+  "diadeem": "circlet, diadem",
+  "sandalen": "sandals (sandaal)",
+  "uitbliezen": "breathed out (uitblazen); de laatste adem uitblazen = to die",
+  "dreamwalker-gordel": "Dreamwalker girdle (gordel = girdle, belt)",
+  "dreamwalker-handbeschermers": "Dreamwalker handguards (handbeschermer = handguard)",
+  "dreamwalker-laarzen": "Dreamwalker boots (laars = boot)",
+  "dreamwalker-polsbeschermers": "Dreamwalker wristguards (polsbeschermer = wristguard)",
+  "dreamwalker-wapenrusting": "Dreamwalker armour (wapenrusting = armour)",
+  "frostfire-broek": "Frostfire leggings (broek = trousers)",
+  "frostfire-diadeem": "Frostfire circlet (diadeem = circlet)",
+  "frostfire-gewaad": "Frostfire robe (gewaad = robe)",
+  "frostfire-handschoenen": "Frostfire gloves (handschoen = glove)",
+  "frostfire-polsbanden": "Frostfire bindings (polsband = wristband)",
+  "frostfire-riem": "Frostfire belt (riem = belt)",
+  "frostfire-sandalen": "Frostfire sandals (sandaal = sandal)",
+  "frostfire-schouderstukken": "Frostfire shoulderpads (schouderstuk = shoulder piece)",
+  "plagueheart-broek": "Plagueheart leggings (broek = trousers)",
+  "plagueheart-diadeem": "Plagueheart circlet (diadeem = circlet)",
+  "plagueheart-gewaad": "Plagueheart robe (gewaad = robe)",
+  "plagueheart-handschoenen": "Plagueheart gloves (handschoen = glove)",
+  "plagueheart-polsbanden": "Plagueheart bindings (polsband = wristband)",
+  "plagueheart-riem": "Plagueheart belt (riem = belt)",
+  "plagueheart-sandalen": "Plagueheart sandals (sandaal = sandal)",
+  "plagueheart-schouderstukken": "Plagueheart shoulderpads (schouderstuk = shoulder piece)",
+  "plagueheart-voorwerpen": "Plagueheart items (voorwerp = item, object)"
+ },
+ "terms": {
+  "lich": "lich: an undead sorcerer who keeps their soul in a phylactery (Warcraft)"
+ }
+}
