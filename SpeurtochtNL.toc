@@ -65,6 +65,7 @@ Data\Batch_113_Orgrimmar.lua
 Data\Batch_40_Stormwind_City.lua
 Data\Batch_114_Undercity.lua
 Data\Batch_41_Stormwind_City.lua
+Data\Batch_115_Thunder_Bluff.lua
 
 Display.lua
 Reader.lua
