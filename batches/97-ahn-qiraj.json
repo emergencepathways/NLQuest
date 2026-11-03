@@ -1,0 +1,1626 @@
+{
+ "quests": {
+  "8640": {
+   "t": "Deathdealer's Leggings",
+   "d": "Wil je je waarde bewijzen aan mijn soort, sterveling? Goed dan. Misschien kunnen we elkaar helpen.$B$BDe oeroude zandworm Ouro is een wezen met legendarische kracht. Men zegt dat de Old God zelf hem heeft geschapen, als een bespotting van het leven.$B$BZijn huid is onnatuurlijk... dik en bijna ondoordringbaar. Toch is ze soepel. Daardoor kan hij zich bewegen met de snelheid en de gratie van een veel kleiner wezen.$B$BBreng me een stukje van zijn huid en nog wat kleinere onderdelen. Dan maak ik voor jou beenstukken met grote kracht.",
+   "o": "Breng Ouro's Intact Hide, 2 Idols of Night, 5 Stone Scarabs en 5 Crystal Scarabs naar Kandrostrasz binnen in Ahn'Qiraj. Je moet ook de reputatie Friendly bij het Brood of Nozdormu bereiken om deze quest af te maken.",
+   "p": "Heb je de spullen die ik vroeg, $n?",
+   "c": "Ja... de huid van de worm wordt een uitstekende beschermende laag. Samen met de sterkste delen van de Qiraji die we onderweg hierheen hebben vernietigd, wordt dit een indrukwekkend stuk harnas. Moge het je helpen tegen de onbeschrijfelijke verschrikkingen die binnen op je wachten!",
+   "g": [
+    [
+     "sterveling",
+     "mortal"
+    ],
+    [
+     "oeroude",
+     "ancient (oeroud)"
+    ],
+    [
+     "zandworm",
+     "sandworm"
+    ],
+    [
+     "legendarische",
+     "legendary"
+    ],
+    [
+     "Men zegt",
+     "it is rumored"
+    ],
+    [
+     "geschapen",
+     "created (scheppen)"
+    ],
+    [
+     "bespotting",
+     "mockery"
+    ],
+    [
+     "onnatuurlijk",
+     "unnatural"
+    ],
+    [
+     "ondoordringbaar",
+     "impregnable"
+    ],
+    [
+     "soepel",
+     "flexible, supple"
+    ],
+    [
+     "gratie",
+     "grace"
+    ],
+    [
+     "beenstukken",
+     "leggings, leg armor (beenstuk)"
+    ],
+    [
+     "indrukwekkend",
+     "formidable, impressive"
+    ],
+    [
+     "onbeschrijfelijke",
+     "unspeakable, indescribable"
+    ],
+    [
+     "verschrikkingen",
+     "horrors (verschrikking)"
+    ]
+   ]
+  },
+  "8641": {
+   "t": "Deathdealer's Spaulders",
+   "d": "Bij ons wordt gezegd dat de sierlijke schouderpantsers van de sterfelijke rassen zijn begonnen als een poging om de vleugels van een draak na te bootsen.$B$BBreng me de banden die de hoogste Qiraji-leiders dragen. Dan vorm ik ze tot schouderstukken die nog angstaanjagender zijn dan zelfs de vleugels van Nefarian zelf!",
+   "o": "Breng de Qiraji Bindings of Command, 2 Idols of the Sun, 5 Silver Scarabs en 5 Clay Scarabs naar Andorgos in Ahn'Qiraj. Je moet ook de reputatie Neutral bij het Brood of Nozdormu bereiken om deze quest af te maken.",
+   "p": "Heb je de onderdelen verzameld die ik nodig heb?",
+   "c": "Van de materialen die je meebrengt en van de schubben van onze gevallen Qiraji-vijanden maak ik deze schouderstukken voor je, sterveling. Mogen ze je de bescherming geven die je nodig hebt. En moge hun aanblik angst zaaien bij onze vijanden.",
+   "g": [
+    [
+     "sierlijke",
+     "ornate, graceful (sierlijk)"
+    ],
+    [
+     "schouderpantsers",
+     "shoulder armor (schouderpantser)"
+    ],
+    [
+     "sterfelijke",
+     "mortal (sterfelijk)"
+    ],
+    [
+     "poging",
+     "attempt"
+    ],
+    [
+     "na te bootsen",
+     "to imitate, emulate (nabootsen)"
+    ],
+    [
+     "banden",
+     "bindings, bands (band)"
+    ],
+    [
+     "schouderstukken",
+     "pauldrons, shoulder pieces (schouderstuk)"
+    ],
+    [
+     "angstaanjagender",
+     "more dreadful (angstaanjagend)"
+    ],
+    [
+     "onderdelen",
+     "components (onderdeel)"
+    ],
+    [
+     "schubben",
+     "scales (schub)"
+    ],
+    [
+     "sterveling",
+     "mortal"
+    ],
+    [
+     "aanblik",
+     "sight"
+    ],
+    [
+     "angst zaaien",
+     "to strike fear, spread fear"
+    ]
+   ]
+  },
+  "8655": {
+   "t": "Avenger's Greaves",
+   "d": "De magie van de Qiraji is sterk en oeroud. De machtigste Qiraji gebruiken voorwerpen met zoveel kracht dat zelfs een draak zou aarzelen.$B$BBreng me de Qiraji Bindings of Dominance en nog wat kleinere onderdelen. Dan maak ik een paar krachtige laarzen voor je.$B$BJe zult er veel aan hebben in de strijd tegen de vijand.",
+   "o": "Breng de Qiraji Bindings of Dominance, 2 Idols of the Sage, 5 Bronze Scarabs en 5 Clay Scarabs naar Kandrostrasz in Ahn'Qiraj. Voor deze quest heb je ook de reputatie Neutral bij het Brood of Nozdormu nodig.",
+   "p": "Heb je de spullen die ik vroeg, $N?",
+   "c": "Goed gedaan, $N. Je hebt bewezen dat je geen gewone sterveling bent.$B$BIk geef je deze in het vertrouwen dat ze je zullen helpen de walgelijke Qiraji te verpletteren.",
+   "g": [
+    [
+     "oeroud",
+     "ancient"
+    ],
+    [
+     "machtigste",
+     "most powerful (machtig)"
+    ],
+    [
+     "voorwerpen",
+     "items, objects (voorwerp)"
+    ],
+    [
+     "aarzelen",
+     "to hesitate, pause"
+    ],
+    [
+     "onderdelen",
+     "components (onderdeel)"
+    ],
+    [
+     "laarzen",
+     "boots (laars)"
+    ],
+    [
+     "sterveling",
+     "mortal"
+    ],
+    [
+     "bewezen",
+     "proven (bewijzen)"
+    ],
+    [
+     "in het vertrouwen",
+     "with the confidence, trusting"
+    ],
+    [
+     "walgelijke",
+     "vile, disgusting (walgelijk)"
+    ],
+    [
+     "verpletteren",
+     "to crush"
+    ]
+   ]
+  },
+  "8656": {
+   "t": "Striker's Hauberk",
+   "d": "De onnoembare Old God ontwaakt langzaam uit zijn slaap onder Ahn'Qiraj. Het vreselijke lot dat Azeroth wacht, kan over dagen of over jaren komen. Tijd betekent niets voor wezens met zijn macht.$B$BAls de sterren gunstig staan, slaat hij met verschrikkelijke woede toe tegen alle levende wezens. Je moet hem vóór die tijd vinden. Zoek een manier om een einde te maken aan zijn bestaan.$B$BDoe dit en breng me een stuk van zijn omhulsel. Dan geef ik je een harnas dat nog geen sterveling ooit heeft gedragen... een harnas dat past bij iemand die een god heeft gedood!",
+   "o": "Breng de Carapace of the Old God, 2 Idols of Life, 5 Gold Scarabs en 5 Clay Scarabs naar Vethsera binnen in Ahn'Qiraj. Je moet ook de reputatie Honored bij het Brood of Nozdormu bereiken om deze quest af te maken.",
+   "p": "In zijn verblijf in Ahn'Qiraj ligt de gevreesde C'Thun te slapen en te wachten.",
+   "c": "Ik had niet verwacht dat je van je poging zou terugkeren, $N.$B$BJe hebt een lot vervuld dat groter is dan dat van de meeste onsterfelijke wezens.$B$BDoor C'Thun te doden heb je niet alleen heel Azeroth gered. Je hebt ook de weegschaal van kosmische gebeurtenissen laten doorslaan. Dat gaat je begrip te boven.$B$BNeem dit borstharnas aan als symbool van de glorie en de last die het gevolg van je daden zullen zijn.$B$BMoge zijn kracht je helpen bij de uitdagingen die op je wachten, godendoder!",
+   "g": [
+    [
+     "onnoembare",
+     "unmentionable (onnoembaar)"
+    ],
+    [
+     "ontwaakt",
+     "awakens (ontwaken)"
+    ],
+    [
+     "lot",
+     "fate, destiny"
+    ],
+    [
+     "gunstig",
+     "favorable"
+    ],
+    [
+     "woede",
+     "wrath, anger"
+    ],
+    [
+     "bestaan",
+     "existence"
+    ],
+    [
+     "omhulsel",
+     "husk, shell"
+    ],
+    [
+     "verblijf",
+     "dwelling"
+    ],
+    [
+     "gevreesde",
+     "dread, feared (gevreesd)"
+    ],
+    [
+     "vervuld",
+     "fulfilled (vervullen)"
+    ],
+    [
+     "onsterfelijke",
+     "immortal (onsterfelijk)"
+    ],
+    [
+     "weegschaal",
+     "scales (for weighing)"
+    ],
+    [
+     "laten doorslaan",
+     "tipped (the scales)"
+    ],
+    [
+     "gaat je begrip te boven",
+     "is beyond your comprehension"
+    ],
+    [
+     "godendoder",
+     "god-slayer"
+    ]
+   ]
+  },
+  "8657": {
+   "t": "Striker's Diadem",
+   "d": "De Twin Emperors... hun eindeloze gefluister tast langzaam mijn verstand aan. Ze bespotten me, omdat ze weten dat ik niet verder hun gebied in kan gaan om mijn broer Arygos te redden.$B$BIn mijn visioenen zie ik hun monsterlijke gezichten, versierd met machtige kronen. Maar ik zal wraak nemen... Ik zal deze symbolen van Qiraji-macht omvormen tot symbolen die beter bij onze behoeften passen.$B$BBreng me de onderdelen die ik nodig heb, $N. Ik maak je een hoofddeksel met ongeëvenaarde kracht.",
+   "o": "Breng Vek'lor's Diadem, 2 Idols of Strife, 5 Bronze Scarabs en 5 Ivory Scarabs naar Andorgos in Ahn'Qiraj. Je moet ook de reputatie Friendly bij het Brood of Nozdormu bereiken om deze quest af te maken.",
+   "p": "Heb je de onderdelen meegebracht waar ik om vroeg, $N?",
+   "c": "Het is je gelukt! Het gefluister van de Twin Emperors is opgehouden.$B$BNeem dit als beloning. Alleen al de aanblik ervan zal angst zaaien in de harten van de Qiraji... Het zal hen herinneren aan hun gevallen leiders en aan de sterveling die hen heeft gedood.",
+   "g": [
+    [
+     "eindeloze",
+     "incessant, endless (eindeloos)"
+    ],
+    [
+     "gefluister",
+     "whispers, whispering"
+    ],
+    [
+     "tast",
+     "affects, erodes (aantasten)"
+    ],
+    [
+     "verstand",
+     "sanity, mind"
+    ],
+    [
+     "bespotten",
+     "mock"
+    ],
+    [
+     "visioenen",
+     "visions (visioen)"
+    ],
+    [
+     "versierd",
+     "adorned (versieren)"
+    ],
+    [
+     "omvormen",
+     "to transmute, transform"
+    ],
+    [
+     "behoeften",
+     "needs (behoefte)"
+    ],
+    [
+     "hoofddeksel",
+     "headpiece"
+    ],
+    [
+     "ongeëvenaarde",
+     "unmatched (ongeëvenaard)"
+    ],
+    [
+     "opgehouden",
+     "ceased (ophouden)"
+    ],
+    [
+     "aanblik",
+     "sight"
+    ],
+    [
+     "angst zaaien",
+     "to strike fear"
+    ]
+   ]
+  },
+  "8658": {
+   "t": "Striker's Leggings",
+   "d": "Wil je je waarde bewijzen aan mijn soort, sterveling? Goed dan. Misschien kunnen we elkaar helpen.$B$BDe oeroude zandworm Ouro is een wezen met legendarische kracht. Men zegt dat de Old God zelf hem heeft geschapen, als een bespotting van het leven.$B$BZijn huid is onnatuurlijk... dik en bijna ondoordringbaar. Toch is ze soepel. Daardoor kan hij zich bewegen met de snelheid en de gratie van een veel kleiner wezen.$B$BBreng me een stukje van zijn huid en nog wat kleinere onderdelen. Dan maak ik voor jou beenstukken met grote kracht.",
+   "o": "Breng de Skin of the Great Sandworm, 2 Idols of the Sun, 5 Silver Scarabs en 5 Bone Scarabs naar Kandrostrasz binnen in Ahn'Qiraj. Je moet ook de reputatie Friendly bij het Brood of Nozdormu bereiken om deze quest af te maken.",
+   "p": "Heb je de spullen die ik vroeg, $n?",
+   "c": "Ja... de huid van de worm wordt een uitstekende beschermende laag. Samen met de sterkste delen van de Qiraji die we onderweg hierheen hebben vernietigd, wordt dit een indrukwekkend stuk harnas. Moge het je helpen tegen de onbeschrijfelijke verschrikkingen die binnen op je wachten!",
+   "g": [
+    [
+     "sterveling",
+     "mortal"
+    ],
+    [
+     "oeroude",
+     "ancient (oeroud)"
+    ],
+    [
+     "zandworm",
+     "sandworm"
+    ],
+    [
+     "legendarische",
+     "legendary"
+    ],
+    [
+     "Men zegt",
+     "it is rumored"
+    ],
+    [
+     "geschapen",
+     "created (scheppen)"
+    ],
+    [
+     "bespotting",
+     "mockery"
+    ],
+    [
+     "onnatuurlijk",
+     "unnatural"
+    ],
+    [
+     "ondoordringbaar",
+     "impregnable"
+    ],
+    [
+     "soepel",
+     "flexible, supple"
+    ],
+    [
+     "gratie",
+     "grace"
+    ],
+    [
+     "beenstukken",
+     "leggings, leg armor (beenstuk)"
+    ],
+    [
+     "indrukwekkend",
+     "formidable, impressive"
+    ],
+    [
+     "onbeschrijfelijke",
+     "unspeakable, indescribable"
+    ],
+    [
+     "verschrikkingen",
+     "horrors (verschrikking)"
+    ]
+   ]
+  },
+  "8659": {
+   "t": "Striker's Pauldrons",
+   "d": "Bij ons wordt gezegd dat de sierlijke schouderpantsers van de sterfelijke rassen zijn begonnen als een poging om de vleugels van een draak na te bootsen.$B$BBreng me de banden die de hoogste Qiraji-leiders dragen. Dan vorm ik ze tot schouderstukken die nog angstaanjagender zijn dan zelfs de vleugels van Nefarian zelf!",
+   "o": "Breng de Qiraji Bindings of Command, 2 Idols of War, 5 Crystal Scarabs en 5 Ivory Scarabs naar Andorgos in Ahn'Qiraj. Je moet ook de reputatie Neutral bij het Brood of Nozdormu bereiken om deze quest af te maken.",
+   "p": "Heb je de onderdelen verzameld die ik nodig heb?",
+   "c": "Van de materialen die je meebrengt en van de schubben van onze gevallen Qiraji-vijanden maak ik deze schouderstukken voor je, sterveling. Mogen ze je de bescherming geven die je nodig hebt. En moge hun aanblik angst zaaien bij onze vijanden.",
+   "g": [
+    [
+     "sierlijke",
+     "ornate, graceful (sierlijk)"
+    ],
+    [
+     "schouderpantsers",
+     "shoulder armor (schouderpantser)"
+    ],
+    [
+     "sterfelijke",
+     "mortal (sterfelijk)"
+    ],
+    [
+     "poging",
+     "attempt"
+    ],
+    [
+     "na te bootsen",
+     "to imitate, emulate (nabootsen)"
+    ],
+    [
+     "banden",
+     "bindings, bands (band)"
+    ],
+    [
+     "schouderstukken",
+     "pauldrons, shoulder pieces (schouderstuk)"
+    ],
+    [
+     "angstaanjagender",
+     "more dreadful (angstaanjagend)"
+    ],
+    [
+     "onderdelen",
+     "components (onderdeel)"
+    ],
+    [
+     "schubben",
+     "scales (schub)"
+    ],
+    [
+     "sterveling",
+     "mortal"
+    ],
+    [
+     "aanblik",
+     "sight"
+    ],
+    [
+     "angst zaaien",
+     "to strike fear, spread fear"
+    ]
+   ]
+  },
+  "8660": {
+   "t": "Doomcaller's Footwraps",
+   "d": "De magie van de Qiraji is sterk en oeroud. De machtigste Qiraji gebruiken voorwerpen met zoveel kracht dat zelfs een draak zou aarzelen.$B$BBreng me de Qiraji Bindings of Dominance en nog wat kleinere onderdelen. Dan maak ik een paar krachtige laarzen voor je.$B$BJe zult er veel aan hebben in de strijd tegen de vijand.",
+   "o": "Breng de Qiraji Bindings of Dominance, 2 Idols of Night, 5 Clay Scarabs en 5 Ivory Scarabs naar Kandrostrasz in Ahn'Qiraj. Voor deze quest heb je ook de reputatie Neutral bij het Brood of Nozdormu nodig.",
+   "p": "Heb je de spullen die ik vroeg, $N?",
+   "c": "Goed gedaan, $N. Je hebt bewezen dat je geen gewone sterveling bent.$B$BIk geef je deze in het vertrouwen dat ze je zullen helpen de walgelijke Qiraji te verpletteren.",
+   "g": [
+    [
+     "oeroud",
+     "ancient"
+    ],
+    [
+     "machtigste",
+     "most powerful (machtig)"
+    ],
+    [
+     "voorwerpen",
+     "items, objects (voorwerp)"
+    ],
+    [
+     "aarzelen",
+     "to hesitate, pause"
+    ],
+    [
+     "onderdelen",
+     "components (onderdeel)"
+    ],
+    [
+     "laarzen",
+     "boots (laars)"
+    ],
+    [
+     "sterveling",
+     "mortal"
+    ],
+    [
+     "bewezen",
+     "proven (bewijzen)"
+    ],
+    [
+     "in het vertrouwen",
+     "with the confidence, trusting"
+    ],
+    [
+     "walgelijke",
+     "vile, disgusting (walgelijk)"
+    ],
+    [
+     "verpletteren",
+     "to crush"
+    ]
+   ]
+  },
+  "8661": {
+   "t": "Doomcaller's Robes",
+   "d": "De onnoembare Old God ontwaakt langzaam uit zijn slaap onder Ahn'Qiraj. Het vreselijke lot dat Azeroth wacht, kan over dagen of over jaren komen. Tijd betekent niets voor wezens met zijn macht.$B$BAls de sterren gunstig staan, slaat hij met verschrikkelijke woede toe tegen alle levende wezens. Je moet hem vóór die tijd vinden. Zoek een manier om een einde te maken aan zijn bestaan.$B$BDoe dit en breng me een stuk van zijn omhulsel. Dan geef ik je een harnas dat nog geen sterveling ooit heeft gedragen... een harnas dat past bij iemand die een god heeft gedood!",
+   "o": "Breng de Husk of the Old God, 2 Idols of Night, 5 Stone Scarabs en 5 Crystal Scarabs naar Vethsera binnen in Ahn'Qiraj. Je moet ook de reputatie Honored bij het Brood of Nozdormu bereiken om deze quest af te maken.",
+   "p": "In zijn verblijf in Ahn'Qiraj ligt de gevreesde C'Thun te slapen en te wachten.",
+   "c": "Ik had niet verwacht dat je van je poging zou terugkeren, $n.$b$bJe hebt een lot vervuld dat groter is dan dat van de meeste onsterfelijke wezens.$b$bDoor C'Thun te doden heb je niet alleen heel Azeroth gered. Je hebt ook de weegschaal van kosmische gebeurtenissen laten doorslaan. Dat gaat je begrip te boven.$b$bNeem deze gewaden aan als symbool van de glorie en de last die het gevolg van je daden zullen zijn.$b$bMoge hun kracht je helpen bij de uitdagingen die op je wachten, godendoder!",
+   "g": [
+    [
+     "onnoembare",
+     "unmentionable (onnoembaar)"
+    ],
+    [
+     "ontwaakt",
+     "awakens (ontwaken)"
+    ],
+    [
+     "lot",
+     "fate, destiny"
+    ],
+    [
+     "gunstig",
+     "favorable"
+    ],
+    [
+     "woede",
+     "wrath, anger"
+    ],
+    [
+     "bestaan",
+     "existence"
+    ],
+    [
+     "omhulsel",
+     "husk, shell"
+    ],
+    [
+     "verblijf",
+     "dwelling"
+    ],
+    [
+     "gevreesde",
+     "dread, feared (gevreesd)"
+    ],
+    [
+     "vervuld",
+     "fulfilled (vervullen)"
+    ],
+    [
+     "onsterfelijke",
+     "immortal (onsterfelijk)"
+    ],
+    [
+     "weegschaal",
+     "scales (for weighing)"
+    ],
+    [
+     "laten doorslaan",
+     "tipped (the scales)"
+    ],
+    [
+     "gaat je begrip te boven",
+     "is beyond your comprehension"
+    ],
+    [
+     "godendoder",
+     "god-slayer"
+    ]
+   ]
+  },
+  "8662": {
+   "t": "Doomcaller's Circlet",
+   "d": "De Twin Emperors... hun eindeloze gefluister tast langzaam mijn verstand aan. Ze bespotten me, omdat ze weten dat ik niet verder hun gebied in kan gaan om mijn broer Arygos te redden.$B$BIn mijn visioenen zie ik hun monsterlijke gezichten, versierd met machtige kronen. Maar ik zal wraak nemen... Ik zal deze symbolen van Qiraji-macht omvormen tot symbolen die beter bij onze behoeften passen.$B$BBreng me de onderdelen die ik nodig heb, $N. Ik geef je een hoofddeksel met ongeëvenaarde kracht.",
+   "o": "Breng Vek'nilash's Circlet, 2 Idols of Death, 5 Silver Scarabs en 5 Bone Scarabs naar Andorgos in Ahn'Qiraj. Je moet ook de reputatie Friendly bij het Brood of Nozdormu bereiken om deze quest af te maken.",
+   "p": "Heb je de onderdelen meegebracht waar ik om vroeg, $N?",
+   "c": "Het is je gelukt! Het gefluister van de Twin Emperors is opgehouden.$B$BNeem dit als beloning. Alleen al de aanblik ervan zal angst zaaien in de harten van de Qiraji... Het zal hen herinneren aan hun gevallen leiders en aan de sterveling die hen heeft gedood.",
+   "g": [
+    [
+     "eindeloze",
+     "incessant, endless (eindeloos)"
+    ],
+    [
+     "gefluister",
+     "whispers, whispering"
+    ],
+    [
+     "tast",
+     "affects, erodes (aantasten)"
+    ],
+    [
+     "verstand",
+     "sanity, mind"
+    ],
+    [
+     "bespotten",
+     "mock"
+    ],
+    [
+     "visioenen",
+     "visions (visioen)"
+    ],
+    [
+     "versierd",
+     "adorned (versieren)"
+    ],
+    [
+     "omvormen",
+     "to transmute, transform"
+    ],
+    [
+     "behoeften",
+     "needs (behoefte)"
+    ],
+    [
+     "hoofddeksel",
+     "headpiece"
+    ],
+    [
+     "ongeëvenaarde",
+     "unmatched (ongeëvenaard)"
+    ],
+    [
+     "opgehouden",
+     "ceased (ophouden)"
+    ],
+    [
+     "aanblik",
+     "sight"
+    ],
+    [
+     "angst zaaien",
+     "to strike fear"
+    ]
+   ]
+  },
+  "8663": {
+   "t": "Doomcaller's Trousers",
+   "d": "Wil je je waarde bewijzen aan mijn soort, sterveling? Goed dan. Misschien kunnen we elkaar helpen.$B$BDe oeroude zandworm Ouro is een wezen met legendarische kracht. Men zegt dat de Old God zelf hem heeft geschapen, als een bespotting van het leven.$B$BZijn huid is onnatuurlijk... dik en bijna ondoordringbaar. Toch is ze soepel. Daardoor kan hij zich bewegen met de snelheid en de gratie van een veel kleiner wezen.$B$BBreng me een stukje van zijn huid en nog wat kleinere onderdelen. Dan maak ik voor jou beenstukken met grote kracht.",
+   "o": "Breng de Skin of the Great Sandworm, 2 Idols of Rebirth, 5 Gold Scarabs en 5 Clay Scarabs naar Kandrostrasz binnen in Ahn'Qiraj. Je moet ook de reputatie Friendly bij het Brood of Nozdormu bereiken om deze quest af te maken.",
+   "p": "Heb je de onderdelen meegebracht die ik nodig heb, $N?",
+   "c": "Ja... de huid van de worm wordt een uitstekende beschermende laag. Samen met de sterkste delen van de Qiraji die we onderweg hierheen hebben vernietigd, wordt dit een indrukwekkend stuk harnas. Moge het je helpen tegen de onbeschrijfelijke verschrikkingen die binnen op je wachten!",
+   "g": [
+    [
+     "sterveling",
+     "mortal"
+    ],
+    [
+     "oeroude",
+     "ancient (oeroud)"
+    ],
+    [
+     "zandworm",
+     "sandworm"
+    ],
+    [
+     "legendarische",
+     "legendary"
+    ],
+    [
+     "Men zegt",
+     "it is rumored"
+    ],
+    [
+     "geschapen",
+     "created (scheppen)"
+    ],
+    [
+     "bespotting",
+     "mockery"
+    ],
+    [
+     "onnatuurlijk",
+     "unnatural"
+    ],
+    [
+     "ondoordringbaar",
+     "impregnable"
+    ],
+    [
+     "soepel",
+     "flexible, supple"
+    ],
+    [
+     "gratie",
+     "grace"
+    ],
+    [
+     "beenstukken",
+     "leggings, leg armor (beenstuk)"
+    ],
+    [
+     "indrukwekkend",
+     "formidable, impressive"
+    ],
+    [
+     "onbeschrijfelijke",
+     "unspeakable, indescribable"
+    ],
+    [
+     "verschrikkingen",
+     "horrors (verschrikking)"
+    ]
+   ]
+  },
+  "8664": {
+   "t": "Doomcaller's Mantle",
+   "d": "Bij ons wordt gezegd dat de sierlijke schouderpantsers van de sterfelijke rassen zijn begonnen als een poging om de vleugels van een draak na te bootsen.$B$BBreng me de banden die de hoogste Qiraji-leiders dragen. Dan vorm ik ze tot schouderstukken die nog angstaanjagender zijn dan zelfs de vleugels van Nefarian zelf!",
+   "o": "Breng de Qiraji Bindings of Dominance, 2 Idols of the Sage, 5 Bronze Scarabs en 5 Bone Scarabs naar Andorgos in Ahn'Qiraj. Je moet ook de reputatie Neutral bij het Brood of Nozdormu bereiken om deze quest af te maken.",
+   "p": "Heb je de onderdelen verzameld die ik nodig heb?",
+   "c": "Van de materialen die je meebrengt en van de schubben van onze gevallen Qiraji-vijanden maak ik deze schouderstukken voor je, sterveling. Mogen ze je de bescherming geven die je nodig hebt. En moge hun aanblik angst zaaien bij onze vijanden.",
+   "g": [
+    [
+     "sierlijke",
+     "ornate, graceful (sierlijk)"
+    ],
+    [
+     "schouderpantsers",
+     "shoulder armor (schouderpantser)"
+    ],
+    [
+     "sterfelijke",
+     "mortal (sterfelijk)"
+    ],
+    [
+     "poging",
+     "attempt"
+    ],
+    [
+     "na te bootsen",
+     "to imitate, emulate (nabootsen)"
+    ],
+    [
+     "banden",
+     "bindings, bands (band)"
+    ],
+    [
+     "schouderstukken",
+     "pauldrons, shoulder pieces (schouderstuk)"
+    ],
+    [
+     "angstaanjagender",
+     "more dreadful (angstaanjagend)"
+    ],
+    [
+     "onderdelen",
+     "components (onderdeel)"
+    ],
+    [
+     "schubben",
+     "scales (schub)"
+    ],
+    [
+     "sterveling",
+     "mortal"
+    ],
+    [
+     "aanblik",
+     "sight"
+    ],
+    [
+     "angst zaaien",
+     "to strike fear, spread fear"
+    ]
+   ]
+  },
+  "8665": {
+   "t": "Genesis Boots",
+   "d": "De magie van de Qiraji is sterk en oeroud. De machtigste Qiraji gebruiken voorwerpen met zoveel kracht dat zelfs een draak zou aarzelen.$B$BBreng me de Qiraji Bindings of Dominance en nog wat kleinere onderdelen. Dan maak ik een paar krachtige laarzen voor je.$B$BJe zult er veel aan hebben in de strijd tegen de vijand.",
+   "o": "Breng de Qiraji Bindings of Dominance, 2 Idols of Rebirth, 5 Stone Scarabs en 5 Silver Scarabs naar Kandrostrasz in Ahn'Qiraj. Voor deze quest heb je ook de reputatie Neutral bij het Brood of Nozdormu nodig.",
+   "p": "Heb je de spullen die ik vroeg, $N?",
+   "c": "Goed gedaan, $N. Je hebt bewezen dat je geen gewone sterveling bent.$B$BIk geef je deze in het vertrouwen dat ze je zullen helpen de walgelijke Qiraji te verpletteren.",
+   "g": [
+    [
+     "oeroud",
+     "ancient"
+    ],
+    [
+     "machtigste",
+     "most powerful (machtig)"
+    ],
+    [
+     "voorwerpen",
+     "items, objects (voorwerp)"
+    ],
+    [
+     "aarzelen",
+     "to hesitate, pause"
+    ],
+    [
+     "onderdelen",
+     "components (onderdeel)"
+    ],
+    [
+     "laarzen",
+     "boots (laars)"
+    ],
+    [
+     "sterveling",
+     "mortal"
+    ],
+    [
+     "bewezen",
+     "proven (bewijzen)"
+    ],
+    [
+     "in het vertrouwen",
+     "with the confidence, trusting"
+    ],
+    [
+     "walgelijke",
+     "vile, disgusting (walgelijk)"
+    ],
+    [
+     "verpletteren",
+     "to crush"
+    ]
+   ]
+  },
+  "8666": {
+   "t": "Genesis Vest",
+   "d": "De onnoembare Old God ontwaakt langzaam uit zijn slaap onder Ahn'Qiraj. Het vreselijke lot dat Azeroth wacht, kan over dagen of over jaren komen. Tijd betekent niets voor wezens met zijn macht.$B$BAls de sterren gunstig staan, slaat hij met verschrikkelijke woede toe tegen alle levende wezens. Je moet hem vóór die tijd vinden. Zoek een manier om een einde te maken aan zijn bestaan.$B$BDoe dit en breng me een stuk van zijn omhulsel. Dan geef ik je een harnas dat nog geen sterveling ooit heeft gedragen... een harnas dat past bij iemand die een god heeft gedood!",
+   "o": "Breng de Husk of the Old God, 2 Idols of Rebirth, 5 Bronze Scarabs en 5 Ivory Scarabs naar Vethsera binnen in Ahn'Qiraj. Je moet ook de reputatie Honored bij het Brood of Nozdormu bereiken om deze quest af te maken.",
+   "p": "In zijn verblijf in Ahn'Qiraj ligt de gevreesde C'Thun te slapen en te wachten.",
+   "c": "Ik had niet verwacht dat je van je poging zou terugkeren, $N.$B$BJe hebt een lot vervuld dat groter is dan dat van de meeste onsterfelijke wezens.$B$BDoor C'Thun te doden heb je niet alleen heel Azeroth gered. Je hebt ook de weegschaal van kosmische gebeurtenissen laten doorslaan. Dat gaat je begrip te boven.$B$BNeem dit borstharnas aan als symbool van de glorie en de last die het gevolg van je daden zullen zijn.$B$BMoge zijn kracht je helpen bij de uitdagingen die op je wachten, godendoder!",
+   "g": [
+    [
+     "onnoembare",
+     "unmentionable (onnoembaar)"
+    ],
+    [
+     "ontwaakt",
+     "awakens (ontwaken)"
+    ],
+    [
+     "lot",
+     "fate, destiny"
+    ],
+    [
+     "gunstig",
+     "favorable"
+    ],
+    [
+     "woede",
+     "wrath, anger"
+    ],
+    [
+     "bestaan",
+     "existence"
+    ],
+    [
+     "omhulsel",
+     "husk, shell"
+    ],
+    [
+     "verblijf",
+     "dwelling"
+    ],
+    [
+     "gevreesde",
+     "dread, feared (gevreesd)"
+    ],
+    [
+     "vervuld",
+     "fulfilled (vervullen)"
+    ],
+    [
+     "onsterfelijke",
+     "immortal (onsterfelijk)"
+    ],
+    [
+     "weegschaal",
+     "scales (for weighing)"
+    ],
+    [
+     "laten doorslaan",
+     "tipped (the scales)"
+    ],
+    [
+     "gaat je begrip te boven",
+     "is beyond your comprehension"
+    ],
+    [
+     "godendoder",
+     "god-slayer"
+    ]
+   ]
+  },
+  "8667": {
+   "t": "Genesis Helm",
+   "d": "De Twin Emperors... hun eindeloze gefluister tast langzaam mijn verstand aan. Ze bespotten me, omdat ze weten dat ik niet verder hun gebied in kan gaan om mijn broer Arygos te redden.$B$BIn mijn visioenen zie ik hun monsterlijke gezichten, versierd met machtige kronen. Maar ik zal wraak nemen... Ik zal deze symbolen van Qiraji-macht omvormen tot symbolen die beter bij onze behoeften passen.$B$BBreng me de onderdelen die ik nodig heb, $N. Ik geef je een hoofddeksel met ongeëvenaarde kracht.",
+   "o": "Breng Vek'lor's Diadem, 2 Idols of Life, 5 Gold Scarabs en 5 Clay Scarabs naar Andorgos in Ahn'Qiraj. Je moet ook de reputatie Friendly bij het Brood of Nozdormu bereiken om deze quest af te maken.",
+   "p": "Heb je de onderdelen meegebracht waar ik om vroeg, $N?",
+   "c": "Het is je gelukt! Het gefluister van de Twin Emperors is opgehouden.$B$BNeem dit als beloning. Alleen al de aanblik ervan zal angst zaaien in de harten van de Qiraji... Het zal hen herinneren aan hun gevallen leiders en aan de sterveling die hen heeft gedood.",
+   "g": [
+    [
+     "eindeloze",
+     "incessant, endless (eindeloos)"
+    ],
+    [
+     "gefluister",
+     "whispers, whispering"
+    ],
+    [
+     "tast",
+     "affects, erodes (aantasten)"
+    ],
+    [
+     "verstand",
+     "sanity, mind"
+    ],
+    [
+     "bespotten",
+     "mock"
+    ],
+    [
+     "visioenen",
+     "visions (visioen)"
+    ],
+    [
+     "versierd",
+     "adorned (versieren)"
+    ],
+    [
+     "omvormen",
+     "to transmute, transform"
+    ],
+    [
+     "behoeften",
+     "needs (behoefte)"
+    ],
+    [
+     "hoofddeksel",
+     "headpiece"
+    ],
+    [
+     "ongeëvenaarde",
+     "unmatched (ongeëvenaard)"
+    ],
+    [
+     "opgehouden",
+     "ceased (ophouden)"
+    ],
+    [
+     "aanblik",
+     "sight"
+    ],
+    [
+     "angst zaaien",
+     "to strike fear"
+    ]
+   ]
+  },
+  "8668": {
+   "t": "Genesis Trousers",
+   "d": "Wil je je waarde bewijzen aan mijn soort, sterveling? Goed dan. Misschien kunnen we elkaar helpen.$B$BDe oeroude zandworm Ouro is een wezen met legendarische kracht. Men zegt dat de Old God zelf hem heeft geschapen, als een bespotting van het leven.$B$BZijn huid is onnatuurlijk... dik en bijna ondoordringbaar. Toch is ze soepel. Daardoor kan hij zich bewegen met de snelheid en de gratie van een veel kleiner wezen.$B$BBreng me een stukje van zijn huid en nog wat kleinere onderdelen. Dan maak ik voor jou beenstukken met grote kracht.",
+   "o": "Breng de Skin of the Great Sandworm, 2 Idols of War, 5 Stone Scarabs en 5 Crystal Scarabs naar Kandrostrasz binnen in Ahn'Qiraj. Je moet ook de reputatie Friendly bij het Brood of Nozdormu bereiken om deze quest af te maken.",
+   "p": "Heb je de onderdelen meegebracht die ik nodig heb, $N?",
+   "c": "Ja... de huid van de worm wordt een uitstekende beschermende laag. Samen met de sterkste delen van de Qiraji die we onderweg hierheen hebben vernietigd, wordt dit een indrukwekkend stuk harnas. Moge het je helpen tegen de onbeschrijfelijke verschrikkingen die binnen op je wachten!",
+   "g": [
+    [
+     "sterveling",
+     "mortal"
+    ],
+    [
+     "oeroude",
+     "ancient (oeroud)"
+    ],
+    [
+     "zandworm",
+     "sandworm"
+    ],
+    [
+     "legendarische",
+     "legendary"
+    ],
+    [
+     "Men zegt",
+     "it is rumored"
+    ],
+    [
+     "geschapen",
+     "created (scheppen)"
+    ],
+    [
+     "bespotting",
+     "mockery"
+    ],
+    [
+     "onnatuurlijk",
+     "unnatural"
+    ],
+    [
+     "ondoordringbaar",
+     "impregnable"
+    ],
+    [
+     "soepel",
+     "flexible, supple"
+    ],
+    [
+     "gratie",
+     "grace"
+    ],
+    [
+     "beenstukken",
+     "leggings, leg armor (beenstuk)"
+    ],
+    [
+     "indrukwekkend",
+     "formidable, impressive"
+    ],
+    [
+     "onbeschrijfelijke",
+     "unspeakable, indescribable"
+    ],
+    [
+     "verschrikkingen",
+     "horrors (verschrikking)"
+    ]
+   ]
+  },
+  "8669": {
+   "t": "Genesis Shoulderpads",
+   "d": "Bij ons wordt gezegd dat de sierlijke schouderpantsers van de sterfelijke rassen zijn begonnen als een poging om de vleugels van een draak na te bootsen.$B$BBreng me de banden die de hoogste Qiraji-leiders dragen. Dan vorm ik ze tot schouderstukken die nog angstaanjagender zijn dan zelfs de vleugels van Nefarian zelf!",
+   "o": "Breng de Qiraji Bindings of Dominance, 2 Idols of Strife, 5 Gold Scarabs en 5 Bone Scarabs naar Andorgos in Ahn'Qiraj. Je moet ook de reputatie Neutral bij het Brood of Nozdormu bereiken om deze quest af te maken.",
+   "p": "Heb je de onderdelen verzameld die ik nodig heb?",
+   "c": "Van de materialen die je meebrengt en van de schubben van onze gevallen Qiraji-vijanden maak ik deze schouderstukken voor je, sterveling. Mogen ze je de bescherming geven die je nodig hebt. En moge hun aanblik angst zaaien bij onze vijanden.",
+   "g": [
+    [
+     "sierlijke",
+     "ornate, graceful (sierlijk)"
+    ],
+    [
+     "schouderpantsers",
+     "shoulder armor (schouderpantser)"
+    ],
+    [
+     "sterfelijke",
+     "mortal (sterfelijk)"
+    ],
+    [
+     "poging",
+     "attempt"
+    ],
+    [
+     "na te bootsen",
+     "to imitate, emulate (nabootsen)"
+    ],
+    [
+     "banden",
+     "bindings, bands (band)"
+    ],
+    [
+     "schouderstukken",
+     "pauldrons, shoulder pieces (schouderstuk)"
+    ],
+    [
+     "angstaanjagender",
+     "more dreadful (angstaanjagend)"
+    ],
+    [
+     "onderdelen",
+     "components (onderdeel)"
+    ],
+    [
+     "schubben",
+     "scales (schub)"
+    ],
+    [
+     "sterveling",
+     "mortal"
+    ],
+    [
+     "aanblik",
+     "sight"
+    ],
+    [
+     "angst zaaien",
+     "to strike fear, spread fear"
+    ]
+   ]
+  },
+  "8689": {
+   "t": "Shroud of Infinite Wisdom",
+   "d": "Fijn om te horen dat je ons helpt bij onze aanval op Ahn'Qiraj, $N. Ik kan een beschermend voorwerp voor je maken dat je zal helpen in de strijd tegen onze vijand, $c.$B$BIk heb een Qiraji-doek nodig. Die pas ik natuurlijk aan jouw maat aan. Ik heb ook beeldjes en scarabeeën nodig. Daarmee maak ik een passende sluiting.$B$BIk beloof je dat je niet teleurgesteld zult zijn.",
+   "o": "Breng 1 Qiraji Martial Drape, 2 Jasper Idols, 5 Gold Scarabs en 5 Clay Scarabs naar Keyl Swiftclaw in Silithus. Je moet ook de reputatie Revered bij de Cenarion Circle bereiken om deze quest af te maken.",
+   "p": "Heb je de materialen voor de mantel meegebracht, $N?",
+   "c": "Ah ja... deze doek is smetteloos.$B$BNeem deze mantel, $N. Moge hij je beschermen tegen de smerige magie van de Qiraji.",
+   "g": [
+    [
+     "beschermend",
+     "protective"
+    ],
+    [
+     "voorwerp",
+     "item, object"
+    ],
+    [
+     "doek",
+     "drape, cloth"
+    ],
+    [
+     "aan jouw maat aan",
+     "to your size (aanpassen)"
+    ],
+    [
+     "beeldjes",
+     "idols, statuettes (beeldje)"
+    ],
+    [
+     "scarabeeën",
+     "scarabs (scarabee)"
+    ],
+    [
+     "passende",
+     "suitable (passend)"
+    ],
+    [
+     "sluiting",
+     "clasp, fastening"
+    ],
+    [
+     "teleurgesteld",
+     "disappointed"
+    ],
+    [
+     "smetteloos",
+     "immaculate, spotless"
+    ],
+    [
+     "mantel",
+     "cloak"
+    ],
+    [
+     "smerige",
+     "foul, filthy (smerig)"
+    ],
+    [
+     "bereiken",
+     "to attain, reach"
+    ]
+   ]
+  },
+  "8691": {
+   "t": "Drape of Vaulted Secrets",
+   "d": "Fijn om te horen dat je ons helpt bij onze aanval op Ahn'Qiraj, $N. Ik kan een beschermend voorwerp voor je maken dat je zal helpen in de strijd tegen onze vijand, $c.$B$BIk heb een Qiraji-doek nodig. Die pas ik natuurlijk aan jouw maat aan. Ik heb ook beeldjes en scarabeeën nodig. Daarmee maak ik een passende sluiting.$B$BIk beloof je dat je niet teleurgesteld zult zijn.",
+   "o": "Breng 1 Qiraji Martial Drape, 2 Alabaster Idols, 5 Stone Scarabs en 5 Crystal Scarabs naar Keyl Swiftclaw in Silithus. Je moet ook de reputatie Revered bij de Cenarion Circle bereiken om deze quest af te maken.",
+   "p": "Heb je de materialen voor de mantel meegebracht, $N?",
+   "c": "Ah ja... deze doek is smetteloos.$B$BNeem deze mantel, $N. Moge hij je beschermen tegen de smerige magie van de Qiraji.",
+   "g": [
+    [
+     "beschermend",
+     "protective"
+    ],
+    [
+     "voorwerp",
+     "item, object"
+    ],
+    [
+     "doek",
+     "drape, cloth"
+    ],
+    [
+     "aan jouw maat aan",
+     "to your size (aanpassen)"
+    ],
+    [
+     "beeldjes",
+     "idols, statuettes (beeldje)"
+    ],
+    [
+     "scarabeeën",
+     "scarabs (scarabee)"
+    ],
+    [
+     "passende",
+     "suitable (passend)"
+    ],
+    [
+     "sluiting",
+     "clasp, fastening"
+    ],
+    [
+     "teleurgesteld",
+     "disappointed"
+    ],
+    [
+     "smetteloos",
+     "immaculate, spotless"
+    ],
+    [
+     "mantel",
+     "cloak"
+    ],
+    [
+     "smerige",
+     "foul, filthy (smerig)"
+    ],
+    [
+     "bereiken",
+     "to attain, reach"
+    ]
+   ]
+  },
+  "8692": {
+   "t": "Cloak of Unending Life",
+   "d": "Fijn om te horen dat je ons helpt bij onze aanval op Ahn'Qiraj, $N. Ik kan een beschermend voorwerp voor je maken dat je zal helpen in de strijd tegen onze vijand, $c.$B$BIk heb een Qiraji-doek nodig. Die pas ik natuurlijk aan jouw maat aan. Ik heb ook beeldjes en scarabeeën nodig. Daarmee maak ik een passende sluiting.$B$BIk beloof je dat je niet teleurgesteld zult zijn.",
+   "o": "Breng 1 Qiraji Regal Drape, 2 Vermillion Idols, 5 Silver Scarabs en 5 Bone Scarabs naar Keyl Swiftclaw in Silithus. Je moet ook de reputatie Revered bij de Cenarion Circle bereiken om deze quest af te maken.",
+   "p": "Heb je de materialen voor de mantel meegebracht, $N?",
+   "c": "Ah ja... deze doek is smetteloos.$B$BNeem deze mantel, $N. Moge hij je beschermen tegen de smerige magie van de Qiraji.",
+   "g": [
+    [
+     "beschermend",
+     "protective"
+    ],
+    [
+     "voorwerp",
+     "item, object"
+    ],
+    [
+     "doek",
+     "drape, cloth"
+    ],
+    [
+     "aan jouw maat aan",
+     "to your size (aanpassen)"
+    ],
+    [
+     "beeldjes",
+     "idols, statuettes (beeldje)"
+    ],
+    [
+     "scarabeeën",
+     "scarabs (scarabee)"
+    ],
+    [
+     "passende",
+     "suitable (passend)"
+    ],
+    [
+     "sluiting",
+     "clasp, fastening"
+    ],
+    [
+     "teleurgesteld",
+     "disappointed"
+    ],
+    [
+     "smetteloos",
+     "immaculate, spotless"
+    ],
+    [
+     "mantel",
+     "cloak"
+    ],
+    [
+     "smerige",
+     "foul, filthy (smerig)"
+    ],
+    [
+     "bereiken",
+     "to attain, reach"
+    ]
+   ]
+  },
+  "8693": {
+   "t": "Cloak of Veiled Shadows",
+   "d": "Fijn om te horen dat je ons helpt bij onze aanval op Ahn'Qiraj, $N. Ik kan een beschermend voorwerp voor je maken dat je zal helpen in de strijd tegen onze vijand, $c.$B$BIk heb een Qiraji-doek nodig. Die pas ik natuurlijk aan jouw maat aan. Ik heb ook beeldjes en scarabeeën nodig. Daarmee maak ik een passende sluiting.$B$BIk beloof je dat je niet teleurgesteld zult zijn.",
+   "o": "Breng 1 Qiraji Martial Drape, 2 Azure Idols, 5 Bronze Scarabs en 5 Ivory Scarabs naar Keyl Swiftclaw in Silithus. Je moet ook de reputatie Revered bij de Cenarion Circle bereiken om deze quest af te maken.",
+   "p": "Heb je de materialen voor de mantel meegebracht, $N?",
+   "c": "Ah ja... deze doek is smetteloos.$B$BNeem deze mantel, $N. Moge hij je beschermen tegen de smerige magie van de Qiraji.",
+   "g": [
+    [
+     "beschermend",
+     "protective"
+    ],
+    [
+     "voorwerp",
+     "item, object"
+    ],
+    [
+     "doek",
+     "drape, cloth"
+    ],
+    [
+     "aan jouw maat aan",
+     "to your size (aanpassen)"
+    ],
+    [
+     "beeldjes",
+     "idols, statuettes (beeldje)"
+    ],
+    [
+     "scarabeeën",
+     "scarabs (scarabee)"
+    ],
+    [
+     "passende",
+     "suitable (passend)"
+    ],
+    [
+     "sluiting",
+     "clasp, fastening"
+    ],
+    [
+     "teleurgesteld",
+     "disappointed"
+    ],
+    [
+     "smetteloos",
+     "immaculate, spotless"
+    ],
+    [
+     "mantel",
+     "cloak"
+    ],
+    [
+     "smerige",
+     "foul, filthy (smerig)"
+    ],
+    [
+     "bereiken",
+     "to attain, reach"
+    ]
+   ]
+  },
+  "8694": {
+   "t": "Shroud of Unspoken Names",
+   "d": "Fijn om te horen dat je ons helpt bij onze aanval op Ahn'Qiraj, $N. Ik kan een beschermend voorwerp voor je maken dat je zal helpen in de strijd tegen onze vijand, $c.$B$BIk heb een Qiraji-doek nodig. Die pas ik natuurlijk aan jouw maat aan. Ik heb ook beeldjes en scarabeeën nodig. Daarmee maak ik een passende sluiting.$B$BIk beloof je dat je niet teleurgesteld zult zijn.",
+   "o": "Breng 1 Qiraji Regal Drape, 2 Amber Idols, 5 Ivory Scarabs en 5 Bronze Scarabs naar Keyl Swiftclaw in Silithus. Je moet ook de reputatie Revered bij de Cenarion Circle bereiken om deze quest af te maken.",
+   "p": "Heb je de materialen voor de mantel meegebracht, $N?",
+   "c": "Ah ja... deze doek is smetteloos.$B$BNeem deze mantel, $N. Moge hij je beschermen tegen de smerige magie van de Qiraji.",
+   "g": [
+    [
+     "beschermend",
+     "protective"
+    ],
+    [
+     "voorwerp",
+     "item, object"
+    ],
+    [
+     "doek",
+     "drape, cloth"
+    ],
+    [
+     "aan jouw maat aan",
+     "to your size (aanpassen)"
+    ],
+    [
+     "beeldjes",
+     "idols, statuettes (beeldje)"
+    ],
+    [
+     "scarabeeën",
+     "scarabs (scarabee)"
+    ],
+    [
+     "passende",
+     "suitable (passend)"
+    ],
+    [
+     "sluiting",
+     "clasp, fastening"
+    ],
+    [
+     "teleurgesteld",
+     "disappointed"
+    ],
+    [
+     "smetteloos",
+     "immaculate, spotless"
+    ],
+    [
+     "mantel",
+     "cloak"
+    ],
+    [
+     "smerige",
+     "foul, filthy (smerig)"
+    ],
+    [
+     "bereiken",
+     "to attain, reach"
+    ]
+   ]
+  },
+  "8695": {
+   "t": "Cape of Eternal Justice",
+   "d": "Fijn om te horen dat je ons helpt bij onze aanval op Ahn'Qiraj, $N. Ik kan een beschermend voorwerp voor je maken dat je zal helpen in de strijd tegen onze vijand, $c.$B$BIk heb een Qiraji-doek nodig. Die pas ik natuurlijk aan jouw maat aan. Ik heb ook beeldjes en scarabeeën nodig. Daarmee maak ik een passende sluiting.$B$BIk beloof je dat je niet teleurgesteld zult zijn.",
+   "o": "Breng 1 Qiraji Regal Drape, 2 Obsidian Idols, 5 Gold Scarabs en 5 Clay Scarabs naar Keyl Swiftclaw in Silithus. Je moet ook de reputatie Revered bij de Cenarion Circle bereiken om deze quest af te maken.",
+   "p": "Heb je de materialen voor de cape meegebracht, $N?",
+   "c": "Ah ja... deze doek is smetteloos.$B$BNeem deze mantel, $N. Moge hij je beschermen tegen de smerige magie van de Qiraji.",
+   "g": [
+    [
+     "beschermend",
+     "protective"
+    ],
+    [
+     "voorwerp",
+     "item, object"
+    ],
+    [
+     "doek",
+     "drape, cloth"
+    ],
+    [
+     "aan jouw maat aan",
+     "to your size (aanpassen)"
+    ],
+    [
+     "beeldjes",
+     "idols, statuettes (beeldje)"
+    ],
+    [
+     "scarabeeën",
+     "scarabs (scarabee)"
+    ],
+    [
+     "passende",
+     "suitable (passend)"
+    ],
+    [
+     "sluiting",
+     "clasp, fastening"
+    ],
+    [
+     "teleurgesteld",
+     "disappointed"
+    ],
+    [
+     "smetteloos",
+     "immaculate, spotless"
+    ],
+    [
+     "mantel",
+     "cloak"
+    ],
+    [
+     "smerige",
+     "foul, filthy (smerig)"
+    ],
+    [
+     "bereiken",
+     "to attain, reach"
+    ],
+    [
+     "cape",
+     "cape"
+    ]
+   ]
+  },
+  "8696": {
+   "t": "Cloak of the Unseen Path",
+   "d": "Fijn om te horen dat je ons helpt bij onze aanval op Ahn'Qiraj, $N. Ik kan een beschermend voorwerp voor je maken dat je zal helpen in de strijd tegen onze vijand, $c.$B$BIk heb een Qiraji-doek nodig. Die pas ik natuurlijk aan jouw maat aan. Ik heb ook beeldjes en scarabeeën nodig. Daarmee maak ik een passende sluiting.$B$BIk beloof je dat je niet teleurgesteld zult zijn.",
+   "o": "Breng 1 Qiraji Regal Drape, 2 Lambent Idols, 5 Stone Scarabs en 5 Crystal Scarabs naar Keyl Swiftclaw in Silithus. Je moet ook de reputatie Revered bij de Cenarion Circle bereiken om deze quest af te maken.",
+   "p": "Heb je de materialen voor de mantel meegebracht, $N?",
+   "c": "Ah ja... deze doek is smetteloos.$B$BNeem deze mantel, $N. Moge hij je beschermen tegen de smerige magie van de Qiraji.",
+   "g": [
+    [
+     "beschermend",
+     "protective"
+    ],
+    [
+     "voorwerp",
+     "item, object"
+    ],
+    [
+     "doek",
+     "drape, cloth"
+    ],
+    [
+     "aan jouw maat aan",
+     "to your size (aanpassen)"
+    ],
+    [
+     "beeldjes",
+     "idols, statuettes (beeldje)"
+    ],
+    [
+     "scarabeeën",
+     "scarabs (scarabee)"
+    ],
+    [
+     "passende",
+     "suitable (passend)"
+    ],
+    [
+     "sluiting",
+     "clasp, fastening"
+    ],
+    [
+     "teleurgesteld",
+     "disappointed"
+    ],
+    [
+     "smetteloos",
+     "immaculate, spotless"
+    ],
+    [
+     "mantel",
+     "cloak"
+    ],
+    [
+     "smerige",
+     "foul, filthy (smerig)"
+    ],
+    [
+     "bereiken",
+     "to attain, reach"
+    ]
+   ]
+  },
+  "8697": {
+   "t": "Ring of Infinite Wisdom",
+   "d": "Men zegt dat de ringen van de Qiraji-luitenants hun geweldige krachten geven. De verdorven edelstenen erop zouden in theorie vervangen kunnen worden door zuiverder materiaal. Zo kun je ringen maken die niet verdorven zijn.$B$BDe edelstenen op de Qiraji-beeldjes zouden heel goed werken, want ze zijn van betere kwaliteit.$B$BBreng me de ring en de beeldjes, dan maak ik een krachtige ring voor je, $c.",
+   "o": "Breng 1 Qiraji Ceremonial Ring, 2 Obsidian Idols, 5 Silver Scarabs en 5 Bone Scarabs naar Windcaller Yessendra in Silithus. Je moet ook de reputatie Honored bij de Cenarion Circle bereiken om deze quest af te maken.",
+   "p": "Heb je de ring en de materialen meegebracht, $N?",
+   "c": "Ik vervang de edelsteen op de ring voor je. Je zult merken dat het effect veel... aangenamer is.",
+   "g": [
+    [
+     "Men zegt",
+     "it is rumored"
+    ],
+    [
+     "luitenants",
+     "lieutenants"
+    ],
+    [
+     "verdorven",
+     "corrupted"
+    ],
+    [
+     "edelstenen",
+     "gems (edelsteen)"
+    ],
+    [
+     "in theorie",
+     "in theory"
+    ],
+    [
+     "vervangen",
+     "replaced, swapped"
+    ],
+    [
+     "zuiverder",
+     "purer (zuiver)"
+    ],
+    [
+     "beeldjes",
+     "idols, statuettes (beeldje)"
+    ],
+    [
+     "kwaliteit",
+     "quality"
+    ],
+    [
+     "aangenamer",
+     "more agreeable (aangenaam)"
+    ],
+    [
+     "bereiken",
+     "to attain, reach"
+    ]
+   ]
+  },
+  "8699": {
+   "t": "Band of Vaulted Secrets",
+   "d": "Men zegt dat de ringen van de Qiraji-luitenants hun geweldige krachten geven. De verdorven edelstenen erop zouden in theorie vervangen kunnen worden door zuiverder materiaal. Zo kun je ringen maken die niet verdorven zijn.$B$BDe edelstenen op de Qiraji-beeldjes zouden heel goed werken, want ze zijn van betere kwaliteit.$B$BBreng me de ring en de beeldjes, dan maak ik een krachtige ring voor je, $c.",
+   "o": "Breng 1 Qiraji Magisterial Ring, 2 Azure Idols, 5 Gold Scarabs en 5 Clay Scarabs naar Windcaller Yessendra in Silithus. Je moet ook de reputatie Honored bij de Cenarion Circle bereiken om deze quest af te maken.",
+   "p": "Heb je de ring en de materialen meegebracht, $N?",
+   "c": "Ik vervang de edelsteen op de ring voor je. Je zult merken dat het effect veel... aangenamer is.",
+   "g": [
+    [
+     "Men zegt",
+     "it is rumored"
+    ],
+    [
+     "luitenants",
+     "lieutenants"
+    ],
+    [
+     "verdorven",
+     "corrupted"
+    ],
+    [
+     "edelstenen",
+     "gems (edelsteen)"
+    ],
+    [
+     "in theorie",
+     "in theory"
+    ],
+    [
+     "vervangen",
+     "replaced, swapped"
+    ],
+    [
+     "zuiverder",
+     "purer (zuiver)"
+    ],
+    [
+     "beeldjes",
+     "idols, statuettes (beeldje)"
+    ],
+    [
+     "kwaliteit",
+     "quality"
+    ],
+    [
+     "aangenamer",
+     "more agreeable (aangenaam)"
+    ],
+    [
+     "bereiken",
+     "to attain, reach"
+    ]
+   ]
+  }
+ },
+ "words": {
+  "qiraji-doek": "Qiraji drape (doek = cloth)"
+ },
+ "terms": {}
+}
