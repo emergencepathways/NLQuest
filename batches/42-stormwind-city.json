@@ -1,0 +1,1964 @@
+{
+  "quests": {
+    "1477": {
+      "t": "Belangrijke voorraden",
+      "d": "Onze magiërs doen onderzoek in Nethergarde Keep in de Blasted Lands. Dat onderzoek is van groot belang om de Dark Portals te begrijpen. Ze hebben bijna voortdurend voorraden nodig, maar onze aanvoerlijn naar Nethergarde is wankel.$B$BJe moet helpen zorgen dat de voorraden Nethergarde bereiken. Meld je bij Watchmaster Sorigal in Darkshire en doe wat hij vraagt. Deze taak brengt je naar vijandige gebieden, $N. Bereid je voor.",
+      "o": "Spreek met Watchmaster Sorigal.",
+      "c": "Heeft Andromath je gestuurd? Heel goed. Ik heb een belangrijke taak voor je...",
+      "g": [
+        [
+          "magiërs",
+          "mages (magiër)"
+        ],
+        [
+          "onderzoek",
+          "research"
+        ],
+        [
+          "van groot belang",
+          "vital, of great importance"
+        ],
+        [
+          "voortdurend",
+          "constant(ly)"
+        ],
+        [
+          "voorraden",
+          "supplies (voorraad)"
+        ],
+        [
+          "aanvoerlijn",
+          "supply line"
+        ],
+        [
+          "wankel",
+          "shaky, tenuous"
+        ],
+        [
+          "bereiken",
+          "to reach"
+        ],
+        [
+          "Meld je",
+          "report (zich melden)"
+        ],
+        [
+          "vijandige",
+          "hostile (vijandig)"
+        ],
+        [
+          "Bereid je voor",
+          "prepare yourself (zich voorbereiden)"
+        ]
+      ]
+    },
+    "783": {
+      "t": "Een gevaar van binnen",
+      "d": "Ik hoop dat je je riem goed vast hebt gemaakt, jonge $c. Er is hier in Northshire werk te doen.$B$BEn dan bedoel ik geen boerenwerk.$B$BDe wachters van Stormwind hebben het zwaar. Ze moeten hier de vrede bewaren, maar veel van ons zijn in verre landen. En veel gevaren komen dichtbij. Daarom vragen we hulp aan iedereen die zijn huis wil verdedigen. En zijn alliantie.$B$BKom je om te helpen? Spreek dan met mijn baas, Marshal McBride. Hij is in de abdij achter mij.",
+      "o": "Spreek met Marshal McBride.",
+      "c": "Ah, goed. Nog een vrijwilliger. We krijgen er veel de laatste tijd.$B$BIk hoop dat het genoeg is.$B$BDe landen van de mensen worden van buitenaf bedreigd. En veel van onze soldaten zijn naar het buitenland gestuurd. Daardoor kunnen corrupte en wetteloze groepen groeien binnen onze grenzen.$B$BWe vechten op veel fronten tegelijk, $N. Bereid je voor op een lange veldtocht.",
+      "g": [
+        [
+          "riem",
+          "belt"
+        ],
+        [
+          "boerenwerk",
+          "farm work"
+        ],
+        [
+          "wachters",
+          "guards (wachter)"
+        ],
+        [
+          "het zwaar",
+          "a hard time (het zwaar hebben)"
+        ],
+        [
+          "vrede bewaren",
+          "to keep the peace"
+        ],
+        [
+          "verdedigen",
+          "to defend"
+        ],
+        [
+          "alliantie",
+          "alliance"
+        ],
+        [
+          "abdij",
+          "abbey"
+        ],
+        [
+          "vrijwilliger",
+          "volunteer"
+        ],
+        [
+          "van buitenaf",
+          "from outside"
+        ],
+        [
+          "bedreigd",
+          "threatened (bedreigen)"
+        ],
+        [
+          "wetteloze",
+          "lawless (wetteloos)"
+        ],
+        [
+          "grenzen",
+          "borders (grens)"
+        ],
+        [
+          "fronten",
+          "fronts (front)"
+        ],
+        [
+          "veldtocht",
+          "campaign"
+        ]
+      ]
+    },
+    "7": {
+      "t": "Het koboldkamp opruimen",
+      "d": "Je eerste taak is schoonmaken, $N. Een clan kobolds zit in het bos in het noorden. Ga erheen en vecht tegen de Kobold Vermin die je vindt. Maak hun aantal kleiner. Dan kunnen we ze ooit uit Northshire verjagen.",
+      "o": "Dood 10 Kobold Vermin en ga dan terug naar Marshal McBride.",
+      "p": "Hoe gaat de jacht, $N? Heb je dat ongedierte gevonden en verslagen?",
+      "c": "Goed gedaan, burger. Die kobolds zijn dieven en lafaards. Maar in grote groepen zijn ze gevaarlijk voor ons. En de mensen van Stormwind hebben niet nog een gevaar nodig.$B$BJe hebt ze verslagen. Daarvoor ben ik je dankbaar.",
+      "g": [
+        [
+          "opruimen",
+          "to clean up"
+        ],
+        [
+          "schoonmaken",
+          "cleaning"
+        ],
+        [
+          "aantal",
+          "number"
+        ],
+        [
+          "ooit",
+          "one day, ever"
+        ],
+        [
+          "verjagen",
+          "to drive away"
+        ],
+        [
+          "jacht",
+          "hunt"
+        ],
+        [
+          "ongedierte",
+          "vermin"
+        ],
+        [
+          "verslagen",
+          "defeated (verslaan)"
+        ],
+        [
+          "burger",
+          "citizen"
+        ],
+        [
+          "lafaards",
+          "cowards (lafaard)"
+        ],
+        [
+          "dankbaar",
+          "grateful"
+        ]
+      ]
+    },
+    "33": {
+      "t": "Wolven over de grens",
+      "d": "Ik haat die vieze boswolven! Maar ik eet wel graag wolvensteaks... Breng me Tough Wolf Meat. Dan ruil ik het voor iets dat je nuttig vindt.$B$BJe krijgt Tough Wolf Meat als je jaagt op de boswolven en jonge wolven. Ze lopen rond op het platteland van Northshire.",
+      "o": "Breng 8 stuks Tough Wolf Meat naar Eagan Peltskinner buiten Northshire Abbey.",
+      "p": "Hé $N. Ik krijg honger... heb je dat Tough Wolf Meat?",
+      "c": "Jij bent druk bezig geweest! Ik kan niet wachten om dat wolvenvlees te koken...$B$BIk heb hier wat spullen die je misschien wilt. Kies maar!",
+      "g": [
+        [
+          "haat",
+          "hate (haten)"
+        ],
+        [
+          "vieze",
+          "nasty, dirty (vies)"
+        ],
+        [
+          "boswolven",
+          "timber wolves (boswolf)"
+        ],
+        [
+          "wolvensteaks",
+          "wolf steaks"
+        ],
+        [
+          "ruil",
+          "trade, exchange (ruilen)"
+        ],
+        [
+          "nuttig",
+          "useful"
+        ],
+        [
+          "jaagt",
+          "hunt (jagen)"
+        ],
+        [
+          "platteland",
+          "countryside"
+        ],
+        [
+          "druk bezig",
+          "busy"
+        ],
+        [
+          "wolvenvlees",
+          "wolf meat"
+        ],
+        [
+          "spullen",
+          "things, stuff"
+        ]
+      ]
+    },
+    "5261": {
+      "t": "Eagan Peltskinner",
+      "d": "Eagan Peltskinner zoekt iemand die voor hem op wolven jaagt. Dat is goed nieuws, want we zien de laatste tijd veel meer wolven in Northshire Valley.$B$BHeb je interesse? Spreek dan met Eagan. Hij staat aan de zijkant van de abdij, links.",
+      "o": "Spreek met Eagan Peltskinner.",
+      "c": "Dat klopt. Ik zoek iemand die wolven voor me jaagt! Ben jij die persoon?",
+      "g": [
+        [
+          "zoekt",
+          "is looking for (zoeken)"
+        ],
+        [
+          "jaagt",
+          "hunts (jagen)"
+        ],
+        [
+          "de laatste tijd",
+          "lately"
+        ],
+        [
+          "interesse",
+          "interest"
+        ],
+        [
+          "zijkant",
+          "side"
+        ],
+        [
+          "abdij",
+          "abbey"
+        ],
+        [
+          "Dat klopt",
+          "that's right"
+        ]
+      ]
+    },
+    "15": {
+      "t": "Onderzoek Echo Ridge",
+      "d": "$N, mijn verkenners zeggen dat er meer kobolds zijn dan we dachten. Een groep Kobold Workers heeft een kamp gemaakt bij de Echo Ridge Mine, in het noorden.$B$BGa naar de mijn en haal ze weg. We weten dat het er minstens 10 zijn. Dood ze, kijk of er meer zijn en kom het me dan vertellen.",
+      "o": "Dood 10 Kobold Workers en breng dan verslag uit bij Marshal McBride.",
+      "p": "Ben je bij de mijnen geweest? Ben je klaar om verslag uit te brengen?",
+      "c": "Ik hoor niet graag over al die kobolds in onze mijn. Dit betekent niets goeds. Hier, neem dit als betaling. Spreek me weer aan als je klaar bent. Ik wil dat je nog één keer teruggaat naar de mijnen...",
+      "g": [
+        [
+          "Onderzoek",
+          "investigate (onderzoeken)"
+        ],
+        [
+          "verkenners",
+          "scouts (verkenner)"
+        ],
+        [
+          "dachten",
+          "thought (denken)"
+        ],
+        [
+          "mijn",
+          "mine"
+        ],
+        [
+          "minstens",
+          "at least"
+        ],
+        [
+          "verslag uit te brengen",
+          "to report (verslag uitbrengen)"
+        ],
+        [
+          "betaling",
+          "payment"
+        ],
+        [
+          "teruggaat",
+          "go back (teruggaan)"
+        ]
+      ]
+    },
+    "18": {
+      "t": "Broederschap van dieven",
+      "d": "Sinds kort hangt er een nieuwe groep dieven rond in Northshire. Ze noemen zichzelf de Defias Brotherhood. Iemand heeft ze gezien aan de andere kant van de rivier, in het oosten.$B$BIk weet niet wat ze van plan zijn, maar het is vast niet goed! Breng me de bandana's die ze dragen. Dan krijg je een wapen als beloning.",
+      "o": "Breng 12 Red Burlap Bandanas naar Deputy Willem buiten de Northshire Abbey.",
+      "p": "Heb je die bandana's al voor me verzameld?",
+      "c": "Je bent terug met bandana's, zie ik. Het Stormwind Army waardeert je hulp.",
+      "g": [
+        [
+          "Broederschap",
+          "brotherhood"
+        ],
+        [
+          "Sinds kort",
+          "recently"
+        ],
+        [
+          "hangt rond",
+          "hangs around (rondhangen)"
+        ],
+        [
+          "van plan",
+          "up to, planning"
+        ],
+        [
+          "vast",
+          "surely"
+        ],
+        [
+          "dragen",
+          "wear"
+        ],
+        [
+          "wapen",
+          "weapon"
+        ],
+        [
+          "beloning",
+          "reward"
+        ],
+        [
+          "verzameld",
+          "gathered (verzamelen)"
+        ],
+        [
+          "waardeert",
+          "appreciates (waarderen)"
+        ]
+      ]
+    },
+    "3903": {
+      "t": "Milly Osworth",
+      "d": "Je hebt laten zien dat je een betrouwbare $c bent, $N. Betrouwbaar, en je bent niet bang om je handen vuil te maken, hè?$B$BIk heb een vriendin, Milly Osworth. Ze heeft problemen. Ze staat met haar wagen aan de andere kant van de abdij, bij de stal. Ze kan vast een paar handen zoals die van jou gebruiken.",
+      "o": "Spreek met Milly Osworth.",
+      "c": "O, heeft Deputy Willem gezegd dat je met mij moest praten? Hij is een dappere man en wil altijd helpen. Maar door zijn werk moet hij bij Northshire Abbey blijven. En ik ben bang dat mijn probleem van vandaag te groot is voor hem.$B$BKun jij me misschien helpen?",
+      "g": [
+        [
+          "laten zien",
+          "shown (laten zien)"
+        ],
+        [
+          "betrouwbare",
+          "dependable (betrouwbaar)"
+        ],
+        [
+          "vuil",
+          "dirty"
+        ],
+        [
+          "wagen",
+          "wagon"
+        ],
+        [
+          "stal",
+          "stable"
+        ],
+        [
+          "gebruiken",
+          "use"
+        ],
+        [
+          "dappere",
+          "brave (dapper)"
+        ],
+        [
+          "bang",
+          "afraid"
+        ]
+      ]
+    },
+    "3904": {
+      "t": "Milly's oogst",
+      "d": "Een bende rovers, de Defias, kwam in de Northshire Vineyards terwijl ik aan het oogsten was! Ik heb het aan de wachters van Northshire verteld. Ze zeiden dat ze het zouden oplossen, maar... ik ben bang voor mijn druiven! Als de Defias ze niet stelen, dan vertrappen onze wachters ze misschien als ze de boeven wegjagen.$B$BAlsjeblieft, je moet me helpen! Ik heb de meeste druiven in emmers gedaan. Maar ik heb ze in de wijngaarden laten staan, in het zuidoosten.$B$BBreng me die kratten! Red mijn oogst!",
+      "o": "Breng 8 kratten Milly's Harvest naar Milly Osworth bij Northshire Abbey.",
+      "p": "Heb je mijn oogst, $N?",
+      "c": "O, dank je, $N! Je hebt mijn oogst gered! En ik hoop dat je een paar van die Defias hebt laten zien dat ze hier geen problemen kunnen maken.$B$BWe hebben nu misschien weinig wachters, maar we hebben geluk dat er helden zoals jij zijn om ons te beschermen!",
+      "g": [
+        [
+          "oogst",
+          "harvest"
+        ],
+        [
+          "bende",
+          "gang"
+        ],
+        [
+          "rovers",
+          "brigands (rover)"
+        ],
+        [
+          "oogsten",
+          "harvesting"
+        ],
+        [
+          "oplossen",
+          "to take care of, solve"
+        ],
+        [
+          "druiven",
+          "grapes (druif)"
+        ],
+        [
+          "vertrappen",
+          "trample"
+        ],
+        [
+          "boeven",
+          "thugs (boef)"
+        ],
+        [
+          "emmers",
+          "buckets (emmer)"
+        ],
+        [
+          "wijngaarden",
+          "vineyards (wijngaard)"
+        ],
+        [
+          "kratten",
+          "crates (krat)"
+        ],
+        [
+          "Red",
+          "save (redden)"
+        ],
+        [
+          "gered",
+          "saved (redden)"
+        ],
+        [
+          "beschermen",
+          "to protect"
+        ]
+      ]
+    },
+    "3905": {
+      "t": "De druivenlijst",
+      "d": "Nu mijn oogst gered is, breng je deze Grape Manifest naar Brother Neals. Hij beheert de voorraad eten en drinken in Northshire. Hij is vast heel blij als hij hoort dat er verse druiven zijn.$B$BJe vindt Brother Neals in de abdij, in de klokkentoren... daar proeft hij graag zijn wijn.",
+      "o": "Breng de Grape Manifest naar Brother Neals in Northshire Abbey.",
+      "p": "Je ziet er vrolijk uit! Kom! Ga zitten en neem een drankje!",
+      "c": "Even kijken...$B$BO jee! Milly's druiven zijn gered! Ze vertelde me dat rovers haar wijngaarden hadden overvallen. Toen verloor ik bijna de hoop. Maar mijn geloof in het Licht bleef sterk!$B$BEn door jouw moed hebben we nu druiven voor meer wijn! Moge het Licht je zegenen, $n, en je beschermen!",
+      "g": [
+        [
+          "beheert",
+          "manages (beheren)"
+        ],
+        [
+          "voorraad",
+          "store, supply"
+        ],
+        [
+          "verse",
+          "fresh (vers)"
+        ],
+        [
+          "klokkentoren",
+          "bell tower"
+        ],
+        [
+          "proeft",
+          "tastes (proeven)"
+        ],
+        [
+          "vrolijk",
+          "cheerful"
+        ],
+        [
+          "overvallen",
+          "overrun, raided (overvallen)"
+        ],
+        [
+          "verloor de hoop",
+          "lost hope, despaired (verliezen)"
+        ],
+        [
+          "geloof",
+          "faith"
+        ],
+        [
+          "moed",
+          "bravery"
+        ],
+        [
+          "Moge",
+          "may (mogen)"
+        ],
+        [
+          "zegenen",
+          "bless"
+        ]
+      ]
+    },
+    "6": {
+      "t": "Premie op Garrick Padfoot",
+      "d": "Garrick Padfoot is een moordenaar. Hij valt onze boeren en handelaars al weken lastig. Iemand heeft hem gezien bij een hut in de buurt van de wijngaarden. Die liggen ten oosten van de abdij, aan de andere kant van de brug. Breng me het hoofd van die schurk en verdien de premie!$B$BMaar pas op, $N. Garrick heeft een bende boeven om zich heen verzameld. Je komt niet makkelijk bij hem.",
+      "o": "Dood Garrick Padfoot en breng zijn hoofd naar Deputy Willem bij Northshire Abbey.",
+      "p": "Heb je de hut van Garrick gevonden? Zijn we eindelijk vrij van die schurk?",
+      "c": "Ha, je hebt hem gepakt! Je hebt Elwynn een grote dienst bewezen. En je hebt een mooie premie verdiend!",
+      "g": [
+        [
+          "Premie",
+          "bounty"
+        ],
+        [
+          "moordenaar",
+          "cutthroat, murderer"
+        ],
+        [
+          "valt lastig",
+          "plagues, bothers (lastigvallen)"
+        ],
+        [
+          "handelaars",
+          "merchants (handelaar)"
+        ],
+        [
+          "hut",
+          "shack"
+        ],
+        [
+          "schurk",
+          "villain"
+        ],
+        [
+          "verdien",
+          "earn (verdienen)"
+        ],
+        [
+          "pas op",
+          "be careful (oppassen)"
+        ],
+        [
+          "eindelijk",
+          "finally"
+        ],
+        [
+          "een dienst bewezen",
+          "done a service (een dienst bewijzen)"
+        ]
+      ]
+    },
+    "21": {
+      "t": "Gevecht bij Echo Ridge",
+      "d": "Jouw eerdere onderzoek bewijst dat de Echo Ridge Mine schoongemaakt moet worden. Ga terug naar de mijn en help om de kobolds eruit te jagen.$B$BVerlies geen tijd, $N. Hoe langer de kobolds rustig in de mijn kunnen blijven, hoe sterker ze in Northshire staan.",
+      "o": "Dood 12 Kobold Laborers en ga dan terug naar Marshal McBride bij Northshire Abbey.",
+      "p": "Ik weet dat het bloedig werk is, $N, maar het is heel belangrijk voor de veiligheid van Northshire. Ben je klaar om verslag uit te brengen?",
+      "c": "Weer heb je mijn respect verdiend, en de dank van het Stormwind Army. Misschien zijn er nog kobolds in de mijn, maar ik stuur anderen op ze af. We hebben nog meer taken voor je.",
+      "g": [
+        [
+          "Gevecht",
+          "skirmish, fight"
+        ],
+        [
+          "eerdere",
+          "previous (eerder)"
+        ],
+        [
+          "bewijst",
+          "proves (bewijzen)"
+        ],
+        [
+          "schoongemaakt",
+          "cleaned, purged (schoonmaken)"
+        ],
+        [
+          "eruit te jagen",
+          "to drive out (eruit jagen)"
+        ],
+        [
+          "Verlies",
+          "lose (verliezen)"
+        ],
+        [
+          "Hoe langer",
+          "the longer"
+        ],
+        [
+          "bloedig",
+          "bloody"
+        ],
+        [
+          "veiligheid",
+          "safety"
+        ],
+        [
+          "verdiend",
+          "earned (verdienen)"
+        ],
+        [
+          "stuur op ze af",
+          "send against them (afsturen op)"
+        ]
+      ]
+    },
+    "54": {
+      "t": "Meld je in Goldshire",
+      "d": "$N, je bent een $c die laat zien dat de veiligheid van Northshire belangrijk voor je is. Nu krijg je een nieuwe taak: je beschermt het Elwynn Forest eromheen.$B$BAls je deze taak aanneemt, heb ik papieren voor je. Die moet je naar Marshal Dughan in Goldshire brengen. Goldshire ligt aan de weg naar het zuiden, voorbij de grenspoorten.",
+      "o": "Breng Marshal McBride's Documents naar Marshal Dughan in Goldshire.",
+      "p": "Heb je nieuws van McBride? Northshire is een tuin vergeleken met Elwynn Forest. Maar ik ben benieuwd wat Marshal McBride te melden heeft.$B$BHier, geef me zijn papieren...",
+      "c": "Nou, hier staat dat je de rang Acting Deputy hebt gekregen bij de Stormwind Marshals. Gefeliciteerd.$B$BEn veel succes. Elwynn veilig houden is geen pretje... want het grootste deel van het leger is druk met wie weet wat, voor wie weet welke edelman!$B$BHet is moeilijk om de politiek te volgen in deze donkere tijden...",
+      "g": [
+        [
+          "Meld je",
+          "report (zich melden)"
+        ],
+        [
+          "veiligheid",
+          "security, safety"
+        ],
+        [
+          "eromheen",
+          "around it, surrounding"
+        ],
+        [
+          "aanneemt",
+          "accept (aannemen)"
+        ],
+        [
+          "grenspoorten",
+          "border gates (grenspoort)"
+        ],
+        [
+          "vergeleken met",
+          "compared to"
+        ],
+        [
+          "benieuwd",
+          "curious"
+        ],
+        [
+          "te melden",
+          "to report (melden)"
+        ],
+        [
+          "rang",
+          "rank"
+        ],
+        [
+          "Gefeliciteerd",
+          "congratulations"
+        ],
+        [
+          "geen pretje",
+          "no picnic, no fun"
+        ],
+        [
+          "edelman",
+          "noble(man)"
+        ],
+        [
+          "politiek",
+          "politics"
+        ]
+      ]
+    },
+    "16": {
+      "t": "Geef Gerard een drankje",
+      "p": "Boerenwerk maakt dorstig. Ik ben altijd op zoek naar fris bronwater.$B$BHeb je wat? Dan wil ik graag ruilen.",
+      "c": "Bedankt, $N! Kom terug als je weer wilt ruilen.",
+      "g": [
+        [
+          "drankje",
+          "a drink"
+        ],
+        [
+          "Boerenwerk",
+          "farm work"
+        ],
+        [
+          "dorstig",
+          "thirsty"
+        ],
+        [
+          "op zoek naar",
+          "looking for"
+        ],
+        [
+          "fris",
+          "fresh, refreshing"
+        ],
+        [
+          "bronwater",
+          "spring water"
+        ],
+        [
+          "ruilen",
+          "to trade"
+        ]
+      ]
+    },
+    "7677": {
+      "t": "Witte hengst ruilen",
+      "c": "Als je me je witte hengst brengt, ruil ik hem voor een paard uit de nieuwe kudde. Het nieuwe paard is net zo snel als je oude, maar het ziet er anders uit. Je kunt naar de snelle rijdieren hier kijken. Dan zie je hoe het eruit zal zien.",
+      "g": [
+        [
+          "hengst",
+          "stallion"
+        ],
+        [
+          "ruilen",
+          "to exchange"
+        ],
+        [
+          "kudde",
+          "herd"
+        ],
+        [
+          "net zo snel",
+          "just as fast"
+        ],
+        [
+          "ziet er anders uit",
+          "looks different (eruitzien)"
+        ],
+        [
+          "rijdieren",
+          "steeds, mounts (rijdier)"
+        ]
+      ]
+    },
+    "7678": {
+      "t": "Palomino ruilen",
+      "c": "Als je me je palomino brengt, ruil ik hem in voor een paard uit de nieuwe kudde. Het nieuwe paard is net zo snel als je oude, maar het ziet er anders uit. Je kunt naar de snelle rijdieren hier kijken. Dan zie je hoe het eruit zal zien.",
+      "g": [
+        [
+          "palomino",
+          "palomino (golden horse)"
+        ],
+        [
+          "ruil in",
+          "trade in (inruilen)"
+        ],
+        [
+          "kudde",
+          "herd"
+        ],
+        [
+          "net zo snel",
+          "just as fast"
+        ],
+        [
+          "ziet er anders uit",
+          "looks different (eruitzien)"
+        ],
+        [
+          "rijdieren",
+          "steeds, mounts (rijdier)"
+        ]
+      ]
+    },
+    "2158": {
+      "t": "Rust en ontspanning",
+      "d": "Elke avonturier moet rusten als de vermoeidheid komt. En er is geen betere plek voor rust en ontspanning dan de Lion's Pride Inn!$B$BMijn beste vriend, Innkeeper Farley, heeft de Lion's Pride. Als je zegt dat ik je stuur, krijg je misschien een speciale korting op eten en drinken.$B$BDe Lion's Pride Inn vind je als je hiervandaan over de weg naar het zuiden gaat. Je kunt hem niet missen!",
+      "o": "Spreek met Innkeeper Farley in de Lion's Pride Inn.",
+      "c": "Rust en ontspanning voor wie moe is en het koud heeft. Dat is ons motto! Ga alsjeblieft zitten bij het vuur en laat je vermoeide botten rusten.$B$BWil je wat van ons lekkere eten en drinken proeven?",
+      "g": [
+        [
+          "ontspanning",
+          "relaxation"
+        ],
+        [
+          "avonturier",
+          "adventurer"
+        ],
+        [
+          "vermoeidheid",
+          "exhaustion, tiredness"
+        ],
+        [
+          "korting",
+          "discount"
+        ],
+        [
+          "hiervandaan",
+          "from here"
+        ],
+        [
+          "missen",
+          "miss"
+        ],
+        [
+          "motto",
+          "motto"
+        ],
+        [
+          "vermoeide",
+          "weary, tired (vermoeid)"
+        ],
+        [
+          "botten",
+          "bones (bot)"
+        ],
+        [
+          "proeven",
+          "to taste, try"
+        ]
+      ]
+    },
+    "84": {
+      "t": "Terug naar Billy",
+      "d": "Alsjeblieft. En als je deze taart aan die Billy geeft, zeg hem dan dat ik hoop dat hij erin stikt!",
+      "o": "Breng de Pork Belly Pie naar Billy Maclure bij de Maclure Vineyards.",
+      "p": "Bah... ik verga van de honger! Heb je die taart voor me, $N?",
+      "c": "Mmm, lekker! Deze taart is de beste!$B$BIk denk dat mijn geheugen terugkomt...",
+      "g": [
+        [
+          "taart",
+          "pie"
+        ],
+        [
+          "erin stikt",
+          "chokes on it (stikken in)"
+        ],
+        [
+          "Bah",
+          "ugh"
+        ],
+        [
+          "ik verga van de honger",
+          "I'm starving"
+        ],
+        [
+          "lekker",
+          "yummy, tasty"
+        ],
+        [
+          "geheugen",
+          "memory"
+        ],
+        [
+          "terugkomt",
+          "comes back (terugkomen)"
+        ]
+      ]
+    },
+    "85": {
+      "t": "Verloren ketting",
+      "d": "Ik ben mijn ketting kwijt. Ik denk dat dat straatschoffie Billy Maclure hem heeft gepakt! Hij rent meestal rond als een rat bij de Maclure Vineyards, ten oosten van hier.$B$BHaal mijn ketting voor me terug. Dan maak je het hart van een oude weduwe warm.",
+      "o": "Spreek met Billy Maclure.",
+      "c": "Je bent een wat kwijt? Nou, ik heb echt geen ketting gepakt, hoor, want ik ben geen dief!$B$BMisschien weet ik wie het wel deed, maar... <grijns>... ik heb te veel honger om het me te herinneren.",
+      "g": [
+        [
+          "Verloren",
+          "lost (verliezen)"
+        ],
+        [
+          "ketting",
+          "necklace"
+        ],
+        [
+          "kwijt",
+          "lost"
+        ],
+        [
+          "straatschoffie",
+          "guttersnipe, street brat"
+        ],
+        [
+          "rent rond",
+          "scuttles around (rondrennen)"
+        ],
+        [
+          "Haal terug",
+          "get back (terughalen)"
+        ],
+        [
+          "weduwe",
+          "widow"
+        ],
+        [
+          "dief",
+          "thief"
+        ],
+        [
+          "grijns",
+          "grin"
+        ],
+        [
+          "herinneren",
+          "remember (zich herinneren)"
+        ]
+      ]
+    },
+    "86": {
+      "t": "Taart voor Billy",
+      "d": "Misschien kan ik je vertellen wie die ketting heeft als ik een taart krijg. En weet je, ik denk dat die oude Bernice op die andere boerderij heerlijke Pork Belly Pies maakt...$B$BMisschien kun je haar wat stukken zwijnenvlees geven. Je krijgt het van de zwijnen die rond onze boerderijen lopen. Vertel haar waarvoor het is. Dan bakt ze vast een taart voor je.",
+      "o": "Breng 4 Chunks of Boar Meat naar Auntie Bernice Stonefield op Stonefield's Farm.",
+      "p": "Ik vind het niet goed om de jongen te eten te geven die mijn ketting heeft gestolen. Maar als dat nodig is om terug te krijgen wat van mij is, dan moet het maar!$B$BHeb je dat zwijnenvlees?",
+      "c": "Dit wilde zwijnenvlees is taai, maar als je het lang genoeg laat sudderen, maak je er een heerlijke taart van!",
+      "g": [
+        [
+          "boerderij",
+          "farm"
+        ],
+        [
+          "heerlijke",
+          "great, delicious (heerlijk)"
+        ],
+        [
+          "zwijnenvlees",
+          "boar meat"
+        ],
+        [
+          "zwijnen",
+          "boars (zwijn)"
+        ],
+        [
+          "waarvoor",
+          "what for"
+        ],
+        [
+          "bakt",
+          "bakes (bakken)"
+        ],
+        [
+          "te eten te geven",
+          "to feed"
+        ],
+        [
+          "gestolen",
+          "stolen (stelen)"
+        ],
+        [
+          "dan moet het maar",
+          "so be it"
+        ],
+        [
+          "taai",
+          "tough"
+        ],
+        [
+          "sudderen",
+          "to simmer"
+        ]
+      ]
+    },
+    "106": {
+      "t": "Jonge geliefden",
+      "d": "O, ik ben vervloekt! Mijn hart is van Tommy Joe Stonefield, maar onze families zijn bittere vijanden. Dus ik kan hem niet zien, ook al willen mijn ogen zo graag naar dat knappe gezicht kijken!$B$BAlsjeblieft, neem deze brief en geef hem aan Tommy Joe. Hij is meestal bij de rivier ten westen van de Stonefield Farm. Die ligt recht ten westen van hier.",
+      "o": "Geef Maybell's Love Letter aan Tommy Joe Stonefield.",
+      "p": "Wat heb je?? Maybell is het licht in mijn saaie leven. Snel, laat me haar brief zien!",
+      "c": "Ah! Ik kan er niet tegen dat we niet samen zijn. Ik moet haar zien!!",
+      "g": [
+        [
+          "geliefden",
+          "lovers (geliefde)"
+        ],
+        [
+          "vervloekt",
+          "cursed"
+        ],
+        [
+          "bittere",
+          "bitter (bitter)"
+        ],
+        [
+          "vijanden",
+          "enemies (vijand)"
+        ],
+        [
+          "ook al",
+          "even though"
+        ],
+        [
+          "knappe",
+          "handsome (knap)"
+        ],
+        [
+          "recht ten westen",
+          "due west"
+        ],
+        [
+          "saaie",
+          "dull (saai)"
+        ],
+        [
+          "Ik kan er niet tegen",
+          "I can't stand it"
+        ]
+      ]
+    },
+    "107": {
+      "t": "Briefje voor William",
+      "d": "Ik wed dat William Pestle een toverdrank heeft die onze twee jonge geliefden samenbrengt!$B$BHier, breng dit briefje naar William. Hij logeert in de Lion's Pride Inn in Goldshire.",
+      "o": "Breng Gramma Stonefield's Note naar William Pestle.",
+      "p": "Je hebt een briefje van \"Gramma\" Stonefield, hè? Ik heb Mildred in jaren niet gezien! Ik ben benieuwd wat ze te zeggen heeft...",
+      "c": "Ik heb zo met die twee arme zielen te doen, Maybell en Tommy Joe. Ik weet nog hoe het was om jong en verliefd te zijn.$B$BEr moet iets zijn wat ik kan doen om ze te helpen! Even denken...",
+      "g": [
+        [
+          "Briefje",
+          "note"
+        ],
+        [
+          "Ik wed",
+          "I bet (wedden)"
+        ],
+        [
+          "toverdrank",
+          "potion"
+        ],
+        [
+          "samenbrengt",
+          "brings together (samenbrengen)"
+        ],
+        [
+          "logeert",
+          "is staying (logeren)"
+        ],
+        [
+          "benieuwd",
+          "curious"
+        ],
+        [
+          "Ik heb met ze te doen",
+          "my heart goes out to them (te doen hebben met)"
+        ],
+        [
+          "zielen",
+          "souls (ziel)"
+        ],
+        [
+          "verliefd",
+          "in love"
+        ]
+      ]
+    },
+    "111": {
+      "t": "Praat met Gramma",
+      "d": "Alsjeblieft, $N, praat met mijn Gramma. Als iemand een manier kan vinden om mij en Maybell samen te brengen, dan is zij het.$B$BZe is in ons huis, ten oosten van hier.",
+      "o": "Spreek met Gramma Stonefield.",
+      "p": "Ik kan niet wachten om te horen hoe mijn vrienden reageren!$B$BDat verwachten ze nooit.",
+      "c": "Zolang onze families ruzie hebben, hebben Tommy Joe en Maybell niet veel toekomst. Maar... misschien kunnen we ze even samenbrengen, voor een korte tijd.$B$BHm, wat kunnen we doen...",
+      "g": [
+        [
+          "manier",
+          "way"
+        ],
+        [
+          "samen te brengen",
+          "to bring together (samenbrengen)"
+        ],
+        [
+          "reageren",
+          "react"
+        ],
+        [
+          "verwachten",
+          "expect"
+        ],
+        [
+          "Zolang",
+          "as long as"
+        ],
+        [
+          "ruzie",
+          "quarrel, feud"
+        ],
+        [
+          "toekomst",
+          "future"
+        ]
+      ]
+    },
+    "47": {
+      "t": "Goudstof ruilen",
+      "d": "De kobolds hier hebben soms Gold Dust bij zich. Ik kan dat spul heel goed gebruiken. Breng me een flinke lading en je krijgt de beste prijs van de stad... de beste prijs van de stad!$B$BJe vindt kobolds in de Fargodeep Mine in het zuiden, en rond de Jasperlode Mine in het noordoosten.",
+      "o": "Breng 10 Gold Dust naar Remy \"Two Times\" in Goldshire. Je krijgt Gold Dust van kobolds in Elwynn Forest.",
+      "p": "Psst! Heb je dat Gold Dust voor me... voor me?",
+      "c": "Bedankt voor het stof, $N. Hier is je geld, en... hier is een teken van een paar zakenvrienden van me. Misschien heb je er iets aan... iets aan.",
+      "g": [
+        [
+          "Goudstof",
+          "gold dust"
+        ],
+        [
+          "bij zich",
+          "on them, with them"
+        ],
+        [
+          "spul",
+          "stuff"
+        ],
+        [
+          "flinke",
+          "big, decent (flink)"
+        ],
+        [
+          "lading",
+          "load"
+        ],
+        [
+          "stof",
+          "dust"
+        ],
+        [
+          "teken",
+          "token, sign"
+        ],
+        [
+          "zakenvrienden",
+          "business associates (zakenvriend)"
+        ],
+        [
+          "heb je er iets aan",
+          "it's of use to you"
+        ]
+      ]
+    },
+    "60": {
+      "t": "Koboldkaarsen",
+      "d": "Hallo, $gmeneer:mevrouw;! Heb je even tijd?$B$BMijn broer en ik hebben een apotheek in Stormwind. Ik ben hier om grote kaarsen te verzamelen, voor hun was. Kun je me helpen?$B$BJe kunt grote kaarsen krijgen van kobolds. Ik hoor geruchten dat er veel kobolds in de mijnen van Elwynn zitten... de Fargodeep Mine in het zuiden en de Jasperlode Mine in het oosten. Zoek op een van die plekken naar kaarsen.",
+      "o": "Breng 8 Large Candles naar William Pestle in Goldshire.",
+      "p": "Heb je die kaarsen al verzameld?",
+      "c": "Je was druk bezig met kobolds jagen, hè? Bedankt voor de kaarsen, $N. Hier is je beloning...",
+      "g": [
+        [
+          "kaarsen",
+          "candles (kaars)"
+        ],
+        [
+          "Heb je even tijd",
+          "do you have a moment"
+        ],
+        [
+          "apotheek",
+          "apothecary"
+        ],
+        [
+          "verzamelen",
+          "to gather"
+        ],
+        [
+          "was",
+          "wax"
+        ],
+        [
+          "geruchten",
+          "rumours (gerucht)"
+        ],
+        [
+          "mijnen",
+          "mines (mijn)"
+        ],
+        [
+          "plekken",
+          "places (plek)"
+        ],
+        [
+          "beloning",
+          "reward"
+        ]
+      ]
+    },
+    "61": {
+      "t": "Zending naar Stormwind",
+      "d": "Mijn broer Morgan wacht in Stormwind op mijn zending kaarsen. Ik heb niet genoeg tijd om zelf te gaan. Maar als jij hem de zending wilt brengen, betaalt hij je goed.$B$BIk heb de kaarsen ingepakt. Je vindt Morgan in onze winkel, Pestle's Apothecary, in het Stormwind Trade District.",
+      "o": "Breng William's Shipment naar Morgan Pestle in het Stormwind Trade District.",
+      "p": "O, een zending van mijn broer? Geweldig! Het geluk lacht me vandaag echt toe!",
+      "c": "Hier is je betaling... en kijk gerust even rond nu je hier bent! We hebben vast een toverdrank of een ander snuisterijtje dat je nuttig vindt.",
+      "g": [
+        [
+          "Zending",
+          "shipment"
+        ],
+        [
+          "betaalt",
+          "pays (betalen)"
+        ],
+        [
+          "ingepakt",
+          "packed up (inpakken)"
+        ],
+        [
+          "winkel",
+          "shop"
+        ],
+        [
+          "Het geluk lacht me toe",
+          "fortune smiles on me (toelachen)"
+        ],
+        [
+          "betaling",
+          "payment"
+        ],
+        [
+          "kijk rond",
+          "look around (rondkijken)"
+        ],
+        [
+          "gerust",
+          "feel free to"
+        ],
+        [
+          "toverdrank",
+          "potion"
+        ],
+        [
+          "snuisterijtje",
+          "trinket (snuisterij)"
+        ]
+      ]
+    },
+    "62": {
+      "t": "De Fargodeep Mine",
+      "d": "De mijn in Northshire is niet de enige met problemen! Ik heb berichten gekregen dat de Fargodeep Mine in Elwynn ook een veilige plek voor kobolds is geworden.$B$BVerken de mijn en kijk of de berichten kloppen. Kom dan terug naar mij. De mijn ligt bijna recht ten zuiden van Goldshire, tussen de boerderijen van Stonefield en Maclure.",
+      "o": "Verken de Fargodeep Mine en ga dan terug naar Marshal Dughan in Goldshire.",
+      "p": "Wat heb je te melden, $N? Ben je bij de Fargodeep Mine geweest?",
+      "c": "Dit is slecht nieuws. Wat nu weer, draken?!? We moeten meer patrouilles bij die mijn sturen. Bedankt voor je moeite, $N. En wacht even... misschien heb ik nog een taak voor je.",
+      "e": "Verken de Fargodeep Mine",
+      "g": [
+        [
+          "de enige",
+          "the only one"
+        ],
+        [
+          "berichten",
+          "reports (bericht)"
+        ],
+        [
+          "veilige plek",
+          "safe place, haven"
+        ],
+        [
+          "Verken",
+          "explore (verkennen)"
+        ],
+        [
+          "kloppen",
+          "are correct (kloppen)"
+        ],
+        [
+          "recht ten zuiden",
+          "due south"
+        ],
+        [
+          "te melden",
+          "to report (melden)"
+        ],
+        [
+          "draken",
+          "dragons (draak)"
+        ],
+        [
+          "patrouilles",
+          "patrols (patrouille)"
+        ],
+        [
+          "moeite",
+          "effort"
+        ]
+      ]
+    },
+    "112": {
+      "t": "Kelp verzamelen",
+      "d": "Ik kan een onzichtbaarheidsdrank maken voor Maybell. Dan kan ze stiekem weg uit de Maclure Vineyards en naar Tommy Joe gaan. Maar om die drank te maken, heb ik wat kristalkelp nodig.$B$BKelp groeit meestal in de oceaan... maar soms verzamelen murlocs het. Kijk of de murlocs bij Crystal Lake wat hebben. Crystal Lake ligt vlak ten oosten van Goldshire.",
+      "o": "Breng 4 Crystal Kelp Fronds naar William Pestle in Goldshire.",
+      "p": "Heb je die kristalkelp? Maybell wil vast heel graag haar liefje zien...",
+      "c": "Je hebt ze. Goed gedaan! Nu even wachten terwijl ik de toverdrank maak...",
+      "g": [
+        [
+          "Kelp",
+          "kelp"
+        ],
+        [
+          "onzichtbaarheidsdrank",
+          "invisibility liquor"
+        ],
+        [
+          "stiekem",
+          "secretly, sneakily"
+        ],
+        [
+          "kristalkelp",
+          "crystal kelp"
+        ],
+        [
+          "groeit",
+          "grows (groeien)"
+        ],
+        [
+          "oceaan",
+          "ocean"
+        ],
+        [
+          "vlak",
+          "just, right"
+        ],
+        [
+          "liefje",
+          "sweetheart, beau"
+        ],
+        [
+          "terwijl",
+          "while"
+        ],
+        [
+          "toverdrank",
+          "potion"
+        ]
+      ]
+    },
+    "114": {
+      "t": "De ontsnapping",
+      "d": "Breng deze onzichtbaarheidsdrank naar de jonge Maybell. Hij werkt lang genoeg om Tommy Joe te bezoeken.",
+      "o": "Breng de Invisibility Liquor naar Maybell Maclure.",
+      "p": "Heb je mijn brief aan Tommy Joe gegeven? Wat zei hij??",
+      "c": "O... jee! Ik voel me schuldig omdat ik mijn familie bedrieg. Maar mijn gevoelens voor Tommy Joe zijn te sterk om te negeren.$B$BDank je, $N. Ik drink deze drank zodra ik de kans heb. Dan sluip ik weg naar mijn liefde.$B$BEn voor jou... neem dit alsjeblieft.",
+      "g": [
+        [
+          "ontsnapping",
+          "escape"
+        ],
+        [
+          "onzichtbaarheidsdrank",
+          "invisibility liquor"
+        ],
+        [
+          "bezoeken",
+          "to visit"
+        ],
+        [
+          "schuldig",
+          "guilty"
+        ],
+        [
+          "bedrieg",
+          "deceive (bedriegen)"
+        ],
+        [
+          "gevoelens",
+          "feelings (gevoel)"
+        ],
+        [
+          "negeren",
+          "to ignore"
+        ],
+        [
+          "zodra",
+          "as soon as"
+        ],
+        [
+          "kans",
+          "chance"
+        ],
+        [
+          "sluip weg",
+          "sneak away (wegsluipen)"
+        ]
+      ]
+    },
+    "87": {
+      "t": "Goldtooth",
+      "d": "Ik speelde bij de Fargodeep Mine, en ik denk dat ik de ketting van die oude vrouw liet vallen, eh... ik bedoel, zag! Vraag me niet hoe die daar kwam... ik was het niet!$B$BNou ja, ik zag een grote kobold met een gouden tand. Hij pakte de ketting op en rende de mijn in. Zoek die kobold en je vindt de ketting, dat zweer ik!",
+      "o": "Breng Bernice's Necklace naar \"Auntie\" Bernice Stonefield op de Stonefield Farm.",
+      "p": "Hallo, $N. Heb je mijn ketting gevonden?",
+      "c": "O, je hebt hem gevonden! Dank je, dank je, lieverd!$B$BHier, neem dit. Het was van mijn man. Hij zei altijd dat het geluk bracht. Had hij het maar niet vergeten op zijn laatste veldtocht! *snif*",
+      "g": [
+        [
+          "ketting",
+          "necklace"
+        ],
+        [
+          "liet vallen",
+          "dropped (laten vallen)"
+        ],
+        [
+          "ik bedoel",
+          "I mean"
+        ],
+        [
+          "gouden tand",
+          "gold tooth"
+        ],
+        [
+          "pakte op",
+          "picked up (oppakken)"
+        ],
+        [
+          "rende",
+          "ran (rennen)"
+        ],
+        [
+          "dat zweer ik",
+          "I swear (zweren)"
+        ],
+        [
+          "lieverd",
+          "dear"
+        ],
+        [
+          "geluk bracht",
+          "was lucky, brought luck (brengen)"
+        ],
+        [
+          "Had hij maar",
+          "if only he had"
+        ],
+        [
+          "veldtocht",
+          "campaign"
+        ]
+      ]
+    },
+    "83": {
+      "t": "Rode linnen spullen",
+      "d": "De Defias-bende in Northshire draagt maskers van jute. Maar de Defias in Elwynn dragen linnen. Daar kan ik mooie linnen spullen van maken.$B$BBreng me rode linnen bandana's. Dan maak ik er iets voor je van.$B$BDe leden van de Defias-bende hebben kampen overal in Elwynn.",
+      "o": "Breng 6 Red Linen Bandanas naar Sara Timberlain in het Eastvale Logging Camp.",
+      "p": "Mijn linnen raakt op, $N. Heb je wat voor me?",
+      "c": "Ah, dit zijn mooie bandana's, al zijn ze een beetje ruw...$B$BAlsjeblieft!",
+      "g": [
+        [
+          "linnen",
+          "linen"
+        ],
+        [
+          "spullen",
+          "goods, things"
+        ],
+        [
+          "bende",
+          "gang"
+        ],
+        [
+          "maskers",
+          "masks (masker)"
+        ],
+        [
+          "jute",
+          "burlap"
+        ],
+        [
+          "leden",
+          "members (lid)"
+        ],
+        [
+          "raakt op",
+          "is running low (oprakken)"
+        ],
+        [
+          "al zijn ze",
+          "even if they are"
+        ],
+        [
+          "ruw",
+          "rough"
+        ]
+      ]
+    },
+    "88": {
+      "t": "Princess moet dood!",
+      "d": "De Brackwells hebben een varken dat prijzen wint: Princess. De zeug is ENORM. Ze is zo groot geworden omdat ze hierheen sluipt en mijn groenten eet!$B$BDus voordat ze naar onze akkers komt... moet Princess dood! Breng me haar halsband als bewijs. Dan geef ik je iets voor je moeite.$B$BPrincess is meestal bij de Brackwell Pumpkin Patch, in het oosten, voorbij de boerderij van Maclure. Pak haar voordat ze honger krijgt en hier terugkomt!",
+      "o": "Dood Princess, pak haar halsband en breng hem terug naar Ma Stonefield op de Stonefield Farm.",
+      "p": "Heb je haar al gezien? Heb je haar gepakt?",
+      "c": "Godzijdank! Dat varken werd zo groot, ze zou onze hele oogst hebben opgegeten! Dank je, $N.$B$BNou, wil je een van deze?",
+      "g": [
+        [
+          "varken",
+          "pig"
+        ],
+        [
+          "prijzen",
+          "prizes (prijs)"
+        ],
+        [
+          "zeug",
+          "sow"
+        ],
+        [
+          "sluipt",
+          "sneaks (sluipen)"
+        ],
+        [
+          "groenten",
+          "vegetables (groente)"
+        ],
+        [
+          "akkers",
+          "fields (akker)"
+        ],
+        [
+          "halsband",
+          "collar"
+        ],
+        [
+          "bewijs",
+          "proof"
+        ],
+        [
+          "moeite",
+          "trouble, effort"
+        ],
+        [
+          "Godzijdank",
+          "thank goodness"
+        ],
+        [
+          "oogst",
+          "crop, harvest"
+        ],
+        [
+          "opgegeten",
+          "eaten up (opeten)"
+        ]
+      ]
+    },
+    "5545": {
+      "t": "Een bundel problemen",
+      "d": "Ik heb echt een probleem. Er komt een deadline aan voor een bestelling hout, en mijn tijd raakt op. De wolven en beren ten noorden van hier hebben mijn arbeiders weggejaagd. Nu kunnen ze niet bij de bundels hout die ze al gehakt hebben.$B$BIk heb al met Deputy Rainer gepraat over het wegjagen van de dieren. Maar ik heb iemand nodig die het hout voor me ophaalt. Als jij acht bundels hout voor me verzamelt, haal ik misschien mijn deadline nog.",
+      "o": "Breng 8 Bundles of Wood naar Raelen in het Eastvale Logging Camp.",
+      "p": "Die deadline komt niet verder weg, $c. Schiet alsjeblieft op en verzamel die bundels hout.",
+      "c": "Uitstekend! Dankzij jou kan ik de bestelling op tijd afmaken. Om je te bedanken wil ik je wat geld geven voor je moeite.$B$BBedankt en vaarwel.",
+      "g": [
+        [
+          "bundel",
+          "bundle"
+        ],
+        [
+          "bestelling",
+          "order"
+        ],
+        [
+          "raakt op",
+          "is running out (oprakken)"
+        ],
+        [
+          "arbeiders",
+          "workers (arbeider)"
+        ],
+        [
+          "weggejaagd",
+          "chased away (wegjagen)"
+        ],
+        [
+          "gehakt",
+          "chopped (hakken)"
+        ],
+        [
+          "ophaalt",
+          "collects (ophalen)"
+        ],
+        [
+          "haal mijn deadline",
+          "make my deadline (halen)"
+        ],
+        [
+          "Schiet op",
+          "hurry up (opschieten)"
+        ],
+        [
+          "Uitstekend",
+          "excellent"
+        ],
+        [
+          "Dankzij",
+          "thanks to"
+        ],
+        [
+          "afmaken",
+          "to complete"
+        ],
+        [
+          "vaarwel",
+          "farewell"
+        ]
+      ]
+    },
+    "11": {
+      "t": "Premie op Riverpaw-gnolls",
+      "d": "Gnolls zijn wrede wezens die niets te zoeken hebben in deze landen. Ze zijn gezien langs de grenzen van Elwynn Forest. Een grote groep van hen zit in het bos ten zuiden van de wachttoren daar. Het zijn er veel meer dan we alleen aankunnen. Een andere groep zit in de buurt van Stone Cairn Lake, in het oosten.$B$BHet Stormwind Army zal iedereen prijzen die helpt om ze te doden. Breng me hun beschilderde gnoll-armbanden als bewijs.",
+      "o": "Breng 8 Painted Gnoll Armbands naar Deputy Rainer bij de Barracks.",
+      "p": "Gegroet, $N. Heb je gnolls gedood...?",
+      "c": "Ik zie dat je druk bezig bent geweest! Bedankt, $N.",
+      "g": [
+        [
+          "Premie",
+          "bounty"
+        ],
+        [
+          "wrede",
+          "brutish, cruel (wreed)"
+        ],
+        [
+          "wezens",
+          "creatures (wezen)"
+        ],
+        [
+          "niets te zoeken hebben",
+          "have no business (being somewhere)"
+        ],
+        [
+          "grenzen",
+          "borders (grens)"
+        ],
+        [
+          "wachttoren",
+          "guard tower"
+        ],
+        [
+          "aankunnen",
+          "can handle"
+        ],
+        [
+          "prijzen",
+          "praise, commend"
+        ],
+        [
+          "beschilderde",
+          "painted (beschilderd)"
+        ],
+        [
+          "armbanden",
+          "armbands (armband)"
+        ],
+        [
+          "Gegroet",
+          "hail, greetings"
+        ]
+      ]
+    },
+    "35": {
+      "t": "Meer zorgen",
+      "d": "Ben je bang dat de geruchten over murlocs waar zijn? Doe dan dit: ga naar de oostelijke brug van Elwynn en spreek met Guard Thomas. Hij staat al een week bij de brug. Hij weet hoe het in het gebied gaat.$B$BBreng me zijn verslag.",
+      "o": "Marshal Dughan wil dat je met Guard Thomas spreekt.",
+      "c": "Ja, murlocs wonen nu in en rond de beken van oostelijk Elwynn. We weten niet waarom ze hier zijn. Maar ze zijn agressief en ten minste een beetje intelligent.",
+      "g": [
+        [
+          "zorgen",
+          "concerns, worries (zorg)"
+        ],
+        [
+          "geruchten",
+          "rumours (gerucht)"
+        ],
+        [
+          "oostelijke",
+          "eastern (oostelijk)"
+        ],
+        [
+          "gebied",
+          "area"
+        ],
+        [
+          "verslag",
+          "report"
+        ],
+        [
+          "beken",
+          "streams (beek)"
+        ],
+        [
+          "agressief",
+          "aggressive"
+        ],
+        [
+          "ten minste",
+          "at least"
+        ]
+      ]
+    },
+    "37": {
+      "t": "Zoek de verdwenen wachters",
+      "d": "Een paar dagen geleden hebben we twee wachters, Rolf en Malakai, langs de rivier gestuurd om te zoeken. Ze zijn nog niet terug. Voor mijn verslag moet ik weten wat er met die mannen is gebeurd.$B$BGa naar het noorden langs de rivier en zoek de wachters... of wat er van ze over is.",
+      "o": "Guard Thomas wil dat je naar het noorden gaat, de rivier op, en de twee verdwenen wachters zoekt: Rolf en Malakai.",
+      "c": "Er is veel van het lijk weggehaald. Maar vlakbij ligt een medaillon met de woorden \"Footman Malakai Stone\" erin gegraveerd.",
+      "g": [
+        [
+          "verdwenen",
+          "lost, vanished (verdwijnen)"
+        ],
+        [
+          "wachters",
+          "guards (wachter)"
+        ],
+        [
+          "gebeurd",
+          "happened (gebeuren)"
+        ],
+        [
+          "wat er van ze over is",
+          "what is left of them, their remains"
+        ],
+        [
+          "lijk",
+          "corpse"
+        ],
+        [
+          "weggehaald",
+          "taken away, stripped (weghalen)"
+        ],
+        [
+          "vlakbij",
+          "nearby"
+        ],
+        [
+          "medaillon",
+          "medallion"
+        ],
+        [
+          "gegraveerd",
+          "engraved, etched (graveren)"
+        ]
+      ]
+    },
+    "39": {
+      "t": "Breng het verslag van Thomas",
+      "d": "Vertel Marshal Dughan dat Malakai en Rolf dood zijn. En meld hem dat we de murlocs in oostelijk Elwynn niet kunnen tegenhouden met de soldaten die we nu hebben.$B$BIk weet dat we niet veel soldaten over hebben, maar hopelijk kan Dughan iemand vinden.",
+      "o": "Breng verslag uit bij Marshal Dughan in Goldshire.",
+      "c": "Hm, dit nieuws is zorgwekkend. Onze verdediging is al dun, en nu we Rolf en Malakai aan die murlocs hebben verloren, staan we er nog slechter voor.$B$BAls het niet beter wordt, wordt er aan het eind van de week gevochten in Goldshire!",
+      "g": [
+        [
+          "meld",
+          "report (melden)"
+        ],
+        [
+          "tegenhouden",
+          "to contain, stop"
+        ],
+        [
+          "over hebben",
+          "to have to spare"
+        ],
+        [
+          "hopelijk",
+          "hopefully"
+        ],
+        [
+          "zorgwekkend",
+          "troubling, worrying"
+        ],
+        [
+          "verdediging",
+          "defence"
+        ],
+        [
+          "dun",
+          "thin"
+        ],
+        [
+          "verloren",
+          "lost (verliezen)"
+        ],
+        [
+          "staan we er slechter voor",
+          "we are in a worse position (ervoor staan)"
+        ],
+        [
+          "gevochten",
+          "fought (vechten)"
+        ]
+      ]
+    },
+    "40": {
+      "t": "Een vissig gevaar",
+      "d": "$N, er is een nieuw gevaar in Elwynn Forest! Murlocs zwemmen de beken van oostelijk Elwynn op. Ze jagen de vissen weg en vallen vredige mensen aan!$B$BIk heb Marshal Dughan gewaarschuwd, maar hij maakt zich meer zorgen over de gnolls en de bandieten. Hij gelooft niet dat de murlocs gevaarlijk zijn.$B$BAlsjeblieft, $N, praat met Dughan. Overtuig hem om meer soldaten naar het oosten te sturen!",
+      "o": "Remy \"Two Times\" wil dat je met Marshal Dughan in Goldshire spreekt.",
+      "c": "Ja, ik heb met Remy gepraat. Ik respecteer hem als handelaar. Maar alle berichten over murlocs in het oosten zijn op z'n best vaag.$B$BIk hoor je zorgen. Maar als ik geen militair verslag krijg over een murlocgevaar, kunnen we het ons niet veroorloven om meer soldaten naar het oosten te sturen.",
+      "g": [
+        [
+          "vissig",
+          "fishy"
+        ],
+        [
+          "beken",
+          "streams (beek)"
+        ],
+        [
+          "jagen weg",
+          "scare away (wegjagen)"
+        ],
+        [
+          "vallen aan",
+          "attack (aanvallen)"
+        ],
+        [
+          "vredige",
+          "peaceful, gentle (vredig)"
+        ],
+        [
+          "gewaarschuwd",
+          "warned (waarschuwen)"
+        ],
+        [
+          "maakt zich zorgen",
+          "worries (zich zorgen maken)"
+        ],
+        [
+          "bandieten",
+          "bandits (bandiet)"
+        ],
+        [
+          "Overtuig",
+          "persuade (overtuigen)"
+        ],
+        [
+          "handelaar",
+          "merchant"
+        ],
+        [
+          "op z'n best",
+          "at best"
+        ],
+        [
+          "vaag",
+          "vague, sketchy"
+        ],
+        [
+          "militair",
+          "military"
+        ],
+        [
+          "het ons niet veroorloven",
+          "can't afford it (zich veroorloven)"
+        ]
+      ]
+    },
+    "45": {
+      "t": "Wat gebeurde er met Rolf?",
+      "d": "Je zoekt verder in het gebied. Je vindt voetafdrukken met zwemvliezen die naar het oosten gaan, langs de oever van Stone Cairn Lake. Ver in het oosten zie je nog net een murlocdorp.$B$BMisschien vond Rolf daar zijn einde...",
+      "o": "Zoek in het murlocdorp naar Rolf, of naar tekenen van zijn dood.",
+      "c": "Om de nek van het lijk vind je een metalen medaillon met de woorden \"Footman Rolf Hartford\" erin.",
+      "g": [
+        [
+          "verder",
+          "further"
+        ],
+        [
+          "voetafdrukken",
+          "footprints (voetafdruk)"
+        ],
+        [
+          "zwemvliezen",
+          "webbing, webbed feet (zwemvlies)"
+        ],
+        [
+          "oever",
+          "shore"
+        ],
+        [
+          "nog net",
+          "just barely"
+        ],
+        [
+          "murlocdorp",
+          "murloc village"
+        ],
+        [
+          "vond zijn einde",
+          "met his end (vinden)"
+        ],
+        [
+          "tekenen",
+          "signs (teken)"
+        ],
+        [
+          "lijk",
+          "corpse"
+        ],
+        [
+          "metalen",
+          "metal"
+        ],
+        [
+          "medaillon",
+          "medallion"
+        ]
+      ]
+    },
+    "46": {
+      "t": "Premie op murlocs",
+      "d": "Het Stormwind Army heeft een premie gezet op Murloc Lurkers en Murloc Foragers in Elwynn. Dood ze en breng me hun gescheurde murlocvinnen. Dan krijg je een goede beloning van het Stormwind Army.$B$BDe murlocs hebben een dorp gebouwd bij Stone Cairn Lake, ten noorden van hier. En nog een in het zuiden, waar de beek splitst.",
+      "o": "Breng 8 Torn Murloc Fins naar Guard Thomas bij de oostelijke brug van Elwynn.",
+      "p": "Hoe gaat de jacht, $N?",
+      "c": "Heb je de vinnen? Geweldig! Marshal Dughan maakt zich zorgen over de murlocs in oostelijk Elwynn. Ik zou hem graag vertellen dat we het onder controle krijgen.$B$BDat komt door jouw acties.",
+      "g": [
+        [
+          "premie",
+          "bounty"
+        ],
+        [
+          "gescheurde",
+          "torn (gescheurd)"
+        ],
+        [
+          "murlocvinnen",
+          "murloc fins (vin)"
+        ],
+        [
+          "beloning",
+          "reward"
+        ],
+        [
+          "gebouwd",
+          "built (bouwen)"
+        ],
+        [
+          "beek",
+          "stream"
+        ],
+        [
+          "splitst",
+          "forks, splits (splitsen)"
+        ],
+        [
+          "vinnen",
+          "fins (vin)"
+        ],
+        [
+          "onder controle",
+          "under control"
+        ],
+        [
+          "acties",
+          "actions (actie)"
+        ]
+      ]
+    }
+  },
+  "words": {
+    "buitenland": "abroad, foreign countries",
+    "deadline": "deadline",
+    "druivenlijst": "grape list, manifest",
+    "foragers": "foragers (English mob name: Murloc Forager)",
+    "gnoll-armbanden": "gnoll armbands (armband)",
+    "intelligent": "intelligent",
+    "koboldkaarsen": "kobold candles (kaars)",
+    "koboldkamp": "kobold camp",
+    "lurkers": "lurkers (English mob name: Murloc Lurker)",
+    "mmm": "mm (sound of enjoying food)",
+    "murlocgevaar": "murloc threat",
+    "oostelijk": "eastern",
+    "pretje": "bit of fun (geen pretje: no picnic)",
+    "riverpaw-gnolls": "Riverpaw gnolls (gnoll clan name + gnoll)",
+    "samenbrengen": "to bring together",
+    "snif": "sniff",
+    "stikt": "chokes (stikken)",
+    "verga": "am dying, perish (vergaan; ik verga van de honger: I'm starving)",
+    "boswolven": "timber wolves (boswolf)"
+  },
+  "terms": {}
+}
