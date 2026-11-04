@@ -12,7 +12,7 @@ Speurtocht.NL laat de teksten van quests in het Nederlands zien. De rest van het
 - **Een woordenlijst** met de woorden waarop je klikt, klaar om in Anki te zetten.
 - **Alle quests van Classic Era**, voor de Alliance en de Horde: meer dan 4.200.
 
-**Versie 0.3.0** · Classic Era (1.15) nu · World of Warcraft: Forever (1.60) vanaf de lancering
+**Versie 0.3.1** · Classic Era (1.15) nu · World of Warcraft: Forever (1.60) vanaf de lancering
 
 ---
 
