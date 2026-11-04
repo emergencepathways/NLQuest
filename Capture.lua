@@ -21,6 +21,16 @@ local function Merge(store, id, cur)
     if cur.source ~= "log" and UnitExists("npc") then e.npc = e.npc or UnitName("npc") end
     e.build = NQ.build
     e.toc = NQ.toc
+    -- Who saw it: the client has already put the player's name, class and race
+    -- into the English text, so tools/import_capture.py needs these to turn them
+    -- back into $n $c $r. Level and faction place the quest in the plan.
+    e.pname = UnitName and UnitName("player") or nil
+    e.pclass = UnitClass and UnitClass("player") or nil
+    e.prace = UnitRace and UnitRace("player") or nil
+    e.psex = UnitSex and UnitSex("player") or nil
+    e.plevel = UnitLevel and UnitLevel("player") or nil
+    e.faction = UnitFactionGroup and UnitFactionGroup("player") or nil
+    if cur.level and cur.level > 0 then e.level = cur.level end
     e.seen = time()
     store[id] = e
     return e

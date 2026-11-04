@@ -292,6 +292,9 @@ QuestFrame:Show(); QuestFrameDetailPanel:Show()
 check(QuestInfoDescriptionText:GetText() ~= "", "untranslated quest leaves English alone")
 check(NQ.capture.quests[88888] and NQ.capture.quests[88888].desc == "Find a warm place to rest.", "untranslated quest captured")
 check(NQ.capture.quests[88888].npc ~= nil and NQ.capture.quests[88888].toc == 11509, "capture metadata")
+do local e = NQ.capture.quests[88888]
+   check(e.pname == "Lucy" and e.pclass == "Warrior" and e.prace == "Dwarf" and e.plevel == 5
+         and e.faction == "Alliance", "capture records player context for $n/$c/$r and planning") end
 check(NQ.reader.nl:GetText():find("nog niet vertaald", 1, true), "reader explains missing translation")
 -- report link for a missing quest
 local url = NQ:ReportURL(NQ.current)
@@ -339,6 +342,7 @@ check(QuestLogTitle2:GetText() == "  Een nieuw gevaar", "log list title: " .. Qu
 logSel = 3
 QuestLog_UpdateQuestDetails()
 check(NQ.capture.quests[99999] ~= nil, "log captures untranslated quest")
+check(NQ.capture.quests[99999].level == 5, "log capture keeps the quest level")
 
 ------------------------------------------------------------------------
 -- Settings toggles

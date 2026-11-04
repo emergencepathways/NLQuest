@@ -2,6 +2,11 @@
 
 ## Unreleased
 
+## 0.3.1 — 2026-11-04
+Ready for WoW Forever's launch.
+- New Forever quests you open are now saved with their quest level, your faction and level, and your name, class and race. A **Melden** report or `captured.json` can then go straight into a translation batch, with `$n`, `$c` and `$r` restored.
+- New `tools/import_capture.py` (for the project): adds captured Forever quests to the translation plan as new batches, and lists translated quests whose English text changed in Forever.
+
 ## 0.3.0 — 2026-11-03
 First public release, on CurseForge and GitHub.
 - Ready-to-install download: `SpeurtochtNL.zip` unzips as a `SpeurtochtNL` folder, so it works as soon as it is copied into `Interface/AddOns/`. It is rebuilt after every update.

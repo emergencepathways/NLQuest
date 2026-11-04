@@ -10,6 +10,9 @@ Two lanes run at the same time, each in its own chat:
 - **"Next batch, horde lane."** → `python3 tools/next_batch.py --lane horde`
 - Plain **"next batch"** (no lane) → `python3 tools/next_batch.py` (first free batch).
 - **"Do batch NN."** → `python3 tools/next_batch.py NN`.
+- **"Import the Forever capture."** (a `SpeurtochtNL.lua` / `captured.json` attached or on an issue) →
+  `python3 tools/import_capture.py <file>` on a `forever-capture-YYYYMMDD` branch; see docs/WORKFLOW.md,
+  "WoW Forever: captured quests". The new batches then come through the lanes as usual.
 - **"Also fix issue #12."** → fix it in the batch JSON it points to, mention "Fixes #12" under Corrected.
 
 ```bash
