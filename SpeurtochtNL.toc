@@ -1,5 +1,5 @@
 ## Interface: 11509, 11508, 16001
-## Title: Speurtocht.NL |cffff7f00(0.3.0)|r
+## Title: Speurtocht.NL |cffff7f00(0.3.1)|r
 ## Notes: Dutch quest text for language learners. Everything else stays English.
 ## Notes-nlNL: Nederlandse questteksten voor taalleerders. De rest van het spel blijft Engels.
 ## Author: Emergence Pathways

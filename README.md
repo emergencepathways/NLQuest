@@ -12,7 +12,7 @@ Speurtocht.NL shows quest text in Dutch and leaves the rest of the game in Engli
 - **A vocabulary list** of the words you click, ready to import into Anki.
 - **Every Classic Era quest**, Alliance and Horde: more than 4,200 in all.
 
-**Version 0.3.0** · Classic Era (1.15) now · World of Warcraft: Forever (1.60) from launch
+**Version 0.3.1** · Classic Era (1.15) now · World of Warcraft: Forever (1.60) from launch
 
 ---
 
