@@ -133,13 +133,13 @@ end
 local function OnLogDetails()
     local index = GetQuestLogSelection and GetQuestLogSelection()
     if not index or index == 0 then return end
-    local title, _, _, isHeader = GetQuestLogTitle(index)
+    local title, level, _, isHeader = GetQuestLogTitle(index)
     if isHeader or not title then return end
     local desc, obj = GetQuestLogQuestText()
     local en = { title = title, desc = desc or "", obj = obj or "" }
     local q, id, matchedBy, mismatch = NQ:Lookup(LogQuestID(index), title)
     NQ.logCurrent = { source = "log", id = id or LogQuestID(index), q = q, en = en,
-                      matchedBy = matchedBy, mismatch = mismatch }
+                      matchedBy = matchedBy, mismatch = mismatch, level = tonumber(level) }
     NQ:ApplyLog(NQ.showingEnglish)
     -- Only drive the reader from the log when no quest dialog is open
     if not (QuestFrame and QuestFrame:IsShown()) then

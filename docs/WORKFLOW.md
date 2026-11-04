@@ -126,7 +126,40 @@ Follow [STYLE.md](STYLE.md). In short:
 - **Fresh conversations:** start a new chat every few batches. Everything needed lives in this repo (route, plan, style, previous batches), so long chat history adds cost without adding quality.
 - **Let the tools check the details.** Placeholder, field and name checks are automatic, so a session's attention goes to good Dutch.
 - **Each session ends with a commit.** A failed or interrupted session never loses finished work.
-- **New quests in Forever:** the addon's capture feature records them in game. `tools/capture_to_json.py` turns them into a batch input the same way.
+- **New quests in Forever:** the addon's capture feature records them in game; see the next section.
+
+## WoW Forever: captured quests
+
+Forever's new quests (IDs from about 90000) aren't in any database, and the game client doesn't ship quest
+text: the server sends it when a quest is shown. So they get into the addon through play:
+
+1. **In game:** with capture on (the default), every untranslated quest that's opened (quest giver dialog
+   or quest log) is saved with its English text, zone, NPC, quest level and the player's faction, level,
+   name, class and race. Opening a quest giver's dialog is enough; the quest doesn't need to be accepted.
+   `/reload` or logging out writes it to `WTF/Account/<ACCOUNT>/SavedVariables/SpeurtochtNL.lua`.
+2. **Into the plan** (on a fresh branch from main, while no `plan_batches.py` run is pending):
+
+   ```
+   git switch main && git pull && git switch -c forever-capture-YYYYMMDD
+   python3 tools/import_capture.py <SpeurtochtNL.lua or captured.json> [more files...]
+   git add source/ && git commit -m "Forever capture: <n> new quests" && git push -u origin HEAD
+   ```
+
+   It turns the player's name, class and race in the text back into `$n $c $r`, adds the quests to
+   `source/catalog.json` (category `forever`) and appends new batches after the last one in
+   `source/batches.json`, per faction and zone. Existing batch numbers never change, so this is safe
+   while other batches are in flight. Merge that branch's pull request (it isn't a `batch-*` branch, so
+   the auto-merge leaves it alone).
+3. **Translate** as usual: "Next batch, alliance lane." picks up the new Alliance and both-faction batches,
+   the horde lane the Horde ones.
+4. **Changed text:** translated quests whose English changed in Forever are listed in
+   `work/forever_changed.txt` with the old and new English and the file that holds the Dutch. Fix the
+   Dutch in that batch JSON and re-import it on a `batch-NN` branch.
+
+Things the capture can't recover: gender switches. The client shows *lad* or *lass*, not `$glad:lass;`,
+so a captured word for the player's gender is translated neutrally or with a `$g` switch by hand.
+Players who aren't the owner send their file as `captured.json` (`tools/capture_to_json.py`) on a
+*Missing quest* issue; `import_capture.py` takes several files at once and merges them.
 
 ## Updating the source data
 

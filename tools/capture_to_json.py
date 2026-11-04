@@ -10,8 +10,8 @@ translation yet (SpeurtochtNLCapture.quests), and translated quests whose
 English title changed (SpeurtochtNLCapture.changed). This is how WoW Forever's
 new quests (e.g. the Cozy Sleeping Bag chain) get into the addon.
 
-Send the resulting JSON back for translation; the output keeps the same field
-names the addon's data files use.
+Send the resulting JSON back for translation (tools/import_capture.py adds it to the
+plan); the output keeps the same field names the addon's data files use.
 """
 import json
 import os
@@ -31,6 +31,7 @@ def convert(store):
             "en": {FIELD_MAP[k]: v for k, v in e.items() if k in FIELD_MAP and v},
             "zone": e.get("zone"), "npc": e.get("npc"),
             "build": e.get("build"), "toc": e.get("toc"),
+            **{k: e[k] for k in ("level", "plevel", "faction", "pname", "pclass", "prace", "psex") if e.get(k)},
         }
     return out
 
