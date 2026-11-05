@@ -103,8 +103,13 @@
     [
      "besparen",
      "to save, spare"
+    ],
+    [
+     "heelhuids",
+     "in one piece, unharmed"
     ]
-   ]
+   ],
+   "p": "Wendigo's zijn gemene beesten. Gelukkig zijn alle mijnwerkers heelhuids uit de Grizzled Den gekomen!"
   },
   "98326": {
    "t": "Frosthowl",
@@ -352,8 +357,17 @@
     [
      "gevallen",
      "fallen"
+    ],
+    [
+     "kolf",
+     "stock (of a rifle)"
+    ],
+    [
+     "gebeurt",
+     "happens (gebeuren)"
     ]
-   ]
+   ],
+   "c": "De bergbeklimmers zetten hun naam in de kolf van hun geweer. Zo weet je wie het was, als er iets gebeurt. Ik stuur deze terug naar Ironforge. Daar geeft iemand ze aan de familie."
   }
  },
  "words": {

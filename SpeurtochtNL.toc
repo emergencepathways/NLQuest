@@ -170,6 +170,7 @@ Data\Batch_94_Zone_1769.lua
 Data\Batch_95_Zone_19.lua
 Data\Batch_154_Forever_Dun_Morogh.lua
 Data\Batch_155_Forever_Dun_Morogh.lua
+Data\Batch_156_Forever_Dun_Morogh.lua
 
 Display.lua
 Reader.lua
