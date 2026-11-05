@@ -1,0 +1,258 @@
+{
+ "quests": {
+  "98581": {
+   "t": "Oude rune",
+   "d": "Je hebt me goed geholpen. Ondertussen kreeg ik deze rune. Ik moest hem aan jou geven. Lees hem als je even tijd hebt. De tekens zijn in de stijl van de Wildhammer. Daarom denk ik dat hij van Teo Hammerstorm, de trainer voor $c komt. Bekijk hem goed. Ga daarna naar Teo in Anvilmar als je tijd hebt.",
+   "o": "Lees de Archaic Rune en praat met Teo Hammerstorm in Anvilmar.",
+   "p": "Ah, kon je de rune lezen? Hij zit vol met de kracht van de elementen. Het is een van onze oudste schriften. Dat laat zien dat jij een echte $c kunt worden.",
+   "g": [
+    [
+     "rune",
+     "rune (magic letter)"
+    ],
+    [
+     "ondertussen",
+     "meanwhile"
+    ],
+    [
+     "tekens",
+     "signs, letters (teken)"
+    ],
+    [
+     "stijl",
+     "style"
+    ],
+    [
+     "daarom",
+     "that's why, therefore"
+    ],
+    [
+     "bekijk",
+     "look at (bekijken)"
+    ],
+    [
+     "kracht",
+     "power, strength"
+    ],
+    [
+     "elementen",
+     "elements (element)"
+    ],
+    [
+     "schriften",
+     "scripts, writings (schrift)"
+    ],
+    [
+     "laat zien",
+     "shows (laten zien)"
+    ]
+   ]
+  },
+  "97277": {
+   "t": "Grund en Gozwin",
+   "d": "Hé! Ik stond met mijn rug naar het kamp. Ik maakte het zwijnenvlees klaar. Toen hoorde ik mijn vriend Gozwin gillen. Hij was bang voor zijn leven!$b$bIk draaide me om. Ik zag alleen gemene tanden en een snelle vlek. Wat een enorme poten! Een sneeuwluipaard sleepte zijn gnoom weg. Ik pakte mijn geweer en schoot boven het beest. Het liet hem vallen en rende weg.$b$bGelukkig heeft de oude Goz alleen een paar diepe krassen.$b$bGa terug naar het kamp in de heuvels in het noordwesten. Haal Gozwin's Mechanic's Log op. Dood dat sneeuwluipaard ook als je het ziet!",
+   "o": "Zoek het kamp van Grund en Gozwin in de heuvels in het noordwesten. Haal Gozwin's Mechanic's Log terug en dood de Snow Leopard Prowler.",
+   "g": [
+    [
+     "rug",
+     "back (body)"
+    ],
+    [
+     "zwijnenvlees",
+     "boar meat (zwijn + vlees)"
+    ],
+    [
+     "gillen",
+     "to scream"
+    ],
+    [
+     "gemene",
+     "nasty, wicked (gemeen)"
+    ],
+    [
+     "poten",
+     "paws (poot)"
+    ],
+    [
+     "sneeuwluipaard",
+     "snow leopard"
+    ],
+    [
+     "sleepte",
+     "dragged (slepen)"
+    ],
+    [
+     "geweer",
+     "gun, rifle"
+    ],
+    [
+     "schoot",
+     "shot (schieten)"
+    ],
+    [
+     "krassen",
+     "scratches (kras)"
+    ],
+    [
+     "heuvels",
+     "hills (heuvel)"
+    ],
+    [
+     "vlek",
+     "blur, spot"
+    ]
+   ]
+  },
+  "96608": {
+   "t": "Het buitenleven",
+   "d": "Gegroet, $c. Ik zie dat je eruitziet als een avonturier. Dat is goed. De wereld heeft meer onrustige zielen zoals wij nodig. Wij zoeken geluk en roem.$b$bVoor dit werk moet je leren om het goed te doen in de wildernis. Ik weet niet hoe goed jij buiten bent. Maar ik kan je vast een paar dingen leren, als je dat wilt.$b$bGa bij het vuur zitten en maak het je gemakkelijk. Ik leg het je stap voor stap uit.",
+   "o": "Ga bij Eric's Basic Campfire zitten en wacht tot je de buff Boosted Rest krijgt.",
+   "g": [
+    [
+     "gegroet",
+     "greetings"
+    ],
+    [
+     "avonturier",
+     "adventurer"
+    ],
+    [
+     "onrustige",
+     "restless (onrustig)"
+    ],
+    [
+     "zielen",
+     "souls (ziel)"
+    ],
+    [
+     "roem",
+     "fame, glory"
+    ],
+    [
+     "wildernis",
+     "wilderness"
+    ],
+    [
+     "maak het je gemakkelijk",
+     "make yourself comfortable"
+    ],
+    [
+     "leg uit",
+     "explain (uitleggen)"
+    ],
+    [
+     "stap voor stap",
+     "step by step"
+    ]
+   ]
+  },
+  "98322": {
+   "t": "Beveilig de berg",
+   "d": "Donkere grotten verkennen is werk voor avonturiers. Mijn werk is alleen verslagen maken. Die stuur ik naar Ironforge.$b$bHet probleem is: een van mijn verslagen is niet... nou ja, teruggekomen. Ik vroeg een paar bergbeklimmers om meer te weten te komen over het wendigoprobleem hier. Maar ik heb niets van ze gehoord.$b$bGa je toch op pad? Kijk dan even hoe het gaat met Mountaineer Gretchen, net ten westen van het dorp. Ik ben al laat genoeg!",
+   "o": "Ga kijken hoe het met Mountaineer Gretchen gaat, ten westen van Kharanos.",
+   "g": [
+    [
+     "grotten",
+     "caves (grot)"
+    ],
+    [
+     "verkennen",
+     "to explore"
+    ],
+    [
+     "verslagen",
+     "reports (verslag)"
+    ],
+    [
+     "probleem",
+     "problem"
+    ],
+    [
+     "bergbeklimmers",
+     "mountaineers (bergbeklimmer)"
+    ],
+    [
+     "te weten komen",
+     "to find out"
+    ],
+    [
+     "op pad",
+     "on the road, out and about"
+    ],
+    [
+     "ten westen van",
+     "to the west of"
+    ],
+    [
+     "genoeg",
+     "enough"
+    ]
+   ]
+  },
+  "99158": {
+   "t": "Dageraad in de bergen",
+   "d": "Er woont een priester in de bergen. Hij hoort bij een groep die de Argent Dawn heet. Het is een heilige groep. Ze willen alles wat onheilig en onnatuurlijk is vinden en vernietigen.$b$bMaar Father Gavin wil vooral iedereen helpen en genezen. Hij pakt liever geen wapen. Hij heeft een oud gebouw opgeknapt. Nu is het een rustplek voor reizigers. Hij noemt het Misty Pine Refuge. Ik heb een zending heilige kaarsen voor hem. Kun jij ze naar hem brengen als je die kant op gaat?",
+   "o": "Breng de kist met kaarsen naar Father Gavin in Misty Pine Refuge.",
+   "g": [
+    [
+     "dageraad",
+     "dawn"
+    ],
+    [
+     "priester",
+     "priest"
+    ],
+    [
+     "heilige",
+     "holy (heilig)"
+    ],
+    [
+     "onheilig",
+     "unholy"
+    ],
+    [
+     "onnatuurlijk",
+     "unnatural"
+    ],
+    [
+     "vernietigen",
+     "to destroy"
+    ],
+    [
+     "genezen",
+     "to heal"
+    ],
+    [
+     "opgeknapt",
+     "fixed up, renovated (opknappen)"
+    ],
+    [
+     "reizigers",
+     "travellers (reiziger)"
+    ],
+    [
+     "zending",
+     "shipment"
+    ],
+    [
+     "kaarsen",
+     "candles (kaars)"
+    ],
+    [
+     "kist",
+     "crate, chest"
+    ]
+   ]
+  }
+ },
+ "words": {
+  "beveilig": "secure, make safe (beveiligen)",
+  "buff": "buff (game term: a helpful magic effect)",
+  "buitenleven": "outdoor life, the great outdoors",
+  "rustplek": "resting place (rust + plek)",
+  "vlek": "spot, blur"
+ },
+ "terms": {
+  "wendigoprobleem": "wendigo problem: trouble with wendigos, large yeti-like beasts from the Warcraft world"
+ }
+}

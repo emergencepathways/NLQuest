@@ -168,6 +168,7 @@ Data\Batch_93_Darkmoon_Faire.lua
 Data\Batch_96_Ahn_Qiraj.lua
 Data\Batch_94_Zone_1769.lua
 Data\Batch_95_Zone_19.lua
+Data\Batch_154_Forever_Dun_Morogh.lua
 
 Display.lua
 Reader.lua
