@@ -1,0 +1,62 @@
+-- Speurtocht.NL batch 155: Forever: Dun Morogh
+-- Generated from batches/155-forever-dun-morogh.json by tools/import_batch.py - edit the JSON, not this file.
+local _, NQ = ...
+
+NQ:AddQuests({
+
+[98319] = { en = "Secure the Mountain", tier = 1,
+  t = "Beveilig de berg",
+  d = "Een trollenprobleem is al erg genoeg. Maar de bergen zitten ook nog tot de rand vol met wendigo's! Normaal blijven ze in hun eigen grotten. Maar nu lijken ze zich te verspreiden als konijnen. Nu zit de Grizzled Den ten noorden van hier vol met ze.$b$bWe willen het verslag van Whitebeard. Daarvoor moeten we mijn partner Cornelius vinden. Die domkop werd een beetje te enthousiast. Hij rende met zijn hoofd vooruit naar binnen. Dapper, maar dom.$b$bGa de grot in en kijk waar hij is. En je mag gerust wat van die beesten doden terwijl je daar bent.",
+  o = "Zoek Mountaineer Cornelius in de Grizzled Den voor Mountaineer Gretchen.",
+  g = { {"trollenprobleem", "troll problem (trol + probleem)"}, {"tot de rand", "to the brim"}, {"wendigo's", "wendigos"}, {"verspreiden", "to spread"}, {"konijnen", "rabbits (konijn)"}, {"verslag", "report"}, {"domkop", "blockhead, idiot"}, {"enthousiast", "excited, enthusiastic"}, {"vooruit", "forward, ahead"}, {"dapper", "brave"}, {"gerust", "feel free to (je mag gerust...)"} },
+},
+
+[98321] = { en = "Flintfire's Shipment", tier = 1,
+  t = "De lading van Flintfire",
+  d = "Hoha! Fijn om een $r te zien die niet bang is voor vuile handen.$b$bZoek je werk? Dan moet ik je teleurstellen. Ik heb op dit moment niet veel voorraad. Onze beste bron van erts is overgenomen door wendigo's. Nu is de grot verlaten. De mijnwerkers moesten alles laten vallen toen ze vluchtten!$b$bZeg, waarom kijk je niet even rond in de Grizzled Den in het westen? Misschien vind je een paar van onze verloren ladingen. Dat zou ons veel moeite besparen.",
+  o = "Verzamel 8 Flintfire Shipments in de Grizzled Den voor Tongus Flintfire in Kharanos.",
+  g = { {"lading", "shipment, load"}, {"vuile", "dirty (vuil)"}, {"teleurstellen", "to disappoint"}, {"voorraad", "supplies, stock"}, {"bron", "source"}, {"erts", "ore"}, {"overgenomen", "taken over (overnemen)"}, {"verlaten", "abandoned"}, {"mijnwerkers", "miners (mijnwerker)"}, {"vluchtten", "fled (vluchten)"}, {"moeite", "trouble, effort"}, {"besparen", "to save, spare"} },
+},
+
+[98326] = { en = "Frosthowl", tier = 1,
+  t = "Frosthowl",
+  d = "Weet je hoe moeilijk het is om te vissen op een bevroren meer? Mijn arme man, Paxton, zit al dagen midden op het ijs. En we hebben bijna niets gevangen. Nog geen enkele zak.$b$bNou, we HADDEN wel een zak. Tot die driedubbel vervloekte wendigo me aanviel. Hij ging er met onze vangst vandoor. Het kost ons weken om dat allemaal weer te vangen! Tenminste, als die schreeuwlelijk Frosthowl de vissen niet allemaal wegjaagt.$b$bWil je ons een plezier doen en het terughalen? Dat kwijlende beest verstopt zich ergens diep in de Grizzled Den, in het zuidoosten.",
+  o = "Dood Frosthowl en verzamel de Sack of Fish voor Gretta Ganter in Brewnall Village.",
+  g = { {"bevroren", "frozen"}, {"meer", "lake"}, {"gevangen", "caught (vangen)"}, {"zak", "sack, bag"}, {"driedubbel", "triple, three times"}, {"vervloekte", "cursed, damned (vervloekt)"}, {"vandoor", "off, away (ervandoor gaan)"}, {"vangst", "catch, haul"}, {"schreeuwlelijk", "loudmouth"}, {"wegjaagt", "scares away (wegjagen)"}, {"een plezier doen", "to do a favour"}, {"kwijlende", "drooling (kwijlen)"}, {"verstopt zich", "hides (zich verstoppen)"} },
+},
+
+[99159] = { en = "Finding Warmth", tier = 1,
+  t = "Warmte zoeken",
+  d = "Mijn haard staat open om elke ziel te verwarmen. Maar ik wil je om hulp vragen, als dat kan.$b$bIk heb gewoon meer brandhout nodig. Normaal doe ik dat zelf. Maar ik heb het druk gehad met andere taken.",
+  o = "Verzamel 14 stukken brandhout.",
+  c = "Ah, perfect. Deze zijn goed. Als er stukken te nat zijn voor nu, laat ik ze drogen.$b$bWil je nog meer doen? Ik heb nog andere taken waar ik hulp bij kan gebruiken.",
+  g = { {"warmte", "warmth"}, {"haard", "hearth, fireplace"}, {"ziel", "soul"}, {"verwarmen", "to warm"}, {"brandhout", "firewood"}, {"het druk hebben", "to be busy"}, {"taken", "tasks (taak)"}, {"nat", "wet"}, {"drogen", "to dry"} },
+},
+
+[99160] = { en = "Rime's Wrath", tier = 1,
+  t = "De woede van de rijp",
+  d = "Misschien heb je de elementalen hier in de buurt gezien. Een paar dagen geleden viel er een plaat van rots en ijs van de bergtoppen. Daardoor werden ze boos.$b$bDeze bevroren bergen zijn al gevaarlijk voor een gewone $r of mens. Ook zonder elementen die een vorm aannemen. Ik vecht niet meer. Dus elke geest die jij doodt, maakt de weg veiliger.",
+  o = "Vernietig 10 minor ice elementals.",
+  c = "Ik wou dat we ze gewoon hadden kunnen kalmeren. Helaas wist ik niet hoe. En ze waren te gevaarlijk om ze hun gang te laten gaan.",
+  g = { {"woede", "wrath, anger"}, {"rijp", "rime, hoarfrost"}, {"elementalen", "elementals (elementaal)"}, {"plaat", "slab, shelf"}, {"bergtoppen", "mountain peaks (bergtop)"}, {"gevaarlijk", "dangerous"}, {"vorm aannemen", "to take form"}, {"geest", "spirit"}, {"veiliger", "safer (veilig)"}, {"kalmeren", "to calm, placate"}, {"helaas", "unfortunately"}, {"hun gang laten gaan", "to leave them be, leave unchecked"} },
+},
+
+[99161] = { en = "Rime's Wrath", tier = 1,
+  t = "De woede van de rijp",
+  d = "Na de lawine kwam er eerst één elementaal. Die was groter dan de anderen. Ik denk dat hij soms het weer verandert. Hij zorgt ook voor kleine lawines.$b$bIk noem hem 'Avala'. Dood hem en breng zijn kern mee als bewijs. Dan krijg je een beloning van mij.",
+  o = "Dood Avala en haal zijn kern op.",
+  g = { {"lawine", "rockslide, avalanche"}, {"elementaal", "elemental"}, {"verandert", "changes (veranderen)"}, {"zorgt voor", "causes (zorgen voor)"}, {"kern", "core"}, {"bewijs", "proof"}, {"beloning", "reward"} },
+},
+
+[99162] = { en = "Treacherous Cold", tier = 1,
+  t = "Verraderlijke kou",
+  d = "Zelfs bergbeklimmers uit Ironforge moeten goed opletten in de toppen van Dun Morogh. Vallende sneeuw en ijs betekenen vaak het einde voor nieuwe, minder ervaren leden.$b$bNa een lawine zoek ik meestal naar overlevenden of slachtoffers. Ik bid dan tot het Light dat ik niets vind. Maar nu de elementen onrustig zijn, ga ik niet zo ver weg. Wil jij zoeken naar verdwaalde bergbeklimmers? Breng me hun geweren. Dan breng ik ze terug naar Ironforge.",
+  o = "Verzamel de geweren van gevallen bergbeklimmers.",
+  g = { {"verraderlijke", "treacherous (verraderlijk)"}, {"kou", "cold"}, {"opletten", "to pay attention, keep one's wits"}, {"ervaren", "experienced"}, {"leden", "members (lid)"}, {"overlevenden", "survivors (overlevende)"}, {"slachtoffers", "victims (slachtoffer)"}, {"bid", "pray (bidden)"}, {"onrustig", "restless, unsettled"}, {"verdwaalde", "lost (verdwaald)"}, {"geweren", "rifles (geweer)"}, {"gevallen", "fallen"} },
+},
+
+})
+
+NQ:AddWords({
+    ["lawines"] = "rockslides, avalanches (lawine)",
+})
