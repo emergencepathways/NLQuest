@@ -5426,6 +5426,19 @@
    "name": "Silithus + Special + Stratholme + zone 1769 + zone 2839 + zone 19",
    "n": 153,
    "slug": "153-silithus"
+  },
+  {
+   "quests": [
+    98581,
+    96608,
+    98322,
+    99158,
+    97277
+   ],
+   "words": 521,
+   "name": "Forever: Dun Morogh + Anvilmar",
+   "n": 154,
+   "slug": "154-forever-dun-morogh"
   }
  ],
  "capture_only": [
