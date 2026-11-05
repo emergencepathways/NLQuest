@@ -78789,6 +78789,40 @@
 "words": 202,
 "zone": "Darkshore"
 },
+"98319": {
+"category": "forever",
+"dungeon": null,
+"en": {
+"Details": "It's bad enough havin' a troll problem, but the mountains are filled tae the brim with wendigos! They normally keep to their own caves, but they seem tae be spreadin' like bunnies. Now they've filled the Grizzled Den north of here.\n\nIf we want Whitebeard's report, we're gonna need to find my partner Cornelius. The blockhead got a little too excited and charged in head first. Brave, but stupid.\n\nHead into the cave and see where he is. And feel free to take out some of the beasts while yer at it.",
+"Objectives": "Find Mountaineer Cornelius in the Grizzled Den for Mountaineer Gretchen.",
+"Title": "Secure the Mountain"
+},
+"giver": "Mountaineer Gretchen",
+"level": 6,
+"min": null,
+"next": null,
+"prev": null,
+"side": "alliance",
+"words": 105,
+"zone": "Dun Morogh"
+},
+"98321": {
+"category": "forever",
+"dungeon": null,
+"en": {
+"Details": "Hoha! Good to see a $r who's not afraid to get their hands dirty.\n\nIf yer lookin' fer work, I'm afraid I'm a little short on supplies at the moment. Our most reliable source of ore has been overrun by wendigo and now the cave has been abandoned. The miners had to drop everything when they fled!\n\nSay, why don't ye poke yer head around the Grizzled Den to the west and see if you can find some of our missing shipments. It would save us a great deal o' trouble.",
+"Objectives": "Collect 8 Flintfire Shipments from the Grizzled Den for Tongus Flintfire in Kharanos.",
+"Title": "Flintfire's Shipment"
+},
+"giver": "Tognus Flintfire",
+"level": 6,
+"min": null,
+"next": null,
+"prev": null,
+"side": "alliance",
+"words": 106,
+"zone": "Dun Morogh"
+},
 "98322": {
 "category": "forever",
 "dungeon": null,
@@ -78804,6 +78838,23 @@
 "prev": null,
 "side": "alliance",
 "words": 88,
+"zone": "Dun Morogh"
+},
+"98326": {
+"category": "forever",
+"dungeon": null,
+"en": {
+"Details": "Do ye know how hard it is to fish on a frozen lake? My poor husband, Paxton, has been out in the middle of it for days and we barely have a single sack to show fer it.\n\nWell, we DID have a sack to show fer it. Until the thrice-damned wendigo attacked me and made off with our haul. It'll take us weeks to fish all that back up! If that loudmouth Frosthowl didn't scare 'em all off, anyway.\n\nDo us a favor and get it back, aye? Drooling brute is hiding somewhere deep in the Grizzled Den to the southeast.",
+"Objectives": "Slay Frosthowl and collect the Sack of Fish for Gretta Ganter in Brewnall Village.",
+"Title": "Frosthowl"
+},
+"giver": "Gretta Ganter",
+"level": 7,
+"min": null,
+"next": null,
+"prev": null,
+"side": "alliance",
+"words": 117,
 "zone": "Dun Morogh"
 },
 "984": {
@@ -78952,6 +79003,76 @@
 "prev": null,
 "side": "alliance",
 "words": 110,
+"zone": "Dun Morogh"
+},
+"99159": {
+"category": "forever",
+"dungeon": null,
+"en": {
+"Details": "My hearth is open to warm any soul, but I'd like to ask you to help me if you could.\n\nI simply need more firewood. It is something I would normally do myself, but I have been preoccupied by other tasks.",
+"Objectives": "Collect 14 pieces of firewood.",
+"OfferRewardText": "Ah, perfect. These will do--any that are too wet to use right now I will leave to dry.\n\nNow, if you're willing, I have more tasks I could use help with.",
+"Title": "Finding Warmth"
+},
+"giver": "Father Gavin",
+"level": 8,
+"min": null,
+"next": null,
+"prev": null,
+"side": "alliance",
+"words": 79,
+"zone": "Dun Morogh"
+},
+"99160": {
+"category": "forever",
+"dungeon": null,
+"en": {
+"Details": "You may have noticed the elementals nearby. A shelf of rock and ice fell from the mountain peaks a few days ago and riled them up.\n\nThese frozen mountains are already treacherous for the average $r or human without the elements taking form. I am not one for fighting anymore--so any of the spirits you can kill would help make the road safer.",
+"Objectives": "Destroy 10 minor ice elementals.",
+"OfferRewardText": "I wish we could have simply placated them. Unfortunately it was beyond my knowledge and they were too dangerous to leave unchecked.",
+"Title": "Rime's Wrath"
+},
+"giver": "Father Gavin",
+"level": 8,
+"min": null,
+"next": null,
+"prev": null,
+"side": "alliance",
+"words": 92,
+"zone": "Dun Morogh"
+},
+"99161": {
+"category": "forever",
+"dungeon": null,
+"en": {
+"Details": "I noticed that the first elemental that appeared after the rockslide was larger than its peers. And from what I can tell, it has been the source of occasional weather changes and other minor slides.\n\nI've been calling it 'Avala', if you could kill it and retrieve the core as proof, I will reward you.",
+"Objectives": "Kill Avala and retrieve its core.",
+"Title": "Rime's Wrath"
+},
+"giver": "Father Gavin",
+"level": 8,
+"min": null,
+"next": null,
+"prev": null,
+"side": "alliance",
+"words": 63,
+"zone": "Dun Morogh"
+},
+"99162": {
+"category": "forever",
+"dungeon": null,
+"en": {
+"Details": "Even mountaineers from Ironforge have to keep their wits about them when traversing through the peaks of Dun Morogh. Falling snow and ice often spells the end of some more novice members' lives.\n\nAfter a slide, I usually try to find any sign of survivors or victims--while praying to the Light that there's nothing to be found. But with the elements acting up, I've held off wandering too far. If you could look for some lost mountaineers and bring me their rifles, I will return them to Ironforge.",
+"Objectives": "Collect the rifles of fallen mountaineers.",
+"Title": "Treacherous Cold"
+},
+"giver": "Father Gavin",
+"level": 8,
+"min": null,
+"next": null,
+"prev": null,
+"side": "alliance",
+"words": 96,
 "zone": "Dun Morogh"
 },
 "992": {
