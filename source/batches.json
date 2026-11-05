@@ -5454,6 +5454,24 @@
    "name": "Forever: Dun Morogh",
    "n": 155,
    "slug": "155-forever-dun-morogh"
+  },
+  {
+   "quests": [
+    96047,
+    96055,
+    96056,
+    96629,
+    96408,
+    96390,
+    95213,
+    95214,
+    95041,
+    96045
+   ],
+   "words": 888,
+   "name": "Forever: Dun Morogh + Ironforge",
+   "n": 156,
+   "slug": "156-forever-dun-morogh"
   }
  ],
  "capture_only": [

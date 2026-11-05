@@ -78035,6 +78035,23 @@
 "words": 85,
 "zone": "Darkshore"
 },
+"95041": {
+"category": "forever",
+"dungeon": null,
+"en": {
+"Details": "Before we fled Gnomeregan, I made a hard copy of my family's archives. Arcanotechnical field equations, Second War submarine hull designs, Grandma Quikswitch's chili recipe... our greatest accomplishments are in those files.\n\nIt wasn't until we reached Ironforge that I found a hole in my pack! Several punch cards are gone, and without them the data's too scrambled to recover.\n\nThe cards must be buried in the snow, somewhere outside Gnomeregan. Could you find them? I know it's a long shot...",
+"Objectives": "Collect 7 Gnomeregan Archival Data cards from around Gnomeregan, then deliver them to Jemma Quikswitch in Ironforge.",
+"Title": "Data Hoarders"
+},
+"giver": "Jemma Quikswitch",
+"level": 10,
+"min": null,
+"next": null,
+"prev": null,
+"side": "alliance",
+"words": 100,
+"zone": "Ironforge"
+},
 "951": {
 "category": "zone",
 "dungeon": null,
@@ -78072,6 +78089,40 @@
 "side": "alliance",
 "words": 146,
 "zone": "Darnassus"
+},
+"95213": {
+"category": "forever",
+"dungeon": null,
+"en": {
+"Details": "The keg is stamped:\n\nBLASTING POWDER - DANGER - DO NOT HANDLE - DANGER - QUARRYMASTER AUTHORIZATION ONLY - DANGER\n\nYou get a sinking feeling that the troggs shouldn't have this. It would be best to report this to the quarry sooner rather than later.",
+"Objectives": "Bring the Empty Powder Keg to Quarrymaster Thesten at Gol'Bolar Quarry.",
+"Title": "Stolen Blasting Powder"
+},
+"giver": "",
+"level": 11,
+"min": null,
+"next": null,
+"prev": null,
+"side": "alliance",
+"words": 59,
+"zone": "Dun Morogh"
+},
+"95214": {
+"category": "forever",
+"dungeon": null,
+"en": {
+"Details": "This keg held enough powder to turn King Magni's throne room into an open air courtyard. We've got to get it back from the troggs before they work out how to ignite it.",
+"Objectives": "Recover 16 Stolen Blasting Powder from the troggs east of Gol'Bolar Quarry, then return to Quarrymaster Thesten.",
+"Title": "Stolen Blasting Powder"
+},
+"giver": "Quarrymaster Thesten",
+"level": 11,
+"min": null,
+"next": null,
+"prev": null,
+"side": "alliance",
+"words": 53,
+"zone": "Dun Morogh"
 },
 "953": {
 "category": "zone",
@@ -78243,6 +78294,74 @@
 "words": 51,
 "zone": "Darkshore"
 },
+"96045": {
+"category": "forever",
+"dungeon": null,
+"en": {
+"RequestItemsText": "Yes, I can teach you.",
+"Title": "Camping 101: Alchemy"
+},
+"giver": "Vosur Brakthel",
+"level": 10,
+"min": null,
+"next": null,
+"prev": null,
+"side": "alliance",
+"words": 8,
+"zone": "Ironforge"
+},
+"96047": {
+"category": "forever",
+"dungeon": null,
+"en": {
+"Details": "So you've taken up First Aid? That's an honorable... and pragmatic pursuit as a $c.\n\nI reckon I know someone that can teach you how to craft a First Aid Kit for your camp. Injuries are a reality in the world of adventuring and offering some much-needed healing at your camp could even save lives.",
+"Objectives": "Speak with Thamner Pol in Kharanos to learn to craft a camping item for your profession once you have shown proficiency in your skill.",
+"Title": "Camping 101: First Aid"
+},
+"giver": "Eric Brighthammer",
+"level": 8,
+"min": null,
+"next": null,
+"prev": null,
+"side": "alliance",
+"words": 83,
+"zone": "Dun Morogh"
+},
+"96055": {
+"category": "forever",
+"dungeon": null,
+"en": {
+"Details": "Looks to me like you've gained some skill in herbalism. Picking flowers isn't just for dilly-dallying, you know. It can be useful... and profitable.\n\nI reckon I know someone that can teach you how to craft an Incense Candle for your camp. High spirits are a key component to keeping healers and spellcasters in the fight, and an Incense Candle can provide a boost that magic users will surely appreciate.",
+"Objectives": "Speak with Reyna Stonebranch in Ironforge to learn to craft a camping item for your profession once you have shown proficiency in your skill.",
+"OfferRewardText": "There you have it, you can now craft your very own Incense Candle. Most folk don't care much for camps being set up in the center of town, so you'll need to head into the wilderness if you want to test it out.\n\nOh, and just remember, no camp is complete without a campfire. You'll need one of those before you start up your camp. Most cooks can teach you to make a fire. If you haven't already, you might want to check in with someone who can train you in the culinary arts to learn the basics.",
+"Title": "Camping 101: Herbalism"
+},
+"giver": "Eric Brighthammer",
+"level": 8,
+"min": null,
+"next": null,
+"prev": null,
+"side": "alliance",
+"words": 195,
+"zone": "Dun Morogh"
+},
+"96056": {
+"category": "forever",
+"dungeon": null,
+"en": {
+"Details": "Being able to skillfully harvest the skins and hides of fallen beasts is one of the more valuable skills an adventurer can possess.\n\nI reckon I know someone that can teach you how to craft a Camp Chair for your camp. Sometimes it's important to just take a load off, and you can use some of those hides you've gathered to make a comfy chair to sit in. A bit of relaxation can help ensure that you are at your peak condition and can strike where it counts the next time you find yourself in a dust-up.",
+"Objectives": "Speak with Balthus Stoneflayer in Ironforge to learn to craft a camping item for your profession once you have shown proficiency in your skill.",
+"Title": "Camping 101: Skinning"
+},
+"giver": "Eric Brighthammer",
+"level": 8,
+"min": null,
+"next": null,
+"prev": null,
+"side": "alliance",
+"words": 124,
+"zone": "Dun Morogh"
+},
 "961": {
 "category": "zone",
 "dungeon": null,
@@ -78297,6 +78416,23 @@
 "words": 171,
 "zone": "Darkshore"
 },
+"96390": {
+"category": "forever",
+"dungeon": null,
+"en": {
+"Details": "Dark Iron spies have infiltrated Dun Morogh. To what end I canna' be sure, but this is a problem we need to nip in the bud before it is allowed to grow.\n\nHead eastward to Ironband's Compound and kill the Dark Iron spies that you find there.",
+"Objectives": "Slay 10 Dark Iron Spies in Dun Morogh.",
+"Title": "Nip 'Em in the Bud"
+},
+"giver": "Earthseer Farsen",
+"level": 10,
+"min": null,
+"next": null,
+"prev": null,
+"side": "alliance",
+"words": 60,
+"zone": "Dun Morogh"
+},
 "964": {
 "category": "zone",
 "dungeon": null,
@@ -78315,6 +78451,24 @@
 "side": "horde",
 "words": 207,
 "zone": "Western Plaguelands"
+},
+"96408": {
+"category": "forever",
+"dungeon": null,
+"en": {
+"Details": "Last night one of our mountaineers spotted a campfire on a hillside to the east. It looks to be pretty high up, overlooking the Gol'Bolar Quarry.\n\nIt's probably nothing, but I'd like you to go check on that camp. If they are friendly, no harm done. If they aren't friendly... well, you know what to do.",
+"Objectives": "Investigate the campsite overlooking the Gol'Bolar Quarry.",
+"OfferRewardText": "Greetings, friend. How are ya?",
+"Title": "A Visitor to Dun Morogh"
+},
+"giver": "Beldin Steelgrill",
+"level": 9,
+"min": null,
+"next": null,
+"prev": null,
+"side": "alliance",
+"words": 73,
+"zone": "Dun Morogh"
 },
 "965": {
 "category": "zone",
@@ -78368,6 +78522,24 @@
 "prev": null,
 "side": "alliance",
 "words": 100,
+"zone": "Dun Morogh"
+},
+"96629": {
+"category": "forever",
+"dungeon": null,
+"en": {
+"Details": "So you want to learn more about camping, huh? Good for you, $c. The first step any adventurer needs to take is to become a cook and learn how to make a campfire.\n\nCooking's not just about making tasty foods. It's also the foundation for your camp.",
+"Objectives": "Speak with Gremlock Pilsnor in Kharanos to learn to become a cook.",
+"OfferRewardText": "With this, you'll be able to set up a camp anywhere out in the wilderness. What you've learned is just the basics, so you won't be able to place too many furnishings around it.\n\nRaise your cooking skill and you might just be able to learn to make even bigger fires.\n\nYou can also learn the basics of furnishing your campsites from other tradeskill trainers if you're savvy in their skills.",
+"Title": "Camping 101: Cooking"
+},
+"giver": "Eric Brighthammer",
+"level": 8,
+"min": null,
+"next": null,
+"prev": null,
+"side": "alliance",
+"words": 133,
 "zone": "Dun Morogh"
 },
 "9664": {
@@ -78812,6 +78984,7 @@
 "en": {
 "Details": "Hoha! Good to see a $r who's not afraid to get their hands dirty.\n\nIf yer lookin' fer work, I'm afraid I'm a little short on supplies at the moment. Our most reliable source of ore has been overrun by wendigo and now the cave has been abandoned. The miners had to drop everything when they fled!\n\nSay, why don't ye poke yer head around the Grizzled Den to the west and see if you can find some of our missing shipments. It would save us a great deal o' trouble.",
 "Objectives": "Collect 8 Flintfire Shipments from the Grizzled Den for Tongus Flintfire in Kharanos.",
+"RequestItemsText": "Wendigos are nasty beasties. It's just good all the miners made it out of the Grizzled Den in one piece!",
 "Title": "Flintfire's Shipment"
 },
 "giver": "Tognus Flintfire",
@@ -78820,7 +78993,7 @@
 "next": null,
 "prev": null,
 "side": "alliance",
-"words": 106,
+"words": 126,
 "zone": "Dun Morogh"
 },
 "98322": {
@@ -79064,6 +79237,7 @@
 "en": {
 "Details": "Even mountaineers from Ironforge have to keep their wits about them when traversing through the peaks of Dun Morogh. Falling snow and ice often spells the end of some more novice members' lives.\n\nAfter a slide, I usually try to find any sign of survivors or victims--while praying to the Light that there's nothing to be found. But with the elements acting up, I've held off wandering too far. If you could look for some lost mountaineers and bring me their rifles, I will return them to Ironforge.",
 "Objectives": "Collect the rifles of fallen mountaineers.",
+"OfferRewardText": "The mountaineers engrave their names on the stock of their rifles. It helps identify them should something happen. I'll send these back to Ironforge--there someone will pass them on to any family.",
 "Title": "Treacherous Cold"
 },
 "giver": "Father Gavin",
@@ -79072,7 +79246,7 @@
 "next": null,
 "prev": null,
 "side": "alliance",
-"words": 96,
+"words": 128,
 "zone": "Dun Morogh"
 },
 "992": {
