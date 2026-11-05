@@ -1,6 +1,7 @@
 # Changelog
 
 ## Unreleased
+- Batch 154: WoW Forever Dwarf Shaman starting quests reported after launch (Archaic Rune, Grund and Gozwin, The Great Outdoors, Secure the Mountain, Dawn in the Mountains) (5 quests, 4237 in total).
 
 ## 0.3.1 — 2026-11-04
 Ready for WoW Forever's launch.
