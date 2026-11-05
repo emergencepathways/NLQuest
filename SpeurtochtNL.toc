@@ -1,9 +1,9 @@
 ## Interface: 11509, 11508, 16001
-## Title: Speurtocht.NL |cffff7f00(0.3.1)|r
+## Title: Speurtocht.NL |cffff7f00(0.3.2)|r
 ## Notes: Dutch quest text for language learners. Everything else stays English.
 ## Notes-nlNL: Nederlandse questteksten voor taalleerders. De rest van het spel blijft Engels.
 ## Author: Emergence Pathways
-## Version: 0.3.1
+## Version: 0.3.2
 ## SavedVariables: SpeurtochtNLDB, SpeurtochtNLVocab, SpeurtochtNLCapture
 ## IconTexture: Interface\AddOns\SpeurtochtNL\Media\icon
 

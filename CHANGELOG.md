@@ -1,6 +1,9 @@
 # Changelog
 
 ## Unreleased
+
+## 0.3.2 — 2026-11-05
+First WoW Forever update: 22 new Forever quests from the Dwarf Shaman start in Dun Morogh and Ironforge, reported by players after launch.
 - Batch 156: More WoW Forever Dun Morogh and Ironforge quests reported after launch (the Camping 101 quests, A Visitor to Dun Morogh, Nip 'Em in the Bud, Stolen Blasting Powder, Data Hoarders), plus progress text for Flintfire's Shipment and completion text for Treacherous Cold (10 quests, 4254 in total).
 - Batch 155: WoW Forever Dun Morogh quests reported after launch (Secure the Mountain, Flintfire's Shipment, Frosthowl, Father Gavin's Finding Warmth, Rime's Wrath and Treacherous Cold) (7 quests, 4244 in total).
 - Batch 154: WoW Forever Dwarf Shaman starting quests reported after launch (Archaic Rune, Grund and Gozwin, The Great Outdoors, Secure the Mountain, Dawn in the Mountains) (5 quests, 4237 in total).
