@@ -15,7 +15,7 @@
 local addonName, NQ = ...
 _G.SpeurtochtNL = NQ
 
-NQ.version = "0.3.1"
+NQ.version = "0.3.2"
 NQ.Q = {}           -- questID -> translation
 NQ.byTitle = {}     -- lowercase English title -> questID (fallback when IDs differ)
 NQ.dict = {}        -- shared dictionary: lowercase Dutch word -> English meaning
