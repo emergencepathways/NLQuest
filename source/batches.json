@@ -5439,6 +5439,21 @@
    "name": "Forever: Dun Morogh + Anvilmar",
    "n": 154,
    "slug": "154-forever-dun-morogh"
+  },
+  {
+   "quests": [
+    98319,
+    98321,
+    98326,
+    99159,
+    99160,
+    99161,
+    99162
+   ],
+   "words": 658,
+   "name": "Forever: Dun Morogh",
+   "n": 155,
+   "slug": "155-forever-dun-morogh"
   }
  ],
  "capture_only": [
