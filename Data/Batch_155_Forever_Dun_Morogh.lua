@@ -15,7 +15,8 @@ NQ:AddQuests({
   t = "De lading van Flintfire",
   d = "Hoha! Fijn om een $r te zien die niet bang is voor vuile handen.$b$bZoek je werk? Dan moet ik je teleurstellen. Ik heb op dit moment niet veel voorraad. Onze beste bron van erts is overgenomen door wendigo's. Nu is de grot verlaten. De mijnwerkers moesten alles laten vallen toen ze vluchtten!$b$bZeg, waarom kijk je niet even rond in de Grizzled Den in het westen? Misschien vind je een paar van onze verloren ladingen. Dat zou ons veel moeite besparen.",
   o = "Verzamel 8 Flintfire Shipments in de Grizzled Den voor Tongus Flintfire in Kharanos.",
-  g = { {"lading", "shipment, load"}, {"vuile", "dirty (vuil)"}, {"teleurstellen", "to disappoint"}, {"voorraad", "supplies, stock"}, {"bron", "source"}, {"erts", "ore"}, {"overgenomen", "taken over (overnemen)"}, {"verlaten", "abandoned"}, {"mijnwerkers", "miners (mijnwerker)"}, {"vluchtten", "fled (vluchten)"}, {"moeite", "trouble, effort"}, {"besparen", "to save, spare"} },
+  p = "Wendigo's zijn gemene beesten. Gelukkig zijn alle mijnwerkers heelhuids uit de Grizzled Den gekomen!",
+  g = { {"lading", "shipment, load"}, {"vuile", "dirty (vuil)"}, {"teleurstellen", "to disappoint"}, {"voorraad", "supplies, stock"}, {"bron", "source"}, {"erts", "ore"}, {"overgenomen", "taken over (overnemen)"}, {"verlaten", "abandoned"}, {"mijnwerkers", "miners (mijnwerker)"}, {"vluchtten", "fled (vluchten)"}, {"moeite", "trouble, effort"}, {"besparen", "to save, spare"}, {"heelhuids", "in one piece, unharmed"} },
 },
 
 [98326] = { en = "Frosthowl", tier = 1,
@@ -52,7 +53,8 @@ NQ:AddQuests({
   t = "Verraderlijke kou",
   d = "Zelfs bergbeklimmers uit Ironforge moeten goed opletten in de toppen van Dun Morogh. Vallende sneeuw en ijs betekenen vaak het einde voor nieuwe, minder ervaren leden.$b$bNa een lawine zoek ik meestal naar overlevenden of slachtoffers. Ik bid dan tot het Light dat ik niets vind. Maar nu de elementen onrustig zijn, ga ik niet zo ver weg. Wil jij zoeken naar verdwaalde bergbeklimmers? Breng me hun geweren. Dan breng ik ze terug naar Ironforge.",
   o = "Verzamel de geweren van gevallen bergbeklimmers.",
-  g = { {"verraderlijke", "treacherous (verraderlijk)"}, {"kou", "cold"}, {"opletten", "to pay attention, keep one's wits"}, {"ervaren", "experienced"}, {"leden", "members (lid)"}, {"overlevenden", "survivors (overlevende)"}, {"slachtoffers", "victims (slachtoffer)"}, {"bid", "pray (bidden)"}, {"onrustig", "restless, unsettled"}, {"verdwaalde", "lost (verdwaald)"}, {"geweren", "rifles (geweer)"}, {"gevallen", "fallen"} },
+  c = "De bergbeklimmers zetten hun naam in de kolf van hun geweer. Zo weet je wie het was, als er iets gebeurt. Ik stuur deze terug naar Ironforge. Daar geeft iemand ze aan de familie.",
+  g = { {"verraderlijke", "treacherous (verraderlijk)"}, {"kou", "cold"}, {"opletten", "to pay attention, keep one's wits"}, {"ervaren", "experienced"}, {"leden", "members (lid)"}, {"overlevenden", "survivors (overlevende)"}, {"slachtoffers", "victims (slachtoffer)"}, {"bid", "pray (bidden)"}, {"onrustig", "restless, unsettled"}, {"verdwaalde", "lost (verdwaald)"}, {"geweren", "rifles (geweer)"}, {"gevallen", "fallen"}, {"kolf", "stock (of a rifle)"}, {"gebeurt", "happens (gebeuren)"} },
 },
 
 })
