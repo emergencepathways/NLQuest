@@ -78353,6 +78353,23 @@
 "words": 191,
 "zone": "Darkshore"
 },
+"96608": {
+"category": "forever",
+"dungeon": null,
+"en": {
+"Details": "Greetings, $c. I can see you've got the look of an adventurer about you. This is good. The world needs more of us restless souls, seeking fortune and glory.\n\nYou'll need to learn to thrive in the wilds to be successful in this line of work. Not sure how your outdoor skills are but I can probably teach you a thing or two, if you'd be apt to learn.\n\nHave a seat near the fire and get comfortable. I'll walk you through it.",
+"Objectives": "Sit near Eric's Basic Campfire and wait until you receive the Boosted Rest buff.",
+"Title": "The Great Outdoors"
+},
+"giver": "Eric Brighthammer",
+"level": 6,
+"min": null,
+"next": null,
+"prev": null,
+"side": "alliance",
+"words": 100,
+"zone": "Dun Morogh"
+},
 "9664": {
 "category": "zone",
 "dungeon": null,
@@ -78528,6 +78545,23 @@
 "side": "both",
 "words": 23,
 "zone": "Shaman"
+},
+"97277": {
+"category": "forever",
+"dungeon": null,
+"en": {
+"Details": "Oi, had me back turned gettin' the boar roast ready when I heard me pal Gozwin screamin' fer his life!\n\nWicked fangs and a blur are all I saw when I turned. Such huge paws! A snow leopard was draggin' its gnomish catch away. I grabbed me shotgun and fired above the beast. It dropped him and sprinted off.\n\nLuckily, it hadn't done more than give ol' Goz some deep scratches.\n\nHead back to camp in the northwestern hills and retrieve Gozwin's Mechanic's Log. Kill that snow leopard too if you see it!",
+"Objectives": "Find Grund and Gozwin's camp in the hills to the northwest. Recover Gozwin's Mechanic's Log and kill the Snow Leopard Prowler.",
+"Title": "Grund and Gozwin"
+},
+"giver": "Grund Drokda",
+"level": 4,
+"min": null,
+"next": null,
+"prev": null,
+"side": "alliance",
+"words": 117,
+"zone": "Anvilmar"
 },
 "973": {
 "category": "zone",
@@ -78755,6 +78789,23 @@
 "words": 202,
 "zone": "Darkshore"
 },
+"98322": {
+"category": "forever",
+"dungeon": null,
+"en": {
+"Details": "Spelunking dark caves is adventurer business. My job's just to make reports and send them over to Ironforge.\n\nTrouble is, one of my reports hasn't... well, reported back. I asked a few mountaineers to learn more about the wendigo problem we have out here, but I haven't heard from them.\n\nIf you're already going to be out and about, what say you check in with Mountaineer Gretchen just west of town. I'm late enough as it is!",
+"Objectives": "Check in on Mountaineer Gretchen west of Kharanos.",
+"Title": "Secure the Mountain"
+},
+"giver": "Senir Whitebeard",
+"level": 6,
+"min": null,
+"next": null,
+"prev": null,
+"side": "alliance",
+"words": 88,
+"zone": "Dun Morogh"
+},
 "984": {
 "category": "zone",
 "dungeon": null,
@@ -78793,6 +78844,24 @@
 "side": "alliance",
 "words": 194,
 "zone": "Darkshore"
+},
+"98581": {
+"category": "forever",
+"dungeon": null,
+"en": {
+"Details": "While you were helping me out, this rune was given to me to pass on to you. Take some time to read it when you have a chance. Based on the Wildhammer style to these inscriptions, I'm guessin' this came from the $c trainer Teo Hammerstorm. Take a gander at it and go find him inside Anvilmar when you've a chance.",
+"Objectives": "Read the Archaic Rune and speak to Teo Hammerstorm in Anvilmar.",
+"RequestItemsText": "Ah, you were able to read the rune? It is imbued with the power of elements from some of our oldest script. That shows that you have the makings of a $c.",
+"Title": "Archaic Rune"
+},
+"giver": "Sten Stoutarm",
+"level": 2,
+"min": null,
+"next": null,
+"prev": null,
+"side": "alliance",
+"words": 106,
+"zone": "Dun Morogh"
 },
 "986": {
 "category": "zone",
@@ -78867,6 +78936,23 @@
 "side": "alliance",
 "words": 129,
 "zone": "Ashenvale"
+},
+"99158": {
+"category": "forever",
+"dungeon": null,
+"en": {
+"Details": "There's a priest out in the mountains that belongs to an organization called the Argent Dawn. They're a holy group that is dedicated to finding and destroying the unholy and unnatural.\n\nFather Gavin though, he's mostly the type that seeks to help and heal everyone rather than grab a weapon. He's fixed up an old building to serve as a rest spot for travelers and called it Misty Pine Refuge. I've got a shipment of holy candles that I need to get him. Could you bring them to him if you're going that way?",
+"Objectives": "Bring the crate of candles to Father Gavin at Misty Pine Refuge.",
+"Title": "Dawn in the Mountains"
+},
+"giver": "Maxan Anvol",
+"level": 6,
+"min": null,
+"next": null,
+"prev": null,
+"side": "alliance",
+"words": 110,
+"zone": "Dun Morogh"
 },
 "992": {
 "category": "zone",
