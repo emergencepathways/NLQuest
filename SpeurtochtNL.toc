@@ -171,6 +171,7 @@ Data\Batch_95_Zone_19.lua
 Data\Batch_154_Forever_Dun_Morogh.lua
 Data\Batch_155_Forever_Dun_Morogh.lua
 Data\Batch_156_Forever_Dun_Morogh.lua
+Data\Batch_157_Forever_Loch_Modan.lua
 
 Display.lua
 Reader.lua

@@ -1,0 +1,110 @@
+-- Speurtocht.NL batch 157: Forever: Loch Modan + Stonetalon Mountains + The Barrens + Arathi Highlands + Westfall + Dun Morogh + Ironforge + Stormwind City
+-- Generated from batches/157-forever-loch-modan.json by tools/import_batch.py - edit the JSON, not this file.
+local _, NQ = ...
+
+NQ:AddQuests({
+
+[86667] = { en = "Snowbound", tier = 1,
+  t = "Ingesneeuwd",
+  d = "Mijn oude leermeester, Norric, stuurde een kleine elementaal met een vreemd verzoek. Hij heeft een pot sneeuw nodig voor zijn sjamanenwerk! Ik weet niet wat hij ermee gaat doen. Maar ik heb lang geleden geleerd dat je zijn manier van werken met magie niet in twijfel trekt.$b$bIk ben bezig om meer te leren over de elementalen hier, dus ik kan niet weg om hem te helpen. Ga naar de ingang van de tunnel bij South Gate Pass. Daar ligt het hele jaar sneeuw. Schep wat sneeuw in deze aardewerken pot en breng die naar hem voordat de sneeuw smelt. De pot houdt het koud.",
+  o = "Breng een Jar of Snow naar Norric Lochthane, in zijn huis aan de noordwestkust van het Loch.",
+  g = { {"ingesneeuwd", "snowed in (insneeuwen)"}, {"leermeester", "mentor, teacher"}, {"elementaal", "elemental"}, {"verzoek", "request"}, {"sjamanenwerk", "shaman's work (sjamaan + werk)"}, {"in twijfel trekt", "question, doubt (in twijfel trekken)"}, {"elementalen", "elementals (elementaal)"}, {"ingang", "entrance"}, {"schep", "scoop (scheppen)"}, {"aardewerken", "ceramic, earthenware (aardewerk)"}, {"smelt", "melts (smelten)"}, {"noordwestkust", "north-west coast"} },
+},
+
+[79008] = { en = "... and that note you found", tier = 1,
+  t = "... en dat briefje dat je vond",
+  c = "Je stuit op de resten van alweer een verkoold lijk. Dan valt je blik op een bericht dat aan een houten plank vastzit.",
+  g = { {"briefje", "note"}, {"stuit op", "stumble upon (stuiten op)"}, {"resten", "remains (rest)"}, {"alweer", "yet again"}, {"verkoold", "charred"}, {"lijk", "corpse"}, {"blik", "gaze, look"}, {"plank", "plank, board"}, {"vastzit", "is fastened (vastzitten)"} },
+},
+
+[79192] = { en = "Stepping Stones", tier = 1,
+  t = "Stapstenen",
+  d = "Het briefje begint zo: \"Mission zei dat ze allebei leveringen deden voor New Plague. Voor mij lijken het gewoon ongelukjes van apothekers. Zoek mijn knusse plekje in de bergen tussen The Barrens en Desolace als je veilig wilt praten.\"",
+  o = "Je scheurt het briefje van de plank en leest het slordige handschrift.",
+  g = { {"stapstenen", "stepping stones"}, {"leveringen", "deliveries (levering)"}, {"ongelukjes", "little accidents (ongeluk)"}, {"apothekers", "apothecaries (apotheker)"}, {"knusse", "cosy (knus)"}, {"plekje", "spot, little place"}, {"scheurt", "tear (scheuren)"}, {"slordige", "scrawled, sloppy (slordig)"}, {"handschrift", "handwriting"} },
+},
+
+[79974] = { en = "Wet Job", tier = 1,
+  t = "Nat werk",
+  d = "\"Ik heb altijd graag een reservevoorraad in de buurt, voor het geval dat ik snel moet vluchten.$b$bDe wand van deze berghelling is zo mooi. Je zou zeggen dat de watervallen van de tijd hem hebben uitgesneden.$bDat is het adelaarsnest, dat is wat je zoekt.\"",
+  o = "Je veegt het stof van een koeriertas die uit de grond komt. Tussen de spullen vind je een stuk perkament.",
+  c = "Dwergentechniek, altijd een wonder.",
+  g = { {"reservevoorraad", "reserve stash, supply"}, {"voor het geval dat", "in case"}, {"vluchten", "to flee"}, {"wand", "face, wall"}, {"berghelling", "mountainside"}, {"uitgesneden", "carved (uitsnijden)"}, {"adelaarsnest", "eagle's nest"}, {"veegt", "wipe, sweep (vegen)"}, {"koeriertas", "messenger bag"}, {"perkament", "parchment"}, {"dwergentechniek", "dwarven engineering"} },
+},
+
+[79980] = { en = "Scramble", tier = 1,
+  t = "Klauteren",
+  d = "\"Niet zo slecht, hè? Je leest dit, dus mijn voorraad is er nog. Loop honderd passen recht naar het noorden. En breek je enkels niet als je de steile rotswand afdaalt. Er zou genoeg moeten zijn om verder te kunnen.\"",
+  o = "Ontdek wat er op je wacht.",
+  g = { {"klauteren", "to scramble, clamber"}, {"voorraad", "stash, supply"}, {"passen", "paces, steps (pas)"}, {"recht", "straight, due"}, {"enkels", "ankles (enkel)"}, {"steile", "steep (steil)"}, {"rotswand", "cliffside, rock face"}, {"afdaalt", "go down (afdalen)"}, {"wacht", "awaits (wachten)"} },
+},
+
+[79975] = { en = "Eagle's Fist", tier = 1,
+  t = "Eagle's Fist",
+  d = "<Je vindt een zorgvuldig opgevouwen brief in de gereedschapskist.>$b$b\"Van hieruit, met het juiste gereedschap, bepaal jij wat er gebeurt. Een goede plek om een parachutezweeftoestel te lanceren.$b$bIk ben trouw aan de Eagle and Fist. Om ze zo goed mogelijk te dienen, moet ik afstand houden. Deze barricade heeft betere dagen gekend, net als de Old Kingdoms die hij ooit verdedigde. Maar ik zal hem nooit in de steek laten.\"",
+  o = "Waterdruppels maken de lucht vochtig. Het uitzicht is ongelooflijk.",
+  c = "Een kampvuur heeft net nieuw hout gekregen. Maar je ziet duidelijk dat iemand snel is vertrokken.",
+  g = { {"zorgvuldig", "carefully"}, {"opgevouwen", "folded (opvouwen)"}, {"gereedschapskist", "toolbox"}, {"bepaal", "decide (bepalen)"}, {"parachutezweeftoestel", "parachute glider (parachute + zweeftoestel)"}, {"lanceren", "to launch"}, {"trouw", "loyal"}, {"dienen", "to serve"}, {"afstand", "distance"}, {"verdedigde", "defended (verdedigen)"}, {"in de steek laten", "to abandon, let down"}, {"vochtig", "damp, moist"}, {"uitzicht", "view"}, {"vertrokken", "left, departed (vertrekken)"} },
+},
+
+[79976] = { en = "This Must Be The Place", tier = 1,
+  t = "Hier moet het zijn",
+  d = "\"Ik heb besloten om mijn werk weer onder de grond te doen. Zodat het niet in de verkeerde handen valt.\"$b$b<Het papier is net groot genoeg afgescheurd voor het bericht. Je weet niet zeker of dit de laatste woorden zijn die je van de schrijver leest. Of zijn ze een aanwijzing voor de volgende schuilplaats? Een slaapzak die slecht is vastgemaakt, rolt zichzelf uit over je voeten...>",
+  o = "Wie hier ook was, je hebt ze net gemist.",
+  c = "Er is zwaar canvas over allerlei spullen gerold. Je neemt de bepakking zelf mee.",
+  g = { {"besloten", "decided (besluiten)"}, {"verkeerde", "wrong (verkeerd)"}, {"afgescheurd", "torn off (afscheuren)"}, {"aanwijzing", "clue"}, {"schuilplaats", "hideout"}, {"slaapzak", "sleeping bag"}, {"vastgemaakt", "secured, fastened (vastmaken)"}, {"rolt zichzelf uit", "unrolls itself (uitrollen)"}, {"gemist", "missed (missen)"}, {"canvas", "canvas"}, {"allerlei", "all sorts of"}, {"bepakking", "pack, gear"} },
+},
+
+[92742] = { en = "Testing the Wells", tier = 1,
+  t = "De putten testen",
+  d = "We moeten ontdekken waar het gif vandaan komt dat dit land bederft, en wat voor gif het is. Laten we beginnen met het grondwater onder de boerderijen in de buurt.$b$bGa naar de Jansen Stead in het noorden en naar de Molsen Farm ten noordwesten van hier. Neem daar monsters uit de putten.",
+  o = "Gebruik de Well Water Sample Kit om monsters te nemen uit de putten bij de Jansen Stead en de Molsen Farm.",
+  g = { {"putten", "wells (put)"}, {"ontdekken", "to discover, find out"}, {"gif", "poison"}, {"bederft", "corrupts, spoils (bederven)"}, {"grondwater", "groundwater"}, {"boerderijen", "farms (boerderij)"}, {"ten noordwesten van", "northwest of"}, {"monsters", "samples (monster)"} },
+},
+
+[92744] = { en = "Murloc Gills", tier = 1,
+  t = "Murlockieuwen",
+  d = "De besmetting die de oogst van Westfall aantast, is misschien ook in de oceaan terechtgekomen. Als de vissen hier ook ziek zijn, kan dat voor Stormwind hongersnood betekenen.$bVerzamel kieuwen van de murlocs langs de kust en breng ze naar mij. Murlocs zijn heel sterk, maar hun lichaam is erg gevoelig voor vervuiling. Als er gif in het zeewater zit, zie je dat meteen aan de kieuwen die je vindt.",
+  o = "Alba Fairmoon wil dat je 7 Longshore Murloc Gills verzamelt langs de kust van Westfall.",
+  g = { {"kieuwen", "gills (kieuw)"}, {"besmetting", "corruption, contamination"}, {"oogst", "crops, harvest"}, {"aantast", "affects, damages (aantasten)"}, {"terechtgekomen", "ended up (terechtkomen)"}, {"hongersnood", "famine"}, {"kust", "coast, shoreline"}, {"gevoelig", "sensitive"}, {"vervuiling", "pollution, contaminants"}, {"zeewater", "seawater"} },
+},
+
+[92909] = { en = "Harvesting the Harvesters", tier = 1,
+  t = "De oogstmachines oogsten",
+  d = "O nee... Nu zit ik in de problemen!$b$bIk hoorde over de oogstmachines die de velden van Westfall terroriseren. Daarom ben ik helemaal uit Ironforge gekomen. Ik wilde kijken of ik ze opnieuw kon afstellen. Maar ze zijn veel agressiever dan mijn berekeningen voorspelden. Ze hebben me deze stal in gejaagd!$b$bAls ik wat isoveren en gyrostabilisatoren van de oogstmachines had, kon ik een apparaat bouwen om veilig te ontsnappen. Kun jij de onderdelen voor me verzamelen?",
+  o = "Ozwin Ironsprocket bij Saldean's Farm wil dat je hem 14 Golem Isosprings en 5 Harvester Gyrostabilizers brengt.",
+  g = { {"oogstmachines", "harvesters (oogstmachine)"}, {"oogsten", "to harvest"}, {"in de problemen", "in trouble"}, {"terroriseren", "to terrorise"}, {"afstellen", "to adjust, calibrate"}, {"agressiever", "more aggressive (agressief)"}, {"berekeningen", "calculations (berekening)"}, {"voorspelden", "predicted (voorspellen)"}, {"stal", "stable"}, {"gejaagd", "chased (jagen)"}, {"isoveren", "isosprings (iso + veer)"}, {"gyrostabilisatoren", "gyrostabilizers (gyrostabilisator)"}, {"apparaat", "device"}, {"ontsnappen", "to escape"}, {"onderdelen", "parts (onderdeel)"} },
+},
+
+[96391] = { en = "Underground Map", tier = 1,
+  t = "Ondergrondse kaart",
+  d = "De kaart in je hand lijkt een ingewikkeld netwerk van ondergrondse tunnels en wegen te tonen. Ze lijken allemaal samen te komen op één punt, precies onder Ironforge zelf.$b$bJe weet niet zeker wat de runen zeggen. Ze zijn geschreven in de lelijke, puntige runentaal van de Dark Iron-dwergen. Maar je kunt raden waar deze tunnels voor zijn. Terwijl je de kaart leest, waait er een windvlaag over je heen. Heel zacht hoor je een dwergenstem die de wind met zich meedraagt. Earthseer Farsen moet dit zien.",
+  o = "Breng de Dark Iron Map naar Earthseer Farsen in Dun Morogh.",
+  c = "Als ik deze kaart zo zie, lijkt het er echt op dat deze Dark Irons een soort inval plannen in de gewelven onder Ironforge. De groep die je in het oosten hebt verslagen, was vast een verkenningsgroep.$b$bBedankt dat je dit naar me hebt gebracht. Als we opschieten, zijn we misschien eerder bij hun doel daar beneden dan zij.",
+  g = { {"ondergrondse", "underground (ondergronds)"}, {"ingewikkeld", "complex"}, {"samen te komen", "to converge (samenkomen)"}, {"runen", "runes (rune)"}, {"puntige", "jagged, pointy (puntig)"}, {"raden", "to guess"}, {"windvlaag", "gust of wind"}, {"dwergenstem", "dwarven voice"}, {"meedraagt", "carries along (meedragen)"}, {"inval", "incursion, raid"}, {"gewelven", "vaults (gewelf)"}, {"verslagen", "defeated (verslaan)"}, {"verkenningsgroep", "scouting force"}, {"opschieten", "to hurry"} },
+},
+
+[96394] = { en = "The Restless Dead", tier = 1,
+  t = "De rusteloze doden",
+  d = "Iets heeft de graven beneden in de Hall of Thanes verstoord. En diep uit de gewelven komen vreemde geluiden. De geesten van de doden slapen licht. Wat daar beneden ook gebeurt, ze lijken ervan te zijn geschrokken.$b$bGa naar beneden en kijk wat je er voor ons aan kunt doen. Als er doden wakker zijn... nou, leg ze dan maar weer neer!",
+  o = "Dood 15 Enraged Apparitions en 10 Tormented Souls, en breng de geest van Anvilmar tot rust.",
+  g = { {"rusteloze", "restless (rusteloos)"}, {"graven", "tombs, graves (graf)"}, {"verstoord", "disturbed (verstoren)"}, {"gewelven", "vaults (gewelf)"}, {"geluiden", "noises (geluid)"}, {"geesten", "spirits (geest)"}, {"geschrokken", "startled (schrikken)"}, {"tot rust", "to rest"}, {"leg ze dan maar weer neer", "put them back down (neerleggen)"} },
+},
+
+[97894] = { en = "Business in Auberdine", tier = 1,
+  t = "Zaken in Auberdine",
+  d = "Leuk je te ontmoeten! Ik heet Borgus, van de enige echte familie Steelhand. Op een Steelhand kun je altijd rekenen voor een eerlijke prijs!$b$bEen paar weken geleden ging mijn broer Gorbold aan de slag bij een handelskraam in Auberdine. Daar valt flink wat geld te verdienen met het bevoorraden van schepen, dat kan ik je wel vertellen! Die geluksvogel.$b$bSindsdien heb ik niks meer van hem gehoord. Wil je even bij hem kijken als je die kant op gaat?$b$bEr ligt een nieuw schip in de haven dat je er meteen heen brengt. Ga naar de meest zuidelijke steiger. Je kunt hem niet missen!",
+  o = "Ga kijken hoe het met Gorbold Steelhand gaat, in Auberdine in Darkshore.$b$bBorgus zei dat er een boot ligt bij de meest zuidelijke steiger in Stormwind Harbor. Die kan je erheen brengen.",
+  g = { {"zaken", "business (zaak)"}, {"enige echte", "one and only"}, {"aan de slag", "to start working"}, {"handelskraam", "merchant stall"}, {"flink wat", "plenty of"}, {"bevoorraden", "to supply"}, {"geluksvogel", "lucky so-and-so"}, {"sindsdien", "since then"}, {"haven", "harbour"}, {"zuidelijke", "southern (zuidelijk)"}, {"steiger", "dock, pier"}, {"kun je altijd rekenen", "you can always count (rekenen op)"} },
+},
+
+})
+
+NQ:AddWords({
+    ["barricade"] = "barricade",
+    ["gerold"] = "rolled (rollen)",
+    ["murlockieuwen"] = "murloc gills (murloc + kieuw)",
+    ["rolt"] = "rolls (rollen)",
+    ["runentaal"] = "rune language (rune + taal)",
+    ["stuit"] = "stumble (stuiten op)",
+})
