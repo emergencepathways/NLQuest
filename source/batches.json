@@ -5472,6 +5472,27 @@
    "name": "Forever: Dun Morogh + Ironforge",
    "n": 156,
    "slug": "156-forever-dun-morogh"
+  },
+  {
+   "quests": [
+    86667,
+    79975,
+    79974,
+    79980,
+    79008,
+    79192,
+    79976,
+    92742,
+    92744,
+    92909,
+    96391,
+    96394,
+    97894
+   ],
+   "words": 1096,
+   "name": "Forever: Loch Modan + Stonetalon Mountains + The Barrens + Arathi Highlands + Westfall + Dun Morogh + Ironforge + Stormwind City",
+   "n": 157,
+   "slug": "157-forever-loch-modan"
   }
  ],
  "capture_only": [

@@ -55402,6 +55402,22 @@
 "words": 90,
 "zone": "Darkmoon Faire"
 },
+"79008": {
+"category": "forever",
+"dungeon": null,
+"en": {
+"OfferRewardText": "As you stumble upon the remnants of yet another charred corpse, your gaze falls upon a message secured to a wooden plank.",
+"Title": "... and that note you found"
+},
+"giver": null,
+"level": 14,
+"min": null,
+"next": null,
+"prev": null,
+"side": "alliance",
+"words": 28,
+"zone": "The Barrens"
+},
 "7901": {
 "category": "other",
 "dungeon": null,
@@ -55509,6 +55525,23 @@
 "side": "horde",
 "words": 194,
 "zone": "Durotar"
+},
+"79192": {
+"category": "forever",
+"dungeon": null,
+"en": {
+"Details": "The note begins, \"Mission said they were both making deliveries for New Plague. Looks like simple apothecary accidents to me. Find my cozy spot in the mountains between The Barrens and Desolace if you want a safe place to talk.\"",
+"Objectives": "You tear the note from the plank and read the scrawled writing.",
+"Title": "Stepping Stones"
+},
+"giver": null,
+"level": 14,
+"min": null,
+"next": null,
+"prev": null,
+"side": "alliance",
+"words": 54,
+"zone": "The Barrens"
 },
 "792": {
 "category": "zone",
@@ -56063,6 +56096,77 @@
 "side": "alliance",
 "words": 91,
 "zone": "Darkmoon Faire"
+},
+"79974": {
+"category": "forever",
+"dungeon": null,
+"en": {
+"Details": "\"Always like to keep a reserve stash nearby in the off chance I've got to flee in a hurry.\n\nThe face of this mountainside is so beautiful you might say it was carved from the waterfalls of time.\nThat's the eagles nest, that's what you're looking for.\"",
+"Objectives": "Dusting off a messenger bag emerging from the soil, you find a parchment nestled among the supplies.",
+"OfferRewardText": "Dwarven Engineering, always a marvel.",
+"Title": "Wet Job"
+},
+"giver": null,
+"level": 14,
+"min": null,
+"next": null,
+"prev": null,
+"side": "alliance",
+"words": 71,
+"zone": "Stonetalon Mountains"
+},
+"79975": {
+"category": "forever",
+"dungeon": null,
+"en": {
+"Details": "<You find a carefully folded letter inside of the toolbox.>\n\n\"From here, with the right tools, you call the shots. Great place to launch a parachute glider.\n\nMy loyalty to the Eagle and Fist requires distance in order to serve them best. This barricade has had better days, like the Old Kingdoms it once defended, but I'll never abandon it.\"",
+"Objectives": "Water spray dampens the air, the view is incredible.",
+"OfferRewardText": "A campfire is newly fed with wood, but signs of a quick departure are evident.",
+"Title": "Eagle's Fist"
+},
+"giver": null,
+"level": 15,
+"min": null,
+"next": null,
+"prev": null,
+"side": "alliance",
+"words": 86,
+"zone": "Loch Modan"
+},
+"79976": {
+"category": "forever",
+"dungeon": null,
+"en": {
+"Details": "\"So, I've decided to take my work back underground. To stop it falling into the wrong hands.\"\n\n<The paper is torn just large enough to fit the message. You aren't sure if these are the last words you'll read from the author, or if they're a clue to the next hideout. An inadequately secured sleeping bag is unrolling itself onto your feet...>",
+"Objectives": "Whoever was here, you just missed them.",
+"OfferRewardText": "Heavy canvas is rolled over assorted equipment. You help yourself to the pack.",
+"Title": "This Must Be The Place"
+},
+"giver": null,
+"level": 15,
+"min": null,
+"next": null,
+"prev": null,
+"side": "alliance",
+"words": 87,
+"zone": "Arathi Highlands"
+},
+"79980": {
+"category": "forever",
+"dungeon": null,
+"en": {
+"Details": "\"Not so bad, eh? Since you're reading this, it means my stash is still there. Take a hundred paces due north and don't break your ankles going down the steep cliffside. There should be enough to keep you going.\"",
+"Objectives": "Find what awaits you.",
+"Title": "Scramble"
+},
+"giver": null,
+"level": 14,
+"min": null,
+"next": null,
+"prev": null,
+"side": "alliance",
+"words": 44,
+"zone": "Stonetalon Mountains"
 },
 "8": {
 "category": "zone",
@@ -66232,6 +66336,23 @@
 "side": "both",
 "words": 213,
 "zone": "Ahn'Qiraj"
+},
+"86667": {
+"category": "forever",
+"dungeon": null,
+"en": {
+"Details": "My old mentor, Norric, sent a minor elemental with an odd request. He needs a jar of snow for some of his shamanic workings! I don't know what he's going to do with that, but I learned a long time ago not to question his ways with respect to magic.\n\nI'm busy learning about the local elementals, so I can't leave to help him. Go to the tunnel entrance at South Gate Pass where there's snow year-round. Scoop some up in this ceramic jar and bring it to him before it melts. The jar should keep it cold.",
+"Objectives": "Deliver a Jar of Snow to Norric Lochthane at his house on the northwest coast of the Loch.",
+"Title": "Snowbound"
+},
+"giver": "Grenhild Darktalon",
+"level": 12,
+"min": null,
+"next": null,
+"prev": null,
+"side": "alliance",
+"words": 117,
+"zone": "Loch Modan"
 },
 "8667": {
 "category": "dungeon",
@@ -76916,6 +77037,40 @@
 "words": 60,
 "zone": "Stranglethorn Vale"
 },
+"92742": {
+"category": "forever",
+"dungeon": null,
+"en": {
+"Details": "We must determine the source and nature of the poison corrupting this land. Let us begin with the groundwater under the farms in the area.\n\nGo to the Jansen Stead in the north and the Molsen Farm northwest of here, and collect samples from the wells there.",
+"Objectives": "Use the Well Water Sample Kit to collect samples from the wells at the Jansen Stead and the Molsen Farm.",
+"Title": "Testing the Wells"
+},
+"giver": "Alba Fairmoon",
+"level": 15,
+"min": null,
+"next": null,
+"prev": null,
+"side": "alliance",
+"words": 70,
+"zone": "Westfall"
+},
+"92744": {
+"category": "forever",
+"dungeon": null,
+"en": {
+"Details": "The corruption affecting Westfall's crops may have seeped into the ocean as well. If the local fish are affected too, it could doom Stormwind to famine.\nCollect gills from the murlocs along the shoreline and bring them to me. Murlocs are quite hardy, but their physiology is extremely sensitive to contaminants. Any toxins in the seawater will be readily apparent in the gills you find.",
+"Objectives": "Alba Fairmoon wants you to collect 7 Longshore Murloc Gills along the shoreline of Westfall.",
+"Title": "Murloc Gills"
+},
+"giver": "Alba Fairmoon",
+"level": 15,
+"min": null,
+"next": null,
+"prev": null,
+"side": "alliance",
+"words": 82,
+"zone": "Westfall"
+},
 "928": {
 "category": "zone",
 "dungeon": null,
@@ -76953,6 +77108,23 @@
 "side": "alliance",
 "words": 159,
 "zone": "Teldrassil"
+},
+"92909": {
+"category": "forever",
+"dungeon": null,
+"en": {
+"Details": "Oh no... I'm in for it now!\n\nI heard about the harvesters terrorizing the fields of Westfall, so I traveled all the way from Ironforge to see if I could recalibrate them. But they're far more aggressive than my calculations anticipated, and they chased me into this stable!\n\nIf I had some isosprings and gyrostabilizers from the harvesters, I could build a device to cover my escape. Could you gather the parts for me?",
+"Objectives": "Ozwin Ironsprocket at Saldean's Farm wants you to bring him 14 Golem Isosprings and 5 Harvester Gyrostabilizers.",
+"Title": "Harvesting the Harvesters"
+},
+"giver": "Ozwin Ironsprocket",
+"level": 15,
+"min": null,
+"next": null,
+"prev": null,
+"side": "alliance",
+"words": 94,
+"zone": "Westfall"
 },
 "9292": {
 "category": "other",
@@ -78433,6 +78605,41 @@
 "words": 60,
 "zone": "Dun Morogh"
 },
+"96391": {
+"category": "forever",
+"dungeon": null,
+"en": {
+"Details": "The map you are holding seems to show a complex series of underground tunnels and highways that all seem to converge on a point underneath Ironforge itself.\n\nYou can't be sure what the runes say as they are written in the ugly jagged rune language of the Dark Iron dwarves, but you can guess at the purpose of these tunnels. As you are reading the map, a gust of wind washes over you and you can faintly hear a dwarven voice carried on it. Earthseer Farsen needs to see this.",
+"Objectives": "Deliver the Dark Iron Map to Earthseer Farsen in Dun Morogh.",
+"OfferRewardText": "Judging by this map, it certainly looks like these Dark Irons are planning some sort of incursion into the vaults beneath Ironforge. The band ye busted up to the east must be a scouting force.\n\nThank ye for bringing me this. If we hurry, we might be able to beat them to whatever their goal is down there.",
+"Title": "Underground Map"
+},
+"giver": "Earthseer Farsen",
+"level": 16,
+"min": null,
+"next": null,
+"prev": null,
+"side": "alliance",
+"words": 161,
+"zone": "Dun Morogh"
+},
+"96394": {
+"category": "forever",
+"dungeon": null,
+"en": {
+"Details": "Something has disturbed the tombs down in the Hall of Thanes, and strange noises have been heard coming from deep within the vaults. The spirits of the dead are light sleepers, and whatever is going on down there seems to have startled them.\n\nHead down there and see what you can do about that for us. If any of the dead are awake--well, put them back down!",
+"Objectives": "Kill 15 Enraged Apparitions, 10 Tormented Souls and put the spirit of Anvilmar to rest.",
+"Title": "The Restless Dead"
+},
+"giver": "Afadra Dunwall",
+"level": 17,
+"min": null,
+"next": null,
+"prev": null,
+"side": "alliance",
+"words": 85,
+"zone": "Ironforge"
+},
 "964": {
 "category": "zone",
 "dungeon": null,
@@ -78849,6 +79056,23 @@
 "side": "alliance",
 "words": 129,
 "zone": "zone 702"
+},
+"97894": {
+"category": "forever",
+"dungeon": null,
+"en": {
+"Details": "Pleasure to make yer acquaintance! Name's Borgus, of the one and only Steelhand family. You can always count on a Steelhand fer a fair deal!\n\nA few weeks back me brother Gorbold joined up with a merchant stall in Auberdine. Plenty of coin to be made supplyin' ships there, let me tell you! Lucky sod.\n\nI haven't heard from him since--mind checking on him if yer heading that way?\n\nThere's a new ship in the harbor that will take ye straight there. Head to the southern-most dock; can't miss it!",
+"Objectives": "Check on Gorbold Steelhand in Auberdine in Darkshore.\n\nBorgus mentioned a boat on the southern-most dock in Stormwind Harbor that can take you there.",
+"Title": "Business in Auberdine"
+},
+"giver": "Borgus Steelhand",
+"level": 19,
+"min": null,
+"next": null,
+"prev": null,
+"side": "alliance",
+"words": 117,
+"zone": "Stormwind City"
 },
 "979": {
 "category": "zone",
