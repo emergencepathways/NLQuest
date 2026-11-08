@@ -1,6 +1,7 @@
 # Changelog
 
 ## Unreleased
+- Batch 157: WoW Forever quests reported after launch, Dwarf Shaman level 12-19: Snowbound for Norric Lochthane, the hidden-stash note trail (... and that note you found, Stepping Stones, Wet Job, Scramble, Eagle's Fist, This Must Be The Place), Alba Fairmoon's Testing the Wells and Murloc Gills, Harvesting the Harvesters in Westfall, Underground Map, The Restless Dead and Business in Auberdine (13 quests, 4267 in total).
 
 ## 0.3.2 — 2026-11-05
 First WoW Forever update: 22 new Forever quests from the Dwarf Shaman start in Dun Morogh and Ironforge, reported by players after launch.
